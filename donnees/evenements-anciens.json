@@ -1,0 +1,1037 @@
+[
+  {
+    "id": "arrivee-des-anciens",
+    "annee": -6000,
+    "fin": null,
+    "approx": true,
+    "titre": "Arrivée des Anciens et naissance des Hommes-lézards",
+    "resume": "Venus du vide à bord de vaisseaux d'argent, les Anciens s'installent sur le monde et y engendrent les Slanns, puis les Saurus, les Skinks et les Kroxigors pour les servir. Ils remodèlent les continents, réchauffent le climat et façonnent les jeunes races, dont les Elfes, les Nains et les Hommes. Tout l'ordre du monde, et le Grand Plan que les Slanns s'efforceront plus tard d'accomplir, découle de cette ère.",
+    "ere": "anciens",
+    "regions": [
+      "lustrie"
+    ],
+    "factions": [
+      "hommes-lezards"
+    ],
+    "importance": 3,
+    "fiabilite": "incertain",
+    "note": "Date symbolique. Les sources ne donnent qu'une fourchette très large (environ -15 000 à -5600 CI) pour l'âge de la Création. L'année -6000 sert seulement à placer l'événement au début de l'ère.",
+    "sources": [
+      {
+        "titre": "Warhammer Armies: Lizardmen (5e édition)",
+        "detail": "p. 67-68, citée par le wiki Warhammer Fantasy",
+        "url": ""
+      },
+      {
+        "titre": "Wiki Warhammer Fantasy (fandom), page Timeline of the Warhammer World",
+        "detail": "section Age of Creation",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Timeline_of_the_Warhammer_World"
+      },
+      {
+        "titre": "Bibliothèque Impériale, page Chronique des Hommes-Lézards",
+        "detail": "d'après le Livre d'Armée Hommes-Lézards V6 et V7",
+        "url": "https://www.bibliotheque-imperiale.com/index.php/Chronique_des_Hommes-L%C3%A9zards"
+      }
+    ]
+  },
+  {
+    "id": "effondrement-portails-polaires",
+    "annee": -5600,
+    "fin": null,
+    "approx": true,
+    "titre": "Effondrement des portails polaires",
+    "resume": "Les grands portails que les Anciens avaient ouverts aux pôles s'effondrent et libèrent dans le monde un flot de magie brute venu du Royaume du Chaos. Les Anciens disparaissent et les démons, nourris par cette magie, peuvent désormais rester sur le plan matériel. C'est le début de la Grande Catastrophe, la première et la plus terrible des invasions du Chaos.",
+    "ere": "grande-catastrophe",
+    "regions": [
+      "desolations",
+      "lustrie"
+    ],
+    "factions": [
+      "chaos",
+      "hommes-lezards"
+    ],
+    "importance": 3,
+    "fiabilite": "divergent",
+    "note": "Le livre des Hommes-lézards (8e édition) place l'effondrement vers -5600 CI. Le livre des Guerriers du Chaos (8e édition) et la chronologie naine donnent -4500 CI pour l'arrivée du Chaos, et le Grand Livre des Rancunes, cité par le wiki fandom, évoque -5500 CI. L'ère est attribuée d'après l'année retenue (-5600), mais l'événement ouvre en réalité la Grande Catastrophe.",
+    "sources": [
+      {
+        "titre": "Warhammer Armies: Lizardmen (8e édition, 2013)",
+        "detail": "p. 26-27",
+        "url": ""
+      },
+      {
+        "titre": "Warhammer Armies: Warriors of Chaos (8e édition, 2013)",
+        "detail": "p. 14-15",
+        "url": ""
+      },
+      {
+        "titre": "Wiki Warhammer Fantasy (fandom), page Great Catastrophe",
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Great_Catastrophe"
+      },
+      {
+        "titre": "Bibliothèque Impériale, page Chronique des Hommes-Lézards",
+        "detail": "date de -5600",
+        "url": "https://www.bibliotheque-imperiale.com/index.php/Chronique_des_Hommes-L%C3%A9zards"
+      }
+    ]
+  },
+  {
+    "id": "nains-montagnes-bord-du-monde",
+    "annee": -5500,
+    "fin": null,
+    "approx": true,
+    "titre": "Les Dieux Ancêtres guident les Nains vers le nord",
+    "resume": "Selon les légendes naines, les premiers clans quittent le sud des Montagnes du Bord du Monde et remontent vers le nord sous la conduite de leurs Dieux Ancêtres. Grungni leur enseigne la mine et la forge, Valaya les runes protectrices et Grimnir les défend contre les monstres. Ces enseignements fondent la culture naine, et c'est dans ces montagnes que naîtra Karaz-a-Karak.",
+    "ere": "grande-catastrophe",
+    "regions": [
+      "montagnes"
+    ],
+    "factions": [
+      "nains"
+    ],
+    "importance": 2,
+    "fiabilite": "divergent",
+    "note": "Aucune archive naine ne date de cette époque, la date vient de la tradition orale. Les chroniques des Hommes-lézards situent ces mêmes événements vers -5000 CI. La Bibliothèque Impériale place la fondation de Karaz-a-Karak, avec les piliers bénis par Valaya, en -4523 CI.",
+    "sources": [
+      {
+        "titre": "Warhammer Armies: Dwarfs (8e édition, 2013)",
+        "detail": "p. 20-21",
+        "url": ""
+      },
+      {
+        "titre": "Warhammer Armies: Lizardmen (8e édition, 2013)",
+        "detail": "p. 26-27",
+        "url": ""
+      },
+      {
+        "titre": "Bibliothèque Impériale, page Chronologie Naine",
+        "detail": "entrées env. -5500 et -4523",
+        "url": "https://www.bibliotheque-imperiale.com/index.php/Chronologie_Naine"
+      }
+    ]
+  },
+  {
+    "id": "aenarion-roi-phenix",
+    "annee": -4500,
+    "fin": null,
+    "approx": true,
+    "titre": "Aenarion traverse la Flamme d'Asuryan",
+    "resume": "Alors qu'Ulthuan est submergée par les démons, le guerrier Aenarion se jette dans la Flamme sacrée d'Asuryan et en ressort vivant, élu du dieu. Premier Roi Phénix, il mène les Elfes dans une guerre désespérée contre le Chaos. Son règne fonde la monarchie des Hauts Elfes et sa lignée, par Morathi et leur fils Malekith, portera la future Déchirure.",
+    "ere": "grande-catastrophe",
+    "regions": [
+      "ulthuan"
+    ],
+    "factions": [
+      "hauts-elfes",
+      "chaos"
+    ],
+    "importance": 3,
+    "fiabilite": "etabli",
+    "note": "Les Hauts Elfes datent leurs annales selon les règnes des Rois Phénix (Livre des Jours). La conversion en CI est celle des compilateurs, qui fixent la fin du règne d'Aenarion en -4419 CI. Malekith naît vers -4458 CI.",
+    "sources": [
+      {
+        "titre": "Warhammer Armies: Warriors of Chaos (8e édition, 2013)",
+        "detail": "p. 14",
+        "url": ""
+      },
+      {
+        "titre": "Warhammer Armies: Lizardmen (8e édition, 2013)",
+        "detail": "p. 26-27",
+        "url": ""
+      },
+      {
+        "titre": "Wiki Warhammer Fantasy (fandom), page Aenarion",
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Aenarion"
+      }
+    ]
+  },
+  {
+    "id": "siege-d-itza-kroak",
+    "annee": -4450,
+    "fin": null,
+    "approx": true,
+    "titre": "Le Seigneur Kroak brise le siège d'Itza",
+    "resume": "Assiégée par les démons depuis plus de quatre siècles, la cité-temple d'Itza est sur le point de tomber. Le Prêtre-Mage Kroak meurt au combat, mais sa volonté est si puissante que son esprit achève un dernier sort qui bannit les démons. Itza est sauvée et Kroak devient une momie vénérée qui combat encore pour les Hommes-lézards.",
+    "ere": "grande-catastrophe",
+    "regions": [
+      "lustrie"
+    ],
+    "factions": [
+      "hommes-lezards",
+      "chaos"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": "Warhammer Armies: Lizardmen (8e édition, 2013)",
+        "detail": "p. 26-27",
+        "url": ""
+      },
+      {
+        "titre": "Wiki Warhammer Fantasy (fandom), page Timeline of the Warhammer World",
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Timeline_of_the_Warhammer_World"
+      },
+      {
+        "titre": "Bibliothèque Impériale, page Seigneur Kroak",
+        "detail": "",
+        "url": "https://www.bibliotheque-imperiale.com/index.php/Seigneur_Kroak"
+      }
+    ]
+  },
+  {
+    "id": "creation-grand-vortex",
+    "annee": -4420,
+    "fin": null,
+    "approx": false,
+    "titre": "Caledor Dompteur de Dragons crée le Grand Vortex",
+    "resume": "Sur l'Île des Morts, le mage Caledor et ses compagnons accomplissent un rituel qui crée un immense tourbillon aspirant l'excès de magie du monde. Privés de cette énergie, les démons sont renvoyés dans le Royaume du Chaos, qui se replie aux pôles. Les mages restent prisonniers du Vortex pour l'éternité, et l'équilibre magique du monde dépend depuis de son maintien. Chez les Nains, la tradition rapporte qu'à la même époque Grimnir part dans les Désolations du Chaos pour ne jamais revenir.",
+    "ere": "grande-catastrophe",
+    "regions": [
+      "ulthuan",
+      "desolations"
+    ],
+    "factions": [
+      "hauts-elfes",
+      "chaos",
+      "nains"
+    ],
+    "importance": 3,
+    "fiabilite": "divergent",
+    "note": "La plupart des sources donnent -4420 CI. La chronique des Hommes-lézards résumée par la Bibliothèque Impériale (Livre d'Armée Hommes-Lézards V7) date le rituel de -4500 CI. Date elfique convertie par les compilateurs à partir du Livre des Jours.",
+    "sources": [
+      {
+        "titre": "Warhammer Armies: Warriors of Chaos (8e édition, 2013)",
+        "detail": "p. 14-15",
+        "url": ""
+      },
+      {
+        "titre": "Warhammer Armies: Lizardmen (8e édition, 2013)",
+        "detail": "p. 26-27",
+        "url": ""
+      },
+      {
+        "titre": "Wiki Warhammer Fantasy (fandom), page Great Vortex",
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Great_Vortex"
+      },
+      {
+        "titre": "Bibliothèque Impériale, page Chronologie Naine",
+        "detail": "entrée -4420 (disparition de Grimnir)",
+        "url": "https://www.bibliotheque-imperiale.com/index.php/Chronologie_Naine"
+      }
+    ]
+  },
+  {
+    "id": "mort-d-aenarion",
+    "annee": -4419,
+    "fin": null,
+    "approx": false,
+    "titre": "Mort d'Aenarion et couronnement de Bel Shanaar",
+    "resume": "Aenarion tombe lors de la bataille de l'Île des Morts, après avoir protégé Caledor pendant le rituel du Vortex. Le conseil des princes écarte son fils Malekith et choisit Bel Shanaar comme Roi Phénix. Cette décision nourrit la rancune de Malekith et prépare la guerre civile qui déchirera les Elfes trois millénaires plus tard.",
+    "ere": "grande-catastrophe",
+    "regions": [
+      "ulthuan"
+    ],
+    "factions": [
+      "hauts-elfes",
+      "elfes-noirs"
+    ],
+    "importance": 3,
+    "fiabilite": "etabli",
+    "note": "Date elfique convertie en CI par les compilateurs (le règne de Malekith à Nagarythe est daté I, 79 à II, 1695 dans le Livre des Jours, soit environ -4421 à -2723 CI).",
+    "sources": [
+      {
+        "titre": "Warhammer Armies: Dark Elves (7e édition, 2008)",
+        "detail": "p. 13",
+        "url": ""
+      },
+      {
+        "titre": "Warhammer Armies: Dark Elves (4e édition)",
+        "detail": "p. 11-12",
+        "url": ""
+      },
+      {
+        "titre": "Wiki Warhammer Fantasy (fandom), page Malekith",
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Malekith"
+      }
+    ]
+  },
+  {
+    "id": "snorri-blanchebarbe-malekith",
+    "annee": -4119,
+    "fin": null,
+    "approx": false,
+    "titre": "Snorri Blanchebarbe et Malekith s'allient",
+    "resume": "Privés de leurs Dieux Ancêtres, les Nains choisissent Snorri Blanchebarbe comme premier Haut Roi. Les Elfes débarquent dans le Vieux Monde et le prince Malekith s'allie à Snorri pour traquer les dernières armées du Chaos. Cette alliance ouvre un âge d'or de commerce entre les deux peuples, pendant lequel les colonies elfiques et les forteresses naines prospèrent.",
+    "ere": "grande-catastrophe",
+    "regions": [
+      "montagnes",
+      "empire"
+    ],
+    "factions": [
+      "nains",
+      "hauts-elfes",
+      "chaos"
+    ],
+    "importance": 3,
+    "fiabilite": "etabli",
+    "note": "Les colonies elfiques du Nouveau Monde datent de -4164 CI. Bel Shanaar visite Karaz-a-Karak et scelle l'amitié des deux peuples en -2839 CI.",
+    "sources": [
+      {
+        "titre": "Warhammer Armies: Dwarfs (8e édition, 2013)",
+        "detail": "p. 20-21",
+        "url": ""
+      },
+      {
+        "titre": "Wiki Warhammer Fantasy (fandom), page Snorri Whitebeard",
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Snorri_Whitebeard"
+      },
+      {
+        "titre": "Bibliothèque Impériale, page Chronologie Naine",
+        "detail": "entrées -4119 et -2839",
+        "url": "https://www.bibliotheque-imperiale.com/index.php/Chronologie_Naine"
+      }
+    ]
+  },
+  {
+    "id": "nains-du-chaos-hashut",
+    "annee": -3900,
+    "fin": null,
+    "approx": true,
+    "titre": "Les Nains de Zorn Uzkul se tournent vers Hashut",
+    "resume": "Coupés de leurs frères de l'ouest et assaillis par les hordes du Chaos, les Nains installés dans les plaines de Zorn Uzkul se croient abandonnés par leurs dieux. Ils se mettent à vénérer Hashut, le Père des Ténèbres, et deviennent les Nains du Chaos. Ils bâtiront plus tard Zharr-Naggrund et asserviront les peaux-vertes des Terres sombres.",
+    "ere": "grande-catastrophe",
+    "regions": [
+      "terres-arides"
+    ],
+    "factions": [
+      "nains",
+      "chaos"
+    ],
+    "importance": 2,
+    "fiabilite": "divergent",
+    "note": "La chronologie naine (Livre d'Armée Nains V7 et V8, via la Bibliothèque Impériale) et le wiki fandom donnent environ -3900 CI. Le livre Chaos Dwarfs (4e édition) date ce reniement de -3500 CI, après une perte de contact vers -4000 CI.",
+    "sources": [
+      {
+        "titre": "Warhammer Armies: Chaos Dwarfs (4e édition)",
+        "detail": "p. 8",
+        "url": ""
+      },
+      {
+        "titre": "Wiki Warhammer Fantasy (fandom), page Great Catastrophe",
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Great_Catastrophe"
+      },
+      {
+        "titre": "Bibliothèque Impériale, page Chronologie Naine",
+        "detail": "entrée -3900",
+        "url": "https://www.bibliotheque-imperiale.com/index.php/Chronologie_Naine"
+      }
+    ]
+  },
+  {
+    "id": "meurtre-de-bel-shanaar",
+    "annee": -2751,
+    "fin": null,
+    "approx": false,
+    "titre": "Malekith tue Bel Shanaar et brave la Flamme",
+    "resume": "Après avoir purgé les cultes du plaisir, Malekith accuse Bel Shanaar de complicité et l'assassine. Il entre ensuite dans la Flamme d'Asuryan pour se faire reconnaître Roi Phénix, mais le feu le rejette et le brûle atrocement. Ce sacrilège déclenche la guerre civile entre les Elfes fidèles au trône et ceux de Nagarythe.",
+    "ere": "grande-catastrophe",
+    "regions": [
+      "ulthuan"
+    ],
+    "factions": [
+      "hauts-elfes",
+      "elfes-noirs"
+    ],
+    "importance": 3,
+    "fiabilite": "etabli",
+    "note": "Date elfique convertie en CI par les compilateurs.",
+    "sources": [
+      {
+        "titre": "Warhammer Armies: Dark Elves (7e édition, 2008)",
+        "detail": "p. 13",
+        "url": ""
+      },
+      {
+        "titre": "Warhammer Armies: Dark Elves (4e édition)",
+        "detail": "p. 11-12",
+        "url": ""
+      },
+      {
+        "titre": "Wiki Warhammer Fantasy (fandom), page Timeline of the Warhammer World",
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Timeline_of_the_Warhammer_World"
+      }
+    ]
+  },
+  {
+    "id": "naissance-grande-gueule",
+    "annee": -2750,
+    "fin": null,
+    "approx": false,
+    "titre": "La chute de la météorite et la Grande Gueule",
+    "resume": "Une énorme météorite s'abat sur les terres ancestrales des Ogres, à l'est du Vieux Monde, et creuse un gouffre qui traverse le monde de part en part. Les Ogres y voient leur dieu affamé, la Grande Gueule, dont ils adoptent le culte. Leur migration vers les Montagnes des Lamentations, où ils s'installent vers -2720 CI, en découle.",
+    "ere": "grande-catastrophe",
+    "regions": [
+      "orient"
+    ],
+    "factions": [
+      "ogres"
+    ],
+    "importance": 2,
+    "fiabilite": "incertain",
+    "note": "Une seule source officielle trouvée pour la date. La région retenue est l'Orient, faute d'identifiant propre aux Royaumes ogres.",
+    "sources": [
+      {
+        "titre": "Warhammer Armies: Ogre Kingdoms (8e édition, 2013)",
+        "detail": "p. 22-23",
+        "url": ""
+      },
+      {
+        "titre": "Wiki Warhammer Fantasy (fandom), page Timeline of the Warhammer World",
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Timeline_of_the_Warhammer_World"
+      }
+    ]
+  },
+  {
+    "id": "la-dechirure",
+    "annee": -2723,
+    "fin": null,
+    "approx": false,
+    "titre": "La Déchirure",
+    "resume": "Vaincu à la bataille de Maledor par le Roi Phénix Caledor Ier, Malekith et ses sorciers tentent de briser le Grand Vortex. Le rituel échoue mais provoque un cataclysme qui engloutit le nord d'Ulthuan, dont le royaume de Nagarythe. Les survivants fuient vers l'ouest et fondent Naggaroth, consacrant la séparation définitive entre Hauts Elfes et Elfes noirs.",
+    "ere": "grande-catastrophe",
+    "regions": [
+      "ulthuan",
+      "naggaroth"
+    ],
+    "factions": [
+      "hauts-elfes",
+      "elfes-noirs"
+    ],
+    "importance": 3,
+    "fiabilite": "etabli",
+    "note": "Bataille de Maledor en -2724 CI, arrivée en Naggaroth en -2722 CI. Dates elfiques converties en CI par les compilateurs.",
+    "sources": [
+      {
+        "titre": "Warhammer Armies: Dark Elves (7e édition, 2008)",
+        "detail": "p. 13 et 28",
+        "url": ""
+      },
+      {
+        "titre": "Warhammer Armies: High Elves (8e édition, 2013)",
+        "detail": "p. 16-24",
+        "url": ""
+      },
+      {
+        "titre": "Wiki Warhammer Fantasy (fandom), page Sundering",
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Sundering"
+      },
+      {
+        "titre": "Bibliothèque Impériale, page La Déchirure",
+        "detail": "d'après le Livre d'Armée Hauts Elfes V6 et Elfes Noirs V7",
+        "url": "https://www.bibliotheque-imperiale.com/index.php/La_D%C3%A9chirure"
+      }
+    ]
+  },
+  {
+    "id": "settra-culte-mortuaire",
+    "annee": -2500,
+    "fin": -2350,
+    "approx": true,
+    "titre": "Règne de Settra et fondation du Culte Mortuaire",
+    "resume": "Nehekhara, première grande civilisation humaine, s'unifie sous la férule de Settra, roi de Khemri. Obsédé par sa propre mort, il fonde le Culte Mortuaire et charge ses prêtres de percer le secret de l'immortalité. Leur art de l'embaumement fera des rois de Nehekhara les futurs Rois des tombes, et Settra sera le premier d'entre eux à se relever.",
+    "ere": "age-d-or",
+    "regions": [
+      "sud"
+    ],
+    "factions": [
+      "rois-des-tombes"
+    ],
+    "importance": 3,
+    "fiabilite": "etabli",
+    "note": "Couronnement de Settra vers -2500 CI selon la Bibliothèque Impériale, fondation du Culte Mortuaire vers -2460 CI et mort du roi en -2350 CI. Les dates de Nehekhara viennent à l'origine du calendrier néhékharien, converties en CI.",
+    "sources": [
+      {
+        "titre": "Warhammer Armies: Tomb Kings (8e édition, 2011)",
+        "detail": "p. 20",
+        "url": ""
+      },
+      {
+        "titre": "Wiki Warhammer Fantasy (fandom), page Settra",
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Settra"
+      },
+      {
+        "titre": "Bibliothèque Impériale, page Histoire de Nehekhara",
+        "detail": "",
+        "url": "https://www.bibliotheque-imperiale.com/index.php/Histoire_de_Nehekhara"
+      }
+    ]
+  },
+  {
+    "id": "premiers-hommes-vieux-monde",
+    "annee": -2000,
+    "fin": null,
+    "approx": true,
+    "titre": "Les premiers Hommes gagnent le Vieux Monde",
+    "resume": "De petites tribus humaines venues des Terres du Sud franchissent la mer et s'établissent dans les terres qui deviendront la Tilée et l'Estalie. Elles ne connaissent encore que la pierre et le bois et vivent dans l'ombre des Elfes et des Nains. C'est le premier jalon de la longue histoire humaine du Vieux Monde, qui mènera aux tribus de Sigmar.",
+    "ere": "age-d-or",
+    "regions": [
+      "tilee-estalie"
+    ],
+    "factions": [
+      "humains-autres"
+    ],
+    "importance": 2,
+    "fiabilite": "incertain",
+    "note": "Une seule source, ancienne (Warhammer Fantasy Roleplay 1re édition). La cité humaine de Tylos, future Skavenblight, est dite occupée dès -2500 à -2000 CI dans le livre Dogs of War.",
+    "sources": [
+      {
+        "titre": "Warhammer Fantasy Roleplay 1re édition, Dwarfs: Stone and Steel",
+        "detail": "p. 8",
+        "url": ""
+      },
+      {
+        "titre": "Wiki Warhammer Fantasy (fandom), page Timeline of the Warhammer World",
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Timeline_of_the_Warhammer_World"
+      }
+    ]
+  },
+  {
+    "id": "guerre-de-la-barbe",
+    "annee": -1997,
+    "fin": -1600,
+    "approx": false,
+    "titre": "La Guerre de la Barbe",
+    "resume": "Des pillards elfes noirs envoyés par Malekith massacrent des caravanes naines en se faisant passer pour des Hauts Elfes. Le Haut Roi Gotrek Brise-étoile réclame réparation, mais Caledor II fait raser la barbe de son ambassadeur, ce qui déclenche une guerre de plusieurs siècles. Elle s'achève quand Gotrek tue le Roi Phénix et emporte la Couronne du Phénix. Les deux civilisations en sortent épuisées, et la haine entre Nains et Elfes ne s'éteindra plus.",
+    "ere": "age-d-or",
+    "regions": [
+      "empire",
+      "bretonnie",
+      "montagnes"
+    ],
+    "factions": [
+      "nains",
+      "hauts-elfes",
+      "elfes-noirs"
+    ],
+    "importance": 3,
+    "fiabilite": "divergent",
+    "note": "La Grande Trahison commence en -2005 CI. Le début de la guerre en -1997 CI est concordant. La fin diverge : le livre des Nains (8e édition) la place en -1600 CI, alors que la chronologie naine reprise par la Bibliothèque Impériale (Livre d'Armée Nains V7) fixe la mort de Caledor II à la bataille des Trois Tours, devant Tor Alessi, en -1560 CI.",
+    "sources": [
+      {
+        "titre": "Warhammer Armies: Dwarfs (8e édition, 2013)",
+        "detail": "p. 20-21",
+        "url": ""
+      },
+      {
+        "titre": "Wiki Warhammer Fantasy (fandom), page War of the Beard",
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/War_of_the_Beard"
+      },
+      {
+        "titre": "Bibliothèque Impériale, page Chronologie Naine",
+        "detail": "entrées -2005 à -1560",
+        "url": "https://www.bibliotheque-imperiale.com/index.php/Chronologie_Naine"
+      },
+      {
+        "titre": "Bibliothèque Impériale, page Guerre de la Barbe",
+        "detail": "d'après le Livre d'Armée Nains V7 et Hauts Elfes V7",
+        "url": "https://www.bibliotheque-imperiale.com/index.php/Guerre_de_la_Barbe"
+      }
+    ]
+  },
+  {
+    "id": "nagash-usurpe-khemri",
+    "annee": -1968,
+    "fin": null,
+    "approx": true,
+    "titre": "Nagash apprend la magie noire et usurpe Khemri",
+    "resume": "Des Elfes noirs naufragés à Khemri enseignent la magie noire au prêtre Nagash, qui les surpasse vite puis les fait emmurer vivants. Il s'empare du trône, invente la nécromancie et fait bâtir la Pyramide Noire. Ses neuf livres maudits deviendront la source de toute la nécromancie du monde.",
+    "ere": "age-d-or",
+    "regions": [
+      "sud"
+    ],
+    "factions": [
+      "rois-des-tombes",
+      "elfes-noirs"
+    ],
+    "importance": 3,
+    "fiabilite": "etabli",
+    "note": "Le naufrage des Elfes noirs est daté de -1968 CI. L'usurpation elle-même, contre le roi Thutep, est parfois placée en -1959 CI, mais sans source identifiée. Nagash serait né vers -2000 CI.",
+    "sources": [
+      {
+        "titre": "Warhammer Armies: Tomb Kings (8e édition, 2011)",
+        "detail": "p. 20",
+        "url": ""
+      },
+      {
+        "titre": "Warhammer Armies: Dark Elves (4e édition)",
+        "detail": "p. 11-12",
+        "url": ""
+      },
+      {
+        "titre": "Bibliothèque Impériale, page Nagash, le Grand Nécromancien",
+        "detail": "",
+        "url": "https://www.bibliotheque-imperiale.com/index.php/Nagash,_le_Grand_N%C3%A9cromancien"
+      }
+    ]
+  },
+  {
+    "id": "chute-de-tylos",
+    "annee": -1780,
+    "fin": null,
+    "approx": true,
+    "titre": "Chute de Tylos et naissance de Skavenblight",
+    "resume": "Dans la cité humaine de Tylos, au sud du Vieux Monde, on achève un grand temple quand une pluie de malepierre tombe du ciel. En peu de temps, la cité est envahie par des hordes d'hommes-rats et disparaît de l'histoire. Elle devient Skavenblight, la capitale des Skavens, d'où partira leur conquête souterraine du monde.",
+    "ere": "age-d-or",
+    "regions": [
+      "tilee-estalie"
+    ],
+    "factions": [
+      "skavens",
+      "humains-autres"
+    ],
+    "importance": 3,
+    "fiabilite": "divergent",
+    "note": "Le livre Dogs of War fait commencer le temple en -1880 CI et le construire pendant un siècle, ce qui mène vers -1780 CI. La page Skaven du wiki fandom situe l'essor et la chute de la cité entre -1860 et -1600 CI. La Bibliothèque Impériale nomme la cité Kavzar (Skarogne pour Skavenblight) d'après le supplément Les Fils du Rat Cornu.",
+    "sources": [
+      {
+        "titre": "Warhammer Armies: Dogs of War (5e édition)",
+        "detail": "p. 85",
+        "url": ""
+      },
+      {
+        "titre": "Warhammer Fantasy Roleplay 2e édition, Children of the Horned Rat",
+        "detail": "",
+        "url": ""
+      },
+      {
+        "titre": "Wiki Warhammer Fantasy (fandom), page Skaven",
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Skaven"
+      },
+      {
+        "titre": "Bibliothèque Impériale, page Chute de Kavzar",
+        "detail": "",
+        "url": "https://www.bibliotheque-imperiale.com/index.php/Chute_de_Kavzar"
+      }
+    ]
+  },
+  {
+    "id": "chute-de-nagash-khemri",
+    "annee": -1600,
+    "fin": null,
+    "approx": true,
+    "titre": "Les Sept Rois chassent Nagash de Khemri",
+    "resume": "Terrifiés par la tyrannie de Nagash, les rois de Nehekhara s'unissent contre lui et, après une guerre dévastatrice, assiègent et pillent Khemri. Nagash s'enfuit vers le nord et trouve refuge au Pic Dolent, où gît le plus gros bloc de malepierre du monde. Il y bâtira Nagashizzar, sa forteresse, tandis que ses livres passent en secret aux mains de la reine de Lahmia.",
+    "ere": "age-d-or",
+    "regions": [
+      "sud",
+      "terres-arides"
+    ],
+    "factions": [
+      "rois-des-tombes"
+    ],
+    "importance": 2,
+    "fiabilite": "divergent",
+    "note": "Le livre Tomb Kings (8e édition) et la Bibliothèque Impériale donnent -1600 CI pour le sac de Khemri. Une entrée plus ancienne du wiki fandom, sans source, décrit une guerre de la confédération entre -1750 et -1650 CI.",
+    "sources": [
+      {
+        "titre": "Warhammer Armies: Tomb Kings (8e édition, 2011)",
+        "detail": "p. 20",
+        "url": ""
+      },
+      {
+        "titre": "Wiki Warhammer Fantasy (fandom), page Nagash",
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Nagash"
+      },
+      {
+        "titre": "Bibliothèque Impériale, page Histoire de Nehekhara",
+        "detail": "",
+        "url": "https://www.bibliotheque-imperiale.com/index.php/Histoire_de_Nehekhara"
+      }
+    ]
+  },
+  {
+    "id": "depart-des-elfes-athel-loren",
+    "annee": -1589,
+    "fin": -1501,
+    "approx": false,
+    "titre": "Les Elfes quittent le Vieux Monde, naissance des Elfes sylvains",
+    "resume": "Menacé par une invasion des Elfes noirs, le Roi Phénix Caradryel rappelle ses armées en Ulthuan et invite les colons à le suivre. Beaucoup obéissent, mais ceux de la forêt d'Athel Loren et d'autres colons refusent de partir. Ils rompent avec le trône du Phénix et deviennent les Elfes sylvains, liés à la forêt et à ses esprits.",
+    "ere": "age-d-or",
+    "regions": [
+      "athel-loren",
+      "ulthuan"
+    ],
+    "factions": [
+      "elfes-sylvains",
+      "hauts-elfes",
+      "elfes-noirs"
+    ],
+    "importance": 3,
+    "fiabilite": "etabli",
+    "note": "Rappel des armées en -1589 CI, départ de la dernière armée en -1501 CI. Le livre des Nains (8e édition) parle d'un départ vers -1500 CI. Dates elfiques converties en CI. La Bibliothèque Impériale indique que les Elfes sylvains comptent leur propre calendrier à partir de -1500 CI.",
+    "sources": [
+      {
+        "titre": "Warhammer Armies: Wood Elves (4e édition)",
+        "detail": "p. 39",
+        "url": ""
+      },
+      {
+        "titre": "Warhammer Armies: Dwarfs (8e édition, 2013)",
+        "detail": "p. 20-21",
+        "url": ""
+      },
+      {
+        "titre": "Bibliothèque Impériale, page Histoire des Elfes Sylvains",
+        "detail": "d'après le Livre d'Armée Elfes Sylvains V8",
+        "url": "https://www.bibliotheque-imperiale.com/index.php/Histoire_des_Elfes_Sylvains"
+      }
+    ]
+  },
+  {
+    "id": "neferata-premiers-vampires",
+    "annee": -1520,
+    "fin": null,
+    "approx": false,
+    "titre": "Neferata crée le premier vampire à Lahmia",
+    "resume": "La reine Neferata de Lahmia étudie les livres de Nagash et prépare un élixir de vie corrompu. Elle obtient l'immortalité, mais au prix d'une soif inextinguible de sang humain. En transmettant cette malédiction à ses courtisans, elle donne naissance à la race des vampires, dont descendront les Comtes vampires.",
+    "ere": "age-d-or",
+    "regions": [
+      "sud"
+    ],
+    "factions": [
+      "vampires",
+      "rois-des-tombes"
+    ],
+    "importance": 3,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": "Warhammer Armies: Tomb Kings (8e édition, 2011)",
+        "detail": "p. 20",
+        "url": ""
+      },
+      {
+        "titre": "Bibliothèque Impériale, page Histoire de Nehekhara",
+        "detail": "",
+        "url": "https://www.bibliotheque-imperiale.com/index.php/Histoire_de_Nehekhara"
+      }
+    ]
+  },
+  {
+    "id": "temps-du-malheur",
+    "annee": -1500,
+    "fin": null,
+    "approx": true,
+    "titre": "Le Temps du Malheur",
+    "resume": "Peu après la Guerre de la Barbe, des séismes et des éruptions ravagent les Montagnes du Bord du Monde, provoqués en partie par la sorcellerie skaven. Les forteresses affaiblies sont envahies par les gobelins et les hommes-rats : Karak Ungor tombe la première, puis Karak Varn en -1499 CI, Ekrund et le Mont Gunbad. Les Nains entrent dans les Guerres gobelines, un long déclin dont leur empire ne se relèvera jamais.",
+    "ere": "age-des-tribus",
+    "regions": [
+      "montagnes"
+    ],
+    "factions": [
+      "nains",
+      "peaux-vertes",
+      "skavens"
+    ],
+    "importance": 3,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": "Warhammer Armies: Dwarfs (8e édition, 2013)",
+        "detail": "p. 20-21",
+        "url": ""
+      },
+      {
+        "titre": "Warhammer Armies: Orcs & Goblins (8e édition, 2010)",
+        "detail": "p. 17",
+        "url": ""
+      },
+      {
+        "titre": "Wiki Warhammer Fantasy (fandom), page Time of Woes",
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Time_of_Woes"
+      },
+      {
+        "titre": "Bibliothèque Impériale, page Temps du Malheur",
+        "detail": "",
+        "url": "https://www.bibliotheque-imperiale.com/index.php/Temps_du_Malheur"
+      }
+    ]
+  },
+  {
+    "id": "pestilens-en-lustrie",
+    "annee": -1399,
+    "fin": null,
+    "approx": false,
+    "titre": "Le Clan Pestilens envahit la Lustrie",
+    "resume": "Les Skavens du Clan Pestilens s'installent dans les ruines de la cité-temple de Quetza et répandent leurs épidémies dans les jungles. De nombreuses cités sont désertées et les Hommes-lézards entrent dans une guerre de plusieurs siècles contre les hommes-rats. Ce conflit ne s'achèvera qu'après l'an 1 CI, avec l'avènement du culte de Sotek.",
+    "ere": "age-des-tribus",
+    "regions": [
+      "lustrie"
+    ],
+    "factions": [
+      "skavens",
+      "hommes-lezards"
+    ],
+    "importance": 2,
+    "fiabilite": "incertain",
+    "note": "Date donnée par la Bibliothèque Impériale, qui renvoie aux livres d'armée Hommes-lézards V6 et V7 sans page. Le wiki fandom reprend la même date sans source.",
+    "sources": [
+      {
+        "titre": "Warhammer Armies: Lizardmen (6e édition)",
+        "detail": "p. 8-9, citée par le wiki fandom sans renvoi précis",
+        "url": ""
+      },
+      {
+        "titre": "Bibliothèque Impériale, page Chronique des Hommes-Lézards",
+        "detail": "",
+        "url": "https://www.bibliotheque-imperiale.com/index.php/Chronique_des_Hommes-L%C3%A9zards"
+      }
+    ]
+  },
+  {
+    "id": "grand-rituel-de-nagash",
+    "annee": -1151,
+    "fin": null,
+    "approx": false,
+    "titre": "Le Grand Rituel de Nagash",
+    "resume": "Depuis Nagashizzar, Nagash empoisonne Nehekhara et lance un sort colossal pour relever tous les morts du royaume. Les Skavens, inquiets, libèrent le roi captif Alcadizaar, qui frappe Nagash pendant le rituel. Le sort inachevé fait néanmoins sortir les rois momifiés de leurs tombeaux : c'est la naissance des Rois des tombes, que Settra soumet bientôt à son autorité.",
+    "ere": "age-des-tribus",
+    "regions": [
+      "sud",
+      "terres-arides"
+    ],
+    "factions": [
+      "rois-des-tombes",
+      "skavens"
+    ],
+    "importance": 3,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": "Warhammer Armies: Tomb Kings (8e édition, 2011)",
+        "detail": "p. 20",
+        "url": ""
+      },
+      {
+        "titre": "Wiki Warhammer Fantasy (fandom), page Nagash",
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Nagash"
+      },
+      {
+        "titre": "Bibliothèque Impériale, page Histoire de Nehekhara",
+        "detail": "",
+        "url": "https://www.bibliotheque-imperiale.com/index.php/Histoire_de_Nehekhara"
+      }
+    ]
+  },
+  {
+    "id": "arrivee-des-bretonni",
+    "annee": -1000,
+    "fin": null,
+    "approx": true,
+    "titre": "Les Bretonni s'installent à l'ouest",
+    "resume": "La tribu guerrière des Bretonni migre vers les terres qui deviendront la Bretonnie. Ces cavaliers commercent avec les Elfes sylvains mais n'osent guère s'aventurer dans la forêt de Loren. Vers -700 CI, une vingtaine de grandes tribus dominent la région, socle du futur royaume de Gilles le Breton.",
+    "ere": "age-des-tribus",
+    "regions": [
+      "bretonnie",
+      "athel-loren"
+    ],
+    "factions": [
+      "bretonnie",
+      "elfes-sylvains"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": "Warhammer Armies: Wood Elves (4e édition)",
+        "detail": "p. 39",
+        "url": ""
+      },
+      {
+        "titre": "Warhammer Armies: Bretonnia (6e édition)",
+        "detail": "p. 38-39",
+        "url": ""
+      },
+      {
+        "titre": "Wiki Warhammer Fantasy (fandom), page Timeline of the Warhammer World",
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Timeline_of_the_Warhammer_World"
+      }
+    ]
+  },
+  {
+    "id": "chute-de-karak-huit-pics",
+    "annee": -513,
+    "fin": null,
+    "approx": false,
+    "titre": "Chute de Karak Huit Pics",
+    "resume": "Après des siècles de guerre souterraine contre les Skavens, qui empoisonnent les puits, et d'assauts des gobelins, la grande forteresse de Karak Huit Pics tombe. Le roi Lunn fait sceller les tombeaux et les trésors, puis mène les survivants vers Karaz-a-Karak. Les Skavens et les gobelins se disputent ensuite les ruines, et cette perte reste l'une des plus grandes blessures des Nains.",
+    "ere": "age-des-tribus",
+    "regions": [
+      "montagnes"
+    ],
+    "factions": [
+      "nains",
+      "skavens",
+      "peaux-vertes"
+    ],
+    "importance": 3,
+    "fiabilite": "etabli",
+    "note": "La guerre souterraine contre les Skavens commence en -701 CI selon le Livre des Rancunes. La Bibliothèque Impériale emploie la forme Karak aux Huit Pics.",
+    "sources": [
+      {
+        "titre": "Warhammer Armies: Dwarfs (8e édition, 2013)",
+        "detail": "p. 20-21",
+        "url": ""
+      },
+      {
+        "titre": "Warhammer Armies: Orcs & Goblins (8e édition, 2010)",
+        "detail": "p. 17",
+        "url": ""
+      },
+      {
+        "titre": "Bibliothèque Impériale, page Chronologie Naine",
+        "detail": "entrée -513",
+        "url": "https://www.bibliotheque-imperiale.com/index.php/Chronologie_Naine"
+      }
+    ]
+  },
+  {
+    "id": "chute-de-karak-azgal",
+    "annee": -469,
+    "fin": null,
+    "approx": false,
+    "titre": "Chute de Karak Azgal et de Karak Drazh",
+    "resume": "Le chef orque Dork s'empare de Karak Azgal, la saccage puis l'abandonne, et un dragon s'installe dans ses profondeurs. Encouragés, les peaux-vertes prennent Karak Drazh, rebaptisée le Pic Noir. Au sud de Karaz-a-Karak, seule Karak Azul résiste encore, assiégée en permanence.",
+    "ere": "age-des-tribus",
+    "regions": [
+      "montagnes"
+    ],
+    "factions": [
+      "nains",
+      "peaux-vertes"
+    ],
+    "importance": 2,
+    "fiabilite": "divergent",
+    "note": "Le wiki fandom (chronologie générale, d'après Dwarfs et Orcs & Goblins 8e édition) et la Bibliothèque Impériale donnent -469 CI. La page Time of Woes du wiki fandom place le sac de Karak Azgal en -493 CI. La prise de Karak Drazh est datée de -466 CI par une entrée sans source.",
+    "sources": [
+      {
+        "titre": "Warhammer Armies: Dwarfs (8e édition, 2013)",
+        "detail": "p. 20-21",
+        "url": ""
+      },
+      {
+        "titre": "Warhammer Armies: Orcs & Goblins (8e édition, 2010)",
+        "detail": "p. 17",
+        "url": ""
+      },
+      {
+        "titre": "Wiki Warhammer Fantasy (fandom), page Time of Woes",
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Time_of_Woes"
+      },
+      {
+        "titre": "Bibliothèque Impériale, page Chronologie Naine",
+        "detail": "entrée -469",
+        "url": "https://www.bibliotheque-imperiale.com/index.php/Chronologie_Naine"
+      }
+    ]
+  },
+  {
+    "id": "naissance-de-sigmar",
+    "annee": -30,
+    "fin": null,
+    "approx": false,
+    "titre": "Naissance de Sigmar",
+    "resume": "Sous une comète à deux queues, Sigmar naît fils de Björn, chef de la tribu des Unberogens. En -15 CI, il sauve le Haut Roi Kurgan Barbe de Fer d'une bande d'orques et reçoit en remerciement le marteau runique Ghal Maraz. Cette amitié scelle l'alliance des Hommes et des Nains, et Sigmar devient chef des Unberogens en -8 CI.",
+    "ere": "age-des-tribus",
+    "regions": [
+      "empire"
+    ],
+    "factions": [
+      "empire",
+      "nains"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": "Warhammer Armies: The Empire (8e édition, 2012)",
+        "detail": "p. 16-17",
+        "url": ""
+      },
+      {
+        "titre": "Warhammer Armies: Dwarfs (8e édition, 2013)",
+        "detail": "p. 20-21",
+        "url": ""
+      },
+      {
+        "titre": "Bibliothèque Impériale, page Chronologie Naine",
+        "detail": "entrée -15",
+        "url": "https://www.bibliotheque-imperiale.com/index.php/Chronologie_Naine"
+      }
+    ]
+  },
+  {
+    "id": "bataille-col-du-feu-noir",
+    "annee": -1,
+    "fin": null,
+    "approx": false,
+    "titre": "Bataille du Col du Feu Noir",
+    "resume": "Au terme d'une longue campagne, l'alliance des tribus humaines de Sigmar et des Nains de Kurgan Barbe de Fer écrase une immense horde d'orques et de gobelins au Col du Feu Noir. Les peaux-vertes sont chassés des terres à l'ouest des Montagnes du Bord du Monde. Cette victoire donne à Sigmar l'autorité nécessaire pour unir les tribus et fonder l'Empire l'année suivante.",
+    "ere": "age-des-tribus",
+    "regions": [
+      "empire",
+      "montagnes"
+    ],
+    "factions": [
+      "empire",
+      "nains",
+      "peaux-vertes"
+    ],
+    "importance": 3,
+    "fiabilite": "etabli",
+    "note": "Dernier événement avant le couronnement de Sigmar en 1 CI, traité dans une autre tranche.",
+    "sources": [
+      {
+        "titre": "Warhammer Armies: The Empire (8e édition, 2012)",
+        "detail": "p. 16-17",
+        "url": ""
+      },
+      {
+        "titre": "Wiki Warhammer Fantasy (fandom), page Timeline of the Warhammer World",
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Timeline_of_the_Warhammer_World"
+      },
+      {
+        "titre": "Bibliothèque Impériale, page Chronologie Naine",
+        "detail": "entrée -1",
+        "url": "https://www.bibliotheque-imperiale.com/index.php/Chronologie_Naine"
+      }
+    ]
+  }
+]

@@ -1,0 +1,51 @@
+{
+  "eres": [
+    { "id": "anciens", "nom": "Le temps des Anciens", "debut": -6000, "fin": -5600, "poids": 0.8 },
+    { "id": "grande-catastrophe", "nom": "La Grande Catastrophe et ses suites", "debut": -5600, "fin": -2600, "poids": 1.5 },
+    { "id": "age-d-or", "nom": "L'âge d'or des Nains et des Elfes", "debut": -2600, "fin": -1500, "poids": 1.3 },
+    { "id": "age-des-tribus", "nom": "L'âge des tribus humaines", "debut": -1500, "fin": 1, "poids": 1.3 },
+    { "id": "empire-sigmarite", "nom": "L'Empire de Sigmar", "debut": 1, "fin": 1360, "poids": 1.8 },
+    { "id": "trois-empereurs", "nom": "Le temps des Trois Empereurs", "debut": 1360, "fin": 2304, "poids": 2.2 },
+    { "id": "empire-reunifie", "nom": "L'Empire réunifié", "debut": 2304, "fin": 2523, "poids": 1.8 }
+  ],
+  "epoque_tow": { "debut": 1979, "fin": 2302, "cadre": 2276 },
+  "regions": [
+    { "id": "empire", "nom": "L'Empire" },
+    { "id": "bretonnie", "nom": "Bretonnie" },
+    { "id": "kislev", "nom": "Kislev" },
+    { "id": "tilee-estalie", "nom": "Tilée et Estalie" },
+    { "id": "royaumes-frontaliers", "nom": "Royaumes frontaliers" },
+    { "id": "montagnes", "nom": "Montagnes du Bord du Monde" },
+    { "id": "terres-arides", "nom": "Terres arides et Terres sombres" },
+    { "id": "norsca", "nom": "Norsca" },
+    { "id": "desolations", "nom": "Désolations du Chaos" },
+    { "id": "ulthuan", "nom": "Ulthuan" },
+    { "id": "naggaroth", "nom": "Naggaroth" },
+    { "id": "lustrie", "nom": "Lustrie" },
+    { "id": "sud", "nom": "Nehekhara, Araby et Terres du Sud" },
+    { "id": "athel-loren", "nom": "Athel Loren" },
+    { "id": "orient", "nom": "Cathay et l'Orient" }
+  ],
+  "factions": [
+    { "id": "empire", "nom": "Empire", "couleur": "#a8862f" },
+    { "id": "bretonnie", "nom": "Bretonnie", "couleur": "#2f5a8a" },
+    { "id": "kislev", "nom": "Kislev", "couleur": "#6f8fa6" },
+    { "id": "humains-autres", "nom": "Autres royaumes humains", "couleur": "#8a6a4a" },
+    { "id": "nains", "nom": "Nains", "couleur": "#7a4a2a" },
+    { "id": "hauts-elfes", "nom": "Hauts Elfes", "couleur": "#3f7f86" },
+    { "id": "elfes-noirs", "nom": "Elfes noirs", "couleur": "#5a3a6a" },
+    { "id": "elfes-sylvains", "nom": "Elfes sylvains", "couleur": "#4f6f3a" },
+    { "id": "peaux-vertes", "nom": "Peaux-vertes", "couleur": "#6a7f2a" },
+    { "id": "chaos", "nom": "Chaos", "couleur": "#8a2a2a" },
+    { "id": "skavens", "nom": "Skavens", "couleur": "#5f5a3a" },
+    { "id": "vampires", "nom": "Comtes vampires", "couleur": "#6a1f3a" },
+    { "id": "rois-des-tombes", "nom": "Rois des tombes", "couleur": "#b08a4a" },
+    { "id": "hommes-lezards", "nom": "Hommes-lézards", "couleur": "#2f7a5a" },
+    { "id": "ogres", "nom": "Royaumes ogres", "couleur": "#7a6a5a" }
+  ],
+  "fiabilites": [
+    { "id": "etabli", "nom": "Établi", "aide": "Date et faits concordants entre plusieurs sources officielles." },
+    { "id": "divergent", "nom": "Sources divergentes", "aide": "Les sources officielles se contredisent sur la date ou les faits. Voir la note." },
+    { "id": "incertain", "nom": "Incertain", "aide": "Source unique, ancienne ou indirecte. À confirmer." }
+  ]
+}

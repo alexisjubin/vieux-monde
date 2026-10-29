@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Le Vieux Monde, une chronologie</title>
+  <meta name="description" content="Chronologie sourcée du Vieux Monde de Warhammer Fantasy et The Old World, filtrable par région et par faction.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Alegreya:ital,wght@0,400;0,600;1,400&family=Alegreya+Sans:wght@400;500;700&family=IM+Fell+English:ital@0;1&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css?v=3">
+</head>
+<body>
+  <div class="page">
+
+    <header class="entete">
+      <a class="retour" href="https://alexisjubin.com/#projets">Alexis Jubin</a>
+      <h1>Le Vieux Monde</h1>
+      <p class="chapeau">Une chronologie de l'univers de Warhammer Fantasy et de The Old World, des Anciens à la Tempête du Chaos. Chaque événement renvoie aux livres et aux pages qui en parlent, et signale quand les sources ne s'accordent pas.</p>
+    </header>
+
+    <section class="vue" aria-labelledby="titre-vue">
+      <h2 id="titre-vue" class="cache">Vue d'ensemble</h2>
+      <div class="frise" id="frise" role="list"></div>
+      <p class="legende-frise">L'échelle n'est pas linéaire : chaque âge a sa propre largeur, pour que les huit mille ans restent lisibles. La bande hachurée marque l'époque où se déroule The Old World.</p>
+    </section>
+
+    <div class="corps">
+      <aside class="filtres" aria-label="Filtres">
+        <details open id="panneau-filtres">
+          <summary>Filtrer <span id="compte"></span></summary>
+
+          <label class="recherche">
+            <span>Chercher</span>
+            <input type="search" id="recherche" placeholder="Nagash, Altdorf, peste…" autocomplete="off">
+          </label>
+
+          <fieldset>
+            <legend>Factions</legend>
+            <div id="filtre-factions" class="choix"></div>
+          </fieldset>
+
+          <fieldset>
+            <legend>Régions</legend>
+            <div id="filtre-regions" class="choix"></div>
+          </fieldset>
+
+          <fieldset>
+            <legend>Fiabilité</legend>
+            <div id="filtre-fiabilites" class="choix"></div>
+          </fieldset>
+
+          <button type="button" id="effacer" class="effacer">Tout afficher</button>
+        </details>
+      </aside>
+
+      <main class="chronique" id="chronique" aria-live="polite"></main>
+    </div>
+
+    <footer class="pied">
+      <p>Projet personnel d'Alexis Jubin. Warhammer, The Old World et tous les noms associés appartiennent à Games Workshop. Les résumés sont rédigés à partir des livres officiels, de <a href="https://whfb.lexicanum.com/">Lexicanum</a> et de la Bibliothèque Impériale. Une erreur ou une source manquante ? <a href="mailto:aj@alexisjubin.com">Écrivez-moi</a>.</p>
+    </footer>
+
+  </div>
+  <script src="app.js?v=3" defer></script>
+</body>
+</html>
