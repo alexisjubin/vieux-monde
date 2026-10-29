@@ -1,0 +1,4341 @@
+[
+  {
+    "id": "piliers-de-valaya",
+    "annee": -4523,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Valaya bénit les premiers piliers de Karaz-a-Karak",
+      "en": "Valaya blesses the first pillars of Karaz-a-Karak",
+      "de": "Valaya segnet die ersten Säulen von Karaz-a-Karak"
+    },
+    "resume": {
+      "fr": "La déesse ancêtre Valaya choisit Karaz-a-Karak pour y demeurer et fait tailler dans la roche vive deux piliers au cœur de la plus grande caverne. Ce sont les premiers des milliers de piliers qui soutiendront le Grand Hall. Les Nains font commencer leur calendrier à cette année, qui marque aussi le début de leurs archives écrites.",
+      "en": "The Ancestor Goddess Valaya chooses Karaz-a-Karak as her dwelling and has two pillars carved from the living rock at the heart of the greatest cavern. They are the first of the thousands of pillars that will hold up the Great Hall. The Dwarfs start their calendar in this year, which also marks the beginning of their written records.",
+      "de": "Die Ahnengöttin Valaya wählt Karaz-a-Karak zu ihrem Wohnsitz und lässt im Herzen der größten Höhle zwei Säulen aus dem lebenden Fels hauen. Es sind die ersten der Tausenden Säulen, die einst die Große Halle tragen werden. Die Zwerge lassen ihren Kalender in diesem Jahr beginnen, das auch den Anfang ihrer schriftlichen Aufzeichnungen markiert."
+    },
+    "ere": "grande-catastrophe",
+    "regions": [
+      "montagnes"
+    ],
+    "lieux": [
+      "karaz-a-karak"
+    ],
+    "factions": [
+      "nains"
+    ],
+    "importance": 3,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "L'an 1 du calendrier nain correspond à -4523 CI. Les dates naines de cette chronologie s'obtiennent en ajoutant 4523 à l'année impériale.",
+      "en": "Year 1 of the Dwarf calendar corresponds to -4523 IC. Dwarf dates in this chronology are obtained by adding 4523 to the Imperial year.",
+      "de": "Das Jahr 1 des Zwergenkalenders entspricht -4523 IK. Zwergische Daten dieser Chronologie erhält man, indem man 4523 zum imperialen Jahr addiert."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Dwarfs (8e édition, 2013)",
+          "en": "Warhammer Armies: Dwarfs (8th edition, 2013)",
+          "de": "Warhammer Armies: Dwarfs (8. Edition, 2013)"
+        },
+        "detail": {
+          "fr": "p. 20-21",
+          "en": "pp. 20-21",
+          "de": "S. 20-21"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Dwarf Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Dwarf Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Dwarf Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Dwarf_Timeline"
+      },
+      {
+        "titre": {
+          "fr": "Bibliothèque Impériale, page Chronologie Naine",
+          "en": "Bibliothèque Impériale, page Chronologie Naine",
+          "de": "Bibliothèque Impériale, Seite Chronologie Naine"
+        },
+        "detail": {
+          "fr": "entrée -4523",
+          "en": "entry -4523",
+          "de": "Eintrag -4523"
+        },
+        "url": "https://www.bibliotheque-imperiale.com/index.php/Chronologie_Naine"
+      }
+    ]
+  },
+  {
+    "id": "trone-du-pouvoir",
+    "annee": -4421,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Grungni offre le Trône du Pouvoir à Snorri Blanchebarbe",
+      "en": "Grungni gives the Throne of Power to Snorri Whitebeard",
+      "de": "Grungni schenkt Snorri Weißbart den Thron der Macht"
+    },
+    "resume": {
+      "fr": "Grungni forge le Trône du Pouvoir et le confie à son fils aîné Snorri Blanchebarbe, futur premier Haut Roi. La même année, Grimnir rencontre les Elfes et noue avec eux des relations cordiales malgré ses manières bourrues. Le trône deviendra le symbole de l'autorité des Hauts Rois de Karaz-a-Karak.",
+      "en": "Grungni forges the Throne of Power and entrusts it to his eldest son Snorri Whitebeard, the future first High King. In the same year Grimnir meets the Elves and establishes friendly relations with them despite his gruff manner. The throne will become the symbol of the authority of the High Kings of Karaz-a-Karak.",
+      "de": "Grungni schmiedet den Thron der Macht und vertraut ihn seinem ältesten Sohn Snorri Weißbart an, dem späteren ersten Hochkönig. Im selben Jahr begegnet Grimnir den Elfen und knüpft trotz seiner schroffen Art freundschaftliche Beziehungen zu ihnen. Der Thron wird zum Sinnbild der Macht der Hochkönige von Karaz-a-Karak."
+    },
+    "ere": "grande-catastrophe",
+    "regions": [
+      "montagnes"
+    ],
+    "lieux": [
+      "karaz-a-karak"
+    ],
+    "factions": [
+      "nains",
+      "hauts-elfes"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Dwarfs (8e édition, 2013)",
+          "en": "Warhammer Armies: Dwarfs (8th edition, 2013)",
+          "de": "Warhammer Armies: Dwarfs (8. Edition, 2013)"
+        },
+        "detail": {
+          "fr": "p. 20-21",
+          "en": "pp. 20-21",
+          "de": "S. 20-21"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Dwarf Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Dwarf Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Dwarf Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Dwarf_Timeline"
+      },
+      {
+        "titre": {
+          "fr": "Bibliothèque Impériale, page Chronologie Naine",
+          "en": "Bibliothèque Impériale, page Chronologie Naine",
+          "de": "Bibliothèque Impériale, Seite Chronologie Naine"
+        },
+        "detail": {
+          "fr": "entrée -4421",
+          "en": "entry -4421",
+          "de": "Eintrag -4421"
+        },
+        "url": "https://www.bibliotheque-imperiale.com/index.php/Chronologie_Naine"
+      }
+    ]
+  },
+  {
+    "id": "malekith-au-secours-de-karaz-a-karak",
+    "annee": -3997,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Malekith et Snorri brisent un siège d'hommes-bêtes",
+      "en": "Malekith and Snorri break a Beastmen siege",
+      "de": "Malekith und Snorri brechen eine Belagerung der Tiermenschen"
+    },
+    "resume": {
+      "fr": "Une horde d'hommes-bêtes assiège Karaz-a-Karak. Le prince elfe Malekith combat aux côtés du Haut Roi Snorri Blanchebarbe pour la repousser. L'épisode illustre l'alliance qui unit alors Nains et Elfes contre les créatures du Chaos.",
+      "en": "A horde of Beastmen besieges Karaz-a-Karak. The Elf prince Malekith fights alongside High King Snorri Whitebeard to drive it back. The episode illustrates the alliance that then binds Dwarfs and Elves against the creatures of Chaos.",
+      "de": "Eine Horde Tiermenschen belagert Karaz-a-Karak. Der Elfenprinz Malekith kämpft an der Seite von Hochkönig Snorri Weißbart, um sie zurückzuschlagen. Die Episode zeigt das Bündnis, das Zwerge und Elfen damals gegen die Kreaturen des Chaos vereint."
+    },
+    "ere": "grande-catastrophe",
+    "regions": [
+      "montagnes"
+    ],
+    "lieux": [
+      "karaz-a-karak"
+    ],
+    "factions": [
+      "nains",
+      "hauts-elfes",
+      "chaos"
+    ],
+    "importance": 1,
+    "fiabilite": "incertain",
+    "note": {
+      "fr": "Date donnée par la seule chronologie du wiki fandom (an 526 du calendrier nain), d'après le Livre d'Armée Elfes Noirs (8e édition).",
+      "en": "Date given only by the fandom wiki timeline (year 526 of the Dwarf calendar), based on the Dark Elves army book (8th edition).",
+      "de": "Datum nur in der Chronologie des Fandom-Wikis (Jahr 526 des Zwergenkalenders), nach dem Armeebuch Dunkelelfen (8. Edition)."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Dark Elves (8e édition, 2013)",
+          "en": "Warhammer Armies: Dark Elves (8th edition, 2013)",
+          "de": "Warhammer Armies: Dark Elves (8. Edition, 2013)"
+        },
+        "detail": {
+          "fr": "p. 31",
+          "en": "p. 31",
+          "de": "S. 31"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Dwarf Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Dwarf Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Dwarf Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Dwarf_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "elfes-chasses-de-la-lynsk",
+    "annee": -2276,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Karak Vlag et Karak Ungor chassent les Elfes de la Lynsk",
+      "en": "Karak Vlag and Karak Ungor drive the Elves from the Lynsk",
+      "de": "Karak Vlag und Karak Ungor vertreiben die Elfen von der Lynsk"
+    },
+    "resume": {
+      "fr": "Les armées de Karak Vlag et de Karak Ungor s'unissent pour expulser les colons elfes de l'estuaire de la Lynsk et de la côte sud de la Mer des Griffes. C'est l'un des rares conflits entre les deux peuples avant la Grande Trahison. Il montre aussi l'étendue du royaume nain vers le nord à cette époque.",
+      "en": "The armies of Karak Vlag and Karak Ungor join forces to expel the Elf colonists from the estuary of the River Lynsk and the southern coast of the Sea of Claws. It is one of the few conflicts between the two peoples before the Great Betrayal. It also shows how far north the Dwarf realm then extended.",
+      "de": "Die Heere von Karak Vlag und Karak Ungor vereinen sich, um die elfischen Siedler aus der Mündung der Lynsk und von der Südküste des Meers der Klauen zu vertreiben. Es ist einer der wenigen Konflikte zwischen beiden Völkern vor dem Großen Verrat. Er zeigt zudem, wie weit das Zwergenreich damals nach Norden reichte."
+    },
+    "ere": "age-d-or",
+    "regions": [
+      "montagnes",
+      "kislev"
+    ],
+    "lieux": [
+      "karak-vlag",
+      "karak-ungor"
+    ],
+    "factions": [
+      "nains",
+      "hauts-elfes"
+    ],
+    "importance": 1,
+    "fiabilite": "incertain",
+    "note": {
+      "fr": "La chronologie du wiki fandom ne donne pas d'année du calendrier nain pour cette entrée, seulement -2276 CI.",
+      "en": "The fandom wiki timeline gives no Dwarf calendar year for this entry, only -2276 IC.",
+      "de": "Die Chronologie des Fandom-Wikis nennt für diesen Eintrag kein Jahr des Zwergenkalenders, nur -2276 IK."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Dwarf Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Dwarf Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Dwarf Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Dwarf_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "mort-de-snorri-demi-main",
+    "annee": -1974,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Mort de Snorri Demi-Main",
+      "en": "Death of Snorri Halfhand",
+      "de": "Tod von Snorri Halbhand"
+    },
+    "resume": {
+      "fr": "Pendant la Guerre de la Barbe, Snorri Demi-Main, fils du Haut Roi Gotrek Brise-étoile, défie le Roi Phénix Caledor II en combat singulier et y trouve la mort. Sa perte est inscrite parmi les plus lourdes rancunes contre les Elfes. Elle endurcit encore la volonté de vengeance des Nains.",
+      "en": "During the War of the Beard, Snorri Halfhand, son of High King Gotrek Starbreaker, challenges the Phoenix King Caledor II to single combat and is slain. His loss is recorded among the heaviest grudges against the Elves. It further hardens the Dwarfs' resolve for vengeance.",
+      "de": "Im Krieg des Bartes fordert Snorri Halbhand, Sohn des Hochkönigs Gotrek Sternenbrecher, den Phönixkönig Caledor II. zum Zweikampf und fällt. Sein Verlust wird zu den schwersten Groll-Einträgen gegen die Elfen gezählt. Er bestärkt den Rachewillen der Zwerge noch weiter."
+    },
+    "ere": "age-d-or",
+    "regions": [
+      "empire",
+      "montagnes"
+    ],
+    "lieux": [],
+    "factions": [
+      "nains",
+      "hauts-elfes"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Dwarfs (8e édition, 2013)",
+          "en": "Warhammer Armies: Dwarfs (8th edition, 2013)",
+          "de": "Warhammer Armies: Dwarfs (8. Edition, 2013)"
+        },
+        "detail": {
+          "fr": "p. 20-21",
+          "en": "pp. 20-21",
+          "de": "S. 20-21"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Dwarf Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Dwarf Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Dwarf Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Dwarf_Timeline"
+      },
+      {
+        "titre": {
+          "fr": "Bibliothèque Impériale, page Chronologie Naine",
+          "en": "Bibliothèque Impériale, page Chronologie Naine",
+          "de": "Bibliothèque Impériale, Seite Chronologie Naine"
+        },
+        "detail": {
+          "fr": "entrée -1974",
+          "en": "entry -1974",
+          "de": "Eintrag -1974"
+        },
+        "url": "https://www.bibliotheque-imperiale.com/index.php/Chronologie_Naine"
+      }
+    ]
+  },
+  {
+    "id": "bataille-d-oeragor",
+    "annee": -1968,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Morgrim tue Imladrik à Oeragor",
+      "en": "Morgrim slays Imladrik at Oeragor",
+      "de": "Morgrim erschlägt Imladrik bei Oeragor"
+    },
+    "resume": {
+      "fr": "Morgrim, cousin de Snorri Demi-Main, tue le seigneur elfe Imladrik à la bataille d'Oeragor. Cette victoire lui vaut le titre d'Elgidum, le tueur d'Elfes. Elle fait de lui l'un des grands héros nains de la Guerre de la Barbe.",
+      "en": "Morgrim, cousin of Snorri Halfhand, slays the Elf lord Imladrik at the battle of Oeragor. The victory earns him the title of Elgidum, the Elf-slayer. It makes him one of the great Dwarf heroes of the War of the Beard.",
+      "de": "Morgrim, ein Vetter Snorri Halbhands, erschlägt den Elfenfürsten Imladrik in der Schlacht von Oeragor. Der Sieg bringt ihm den Titel Elgidum ein, Elfentöter. Er macht ihn zu einem der großen zwergischen Helden des Krieges des Bartes."
+    },
+    "ere": "age-d-or",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [],
+    "factions": [
+      "nains",
+      "hauts-elfes"
+    ],
+    "importance": 1,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Dwarfs (8e édition, 2013)",
+          "en": "Warhammer Armies: Dwarfs (8th edition, 2013)",
+          "de": "Warhammer Armies: Dwarfs (8. Edition, 2013)"
+        },
+        "detail": {
+          "fr": "p. 20-21",
+          "en": "pp. 20-21",
+          "de": "S. 20-21"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Dwarf Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Dwarf Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Dwarf Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Dwarf_Timeline"
+      },
+      {
+        "titre": {
+          "fr": "Bibliothèque Impériale, page Chronologie Naine",
+          "en": "Bibliothèque Impériale, page Chronologie Naine",
+          "de": "Bibliothèque Impériale, Seite Chronologie Naine"
+        },
+        "detail": {
+          "fr": "entrée -1968",
+          "en": "entry -1968",
+          "de": "Eintrag -1968"
+        },
+        "url": "https://www.bibliotheque-imperiale.com/index.php/Chronologie_Naine"
+      }
+    ]
+  },
+  {
+    "id": "nains-a-tylos",
+    "annee": -1950,
+    "fin": null,
+    "approx": true,
+    "titre": {
+      "fr": "Un clan nain s'installe à Tylos",
+      "en": "A Dwarf clan settles in Tylos",
+      "de": "Ein Zwergenclan lässt sich in Tylos nieder"
+    },
+    "resume": {
+      "fr": "Venu des Montagnes Noires à la recherche de minerai, un clan nain s'établit dans la cité humaine de Tylos, qu'il nomme Kavzar. Grâce à lui, la ville grandit vite et progresse en architecture et en ingénierie. Des Nains participent ensuite à la construction de son grand temple, peu avant que la cité ne soit engloutie et ne devienne Skavenblight.",
+      "en": "Coming from the Black Mountains in search of ore, a Dwarf clan settles in the human city of Tylos, which it calls Kavzar. With its help the city grows quickly and makes great advances in architecture and engineering. Dwarfs later work on its great temple, shortly before the city is swallowed up and becomes Skavenblight.",
+      "de": "Auf der Suche nach Erz kommt ein Zwergenclan aus den Schwarzen Bergen in die Menschenstadt Tylos, die er Kavzar nennt. Mit seiner Hilfe wächst die Stadt rasch und macht große Fortschritte in Baukunst und Ingenieurwesen. Später arbeiten Zwerge an ihrem großen Tempel mit, kurz bevor die Stadt versinkt und zu Skavenblight wird."
+    },
+    "ere": "age-d-or",
+    "regions": [
+      "tilee-estalie"
+    ],
+    "lieux": [
+      "skavenblight"
+    ],
+    "factions": [
+      "nains",
+      "humains-autres"
+    ],
+    "importance": 1,
+    "fiabilite": "incertain",
+    "note": {
+      "fr": "Sources de jeu de rôle (WFRP 2e édition, Children of the Horned Rat) reprises par le wiki fandom. La date naine indiquée (2657) ne correspond pas à -1950 CI, d'où l'approximation.",
+      "en": "Roleplay sources (WFRP 2nd edition, Children of the Horned Rat) taken up by the fandom wiki. The Dwarf date given (2657) does not match -1950 IC, hence the approximation.",
+      "de": "Rollenspielquellen (WFRP 2. Edition, Children of the Horned Rat), übernommen vom Fandom-Wiki. Das angegebene Zwergendatum (2657) passt nicht zu -1950 IK, daher die Ungenauigkeit."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Fantasy Roleplay (2e édition): Children of the Horned Rat",
+          "en": "Warhammer Fantasy Roleplay (2nd edition): Children of the Horned Rat",
+          "de": "Warhammer Fantasy Roleplay (2. Edition): Children of the Horned Rat"
+        },
+        "detail": {
+          "fr": "p. 35",
+          "en": "p. 35",
+          "de": "S. 35"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Dwarf Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Dwarf Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Dwarf Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Dwarf_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "destruction-d-athel-maraya",
+    "annee": -1948,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Destruction d'Athel Maraya",
+      "en": "Destruction of Athel Maraya",
+      "de": "Zerstörung von Athel Maraya"
+    },
+    "resume": {
+      "fr": "Une armée naine menée par Morgrim, avec Brok Poing de Pierre, rase la cité elfe d'Athel Maraya. C'est l'une des premières grandes colonies elfes du Vieux Monde à disparaître dans la guerre. La perte de ces cités affaiblit durablement la présence elfe sur le continent.",
+      "en": "A Dwarf army led by Morgrim, with Brok Stonefist, burns the Elf city of Athel Maraya to the ground. It is one of the first great Elf colonies of the Old World to disappear in the war. The loss of these cities durably weakens the Elven presence on the continent.",
+      "de": "Ein Zwergenheer unter Morgrim, begleitet von Brok Steinfaust, brennt die Elfenstadt Athel Maraya nieder. Sie ist eine der ersten großen Elfenkolonien der Alten Welt, die im Krieg untergeht. Der Verlust dieser Städte schwächt die elfische Präsenz auf dem Kontinent dauerhaft."
+    },
+    "ere": "age-d-or",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [],
+    "factions": [
+      "nains",
+      "hauts-elfes"
+    ],
+    "importance": 1,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "La chronologie du wiki fandom donne l'an nain 2655, incohérent avec -1948 CI, mais la date impériale est la même dans les deux sources.",
+      "en": "The fandom wiki timeline gives Dwarf year 2655, inconsistent with -1948 IC, but the Imperial date is the same in both sources.",
+      "de": "Die Chronologie des Fandom-Wikis nennt das Zwergenjahr 2655, das nicht zu -1948 IK passt, doch das imperiale Datum ist in beiden Quellen gleich."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Dwarfs (8e édition, 2013)",
+          "en": "Warhammer Armies: Dwarfs (8th edition, 2013)",
+          "de": "Warhammer Armies: Dwarfs (8. Edition, 2013)"
+        },
+        "detail": {
+          "fr": "p. 20-21",
+          "en": "pp. 20-21",
+          "de": "S. 20-21"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Dwarf Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Dwarf Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Dwarf Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Dwarf_Timeline"
+      },
+      {
+        "titre": {
+          "fr": "Bibliothèque Impériale, page Chronologie Naine",
+          "en": "Bibliothèque Impériale, page Chronologie Naine",
+          "de": "Bibliothèque Impériale, Seite Chronologie Naine"
+        },
+        "detail": {
+          "fr": "entrée -1948",
+          "en": "entry -1948",
+          "de": "Eintrag -1948"
+        },
+        "url": "https://www.bibliotheque-imperiale.com/index.php/Chronologie_Naine"
+      }
+    ]
+  },
+  {
+    "id": "bataille-du-golfe-noir",
+    "annee": -1880,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Bataille du Golfe Noir",
+      "en": "Battle of the Black Gulf",
+      "de": "Schlacht im Schwarzen Golf"
+    },
+    "resume": {
+      "fr": "Les trirèmes de Barak Varr manœuvrent mieux que la flotte elfe dans les eaux étroites proches de la forteresse et remportent la victoire. Ce succès naval rare montre la puissance maritime du seul port nain. Barak Varr protège ainsi le Golfe Noir pendant la guerre.",
+      "en": "The triremes of Barak Varr outmanoeuvre the Elven fleet in the narrow waters near the hold and win the day. This rare naval success shows the sea power of the only Dwarf port. Barak Varr thus protects the Black Gulf during the war.",
+      "de": "Die Triremen von Barak Varr manövrieren die Elfenflotte in den engen Gewässern nahe der Festung aus und siegen. Dieser seltene Seesieg zeigt die Seemacht des einzigen Zwergenhafens. So schützt Barak Varr den Schwarzen Golf während des Krieges."
+    },
+    "ere": "age-d-or",
+    "regions": [
+      "royaumes-frontaliers"
+    ],
+    "lieux": [
+      "barak-varr"
+    ],
+    "factions": [
+      "nains",
+      "hauts-elfes"
+    ],
+    "importance": 1,
+    "fiabilite": "incertain",
+    "note": {
+      "fr": "Entrée de la seule chronologie du wiki fandom, issue des suppléments de jeu de rôle.",
+      "en": "Entry from the fandom wiki timeline only, drawn from roleplay supplements.",
+      "de": "Eintrag nur in der Chronologie des Fandom-Wikis, aus Rollenspielergänzungen."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Dwarf Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Dwarf Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Dwarf Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Dwarf_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "chute-de-karak-ungor",
+    "annee": -1500,
+    "fin": null,
+    "approx": true,
+    "titre": {
+      "fr": "Karak Ungor devient la Montagne de l'Œil Rouge",
+      "en": "Karak Ungor becomes Red Eye Mountain",
+      "de": "Karak Ungor wird zum Red Eye Mountain"
+    },
+    "resume": {
+      "fr": "Les séismes du Temps du Malheur fissurent les galeries de Karak Ungor, la forteresse aux mines les plus profondes du royaume nain. Les Gobelins de la Nuit de la tribu de l'Œil Rouge s'y engouffrent pendant que le roi Morek Marteau-de-Pierre et son armée sont encore à l'ouest. Première grande forteresse perdue, elle prend le nom de ses nouveaux maîtres.",
+      "en": "The earthquakes of the Time of Woes crack the tunnels of Karak Ungor, the hold with the deepest mines in the Dwarf realm. The Night Goblins of the Red Eye tribe pour in while King Morek Stonehammer and his army are still in the west. The first great hold to be lost, it takes the name of its new masters.",
+      "de": "Die Erdbeben der Zeit des Leids reißen die Stollen von Karak Ungor auf, der Festung mit den tiefsten Minen des Zwergenreichs. Die Nachtgoblins des Red-Eye-Stammes strömen hinein, während König Morek Steinhammer und sein Heer noch im Westen stehen. Als erste große verlorene Festung trägt sie fortan den Namen ihrer neuen Herren."
+    },
+    "ere": "age-des-tribus",
+    "regions": [
+      "montagnes"
+    ],
+    "lieux": [
+      "karak-ungor"
+    ],
+    "factions": [
+      "nains",
+      "peaux-vertes"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "Le Temps du Malheur dans son ensemble fait l'objet d'une entrée distincte.",
+      "en": "The Time of Woes as a whole has its own entry.",
+      "de": "Die Zeit des Leids als Ganzes hat einen eigenen Eintrag."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Dwarfs (8e édition, 2013)",
+          "en": "Warhammer Armies: Dwarfs (8th edition, 2013)",
+          "de": "Warhammer Armies: Dwarfs (8. Edition, 2013)"
+        },
+        "detail": {
+          "fr": "p. 20-21",
+          "en": "pp. 20-21",
+          "de": "S. 20-21"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Orcs & Goblins (8e édition, 2010)",
+          "en": "Warhammer Armies: Orcs & Goblins (8th edition, 2010)",
+          "de": "Warhammer Armies: Orcs & Goblins (8. Edition, 2010)"
+        },
+        "detail": {
+          "fr": "p. 28-29",
+          "en": "pp. 28-29",
+          "de": "S. 28-29"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Red Eye Mountain",
+          "en": "Warhammer Fantasy Wiki (fandom), page Red Eye Mountain",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Red Eye Mountain"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Red_Eye_Mountain"
+      },
+      {
+        "titre": {
+          "fr": "Bibliothèque Impériale, page Chronologie Naine",
+          "en": "Bibliothèque Impériale, page Chronologie Naine",
+          "de": "Bibliothèque Impériale, Seite Chronologie Naine"
+        },
+        "detail": {
+          "fr": "entrée -1500",
+          "en": "entry -1500",
+          "de": "Eintrag -1500"
+        },
+        "url": "https://www.bibliotheque-imperiale.com/index.php/Chronologie_Naine"
+      }
+    ]
+  },
+  {
+    "id": "chute-de-karak-varn",
+    "annee": -1499,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Chute de Karak Varn",
+      "en": "Fall of Karak Varn",
+      "de": "Fall von Karak Varn"
+    },
+    "resume": {
+      "fr": "Les niveaux inférieurs de Karak Varn sont inondés par les séismes. Les défenseurs sont submergés par les Gobelins de la Nuit venus d'en haut et par les Skavens surgis d'en bas. Seconde forteresse tombée, elle devient Cragmere, et des créatures mutantes se mettent à hanter les Eaux Noires toutes proches.",
+      "en": "The lower levels of Karak Varn are flooded by the earthquakes. The defenders are overwhelmed by Night Goblins from above and Skaven from below. The second hold to fall, it becomes Cragmere, and mutated creatures begin to haunt the nearby Black Water.",
+      "de": "Die unteren Ebenen von Karak Varn werden durch die Erdbeben geflutet. Die Verteidiger werden von Nachtgoblins von oben und Skaven von unten überrannt. Als zweite gefallene Festung wird sie zu Cragmere, und mutierte Kreaturen beginnen, das nahe Schwarzwasser heimzusuchen."
+    },
+    "ere": "age-des-tribus",
+    "regions": [
+      "montagnes"
+    ],
+    "lieux": [
+      "karak-varn",
+      "lac-noir"
+    ],
+    "factions": [
+      "nains",
+      "peaux-vertes",
+      "skavens"
+    ],
+    "importance": 3,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Dwarfs (8e édition, 2013)",
+          "en": "Warhammer Armies: Dwarfs (8th edition, 2013)",
+          "de": "Warhammer Armies: Dwarfs (8. Edition, 2013)"
+        },
+        "detail": {
+          "fr": "p. 20-21",
+          "en": "pp. 20-21",
+          "de": "S. 20-21"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Orcs & Goblins (8e édition, 2010)",
+          "en": "Warhammer Armies: Orcs & Goblins (8th edition, 2010)",
+          "de": "Warhammer Armies: Orcs & Goblins (8. Edition, 2010)"
+        },
+        "detail": {
+          "fr": "p. 28-29",
+          "en": "pp. 28-29",
+          "de": "S. 28-29"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Karak Varn",
+          "en": "Warhammer Fantasy Wiki (fandom), page Karak Varn",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Karak Varn"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Karak_Varn"
+      },
+      {
+        "titre": {
+          "fr": "Bibliothèque Impériale, page Chronologie Naine",
+          "en": "Bibliothèque Impériale, page Chronologie Naine",
+          "de": "Bibliothèque Impériale, Seite Chronologie Naine"
+        },
+        "detail": {
+          "fr": "entrée -1499",
+          "en": "entry -1499",
+          "de": "Eintrag -1499"
+        },
+        "url": "https://www.bibliotheque-imperiale.com/index.php/Chronologie_Naine"
+      }
+    ]
+  },
+  {
+    "id": "chute-d-ekrund",
+    "annee": -1498,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Chute d'Ekrund et du Col du Chien Fou",
+      "en": "Fall of Ekrund and Mad Dog Pass",
+      "de": "Fall von Ekrund und dem Mad Dog Pass"
+    },
+    "resume": {
+      "fr": "Le chef orque Argor Foespike chasse les Nains, très inférieurs en nombre, des mines d'Ekrund dans les monts de l'Échine du Dragon et y fonde le repaire du Mont Bloodhorn. La même année, les tours de guet du Col du Chien Fou tombent aux mains des Gobelins de la Nuit. Les peaux-vertes affluent alors depuis l'est.",
+      "en": "The Orc warlord Argor Foespike drives the heavily outnumbered Dwarfs out of the mines of Ekrund in the Dragonback Mountains and founds the lair of Mount Bloodhorn there. In the same year the watchtowers of Mad Dog Pass fall to the Night Goblins. Greenskins then pour in from the east.",
+      "de": "Der Orkkriegsherr Argor Foespike vertreibt die weit unterlegenen Zwerge aus den Minen von Ekrund in den Drachenrückenbergen und gründet dort den Unterschlupf Mount Bloodhorn. Im selben Jahr fallen die Wachtürme des Mad Dog Pass an die Nachtgoblins. Danach strömen Grünhäute aus dem Osten herein."
+    },
+    "ere": "age-des-tribus",
+    "regions": [
+      "terres-arides",
+      "montagnes"
+    ],
+    "lieux": [
+      "ekrund",
+      "col-du-chien-fou"
+    ],
+    "factions": [
+      "nains",
+      "peaux-vertes"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Dwarfs (8e édition, 2013)",
+          "en": "Warhammer Armies: Dwarfs (8th edition, 2013)",
+          "de": "Warhammer Armies: Dwarfs (8. Edition, 2013)"
+        },
+        "detail": {
+          "fr": "p. 20-21",
+          "en": "pp. 20-21",
+          "de": "S. 20-21"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Orcs & Goblins (8e édition, 2010)",
+          "en": "Warhammer Armies: Orcs & Goblins (8th edition, 2010)",
+          "de": "Warhammer Armies: Orcs & Goblins (8. Edition, 2010)"
+        },
+        "detail": {
+          "fr": "p. 28-29",
+          "en": "pp. 28-29",
+          "de": "S. 28-29"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Ekrund",
+          "en": "Warhammer Fantasy Wiki (fandom), page Ekrund",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Ekrund"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Ekrund"
+      },
+      {
+        "titre": {
+          "fr": "Bibliothèque Impériale, page Chronologie Naine",
+          "en": "Bibliothèque Impériale, page Chronologie Naine",
+          "de": "Bibliothèque Impériale, Seite Chronologie Naine"
+        },
+        "detail": {
+          "fr": "entrée -1498",
+          "en": "entry -1498",
+          "de": "Eintrag -1498"
+        },
+        "url": "https://www.bibliotheque-imperiale.com/index.php/Chronologie_Naine"
+      }
+    ]
+  },
+  {
+    "id": "chute-du-mont-gunbad",
+    "annee": -1457,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Chute du Mont Gunbad",
+      "en": "Fall of Mount Gunbad",
+      "de": "Fall des Berges Gunbad"
+    },
+    "resume": {
+      "fr": "Les mines d'or du Mont Gunbad, les plus riches des Montagnes du Bord du Monde et seule source de brynduraz, la pierre brillante, tombent aux mains des Gobelins de la Nuit de la tribu de la Lance Sanglante. Ceux-ci la défendront ensuite contre les attaques des Gobelins de la Face Rouge. La perte de Gunbad prive les Nains d'un métal irremplaçable pour leurs runes.",
+      "en": "The gold mines of Mount Gunbad, the richest in the Worlds Edge Mountains and the only source of brynduraz, the brightstone, fall to the Night Goblins of the Bloody Spear tribe. They will then hold them against the attacks of the Red Face Goblins. The loss of Gunbad deprives the Dwarfs of a metal they cannot replace for their runes.",
+      "de": "Die Goldminen des Berges Gunbad, die reichsten des Weltrandgebirges und einzige Quelle von Brynduraz, dem Hellstein, fallen an die Nachtgoblins des Stammes Blutiger Speer. Diese verteidigen sie danach gegen die Angriffe der Rotgesichtgoblins. Der Verlust Gunbads raubt den Zwergen ein für ihre Runen unersetzliches Material."
+    },
+    "ere": "age-des-tribus",
+    "regions": [
+      "montagnes"
+    ],
+    "lieux": [
+      "mont-gunbad"
+    ],
+    "factions": [
+      "nains",
+      "peaux-vertes"
+    ],
+    "importance": 3,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Dwarfs (8e édition, 2013)",
+          "en": "Warhammer Armies: Dwarfs (8th edition, 2013)",
+          "de": "Warhammer Armies: Dwarfs (8. Edition, 2013)"
+        },
+        "detail": {
+          "fr": "p. 20-21",
+          "en": "pp. 20-21",
+          "de": "S. 20-21"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Orcs & Goblins (8e édition, 2010)",
+          "en": "Warhammer Armies: Orcs & Goblins (8th edition, 2010)",
+          "de": "Warhammer Armies: Orcs & Goblins (8. Edition, 2010)"
+        },
+        "detail": {
+          "fr": "p. 28-29",
+          "en": "pp. 28-29",
+          "de": "S. 28-29"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Mount Gunbad",
+          "en": "Warhammer Fantasy Wiki (fandom), page Mount Gunbad",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Mount Gunbad"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Mount_Gunbad"
+      },
+      {
+        "titre": {
+          "fr": "Bibliothèque Impériale, page Chronologie Naine",
+          "en": "Bibliothèque Impériale, page Chronologie Naine",
+          "de": "Bibliothèque Impériale, Seite Chronologie Naine"
+        },
+        "detail": {
+          "fr": "entrée -1457",
+          "en": "entry -1457",
+          "de": "Eintrag -1457"
+        },
+        "url": "https://www.bibliotheque-imperiale.com/index.php/Chronologie_Naine"
+      }
+    ]
+  },
+  {
+    "id": "guerres-de-la-route-d-argent",
+    "annee": -1387,
+    "fin": -1367,
+    "approx": false,
+    "titre": {
+      "fr": "Guerres de la Route d'Argent",
+      "en": "Silver Road Wars",
+      "de": "Kriege um die Silberstraße"
+    },
+    "resume": {
+      "fr": "Nains et gobelins se disputent pendant vingt ans les routes autour du Mont Lance d'Argent. Au plus fort des combats, une seule caravane naine sur cinq traverse la Trouée de Rocmort. Le chef orque Urk Grimfang finit par prendre la forteresse et la rebaptise Mont Grimfang, et la reine Hadora Ironpick mène les survivants vers l'ouest, à Karak Norn.",
+      "en": "For twenty years Dwarfs and goblins fight over the roads around Mount Silverspear. At the height of the fighting, only one Dwarf caravan in five gets through Deadrock Gap. The Orc warlord Urk Grimfang finally takes the hold and renames it Mount Grimfang, and Queen Hadora Ironpick leads the survivors west to Karak Norn.",
+      "de": "Zwanzig Jahre lang kämpfen Zwerge und Goblins um die Straßen rund um den Mount Silverspear. Auf dem Höhepunkt der Kämpfe kommt nur eine von fünf Zwergenkarawanen durch die Deadrock-Schlucht. Der Orkboss Urk Grimfang nimmt die Festung schließlich ein und tauft sie Mount Grimfang, und Königin Hadora Ironpick führt die Überlebenden nach Westen nach Karak Norn."
+    },
+    "ere": "age-des-tribus",
+    "regions": [
+      "montagnes"
+    ],
+    "lieux": [
+      "karak-norn"
+    ],
+    "factions": [
+      "nains",
+      "peaux-vertes"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "Le rôle de Hadora Ironpick vient de la page Karak Norn du wiki fandom, qui la présente comme la première reine naine connue.",
+      "en": "Hadora Ironpick's role comes from the Karak Norn page of the fandom wiki, which presents her as the first known Dwarf queen.",
+      "de": "Die Rolle von Hadora Ironpick stammt von der Seite Karak Norn des Fandom-Wikis, die sie als erste bekannte Zwergenkönigin darstellt."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Dwarfs (8e édition, 2013)",
+          "en": "Warhammer Armies: Dwarfs (8th edition, 2013)",
+          "de": "Warhammer Armies: Dwarfs (8. Edition, 2013)"
+        },
+        "detail": {
+          "fr": "p. 20-21",
+          "en": "pp. 20-21",
+          "de": "S. 20-21"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Orcs & Goblins (8e édition, 2010)",
+          "en": "Warhammer Armies: Orcs & Goblins (8th edition, 2010)",
+          "de": "Warhammer Armies: Orcs & Goblins (8. Edition, 2010)"
+        },
+        "detail": {
+          "fr": "p. 28-29",
+          "en": "pp. 28-29",
+          "de": "S. 28-29"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Dwarf Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Dwarf Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Dwarf Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Dwarf_Timeline"
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Karak Norn",
+          "en": "Warhammer Fantasy Wiki (fandom), page Karak Norn",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Karak Norn"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Karak_Norn"
+      },
+      {
+        "titre": {
+          "fr": "Bibliothèque Impériale, page Chronologie Naine",
+          "en": "Bibliothèque Impériale, page Chronologie Naine",
+          "de": "Bibliothèque Impériale, Seite Chronologie Naine"
+        },
+        "detail": {
+          "fr": "entrée -1387",
+          "en": "entry -1387",
+          "de": "Eintrag -1387"
+        },
+        "url": "https://www.bibliotheque-imperiale.com/index.php/Chronologie_Naine"
+      }
+    ]
+  },
+  {
+    "id": "abandon-des-versants-orientaux",
+    "annee": -1362,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Les Nains abandonnent les versants orientaux",
+      "en": "The Dwarfs abandon the eastern slopes",
+      "de": "Die Zwerge geben die Osthänge auf"
+    },
+    "resume": {
+      "fr": "Après la perte du Mont Lance d'Argent, les Nains renoncent aux dernières mines et petites colonies de la partie orientale des Montagnes du Bord du Monde. Le royaume se replie sur ses grandes forteresses. Les Terres sombres sont désormais laissées aux peaux-vertes et aux Nains du Chaos.",
+      "en": "After the loss of Mount Silverspear, the Dwarfs give up the last mines and small settlements in the eastern part of the Worlds Edge Mountains. The realm withdraws into its great holds. The Dark Lands are henceforth left to the Greenskins and the Chaos Dwarfs.",
+      "de": "Nach dem Verlust des Mount Silverspear geben die Zwerge die letzten Minen und kleinen Siedlungen im östlichen Teil des Weltrandgebirges auf. Das Reich zieht sich in seine großen Festungen zurück. Die Dunklen Lande bleiben fortan den Grünhäuten und den Chaoszwergen überlassen."
+    },
+    "ere": "age-des-tribus",
+    "regions": [
+      "montagnes",
+      "terres-arides"
+    ],
+    "lieux": [],
+    "factions": [
+      "nains",
+      "peaux-vertes"
+    ],
+    "importance": 1,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Dwarfs (8e édition, 2013)",
+          "en": "Warhammer Armies: Dwarfs (8th edition, 2013)",
+          "de": "Warhammer Armies: Dwarfs (8. Edition, 2013)"
+        },
+        "detail": {
+          "fr": "p. 20-21",
+          "en": "pp. 20-21",
+          "de": "S. 20-21"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Dwarf Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Dwarf Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Dwarf Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Dwarf_Timeline"
+      },
+      {
+        "titre": {
+          "fr": "Bibliothèque Impériale, page Chronologie Naine",
+          "en": "Bibliothèque Impériale, page Chronologie Naine",
+          "de": "Bibliothèque Impériale, Seite Chronologie Naine"
+        },
+        "detail": {
+          "fr": "entrée -1362",
+          "en": "entry -1362",
+          "de": "Eintrag -1362"
+        },
+        "url": "https://www.bibliotheque-imperiale.com/index.php/Chronologie_Naine"
+      }
+    ]
+  },
+  {
+    "id": "guerres-des-trolls",
+    "annee": -1250,
+    "fin": -1230,
+    "approx": true,
+    "titre": {
+      "fr": "Éruption du Mont Tonnerre et Guerres des Trolls",
+      "en": "Thunder Mountain erupts and the Troll Wars",
+      "de": "Ausbruch des Donnerbergs und Trollkriege"
+    },
+    "resume": {
+      "fr": "L'éruption du Mont Tonnerre chasse de nombreux trolls de leurs repaires et pousse les peaux-vertes vers le nord. Les Nains lancent ce qu'ils appellent les Guerres des Trolls. Le Haut Roi Morgrim Barbenoire en profite pour reprendre de petites colonies et restaurer les tombeaux ancestraux endommagés.",
+      "en": "The eruption of Thunder Mountain drives many trolls from their lairs and pushes the Greenskins northward. The Dwarfs launch what they call the Troll Wars. High King Morgrim Blackbeard uses the campaign to retake minor settlements and restore damaged ancestor tombs.",
+      "de": "Der Ausbruch des Donnerbergs vertreibt viele Trolle aus ihren Höhlen und treibt die Grünhäute nach Norden. Die Zwerge beginnen, was sie die Trollkriege nennen. Hochkönig Morgrim Schwarzbart nutzt den Feldzug, um kleinere Siedlungen zurückzuerobern und beschädigte Ahnengräber wiederherzustellen."
+    },
+    "ere": "age-des-tribus",
+    "regions": [
+      "montagnes"
+    ],
+    "lieux": [],
+    "factions": [
+      "nains",
+      "peaux-vertes"
+    ],
+    "importance": 1,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "La durée de vingt ans (-1250 à -1230 CI) vient de la chronologie des Peaux-vertes.",
+      "en": "The twenty-year span (-1250 to -1230 IC) comes from the Greenskin chronology.",
+      "de": "Die Dauer von zwanzig Jahren (-1250 bis -1230 IK) stammt aus der Chronologie der Grünhäute."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Dwarfs (8e édition, 2013)",
+          "en": "Warhammer Armies: Dwarfs (8th edition, 2013)",
+          "de": "Warhammer Armies: Dwarfs (8. Edition, 2013)"
+        },
+        "detail": {
+          "fr": "p. 20-21",
+          "en": "pp. 20-21",
+          "de": "S. 20-21"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Orcs & Goblins (8e édition, 2010)",
+          "en": "Warhammer Armies: Orcs & Goblins (8th edition, 2010)",
+          "de": "Warhammer Armies: Orcs & Goblins (8. Edition, 2010)"
+        },
+        "detail": {
+          "fr": "p. 28-29",
+          "en": "pp. 28-29",
+          "de": "S. 28-29"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Greenskin Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Greenskin Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Greenskin Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Greenskin_Timeline"
+      },
+      {
+        "titre": {
+          "fr": "Bibliothèque Impériale, page Chronologie Naine",
+          "en": "Bibliothèque Impériale, page Chronologie Naine",
+          "de": "Bibliothèque Impériale, Seite Chronologie Naine"
+        },
+        "detail": {
+          "fr": "entrée -1250",
+          "en": "entry -1250",
+          "de": "Eintrag -1250"
+        },
+        "url": "https://www.bibliotheque-imperiale.com/index.php/Chronologie_Naine"
+      }
+    ]
+  },
+  {
+    "id": "reconquete-du-col-du-chien-fou-1245",
+    "annee": -1245,
+    "fin": null,
+    "approx": true,
+    "titre": {
+      "fr": "Offensive naine entre Karak Kadrin et le Col du Chien Fou",
+      "en": "Dwarf offensive between Karak Kadrin and Mad Dog Pass",
+      "de": "Zwergenoffensive zwischen Karak Kadrin und dem Mad Dog Pass"
+    },
+    "resume": {
+      "fr": "Une grande offensive naine nettoie la région de nombreux peaux-vertes et reprend, après de durs combats, les montagnes entre Karak Kadrin et le Col du Chien Fou. Les Nains commencent à reconstruire. Ils découvrent avec fureur les tombeaux et les forteresses de leurs ancêtres profanés.",
+      "en": "A great Dwarf offensive clears many Greenskins from the region and, after hard fighting, regains the mountains between Karak Kadrin and Mad Dog Pass. The Dwarfs begin to rebuild. They are outraged to find the tombs and holds of their ancestors despoiled.",
+      "de": "Eine große Zwergenoffensive säubert die Region von vielen Grünhäuten und erobert nach harten Kämpfen die Berge zwischen Karak Kadrin und dem Mad Dog Pass zurück. Die Zwerge beginnen mit dem Wiederaufbau. Mit Zorn entdecken sie die geschändeten Gräber und Festungen ihrer Ahnen."
+    },
+    "ere": "age-des-tribus",
+    "regions": [
+      "montagnes"
+    ],
+    "lieux": [
+      "karak-kadrin",
+      "col-du-chien-fou"
+    ],
+    "factions": [
+      "nains",
+      "peaux-vertes"
+    ],
+    "importance": 1,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "La Bibliothèque Impériale attribue cette campagne à Morgrim Barbenoire et ajoute que Logazor reprend puis abandonne Gunbad.",
+      "en": "The Bibliothèque Impériale attributes this campaign to Morgrim Blackbeard and adds that Logazor retakes and then abandons Gunbad.",
+      "de": "Die Bibliothèque Impériale schreibt diesen Feldzug Morgrim Schwarzbart zu und ergänzt, dass Logazor Gunbad zurückerobert und dann wieder aufgibt."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Orcs & Goblins (8e édition, 2010)",
+          "en": "Warhammer Armies: Orcs & Goblins (8th edition, 2010)",
+          "de": "Warhammer Armies: Orcs & Goblins (8. Edition, 2010)"
+        },
+        "detail": {
+          "fr": "p. 28-29",
+          "en": "pp. 28-29",
+          "de": "S. 28-29"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Greenskin Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Greenskin Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Greenskin Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Greenskin_Timeline"
+      },
+      {
+        "titre": {
+          "fr": "Bibliothèque Impériale, page Chronologie Naine",
+          "en": "Bibliothèque Impériale, page Chronologie Naine",
+          "de": "Bibliothèque Impériale, Seite Chronologie Naine"
+        },
+        "detail": {
+          "fr": "entrée -1245",
+          "en": "entry -1245",
+          "de": "Eintrag -1245"
+        },
+        "url": "https://www.bibliotheque-imperiale.com/index.php/Chronologie_Naine"
+      }
+    ]
+  },
+  {
+    "id": "kadrin-reprend-karak-varn",
+    "annee": -1190,
+    "fin": -1185,
+    "approx": false,
+    "titre": {
+      "fr": "Kadrin Crinière Rouge reprend Karak Varn",
+      "en": "Kadrin Redmane retakes Karak Varn",
+      "de": "Kadrin Redmane erobert Karak Varn zurück"
+    },
+    "resume": {
+      "fr": "Le maître des runes Kadrin Crinière Rouge part de Zhufbar pour venger la profanation de Karak Varn par les Skavens. Les combats près du lac font surgir des monstres mutants qui dévorent les deux camps, mais les Nains l'emportent. Kadrin découvre un riche filon de gromril et les mineurs réinvestissent la forteresse.",
+      "en": "The Runesmith Kadrin Redmane sets out from Zhufbar to avenge the defilement of Karak Varn by the Skaven. The fighting near the lake draws out mutated monsters that devour both sides, but the Dwarfs prevail. Kadrin discovers a rich vein of gromril and miners resettle the hold.",
+      "de": "Der Runenschmied Kadrin Redmane bricht von Zhufbar auf, um die Schändung von Karak Varn durch die Skaven zu rächen. Die Kämpfe am See locken mutierte Ungeheuer hervor, die beide Seiten verschlingen, doch die Zwerge siegen. Kadrin entdeckt eine reiche Gromrilader, und Bergleute besiedeln die Festung neu."
+    },
+    "ere": "age-des-tribus",
+    "regions": [
+      "montagnes"
+    ],
+    "lieux": [
+      "karak-varn",
+      "zhufbar",
+      "lac-noir"
+    ],
+    "factions": [
+      "nains",
+      "skavens"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Dwarfs (8e édition, 2013)",
+          "en": "Warhammer Armies: Dwarfs (8th edition, 2013)",
+          "de": "Warhammer Armies: Dwarfs (8. Edition, 2013)"
+        },
+        "detail": {
+          "fr": "p. 20-21",
+          "en": "pp. 20-21",
+          "de": "S. 20-21"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Orcs & Goblins (8e édition, 2010)",
+          "en": "Warhammer Armies: Orcs & Goblins (8th edition, 2010)",
+          "de": "Warhammer Armies: Orcs & Goblins (8. Edition, 2010)"
+        },
+        "detail": {
+          "fr": "p. 28-29",
+          "en": "pp. 28-29",
+          "de": "S. 28-29"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Dwarf Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Dwarf Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Dwarf Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Dwarf_Timeline"
+      },
+      {
+        "titre": {
+          "fr": "Bibliothèque Impériale, page Chronologie Naine",
+          "en": "Bibliothèque Impériale, page Chronologie Naine",
+          "de": "Bibliothèque Impériale, Seite Chronologie Naine"
+        },
+        "detail": {
+          "fr": "entrée -1185",
+          "en": "entry -1185",
+          "de": "Eintrag -1185"
+        },
+        "url": "https://www.bibliotheque-imperiale.com/index.php/Chronologie_Naine"
+      }
+    ]
+  },
+  {
+    "id": "mort-de-kadrin-criniere-rouge",
+    "annee": -1136,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Mort de Kadrin Crinière Rouge aux Eaux Noires",
+      "en": "Death of Kadrin Redmane at Black Water",
+      "de": "Tod von Kadrin Redmane am Schwarzwasser"
+    },
+    "resume": {
+      "fr": "Alors qu'il escorte un convoi de gromril vers Karaz-a-Karak, Kadrin Crinière Rouge tombe dans une embuscade orque sur les rives des Eaux Noires. Avant de mourir, il jette son marteau runique dans le lac pour qu'il ne tombe pas aux mains de l'ennemi. En moins de dix ans, les Nains sont de nouveau chassés de Karak Varn.",
+      "en": "While escorting a shipment of gromril to Karaz-a-Karak, Kadrin Redmane is ambushed by Orcs on the shores of Black Water. Before dying he throws his rune hammer into the lake so that it does not fall into enemy hands. Within a decade the Dwarfs are driven out of Karak Varn once more.",
+      "de": "Während er eine Gromrillieferung nach Karaz-a-Karak geleitet, gerät Kadrin Redmane am Ufer des Schwarzwassers in einen Hinterhalt der Orks. Bevor er stirbt, wirft er seinen Runenhammer in den See, damit er nicht in Feindeshand fällt. Binnen eines Jahrzehnts werden die Zwerge erneut aus Karak Varn vertrieben."
+    },
+    "ere": "age-des-tribus",
+    "regions": [
+      "montagnes"
+    ],
+    "lieux": [
+      "lac-noir",
+      "karak-varn"
+    ],
+    "factions": [
+      "nains",
+      "peaux-vertes",
+      "skavens"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "La Bibliothèque Impériale appelle ce combat la bataille du Tertre Noir.",
+      "en": "The Bibliothèque Impériale calls this fight the battle of the Black Mound.",
+      "de": "Die Bibliothèque Impériale nennt diesen Kampf die Schlacht am Schwarzen Hügel."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Dwarfs (8e édition, 2013)",
+          "en": "Warhammer Armies: Dwarfs (8th edition, 2013)",
+          "de": "Warhammer Armies: Dwarfs (8. Edition, 2013)"
+        },
+        "detail": {
+          "fr": "p. 20-21",
+          "en": "pp. 20-21",
+          "de": "S. 20-21"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Orcs & Goblins (8e édition, 2010)",
+          "en": "Warhammer Armies: Orcs & Goblins (8th edition, 2010)",
+          "de": "Warhammer Armies: Orcs & Goblins (8. Edition, 2010)"
+        },
+        "detail": {
+          "fr": "p. 28-29",
+          "en": "pp. 28-29",
+          "de": "S. 28-29"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Dwarf Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Dwarf Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Dwarf Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Dwarf_Timeline"
+      },
+      {
+        "titre": {
+          "fr": "Bibliothèque Impériale, page Chronologie Naine",
+          "en": "Bibliothèque Impériale, page Chronologie Naine",
+          "de": "Bibliothèque Impériale, Seite Chronologie Naine"
+        },
+        "detail": {
+          "fr": "entrée -1136",
+          "en": "entry -1136",
+          "de": "Eintrag -1136"
+        },
+        "url": "https://www.bibliotheque-imperiale.com/index.php/Chronologie_Naine"
+      }
+    ]
+  },
+  {
+    "id": "waaagh-des-terres-arides-kadon",
+    "annee": -1020,
+    "fin": -1000,
+    "approx": true,
+    "titre": {
+      "fr": "Une Waaagh! reprend les Terres arides et tue Kadon",
+      "en": "A Waaagh! retakes the Badlands and slays Kadon",
+      "de": "Ein Waaagh! erobert die Ödlande zurück und tötet Kadon"
+    },
+    "resume": {
+      "fr": "Repoussés vers les Terres sombres par les Strygos et le nécromancien Kadon, les peaux-vertes reviennent en force. Une Waaagh! balaie ce qui deviendra les Terres arides et réduit en ruines les cités humaines de la région. Kadon est tué par des Orques sauvages, et ses derniers disciples emportent vers le nord la mystérieuse couronne qu'il détenait.",
+      "en": "Driven back into the Dark Lands by the Strygos and the necromancer Kadon, the Greenskins return in force. A Waaagh! sweeps through what will become the Badlands and turns the human cities of the region to rubble. Kadon is slain by Savage Orcs, and his last disciples carry the mysterious crown he held off to the north.",
+      "de": "Von den Strygos und dem Nekromanten Kadon in die Dunklen Lande zurückgedrängt, kehren die Grünhäute mit Macht zurück. Ein Waaagh! fegt über das spätere Ödland und legt die Menschenstädte der Region in Schutt. Kadon wird von Wilden Orks erschlagen, und seine letzten Jünger bringen die geheimnisvolle Krone, die er besaß, nach Norden."
+    },
+    "ere": "age-des-tribus",
+    "regions": [
+      "terres-arides"
+    ],
+    "lieux": [],
+    "factions": [
+      "peaux-vertes",
+      "humains-autres"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "La couronne de Kadon est la Couronne de Nagash, que la chronologie présente comme mystérieuse.",
+      "en": "Kadon's crown is the Crown of Nagash, which the chronology presents as mysterious.",
+      "de": "Kadons Krone ist die Krone des Nagash, die die Chronologie als geheimnisvoll bezeichnet."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Orcs & Goblins (8e édition, 2010)",
+          "en": "Warhammer Armies: Orcs & Goblins (8th edition, 2010)",
+          "de": "Warhammer Armies: Orcs & Goblins (8. Edition, 2010)"
+        },
+        "detail": {
+          "fr": "p. 28-29",
+          "en": "pp. 28-29",
+          "de": "S. 28-29"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Greenskin Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Greenskin Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Greenskin Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Greenskin_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "bataille-des-mille-maux",
+    "annee": -975,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Bataille des Mille Maux",
+      "en": "Battle of a Thousand Woes",
+      "de": "Schlacht der Tausend Leiden"
+    },
+    "resume": {
+      "fr": "Le Haut Roi Skorri Morgrimson conduit une immense armée pour reprendre Karak Ungor. Les Nains dégagent la vallée sud et la porte, mais ne peuvent pénétrer dans la citadelle et sont pris en embuscade. Skorri ramène les survivants à Karaz-a-Karak et meurt peu après, et les Nains renoncent pour longtemps aux reconquêtes.",
+      "en": "High King Skorri Morgrimson leads a vast army to retake Karak Ungor. The Dwarfs clear the southern valley and the gate, but cannot enter the citadel and are ambushed. Skorri leads the survivors back to Karaz-a-Karak and dies shortly after, and the Dwarfs give up reconquest for a long time.",
+      "de": "Hochkönig Skorri Morgrimson führt ein gewaltiges Heer zur Rückeroberung von Karak Ungor. Die Zwerge säubern das südliche Tal und das Tor, können aber nicht in die Zitadelle eindringen und geraten in einen Hinterhalt. Skorri führt die Überlebenden nach Karaz-a-Karak zurück und stirbt kurz darauf, und die Zwerge verzichten lange auf weitere Rückeroberungen."
+    },
+    "ere": "age-des-tribus",
+    "regions": [
+      "montagnes"
+    ],
+    "lieux": [
+      "karak-ungor",
+      "karaz-a-karak"
+    ],
+    "factions": [
+      "nains",
+      "peaux-vertes"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Dwarfs (8e édition, 2013)",
+          "en": "Warhammer Armies: Dwarfs (8th edition, 2013)",
+          "de": "Warhammer Armies: Dwarfs (8. Edition, 2013)"
+        },
+        "detail": {
+          "fr": "p. 20-21",
+          "en": "pp. 20-21",
+          "de": "S. 20-21"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Orcs & Goblins (8e édition, 2010)",
+          "en": "Warhammer Armies: Orcs & Goblins (8th edition, 2010)",
+          "de": "Warhammer Armies: Orcs & Goblins (8. Edition, 2010)"
+        },
+        "detail": {
+          "fr": "p. 28-29",
+          "en": "pp. 28-29",
+          "de": "S. 28-29"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Dwarf Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Dwarf Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Dwarf Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Dwarf_Timeline"
+      },
+      {
+        "titre": {
+          "fr": "Bibliothèque Impériale, page Chronologie Naine",
+          "en": "Bibliothèque Impériale, page Chronologie Naine",
+          "de": "Bibliothèque Impériale, Seite Chronologie Naine"
+        },
+        "detail": {
+          "fr": "entrée -975",
+          "en": "entry -975",
+          "de": "Eintrag -975"
+        },
+        "url": "https://www.bibliotheque-imperiale.com/index.php/Chronologie_Naine"
+      }
+    ]
+  },
+  {
+    "id": "gobelins-du-nuage-rouge-a-karak-azul",
+    "annee": -750,
+    "fin": -740,
+    "approx": true,
+    "titre": {
+      "fr": "Les Gobelins du Nuage Rouge à Karak Azul",
+      "en": "The Red Cloud Goblins in Karak Azul",
+      "de": "Die Red-Cloud-Goblins in Karak Azul"
+    },
+    "resume": {
+      "fr": "Les Gobelins de la Nuit sont repoussés de Karak Azgal, mais la tribu du Nuage Rouge découvre un passage nain oublié qui relie ses montagnes à Karak Azul. Elle s'empare ainsi des salles occidentales et des profondeurs de la forteresse. Il faut dix ans de combats et des querelles internes chez les gobelins pour que les Nains les chassent, et le tunnel doit depuis être gardé en permanence.",
+      "en": "The Night Goblins are repulsed from Karak Azgal, but the Red Cloud tribe discovers a forgotten Dwarf passage linking its mountains to Karak Azul. It thus seizes the western halls and the deeps of the hold. It takes ten years of fighting and infighting among the goblins for the Dwarfs to expel them, and the tunnel must be guarded ever since.",
+      "de": "Die Nachtgoblins werden von Karak Azgal zurückgeschlagen, doch der Stamm Red Cloud entdeckt einen vergessenen Zwergengang, der seine Berge mit Karak Azul verbindet. So besetzt er die westlichen Hallen und die Tiefen der Festung. Erst nach zehn Jahren Kampf und internen Streitigkeiten der Goblins können die Zwerge sie vertreiben, und der Tunnel muss seitdem ständig bewacht werden."
+    },
+    "ere": "age-des-tribus",
+    "regions": [
+      "montagnes"
+    ],
+    "lieux": [
+      "karak-azul",
+      "karak-azgal"
+    ],
+    "factions": [
+      "nains",
+      "peaux-vertes"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Dwarfs (8e édition, 2013)",
+          "en": "Warhammer Armies: Dwarfs (8th edition, 2013)",
+          "de": "Warhammer Armies: Dwarfs (8. Edition, 2013)"
+        },
+        "detail": {
+          "fr": "p. 20-21",
+          "en": "pp. 20-21",
+          "de": "S. 20-21"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Orcs & Goblins (8e édition, 2010)",
+          "en": "Warhammer Armies: Orcs & Goblins (8th edition, 2010)",
+          "de": "Warhammer Armies: Orcs & Goblins (8. Edition, 2010)"
+        },
+        "detail": {
+          "fr": "p. 28-29",
+          "en": "pp. 28-29",
+          "de": "S. 28-29"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Greenskin Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Greenskin Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Greenskin Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Greenskin_Timeline"
+      },
+      {
+        "titre": {
+          "fr": "Bibliothèque Impériale, page Chronologie Naine",
+          "en": "Bibliothèque Impériale, page Chronologie Naine",
+          "de": "Bibliothèque Impériale, Seite Chronologie Naine"
+        },
+        "detail": {
+          "fr": "entrée -750",
+          "en": "entry -750",
+          "de": "Eintrag -750"
+        },
+        "url": "https://www.bibliotheque-imperiale.com/index.php/Chronologie_Naine"
+      }
+    ]
+  },
+  {
+    "id": "skaladrak-l-incarnadin",
+    "annee": -720,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Première apparition du dragon Skaladrak l'Incarnadin",
+      "en": "First sighting of the dragon Skaladrak Incarnadine",
+      "de": "Erstes Auftreten des Drachen Skaladrak der Blutrote"
+    },
+    "resume": {
+      "fr": "Le dragon Skaladrak l'Incarnadin est mentionné pour la première fois dans les archives naines lorsqu'il détruit plusieurs mines près de Karak Kadrin. Il deviendra un fléau récurrent pour la forteresse. Il ravagera de nouveau ses terres en 1420 CI.",
+      "en": "The dragon Skaladrak Incarnadine is first recorded in Dwarf archives when it destroys several mines near Karak Kadrin. It will become a recurring scourge for the hold. It will ravage its lands again in 1420 IC.",
+      "de": "Der Drache Skaladrak der Blutrote wird erstmals in den zwergischen Annalen erwähnt, als er mehrere Minen nahe Karak Kadrin zerstört. Er wird zu einer wiederkehrenden Plage für die Festung. Im Jahr 1420 IK verwüstet er ihre Lande erneut."
+    },
+    "ere": "age-des-tribus",
+    "regions": [
+      "montagnes"
+    ],
+    "lieux": [
+      "karak-kadrin"
+    ],
+    "factions": [
+      "nains"
+    ],
+    "importance": 1,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Dwarfs (8e édition, 2013)",
+          "en": "Warhammer Armies: Dwarfs (8th edition, 2013)",
+          "de": "Warhammer Armies: Dwarfs (8. Edition, 2013)"
+        },
+        "detail": {
+          "fr": "p. 20-21",
+          "en": "pp. 20-21",
+          "de": "S. 20-21"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Dwarf Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Dwarf Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Dwarf Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Dwarf_Timeline"
+      },
+      {
+        "titre": {
+          "fr": "Bibliothèque Impériale, page Chronologie Naine",
+          "en": "Bibliothèque Impériale, page Chronologie Naine",
+          "de": "Bibliothèque Impériale, Seite Chronologie Naine"
+        },
+        "detail": {
+          "fr": "entrée -720",
+          "en": "entry -720",
+          "de": "Eintrag -720"
+        },
+        "url": "https://www.bibliotheque-imperiale.com/index.php/Chronologie_Naine"
+      }
+    ]
+  },
+  {
+    "id": "baragor-premier-roi-tueur",
+    "annee": -650,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Baragor, premier Roi Tueur de Karak Kadrin",
+      "en": "Baragor, first Slayer King of Karak Kadrin",
+      "de": "Baragor, erster Slayerkönig von Karak Kadrin"
+    },
+    "resume": {
+      "fr": "Rongé par une honte dont la nature reste secrète, le roi Baragor de Karak Kadrin prête le serment du Tueur. Il consacre le grand temple de Grimnir de sa forteresse et prend le nom d'Ungrim. Ses descendants, liés par le même serment, régneront comme Rois Tueurs, et Karak Kadrin deviendra le lieu de pèlerinage des Tueurs.",
+      "en": "Consumed by a shame whose nature remains secret, King Baragor of Karak Kadrin swears the Slayer oath. He dedicates the great Shrine of Grimnir in his hold and takes the name Ungrim. His descendants, bound by the same oath, will rule as Slayer Kings, and Karak Kadrin will become the place of pilgrimage of the Slayers.",
+      "de": "Von einer Schande zerfressen, deren Art geheim bleibt, legt König Baragor von Karak Kadrin den Slayereid ab. Er weiht den großen Schrein Grimnirs in seiner Festung und nimmt den Namen Ungrim an. Seine Nachkommen, an denselben Eid gebunden, herrschen als Slayerkönige, und Karak Kadrin wird zum Wallfahrtsort der Slayer."
+    },
+    "ere": "age-des-tribus",
+    "regions": [
+      "montagnes"
+    ],
+    "lieux": [
+      "karak-kadrin"
+    ],
+    "factions": [
+      "nains"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "La cause de la honte de Baragor n'est pas précisée par les sources consultées.",
+      "en": "The cause of Baragor's shame is not stated by the sources consulted.",
+      "de": "Die Ursache von Baragors Schande wird in den herangezogenen Quellen nicht genannt."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Dwarfs (8e édition, 2013)",
+          "en": "Warhammer Armies: Dwarfs (8th edition, 2013)",
+          "de": "Warhammer Armies: Dwarfs (8. Edition, 2013)"
+        },
+        "detail": {
+          "fr": "p. 20-21",
+          "en": "pp. 20-21",
+          "de": "S. 20-21"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Dwarf Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Dwarf Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Dwarf Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Dwarf_Timeline"
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Ungrim Ironfist",
+          "en": "Warhammer Fantasy Wiki (fandom), page Ungrim Ironfist",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Ungrim Ironfist"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Ungrim_Ironfist"
+      },
+      {
+        "titre": {
+          "fr": "Bibliothèque Impériale, page Chronologie Naine",
+          "en": "Bibliothèque Impériale, page Chronologie Naine",
+          "de": "Bibliothèque Impériale, Seite Chronologie Naine"
+        },
+        "detail": {
+          "fr": "entrée -650",
+          "en": "entry -650",
+          "de": "Eintrag -650"
+        },
+        "url": "https://www.bibliotheque-imperiale.com/index.php/Chronologie_Naine"
+      }
+    ]
+  },
+  {
+    "id": "waaagh-d-ugrok",
+    "annee": -380,
+    "fin": -379,
+    "approx": false,
+    "titre": {
+      "fr": "La Waaagh! d'Ugrok Brûle-Barbe",
+      "en": "Ugrok Beardburner's Waaagh!",
+      "de": "Ugrok Bartbrenners Waaagh!"
+    },
+    "resume": {
+      "fr": "Le chef orque Ugrok Brûle-Barbe mène sa horde contre Karaz-a-Karak, détruit de nombreuses colonies et capture le Haut Roi Logan Fièrebarbe, qui ne se remettra jamais de cette humiliation. L'année suivante, les peaux-vertes sont écrasés à la bataille des Eaux Noires. Le canon nain, tout juste inventé, y joue un grand rôle et Ugrok y perd la tête.",
+      "en": "The Orc warlord Ugrok Beardburner leads his horde against Karaz-a-Karak, destroys many settlements and captures High King Logan Proudbeard, who never recovers from the humiliation. The following year the Greenskins are crushed at the battle of Black Water. The newly invented Dwarf cannon plays a large part in it, and Ugrok loses his head.",
+      "de": "Der Orkboss Ugrok Bartbrenner führt seine Horde gegen Karaz-a-Karak, zerstört zahlreiche Siedlungen und nimmt Hochkönig Logan Stolzbart gefangen, der sich von dieser Schmach nie erholt. Im folgenden Jahr werden die Grünhäute in der Schlacht am Schwarzwasser vernichtet. Die eben erfundene Zwergenkanone spielt dabei eine große Rolle, und Ugrok verliert seinen Kopf."
+    },
+    "ere": "age-des-tribus",
+    "regions": [
+      "montagnes"
+    ],
+    "lieux": [
+      "karaz-a-karak",
+      "lac-noir"
+    ],
+    "factions": [
+      "nains",
+      "peaux-vertes"
+    ],
+    "importance": 3,
+    "fiabilite": "divergent",
+    "note": {
+      "fr": "Le Livre d'Armée Nains (8e édition) date l'attaque de -380 CI, la chronologie des Orques et Gobelins (8e édition) d'environ -370 CI.",
+      "en": "The Dwarfs army book (8th edition) dates the attack to -380 IC, the Orcs & Goblins chronology (8th edition) to around -370 IC.",
+      "de": "Das Armeebuch Zwerge (8. Edition) datiert den Angriff auf -380 IK, die Chronologie der Orks & Goblins (8. Edition) auf etwa -370 IK."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Dwarfs (8e édition, 2013)",
+          "en": "Warhammer Armies: Dwarfs (8th edition, 2013)",
+          "de": "Warhammer Armies: Dwarfs (8. Edition, 2013)"
+        },
+        "detail": {
+          "fr": "p. 20-21",
+          "en": "pp. 20-21",
+          "de": "S. 20-21"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Orcs & Goblins (8e édition, 2010)",
+          "en": "Warhammer Armies: Orcs & Goblins (8th edition, 2010)",
+          "de": "Warhammer Armies: Orcs & Goblins (8. Edition, 2010)"
+        },
+        "detail": {
+          "fr": "p. 28-29",
+          "en": "pp. 28-29",
+          "de": "S. 28-29"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Dwarf Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Dwarf Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Dwarf Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Dwarf_Timeline"
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Greenskin Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Greenskin Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Greenskin Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Greenskin_Timeline"
+      },
+      {
+        "titre": {
+          "fr": "Bibliothèque Impériale, page Chronologie Naine",
+          "en": "Bibliothèque Impériale, page Chronologie Naine",
+          "de": "Bibliothèque Impériale, Seite Chronologie Naine"
+        },
+        "detail": {
+          "fr": "entrée -380",
+          "en": "entry -380",
+          "de": "Eintrag -380"
+        },
+        "url": "https://www.bibliotheque-imperiale.com/index.php/Chronologie_Naine"
+      }
+    ]
+  },
+  {
+    "id": "expedition-de-daled",
+    "annee": -108,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Expédition de Daled vers les trésors de Karak Azgal",
+      "en": "Daled's expedition to the treasures of Karak Azgal",
+      "de": "Daleds Expedition zu den Schätzen von Karak Azgal"
+    },
+    "resume": {
+      "fr": "Daled Souffle-les-Éclairs conduit une expédition dans les ruines de Karak Azgal pour retrouver les trésors perdus de la forteresse. Depuis sa chute, ses salles attirent les chasseurs de fortune nains. L'issue de l'expédition n'est pas rapportée par la chronologie.",
+      "en": "Daled Stormbreaker leads an expedition into the ruins of Karak Azgal to recover the hold's lost treasures. Since its fall, its halls have drawn Dwarf fortune seekers. The chronology does not record the outcome of the expedition.",
+      "de": "Daled Sturmbrecher führt eine Expedition in die Ruinen von Karak Azgal, um die verlorenen Schätze der Festung zu bergen. Seit ihrem Fall locken ihre Hallen zwergische Glücksritter an. Der Ausgang der Expedition wird in der Chronologie nicht berichtet."
+    },
+    "ere": "age-des-tribus",
+    "regions": [
+      "montagnes"
+    ],
+    "lieux": [
+      "karak-azgal"
+    ],
+    "factions": [
+      "nains"
+    ],
+    "importance": 1,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Dwarfs (8e édition, 2013)",
+          "en": "Warhammer Armies: Dwarfs (8th edition, 2013)",
+          "de": "Warhammer Armies: Dwarfs (8. Edition, 2013)"
+        },
+        "detail": {
+          "fr": "p. 20-21",
+          "en": "pp. 20-21",
+          "de": "S. 20-21"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Dwarf Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Dwarf Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Dwarf Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Dwarf_Timeline"
+      },
+      {
+        "titre": {
+          "fr": "Bibliothèque Impériale, page Chronologie Naine",
+          "en": "Bibliothèque Impériale, page Chronologie Naine",
+          "de": "Bibliothèque Impériale, Seite Chronologie Naine"
+        },
+        "detail": {
+          "fr": "entrée -108",
+          "en": "entry -108",
+          "de": "Eintrag -108"
+        },
+        "url": "https://www.bibliotheque-imperiale.com/index.php/Chronologie_Naine"
+      }
+    ]
+  },
+  {
+    "id": "orques-envahissent-la-tilee",
+    "annee": 475,
+    "fin": 500,
+    "approx": false,
+    "titre": {
+      "fr": "Les Orques envahissent la Tilée",
+      "en": "Orcs invade Tilea",
+      "de": "Orks fallen in Tilea ein"
+    },
+    "resume": {
+      "fr": "Des hordes orques déferlent sur la Tilée et mettent à sac de nombreuses cités avant d'être vaincues. Quelques tribus survivantes trouvent refuge dans les Monts Apuccini. Elles y resteront une menace pour les cités tiléennes.",
+      "en": "Orc hordes pour into Tilea and sack many cities before being defeated. A few surviving tribes find refuge in the Apuccini Mountains. They will remain a threat to the Tilean cities from there.",
+      "de": "Orkhorden fallen in Tilea ein und plündern viele Städte, bevor sie besiegt werden. Einige überlebende Stämme finden Zuflucht in den Apuccini-Bergen. Von dort bleiben sie eine Bedrohung für die tileanischen Städte."
+    },
+    "ere": "empire-sigmarite",
+    "regions": [
+      "tilee-estalie"
+    ],
+    "lieux": [],
+    "factions": [
+      "peaux-vertes",
+      "humains-autres"
+    ],
+    "importance": 1,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Orcs & Goblins (8e édition, 2010)",
+          "en": "Warhammer Armies: Orcs & Goblins (8th edition, 2010)",
+          "de": "Warhammer Armies: Orcs & Goblins (8. Edition, 2010)"
+        },
+        "detail": {
+          "fr": "p. 28-29",
+          "en": "pp. 28-29",
+          "de": "S. 28-29"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Greenskin Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Greenskin Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Greenskin Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Greenskin_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "chute-de-karak-vrag",
+    "annee": 590,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Chute de Karak Vrag",
+      "en": "Fall of Karak Vrag",
+      "de": "Fall von Karak Vrag"
+    },
+    "resume": {
+      "fr": "Karak Vrag, l'une des rares forteresses naines fondées dans les Montagnes du Deuil, tombe. Son isolement loin à l'est la rendait difficile à secourir. Les circonstances exactes de sa perte ne sont pas détaillées par la chronologie naine.",
+      "en": "Karak Vrag, one of the few Dwarf holds founded in the Mountains of Mourn, falls. Its isolation far to the east made it hard to relieve. The exact circumstances of its loss are not detailed by the Dwarf chronology.",
+      "de": "Karak Vrag, eine der wenigen in den Bergen der Trauer gegründeten Zwergenfestungen, fällt. Ihre abgelegene Lage weit im Osten machte Entsatz schwierig. Die genauen Umstände ihres Verlusts werden in der zwergischen Chronologie nicht geschildert."
+    },
+    "ere": "empire-sigmarite",
+    "regions": [
+      "terres-arides"
+    ],
+    "lieux": [],
+    "factions": [
+      "nains"
+    ],
+    "importance": 1,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Dwarfs (8e édition, 2013)",
+          "en": "Warhammer Armies: Dwarfs (8th edition, 2013)",
+          "de": "Warhammer Armies: Dwarfs (8. Edition, 2013)"
+        },
+        "detail": {
+          "fr": "p. 20-21",
+          "en": "pp. 20-21",
+          "de": "S. 20-21"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Dwarf Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Dwarf Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Dwarf Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Dwarf_Timeline"
+      },
+      {
+        "titre": {
+          "fr": "Bibliothèque Impériale, page Chronologie Naine",
+          "en": "Bibliothèque Impériale, page Chronologie Naine",
+          "de": "Bibliothèque Impériale, Seite Chronologie Naine"
+        },
+        "detail": {
+          "fr": "entrée 590",
+          "en": "entry 590",
+          "de": "Eintrag 590"
+        },
+        "url": "https://www.bibliotheque-imperiale.com/index.php/Chronologie_Naine"
+      }
+    ]
+  },
+  {
+    "id": "quetes-de-dorin-heldour",
+    "annee": 662,
+    "fin": 742,
+    "approx": false,
+    "titre": {
+      "fr": "Les quêtes de Dorin Heldour et Katalin Kandoom",
+      "en": "The quests of Dorin Heldour and Katalin Kandoom",
+      "de": "Die Abenteuer von Dorin Heldour und Katalin Kandoom"
+    },
+    "resume": {
+      "fr": "Dorin Heldour et Katalin Kandoom retrouvent la Pierre de Foyer perdue d'Aldin Getgold dans l'Échine du Dragon, puis rapportent de Karak Varn la Hache de Dail au Haut Roi Finn Sourscowl. Dorin lui offre aussi la peau du dragon Fyrskar, gravée de runes. En 742 CI, les deux héros libèrent Elmador et Oldor Finnson des geôles du Pic Noir, et Elmador deviendra Haut Roi.",
+      "en": "Dorin Heldour and Katalin Kandoom recover the Lost Heartstone of Aldin Getgold in the Dragonback Mountains, then bring the Axe of Dail back from Karak Varn to High King Finn Sourscowl. Dorin also gives him the skin of the dragon Fyrskar, which is engraved with runes. In 742 IC the two heroes free Elmador and Oldor Finnson from the dungeons of Black Crag, and Elmador will become High King.",
+      "de": "Dorin Heldour und Katalin Kandoom finden den verlorenen Herdstein von Aldin Getgold in den Drachenrückenbergen und bringen dann die Axt des Dail aus Karak Varn zu Hochkönig Finn Sourscowl. Dorin schenkt ihm außerdem die Haut des Drachen Fyrskar, die mit Runen graviert wird. Im Jahr 742 IK befreien die beiden Helden Elmador und Oldor Finnson aus den Kerkern von Black Crag, und Elmador wird später Hochkönig."
+    },
+    "ere": "empire-sigmarite",
+    "regions": [
+      "montagnes",
+      "terres-arides"
+    ],
+    "lieux": [
+      "karak-varn",
+      "karak-drazh",
+      "karaz-a-karak"
+    ],
+    "factions": [
+      "nains",
+      "peaux-vertes"
+    ],
+    "importance": 1,
+    "fiabilite": "incertain",
+    "note": {
+      "fr": "Ces aventures viennent de suppléments anciens (White Dwarf et jeu de rôle) reprises par la chronologie du wiki fandom et de la Bibliothèque Impériale. La Bibliothèque Impériale nomme le Haut Roi Frin Grisemine.",
+      "en": "These adventures come from old supplements (White Dwarf and roleplay) taken up by the fandom wiki and Bibliothèque Impériale chronologies. The Bibliothèque Impériale names the High King Frin Grisemine.",
+      "de": "Diese Abenteuer stammen aus alten Ergänzungen (White Dwarf und Rollenspiel), übernommen von den Chronologien des Fandom-Wikis und der Bibliothèque Impériale. Die Bibliothèque Impériale nennt den Hochkönig Frin Grisemine."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Dwarf Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Dwarf Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Dwarf Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Dwarf_Timeline"
+      },
+      {
+        "titre": {
+          "fr": "Bibliothèque Impériale, page Chronologie Naine",
+          "en": "Bibliothèque Impériale, page Chronologie Naine",
+          "de": "Bibliothèque Impériale, Seite Chronologie Naine"
+        },
+        "detail": {
+          "fr": "entrée 662 à 742",
+          "en": "entry 662 à 742",
+          "de": "Eintrag 662 à 742"
+        },
+        "url": "https://www.bibliotheque-imperiale.com/index.php/Chronologie_Naine"
+      }
+    ]
+  },
+  {
+    "id": "canal-d-uzkulak",
+    "annee": 1000,
+    "fin": null,
+    "approx": true,
+    "titre": {
+      "fr": "Les Nains du Chaos creusent le canal d'Uzkulak",
+      "en": "The Chaos Dwarfs dig the Uzkulak canal",
+      "de": "Die Chaoszwerge graben den Kanal von Uzkulak"
+    },
+    "resume": {
+      "fr": "Pour répondre à leur besoin sans cesse croissant d'esclaves, les Nains du Chaos creusent un immense canal souterrain. Il relie les Chutes du Destin, au nord de Zharr-Naggrund, à la Mer du Chaos, à l'ouest d'Uzkulak, l'ancien siège des Nains de l'est. Leur flotte gagne ainsi un accès vers le nord.",
+      "en": "To meet their ever-growing need for slaves, the Chaos Dwarfs dig a huge underground canal. It links the Falls of Doom, north of Zharr-Naggrund, with the Sea of Chaos, west of Uzkulak, the former seat of the eastern Dwarfs. Their fleet thus gains an outlet to the north.",
+      "de": "Um ihren stetig wachsenden Bedarf an Sklaven zu decken, graben die Chaoszwerge einen gewaltigen unterirdischen Kanal. Er verbindet die Fälle des Verderbens nördlich von Zharr-Naggrund mit dem Chaosmeer westlich von Uzkulak, dem einstigen Sitz der Zwerge des Ostens. So erhält ihre Flotte einen Zugang nach Norden."
+    },
+    "ere": "empire-sigmarite",
+    "regions": [
+      "terres-arides",
+      "desolations"
+    ],
+    "lieux": [
+      "uzkulak",
+      "zharr-naggrund"
+    ],
+    "factions": [
+      "nains",
+      "chaos"
+    ],
+    "importance": 1,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "Le livre des Nains du Chaos donne la date « vers 1000 CI ». Les Nains du Chaos n'ont pas de faction propre dans le référentiel et sont classés ici sous les factions Nains et Chaos.",
+      "en": "The Chaos Dwarfs book gives the date as around 1000 IC. The Chaos Dwarfs have no faction of their own in the reference list and are filed here under the Dwarfs and Chaos factions.",
+      "de": "Das Buch der Chaoszwerge nennt das Datum um 1000 IK. Die Chaoszwerge haben im Referenzverzeichnis keine eigene Fraktion und werden hier unter den Fraktionen Zwerge und Chaos geführt."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Chaos Dwarfs (4e édition)",
+          "en": "Warhammer Armies: Chaos Dwarfs (4th edition)",
+          "de": "Warhammer Armies: Chaos Dwarfs (4. Edition)"
+        },
+        "detail": {
+          "fr": "p. 8",
+          "en": "p. 8",
+          "de": "S. 8"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Tamurkhan: The Throne of Chaos (Forge World, 2013)",
+          "en": "Tamurkhan: The Throne of Chaos (Forge World, 2013)",
+          "de": "Tamurkhan: The Throne of Chaos (Forge World, 2013)"
+        },
+        "detail": {
+          "fr": "p. 165",
+          "en": "p. 165",
+          "de": "S. 165"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Uzkulak",
+          "en": "Warhammer Fantasy Wiki (fandom), page Uzkulak",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Uzkulak"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Uzkulak"
+      }
+    ]
+  },
+  {
+    "id": "machine-a-vapeur-naine",
+    "annee": 1022,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Les ingénieurs de Karaz-a-Karak mettent au point la machine à vapeur",
+      "en": "Karaz-a-Karak engineers develop the steam engine",
+      "de": "Die Ingenieure von Karaz-a-Karak entwickeln die Dampfmaschine"
+    },
+    "resume": {
+      "fr": "Les ingénieurs de Karaz-a-Karak mettent au point la machine à vapeur. Les Nains engagent à la même époque le commerce avec les nobles bretonniens qui se taillent des fiefs dans les Royaumes frontaliers, par l'intermédiaire de Barak Varr. La vapeur deviendra le cœur de l'ingénierie naine.",
+      "en": "The engineers of Karaz-a-Karak develop the steam engine. At the same time the Dwarfs open trade, through Barak Varr, with the Bretonnian nobles carving out fiefs in the Border Princes. Steam will become the heart of Dwarf engineering.",
+      "de": "Die Ingenieure von Karaz-a-Karak entwickeln die Dampfmaschine. Zur gleichen Zeit knüpfen die Zwerge über Barak Varr Handel mit den bretonischen Adligen, die sich in den Grenzgrafschaften Lehen erkämpfen. Der Dampf wird zum Kern der zwergischen Ingenieurskunst."
+    },
+    "ere": "empire-sigmarite",
+    "regions": [
+      "montagnes",
+      "royaumes-frontaliers"
+    ],
+    "lieux": [
+      "karaz-a-karak",
+      "barak-varr"
+    ],
+    "factions": [
+      "nains",
+      "bretonnie"
+    ],
+    "importance": 1,
+    "fiabilite": "incertain",
+    "note": {
+      "fr": "Entrée de la seule chronologie du wiki fandom, sans source précise indiquée pour cette ligne.",
+      "en": "Entry from the fandom wiki timeline only, with no specific source given for this line.",
+      "de": "Eintrag nur in der Chronologie des Fandom-Wikis, ohne genaue Quellenangabe für diese Zeile."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Dwarf Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Dwarf Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Dwarf Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Dwarf_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "skalf-tueur-de-dragons",
+    "annee": 1032,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Skalf Tueur-de-Dragons revendique Karak Azgal",
+      "en": "Skalf Dragonslayer claims Karak Azgal",
+      "de": "Skalf Drachentöter beansprucht Karak Azgal"
+    },
+    "resume": {
+      "fr": "Le guerrier nain Skalf Tueur-de-Dragons pénètre dans les ruines de Karak Azgal et tue le dragon Graug le Terrible, qui s'en était emparé après le départ des orques. Il se proclame roi de la forteresse. Les salles restant infestées de Gobelins de la Nuit, il fonde une ville dans la vallée, au pied de l'ancienne entrée.",
+      "en": "The Dwarf warrior Skalf Dragonslayer enters the ruins of Karak Azgal and slays the dragon Graug the Terrible, which had taken it after the Orcs left. He claims the kingship of the hold. As the halls remain infested with Night Goblins, he founds a town in the valley below the old entrance.",
+      "de": "Der Zwergenkrieger Skalf Drachentöter dringt in die Ruinen von Karak Azgal ein und erschlägt den Drachen Graug den Schrecklichen, der sie nach dem Abzug der Orks besetzt hatte. Er erhebt Anspruch auf die Königswürde der Festung. Da die Hallen von Nachtgoblins verseucht bleiben, gründet er im Tal unterhalb des alten Eingangs eine Stadt."
+    },
+    "ere": "empire-sigmarite",
+    "regions": [
+      "montagnes"
+    ],
+    "lieux": [
+      "karak-azgal"
+    ],
+    "factions": [
+      "nains",
+      "peaux-vertes"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Dwarfs (8e édition, 2013)",
+          "en": "Warhammer Armies: Dwarfs (8th edition, 2013)",
+          "de": "Warhammer Armies: Dwarfs (8. Edition, 2013)"
+        },
+        "detail": {
+          "fr": "p. 20-21",
+          "en": "pp. 20-21",
+          "de": "S. 20-21"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Karak Azgal",
+          "en": "Warhammer Fantasy Wiki (fandom), page Karak Azgal",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Karak Azgal"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Karak_Azgal"
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Dwarf Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Dwarf Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Dwarf Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Dwarf_Timeline"
+      },
+      {
+        "titre": {
+          "fr": "Bibliothèque Impériale, page Chronologie Naine",
+          "en": "Bibliothèque Impériale, page Chronologie Naine",
+          "de": "Bibliothèque Impériale, Seite Chronologie Naine"
+        },
+        "detail": {
+          "fr": "entrée 1032",
+          "en": "entry 1032",
+          "de": "Eintrag 1032"
+        },
+        "url": "https://www.bibliotheque-imperiale.com/index.php/Chronologie_Naine"
+      }
+    ]
+  },
+  {
+    "id": "gobelins-des-forets-et-peste-noire",
+    "annee": 1115,
+    "fin": 1140,
+    "approx": false,
+    "titre": {
+      "fr": "Les Gobelins des forêts profitent de la Peste noire",
+      "en": "Forest Goblins exploit the Black Plague",
+      "de": "Waldgoblins nutzen den Schwarzen Tod"
+    },
+    "resume": {
+      "fr": "Pendant que la Peste noire ravage l'Empire, les Gobelins des forêts sortent des bois pour disputer aux Skavens les dépouilles des provinces dévastées. Tous les villages humains proches du Puits Noir, le domaine sacré des araignées au cœur de la Drakwald, sont rasés. Les rares survivants parlent d'araignées plus grandes que des maisons.",
+      "en": "While the Black Plague ravages the Empire, Forest Goblins emerge from the woods to fight the Skaven over the spoils of the devastated provinces. Every human village near the Black Pit, the sacred spider grounds deep in the Drakwald, is razed. The few survivors tell of spiders larger than houses.",
+      "de": "Während der Schwarze Tod das Imperium verwüstet, kommen Waldgoblins aus den Wäldern, um den Skaven die Beute der verheerten Provinzen streitig zu machen. Alle Menschendörfer nahe der Schwarzen Grube, dem heiligen Spinnenland tief im Drakwald, werden niedergebrannt. Die wenigen Überlebenden erzählen von Spinnen, größer als Häuser."
+    },
+    "ere": "empire-sigmarite",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [],
+    "factions": [
+      "peaux-vertes",
+      "skavens",
+      "empire"
+    ],
+    "importance": 1,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Orcs & Goblins (8e édition, 2010)",
+          "en": "Warhammer Armies: Orcs & Goblins (8th edition, 2010)",
+          "de": "Warhammer Armies: Orcs & Goblins (8. Edition, 2010)"
+        },
+        "detail": {
+          "fr": "p. 28-29",
+          "en": "pp. 28-29",
+          "de": "S. 28-29"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Greenskin Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Greenskin Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Greenskin Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Greenskin_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "gorbad-unifie-le-rocher-de-fer",
+    "annee": 1705,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Gorbad Griffe-de-Fer unifie les tribus du Rocher de Fer",
+      "en": "Gorbad Ironclaw unites the tribes of Iron Rock",
+      "de": "Gorbad Eisenklaue vereint die Stämme von Iron Rock"
+    },
+    "resume": {
+      "fr": "Au Rocher de Fer, la forteresse orque du nord des Terres arides, Gorbad Griffe-de-Fer bat Crusher Zogoth. Il unit ainsi les tribus Griffe-de-Fer et Dent-Cassée en une seule coalition. C'est la force qui lui permettra de lancer deux ans plus tard sa grande Waaagh! contre l'Empire.",
+      "en": "At Iron Rock, the Orc fortress of the northern Badlands, Gorbad Ironclaw defeats Crusher Zogoth. He thus unites the Ironclaw and Broken Tooth tribes into a single coalition. It is the force that will allow him to launch his great Waaagh! against the Empire two years later.",
+      "de": "Bei Iron Rock, der Orkfestung im Norden der Ödlande, besiegt Gorbad Eisenklaue Crusher Zogoth. So vereint er die Stämme Eisenklaue und Zerbrochener Zahn zu einer einzigen Koalition. Mit dieser Streitmacht kann er zwei Jahre später sein großes Waaagh! gegen das Imperium beginnen."
+    },
+    "ere": "trois-empereurs",
+    "regions": [
+      "terres-arides"
+    ],
+    "lieux": [
+      "rocher-de-fer"
+    ],
+    "factions": [
+      "peaux-vertes"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "La Waaagh! de Gorbad elle-même fait l'objet d'une entrée distincte. Le nom du vaincu varie entre Zogoth et Zorgoth selon les pages.",
+      "en": "Gorbad's Waaagh! itself has its own entry. The defeated chief's name varies between Zogoth and Zorgoth depending on the page.",
+      "de": "Gorbads Waaagh! selbst hat einen eigenen Eintrag. Der Name des Besiegten schwankt je nach Seite zwischen Zogoth und Zorgoth."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Orcs & Goblins (8e édition, 2010)",
+          "en": "Warhammer Armies: Orcs & Goblins (8th edition, 2010)",
+          "de": "Warhammer Armies: Orcs & Goblins (8. Edition, 2010)"
+        },
+        "detail": {
+          "fr": "p. 28-29",
+          "en": "pp. 28-29",
+          "de": "S. 28-29"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Warhammer: Blood in the Badlands (2011)",
+          "en": "Warhammer: Blood in the Badlands (2011)",
+          "de": "Warhammer: Blood in the Badlands (2011)"
+        },
+        "detail": {
+          "fr": "p. 9",
+          "en": "p. 9",
+          "de": "S. 9"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Greenskin Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Greenskin Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Greenskin Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Greenskin_Timeline"
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Iron Rock",
+          "en": "Warhammer Fantasy Wiki (fandom), page Iron Rock",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Iron Rock"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Iron_Rock"
+      }
+    ]
+  },
+  {
+    "id": "kendrak-gottrison-ecrase-gorbad",
+    "annee": 1712,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Kendrak Gottrison anéantit les restes de la Waaagh! de Gorbad",
+      "en": "Kendrak Gottrison destroys the remnants of Gorbad's Waaagh!",
+      "de": "Kendrak Gottrison vernichtet die Reste von Gorbads Waaagh!"
+    },
+    "resume": {
+      "fr": "Après l'échec du siège d'Altdorf, la horde de Gorbad Griffe-de-Fer reflue vers les Terres arides. Le Haut Roi Kendrak Gottrison l'attaque et la détruit dans le Col du Feu Noir. C'est la dernière fois que Gorbad est vu.",
+      "en": "After the failed siege of Altdorf, the horde of Gorbad Ironclaw limps back towards the Badlands. High King Kendrak Gottrison attacks and destroys it in Black Fire Pass. It is the last time Gorbad is seen.",
+      "de": "Nach der gescheiterten Belagerung von Altdorf zieht sich die Horde von Gorbad Eisenklaue in die Ödlande zurück. Hochkönig Kendrak Gottrison greift sie im Schwarzfeuerpass an und vernichtet sie. Es ist das letzte Mal, dass Gorbad gesehen wird."
+    },
+    "ere": "trois-empereurs",
+    "regions": [
+      "montagnes",
+      "empire"
+    ],
+    "lieux": [
+      "col-du-feu-noir"
+    ],
+    "factions": [
+      "nains",
+      "peaux-vertes"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Dwarfs (8e édition, 2013)",
+          "en": "Warhammer Armies: Dwarfs (8th edition, 2013)",
+          "de": "Warhammer Armies: Dwarfs (8. Edition, 2013)"
+        },
+        "detail": {
+          "fr": "p. 20-21",
+          "en": "pp. 20-21",
+          "de": "S. 20-21"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Orcs & Goblins (8e édition, 2010)",
+          "en": "Warhammer Armies: Orcs & Goblins (8th edition, 2010)",
+          "de": "Warhammer Armies: Orcs & Goblins (8. Edition, 2010)"
+        },
+        "detail": {
+          "fr": "p. 28-29",
+          "en": "pp. 28-29",
+          "de": "S. 28-29"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Dwarf Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Dwarf Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Dwarf Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Dwarf_Timeline"
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Greenskin Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Greenskin Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Greenskin Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Greenskin_Timeline"
+      },
+      {
+        "titre": {
+          "fr": "Bibliothèque Impériale, page Chronologie Naine",
+          "en": "Bibliothèque Impériale, page Chronologie Naine",
+          "de": "Bibliothèque Impériale, Seite Chronologie Naine"
+        },
+        "detail": {
+          "fr": "entrée 1712",
+          "en": "entry 1712",
+          "de": "Eintrag 1712"
+        },
+        "url": "https://www.bibliotheque-imperiale.com/index.php/Chronologie_Naine"
+      }
+    ]
+  },
+  {
+    "id": "bataille-de-la-cataracte-noire",
+    "annee": 2205,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Bataille de la Cataracte Noire",
+      "en": "Battle of Black Falls",
+      "de": "Schlacht an den Schwarzen Fällen"
+    },
+    "resume": {
+      "fr": "Sur le bord des chutes qui bordent les Eaux Noires, le Haut Roi Alrik affronte le chef gobelin Gorkil Arrache-l'Œil. Mortellement blessé, Gorkil entraîne son adversaire avec lui dans le vide. Fous de rage, les Nains menés par Alriksson massacrent les peaux-vertes restants.",
+      "en": "On the rim of the falls beside Black Water, High King Alrik fights the Goblin warlord Gorkil Eyegouger. Mortally wounded, Gorkil drags his adversary with him over the edge. Enraged, the Dwarfs led by Alriksson massacre the remaining Greenskins.",
+      "de": "Am Rand der Fälle beim Schwarzwasser kämpft Hochkönig Alrik gegen den Goblinboss Gorkil Augenreißer. Tödlich verwundet, reißt Gorkil seinen Gegner mit in die Tiefe. Rasend vor Zorn metzeln die Zwerge unter Alriksson die übrigen Grünhäute nieder."
+    },
+    "ere": "trois-empereurs",
+    "regions": [
+      "montagnes"
+    ],
+    "lieux": [
+      "lac-noir"
+    ],
+    "factions": [
+      "nains",
+      "peaux-vertes"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Dwarfs (8e édition, 2013)",
+          "en": "Warhammer Armies: Dwarfs (8th edition, 2013)",
+          "de": "Warhammer Armies: Dwarfs (8. Edition, 2013)"
+        },
+        "detail": {
+          "fr": "p. 20-21",
+          "en": "pp. 20-21",
+          "de": "S. 20-21"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Orcs & Goblins (8e édition, 2010)",
+          "en": "Warhammer Armies: Orcs & Goblins (8th edition, 2010)",
+          "de": "Warhammer Armies: Orcs & Goblins (8. Edition, 2010)"
+        },
+        "detail": {
+          "fr": "p. 28-29",
+          "en": "pp. 28-29",
+          "de": "S. 28-29"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Dwarf Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Dwarf Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Dwarf Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Dwarf_Timeline"
+      },
+      {
+        "titre": {
+          "fr": "Bibliothèque Impériale, page Chronologie Naine",
+          "en": "Bibliothèque Impériale, page Chronologie Naine",
+          "de": "Bibliothèque Impériale, Seite Chronologie Naine"
+        },
+        "detail": {
+          "fr": "entrée 2205",
+          "en": "entry 2205",
+          "de": "Eintrag 2205"
+        },
+        "url": "https://www.bibliotheque-imperiale.com/index.php/Chronologie_Naine"
+      }
+    ]
+  },
+  {
+    "id": "chute-de-karak-vlag",
+    "annee": 2301,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Disparition de Karak Vlag",
+      "en": "Disappearance of Karak Vlag",
+      "de": "Verschwinden von Karak Vlag"
+    },
+    "resume": {
+      "fr": "Karak Vlag, la forteresse la plus septentrionale du royaume nain, réputée pour ses forgerons, est engloutie par une immense incursion du Chaos descendue le long des Montagnes du Bord du Monde. Après la Grande Guerre contre le Chaos, les éclaireurs de Karaz-a-Karak n'en retrouvent aucune trace. Les Nains n'en parlent plus jamais.",
+      "en": "Karak Vlag, the northernmost hold of the Dwarf realm, famed for its smiths, is engulfed by a huge Chaos incursion flooding south along the Worlds Edge Mountains. After the Great War against Chaos, scouts from Karaz-a-Karak find no trace of it. The Dwarfs never speak of it again.",
+      "de": "Karak Vlag, die nördlichste Festung des Zwergenreichs und berühmt für ihre Schmiede, wird von einem gewaltigen Chaoseinfall verschlungen, der am Weltrandgebirge entlang nach Süden strömt. Nach dem Großen Krieg gegen das Chaos finden Späher aus Karaz-a-Karak keine Spur mehr von ihr. Die Zwerge sprechen nie wieder davon."
+    },
+    "ere": "trois-empereurs",
+    "regions": [
+      "montagnes",
+      "kislev"
+    ],
+    "lieux": [
+      "karak-vlag"
+    ],
+    "factions": [
+      "nains",
+      "chaos"
+    ],
+    "importance": 2,
+    "fiabilite": "divergent",
+    "note": {
+      "fr": "Le supplément Stone and Steel (WFRP 1re édition) date la disparition de 2301 CI. Un autre récit, repris par le wiki fandom, l'attribue au dragon du Chaos Galrauch, réveillé par des mineurs qui avaient pillé son trésor.",
+      "en": "The Stone and Steel supplement (WFRP 1st edition) dates the disappearance to 2301 IC. Another account, taken up by the fandom wiki, attributes it to the Chaos Dragon Galrauch, woken by miners who had plundered his hoard.",
+      "de": "Die Ergänzung Stone and Steel (WFRP 1. Edition) datiert das Verschwinden auf 2301 IK. Eine andere, vom Fandom-Wiki übernommene Darstellung schreibt es dem Chaosdrachen Galrauch zu, der von Bergleuten geweckt wurde, die seinen Hort geplündert hatten."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Fantasy Roleplay (1re édition): Stone and Steel",
+          "en": "Warhammer Fantasy Roleplay (1st edition): Stone and Steel",
+          "de": "Warhammer Fantasy Roleplay (1. Edition): Stone and Steel"
+        },
+        "detail": {
+          "fr": "p. 38",
+          "en": "p. 38",
+          "de": "S. 38"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Karak Vlag",
+          "en": "Warhammer Fantasy Wiki (fandom), page Karak Vlag",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Karak Vlag"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Karak_Vlag"
+      }
+    ]
+  },
+  {
+    "id": "chute-de-kraka-drak",
+    "annee": 2302,
+    "fin": 2390,
+    "approx": false,
+    "titre": {
+      "fr": "La Guerre dans les Montagnes et la fin de Kraka Drak",
+      "en": "The War in the Mountains and the end of Kraka Drak",
+      "de": "Der Krieg in den Bergen und das Ende von Kraka Drak"
+    },
+    "resume": {
+      "fr": "Le champion du Chaos Valmir Aesling rassemble son armée devant Kraka Drak, forteresse des Nains de Norsca. Incapable de l'arrêter, le Grand Roi Silverbeard fait s'effondrer la montagne, ensevelissant la forteresse avec ses défenseurs et les envahisseurs. Pendant près de quatre-vingt-dix ans, Valmir et ses guerriers massacrent les Nains piégés jusqu'au dernier.",
+      "en": "The Chaos champion Valmir Aesling marshals his host before Kraka Drak, the hold of the Norse Dwarfs. Unable to stop him, Great King Silverbeard brings the mountain down, burying the hold with its defenders and the invaders. For nearly ninety years Valmir and his warriors slaughter the trapped Dwarfs to the last.",
+      "de": "Der Chaoschampion Valmir Aesling sammelt sein Heer vor Kraka Drak, der Festung der Norse-Zwerge. Unfähig, ihn aufzuhalten, bringt Großkönig Silverbeard den Berg zum Einsturz und begräbt die Festung samt Verteidigern und Eindringlingen. Fast neunzig Jahre lang metzeln Valmir und seine Krieger die eingeschlossenen Zwerge bis auf den letzten nieder."
+    },
+    "ere": "trois-empereurs",
+    "regions": [
+      "norsca"
+    ],
+    "lieux": [
+      "kraka-drak"
+    ],
+    "factions": [
+      "nains",
+      "chaos"
+    ],
+    "importance": 3,
+    "fiabilite": "divergent",
+    "note": {
+      "fr": "Récit du Livre d'Armée Guerriers du Chaos (8e édition). Le Livre d'Armée Nains (8e édition) et d'autres sources plus anciennes présentent au contraire Kraka Drak comme une forteresse toujours habitée, et des Nains de Norsca combattent encore aux côtés de Thorgrim en 2304 CI.",
+      "en": "Account from the Warriors of Chaos army book (8th edition). The Dwarfs army book (8th edition) and other older sources instead present Kraka Drak as a hold that is still inhabited, and Norse Dwarfs still fight alongside Thorgrim in 2304 IC.",
+      "de": "Darstellung aus dem Armeebuch Krieger des Chaos (8. Edition). Das Armeebuch Zwerge (8. Edition) und ältere Quellen stellen Kraka Drak dagegen als noch bewohnte Festung dar, und Norse-Zwerge kämpfen 2304 IK noch an Thorgrims Seite."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Warriors of Chaos (8e édition, 2013)",
+          "en": "Warhammer Armies: Warriors of Chaos (8th edition, 2013)",
+          "de": "Warhammer Armies: Warriors of Chaos (8. Edition, 2013)"
+        },
+        "detail": {
+          "fr": "p. 15",
+          "en": "p. 15",
+          "de": "S. 15"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Kraka Drak",
+          "en": "Warhammer Fantasy Wiki (fandom), page Kraka Drak",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Kraka Drak"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Kraka_Drak"
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Dwarf Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Dwarf Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Dwarf Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Dwarf_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "conseil-des-rois-thorgrim",
+    "annee": 2304,
+    "fin": 2305,
+    "approx": false,
+    "titre": {
+      "fr": "Le Conseil des Rois et l'avènement de Thorgrim Garde-Rancune",
+      "en": "The Council of Kings and the rise of Thorgrim Grudgebearer",
+      "de": "Der Rat der Könige und der Aufstieg Thorgrim Grollbarts"
+    },
+    "resume": {
+      "fr": "Mourant et sans héritier, le Haut Roi Alriksson réunit un Conseil des Rois, le premier depuis trois siècles, et donne un an aux prétendants pour accomplir des exploits. Son neveu Thorgrim, que l'on croyait mort, revient avec des Nains de Norsca et des reliques des forteresses perdues. Il jure d'effacer tout le Grand Livre des Rancunes et est désigné successeur, puis couronné peu après.",
+      "en": "Dying and without an heir, High King Alriksson summons a Council of Kings, the first in three centuries, and gives the claimants a year to perform great deeds. His nephew Thorgrim, thought dead, returns with Norse Dwarfs and relics from the lost holds. He vows to strike clean the entire Great Book of Grudges and is named successor, then crowned soon after.",
+      "de": "Sterbend und ohne Erben beruft Hochkönig Alriksson einen Rat der Könige ein, den ersten seit drei Jahrhunderten, und gibt den Anwärtern ein Jahr für große Taten. Sein für tot gehaltener Neffe Thorgrim kehrt mit Norse-Zwergen und Reliquien aus den verlorenen Festungen zurück. Er schwört, das ganze Große Buch des Grolls zu tilgen, wird zum Nachfolger bestimmt und bald darauf gekrönt."
+    },
+    "ere": "empire-reunifie",
+    "regions": [
+      "montagnes"
+    ],
+    "lieux": [
+      "karaz-a-karak"
+    ],
+    "factions": [
+      "nains"
+    ],
+    "importance": 3,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "Ungrim Poing-de-Fer et Buregar, du clan Angrund, figurent parmi les autres prétendants.",
+      "en": "Ungrim Ironfist and Buregar of the Angrund clan are among the other claimants.",
+      "de": "Ungrim Eisenfaust und Buregar vom Clan Angrund gehören zu den anderen Anwärtern."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Dwarfs (6e édition, 2000)",
+          "en": "Warhammer Armies: Dwarfs (6th edition, 2000)",
+          "de": "Warhammer Armies: Dwarfs (6. Edition, 2000)"
+        },
+        "detail": {
+          "fr": "p. 16-18",
+          "en": "pp. 16-18",
+          "de": "S. 16-18"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Dwarfs (8e édition, 2013)",
+          "en": "Warhammer Armies: Dwarfs (8th edition, 2013)",
+          "de": "Warhammer Armies: Dwarfs (8. Edition, 2013)"
+        },
+        "detail": {
+          "fr": "p. 20-21",
+          "en": "pp. 20-21",
+          "de": "S. 20-21"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Thorgrim Grudgebearer",
+          "en": "Warhammer Fantasy Wiki (fandom), page Thorgrim Grudgebearer",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Thorgrim Grudgebearer"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Thorgrim_Grudgebearer"
+      }
+    ]
+  },
+  {
+    "id": "grande-revanche-de-thorgrim",
+    "annee": 2305,
+    "fin": null,
+    "approx": true,
+    "titre": {
+      "fr": "Thorgrim lance la Grande Revanche",
+      "en": "Thorgrim begins the Great Reckoning",
+      "de": "Thorgrim beginnt die Große Abrechnung"
+    },
+    "resume": {
+      "fr": "À peine couronné, Thorgrim mène une campagne pour chasser les peaux-vertes des cols et assurer le commerce avec l'Empire. Il prend les ennemis en tenaille avec le roi Alrik Ranulfsson de Karak Hirn, et les deux rois se rejoignent au milieu de la vallée. Plusieurs rancunes sont effacées ce jour-là, premières d'une longue série.",
+      "en": "Barely crowned, Thorgrim leads a campaign to drive the Greenskins out of the passes and secure trade with the Empire. He catches the enemy in a pincer with King Alrik Ranulfsson of Karak Hirn, and the two kings meet in the middle of the vale. Several grudges are struck out that day, the first of a long series.",
+      "de": "Kaum gekrönt, führt Thorgrim einen Feldzug, um die Grünhäute aus den Pässen zu vertreiben und den Handel mit dem Imperium zu sichern. Gemeinsam mit König Alrik Ranulfsson von Karak Hirn nimmt er den Feind in die Zange, und die beiden Könige treffen sich in der Mitte des Tals. Mehrere Groll-Einträge werden an diesem Tag getilgt, die ersten einer langen Reihe."
+    },
+    "ere": "empire-reunifie",
+    "regions": [
+      "montagnes",
+      "empire"
+    ],
+    "lieux": [
+      "col-du-feu-noir",
+      "col-du-chien-fou",
+      "karak-hirn"
+    ],
+    "factions": [
+      "nains",
+      "peaux-vertes"
+    ],
+    "importance": 2,
+    "fiabilite": "divergent",
+    "note": {
+      "fr": "La chronologie du Livre d'Armée Nains (8e édition) dit que Thorgrim reprend et tient le Col du Chien Fou en 2304 CI. Le récit détaillé du Livre d'Armée Nains (6e édition), repris par le wiki fandom, situe cette campagne au Col du Feu Noir.",
+      "en": "The chronology of the Dwarfs army book (8th edition) says Thorgrim retakes and holds Mad Dog Pass in 2304 IC. The detailed account of the Dwarfs army book (6th edition), taken up by the fandom wiki, places this campaign in Black Fire Pass.",
+      "de": "Die Chronologie des Armeebuchs Zwerge (8. Edition) besagt, dass Thorgrim 2304 IK den Mad Dog Pass zurückerobert und hält. Die ausführliche Darstellung im Armeebuch Zwerge (6. Edition), übernommen vom Fandom-Wiki, verlegt diesen Feldzug in den Schwarzfeuerpass."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Dwarfs (8e édition, 2013)",
+          "en": "Warhammer Armies: Dwarfs (8th edition, 2013)",
+          "de": "Warhammer Armies: Dwarfs (8. Edition, 2013)"
+        },
+        "detail": {
+          "fr": "p. 20-21",
+          "en": "pp. 20-21",
+          "de": "S. 20-21"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Dwarfs (6e édition, 2000)",
+          "en": "Warhammer Armies: Dwarfs (6th edition, 2000)",
+          "de": "Warhammer Armies: Dwarfs (6. Edition, 2000)"
+        },
+        "detail": {
+          "fr": "p. 16-18",
+          "en": "pp. 16-18",
+          "de": "S. 16-18"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Thorgrim Grudgebearer",
+          "en": "Warhammer Fantasy Wiki (fandom), page Thorgrim Grudgebearer",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Thorgrim Grudgebearer"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Thorgrim_Grudgebearer"
+      },
+      {
+        "titre": {
+          "fr": "Bibliothèque Impériale, page Chronologie Naine",
+          "en": "Bibliothèque Impériale, page Chronologie Naine",
+          "de": "Bibliothèque Impériale, Seite Chronologie Naine"
+        },
+        "detail": {
+          "fr": "entrée 2304",
+          "en": "entry 2304",
+          "de": "Eintrag 2304"
+        },
+        "url": "https://www.bibliotheque-imperiale.com/index.php/Chronologie_Naine"
+      }
+    ]
+  },
+  {
+    "id": "bataille-du-detroit-des-eaux-sanglantes",
+    "annee": 2321,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Bataille du Détroit des Eaux Sanglantes",
+      "en": "Battle of Bloodwater Sound",
+      "de": "Schlacht am Blutwassersund"
+    },
+    "resume": {
+      "fr": "Après avoir détruit les flottes humaines, une flotte skaven ravage les côtes de Tilée et d'Estalie. Les cuirassés de Barak Varr la traquent et la coulent dans le Golfe Noir. C'est l'une des grandes victoires navales des Nains.",
+      "en": "After destroying the fleets of the human realms, a Skaven fleet ravages the coasts of Tilea and Estalia. The ironclads of Barak Varr hunt it down and sink it in the Black Gulf. It is one of the great naval victories of the Dwarfs.",
+      "de": "Nachdem sie die Flotten der Menschenreiche vernichtet hat, verwüstet eine Skavenflotte die Küsten von Tilea und Estalia. Die Panzerschiffe von Barak Varr spüren sie auf und versenken sie im Schwarzen Golf. Es ist einer der großen Seesiege der Zwerge."
+    },
+    "ere": "empire-reunifie",
+    "regions": [
+      "royaumes-frontaliers",
+      "tilee-estalie"
+    ],
+    "lieux": [
+      "barak-varr"
+    ],
+    "factions": [
+      "nains",
+      "skavens"
+    ],
+    "importance": 1,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Dwarfs (8e édition, 2013)",
+          "en": "Warhammer Armies: Dwarfs (8th edition, 2013)",
+          "de": "Warhammer Armies: Dwarfs (8. Edition, 2013)"
+        },
+        "detail": {
+          "fr": "p. 20-21",
+          "en": "pp. 20-21",
+          "de": "S. 20-21"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Dwarf Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Dwarf Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Dwarf Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Dwarf_Timeline"
+      },
+      {
+        "titre": {
+          "fr": "Bibliothèque Impériale, page Chronologie Naine",
+          "en": "Bibliothèque Impériale, page Chronologie Naine",
+          "de": "Bibliothèque Impériale, Seite Chronologie Naine"
+        },
+        "detail": {
+          "fr": "entrée 2321",
+          "en": "entry 2321",
+          "de": "Eintrag 2321"
+        },
+        "url": "https://www.bibliotheque-imperiale.com/index.php/Chronologie_Naine"
+      }
+    ]
+  },
+  {
+    "id": "explosion-de-la-guilde-des-ingenieurs",
+    "annee": 2350,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Explosion de la Guilde des Ingénieurs de Karaz-a-Karak",
+      "en": "Explosion at the Karaz-a-Karak Engineers' Guild",
+      "de": "Explosion in der Ingenieursgilde von Karaz-a-Karak"
+    },
+    "resume": {
+      "fr": "La grande salle de la Guilde des Ingénieurs de Karaz-a-Karak est détruite par des explosions. Elles sont causées par les expériences de Burlok Damminson et Sven Hasselfriesian sur des chaudières à pression. L'accident conforte la méfiance des Nains envers les innovations trop audacieuses.",
+      "en": "The great hall of the Engineers' Guild in Karaz-a-Karak is destroyed by explosions. They are caused by Burlok Damminson and Sven Hasselfriesian's experiments with pressure vessels. The accident reinforces Dwarf distrust of overly bold innovations.",
+      "de": "Die große Halle der Ingenieursgilde in Karaz-a-Karak wird durch Explosionen zerstört. Ursache sind die Experimente von Burlok Damminson und Sven Hasselfriesian mit Druckkesseln. Der Unfall bestärkt das Misstrauen der Zwerge gegenüber allzu kühnen Neuerungen."
+    },
+    "ere": "empire-reunifie",
+    "regions": [
+      "montagnes"
+    ],
+    "lieux": [
+      "karaz-a-karak"
+    ],
+    "factions": [
+      "nains"
+    ],
+    "importance": 1,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Dwarfs (8e édition, 2013)",
+          "en": "Warhammer Armies: Dwarfs (8th edition, 2013)",
+          "de": "Warhammer Armies: Dwarfs (8. Edition, 2013)"
+        },
+        "detail": {
+          "fr": "p. 20-21",
+          "en": "pp. 20-21",
+          "de": "S. 20-21"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Dwarf Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Dwarf Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Dwarf Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Dwarf_Timeline"
+      },
+      {
+        "titre": {
+          "fr": "Bibliothèque Impériale, page Chronologie Naine",
+          "en": "Bibliothèque Impériale, page Chronologie Naine",
+          "de": "Bibliothèque Impériale, Seite Chronologie Naine"
+        },
+        "detail": {
+          "fr": "entrée 2350",
+          "en": "entry 2350",
+          "de": "Eintrag 2350"
+        },
+        "url": "https://www.bibliotheque-imperiale.com/index.php/Chronologie_Naine"
+      }
+    ]
+  },
+  {
+    "id": "bataille-de-la-porte-de-fer",
+    "annee": 2420,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Bataille de la Porte de Fer contre Grom la Panse",
+      "en": "Battle of Iron Gate against Grom the Paunch",
+      "de": "Schlacht am Eisentor gegen Grom den Fetten"
+    },
+    "resume": {
+      "fr": "La Waaagh! de Grom la Panse remonte les hautes terres naines, ruine plusieurs forteresses et fait retailler une statue colossale de Grungni à l'image du goblin. Les Nains du roi Bragarik l'affrontent à la Porte de Fer pendant trois jours sans vainqueur clair. Leurs pertes sont si lourdes qu'ils se replient dans leurs forteresses, et Grom repart vers l'Empire.",
+      "en": "The Waaagh! of Grom the Paunch marches up the Dwarf highlands, ruins several holds and has a colossal statue of Grungni recarved in the goblin's image. King Bragarik's Dwarfs face it at Iron Gate for three days with no clear victor. Their losses are so heavy that they withdraw to their holds, and Grom moves on towards the Empire.",
+      "de": "Das Waaagh! von Grom dem Fetten zieht durch das Hochland der Zwerge, zerstört mehrere Festungen und lässt eine gewaltige Statue Grungnis nach dem Bild des Goblins umhauen. Die Zwerge von König Bragarik stellen sich ihm drei Tage lang am Eisentor, ohne klaren Sieger. Ihre Verluste sind so schwer, dass sie sich in ihre Festungen zurückziehen, und Grom zieht weiter ins Imperium."
+    },
+    "ere": "empire-reunifie",
+    "regions": [
+      "montagnes"
+    ],
+    "lieux": [],
+    "factions": [
+      "nains",
+      "peaux-vertes"
+    ],
+    "importance": 2,
+    "fiabilite": "divergent",
+    "note": {
+      "fr": "Le Livre d'Armée Nains (8e édition) place la bataille en 2420 CI. La page Grom the Paunch du wiki fandom fait entrer la Waaagh! par le Col du Feu Noir dès 2410 CI. La Waaagh! de Grom dans son ensemble fait l'objet d'une entrée distincte.",
+      "en": "The Dwarfs army book (8th edition) places the battle in 2420 IC. The Grom the Paunch page of the fandom wiki has the Waaagh! enter through Black Fire Pass as early as 2410 IC. Grom's Waaagh! as a whole has its own entry.",
+      "de": "Das Armeebuch Zwerge (8. Edition) setzt die Schlacht auf 2420 IK. Die Seite Grom the Paunch des Fandom-Wikis lässt das Waaagh! bereits 2410 IK durch den Schwarzfeuerpass ziehen. Groms Waaagh! als Ganzes hat einen eigenen Eintrag."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Dwarfs (8e édition, 2013)",
+          "en": "Warhammer Armies: Dwarfs (8th edition, 2013)",
+          "de": "Warhammer Armies: Dwarfs (8. Edition, 2013)"
+        },
+        "detail": {
+          "fr": "p. 20-21",
+          "en": "pp. 20-21",
+          "de": "S. 20-21"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Grom the Paunch",
+          "en": "Warhammer Fantasy Wiki (fandom), page Grom the Paunch",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Grom the Paunch"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Grom_the_Paunch"
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Dwarf Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Dwarf Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Dwarf Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Dwarf_Timeline"
+      },
+      {
+        "titre": {
+          "fr": "Bibliothèque Impériale, page Chronologie Naine",
+          "en": "Bibliothèque Impériale, page Chronologie Naine",
+          "de": "Bibliothèque Impériale, Seite Chronologie Naine"
+        },
+        "detail": {
+          "fr": "entrée 2420",
+          "en": "entry 2420",
+          "de": "Eintrag 2420"
+        },
+        "url": "https://www.bibliotheque-imperiale.com/index.php/Chronologie_Naine"
+      }
+    ]
+  },
+  {
+    "id": "boggrub-legbiter",
+    "annee": 2470,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Boggrub Legbiter vole les machines de guerre de Karak Azul",
+      "en": "Boggrub Legbiter steals the war machines of Karak Azul",
+      "de": "Boggrub Legbiter raubt die Kriegsmaschinen von Karak Azul"
+    },
+    "resume": {
+      "fr": "Le chef gobelin Boggrub Legbiter mène la tribu du Nez-Cassé contre Karak Azul et s'empare de nombreuses machines de guerre naines. Avec ces armes, les gobelins se taillent un chemin à travers les Montagnes du Bord du Monde. Ils descendent jusqu'en Averland en semant la destruction.",
+      "en": "The Goblin warlord Boggrub Legbiter leads the Broken Nose tribe against Karak Azul and captures many Dwarf war machines. With these weapons the goblins carve a path through the Worlds Edge Mountains. They push on into Averland, leaving destruction in their wake.",
+      "de": "Der Goblinboss Boggrub Legbiter führt den Stamm der Zerbrochenen Nase gegen Karak Azul und erbeutet viele zwergische Kriegsmaschinen. Mit diesen Waffen bahnen sich die Goblins einen Weg durch das Weltrandgebirge. Sie dringen bis ins Averland vor und hinterlassen eine Spur der Zerstörung."
+    },
+    "ere": "empire-reunifie",
+    "regions": [
+      "montagnes",
+      "empire"
+    ],
+    "lieux": [
+      "karak-azul"
+    ],
+    "factions": [
+      "peaux-vertes",
+      "nains",
+      "empire"
+    ],
+    "importance": 1,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Orcs & Goblins (8e édition, 2010)",
+          "en": "Warhammer Armies: Orcs & Goblins (8th edition, 2010)",
+          "de": "Warhammer Armies: Orcs & Goblins (8. Edition, 2010)"
+        },
+        "detail": {
+          "fr": "p. 28-29",
+          "en": "pp. 28-29",
+          "de": "S. 28-29"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Greenskin Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Greenskin Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Greenskin Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Greenskin_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "bataille-du-col-de-la-mort",
+    "annee": 2488,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Morglum Necksnapper au Col de la Mort",
+      "en": "Morglum Necksnapper at Death Pass",
+      "de": "Morglum Necksnapper am Todespass"
+    },
+    "resume": {
+      "fr": "Le chef orque noir Morglum Necksnapper écrase une armée de chevaliers errants bretonniens à la bataille du Col de la Mort. Il proclame ensuite que l'est appartient aux orques et à lui seul. Il devient l'un des seigneurs de guerre les plus redoutés de l'est du Vieux Monde.",
+      "en": "The Black Orc warlord Morglum Necksnapper crushes an army of Bretonnian Knights Errant at the battle of Death Pass. He then proclaims that the east belongs to the Orcs and to him alone. He becomes one of the most feared warlords of the eastern Old World.",
+      "de": "Der Schwarzork-Kriegsherr Morglum Necksnapper vernichtet in der Schlacht am Todespass ein Heer bretonischer fahrender Ritter. Danach verkündet er, der Osten gehöre den Orks und ihm allein. Er wird zu einem der gefürchtetsten Kriegsherren im Osten der Alten Welt."
+    },
+    "ere": "empire-reunifie",
+    "regions": [
+      "royaumes-frontaliers"
+    ],
+    "lieux": [],
+    "factions": [
+      "peaux-vertes",
+      "bretonnie"
+    ],
+    "importance": 2,
+    "fiabilite": "divergent",
+    "note": {
+      "fr": "Le Livre d'Armée Orques et Gobelins (8e édition) date la bataille de 2488 CI, mais certaines éditions antérieures la placent en 2420 CI selon le wiki fandom.",
+      "en": "The Orcs & Goblins army book (8th edition) dates the battle to 2488 IC, but some earlier editions place it in 2420 IC according to the fandom wiki.",
+      "de": "Das Armeebuch Orks & Goblins (8. Edition) datiert die Schlacht auf 2488 IK, doch laut Fandom-Wiki setzen einige frühere Editionen sie auf 2420 IK."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Orcs & Goblins (8e édition, 2010)",
+          "en": "Warhammer Armies: Orcs & Goblins (8th edition, 2010)",
+          "de": "Warhammer Armies: Orcs & Goblins (8. Edition, 2010)"
+        },
+        "detail": {
+          "fr": "p. 28-29",
+          "en": "pp. 28-29",
+          "de": "S. 28-29"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Morglum Necksnapper",
+          "en": "Warhammer Fantasy Wiki (fandom), page Morglum Necksnapper",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Morglum Necksnapper"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Morglum_Necksnapper"
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Greenskin Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Greenskin Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Greenskin Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Greenskin_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "bataille-des-machoires",
+    "annee": 2498,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Bataille des Mâchoires et de la Porte Est",
+      "en": "Battle of the Jaws and of the East Gate",
+      "de": "Schlacht der Kiefer und am Osttor"
+    },
+    "resume": {
+      "fr": "Une armée naine partie de Karaz-a-Karak pour renforcer Belegar à Karak Huit Pics tombe dans une embuscade tendue par Skarsnik dans le Col du Chien Fou. Menés par Duregar, les Nains taillent en pièces les assaillants, et Gorfang Rotgut, chef du Pic Noir, y perd un œil. De nouveau attaqués à la Porte Est de Karak Huit Pics, ils parviennent jusqu'à la forteresse au prix de lourdes pertes.",
+      "en": "A Dwarf army sent from Karaz-a-Karak to reinforce Belegar in Karak Eight Peaks is ambushed by Skarsnik in Mad Dog Pass. Led by Duregar, the Dwarfs cut the attackers to pieces, and Gorfang Rotgut, chieftain of Black Crag, loses an eye. Attacked again at the East Gate of Karak Eight Peaks, they reach the hold at the cost of heavy losses.",
+      "de": "Ein Zwergenheer, das von Karaz-a-Karak aus Belegar in Karak Acht Gipfel verstärken soll, gerät im Mad Dog Pass in einen Hinterhalt Skarsniks. Unter Duregar zerschlagen die Zwerge die Angreifer, und Gorfang Rotgut, Häuptling von Black Crag, verliert ein Auge. Am Osttor von Karak Acht Gipfel erneut angegriffen, erreichen sie die Festung unter schweren Verlusten."
+    },
+    "ere": "empire-reunifie",
+    "regions": [
+      "montagnes"
+    ],
+    "lieux": [
+      "col-du-chien-fou",
+      "karak-huit-pics"
+    ],
+    "factions": [
+      "nains",
+      "peaux-vertes"
+    ],
+    "importance": 2,
+    "fiabilite": "divergent",
+    "note": {
+      "fr": "La Bibliothèque Impériale date la bataille des Mâchoires de 2493 CI et le combat de la Porte Est de 2498 CI, alors que les Livres d'Armée Nains et Orques et Gobelins (8e édition) placent les deux en 2498 CI. L'embuscade scelle une alliance lâche entre Skarsnik et Gorfang.",
+      "en": "The Bibliothèque Impériale dates the battle of the Jaws to 2493 IC and the East Gate fight to 2498 IC, whereas the Dwarfs and Orcs & Goblins army books (8th edition) place both in 2498 IC. The ambush seals a loose alliance between Skarsnik and Gorfang.",
+      "de": "Die Bibliothèque Impériale datiert die Schlacht der Kiefer auf 2493 IK und den Kampf am Osttor auf 2498 IK, während die Armeebücher Zwerge und Orks & Goblins (8. Edition) beide auf 2498 IK setzen. Der Hinterhalt besiegelt ein loses Bündnis zwischen Skarsnik und Gorfang."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Dwarfs (8e édition, 2013)",
+          "en": "Warhammer Armies: Dwarfs (8th edition, 2013)",
+          "de": "Warhammer Armies: Dwarfs (8. Edition, 2013)"
+        },
+        "detail": {
+          "fr": "p. 20-21",
+          "en": "pp. 20-21",
+          "de": "S. 20-21"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Orcs & Goblins (8e édition, 2010)",
+          "en": "Warhammer Armies: Orcs & Goblins (8th edition, 2010)",
+          "de": "Warhammer Armies: Orcs & Goblins (8. Edition, 2010)"
+        },
+        "detail": {
+          "fr": "p. 28-29",
+          "en": "pp. 28-29",
+          "de": "S. 28-29"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Skarsnik",
+          "en": "Warhammer Fantasy Wiki (fandom), page Skarsnik",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Skarsnik"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Skarsnik"
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Dwarf Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Dwarf Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Dwarf Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Dwarf_Timeline"
+      },
+      {
+        "titre": {
+          "fr": "Bibliothèque Impériale, page Chronologie Naine",
+          "en": "Bibliothèque Impériale, page Chronologie Naine",
+          "de": "Bibliothèque Impériale, Seite Chronologie Naine"
+        },
+        "detail": {
+          "fr": "entrée 2493 et 2498",
+          "en": "entry 2493 et 2498",
+          "de": "Eintrag 2493 et 2498"
+        },
+        "url": "https://www.bibliotheque-imperiale.com/index.php/Chronologie_Naine"
+      }
+    ]
+  },
+  {
+    "id": "waaagh-de-gnashrak",
+    "annee": 2500,
+    "fin": 2510,
+    "approx": false,
+    "titre": {
+      "fr": "La Waaagh! de Gnashrak et la bataille de la Jambe Brisée",
+      "en": "Gnashrak's Waaagh! and the battle of Broken Leg Gully",
+      "de": "Gnashraks Waaagh! und die Schlacht an der Broken-Leg-Schlucht"
+    },
+    "resume": {
+      "fr": "Pendant dix ans, le chef orque Gnashrak Badtoof pille le centre des Montagnes du Bord du Monde et menace Karaz-a-Karak. Ungrim Poing-de-Fer, le Roi Tueur de Karak Kadrin, l'écrase finalement à la bataille de la Jambe Brisée, aidé par les mercenaires ogres de Golgfag. L'ogre trahit ensuite les Nains et vole le trésor royal, et Ungrim jure de le lui faire payer.",
+      "en": "For ten years the Orc warlord Gnashrak Badtoof plunders the central Worlds Edge Mountains and threatens Karaz-a-Karak. Ungrim Ironfist, the Slayer King of Karak Kadrin, finally crushes him at the battle of Broken Leg Gully, helped by Golgfag's Ogre mercenaries. The Ogre then betrays the Dwarfs and steals the royal treasury, and Ungrim swears to make him pay.",
+      "de": "Zehn Jahre lang plündert der Orkboss Gnashrak Badtoof das zentrale Weltrandgebirge und bedroht Karaz-a-Karak. Ungrim Eisenfaust, der Slayerkönig von Karak Kadrin, vernichtet ihn schließlich in der Schlacht an der Broken-Leg-Schlucht, unterstützt von Golgfags Ogersöldnern. Danach verrät der Oger die Zwerge und stiehlt den königlichen Schatz, und Ungrim schwört, ihn dafür bezahlen zu lassen."
+    },
+    "ere": "empire-reunifie",
+    "regions": [
+      "montagnes"
+    ],
+    "lieux": [
+      "karak-kadrin",
+      "karaz-a-karak"
+    ],
+    "factions": [
+      "nains",
+      "peaux-vertes",
+      "ogres"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Dwarfs (8e édition, 2013)",
+          "en": "Warhammer Armies: Dwarfs (8th edition, 2013)",
+          "de": "Warhammer Armies: Dwarfs (8. Edition, 2013)"
+        },
+        "detail": {
+          "fr": "p. 20-21",
+          "en": "pp. 20-21",
+          "de": "S. 20-21"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Orcs & Goblins (8e édition, 2010)",
+          "en": "Warhammer Armies: Orcs & Goblins (8th edition, 2010)",
+          "de": "Warhammer Armies: Orcs & Goblins (8. Edition, 2010)"
+        },
+        "detail": {
+          "fr": "p. 28-29",
+          "en": "pp. 28-29",
+          "de": "S. 28-29"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Ungrim Ironfist",
+          "en": "Warhammer Fantasy Wiki (fandom), page Ungrim Ironfist",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Ungrim Ironfist"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Ungrim_Ironfist"
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Dwarf Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Dwarf Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Dwarf Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Dwarf_Timeline"
+      },
+      {
+        "titre": {
+          "fr": "Bibliothèque Impériale, page Chronologie Naine",
+          "en": "Bibliothèque Impériale, page Chronologie Naine",
+          "de": "Bibliothèque Impériale, Seite Chronologie Naine"
+        },
+        "detail": {
+          "fr": "entrée 2510",
+          "en": "entry 2510",
+          "de": "Eintrag 2510"
+        },
+        "url": "https://www.bibliotheque-imperiale.com/index.php/Chronologie_Naine"
+      }
+    ]
+  },
+  {
+    "id": "sac-de-karak-azul",
+    "annee": 2503,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Gorfang Rotgut pille Karak Azul",
+      "en": "Gorfang Rotgut plunders Karak Azul",
+      "de": "Gorfang Rotgut plündert Karak Azul"
+    },
+    "resume": {
+      "fr": "Après un siège manqué de Barak Varr, Gorfang Rotgut s'allie aux tribus de Morglum Necksnapper et surprend Karak Azul par un tunnel oublié. Les orques emmènent la famille du roi Kazador dans les geôles du Pic Noir. Seul son fils Kazrik reste, rasé, tatoué d'un glyphe orque et cloué sur le trône de son père, et il faudra plus de dix ans à Thorgrim pour libérer les captifs et tuer les responsables.",
+      "en": "After a failed siege of Barak Varr, Gorfang Rotgut joins forces with the tribes of Morglum Necksnapper and surprises Karak Azul through a forgotten tunnel. The Orcs carry King Kazador's family off to the dungeons of Black Crag. Only his son Kazrik is left behind, shaven, tattooed with an Orc glyph and nailed to his father's throne, and it takes Thorgrim over a decade to free the captives and slay those responsible.",
+      "de": "Nach einer gescheiterten Belagerung von Barak Varr verbündet sich Gorfang Rotgut mit den Stämmen von Morglum Necksnapper und überrascht Karak Azul durch einen vergessenen Tunnel. Die Orks verschleppen die Familie von König Kazador in die Kerker von Black Crag. Nur sein Sohn Kazrik bleibt zurück, geschoren, mit einer Orkglyphe tätowiert und an den Thron seines Vaters genagelt, und Thorgrim braucht über ein Jahrzehnt, um die Gefangenen zu befreien und die Verantwortlichen zu töten."
+    },
+    "ere": "empire-reunifie",
+    "regions": [
+      "montagnes",
+      "terres-arides"
+    ],
+    "lieux": [
+      "karak-azul",
+      "karak-drazh",
+      "barak-varr"
+    ],
+    "factions": [
+      "nains",
+      "peaux-vertes"
+    ],
+    "importance": 2,
+    "fiabilite": "divergent",
+    "note": {
+      "fr": "Les Livres d'Armée Nains et Orques et Gobelins (8e édition) datent l'attaque de 2503 CI. La page Morglum Necksnapper du wiki fandom place l'attaque conjointe sur Karak Azul en 2507 CI, après le siège de Barak Varr de 2503 CI.",
+      "en": "The Dwarfs and Orcs & Goblins army books (8th edition) date the attack to 2503 IC. The Morglum Necksnapper page of the fandom wiki places the joint attack on Karak Azul in 2507 IC, after the 2503 IC siege of Barak Varr.",
+      "de": "Die Armeebücher Zwerge und Orks & Goblins (8. Edition) datieren den Angriff auf 2503 IK. Die Seite Morglum Necksnapper des Fandom-Wikis setzt den gemeinsamen Angriff auf Karak Azul auf 2507 IK, nach der Belagerung von Barak Varr im Jahr 2503 IK."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Dwarfs (8e édition, 2013)",
+          "en": "Warhammer Armies: Dwarfs (8th edition, 2013)",
+          "de": "Warhammer Armies: Dwarfs (8. Edition, 2013)"
+        },
+        "detail": {
+          "fr": "p. 20-21",
+          "en": "pp. 20-21",
+          "de": "S. 20-21"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Orcs & Goblins (8e édition, 2010)",
+          "en": "Warhammer Armies: Orcs & Goblins (8th edition, 2010)",
+          "de": "Warhammer Armies: Orcs & Goblins (8. Edition, 2010)"
+        },
+        "detail": {
+          "fr": "p. 28-29",
+          "en": "pp. 28-29",
+          "de": "S. 28-29"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Gorfang Rotgut",
+          "en": "Warhammer Fantasy Wiki (fandom), page Gorfang Rotgut",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Gorfang Rotgut"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Gorfang_Rotgut"
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Morglum Necksnapper",
+          "en": "Warhammer Fantasy Wiki (fandom), page Morglum Necksnapper",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Morglum Necksnapper"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Morglum_Necksnapper"
+      },
+      {
+        "titre": {
+          "fr": "Bibliothèque Impériale, page Chronologie Naine",
+          "en": "Bibliothèque Impériale, page Chronologie Naine",
+          "de": "Bibliothèque Impériale, Seite Chronologie Naine"
+        },
+        "detail": {
+          "fr": "entrée 2503",
+          "en": "entry 2503",
+          "de": "Eintrag 2503"
+        },
+        "url": "https://www.bibliotheque-imperiale.com/index.php/Chronologie_Naine"
+      }
+    ]
+  },
+  {
+    "id": "omdra-sur-la-plaine-des-os",
+    "annee": 2509,
+    "fin": null,
+    "approx": true,
+    "titre": {
+      "fr": "La Légion d'Azgorh et Tamurkhan contre le dragon Omdra",
+      "en": "The Legion of Azgorh and Tamurkhan against the dragon Omdra",
+      "de": "Die Legion von Azgorh und Tamurkhan gegen den Drachen Omdra"
+    },
+    "resume": {
+      "fr": "Le dragon légendaire Omdra le Redouté se réveille et étend sa domination sur le nord de la Plaine des Os. Pour honorer le pacte conclu avec le prophète-sorcier Drazhoath le Cendré, le champion de Nurgle Tamurkhan combat à ses côtés et à ceux de la Légion d'Azgorh. La bête est vaincue, et les Nains du Chaos achèvent les préparatifs de la marche vers l'ouest.",
+      "en": "The legendary dragon Omdra the Dread awakens and extends its dominion over the northern Plain of Bones. To honour the bargain struck with the sorcerer-prophet Drazhoath the Ashen, the Nurgle champion Tamurkhan fights alongside him and the Legion of Azgorh. The beast is defeated, and the Chaos Dwarfs complete their preparations for the march west.",
+      "de": "Der legendäre Drache Omdra der Schreckliche erwacht und dehnt seine Herrschaft über den Norden der Knochenebene aus. Um den mit dem Zauberer-Propheten Drazhoath dem Aschernen geschlossenen Pakt zu ehren, kämpft der Nurgle-Champion Tamurkhan an seiner Seite und an der der Legion von Azgorh. Das Ungeheuer wird besiegt, und die Chaoszwerge schließen die Vorbereitungen für den Marsch nach Westen ab."
+    },
+    "ere": "empire-reunifie",
+    "regions": [
+      "terres-arides"
+    ],
+    "lieux": [
+      "plaine-des-os"
+    ],
+    "factions": [
+      "nains",
+      "chaos"
+    ],
+    "importance": 1,
+    "fiabilite": "incertain",
+    "note": {
+      "fr": "La page Plain of Bones du wiki fandom donne « vers 2509 CI ». Le livre Tamurkhan ne précise pas toujours l'année des épisodes antérieurs à l'invasion.",
+      "en": "The Plain of Bones page of the fandom wiki gives around 2509 IC. The Tamurkhan book does not always state the year of the episodes before the invasion.",
+      "de": "Die Seite Plain of Bones des Fandom-Wikis nennt um 2509 IK. Das Buch Tamurkhan gibt das Jahr der Episoden vor der Invasion nicht immer an."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Tamurkhan: The Throne of Chaos (Forge World, 2013)",
+          "en": "Tamurkhan: The Throne of Chaos (Forge World, 2013)",
+          "de": "Tamurkhan: The Throne of Chaos (Forge World, 2013)"
+        },
+        "detail": "",
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Plain of Bones",
+          "en": "Warhammer Fantasy Wiki (fandom), page Plain of Bones",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Plain of Bones"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Plain_of_Bones"
+      }
+    ]
+  },
+  {
+    "id": "drazhoath-et-tamurkhan",
+    "annee": 2510,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Drazhoath le Cendré s'allie à Tamurkhan",
+      "en": "Drazhoath the Ashen allies with Tamurkhan",
+      "de": "Drazhoath der Ascherne verbündet sich mit Tamurkhan"
+    },
+    "resume": {
+      "fr": "Le prophète-sorcier Drazhoath le Cendré, seigneur de la Forteresse Noire, repousse l'assaut de la horde de Tamurkhan, le Seigneur Asticot, puis choisit de s'allier à lui. La Légion d'Azgorh accompagne l'invasion à travers les Royaumes frontaliers et le Wissenland et aide à faire tomber Pfeildorf. Après la mort de Tamurkhan devant Nuln, les Nains du Chaos se retirent chargés de butin et d'esclaves.",
+      "en": "The sorcerer-prophet Drazhoath the Ashen, lord of the Black Fortress, repels the assault of the horde of Tamurkhan, the Maggot Lord, then chooses to ally with him. The Legion of Azgorh follows the invasion through the Border Princes and Wissenland and helps bring down Pfeildorf. After Tamurkhan's death before Nuln, the Chaos Dwarfs withdraw laden with plunder and slaves.",
+      "de": "Der Zauberer-Prophet Drazhoath der Ascherne, Herr der Schwarzen Festung, wehrt den Angriff der Horde Tamurkhans, des Madenfürsten, ab und verbündet sich dann mit ihm. Die Legion von Azgorh begleitet die Invasion durch die Grenzgrafschaften und Wissenland und hilft, Pfeildorf zu Fall zu bringen. Nach Tamurkhans Tod vor Nuln ziehen sich die Chaoszwerge mit Beute und Sklaven beladen zurück."
+    },
+    "ere": "empire-reunifie",
+    "regions": [
+      "terres-arides",
+      "royaumes-frontaliers",
+      "empire"
+    ],
+    "lieux": [
+      "forteresse-noire",
+      "pfeildorf",
+      "nuln"
+    ],
+    "factions": [
+      "nains",
+      "chaos",
+      "empire"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "Le siège de Nuln par Tamurkhan, vu du côté de l'Empire, relève d'une autre partie de la chronologie.",
+      "en": "Tamurkhan's siege of Nuln, seen from the Empire's side, belongs to another part of the chronology.",
+      "de": "Tamurkhans Belagerung von Nuln aus Sicht des Imperiums gehört zu einem anderen Teil der Chronologie."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Tamurkhan: The Throne of Chaos (Forge World, 2013)",
+          "en": "Tamurkhan: The Throne of Chaos (Forge World, 2013)",
+          "de": "Tamurkhan: The Throne of Chaos (Forge World, 2013)"
+        },
+        "detail": "",
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Drazhoath the Ashen",
+          "en": "Warhammer Fantasy Wiki (fandom), page Drazhoath the Ashen",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Drazhoath the Ashen"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Drazhoath_the_Ashen"
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Legion of Azgorh",
+          "en": "Warhammer Fantasy Wiki (fandom), page Legion of Azgorh",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Legion of Azgorh"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Legion_of_Azgorh"
+      }
+    ]
+  },
+  {
+    "id": "spinny-backstab-middenheim",
+    "annee": 2510,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Le raid de Spinny Backstab autour de Middenheim",
+      "en": "Spinny Backstab's raid around Middenheim",
+      "de": "Spinny Backstabs Raubzug um Middenheim"
+    },
+    "resume": {
+      "fr": "Une armée menée par le Gobelin de la Nuit Spinny Backstab ravage fermes et villages autour de Middenheim. Le maréchal Kurt Helborg finit par la vaincre. Le gobelin est écrasé sous un tank à vapeur envoyé de Nuln.",
+      "en": "An army led by the Night Goblin Spinny Backstab destroys farms and villages around Middenheim. Marshal Kurt Helborg eventually defeats it. The goblin is crushed under a Steam Tank sent from Nuln.",
+      "de": "Ein Heer unter dem Nachtgoblin Spinny Backstab verwüstet Höfe und Dörfer rund um Middenheim. Marschall Kurt Helborg besiegt es schließlich. Der Goblin wird unter einem aus Nuln entsandten Dampfpanzer zerquetscht."
+    },
+    "ere": "empire-reunifie",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [
+      "middenheim"
+    ],
+    "factions": [
+      "peaux-vertes",
+      "empire"
+    ],
+    "importance": 1,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Orcs & Goblins (8e édition, 2010)",
+          "en": "Warhammer Armies: Orcs & Goblins (8th edition, 2010)",
+          "de": "Warhammer Armies: Orcs & Goblins (8. Edition, 2010)"
+        },
+        "detail": {
+          "fr": "p. 28-29",
+          "en": "pp. 28-29",
+          "de": "S. 28-29"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Greenskin Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Greenskin Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Greenskin Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Greenskin_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "destruction-de-glumhof",
+    "annee": 2511,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Les Gobelins des forêts détruisent Glumhof",
+      "en": "Forest Goblins destroy Glumhof",
+      "de": "Waldgoblins zerstören Glumhof"
+    },
+    "resume": {
+      "fr": "Des Gobelins des forêts rasent la bourgade impériale de Glumhof. Avec les crânes de leurs victimes, ils façonnent un immense totem. L'épisode annonce l'agitation croissante des tribus de la Drakwald.",
+      "en": "Forest Goblins raze the Imperial town of Glumhof. They fashion a huge totem from the skulls of their victims. The episode foreshadows the growing unrest of the Drakwald tribes.",
+      "de": "Waldgoblins zerstören die imperiale Ortschaft Glumhof. Aus den Schädeln ihrer Opfer errichten sie ein riesiges Totem. Die Episode kündigt die wachsende Unruhe der Stämme im Drakwald an."
+    },
+    "ere": "empire-reunifie",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [],
+    "factions": [
+      "peaux-vertes",
+      "empire"
+    ],
+    "importance": 1,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Orcs & Goblins (8e édition, 2010)",
+          "en": "Warhammer Armies: Orcs & Goblins (8th edition, 2010)",
+          "de": "Warhammer Armies: Orcs & Goblins (8. Edition, 2010)"
+        },
+        "detail": {
+          "fr": "p. 28-29",
+          "en": "pp. 28-29",
+          "de": "S. 28-29"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Greenskin Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Greenskin Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Greenskin Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Greenskin_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "waaagh-d-azhag",
+    "annee": 2512,
+    "fin": 2515,
+    "approx": false,
+    "titre": {
+      "fr": "La Waaagh! d'Azhag le Massacreur",
+      "en": "The Waaagh! of Azhag the Slaughterer",
+      "de": "Das Waaagh! von Azhag dem Schlächter"
+    },
+    "resume": {
+      "fr": "Guidé par une voix qui lui murmure dans la tête, l'orque Azhag le Massacreur lance une Waaagh! sur le nord de l'Empire. Il remporte de grandes victoires, comme celle de la Colline du Boucher. Il est finalement tué à la bataille d'Osterwald par Werner von Kriegstadt, Grand Maître des Chevaliers Panthères.",
+      "en": "Guided by a voice whispering in his head, the Orc Azhag the Slaughterer leads a Waaagh! into the northern Empire. He wins famous victories, such as the battle of Butcher's Hill. He is finally slain at the battle of Osterwald by Werner von Kriegstadt, Grand Master of the Knights Panther.",
+      "de": "Von einer Stimme in seinem Kopf geleitet, führt der Ork Azhag der Schlächter ein Waaagh! in den Norden des Imperiums. Er erringt berühmte Siege wie die Schlacht am Schlächterhügel. In der Schlacht von Osterwald wird er schließlich von Werner von Kriegstadt, dem Großmeister der Pantherritter, erschlagen."
+    },
+    "ere": "empire-reunifie",
+    "regions": [
+      "empire",
+      "kislev"
+    ],
+    "lieux": [],
+    "factions": [
+      "peaux-vertes",
+      "empire"
+    ],
+    "importance": 3,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "La voix d'Azhag est celle de la couronne qu'il porte, la Couronne de Sorcellerie, liée à Nagash.",
+      "en": "Azhag's voice is that of the crown he wears, the Crown of Sorcery, linked to Nagash.",
+      "de": "Azhags Stimme ist die der Krone, die er trägt, der mit Nagash verbundenen Krone der Zauberei."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Orcs & Goblins (8e édition, 2010)",
+          "en": "Warhammer Armies: Orcs & Goblins (8th edition, 2010)",
+          "de": "Warhammer Armies: Orcs & Goblins (8. Edition, 2010)"
+        },
+        "detail": {
+          "fr": "p. 28-29",
+          "en": "pp. 28-29",
+          "de": "S. 28-29"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Azhag the Slaughterer",
+          "en": "Warhammer Fantasy Wiki (fandom), page Azhag the Slaughterer",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Azhag the Slaughterer"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Azhag_the_Slaughterer"
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Greenskin Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Greenskin Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Greenskin Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Greenskin_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "ungrim-relache-golgfag",
+    "annee": 2515,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Ungrim capture puis relâche Golgfag",
+      "en": "Ungrim captures and then releases Golgfag",
+      "de": "Ungrim nimmt Golgfag gefangen und lässt ihn wieder frei"
+    },
+    "resume": {
+      "fr": "Ungrim Poing-de-Fer bat et capture le mercenaire ogre Golgfag, qui l'avait trahi cinq ans plus tôt. Contre toute attente, il le relâche en déclarant qu'il sera plus sportif de le traquer à nouveau plus tard. La rancune reste ouverte.",
+      "en": "Ungrim Ironfist defeats and captures the Ogre mercenary Golgfag, who had betrayed him five years earlier. Against all expectations he releases him, declaring that it will be more sporting to hunt him down again later. The grudge remains open.",
+      "de": "Ungrim Eisenfaust besiegt den Ogersöldner Golgfag, der ihn fünf Jahre zuvor verraten hatte, und nimmt ihn gefangen. Wider Erwarten lässt er ihn frei und erklärt, es sei sportlicher, ihn später erneut zu jagen. Der Groll bleibt offen."
+    },
+    "ere": "empire-reunifie",
+    "regions": [
+      "montagnes"
+    ],
+    "lieux": [],
+    "factions": [
+      "nains",
+      "ogres"
+    ],
+    "importance": 1,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Dwarfs (8e édition, 2013)",
+          "en": "Warhammer Armies: Dwarfs (8th edition, 2013)",
+          "de": "Warhammer Armies: Dwarfs (8. Edition, 2013)"
+        },
+        "detail": {
+          "fr": "p. 20-21",
+          "en": "pp. 20-21",
+          "de": "S. 20-21"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Ungrim Ironfist",
+          "en": "Warhammer Fantasy Wiki (fandom), page Ungrim Ironfist",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Ungrim Ironfist"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Ungrim_Ironfist"
+      },
+      {
+        "titre": {
+          "fr": "Bibliothèque Impériale, page Chronologie Naine",
+          "en": "Bibliothèque Impériale, page Chronologie Naine",
+          "de": "Bibliothèque Impériale, Seite Chronologie Naine"
+        },
+        "detail": {
+          "fr": "entrée 2515",
+          "en": "entry 2515",
+          "de": "Eintrag 2515"
+        },
+        "url": "https://www.bibliotheque-imperiale.com/index.php/Chronologie_Naine"
+      }
+    ]
+  },
+  {
+    "id": "bataille-de-la-drakwald",
+    "annee": 2518,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Début de la bataille pour la Drakwald",
+      "en": "The Battle for the Drakwald begins",
+      "de": "Beginn der Schlacht um den Drakwald"
+    },
+    "resume": {
+      "fr": "Des colons humains empiètent sur le Puits Noir, le domaine sacré des Gobelins des forêts. Les tribus se soulèvent en masse. Commence alors la bataille pour la Drakwald.",
+      "en": "Human settlers encroach on the Black Pit, the sacred ground of the Forest Goblins. The tribes rise up in force. The Battle for the Drakwald begins.",
+      "de": "Menschliche Siedler dringen in die Schwarze Grube ein, das heilige Gebiet der Waldgoblins. Die Stämme erheben sich in Massen. Damit beginnt die Schlacht um den Drakwald."
+    },
+    "ere": "empire-reunifie",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [],
+    "factions": [
+      "peaux-vertes",
+      "empire"
+    ],
+    "importance": 1,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Orcs & Goblins (8e édition, 2010)",
+          "en": "Warhammer Armies: Orcs & Goblins (8th edition, 2010)",
+          "de": "Warhammer Armies: Orcs & Goblins (8. Edition, 2010)"
+        },
+        "detail": {
+          "fr": "p. 28-29",
+          "en": "pp. 28-29",
+          "de": "S. 28-29"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Greenskin Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Greenskin Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Greenskin Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Greenskin_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "bataille-des-cent-canons",
+    "annee": 2519,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Bataille des Cent Canons",
+      "en": "Battle of a Hundred Cannons",
+      "de": "Schlacht der Hundert Kanonen"
+    },
+    "resume": {
+      "fr": "Des peaux-vertes attaquent Zhufbar sans parvenir à percer ses défenses avant l'arrivée des armées de Thorgrim Garde-Rancune et d'Ungrim Poing-de-Fer. Quand surgit une troupe d'ogres pillards, véritable cause de l'agitation des gobelins, les Nains s'unissent à une armée impériale venue de Nuln. Les ogres sont anéantis sous la plus grande concentration d'artillerie jamais vue.",
+      "en": "Greenskins attack Zhufbar but fail to breach its defences before the armies of Thorgrim Grudgebearer and Ungrim Ironfist arrive. When a marauding Ogre force appears, the true cause of the Goblins' unrest, the Dwarfs join an Imperial army from Nuln. The Ogres are wiped out under the greatest concentration of artillery ever seen.",
+      "de": "Grünhäute greifen Zhufbar an, können seine Verteidigung aber nicht durchbrechen, bevor die Heere von Thorgrim Grollbart und Ungrim Eisenfaust eintreffen. Als eine plündernde Ogerschar auftaucht, die wahre Ursache der Unruhe unter den Goblins, verbünden sich die Zwerge mit einem imperialen Heer aus Nuln. Die Oger werden unter der größten je gesehenen Artilleriekonzentration vernichtet."
+    },
+    "ere": "empire-reunifie",
+    "regions": [
+      "montagnes",
+      "empire"
+    ],
+    "lieux": [
+      "zhufbar",
+      "nuln"
+    ],
+    "factions": [
+      "nains",
+      "peaux-vertes",
+      "ogres",
+      "empire"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "La Bibliothèque Impériale appelle l'affrontement la bataille des Mille Canons et précise que les ogres sont détruits sur les rives de l'Aver.",
+      "en": "The Bibliothèque Impériale calls the clash the battle of a Thousand Cannons and specifies that the Ogres are destroyed on the banks of the Aver.",
+      "de": "Die Bibliothèque Impériale nennt das Gefecht die Schlacht der Tausend Kanonen und präzisiert, dass die Oger am Ufer des Aver vernichtet werden."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Dwarfs (8e édition, 2013)",
+          "en": "Warhammer Armies: Dwarfs (8th edition, 2013)",
+          "de": "Warhammer Armies: Dwarfs (8. Edition, 2013)"
+        },
+        "detail": {
+          "fr": "p. 20-21",
+          "en": "pp. 20-21",
+          "de": "S. 20-21"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Zhufbar",
+          "en": "Warhammer Fantasy Wiki (fandom), page Zhufbar",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Zhufbar"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Zhufbar"
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Dwarf Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Dwarf Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Dwarf Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Dwarf_Timeline"
+      },
+      {
+        "titre": {
+          "fr": "Bibliothèque Impériale, page Chronologie Naine",
+          "en": "Bibliothèque Impériale, page Chronologie Naine",
+          "de": "Bibliothèque Impériale, Seite Chronologie Naine"
+        },
+        "detail": {
+          "fr": "entrée 2519",
+          "en": "entry 2519",
+          "de": "Eintrag 2519"
+        },
+        "url": "https://www.bibliotheque-imperiale.com/index.php/Chronologie_Naine"
+      }
+    ]
+  },
+  {
+    "id": "troisieme-bataille-du-col-du-feu-noir",
+    "annee": 2520,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Troisième bataille du Col du Feu Noir",
+      "en": "Third Battle of Black Fire Pass",
+      "de": "Dritte Schlacht am Schwarzfeuerpass"
+    },
+    "resume": {
+      "fr": "Les hordes du chef orque Vorgaz Ironjaw sont arrêtées dans le Col du Feu Noir. Le comte électeur d'Averland Marius Leitdorf est tué au cours des combats. L'empereur Karl Franz arrive ensuite, tue Ironjaw et met les peaux-vertes en déroute.",
+      "en": "The hordes of the Orc warlord Vorgaz Ironjaw are met in Black Fire Pass. The Elector Count of Averland, Marius Leitdorf, is slain in the fighting. Emperor Karl Franz then arrives, slays Ironjaw and routs the Greenskins.",
+      "de": "Die Horden des Orkbosses Vorgaz Ironjaw werden im Schwarzfeuerpass gestellt. Der Kurfürst von Averland, Marius Leitdorf, fällt in den Kämpfen. Danach trifft Kaiser Karl Franz ein, erschlägt Ironjaw und schlägt die Grünhäute in die Flucht."
+    },
+    "ere": "empire-reunifie",
+    "regions": [
+      "empire",
+      "montagnes"
+    ],
+    "lieux": [
+      "col-du-feu-noir"
+    ],
+    "factions": [
+      "peaux-vertes",
+      "empire"
+    ],
+    "importance": 2,
+    "fiabilite": "divergent",
+    "note": {
+      "fr": "Le Livre d'Armée Orques et Gobelins (8e édition) fait mourir Marius Leitdorf à cette bataille. D'autres sources le font mourir pendant la Tempête du Chaos, deux ans plus tard.",
+      "en": "The Orcs & Goblins army book (8th edition) has Marius Leitdorf die in this battle. Other sources have him die during the Storm of Chaos, two years later.",
+      "de": "Im Armeebuch Orks & Goblins (8. Edition) stirbt Marius Leitdorf in dieser Schlacht. Andere Quellen lassen ihn zwei Jahre später im Sturm des Chaos sterben."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Orcs & Goblins (8e édition, 2010)",
+          "en": "Warhammer Armies: Orcs & Goblins (8th edition, 2010)",
+          "de": "Warhammer Armies: Orcs & Goblins (8. Edition, 2010)"
+        },
+        "detail": {
+          "fr": "p. 28-29",
+          "en": "pp. 28-29",
+          "de": "S. 28-29"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Third Battle of Black Fire",
+          "en": "Warhammer Fantasy Wiki (fandom), page Third Battle of Black Fire",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Third Battle of Black Fire"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Third_Battle_of_Black_Fire"
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Greenskin Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Greenskin Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Greenskin Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Greenskin_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "grimgor-quitte-l-oeil-rouge",
+    "annee": 2521,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Grimgor Ironhide quitte la Montagne de l'Œil Rouge",
+      "en": "Grimgor Ironhide leaves Red Eye Mountain",
+      "de": "Grimgor Ironhide verlässt den Red Eye Mountain"
+    },
+    "resume": {
+      "fr": "L'orque noir Grimgor Ironhide avait fait de l'ancienne Karak Ungor sa base, d'où il attaquait les Nains, Kislev et l'Empire à la belle saison et combattait les Skavens dans les profondeurs en hiver. Lassé de massacrer les hommes-rats, il se met en quête de nouveaux adversaires. Au même moment, Skarsnik prépare la tribu de la Lune Crochue à chasser Nains et Skavens de Karak Huit Pics.",
+      "en": "The Black Orc Grimgor Ironhide had made the former Karak Ungor his base, from which he raided the Dwarfs, Kislev and the Empire in the warm season and fought the Skaven in the depths in winter. Tired of slaughtering ratmen, he sets off in search of new foes. At the same time, Skarsnik readies the Crooked Moon tribe to drive the Dwarfs and the Skaven out of Karak Eight Peaks.",
+      "de": "Der Schwarzork Grimgor Ironhide hatte das einstige Karak Ungor zu seinem Stützpunkt gemacht, von dem aus er in der warmen Jahreszeit Zwerge, Kislev und das Imperium überfiel und im Winter in den Tiefen gegen die Skaven kämpfte. Des Abschlachtens der Rattenmenschen überdrüssig, macht er sich auf die Suche nach neuen Gegnern. Zur gleichen Zeit bereitet Skarsnik den Stamm des Krummen Mondes darauf vor, Zwerge und Skaven aus Karak Acht Gipfel zu vertreiben."
+    },
+    "ere": "empire-reunifie",
+    "regions": [
+      "montagnes"
+    ],
+    "lieux": [
+      "karak-ungor",
+      "karak-huit-pics"
+    ],
+    "factions": [
+      "peaux-vertes",
+      "skavens",
+      "nains"
+    ],
+    "importance": 1,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "Les années que Grimgor passe sous la Montagne de l'Œil Rouge ne sont pas datées précisément par le Livre d'Armée Orques et Gobelins (6e édition).",
+      "en": "The years Grimgor spends beneath Red Eye Mountain are not precisely dated by the Orcs & Goblins army book (6th edition).",
+      "de": "Die Jahre, die Grimgor unter dem Red Eye Mountain verbringt, werden im Armeebuch Orks & Goblins (6. Edition) nicht genau datiert."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Orcs & Goblins (8e édition, 2010)",
+          "en": "Warhammer Armies: Orcs & Goblins (8th edition, 2010)",
+          "de": "Warhammer Armies: Orcs & Goblins (8. Edition, 2010)"
+        },
+        "detail": {
+          "fr": "p. 28-29",
+          "en": "pp. 28-29",
+          "de": "S. 28-29"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Orcs & Goblins (6e édition, 2000)",
+          "en": "Warhammer Armies: Orcs & Goblins (6th edition, 2000)",
+          "de": "Warhammer Armies: Orcs & Goblins (6. Edition, 2000)"
+        },
+        "detail": "",
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Greenskin Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Greenskin Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Greenskin Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Greenskin_Timeline"
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Grimgor Ironhide",
+          "en": "Warhammer Fantasy Wiki (fandom), page Grimgor Ironhide",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Grimgor Ironhide"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Grimgor_Ironhide"
+      }
+    ]
+  },
+  {
+    "id": "thorgrim-a-nagashizzar",
+    "annee": 2522,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Thorgrim marche sur Nagashizzar",
+      "en": "Thorgrim marches on Nagashizzar",
+      "de": "Thorgrim marschiert auf Nagashizzar"
+    },
+    "resume": {
+      "fr": "Le Haut Roi Thorgrim conduit une armée jusqu'à Nagashizzar pour délivrer Aliathra, future Reine Éternelle d'Ulthuan, prisonnière de Mannfred von Carstein. L'expédition échoue et provoque une rupture avec le prince Tyrion et les Hauts Elfes. L'armée naine remonte ensuite à marche forcée vers Karak Huit Pics.",
+      "en": "High King Thorgrim leads an army to Nagashizzar to free Aliathra, the future Everqueen of Ulthuan, held prisoner by Mannfred von Carstein. The expedition fails and causes a falling out with Prince Tyrion and the High Elves. The Dwarf army then force-marches north to Karak Eight Peaks.",
+      "de": "Hochkönig Thorgrim führt ein Heer nach Nagashizzar, um Aliathra, die künftige Immerkönigin von Ulthuan, aus der Gefangenschaft Mannfred von Carsteins zu befreien. Die Expedition scheitert und führt zum Bruch mit Prinz Tyrion und den Hochelfen. Anschließend marschiert das Zwergenheer im Eilmarsch nach Norden zu Karak Acht Gipfel."
+    },
+    "ere": "empire-reunifie",
+    "regions": [
+      "terres-arides",
+      "montagnes"
+    ],
+    "lieux": [
+      "nagashizzar",
+      "karak-huit-pics"
+    ],
+    "factions": [
+      "nains",
+      "hauts-elfes",
+      "vampires"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "The End Times: Nagash (2014)",
+          "en": "The End Times: Nagash (2014)",
+          "de": "The End Times: Nagash (2014)"
+        },
+        "detail": "",
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Dwarf Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Dwarf Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Dwarf Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Dwarf_Timeline"
+      },
+      {
+        "titre": {
+          "fr": "Bibliothèque Impériale, page Chronologie Naine",
+          "en": "Bibliothèque Impériale, page Chronologie Naine",
+          "de": "Bibliothèque Impériale, Seite Chronologie Naine"
+        },
+        "detail": {
+          "fr": "entrée 2522",
+          "en": "entry 2522",
+          "de": "Eintrag 2522"
+        },
+        "url": "https://www.bibliotheque-imperiale.com/index.php/Chronologie_Naine"
+      }
+    ]
+  },
+  {
+    "id": "sang-sous-les-montagnes",
+    "annee": 2523,
+    "fin": 2525,
+    "approx": true,
+    "titre": {
+      "fr": "Le Sang sous les Montagnes et la mort de Belegar",
+      "en": "Blood Beneath the Mountains and the death of Belegar",
+      "de": "Blut unter den Bergen und der Tod Belegars"
+    },
+    "resume": {
+      "fr": "Le seigneur de guerre skaven Queek Coupe-Têtes attaque Karak Huit Pics en faisant sauter Karag Nar, l'un des huit pics. Belegar Marteau-de-Fer l'affronte dans les profondeurs, mais l'arrivée des Gobelins de la Nuit de Skarsnik le force à reculer, et il fait effondrer la salle ancestrale plutôt que de la céder. Encerclé par la Garde Rouge du clan Mors, Belegar finit par tomber en duel face à Queek, et la reconquête de Karak Huit Pics prend fin.",
+      "en": "The Skaven warlord Queek Headtaker attacks Karak Eight Peaks by blowing up Karag Nar, one of the eight peaks. Belegar Ironhammer faces him in the depths, but the arrival of Skarsnik's Night Goblins forces him back, and he collapses the ancestral hall rather than cede it. Surrounded by the Red Guard of Clan Mors, Belegar finally falls in a duel against Queek, and the reconquest of Karak Eight Peaks comes to an end.",
+      "de": "Der Skavenkriegsherr Queek Headtaker greift Karak Acht Gipfel an, indem er Karag Nar sprengt, einen der acht Gipfel. Belegar Eisenhammer stellt sich ihm in den Tiefen, doch das Eingreifen von Skarsniks Nachtgoblins zwingt ihn zum Rückzug, und er bringt die Ahnenhalle zum Einsturz, statt sie preiszugeben. Von der Roten Garde des Clans Mors umzingelt, fällt Belegar schließlich im Zweikampf gegen Queek, und die Rückeroberung von Karak Acht Gipfel endet."
+    },
+    "ere": "fin-des-temps",
+    "regions": [
+      "montagnes"
+    ],
+    "lieux": [
+      "karak-huit-pics"
+    ],
+    "factions": [
+      "nains",
+      "skavens",
+      "peaux-vertes"
+    ],
+    "importance": 3,
+    "fiabilite": "incertain",
+    "note": {
+      "fr": "Récit du livre The End Times: Thanquol. La chronologie de la Fin des Temps classe ces combats entre mi-2523 et mi-2525 CI sans dater précisément la mort de Belegar.",
+      "en": "Account from the book The End Times: Thanquol. The End Times chronology places these battles between mid-2523 and mid-2525 IC without precisely dating Belegar's death.",
+      "de": "Darstellung aus dem Buch The End Times: Thanquol. Die Chronologie der Endzeit ordnet diese Kämpfe zwischen Mitte 2523 und Mitte 2525 IK ein, ohne Belegars Tod genau zu datieren."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "The End Times: Thanquol (2014)",
+          "en": "The End Times: Thanquol (2014)",
+          "de": "The End Times: Thanquol (2014)"
+        },
+        "detail": "",
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Belegar Ironhammer",
+          "en": "Warhammer Fantasy Wiki (fandom), page Belegar Ironhammer",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Belegar Ironhammer"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Belegar_Ironhammer"
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page End Times Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page End Times Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite End Times Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/End_Times_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "thorgrim-refuse-de-sceller-les-forteresses",
+    "annee": 2523,
+    "fin": null,
+    "approx": true,
+    "titre": {
+      "fr": "Thorgrim refuse de sceller les forteresses",
+      "en": "Thorgrim refuses to seal the holds",
+      "de": "Thorgrim weigert sich, die Festungen zu versiegeln"
+    },
+    "resume": {
+      "fr": "Alors que le monde s'enfonce dans la Fin des Temps, plusieurs rois nains conseillent au Haut Roi de barricader les forteresses et d'abandonner le reste du monde à son sort. Thorgrim Garde-Rancune s'y refuse. Il est soutenu par Belegar Marteau-de-Fer et Ungrim Poing-de-Fer.",
+      "en": "As the world sinks into the End Times, several Dwarf kings advise the High King to bar the holds and leave the rest of the world to its fate. Thorgrim Grudgebearer refuses. He is backed by Belegar Ironhammer and Ungrim Ironfist.",
+      "de": "Während die Welt in die Endzeit versinkt, raten mehrere Zwergenkönige dem Hochkönig, die Festungen zu verriegeln und den Rest der Welt seinem Schicksal zu überlassen. Thorgrim Grollbart weigert sich. Belegar Eisenhammer und Ungrim Eisenfaust unterstützen ihn."
+    },
+    "ere": "fin-des-temps",
+    "regions": [
+      "montagnes"
+    ],
+    "lieux": [
+      "karaz-a-karak"
+    ],
+    "factions": [
+      "nains"
+    ],
+    "importance": 1,
+    "fiabilite": "incertain",
+    "note": {
+      "fr": "La chronologie de la Fin des Temps (White Dwarf Weekly 50) place l'épisode entre fin 2522 et mi-2523 CI sans année précise.",
+      "en": "The End Times chronology (White Dwarf Weekly 50) places the episode between late 2522 and mid-2523 IC without a precise year.",
+      "de": "Die Chronologie der Endzeit (White Dwarf Weekly 50) verortet die Episode zwischen Ende 2522 und Mitte 2523 IK ohne genaues Jahr."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "White Dwarf Weekly 50 (10 janvier 2015)",
+          "en": "White Dwarf Weekly 50 (10 January 2015)",
+          "de": "White Dwarf Weekly 50 (10. Januar 2015)"
+        },
+        "detail": "",
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page End Times Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page End Times Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite End Times Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/End_Times_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "grimgor-renverse-zharr-naggrund",
+    "annee": 2526,
+    "fin": null,
+    "approx": true,
+    "titre": {
+      "fr": "Grimgor renverse la tour de Zharr-Naggrund",
+      "en": "Grimgor topples the Tower of Zharr-Naggrund",
+      "de": "Grimgor stürzt den Turm von Zharr-Naggrund"
+    },
+    "resume": {
+      "fr": "Pendant la Fin des Temps, la Waaagh! de Grimgor Ironhide, rejointe par les mercenaires ogres de Golgfag, franchit les Montagnes du Bord du Monde et ravage l'empire des Nains du Chaos. Golgfag tient ouvertes les portes de fer de Zharr-Naggrund, criblé de carreaux, pour laisser entrer les orques. Grimgor et ses alliés gravissent la ziggourat et abattent la statue de Hashut.",
+      "en": "During the End Times, the Waaagh! of Grimgor Ironhide, joined by Golgfag's Ogre mercenaries, crosses the Worlds Edge Mountains and lays waste to the empire of the Chaos Dwarfs. Golgfag holds the iron gates of Zharr-Naggrund open, studded with bolts, to let the Orcs in. Grimgor and his allies climb the ziggurat and topple the statue of Hashut.",
+      "de": "In der Endzeit überquert das Waaagh! von Grimgor Ironhide, verstärkt durch Golgfags Ogersöldner, das Weltrandgebirge und verwüstet das Reich der Chaoszwerge. Golgfag hält, von Bolzen gespickt, die Eisentore von Zharr-Naggrund offen, damit die Orks eindringen können. Grimgor und seine Verbündeten erstürmen die Zikkurat und stürzen die Statue Hashuts."
+    },
+    "ere": "fin-des-temps",
+    "regions": [
+      "terres-arides"
+    ],
+    "lieux": [
+      "zharr-naggrund"
+    ],
+    "factions": [
+      "peaux-vertes",
+      "nains",
+      "chaos",
+      "ogres"
+    ],
+    "importance": 3,
+    "fiabilite": "incertain",
+    "note": {
+      "fr": "Épisode rapporté en souvenir dans le roman The Lord of the End Times, sans année. Il se situe avant l'arrivée de Grimgor à Middenheim en 2527 CI, d'où la date approximative.",
+      "en": "Episode recalled in the novel The Lord of the End Times, without a year. It takes place before Grimgor's arrival at Middenheim in 2527 IC, hence the approximate date.",
+      "de": "Episode, die im Roman The Lord of the End Times als Erinnerung geschildert wird, ohne Jahresangabe. Sie liegt vor Grimgors Ankunft in Middenheim im Jahr 2527 IK, daher das ungefähre Datum."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "The End Times: The Lord of the End Times, roman de Josh Reynolds (2015), chap. 15",
+          "en": "The End Times: The Lord of the End Times, novel by Josh Reynolds (2015), ch. 15",
+          "de": "The End Times: The Lord of the End Times, Roman von Josh Reynolds (2015), Kap. 15"
+        },
+        "detail": "",
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Zharr-Naggrund",
+          "en": "Warhammer Fantasy Wiki (fandom), page Zharr-Naggrund",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Zharr-Naggrund"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Zharr-Naggrund"
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Chaos Dwarfs",
+          "en": "Warhammer Fantasy Wiki (fandom), page Chaos Dwarfs",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Chaos Dwarfs"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Chaos_Dwarfs"
+      }
+    ]
+  }
+]

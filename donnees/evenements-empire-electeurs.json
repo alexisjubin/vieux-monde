@@ -1,0 +1,3561 @@
+[
+  {
+    "id": "massacre-de-salzenmund",
+    "annee": 1375,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Massacre de la conférence de paix de Salzenmund",
+      "en": "Massacre at the Salzenmund peace talks",
+      "de": "Das Massaker bei den Friedensgesprächen von Salzenmund"
+    },
+    "resume": {
+      "fr": "Le comte de Nordland Adalbert Moltke réunit dans sa capitale les envoyés du Talabecland et du Stirland pour tenter de mettre fin à la guerre civile. Une armée de démons de Khorne surgit et massacre tous les participants. Chaque camp accuse l'autre du carnage, et la guerre reprend de plus belle.",
+      "en": "The Count of Nordland, Adalbert Moltke, gathers envoys from Talabecland and Stirland in his capital to try to end the civil war. An army of Khornate daemons appears and slaughters every participant. Each side blames the other for the carnage, and the war resumes more fiercely than before.",
+      "de": "Der Graf von Nordland, Adalbert Moltke, versammelt Gesandte aus Talabecland und Stirland in seiner Hauptstadt, um den Bürgerkrieg zu beenden. Ein Heer von Dämonen des Khorne erscheint und metzelt alle Teilnehmer nieder. Jede Seite gibt der anderen die Schuld, und der Krieg flammt heftiger wieder auf."
+    },
+    "ere": "trois-empereurs",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [
+      "salzenmund"
+    ],
+    "factions": [
+      "empire",
+      "chaos"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Daemons of Chaos, 7e édition (2008)",
+          "en": "Warhammer Armies: Daemons of Chaos, 7th edition (2008)",
+          "de": "Warhammer Armies: Daemons of Chaos, 7. Edition (2008)"
+        },
+        "detail": {
+          "fr": "p. 28",
+          "en": "p. 28",
+          "de": "S. 28"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Salzenmund",
+          "en": "Lexicanum, Salzenmund page",
+          "de": "Lexicanum, Seite Salzenmund"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Salzenmund"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Age of Three Emperors",
+          "en": "Lexicanum, Age of Three Emperors page",
+          "de": "Lexicanum, Seite Age of Three Emperors"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Time_of_Three_Emperors"
+      }
+    ]
+  },
+  {
+    "id": "partage-du-drakwald",
+    "annee": 1414,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Le Nordland et le Middenland se partagent le Drakwald",
+      "en": "Nordland and Middenland divide the Drakwald",
+      "de": "Nordland und Middenland teilen den Drakwald"
+    },
+    "resume": {
+      "fr": "Un traité entre le Nordland et le Middenland partage les terres disputées de l'ancienne province du Drakwald. Il clôt la querelle ouverte par l'édit de Mandred, qui avait laissé ce territoire sans maître après sa dévastation. Le Drakwald cesse dès lors d'exister comme province distincte.",
+      "en": "A treaty between Nordland and Middenland divides the contested lands of the former province of Drakwald. It closes the dispute opened by Mandred's edict, which had left the territory without a master after its devastation. From then on the Drakwald no longer exists as a separate province.",
+      "de": "Ein Vertrag zwischen Nordland und Middenland teilt die umstrittenen Ländereien der einstigen Provinz Drakwald auf. Er beendet den Streit, den Mandreds Edikt eröffnet hatte, nachdem das verwüstete Gebiet ohne Herrn geblieben war. Seitdem besteht der Drakwald nicht mehr als eigene Provinz."
+    },
+    "ere": "trois-empereurs",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [
+      "middenheim",
+      "salzenmund"
+    ],
+    "factions": [
+      "empire"
+    ],
+    "importance": 1,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2e édition (2005)",
+          "en": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2nd edition (2005)",
+          "de": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2. Edition (2005)"
+        },
+        "detail": {
+          "fr": "p. 21",
+          "en": "p. 21",
+          "de": "S. 21"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Middenheim",
+          "en": "Lexicanum, Middenheim page",
+          "de": "Lexicanum, Seite Middenheim"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Middenheim"
+      },
+      {
+        "titre": {
+          "fr": "Warhammer Wiki (Fandom), page Empire of Man Timeline",
+          "en": "Warhammer Wiki (Fandom), Empire of Man Timeline page",
+          "de": "Warhammer Wiki (Fandom), Seite Empire of Man Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Empire_of_Man_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "gorthor-hochland-ostland",
+    "annee": 1520,
+    "fin": null,
+    "approx": true,
+    "titre": {
+      "fr": "Gorthor l'Ensorceleur ravage le Hochland et l'Ostland",
+      "en": "Gorthor the Beastlord ravages Hochland and Ostland",
+      "de": "Gorthor der Bestienfürst verwüstet Hochland und Ostland"
+    },
+    "resume": {
+      "fr": "Pendant que de nombreux guerriers de l'Empire combattent au loin lors des croisades, le seigneur des bêtes Gorthor réunit les hardes d'Hommes-bêtes après une vision d'un monde en flammes. Il ravage le Hochland et l'Ostland et brûle de nombreux villages. Sa campagne montre combien l'Empire divisé est vulnérable aux menaces de ses propres forêts.",
+      "en": "While many of the Empire's warriors are fighting far away in the crusades, the Beastlord Gorthor unites the Beastmen herds after a vision of a world on fire. He ravages Hochland and Ostland and burns many villages. His campaign shows how vulnerable the divided Empire is to the threats lurking in its own forests.",
+      "de": "Während viele Krieger des Imperiums fern in den Kreuzzügen kämpfen, vereint der Bestienfürst Gorthor nach einer Vision einer brennenden Welt die Herden der Tiermenschen. Er verwüstet Hochland und Ostland und brennt zahlreiche Dörfer nieder. Sein Feldzug zeigt, wie verwundbar das gespaltene Imperium gegenüber den Gefahren seiner eigenen Wälder ist."
+    },
+    "ere": "trois-empereurs",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [
+      "hergig",
+      "wolfenburg"
+    ],
+    "factions": [
+      "chaos",
+      "empire"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "Lexicanum situe la vision de Gorthor en 1520 CI, le livre d'armée de l'Empire de 8e édition parle d'environ 1520.",
+      "en": "Lexicanum places Gorthor's vision in 1520 IC, the 8th edition Empire army book says around 1520.",
+      "de": "Lexicanum datiert Gorthors Vision auf 1520 IK, das Armeebuch Imperium der 8. Edition spricht von etwa 1520."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: The Empire, 8e édition (2012)",
+          "en": "Warhammer Armies: The Empire, 8th edition (2012)",
+          "de": "Warhammer Armies: The Empire, 8. Edition (2012)"
+        },
+        "detail": {
+          "fr": "p. 16",
+          "en": "p. 16",
+          "de": "S. 16"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Gorthor",
+          "en": "Lexicanum, Gorthor page",
+          "de": "Lexicanum, Seite Gorthor"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Gorthor"
+      },
+      {
+        "titre": {
+          "fr": "Warhammer Wiki (Fandom), page Empire of Man Timeline",
+          "en": "Warhammer Wiki (Fandom), Empire of Man Timeline page",
+          "de": "Warhammer Wiki (Fandom), Seite Empire of Man Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Empire_of_Man_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "siege-de-talabheim-1550",
+    "annee": 1550,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "L'empereur-loup assiège Talabheim",
+      "en": "The Wolf Emperor besieges Talabheim",
+      "de": "Der Wolfskaiser belagert Talabheim"
+    },
+    "resume": {
+      "fr": "Trois ans après s'être proclamé empereur, le comte Siegfried de Middenland marche contre la capitale ottilienne et assiège Talabheim. Le cratère imprenable résiste et les nobles du Middenland se révoltent pendant l'attaque. La guerre entre Middenheim et Talabheim devient l'un des axes durables des conflits du temps des Trois Empereurs.",
+      "en": "Three years after proclaiming himself Emperor, Count Siegfried of Middenland marches on the Ottilian capital and besieges Talabheim. The impregnable crater holds out and the nobles of Middenland rebel during the attack. The war between Middenheim and Talabheim becomes one of the lasting fault lines of the Age of Three Emperors.",
+      "de": "Drei Jahre nach seiner Selbsternennung zum Kaiser zieht Graf Siegfried von Middenland gegen die ottilianische Hauptstadt und belagert Talabheim. Der uneinnehmbare Krater hält stand, und während des Angriffs erheben sich die Adligen Middenlands. Der Krieg zwischen Middenheim und Talabheim wird zu einer dauerhaften Bruchlinie im Zeitalter der Drei Kaiser."
+    },
+    "ere": "trois-empereurs",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [
+      "talabheim",
+      "middenheim"
+    ],
+    "factions": [
+      "empire"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Beasts of Chaos, 6e édition (2003)",
+          "en": "Warhammer Armies: Beasts of Chaos, 6th edition (2003)",
+          "de": "Warhammer Armies: Beasts of Chaos, 6. Edition (2003)"
+        },
+        "detail": {
+          "fr": "p. 11",
+          "en": "p. 11",
+          "de": "S. 11"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2e édition (2005)",
+          "en": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2nd edition (2005)",
+          "de": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2. Edition (2005)"
+        },
+        "detail": {
+          "fr": "p. 21",
+          "en": "p. 21",
+          "de": "S. 21"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Wolf Emperor",
+          "en": "Lexicanum, Wolf Emperor page",
+          "de": "Lexicanum, Seite Wolf Emperor"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Wolf_Emperor"
+      }
+    ]
+  },
+  {
+    "id": "conseil-marchand-marienburg",
+    "annee": 1604,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Les marchands entrent au conseil de Marienburg",
+      "en": "Merchants join the Marienburg council",
+      "de": "Kaufleute ziehen in den Rat von Marienburg ein"
+    },
+    "resume": {
+      "fr": "Le comte van Buik accorde des sièges au conseil de la ville aux marchands et aux armateurs de Marienburg. Cette réforme marque le début d'un gouvernement où l'argent pèse autant que la naissance. Elle prépare la future république marchande qui achètera son indépendance plus de huit siècles plus tard.",
+      "en": "Count van Buik grants seats on the city council to the merchants and shipowners of Marienburg. This reform marks the beginning of a government in which money weighs as much as birth. It prepares the future merchant republic that will buy its independence more than eight centuries later.",
+      "de": "Graf van Buik gewährt den Kaufleuten und Reedern Marienburgs Sitze im Stadtrat. Die Reform markiert den Beginn einer Regierung, in der Geld ebenso viel zählt wie Geburt. Sie bereitet die spätere Kaufmannsrepublik vor, die sich mehr als acht Jahrhunderte danach die Unabhängigkeit erkauft."
+    },
+    "ere": "trois-empereurs",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [
+      "marienburg"
+    ],
+    "factions": [
+      "empire"
+    ],
+    "importance": 1,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2e édition (2005)",
+          "en": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2nd edition (2005)",
+          "de": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2. Edition (2005)"
+        },
+        "detail": {
+          "fr": "p. 21",
+          "en": "p. 21",
+          "de": "S. 21"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Warhammer Wiki (Fandom), page Empire of Man Timeline",
+          "en": "Warhammer Wiki (Fandom), Empire of Man Timeline page",
+          "de": "Warhammer Wiki (Fandom), Seite Empire of Man Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Empire_of_Man_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "templiers-de-sigmar",
+    "annee": 1682,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Naissance des Templiers de Sigmar",
+      "en": "Founding of the Templars of Sigmar",
+      "de": "Gründung der Templer Sigmars"
+    },
+    "resume": {
+      "fr": "Au lendemain de la Nuit des Morts sans repos, le Grand Théogoniste Siebold II rebaptise l'Ordre du Marteau d'argent en Saint Ordre des Templiers de Sigmar. Il le charge publiquement de défendre l'Empire contre le Chaos, les démons, l'hérésie et la sorcellerie. Les répurgateurs deviennent dès lors le bras armé du culte de Sigmar.",
+      "en": "In the aftermath of the Night of the Restless Dead, Grand Theogonist Siebold II renames the Order of the Silver Hammer the Holy Order of the Templars of Sigmar. He publicly charges it with defending the Empire against Chaos, daemons, heresy and witchcraft. From then on the Witch Hunters become the armed hand of the Cult of Sigmar.",
+      "de": "Nach der Nacht der ruhelosen Toten benennt Großtheogonist Siebold II. den Orden des Silbernen Hammers in Heiliger Orden der Templer Sigmars um. Er beauftragt ihn öffentlich, das Imperium gegen Chaos, Dämonen, Ketzerei und Hexerei zu verteidigen. Die Hexenjäger werden damit zum bewaffneten Arm des Sigmarkults."
+    },
+    "ere": "trois-empereurs",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [
+      "altdorf"
+    ],
+    "factions": [
+      "empire"
+    ],
+    "importance": 3,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "The Witch Hunter's Handbook",
+          "en": "The Witch Hunter's Handbook",
+          "de": "The Witch Hunter's Handbook"
+        },
+        "detail": {
+          "fr": "chapitre 1, p. 7-25",
+          "en": "chapter 1, pp. 7-25",
+          "de": "Kapitel 1, S. 7-25"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Order of the Silver Hammer",
+          "en": "Lexicanum, Order of the Silver Hammer page",
+          "de": "Lexicanum, Seite Order of the Silver Hammer"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Order_of_the_Silver_Hammer"
+      }
+    ]
+  },
+  {
+    "id": "patrouilleurs-routiers-sigismund",
+    "annee": 1706,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Sigismund IV crée les patrouilleurs routiers",
+      "en": "Sigismund IV creates the Roadwardens",
+      "de": "Sigismund IV. schafft die Straßenwächter"
+    },
+    "resume": {
+      "fr": "Alerté par les comtes du Stirland sur les meurtres et les disparitions le long des routes, l'empereur élu Sigismund IV donne un statut officiel aux hommes qui les surveillent. Les patrouilleurs routiers reçoivent des brevets aux pouvoirs juridiques étendus pour lutter contre le brigandage. L'empereur ignore que les vrais coupables sont des Orques et des Gobelins, prélude à la Waaagh! de Gorbad.",
+      "en": "Warned by the counts of Stirland about murders and disappearances along the roads, the elected Emperor Sigismund IV gives official status to the men who patrol them. The Roadwardens receive writs with wide legal powers to fight banditry. The Emperor does not know that the real culprits are Orcs and Goblins, a prelude to Gorbad's Waaagh!.",
+      "de": "Von den Grafen Stirlands über Morde und Verschwundene entlang der Straßen gewarnt, verleiht der gewählte Kaiser Sigismund IV. den Männern, die sie überwachen, einen offiziellen Status. Die Straßenwächter erhalten Patente mit weitreichenden Rechtsbefugnissen gegen das Räuberunwesen. Der Kaiser ahnt nicht, dass Orks und Goblins die wahren Täter sind, ein Vorspiel zu Gorbads Waaagh!."
+    },
+    "ere": "trois-empereurs",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [],
+    "factions": [
+      "empire",
+      "peaux-vertes"
+    ],
+    "importance": 1,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Shades of Empire, Warhammer Fantasy Roleplay 2e édition (2008)",
+          "en": "Shades of Empire, Warhammer Fantasy Roleplay 2nd edition (2008)",
+          "de": "Shades of Empire, Warhammer Fantasy Roleplay 2. Edition (2008)"
+        },
+        "detail": {
+          "fr": "p. 114",
+          "en": "p. 114",
+          "de": "S. 114"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Warhammer Wiki (Fandom), page Empire of Man Timeline",
+          "en": "Warhammer Wiki (Fandom), Empire of Man Timeline page",
+          "de": "Warhammer Wiki (Fandom), Seite Empire of Man Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Empire_of_Man_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "schisme-ottilien-helmut-ii",
+    "annee": 1750,
+    "fin": null,
+    "approx": true,
+    "titre": {
+      "fr": "Deux empereurs ottiliens à la fois",
+      "en": "Two Ottilian Emperors at once",
+      "de": "Zwei ottilianische Kaiser zugleich"
+    },
+    "resume": {
+      "fr": "L'empereur ottilien Horst le Prudent refuse d'affronter une armée d'invasion, ce qui lui aliène une partie de sa cour. Helmut II tente un coup d'État contre lui mais ne parvient à s'emparer que de Talabheim. Pendant un temps, la lignée ottilienne compte elle-même deux prétendants rivaux.",
+      "en": "The Ottilian Emperor Horst the Cautious refuses to face an invading army, which alienates part of his court. Helmut II attempts a coup against him but only manages to seize Talabheim. For a while the Ottilian line itself has two rival claimants.",
+      "de": "Der ottilianische Kaiser Horst der Vorsichtige weigert sich, einem eindringenden Heer entgegenzutreten, und verliert damit einen Teil seines Hofes. Helmut II. versucht einen Staatsstreich gegen ihn, kann aber nur Talabheim einnehmen. Eine Zeit lang hat selbst die ottilianische Linie zwei rivalisierende Anwärter."
+    },
+    "ere": "trois-empereurs",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [
+      "talabheim"
+    ],
+    "factions": [
+      "empire"
+    ],
+    "importance": 1,
+    "fiabilite": "incertain",
+    "note": {
+      "fr": "Date approximative, tirée du tableau des empereurs ottiliens de Lexicanum d'après Sigmar's Heirs.",
+      "en": "Approximate date, taken from Lexicanum's table of Ottilian Emperors based on Sigmar's Heirs.",
+      "de": "Ungefähres Datum aus der Lexicanum-Tabelle der ottilianischen Kaiser nach Sigmar's Heirs."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2e édition (2005)",
+          "en": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2nd edition (2005)",
+          "de": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2. Edition (2005)"
+        },
+        "detail": {
+          "fr": "p. 17",
+          "en": "p. 17",
+          "de": "S. 17"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Ottilian Emperor",
+          "en": "Lexicanum, Ottilian Emperor page",
+          "de": "Lexicanum, Seite Ottilian Emperor"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Ottilian_Emperor"
+      }
+    ]
+  },
+  {
+    "id": "siege-de-middenheim-1812",
+    "annee": 1812,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Le Middenland assiège Middenheim",
+      "en": "Middenland besieges Middenheim",
+      "de": "Middenland belagert Middenheim"
+    },
+    "resume": {
+      "fr": "Les troupes du Middenland menées par le grand-duc Karl-Heinz assiègent Middenheim pendant neuf mois, car la cité et sa province sont alors aux mains de maîtres rivaux. Avec l'aide des Nains, les défenseurs repoussent l'assaut. Les tunnels sous le Fauschlag, par où l'ennemi avait tenté de passer, sont scellés pour toujours.",
+      "en": "Middenland troops led by Grand Duke Karl-Heinz besiege Middenheim for nine months, as the city and its province are then held by rival masters. With Dwarf help the defenders repel the assault. The tunnels under the Fauschlag, through which the enemy had tried to pass, are sealed for ever.",
+      "de": "Middenländische Truppen unter Großherzog Karl-Heinz belagern Middenheim neun Monate lang, denn Stadt und Provinz sind damals in der Hand rivalisierender Herren. Mit Hilfe der Zwerge schlagen die Verteidiger den Angriff zurück. Die Tunnel unter dem Fauschlag, durch die der Feind eindringen wollte, werden für immer versiegelt."
+    },
+    "ere": "trois-empereurs",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [
+      "middenheim"
+    ],
+    "factions": [
+      "empire",
+      "nains"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2e édition (2005)",
+          "en": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2nd edition (2005)",
+          "de": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2. Edition (2005)"
+        },
+        "detail": {
+          "fr": "p. 21",
+          "en": "p. 21",
+          "de": "S. 21"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Middenheim",
+          "en": "Lexicanum, Middenheim page",
+          "de": "Lexicanum, Seite Middenheim"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Middenheim"
+      },
+      {
+        "titre": {
+          "fr": "Warhammer Wiki (Fandom), page Empire of Man Timeline",
+          "en": "Warhammer Wiki (Fandom), Empire of Man Timeline page",
+          "de": "Warhammer Wiki (Fandom), Seite Empire of Man Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Empire_of_Man_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "dernier-sac-de-marienburg",
+    "annee": 1850,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Dernier sac de Marienburg par les Norses",
+      "en": "Last Norse sack of Marienburg",
+      "de": "Letzte Plünderung Marienburgs durch die Nordmänner"
+    },
+    "resume": {
+      "fr": "Les raids norses reprennent le long de la mer des Griffes, et Marienburg est mise à sac pour la quatrième fois de son histoire. Ce sera la dernière, car la cité investit ensuite dans ses défenses et sa flotte. Les pirates du nord restent pourtant une menace constante pour son commerce.",
+      "en": "Norse raids resume along the Sea of Claws, and Marienburg is sacked for the fourth time in its history. It is the last, as the city then invests in its defences and its fleet. The northern pirates nevertheless remain a constant threat to its trade.",
+      "de": "Die Raubzüge der Nordmänner entlang des Meers der Klauen beginnen erneut, und Marienburg wird zum vierten Mal in seiner Geschichte geplündert. Es ist das letzte Mal, denn die Stadt investiert danach in Befestigungen und Flotte. Die Piraten des Nordens bleiben dennoch eine ständige Gefahr für ihren Handel."
+    },
+    "ere": "trois-empereurs",
+    "regions": [
+      "empire",
+      "norsca"
+    ],
+    "lieux": [
+      "marienburg"
+    ],
+    "factions": [
+      "chaos",
+      "empire"
+    ],
+    "importance": 1,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2e édition (2005)",
+          "en": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2nd edition (2005)",
+          "de": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2. Edition (2005)"
+        },
+        "detail": {
+          "fr": "p. 21",
+          "en": "p. 21",
+          "de": "S. 21"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Warhammer Wiki (Fandom), page Empire of Man Timeline",
+          "en": "Warhammer Wiki (Fandom), Empire of Man Timeline page",
+          "de": "Warhammer Wiki (Fandom), Seite Empire of Man Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Empire_of_Man_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "festin-empoisonne-drachenfels",
+    "annee": 1940,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Le Festin empoisonné de Drachenfels",
+      "en": "The Poisoned Feast of Drachenfels",
+      "de": "Das vergiftete Festmahl von Drachenfels"
+    },
+    "resume": {
+      "fr": "Après avoir feint le repentir, le Grand Enchanteur Constant Drachenfels invite l'empereur élu Carolus II et la noblesse du Reikland à un banquet dans son château. Les invités sont paralysés par un poison et meurent de faim devant les mets servis. Plusieurs grandes lignées du Reikland disparaissent et la position des empereurs élus en sort très affaiblie.",
+      "en": "After feigning repentance, the Great Enchanter Constant Drachenfels invites the elected Emperor Carolus II and the nobility of Reikland to a banquet at his castle. The guests are paralysed by poison and starve to death before the dishes laid out for them. Several great Reikland bloodlines are wiped out and the position of the elected Emperors is badly weakened.",
+      "de": "Nach gespielter Reue lädt der Große Verzauberer Constant Drachenfels den gewählten Kaiser Carolus II. und den Adel des Reiklands zu einem Bankett auf seine Burg. Die Gäste werden durch Gift gelähmt und verhungern vor den aufgetragenen Speisen. Mehrere große Geschlechter des Reiklands erlöschen, und die Stellung der gewählten Kaiser wird stark geschwächt."
+    },
+    "ere": "trois-empereurs",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [
+      "chateau-drachenfels"
+    ],
+    "factions": [
+      "empire",
+      "vampires"
+    ],
+    "importance": 2,
+    "fiabilite": "divergent",
+    "note": {
+      "fr": "Les éditions Boxtree des romans placent le festin en 1937 CI. Lexicanum et le livre de règles de WFRP 4e édition retiennent 1940 CI. Drachenfels est un nécromancien et démonologue, rattaché ici faute de mieux à la faction des morts-vivants.",
+      "en": "The Boxtree editions of the novels place the feast in 1937 IC. Lexicanum and the WFRP 4th edition core rulebook keep 1940 IC. Drachenfels is a necromancer and daemonologist, attached here for lack of a better choice to the Undead faction.",
+      "de": "Die Boxtree-Ausgaben der Romane datieren das Festmahl auf 1937 IK. Lexicanum und das Grundregelwerk von WFRP 4 nennen 1940 IK. Drachenfels ist Nekromant und Dämonologe und wird hier mangels Besserem den Untoten zugeordnet."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Livre de règles, Warhammer Fantasy Roleplay 4e édition (2018)",
+          "en": "Core Rulebook, Warhammer Fantasy Roleplay 4th edition (2018)",
+          "de": "Grundregelwerk, Warhammer Fantasy Roleplay 4. Edition (2018)"
+        },
+        "detail": {
+          "fr": "p. 274",
+          "en": "p. 274",
+          "de": "S. 274"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Constant Drachenfels",
+          "en": "Lexicanum, Constant Drachenfels page",
+          "de": "Lexicanum, Seite Constant Drachenfels"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Constant_Drachenfels"
+      }
+    ]
+  },
+  {
+    "id": "chasse-a-la-pierre-distordue",
+    "annee": 2000,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "La ruée sur les ruines de Mordheim",
+      "en": "The scramble for the ruins of Mordheim",
+      "de": "Der Wettlauf um die Ruinen von Mordheim"
+    },
+    "resume": {
+      "fr": "Après la destruction de Mordheim, les prétendants au trône financent des bandes de mercenaires chargées de fouiller les ruines à la recherche de pierre distordante. Le Grand Théogoniste y envoie aussi ses répurgateurs, avec ordre de tuer quiconque leur barre la route, y compris les Sœurs de Sigmar. La Cité des Damnés devient un champ de bataille permanent entre mercenaires, cultistes et Skavens.",
+      "en": "After the destruction of Mordheim, the claimants to the throne fund mercenary warbands to search the ruins for wyrdstone. The Grand Theogonist also sends his Witch Hunters, with orders to kill anyone in their way, including the Sisters of Sigmar. The City of the Damned becomes a permanent battlefield between mercenaries, cultists and Skaven.",
+      "de": "Nach der Zerstörung Mordheims finanzieren die Thronanwärter Söldnerbanden, die in den Ruinen nach Warpstein suchen. Auch der Großtheogonist schickt seine Hexenjäger mit dem Befehl, jeden zu töten, der sich ihnen in den Weg stellt, einschließlich der Schwestern Sigmars. Die Stadt der Verdammten wird zu einem ständigen Schlachtfeld von Söldnern, Kultisten und Skaven."
+    },
+    "ere": "trois-empereurs",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [
+      "mordheim"
+    ],
+    "factions": [
+      "empire",
+      "chaos",
+      "skavens"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "Le livre de règles de The Old World place la comète en 2000 CI, la plupart des autres sources en 1999 CI. Le jeu Mordheim se déroule l'année qui suit la catastrophe.",
+      "en": "The Old World rulebook places the comet in 2000 IC, most other sources in 1999 IC. The Mordheim game is set in the year following the catastrophe.",
+      "de": "Das Regelbuch von The Old World datiert den Kometen auf 2000 IK, die meisten anderen Quellen auf 1999 IK. Das Spiel Mordheim spielt im Jahr nach der Katastrophe."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Mordheim, livre de règles (1999)",
+          "en": "Mordheim, rulebook (1999)",
+          "de": "Mordheim, Regelbuch (1999)"
+        },
+        "detail": {
+          "fr": "chapitre des bandes",
+          "en": "warbands chapter",
+          "de": "Kapitel der Banden"
+        },
+        "url": ""
+      },
+      {
+        "titre": "Warhammer: The Old World, livre de règles (2024)",
+        "detail": {
+          "fr": "p. 306",
+          "en": "p. 306",
+          "de": "S. 306"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Anarchy (Empire)",
+          "en": "Lexicanum, Anarchy (Empire) page",
+          "de": "Lexicanum, Seite Anarchy (Empire)"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Anarchy_(Empire)"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Order of the Silver Hammer",
+          "en": "Lexicanum, Order of the Silver Hammer page",
+          "de": "Lexicanum, Seite Order of the Silver Hammer"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Order_of_the_Silver_Hammer"
+      }
+    ]
+  },
+  {
+    "id": "leonardo-ecole-des-ingenieurs",
+    "annee": 2012,
+    "fin": null,
+    "approx": true,
+    "titre": {
+      "fr": "Leonardo de Miragliano et l'École impériale des ingénieurs",
+      "en": "Leonardo of Miragliano and the Imperial School of Engineers",
+      "de": "Leonardo von Miragliano und die Imperiale Ingenieursschule"
+    },
+    "resume": {
+      "fr": "Le génie tiléen Leonardo de Miragliano entre au service du prince Stephan Franz d'Altdorf, qui veut des armes contre ses rivaux et contre les morts-vivants de Sylvanie. Il fonde à Altdorf l'École impériale des ingénieurs et conçoit les premiers tanks à vapeur. Sa mort dans l'explosion d'une machine volante emporte une grande partie des secrets de leur construction.",
+      "en": "The Tilean genius Leonardo of Miragliano enters the service of Prince Stephan Franz of Altdorf, who wants weapons against his rivals and against the Undead of Sylvania. He founds the Imperial School of Engineers in Altdorf and designs the first Steam Tanks. His death in the explosion of a flying machine takes most of the secrets of their construction with him.",
+      "de": "Das tileanische Genie Leonardo von Miragliano tritt in den Dienst von Prinz Stephan Franz von Altdorf, der Waffen gegen seine Rivalen und gegen die Untoten Sylvaniens sucht. Er gründet in Altdorf die Imperiale Ingenieursschule und entwirft die ersten Dampfpanzer. Sein Tod bei der Explosion einer Flugmaschine nimmt die meisten Geheimnisse ihres Baus mit ins Grab."
+    },
+    "ere": "trois-empereurs",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [
+      "altdorf"
+    ],
+    "factions": [
+      "empire",
+      "humains-autres"
+    ],
+    "importance": 3,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "Le livre d'armée Dogs of War (5e édition) date son entrée au service de l'empereur de 2012 CI. Lexicanum précise qu'il peint encore une fresque à Wurtbad en 2011 CI.",
+      "en": "The Dogs of War army book (5th edition) dates his entry into the Emperor's service to 2012 IC. Lexicanum adds that he was still painting a fresco in Wurtbad in 2011 IC.",
+      "de": "Das Armeebuch Dogs of War (5. Edition) datiert seinen Eintritt in kaiserliche Dienste auf 2012 IK. Lexicanum ergänzt, dass er 2011 IK noch ein Fresko in Wurtbad malte."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Dogs of War, 5e édition (1998)",
+          "en": "Warhammer Armies: Dogs of War, 5th edition (1998)",
+          "de": "Warhammer Armies: Dogs of War, 5. Edition (1998)"
+        },
+        "detail": {
+          "fr": "p. 85",
+          "en": "p. 85",
+          "de": "S. 85"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "White Dwarf 296 (UK)",
+          "en": "White Dwarf 296 (UK)",
+          "de": "White Dwarf 296 (UK)"
+        },
+        "detail": {
+          "fr": "article Imperial School of Engineers, p. 50-51",
+          "en": "Imperial School of Engineers article, pp. 50-51",
+          "de": "Artikel Imperial School of Engineers, S. 50-51"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Leonardo of Miragliano",
+          "en": "Lexicanum, Leonardo of Miragliano page",
+          "de": "Lexicanum, Seite Leonardo of Miragliano"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Leonardo_of_Miragliano"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Reikland pretender",
+          "en": "Lexicanum, Reikland pretender page",
+          "de": "Lexicanum, Seite Reikland pretender"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Reikland_pretender"
+      }
+    ]
+  },
+  {
+    "id": "pendaison-de-rotebach",
+    "annee": 2111,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "La pendaison de Rotebach",
+      "en": "The hanging of Rotebach",
+      "de": "Die Hinrichtung von Rotebach"
+    },
+    "resume": {
+      "fr": "Le comte de Middenland Luitprand II, membre de l'ordre des Templiers de Sigmar, fait pendre toute la population du bourg de Rotebach pour allégeance au Chaos. L'épisode reste l'un des exemples les plus sinistres des chasses aux sorcières de l'Anarchie. Il montre jusqu'où peut aller la peur de la corruption dans un Empire sans autorité centrale.",
+      "en": "Count Luitprand II of Middenland, a member of the Templars of Sigmar, has the entire population of the town of Rotebach hanged for Chaos allegiance. The episode remains one of the grimmest examples of the witch hunts of the Anarchy. It shows how far the fear of corruption can go in an Empire without central authority.",
+      "de": "Graf Luitprand II. von Middenland, Mitglied der Templer Sigmars, lässt die gesamte Bevölkerung des Städtchens Rotebach wegen Paktierens mit dem Chaos aufhängen. Die Episode zählt zu den finstersten Beispielen der Hexenjagden während der Anarchie. Sie zeigt, wie weit die Angst vor Verderbnis in einem Imperium ohne Zentralgewalt gehen kann."
+    },
+    "ere": "trois-empereurs",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [],
+    "factions": [
+      "empire"
+    ],
+    "importance": 1,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2e édition (2005)",
+          "en": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2nd edition (2005)",
+          "de": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2. Edition (2005)"
+        },
+        "detail": {
+          "fr": "p. 21",
+          "en": "p. 21",
+          "de": "S. 21"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Order of the Silver Hammer",
+          "en": "Lexicanum, Order of the Silver Hammer page",
+          "de": "Lexicanum, Seite Order of the Silver Hammer"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Order_of_the_Silver_Hammer"
+      },
+      {
+        "titre": {
+          "fr": "Warhammer Wiki (Fandom), page Empire of Man Timeline",
+          "en": "Warhammer Wiki (Fandom), Empire of Man Timeline page",
+          "de": "Warhammer Wiki (Fandom), Seite Empire of Man Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Empire_of_Man_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "grande-faille-de-drachenfels",
+    "annee": 2203,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "La grande faille de Drachenfels",
+      "en": "The Great Rift at Drachenfels",
+      "de": "Der große Riss von Drachenfels"
+    },
+    "resume": {
+      "fr": "Les protections magiques du château de Drachenfels sont troublées et une faille s'ouvre vers le Royaume du Chaos. Des démons s'en déversent et ravagent le sud du Reikland, dont Bögenhafen et Ubersreik. La faille se referme aussi mystérieusement qu'elle s'était ouverte.",
+      "en": "The magical wards of Castle Drachenfels are disturbed and a rift opens into the Realm of Chaos. Daemons pour out of it and devastate southern Reikland, including Bögenhafen and Ubersreik. The rift closes as mysteriously as it had opened.",
+      "de": "Die magischen Schutzzauber der Burg Drachenfels werden gestört, und ein Riss ins Reich des Chaos öffnet sich. Dämonen strömen heraus und verwüsten das südliche Reikland, darunter Bögenhafen und Ubersreik. Der Riss schließt sich so rätselhaft, wie er sich geöffnet hat."
+    },
+    "ere": "trois-empereurs",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [
+      "chateau-drachenfels",
+      "bogenhafen",
+      "ubersreik"
+    ],
+    "factions": [
+      "chaos",
+      "empire"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "Lexicanum note que la responsabilité de Drachenfels n'est pas formellement établie.",
+      "en": "Lexicanum notes that Drachenfels' responsibility is not formally established.",
+      "de": "Lexicanum vermerkt, dass Drachenfels' Urheberschaft nicht eindeutig belegt ist."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Livre de règles, Warhammer Fantasy Roleplay 4e édition (2018)",
+          "en": "Core Rulebook, Warhammer Fantasy Roleplay 4th edition (2018)",
+          "de": "Grundregelwerk, Warhammer Fantasy Roleplay 4. Edition (2018)"
+        },
+        "detail": {
+          "fr": "p. 274",
+          "en": "p. 274",
+          "de": "S. 274"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Warhammer Armies: The Empire, 8e édition (2012)",
+          "en": "Warhammer Armies: The Empire, 8th edition (2012)",
+          "de": "Warhammer Armies: The Empire, 8. Edition (2012)"
+        },
+        "detail": {
+          "fr": "p. 16",
+          "en": "p. 16",
+          "de": "S. 16"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Constant Drachenfels",
+          "en": "Lexicanum, Constant Drachenfels page",
+          "de": "Lexicanum, Seite Constant Drachenfels"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Constant_Drachenfels"
+      }
+    ]
+  },
+  {
+    "id": "ludwig-xii-duc-de-talabec",
+    "annee": 2248,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Ludwig XII monte sur le trône ottilien",
+      "en": "Ludwig XII takes the Ottilian throne",
+      "de": "Ludwig XII. besteigt den ottilianischen Thron"
+    },
+    "resume": {
+      "fr": "L'empereur ottilien Ludwig XI meurt dans des circonstances suspectes, et son successeur Ludwig XII soupçonne le prince Wilhelm Ier de Reikland de l'avoir fait assassiner. Missionnaires sigmarites et répurgateurs du Reikland s'enfoncent dans le Talabecland, jusqu'à l'incident de la forêt de Drakwald où les Talabheimois capturent le répurgateur Dietrich Haslav. Son exécution à Talabheim sert de prétexte à une guerre ouverte entre les deux principautés.",
+      "en": "The Ottilian Emperor Ludwig XI dies in suspicious circumstances, and his successor Ludwig XII suspects Prince Wilhelm I of Reikland of having him assassinated. Sigmarite missionaries and Reikland Witch Hunters push into Talabecland, until the Drakwald Forest Incident in which the Talabheimers capture the Witch Hunter Dietrich Haslav. His execution in Talabheim serves as a pretext for open war between the two principalities.",
+      "de": "Der ottilianische Kaiser Ludwig XI. stirbt unter verdächtigen Umständen, und sein Nachfolger Ludwig XII. verdächtigt Prinz Wilhelm I. von Reikland, ihn ermordet zu haben. Sigmaritische Missionare und Hexenjäger aus dem Reikland dringen nach Talabecland vor, bis die Talabheimer beim Zwischenfall im Drakwald den Hexenjäger Dietrich Haslav gefangen nehmen. Seine Hinrichtung in Talabheim dient als Vorwand für einen offenen Krieg zwischen beiden Fürstentümern."
+    },
+    "ere": "trois-empereurs",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [
+      "talabheim",
+      "altdorf"
+    ],
+    "factions": [
+      "empire"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "L'avènement de Ludwig XII est daté de 2248 CI. L'incident de la forêt de Drakwald, décrit comme un scénario du livre de règles de The Old World, n'a pas de date précise.",
+      "en": "Ludwig XII's accession is dated 2248 IC. The Drakwald Forest Incident, presented as a scenario in The Old World rulebook, has no precise date.",
+      "de": "Die Thronbesteigung Ludwigs XII. ist auf 2248 IK datiert. Der Zwischenfall im Drakwald, im Regelbuch von The Old World als Szenario beschrieben, hat kein genaues Datum."
+    },
+    "sources": [
+      {
+        "titre": "Warhammer: The Old World, livre de règles (2024)",
+        "detail": {
+          "fr": "Pretenders, p. 45 et The Drakwald Forest Incident, p. 249",
+          "en": "Pretenders, p. 45 and The Drakwald Forest Incident, p. 249",
+          "de": "Pretenders, S. 45 und The Drakwald Forest Incident, S. 249"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Ludwig XII",
+          "en": "Lexicanum, Ludwig XII page",
+          "de": "Lexicanum, Seite Ludwig XII"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Ludwig_XII"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Ottilian Emperor",
+          "en": "Lexicanum, Ottilian Emperor page",
+          "de": "Lexicanum, Seite Ottilian Emperor"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Ottilian_Emperor"
+      }
+    ]
+  },
+  {
+    "id": "mort-odo-todmeyer",
+    "annee": 2251,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "L'empereur-loup Odo Todmeyer III tombe dans la forêt des Ombres",
+      "en": "Wolf Emperor Odo Todmeyer III falls in the Forest of Shadows",
+      "de": "Wolfskaiser Odo Todmeyer III. fällt im Schattenwald"
+    },
+    "resume": {
+      "fr": "En campagne contre les Hommes-bêtes de la forêt des Ombres, l'empereur-loup Odo Todmeyer III est vaincu et tué. Sa mort affaiblit encore la lignée de Middenheim, dont le successeur ne contrôlera guère plus qu'une cité-État. Les hardes de la forêt restent l'une des grandes menaces du nord de l'Empire.",
+      "en": "While campaigning against the Beastmen of the Forest of Shadows, the Wolf Emperor Odo Todmeyer III is defeated and killed. His death further weakens the Middenheim line, whose successor will control little more than a city-state. The forest herds remain one of the great threats to the northern Empire.",
+      "de": "Auf einem Feldzug gegen die Tiermenschen des Schattenwalds wird Wolfskaiser Odo Todmeyer III. besiegt und getötet. Sein Tod schwächt die Middenheimer Linie weiter, deren Nachfolger kaum mehr als einen Stadtstaat beherrschen wird. Die Herden des Waldes bleiben eine der großen Bedrohungen im Norden des Imperiums."
+    },
+    "ere": "trois-empereurs",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [],
+    "factions": [
+      "empire",
+      "chaos"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": "Warhammer: The Old World, livre de règles (2024)",
+        "detail": {
+          "fr": "p. 290",
+          "en": "p. 290",
+          "de": "S. 290"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Wolf Emperor",
+          "en": "Lexicanum, Wolf Emperor page",
+          "de": "Lexicanum, Seite Wolf Emperor"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Wolf_Emperor"
+      }
+    ]
+  },
+  {
+    "id": "quatre-blocs-de-l-anarchie",
+    "annee": 2276,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Les quatre blocs de l'Anarchie",
+      "en": "The four power blocs of the Anarchy",
+      "de": "Die vier Machtblöcke der Anarchie"
+    },
+    "resume": {
+      "fr": "En 2276 CI, l'Empire est partagé entre quatre prétendants : l'impératrice Elspeth Magritta VI de la baronnie de Westerland, l'empereur-loup Sigismund Ulric du grand-comté d'Osterlund, le prince Wilhelm Ier de Reikland et l'empereur ottilien Ludwig XII du grand-duché de Talabec. Au sud, l'Averland, le Wissenland et le Sudenland, ainsi que des cités libres comme Nuln et Averheim, refusent de choisir un camp. Les alliances changent sans cesse, mais ce n'est pas une guerre civile ouverte.",
+      "en": "In 2276 IC the Empire is divided between four claimants: Empress Elspeth Magritta VI of the Barony of Westerland, Wolf Emperor Sigismund Ulric of the Grand County of Osterlund, Prince Wilhelm I of Reikland and the Ottilian Emperor Ludwig XII of the Grand Duchy of Talabec. In the south, Averland, Wissenland and Sudenland, as well as free cities such as Nuln and Averheim, refuse to take sides. Alliances shift constantly, but this is not an open civil war.",
+      "de": "Im Jahr 2276 IK ist das Imperium unter vier Anwärtern aufgeteilt: Kaiserin Elspeth Magritta VI. der Baronie Westerland, Wolfskaiser Sigismund Ulric der Großgrafschaft Osterlund, Prinz Wilhelm I. von Reikland und der ottilianische Kaiser Ludwig XII. des Großherzogtums Talabec. Im Süden halten sich Averland, Wissenland und Sudenland sowie freie Städte wie Nuln und Averheim heraus. Die Bündnisse wechseln ständig, doch einen offenen Bürgerkrieg gibt es nicht."
+    },
+    "ere": "trois-empereurs",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [
+      "marienburg",
+      "middenheim",
+      "altdorf"
+    ],
+    "factions": [
+      "empire"
+    ],
+    "importance": 3,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "C'est l'état de l'Empire décrit par le livre de règles de The Old World et l'Arcane Journal: Empire of Man. Ces quatre blocs remplacent les trois lignées d'empereurs des éditions précédentes.",
+      "en": "This is the state of the Empire described by The Old World rulebook and the Arcane Journal: Empire of Man. These four blocs replace the three lines of Emperors of earlier editions.",
+      "de": "So beschreiben das Regelbuch von The Old World und das Arcane Journal: Empire of Man den Zustand des Imperiums. Die vier Blöcke ersetzen die drei Kaiserlinien früherer Editionen."
+    },
+    "sources": [
+      {
+        "titre": "Warhammer: The Old World, livre de règles (2024)",
+        "detail": {
+          "fr": "Pretenders, p. 45",
+          "en": "Pretenders, p. 45",
+          "de": "Pretenders, S. 45"
+        },
+        "url": ""
+      },
+      {
+        "titre": "Warhammer: The Old World, Arcane Journal: Empire of Man (2024)",
+        "detail": {
+          "fr": "The Grand Provinces, p. 5",
+          "en": "The Grand Provinces, p. 5",
+          "de": "The Grand Provinces, S. 5"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Anarchy (Empire)",
+          "en": "Lexicanum, Anarchy (Empire) page",
+          "de": "Lexicanum, Seite Anarchy (Empire)"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Anarchy_(Empire)"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Elspeth Magritta VI",
+          "en": "Lexicanum, Elspeth Magritta VI page",
+          "de": "Lexicanum, Seite Elspeth Magritta VI"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Elspeth_Magritta_VI"
+      },
+      {
+        "titre": "Warhammer Community, Old World Almanack: What's up with the Empire of Man?",
+        "detail": "",
+        "url": "https://www.warhammer-community.com/en-gb/articles/lp2kr6wu/old-world-almanack-whats-up-with-the-empire-of-man/"
+      }
+    ]
+  },
+  {
+    "id": "pacte-nuln-talabecland",
+    "annee": 2276,
+    "fin": null,
+    "approx": true,
+    "titre": {
+      "fr": "Nuln s'allie au Talabecland contre le Reikland",
+      "en": "Nuln allies with Talabecland against Reikland",
+      "de": "Nuln verbündet sich mit Talabecland gegen das Reikland"
+    },
+    "resume": {
+      "fr": "Menacée par les ambitions du Reikland, la cité libre de Nuln conclut un accord avec le Talabecland. Le général Hans von Löwenhacke, officier né au Talabecland et mercenaire réputé qui a servi presque toutes les puissances de l'Empire, est détaché à la tête des armées de Nuln. Il adopte le lion de la cité dans son héraldique.",
+      "en": "Threatened by Reikland's ambitions, the free city of Nuln reaches an agreement with Talabecland. General Hans von Löwenhacke, a Talabecland-born officer and renowned mercenary who has served almost every power in the Empire, is seconded to lead Nuln's armies. He adopts the city's lion into his heraldry.",
+      "de": "Von den Ambitionen des Reiklands bedroht, schließt die freie Stadt Nuln ein Abkommen mit Talabecland. General Hans von Löwenhacke, ein in Talabecland geborener Offizier und berühmter Söldner, der fast jeder Macht im Imperium gedient hat, wird an die Spitze der Heere Nulns abgestellt. Er übernimmt den Löwen der Stadt in sein Wappen."
+    },
+    "ere": "trois-empereurs",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [
+      "nuln",
+      "talabheim"
+    ],
+    "factions": [
+      "empire"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "Lexicanum situe le détachement de von Löwenhacke « vers 2276 CI », d'après Warhammer Community et l'Arcane Journal: Empire of Man.",
+      "en": "Lexicanum places von Löwenhacke's secondment \"around 2276 IC\", based on Warhammer Community and the Arcane Journal: Empire of Man.",
+      "de": "Lexicanum setzt von Löwenhackes Abordnung auf „um 2276 IK“, nach Warhammer Community und dem Arcane Journal: Empire of Man."
+    },
+    "sources": [
+      {
+        "titre": "Warhammer: The Old World, Arcane Journal: Empire of Man (2024)",
+        "detail": {
+          "fr": "section historique",
+          "en": "historical section",
+          "de": "Geschichtsteil"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Hans von Löwenhacke",
+          "en": "Lexicanum, Hans von Löwenhacke page",
+          "de": "Lexicanum, Seite Hans von Löwenhacke"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Hans_von_L%C3%B6wenhacke"
+      },
+      {
+        "titre": "Frontline Gaming, Arcane Journal: Empire of Man - A Political Storm",
+        "detail": "",
+        "url": "https://frontlinegaming.org/2024/12/26/arcane-journal-empire-of-man-a-political-storm/"
+      }
+    ]
+  },
+  {
+    "id": "gemunsen-chevaliers-pantheres",
+    "annee": 2276,
+    "fin": null,
+    "approx": true,
+    "titre": {
+      "fr": "Harald Gemunsen grand maître des Chevaliers Panthères",
+      "en": "Harald Gemunsen becomes Grand Master of the Knights Panther",
+      "de": "Harald Gemunsen wird Hochmeister der Pantherritter"
+    },
+    "resume": {
+      "fr": "Après la mort du grand maître Einricsson à la bataille des landes du Midden, les Chevaliers Panthères choisissent Harald Gemunsen pour lui succéder. Ce jeune chef, qui avait tué un Ghorgon dans le Drakwald, entretient de bonnes relations avec l'Ar-Ulric, le comte Sigismund de Middenheim et l'impératrice de Marienburg. Beaucoup espèrent qu'il restera au-dessus des querelles des prétendants.",
+      "en": "After the death of Grand Master Einricsson at the Battle of the Midden Moors, the Knights Panther choose Harald Gemunsen as his successor. This young leader, who had slain a Ghorgon in the Drakwald, maintains good relations with the Ar-Ulric, Count Sigismund of Middenheim and the Empress of Marienburg. Many hope he will stay above the claimants' feuds.",
+      "de": "Nach dem Tod von Hochmeister Einricsson in der Schlacht im Middenmoor wählen die Pantherritter Harald Gemunsen zu seinem Nachfolger. Der junge Anführer, der im Drakwald einen Ghorgon erschlagen hatte, pflegt gute Beziehungen zum Ar-Ulric, zu Graf Sigismund von Middenheim und zur Kaiserin von Marienburg. Viele hoffen, dass er über den Fehden der Anwärter steht."
+    },
+    "ere": "trois-empereurs",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [
+      "middenheim"
+    ],
+    "factions": [
+      "empire"
+    ],
+    "importance": 1,
+    "fiabilite": "incertain",
+    "note": {
+      "fr": "Lexicanum indique qu'il est grand maître en 2276 CI, sans dater sa nomination ni la bataille des landes du Midden.",
+      "en": "Lexicanum states that he is Grand Master in 2276 IC, without dating his appointment or the Battle of the Midden Moors.",
+      "de": "Lexicanum gibt an, dass er 2276 IK Hochmeister ist, ohne seine Ernennung oder die Schlacht im Middenmoor zu datieren."
+    },
+    "sources": [
+      {
+        "titre": "Warhammer: The Old World, Arcane Journal: Empire of Man (2024)",
+        "detail": {
+          "fr": "section historique",
+          "en": "historical section",
+          "de": "Geschichtsteil"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Harald Gemunsen",
+          "en": "Lexicanum, Harald Gemunsen page",
+          "de": "Lexicanum, Seite Harald Gemunsen"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Harald_Gemunsen"
+      }
+    ]
+  },
+  {
+    "id": "frydaal-ravage-le-westerland",
+    "annee": 2276,
+    "fin": 2277,
+    "approx": false,
+    "titre": {
+      "fr": "Frydaal la Forgeuse de chaînes ravage le Westerland",
+      "en": "Frydaal the Chainmaker ravages the Westerland",
+      "de": "Frydaal die Kettenschmiedin verwüstet das Westerland"
+    },
+    "resume": {
+      "fr": "La championne norse Frydaal traverse la mer des Griffes avec ses drakkars et transforme un simple raid en guerre de conquête. Elle rase Hollum et y dresse un monolithe du Chaos, puis revient au printemps suivant, fait de la ville sa capitale et détruit Aarnau et ses défenseurs, les Lames de Manann. L'impératrice de Marienburg, plus soucieuse des pirates et de ses rivaux, ne lève une armée de mercenaires qu'après la chute d'Aarnau.",
+      "en": "The Norse champion Frydaal crosses the Sea of Claws with her wolfships and turns a simple raid into a war of conquest. She razes Hollum and raises a Chaos monolith there, then returns the following spring, makes the town her capital and destroys Aarnau and its defenders, Manann's Blades. The Empress of Marienburg, more concerned with pirates and her rivals, only raises a mercenary army after the fall of Aarnau.",
+      "de": "Die norsische Championin Frydaal überquert mit ihren Wolfsschiffen das Meer der Klauen und macht aus einem Raubzug einen Eroberungskrieg. Sie zerstört Hollum und errichtet dort einen Chaosmonolithen, kehrt im folgenden Frühjahr zurück, macht die Stadt zu ihrer Hauptstadt und vernichtet Aarnau und seine Verteidiger, Manann's Blades. Die Kaiserin von Marienburg, mehr mit Piraten und Rivalen beschäftigt, stellt erst nach dem Fall Aarnaus ein Söldnerheer auf."
+    },
+    "ere": "trois-empereurs",
+    "regions": [
+      "empire",
+      "norsca"
+    ],
+    "lieux": [
+      "hollum",
+      "aarnau",
+      "marienburg"
+    ],
+    "factions": [
+      "chaos",
+      "empire"
+    ],
+    "importance": 3,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "Les pages Frydaal et Aarnau de Lexicanum décalent les événements d'un an (raid sur Hollum en 2277, chute d'Aarnau en 2278). La chronologie de la guerre du Westerland, tirée de l'Arcane Journal: Warriors of Chaos, retient 2276 et 2277.",
+      "en": "Lexicanum's Frydaal and Aarnau pages shift the events by one year (raid on Hollum in 2277, fall of Aarnau in 2278). The War in Westerland timeline, based on the Arcane Journal: Warriors of Chaos, keeps 2276 and 2277.",
+      "de": "Die Lexicanum-Seiten zu Frydaal und Aarnau verschieben die Ereignisse um ein Jahr (Überfall auf Hollum 2277, Fall Aarnaus 2278). Die Zeittafel des Kriegs im Westerland nach dem Arcane Journal: Warriors of Chaos nennt 2276 und 2277."
+    },
+    "sources": [
+      {
+        "titre": "Warhammer: The Old World, Arcane Journal: Warriors of Chaos (2024)",
+        "detail": {
+          "fr": "Saga of the Chainmaker, p. 13-19",
+          "en": "Saga of the Chainmaker, pp. 13-19",
+          "de": "Saga of the Chainmaker, S. 13-19"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page War in Westerland",
+          "en": "Lexicanum, War in Westerland page",
+          "de": "Lexicanum, Seite War in Westerland"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/War_in_Westerland"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Frydaal",
+          "en": "Lexicanum, Frydaal page",
+          "de": "Lexicanum, Seite Frydaal"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Frydaal"
+      }
+    ]
+  },
+  {
+    "id": "miao-ying-a-marienburg",
+    "annee": 2278,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Le Dragon de la Tempête débarque à Marienburg",
+      "en": "The Storm Dragon lands at Marienburg",
+      "de": "Der Sturmdrache landet in Marienburg"
+    },
+    "resume": {
+      "fr": "Convaincue par son frère Yuan Bo, Miao Ying, souveraine des provinces du nord de Cathay, mène la Flotte de jade jusqu'au Vieux Monde et débarque à Marienburg. Avec l'appui de troupes impériales, elle sauve Oostwold, assiège Leonen et repousse peu à peu Frydaal jusqu'à Hollum. Cette intervention venue de l'autre bout du monde est l'un des grands récits de l'époque de The Old World.",
+      "en": "Persuaded by her brother Yuan Bo, Miao Ying, ruler of the northern provinces of Cathay, leads the Jade Fleet to the Old World and lands at Marienburg. With the support of Imperial troops, she saves Oostwold, besieges Leonen and gradually drives Frydaal back to Hollum. This intervention from the other end of the world is one of the great stories of The Old World era.",
+      "de": "Von ihrem Bruder Yuan Bo überzeugt, führt Miao Ying, Herrscherin der Nordprovinzen Cathays, die Jadeflotte in die Alte Welt und landet in Marienburg. Mit Unterstützung imperialer Truppen rettet sie Oostwold, belagert Leonen und drängt Frydaal nach und nach bis Hollum zurück. Dieses Eingreifen vom anderen Ende der Welt ist eine der großen Geschichten der Epoche von The Old World."
+    },
+    "ere": "trois-empereurs",
+    "regions": [
+      "empire",
+      "orient"
+    ],
+    "lieux": [
+      "marienburg",
+      "hollum",
+      "nan-gau"
+    ],
+    "factions": [
+      "humains-autres",
+      "empire",
+      "chaos"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "Les Cathayens sont classés dans la faction des autres royaumes humains, le référentiel n'ayant pas de faction propre pour Cathay.",
+      "en": "The Cathayans are filed under the other human realms faction, as the reference list has no faction of its own for Cathay.",
+      "de": "Die Cathayer werden den anderen Menschenreichen zugeordnet, da die Übersicht keine eigene Fraktion für Cathay hat."
+    },
+    "sources": [
+      {
+        "titre": "Warhammer: The Old World, Arcane Journal: Dawn of the Storm Dragon (2025)",
+        "detail": {
+          "fr": "p. 17-38",
+          "en": "pp. 17-38",
+          "de": "S. 17-38"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page War in Westerland",
+          "en": "Lexicanum, War in Westerland page",
+          "de": "Lexicanum, Seite War in Westerland"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/War_in_Westerland"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Miao Ying",
+          "en": "Lexicanum, Miao Ying page",
+          "de": "Lexicanum, Seite Miao Ying"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Miao_Ying"
+      }
+    ]
+  },
+  {
+    "id": "kralmaw-drakwald",
+    "annee": 2278,
+    "fin": 2279,
+    "approx": false,
+    "titre": {
+      "fr": "Le prophète Kralmaw dévaste les bourgs du Drakwald",
+      "en": "The prophet Kralmaw lays waste to the Drakwald towns",
+      "de": "Der Prophet Kralmaw verheert die Städte im Drakwald"
+    },
+    "resume": {
+      "fr": "Au cœur de l'hiver, le chaman Kralmaw, dit le Prophète de la Ruine, corrompt le bourg d'Isenbuttel, puis Rosche, dont les habitants sont attirés vers une pierre de harde. Des cavaliers venus donner l'alerte sont massacrés avec une compagnie de mercenaires de Middenheim sur la Grande Route du Nord. La renaissance de Morghur attire ensuite les hardes vers la forêt de Laurelorn.",
+      "en": "In the depths of winter, the shaman Kralmaw, known as the Prophet of Ruin, corrupts the town of Isenbuttel, then Rosche, whose inhabitants are lured towards a herdstone. Riders sent to raise the alarm are slaughtered along with a company of Middenheim mercenaries on the Great North Road. Morghur's rebirth then draws the herds towards the Laurelorn Forest.",
+      "de": "Im tiefsten Winter verdirbt der Schamane Kralmaw, genannt Prophet des Untergangs, das Städtchen Isenbuttel und danach Rosche, dessen Bewohner zu einem Herdenstein gelockt werden. Reiter, die Alarm schlagen sollen, werden mit einer Söldnerkompanie aus Middenheim an der Großen Nordstraße niedergemacht. Morghurs Wiedergeburt zieht die Herden danach in den Laurelorn-Wald."
+    },
+    "ere": "trois-empereurs",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [],
+    "factions": [
+      "chaos",
+      "empire"
+    ],
+    "importance": 1,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": "Warhammer: The Old World, Arcane Journal: Beastmen Brayherds (2024)",
+        "detail": {
+          "fr": "The Depths of Winter, p. 13-16",
+          "en": "The Depths of Winter, pp. 13-16",
+          "de": "The Depths of Winter, S. 13-16"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page War in Westerland",
+          "en": "Lexicanum, War in Westerland page",
+          "de": "Lexicanum, Seite War in Westerland"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/War_in_Westerland"
+      }
+    ]
+  },
+  {
+    "id": "presages-de-2301",
+    "annee": 2301,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Les présages de l'été 2301",
+      "en": "The portents of summer 2301",
+      "de": "Die Vorzeichen des Sommers 2301"
+    },
+    "resume": {
+      "fr": "Durant l'été 2301, l'Empire est frappé de signes funestes : récoltes brûlées ou dévorées, puits remplis de bave, bétail emporté par des maladies. Les Hommes-bêtes reprennent une partie de l'Ostland et de l'Ostermark et des bandes de guerriers du Chaos poussent jusqu'aux collines Hurlantes, au nord d'Altdorf. Sorcières vraies ou supposées sont brûlées ou noyées, et les flagellants se multiplient sur les routes.",
+      "en": "During the summer of 2301, the Empire is struck by dire signs: crops scorched or devoured, wells filled with slime, cattle carried off by disease. Beastmen retake part of Ostland and Ostermark and bands of Chaos Warriors push as far as the Howling Hills north of Altdorf. Witches, real or supposed, are burned or drowned, and flagellants multiply on the roads.",
+      "de": "Im Sommer 2301 wird das Imperium von unheilvollen Zeichen heimgesucht: verdorrte oder verschlungene Ernten, mit Schleim gefüllte Brunnen, an Seuchen verendetes Vieh. Tiermenschen erobern Teile von Ostland und Ostermark zurück, und Banden von Chaoskriegern dringen bis in die Heulenden Hügel nördlich von Altdorf vor. Echte und vermeintliche Hexen werden verbrannt oder ertränkt, und auf den Straßen ziehen immer mehr Flagellanten umher."
+    },
+    "ere": "trois-empereurs",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [
+      "altdorf",
+      "wolfenburg"
+    ],
+    "factions": [
+      "empire",
+      "chaos"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: The Empire, 7e édition (2006)",
+          "en": "Warhammer Armies: The Empire, 7th edition (2006)",
+          "de": "Warhammer Armies: The Empire, 7. Edition (2006)"
+        },
+        "detail": {
+          "fr": "section historique",
+          "en": "historical section",
+          "de": "Geschichtsteil"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Realm of the Ice Queen, Warhammer Fantasy Roleplay 2e édition (2007)",
+          "en": "Realm of the Ice Queen, Warhammer Fantasy Roleplay 2nd edition (2007)",
+          "de": "Realm of the Ice Queen, Warhammer Fantasy Roleplay 2. Edition (2007)"
+        },
+        "detail": {
+          "fr": "chapitre historique",
+          "en": "history chapter",
+          "de": "Geschichtskapitel"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Great War Against Chaos",
+          "en": "Lexicanum, Great War Against Chaos page",
+          "de": "Lexicanum, Seite Great War Against Chaos"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Great_War_Against_Chaos"
+      }
+    ]
+  },
+  {
+    "id": "magnus-feu-d-ulric",
+    "annee": 2302,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Magnus traverse la Flamme d'Ulric",
+      "en": "Magnus walks through the Flame of Ulric",
+      "de": "Magnus schreitet durch die Flamme Ulrics"
+    },
+    "resume": {
+      "fr": "Le prédicateur Magnus de Nuln, qui rallie les foules contre la menace du nord, se rend à Middenheim pour gagner les Ulricains à sa cause. Le grand prêtre Kriestov tente de le faire condamner pour hérésie, mais Magnus traverse la Flamme sacrée d'Ulric sans être brûlé. Le prodige humilie le grand prêtre et rallie le nord de l'Empire à la croisade.",
+      "en": "The preacher Magnus of Nuln, who is rallying crowds against the northern threat, goes to Middenheim to win the Ulricans to his cause. High Priest Kriestov tries to have him condemned as a heretic, but Magnus walks through the sacred Flame of Ulric unburnt. The miracle humiliates the High Priest and rallies the north of the Empire to the crusade.",
+      "de": "Der Prediger Magnus von Nuln, der die Massen gegen die Bedrohung aus dem Norden sammelt, reist nach Middenheim, um die Ulrikaner für seine Sache zu gewinnen. Der Hohepriester Kriestov will ihn als Ketzer verurteilen lassen, doch Magnus schreitet unversehrt durch die heilige Flamme Ulrics. Das Wunder demütigt den Hohepriester und bringt den Norden des Imperiums auf die Seite des Kreuzzugs."
+    },
+    "ere": "trois-empereurs",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [
+      "middenheim",
+      "nuln"
+    ],
+    "factions": [
+      "empire"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Middenheim: City of the White Wolf, Warhammer Fantasy Roleplay 4e édition",
+          "en": "Middenheim: City of the White Wolf, Warhammer Fantasy Roleplay 4th edition",
+          "de": "Middenheim: City of the White Wolf, Warhammer Fantasy Roleplay 4. Edition"
+        },
+        "detail": {
+          "fr": "chronologie de Middenheim, p. 12-15",
+          "en": "Timeline of Middenheim, pp. 12-15",
+          "de": "Zeittafel Middenheims, S. 12-15"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Middenheim",
+          "en": "Lexicanum, Middenheim page",
+          "de": "Lexicanum, Seite Middenheim"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Middenheim"
+      }
+    ]
+  },
+  {
+    "id": "ambassade-lazlo-teclis",
+    "annee": 2302,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "L'ambassade de Pieter Lazlo et l'arrivée de Teclis",
+      "en": "Pieter Lazlo's embassy and the arrival of Teclis",
+      "de": "Pieter Lazlos Gesandtschaft und die Ankunft von Teclis"
+    },
+    "resume": {
+      "fr": "Après un conseil de guerre à Talabheim, Magnus envoie son ami Pieter Lazlo demander une armée au Roi Phénix Finubar. Lazlo revient sans soldats mais avec trois mages, Teclis et les maîtres du savoir Finreir et Yrtle. Teclis propose de lever l'interdit qui pèse sur la magie humaine et forme les premiers sorciers de l'Empire, dont beaucoup meurent ou perdent la raison pendant l'apprentissage.",
+      "en": "After a council of war in Talabheim, Magnus sends his friend Pieter Lazlo to ask the Phoenix King Finubar for an army. Lazlo returns without soldiers but with three mages, Teclis and the Loremasters Finreir and Yrtle. Teclis proposes lifting the ban on human magic and trains the Empire's first wizards, many of whom die or go mad during their training.",
+      "de": "Nach einem Kriegsrat in Talabheim schickt Magnus seinen Freund Pieter Lazlo zum Phönixkönig Finubar, um ein Heer zu erbitten. Lazlo kehrt ohne Soldaten zurück, aber mit drei Magiern, Teclis und den Loremeistern Finreir und Yrtle. Teclis schlägt vor, das Verbot menschlicher Magie aufzuheben, und bildet die ersten Zauberer des Imperiums aus, von denen viele bei der Ausbildung sterben oder dem Wahnsinn verfallen."
+    },
+    "ere": "trois-empereurs",
+    "regions": [
+      "empire",
+      "ulthuan"
+    ],
+    "lieux": [
+      "talabheim",
+      "marienburg",
+      "lothern"
+    ],
+    "factions": [
+      "empire",
+      "hauts-elfes"
+    ],
+    "importance": 3,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: The Empire, 7e édition (2006)",
+          "en": "Warhammer Armies: The Empire, 7th edition (2006)",
+          "de": "Warhammer Armies: The Empire, 7. Edition (2006)"
+        },
+        "detail": {
+          "fr": "section historique",
+          "en": "historical section",
+          "de": "Geschichtsteil"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Realm of the Ice Queen, Warhammer Fantasy Roleplay 2e édition (2007)",
+          "en": "Realm of the Ice Queen, Warhammer Fantasy Roleplay 2nd edition (2007)",
+          "de": "Realm of the Ice Queen, Warhammer Fantasy Roleplay 2. Edition (2007)"
+        },
+        "detail": {
+          "fr": "chapitre historique",
+          "en": "history chapter",
+          "de": "Geschichtskapitel"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Great War Against Chaos",
+          "en": "Lexicanum, Great War Against Chaos page",
+          "de": "Lexicanum, Seite Great War Against Chaos"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Great_War_Against_Chaos"
+      }
+    ]
+  },
+  {
+    "id": "fin-des-van-der-maacht",
+    "annee": 2302,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Mort du dernier baron van der Maacht",
+      "en": "Death of the last van der Maacht baron",
+      "de": "Tod des letzten Barons van der Maacht"
+    },
+    "resume": {
+      "fr": "Le baron Paulus de Westerland, dernier de la lignée van der Maacht, est tué pendant la Grande Guerre contre le Chaos. Sa mort laisse la baronnie sans héritier. En 2305 CI, un édit transforme le Westerland en province ordinaire de l'Empire réunifié de Magnus.",
+      "en": "Baron Paulus of the Westerland, last of the van der Maacht line, is killed during the Great War against Chaos. His death leaves the barony without an heir. In 2305 IC an edict turns the Westerland into an ordinary province of Magnus's reunified Empire.",
+      "de": "Baron Paulus vom Westerland, der Letzte des Geschlechts van der Maacht, fällt im Großen Krieg gegen das Chaos. Sein Tod lässt die Baronie ohne Erben zurück. 2305 IK macht ein Edikt das Westerland zu einer gewöhnlichen Provinz des von Magnus wiedervereinten Imperiums."
+    },
+    "ere": "trois-empereurs",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [
+      "marienburg"
+    ],
+    "factions": [
+      "empire"
+    ],
+    "importance": 1,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Marienburg: Sold Down the River, Warhammer Fantasy Roleplay 1re édition (2002)",
+          "en": "Marienburg: Sold Down the River, Warhammer Fantasy Roleplay 1st edition (2002)",
+          "de": "Marienburg: Sold Down the River, Warhammer Fantasy Roleplay 1. Edition (2002)"
+        },
+        "detail": {
+          "fr": "chapitre historique",
+          "en": "history chapter",
+          "de": "Geschichtskapitel"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Marienburg",
+          "en": "Lexicanum, Marienburg page",
+          "de": "Lexicanum, Seite Marienburg"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Marienburg"
+      }
+    ]
+  },
+  {
+    "id": "annee-des-purges",
+    "annee": 2306,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "L'Année des Purges",
+      "en": "The Year of Purges",
+      "de": "Das Jahr der Säuberungen"
+    },
+    "resume": {
+      "fr": "Magnus estime que l'ordre des Templiers de Sigmar sera plus efficace si le public connaît son existence, et les répurgateurs agissent désormais à visage découvert. En 2306 CI, une série de purges fait environ six cents victimes, dont un archilecteur. Les excès provoquent la première censure officielle de l'ordre.",
+      "en": "Magnus judges that the Order of the Templars of Sigmar will be more effective if the public knows it exists, and the Witch Hunters now act openly. In 2306 IC a series of purges claims about six hundred victims, including an Arch Lector. The excesses lead to the first official censure of the order.",
+      "de": "Magnus hält den Orden der Templer Sigmars für wirksamer, wenn die Öffentlichkeit von ihm weiß, und die Hexenjäger treten fortan offen auf. 2306 IK fordert eine Reihe von Säuberungen rund sechshundert Opfer, darunter einen Erzlektor. Die Ausschreitungen führen zur ersten offiziellen Rüge des Ordens."
+    },
+    "ere": "empire-reunifie",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [],
+    "factions": [
+      "empire"
+    ],
+    "importance": 1,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "The Witch Hunter's Handbook",
+          "en": "The Witch Hunter's Handbook",
+          "de": "The Witch Hunter's Handbook"
+        },
+        "detail": {
+          "fr": "chapitre 1, p. 7-25",
+          "en": "chapter 1, pp. 7-25",
+          "de": "Kapitel 1, S. 7-25"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Order of the Silver Hammer",
+          "en": "Lexicanum, Order of the Silver Hammer page",
+          "de": "Lexicanum, Seite Order of the Silver Hammer"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Order_of_the_Silver_Hammer"
+      }
+    ]
+  },
+  {
+    "id": "troisieme-guerre-de-parravon",
+    "annee": 2308,
+    "fin": 2310,
+    "approx": false,
+    "titre": {
+      "fr": "La troisième guerre de Parravon",
+      "en": "The Third Parravon War",
+      "de": "Der Dritte Parravon-Krieg"
+    },
+    "resume": {
+      "fr": "Voyant l'armée du Reikland se rassembler à Ubersreik, le duc de Parravon invoque la rupture d'un ancien traité et envahit le Reikland par le col de la Dame grise. Les Bretonniens sont vite repoussés, et l'année suivante les Reiklanders assiègent le château ducal. Le roi de Bretonnie finit par traiter avec Magnus au nom de Parravon.",
+      "en": "Seeing the Reikland army muster at Ubersreik, the Duke of Parravon claims an ancient treaty has been broken and invades Reikland through Grey Lady Pass. The Bretonnians are quickly driven back, and the following year the Reiklanders besiege the ducal castle. The King of Bretonnia eventually negotiates with Magnus on Parravon's behalf.",
+      "de": "Als sich das Heer des Reiklands in Ubersreik sammelt, beruft sich der Herzog von Parravon auf einen gebrochenen alten Vertrag und fällt über den Pass der Grauen Dame ins Reikland ein. Die Bretonen werden rasch zurückgeworfen, und im Jahr darauf belagern die Reikländer die herzogliche Burg. Schließlich verhandelt der König von Bretonia im Namen Parravons mit Magnus."
+    },
+    "ere": "empire-reunifie",
+    "regions": [
+      "empire",
+      "bretonnie"
+    ],
+    "lieux": [
+      "ubersreik",
+      "parravon"
+    ],
+    "factions": [
+      "empire",
+      "bretonnie"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "Une anecdote du livre d'armée de 8e édition rapporte qu'au retour, un bataillon du Nordland est attaqué par erreur par des Stirlanders trop zélés.",
+      "en": "An anecdote in the 8th edition army book reports that on the way back a Nordland battalion is mistakenly attacked by over-eager Stirlanders.",
+      "de": "Eine Anekdote im Armeebuch der 8. Edition berichtet, dass ein Bataillon aus Nordland auf dem Rückweg irrtümlich von übereifrigen Stirländern angegriffen wird."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Livre de règles, Warhammer Fantasy Roleplay 4e édition (2018)",
+          "en": "Core Rulebook, Warhammer Fantasy Roleplay 4th edition (2018)",
+          "de": "Grundregelwerk, Warhammer Fantasy Roleplay 4. Edition (2018)"
+        },
+        "detail": {
+          "fr": "p. 274-275",
+          "en": "pp. 274-275",
+          "de": "S. 274-275"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Warhammer Armies: The Empire, 8e édition (2012)",
+          "en": "Warhammer Armies: The Empire, 8th edition (2012)",
+          "de": "Warhammer Armies: The Empire, 8. Edition (2012)"
+        },
+        "detail": {
+          "fr": "p. 16",
+          "en": "p. 16",
+          "de": "S. 16"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Warhammer Wiki (Fandom), page Empire of Man Timeline",
+          "en": "Warhammer Wiki (Fandom), Empire of Man Timeline page",
+          "de": "Warhammer Wiki (Fandom), Seite Empire of Man Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Empire_of_Man_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "waaagh-gitrippa-carroburg",
+    "annee": 2312,
+    "fin": null,
+    "approx": true,
+    "titre": {
+      "fr": "La Waaagh! Gitrippa brisée devant Carroburg",
+      "en": "Waaagh! Gitrippa crushed before Carroburg",
+      "de": "Die Waaagh! Gitrippa vor Carroburg zerschlagen"
+    },
+    "resume": {
+      "fr": "Une Waaagh! menée par le chef Gitrippa atteint les portes de Carroburg. Elle est anéantie par un assaut de l'armée impériale soutenu par pas moins de six tanks à vapeur. La victoire montre la puissance des machines de Leonardo, alors que le secret de leur fabrication est déjà perdu.",
+      "en": "A Waaagh! led by the warboss Gitrippa reaches the gates of Carroburg. It is wiped out by an assault of the Imperial army supported by no fewer than six Steam Tanks. The victory shows the power of Leonardo's machines, at a time when the secret of their making is already lost.",
+      "de": "Eine Waaagh! unter dem Boss Gitrippa erreicht die Tore Carroburgs. Sie wird von einem Angriff des imperialen Heeres vernichtet, das von nicht weniger als sechs Dampfpanzern unterstützt wird. Der Sieg zeigt die Macht von Leonardos Maschinen, deren Bauweise zu dieser Zeit bereits verloren ist."
+    },
+    "ere": "empire-reunifie",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [
+      "carroburg"
+    ],
+    "factions": [
+      "empire",
+      "peaux-vertes"
+    ],
+    "importance": 1,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "Date approximative (« vers 2312 ») dans le livre d'armée de l'Empire de 8e édition.",
+      "en": "Approximate date (\"around 2312\") in the 8th edition Empire army book.",
+      "de": "Ungefähres Datum („um 2312“) im Armeebuch Imperium der 8. Edition."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: The Empire, 8e édition (2012)",
+          "en": "Warhammer Armies: The Empire, 8th edition (2012)",
+          "de": "Warhammer Armies: The Empire, 8. Edition (2012)"
+        },
+        "detail": {
+          "fr": "p. 16",
+          "en": "p. 16",
+          "de": "S. 16"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Warhammer Wiki (Fandom), page Empire of Man Timeline",
+          "en": "Warhammer Wiki (Fandom), Empire of Man Timeline page",
+          "de": "Warhammer Wiki (Fandom), Seite Empire of Man Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Empire_of_Man_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "pirate-rouge-marienburg",
+    "annee": 2344,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Le Pirate rouge et l'incendie du port de Marienburg",
+      "en": "The Red Pirate and the burning of Marienburg harbour",
+      "de": "Der Rote Pirat und der Brand des Marienburger Hafens"
+    },
+    "resume": {
+      "fr": "Le pirate Otto Steinroth, dit le Pirate rouge de Marienburg, pille les côtes d'Ulthuan et s'attire la colère du Seigneur des mers Aislinn. Une flotte elfe entre dans le port sous un brouillard magique, tue les pirates et brûle leurs navires, mais aussi tous les autres bâtiments au mouillage et une grande partie du quartier des entrepôts. Marienburg mesure le prix de ses liens ambigus avec les Elfes.",
+      "en": "The pirate Otto Steinroth, known as the Red Pirate of Marienburg, raids the coasts of Ulthuan and draws the wrath of Sea Lord Aislinn. An Elf fleet enters the harbour under a magical mist, kills the pirates and burns their ships, but also every other vessel at anchor and much of the warehouse district. Marienburg learns the price of its ambiguous ties with the Elves.",
+      "de": "Der Pirat Otto Steinroth, genannt der Rote Pirat von Marienburg, plündert die Küsten Ulthuans und zieht den Zorn des Seeherrn Aislinn auf sich. Eine Elfenflotte läuft unter einem magischen Nebel in den Hafen ein, tötet die Piraten und verbrennt ihre Schiffe, aber auch alle anderen Schiffe vor Anker und einen großen Teil des Speicherviertels. Marienburg erfährt den Preis seiner zwiespältigen Beziehungen zu den Elfen."
+    },
+    "ere": "empire-reunifie",
+    "regions": [
+      "empire",
+      "ulthuan"
+    ],
+    "lieux": [
+      "marienburg"
+    ],
+    "factions": [
+      "empire",
+      "hauts-elfes"
+    ],
+    "importance": 1,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Marienburg: Sold Down the River, Warhammer Fantasy Roleplay 1re édition (2002)",
+          "en": "Marienburg: Sold Down the River, Warhammer Fantasy Roleplay 1st edition (2002)",
+          "de": "Marienburg: Sold Down the River, Warhammer Fantasy Roleplay 1. Edition (2002)"
+        },
+        "detail": {
+          "fr": "chapitre historique",
+          "en": "history chapter",
+          "de": "Geschichtskapitel"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Marienburg",
+          "en": "Lexicanum, Marienburg page",
+          "de": "Lexicanum, Seite Marienburg"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Marienburg"
+      },
+      {
+        "titre": {
+          "fr": "Warhammer Wiki (Fandom), page Empire of Man Timeline",
+          "en": "Warhammer Wiki (Fandom), Empire of Man Timeline page",
+          "de": "Warhammer Wiki (Fandom), Seite Empire of Man Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Empire_of_Man_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "mort-de-magnus-leopold",
+    "annee": 2369,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Mort de Magnus et élection de Leopold de Stirland",
+      "en": "Death of Magnus and election of Leopold of Stirland",
+      "de": "Tod Magnus' und Wahl Leopolds von Stirland"
+    },
+    "resume": {
+      "fr": "Magnus le Pieux meurt après soixante-cinq ans de règne. On attendait que la couronne passe à son frère Gunthar von Bildhofen, mais celui-ci s'est aliéné le Grand Théogoniste. Les électeurs choisissent le comte Leopold de Stirland, et l'Empire réunifié survit pour la première fois à la mort de son fondateur.",
+      "en": "Magnus the Pious dies after a reign of sixty-five years. The crown was expected to pass to his brother Gunthar von Bildhofen, but he had antagonised the Grand Theogonist. The electors choose Count Leopold of Stirland, and the reunified Empire survives the death of its founder for the first time.",
+      "de": "Magnus der Fromme stirbt nach fünfundsechzig Jahren Herrschaft. Man erwartete, dass die Krone an seinen Bruder Gunthar von Bildhofen fiele, doch dieser hatte sich den Großtheogonisten zum Feind gemacht. Die Kurfürsten wählen Graf Leopold von Stirland, und das wiedervereinte Imperium überdauert erstmals den Tod seines Gründers."
+    },
+    "ere": "empire-reunifie",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [
+      "nuln",
+      "wurtbad"
+    ],
+    "factions": [
+      "empire"
+    ],
+    "importance": 3,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2e édition (2005)",
+          "en": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2nd edition (2005)",
+          "de": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2. Edition (2005)"
+        },
+        "detail": {
+          "fr": "p. 21",
+          "en": "p. 21",
+          "de": "S. 21"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Magnus the Pious",
+          "en": "Lexicanum, Magnus the Pious page",
+          "de": "Lexicanum, Seite Magnus the Pious"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Magnus_the_Pious"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Gunthar von Bildhofen",
+          "en": "Lexicanum, Gunthar von Bildhofen page",
+          "de": "Lexicanum, Seite Gunthar von Bildhofen"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Gunthar_von_Bildhofen"
+      }
+    ]
+  },
+  {
+    "id": "fort-de-bronze-2370",
+    "annee": 2370,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Désastre devant le Fort de Bronze",
+      "en": "Disaster before the Brass Keep",
+      "de": "Katastrophe vor der Messingfeste"
+    },
+    "resume": {
+      "fr": "À la demande du comte électeur de Middenland, une grande armée impériale pénètre dans les Montagnes du Milieu pour reprendre le Fort de Bronze aux guerriers du Chaos. Des chimères s'abattent sur les servants et font taire l'artillerie. Les portes s'ouvrent alors sur une marée de guerriers déchaînés qui massacrent l'armée jusqu'au dernier homme.",
+      "en": "At the request of the Elector Count of Middenland, a large Imperial army enters the Middle Mountains to retake the Brass Keep from the Warriors of Chaos. Chimeras fall upon the crews and silence the artillery. The gates then open on a tide of frenzied warriors who butcher the army to the last man.",
+      "de": "Auf Bitten des Kurfürsten von Middenland zieht ein großes imperiales Heer ins Mittelgebirge, um die Messingfeste den Kriegern des Chaos zu entreißen. Chimären stürzen sich auf die Geschützmannschaften und bringen die Artillerie zum Schweigen. Dann öffnen sich die Tore, und eine Flut rasender Krieger metzelt das Heer bis auf den letzten Mann nieder."
+    },
+    "ere": "empire-reunifie",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [
+      "donjon-d-airain"
+    ],
+    "factions": [
+      "empire",
+      "chaos"
+    ],
+    "importance": 1,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Warriors of Chaos, 8e édition (2013)",
+          "en": "Warhammer Armies: Warriors of Chaos, 8th edition (2013)",
+          "de": "Warhammer Armies: Warriors of Chaos, 8. Edition (2013)"
+        },
+        "detail": {
+          "fr": "p. 15",
+          "en": "p. 15",
+          "de": "S. 15"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Warhammer Armies: The Empire, 8e édition (2012)",
+          "en": "Warhammer Armies: The Empire, 8th edition (2012)",
+          "de": "Warhammer Armies: The Empire, 8. Edition (2012)"
+        },
+        "detail": {
+          "fr": "p. 17",
+          "en": "p. 17",
+          "de": "S. 17"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Warhammer Wiki (Fandom), page Empire of Man Timeline",
+          "en": "Warhammer Wiki (Fandom), Empire of Man Timeline page",
+          "de": "Warhammer Wiki (Fandom), Seite Empire of Man Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Empire_of_Man_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "premiers-todbringer",
+    "annee": 2371,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Naissance de la lignée Todbringer",
+      "en": "Birth of the Todbringer line",
+      "de": "Beginn des Hauses Todbringer"
+    },
+    "resume": {
+      "fr": "Solveig von Bildhofen, petite-fille de Gunthar et donc parente de Magnus, épouse Boris Todbringer. Leur fils Bertholdt devient le premier Todbringer à régner comme comte de Middenland et graf de Middenheim. La maison Todbringer gouvernera le nord jusqu'à l'époque de Karl Franz.",
+      "en": "Solveig von Bildhofen, Gunthar's granddaughter and thus a relative of Magnus, marries Boris Todbringer. Their son Bertholdt becomes the first Todbringer to rule as Count of Middenland and Graf of Middenheim. House Todbringer will govern the north until the time of Karl Franz.",
+      "de": "Solveig von Bildhofen, Gunthars Enkelin und damit eine Verwandte Magnus', heiratet Boris Todbringer. Ihr Sohn Bertholdt wird der erste Todbringer, der als Graf von Middenland und Graf von Middenheim herrscht. Das Haus Todbringer regiert den Norden bis in die Zeit Karl Franz'."
+    },
+    "ere": "empire-reunifie",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [
+      "middenheim"
+    ],
+    "factions": [
+      "empire"
+    ],
+    "importance": 1,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2e édition (2005)",
+          "en": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2nd edition (2005)",
+          "de": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2. Edition (2005)"
+        },
+        "detail": {
+          "fr": "p. 21",
+          "en": "p. 21",
+          "de": "S. 21"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Gunthar von Bildhofen",
+          "en": "Lexicanum, Gunthar von Bildhofen page",
+          "de": "Lexicanum, Seite Gunthar von Bildhofen"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Gunthar_von_Bildhofen"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Middenheim",
+          "en": "Lexicanum, Middenheim page",
+          "de": "Lexicanum, Seite Middenheim"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Middenheim"
+      }
+    ]
+  },
+  {
+    "id": "enfants-de-la-colombe",
+    "annee": 2383,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Les Enfants de la Colombe de Pfeildorf",
+      "en": "The Children of the Dove of Pfeildorf",
+      "de": "Die Kinder der Taube von Pfeildorf"
+    },
+    "resume": {
+      "fr": "Des enfants affirment avoir vu Shallya dans un bosquet près de Pfeildorf, et certains prétendent accomplir des miracles. Des inquisiteurs venus de Nuln y voient de la sorcellerie et font brûler les enfants. La secte survit pourtant et devient l'Ordre des Enfants de la Colombe.",
+      "en": "Children claim to have seen Shallya in a grove near Pfeildorf, and some say they can work miracles. Inquisitors from Nuln see witchcraft in this and have the children burned. The sect nevertheless survives and becomes the Order of the Children of the Dove.",
+      "de": "Kinder behaupten, in einem Hain bei Pfeildorf Shallya gesehen zu haben, und einige sollen Wunder wirken. Inquisitoren aus Nuln halten dies für Hexerei und lassen die Kinder verbrennen. Die Sekte überlebt dennoch und wird zum Orden der Kinder der Taube."
+    },
+    "ere": "empire-reunifie",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [
+      "pfeildorf",
+      "nuln"
+    ],
+    "factions": [
+      "empire"
+    ],
+    "importance": 1,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2e édition (2005)",
+          "en": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2nd edition (2005)",
+          "de": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2. Edition (2005)"
+        },
+        "detail": {
+          "fr": "p. 21",
+          "en": "p. 21",
+          "de": "S. 21"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Warhammer Wiki (Fandom), page Empire of Man Timeline",
+          "en": "Warhammer Wiki (Fandom), Empire of Man Timeline page",
+          "de": "Warhammer Wiki (Fandom), Seite Empire of Man Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Empire_of_Man_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "quatrieme-guerre-de-parravon",
+    "annee": 2402,
+    "fin": 2405,
+    "approx": false,
+    "titre": {
+      "fr": "La quatrième guerre de Parravon",
+      "en": "The Fourth Parravon War",
+      "de": "Der Vierte Parravon-Krieg"
+    },
+    "resume": {
+      "fr": "Le duché de Parravon envahit de nouveau le Reikland par le col de la Dame grise. Les Bretonniens assiègent deux fois Ubersreik sans parvenir à la prendre. L'empereur Dieter IV met fin à la guerre en payant une forte somme en échange de leur retraite, un premier signe de son goût pour les arrangements financiers.",
+      "en": "The Duchy of Parravon again invades Reikland through Grey Lady Pass. The Bretonnians besiege Ubersreik twice without managing to take it. Emperor Dieter IV ends the war by paying a large sum in exchange for their withdrawal, an early sign of his taste for financial arrangements.",
+      "de": "Das Herzogtum Parravon fällt erneut über den Pass der Grauen Dame ins Reikland ein. Zweimal belagern die Bretonen Ubersreik, ohne es einzunehmen. Kaiser Dieter IV. beendet den Krieg, indem er eine große Summe für ihren Rückzug zahlt, ein frühes Zeichen seiner Vorliebe für finanzielle Abmachungen."
+    },
+    "ere": "empire-reunifie",
+    "regions": [
+      "empire",
+      "bretonnie"
+    ],
+    "lieux": [
+      "ubersreik",
+      "parravon"
+    ],
+    "factions": [
+      "empire",
+      "bretonnie"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Livre de règles, Warhammer Fantasy Roleplay 4e édition (2018)",
+          "en": "Core Rulebook, Warhammer Fantasy Roleplay 4th edition (2018)",
+          "de": "Grundregelwerk, Warhammer Fantasy Roleplay 4. Edition (2018)"
+        },
+        "detail": {
+          "fr": "p. 275",
+          "en": "p. 275",
+          "de": "S. 275"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Warhammer Wiki (Fandom), page Empire of Man Timeline",
+          "en": "Warhammer Wiki (Fandom), Empire of Man Timeline page",
+          "de": "Warhammer Wiki (Fandom), Seite Empire of Man Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Empire_of_Man_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "destruction-de-kreighof",
+    "annee": 2410,
+    "fin": null,
+    "approx": true,
+    "titre": {
+      "fr": "Les Nains rasent la forteresse de Kreighof",
+      "en": "The Dwarfs raze Fortress Kreighof",
+      "de": "Die Zwerge schleifen die Festung Kreighof"
+    },
+    "resume": {
+      "fr": "Contre douze douzaines de chariots d'or, des artisans nains bâtissent la forteresse de Kreighof pour le comte électeur de l'Ostermark. En recevant leur paiement, ils découvrent qu'il manque deux pennies et demi. Ils reviennent avec une armée de Karak Kadrin et rasent la forteresse, une rancune réglée à la manière naine.",
+      "en": "In exchange for twelve dozen wagonloads of gold, Dwarf craftsmen build Fortress Kreighof for the Elector Count of Ostermark. On receiving their payment, they discover it is two and a half pennies short. They return with an army from Karak Kadrin and raze the fortress, a grudge settled the Dwarf way.",
+      "de": "Für zwölf Dutzend Wagenladungen Gold errichten zwergische Handwerker die Festung Kreighof für den Kurfürsten von Ostermark. Bei der Bezahlung stellen sie fest, dass zweieinhalb Pfennige fehlen. Sie kehren mit einem Heer aus Karak Kadrin zurück und machen die Festung dem Erdboden gleich, ein Groll, auf zwergische Art beglichen."
+    },
+    "ere": "empire-reunifie",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [
+      "karak-kadrin"
+    ],
+    "factions": [
+      "empire",
+      "nains"
+    ],
+    "importance": 1,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "Date approximative (« vers 2410 ») dans le livre d'armée de l'Empire de 8e édition.",
+      "en": "Approximate date (\"around 2410\") in the 8th edition Empire army book.",
+      "de": "Ungefähres Datum („um 2410“) im Armeebuch Imperium der 8. Edition."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: The Empire, 8e édition (2012)",
+          "en": "Warhammer Armies: The Empire, 8th edition (2012)",
+          "de": "Warhammer Armies: The Empire, 8. Edition (2012)"
+        },
+        "detail": {
+          "fr": "p. 17",
+          "en": "p. 17",
+          "de": "S. 17"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Warhammer Wiki (Fandom), page Empire of Man Timeline",
+          "en": "Warhammer Wiki (Fandom), Empire of Man Timeline page",
+          "de": "Warhammer Wiki (Fandom), Seite Empire of Man Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Empire_of_Man_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "nuit-des-mille-duels",
+    "annee": 2415,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "La Nuit des mille duels arcaniques",
+      "en": "The Night of a Thousand Arcane Duels",
+      "de": "Die Nacht der tausend arkanen Duelle"
+    },
+    "resume": {
+      "fr": "Lors de la désignation d'un nouveau Patriarche suprême, les rivalités entre Collèges de magie dégénèrent en violence ouverte. Pendant une nuit, des centaines de sorciers règlent leurs comptes au-dessus d'Altdorf, et des quartiers entiers brûlent. Un contrecoup magique tue six des huit patriarches, et le culte de Sigmar obtient de Dieter IV la fermeture des Collèges.",
+      "en": "During the choice of a new Supreme Patriarch, the rivalries between the Colleges of Magic turn into open violence. For one night, hundreds of wizards settle scores in the skies above Altdorf, and whole districts burn. A magical backlash kills six of the eight Patriarchs, and the Cult of Sigmar persuades Dieter IV to close the Colleges.",
+      "de": "Bei der Wahl eines neuen Obersten Patriarchen schlagen die Rivalitäten zwischen den Magierkollegien in offene Gewalt um. Eine Nacht lang begleichen Hunderte Zauberer über Altdorf ihre Rechnungen, und ganze Viertel brennen. Ein magischer Rückschlag tötet sechs der acht Patriarchen, und der Sigmarkult bewegt Dieter IV. dazu, die Kollegien zu schließen."
+    },
+    "ere": "empire-reunifie",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [
+      "altdorf"
+    ],
+    "factions": [
+      "empire"
+    ],
+    "importance": 3,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: The Empire, 8e édition (2012)",
+          "en": "Warhammer Armies: The Empire, 8th edition (2012)",
+          "de": "Warhammer Armies: The Empire, 8. Edition (2012)"
+        },
+        "detail": {
+          "fr": "p. 17",
+          "en": "p. 17",
+          "de": "S. 17"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Livre de règles, Warhammer Fantasy Roleplay 4e édition (2018)",
+          "en": "Core Rulebook, Warhammer Fantasy Roleplay 4th edition (2018)",
+          "de": "Grundregelwerk, Warhammer Fantasy Roleplay 4. Edition (2018)"
+        },
+        "detail": {
+          "fr": "p. 275",
+          "en": "p. 275",
+          "de": "S. 275"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Colleges of Magic",
+          "en": "Lexicanum, Colleges of Magic page",
+          "de": "Lexicanum, Seite Colleges of Magic"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Colleges_of_Magic"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Dieter IV",
+          "en": "Lexicanum, Dieter IV page",
+          "de": "Lexicanum, Seite Dieter IV"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Dieter_IV"
+      }
+    ]
+  },
+  {
+    "id": "dieter-abandonne-nuln",
+    "annee": 2420,
+    "fin": 2424,
+    "approx": false,
+    "titre": {
+      "fr": "Dieter IV face à la Waaagh! de Grom",
+      "en": "Dieter IV and Grom's Waaagh!",
+      "de": "Dieter IV. und Groms Waaagh!"
+    },
+    "resume": {
+      "fr": "Quand la Waaagh! de Grom la Panse déferle sur les Montagnes du Bord du Monde puis sur l'Empire, l'empereur Dieter IV fuit Nuln et ignore les appels à l'aide des Nains de Karak Varn. L'absence de sorciers de bataille, conséquence de la fermeture des Collèges, est tenue pour responsable de nombreuses défaites. Une partie de Nuln est incendiée avant que Grom ne parte vers l'ouest.",
+      "en": "When Grom the Paunch's Waaagh! sweeps across the Worlds Edge Mountains and then the Empire, Emperor Dieter IV flees Nuln and ignores the calls for help from the Dwarfs of Karak Varn. The lack of battle wizards, a result of the closure of the Colleges, is blamed for many defeats. Part of Nuln is burned before Grom leaves for the west.",
+      "de": "Als die Waaagh! von Grom dem Wanst über das Weltrandgebirge und dann über das Imperium hereinbricht, flieht Kaiser Dieter IV. aus Nuln und überhört die Hilferufe der Zwerge von Karak Varn. Das Fehlen von Kampfzauberern, eine Folge der geschlossenen Kollegien, wird für viele Niederlagen verantwortlich gemacht. Ein Teil Nulns geht in Flammen auf, bevor Grom nach Westen zieht."
+    },
+    "ere": "empire-reunifie",
+    "regions": [
+      "empire",
+      "montagnes"
+    ],
+    "lieux": [
+      "nuln",
+      "karak-varn"
+    ],
+    "factions": [
+      "empire",
+      "peaux-vertes",
+      "nains"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Livre de règles, Warhammer Fantasy Roleplay 4e édition (2018)",
+          "en": "Core Rulebook, Warhammer Fantasy Roleplay 4th edition (2018)",
+          "de": "Grundregelwerk, Warhammer Fantasy Roleplay 4. Edition (2018)"
+        },
+        "detail": {
+          "fr": "p. 275",
+          "en": "p. 275",
+          "de": "S. 275"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2e édition (2005)",
+          "en": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2nd edition (2005)",
+          "de": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2. Edition (2005)"
+        },
+        "detail": {
+          "fr": "p. 21",
+          "en": "p. 21",
+          "de": "S. 21"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Dieter IV",
+          "en": "Lexicanum, Dieter IV page",
+          "de": "Lexicanum, Seite Dieter IV"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Dieter_IV"
+      }
+    ]
+  },
+  {
+    "id": "bataille-de-grootscher-marsh",
+    "annee": 2429,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Bataille du marais de Grootscher",
+      "en": "Battle of Grootscher Marsh",
+      "de": "Schlacht im Grootscher Moor"
+    },
+    "resume": {
+      "fr": "Sous la pression des électeurs, le nouvel empereur Wilhelm III tente de reprendre Marienburg par les armes. À la fin de l'automne, l'armée impériale est sévèrement battue dans le marais de Grootscher. Wilhelm reconnaît de vive voix la sécession du Pays perdu, sans jamais la consacrer par un traité.",
+      "en": "Under pressure from the electors, the new Emperor Wilhelm III tries to retake Marienburg by force. In late autumn the Imperial army is soundly beaten at Grootscher Marsh. Wilhelm verbally acknowledges the secession of the Wasteland, without ever confirming it by treaty.",
+      "de": "Auf Druck der Kurfürsten versucht der neue Kaiser Wilhelm III., Marienburg mit Waffengewalt zurückzugewinnen. Im Spätherbst wird das kaiserliche Heer im Grootscher Moor vernichtend geschlagen. Wilhelm erkennt die Abspaltung des Ödlands mündlich an, ohne sie je durch einen Vertrag zu bestätigen."
+    },
+    "ere": "empire-reunifie",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [
+      "marienburg"
+    ],
+    "factions": [
+      "empire",
+      "humains-autres"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Livre de règles, Warhammer Fantasy Roleplay 4e édition (2018)",
+          "en": "Core Rulebook, Warhammer Fantasy Roleplay 4th edition (2018)",
+          "de": "Grundregelwerk, Warhammer Fantasy Roleplay 4. Edition (2018)"
+        },
+        "detail": {
+          "fr": "p. 275",
+          "en": "p. 275",
+          "de": "S. 275"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Warhammer Wiki (Fandom), page Empire of Man Timeline",
+          "en": "Warhammer Wiki (Fandom), Empire of Man Timeline page",
+          "de": "Warhammer Wiki (Fandom), Seite Empire of Man Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Empire_of_Man_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "reouverture-des-colleges",
+    "annee": 2430,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Wilhelm III rouvre les Collèges de magie",
+      "en": "Wilhelm III reopens the Colleges of Magic",
+      "de": "Wilhelm III. öffnet die Magierkollegien wieder"
+    },
+    "resume": {
+      "fr": "Frustré par sa défaite au marais de Grootscher, Wilhelm III rétablit les Collèges de magie fermés depuis quinze ans. Il investit aussi massivement dans la construction navale pour rendre à l'Empire une présence en mer. L'empereur revient ainsi sur l'une des décisions les plus coûteuses de son prédécesseur.",
+      "en": "Frustrated by his defeat at Grootscher Marsh, Wilhelm III reinstates the Colleges of Magic, closed for fifteen years. He also invests heavily in shipbuilding to give the Empire back a presence at sea. The Emperor thus reverses one of his predecessor's costliest decisions.",
+      "de": "Verärgert über seine Niederlage im Grootscher Moor stellt Wilhelm III. die seit fünfzehn Jahren geschlossenen Magierkollegien wieder her. Außerdem investiert er stark in den Schiffbau, um dem Imperium wieder eine Präsenz auf See zu verschaffen. Damit macht der Kaiser eine der folgenschwersten Entscheidungen seines Vorgängers rückgängig."
+    },
+    "ere": "empire-reunifie",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [
+      "altdorf"
+    ],
+    "factions": [
+      "empire"
+    ],
+    "importance": 3,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Livre de règles, Warhammer Fantasy Roleplay 4e édition (2018)",
+          "en": "Core Rulebook, Warhammer Fantasy Roleplay 4th edition (2018)",
+          "de": "Grundregelwerk, Warhammer Fantasy Roleplay 4. Edition (2018)"
+        },
+        "detail": {
+          "fr": "p. 275",
+          "en": "p. 275",
+          "de": "S. 275"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Colleges of Magic",
+          "en": "Lexicanum, Colleges of Magic page",
+          "de": "Lexicanum, Seite Colleges of Magic"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Colleges_of_Magic"
+      }
+    ]
+  },
+  {
+    "id": "grand-incendie-d-altdorf",
+    "annee": 2431,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Le grand incendie d'Altdorf",
+      "en": "The Great Fire of Altdorf",
+      "de": "Der große Brand von Altdorf"
+    },
+    "resume": {
+      "fr": "Un accident au Collège flamboyant tout juste rouvert provoque un immense incendie dans Altdorf. Wilhelm III est pressé de fermer de nouveau les Collèges de magie. Il choisit de les maintenir, mais sous une surveillance accrue du culte de Sigmar.",
+      "en": "An accident at the newly reopened Bright College causes a huge fire in Altdorf. Wilhelm III is pressed to close the Colleges of Magic once more. He chooses to keep them open, but under closer oversight by the Cult of Sigmar.",
+      "de": "Ein Unfall im eben wiedereröffneten Kollegium des Feuers löst in Altdorf einen gewaltigen Brand aus. Wilhelm III. wird gedrängt, die Magierkollegien erneut zu schließen. Er hält sie offen, stellt sie aber unter strengere Aufsicht des Sigmarkults."
+    },
+    "ere": "empire-reunifie",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [
+      "altdorf"
+    ],
+    "factions": [
+      "empire"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Livre de règles, Warhammer Fantasy Roleplay 4e édition (2018)",
+          "en": "Core Rulebook, Warhammer Fantasy Roleplay 4th edition (2018)",
+          "de": "Grundregelwerk, Warhammer Fantasy Roleplay 4. Edition (2018)"
+        },
+        "detail": {
+          "fr": "p. 275",
+          "en": "p. 275",
+          "de": "S. 275"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Warhammer Wiki (Fandom), page Empire of Man Timeline",
+          "en": "Warhammer Wiki (Fandom), Empire of Man Timeline page",
+          "de": "Warhammer Wiki (Fandom), Seite Empire of Man Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Empire_of_Man_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "emeutes-du-suiddock",
+    "annee": 2449,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Les émeutes du Suiddock",
+      "en": "The Suiddock riots",
+      "de": "Die Unruhen im Suiddock"
+    },
+    "resume": {
+      "fr": "Un an après une grande inondation qui oblige Marienburg à renforcer sa digue, le conseil de la ville vote des lois contre les guildes de travailleurs. Les émeutes partent du quartier du Suiddock et gagnent toute la cité. La république marchande découvre que ses dockers peuvent eux aussi peser sur son destin.",
+      "en": "A year after a great flood forces Marienburg to strengthen its sea wall, the city council passes laws against the labour guilds. Riots spread from the Suiddock district throughout the city. The merchant republic discovers that its dockers too can weigh on its destiny.",
+      "de": "Ein Jahr nach einer großen Flut, die Marienburg zur Verstärkung seines Deichs zwingt, beschließt der Stadtrat Gesetze gegen die Arbeitergilden. Von Suiddock aus breiten sich Unruhen über die ganze Stadt aus. Die Kaufmannsrepublik erfährt, dass auch ihre Hafenarbeiter über ihr Schicksal mitbestimmen können."
+    },
+    "ere": "empire-reunifie",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [
+      "marienburg"
+    ],
+    "factions": [
+      "humains-autres"
+    ],
+    "importance": 1,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "L'inondation est datée de 2448 CI et les émeutes de 2449 CI dans Sigmar's Heirs.",
+      "en": "Sigmar's Heirs dates the flood to 2448 IC and the riots to 2449 IC.",
+      "de": "Sigmar's Heirs datiert die Flut auf 2448 IK und die Unruhen auf 2449 IK."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2e édition (2005)",
+          "en": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2nd edition (2005)",
+          "de": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2. Edition (2005)"
+        },
+        "detail": {
+          "fr": "p. 21",
+          "en": "p. 21",
+          "de": "S. 21"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Warhammer Wiki (Fandom), page Empire of Man Timeline",
+          "en": "Warhammer Wiki (Fandom), Empire of Man Timeline page",
+          "de": "Warhammer Wiki (Fandom), Seite Empire of Man Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Empire_of_Man_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "quatrieme-siege-d-altdorf",
+    "annee": 2453,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Le quatrième siège d'Altdorf et le vol du Liber Mortis",
+      "en": "The Fourth Siege of Altdorf and the theft of the Liber Mortis",
+      "de": "Die vierte Belagerung Altdorfs und der Raub des Liber Mortis"
+    },
+    "resume": {
+      "fr": "Le roi liche Arkhan le Noir marche sur Altdorf à la tête d'une immense armée de squelettes. Pendant que les troupes de la ville tiennent les remparts, il pénètre par magie dans les catacombes du temple de Sigmar et s'empare du Liber Mortis. Dès qu'il s'enfuit avec le grimoire, son armée s'effondre, laissant les défenseurs stupéfaits.",
+      "en": "The Liche King Arkhan the Black marches on Altdorf at the head of a vast skeleton army. While the city's troops hold the walls, he uses magic to enter the catacombs beneath the Temple of Sigmar and seizes the Liber Mortis. As soon as he escapes with the tome, his army collapses, leaving the defenders bewildered.",
+      "de": "Der Lichkönig Arkhan der Schwarze marschiert an der Spitze eines riesigen Skelettheeres auf Altdorf. Während die Truppen der Stadt die Mauern halten, dringt er mit Magie in die Katakomben unter dem Tempel Sigmars ein und raubt den Liber Mortis. Sobald er mit dem Buch entkommt, zerfällt sein Heer und lässt die Verteidiger verblüfft zurück."
+    },
+    "ere": "empire-reunifie",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [
+      "altdorf"
+    ],
+    "factions": [
+      "empire",
+      "vampires"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: The Empire, 8e édition (2012)",
+          "en": "Warhammer Armies: The Empire, 8th edition (2012)",
+          "de": "Warhammer Armies: The Empire, 8. Edition (2012)"
+        },
+        "detail": {
+          "fr": "p. 17",
+          "en": "p. 17",
+          "de": "S. 17"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Livre de règles, Warhammer Fantasy Roleplay 4e édition (2018)",
+          "en": "Core Rulebook, Warhammer Fantasy Roleplay 4th edition (2018)",
+          "de": "Grundregelwerk, Warhammer Fantasy Roleplay 4. Edition (2018)"
+        },
+        "detail": {
+          "fr": "p. 275",
+          "en": "p. 275",
+          "de": "S. 275"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Warhammer Wiki (Fandom), page Empire of Man Timeline",
+          "en": "Warhammer Wiki (Fandom), Empire of Man Timeline page",
+          "de": "Warhammer Wiki (Fandom), Seite Empire of Man Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Empire_of_Man_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "trahison-de-van-horstmann",
+    "annee": 2457,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "La trahison d'Egrimm van Horstmann",
+      "en": "The betrayal of Egrimm van Horstmann",
+      "de": "Der Verrat des Egrimm van Horstmann"
+    },
+    "resume": {
+      "fr": "Egrimm van Horstmann, le plus jeune et le plus brillant des maîtres du Collège de lumière, cède aux promesses de Tzeentch. Il libère le dragon du Chaos Baudros, emprisonné sous le Collège, et s'enfuit vers le nord. Il devient le plus célèbre des traîtres que les Collèges de magie aient jamais produits.",
+      "en": "Egrimm van Horstmann, the youngest and most gifted master of the Light College, succumbs to the promises of Tzeentch. He frees the Chaos Dragon Baudros, imprisoned beneath the College, and flees north. He becomes the most infamous traitor the Colleges of Magic have ever produced.",
+      "de": "Egrimm van Horstmann, der jüngste und begabteste Meister des Lichtkollegiums, erliegt den Versprechungen Tzeentchs. Er befreit den unter dem Kollegium gefangenen Chaosdrachen Baudros und flieht nach Norden. Er wird zum berüchtigtsten Verräter, den die Magierkollegien je hervorgebracht haben."
+    },
+    "ere": "empire-reunifie",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [
+      "altdorf"
+    ],
+    "factions": [
+      "empire",
+      "chaos"
+    ],
+    "importance": 2,
+    "fiabilite": "divergent",
+    "note": {
+      "fr": "Le livre d'armée des Guerriers du Chaos (8e édition) place la trahison en 2457 CI, alors que Lexicanum, d'après d'autres sources, le fait entrer comme apprenti au Collège en 2504 CI.",
+      "en": "The Warriors of Chaos army book (8th edition) places the betrayal in 2457 IC, while Lexicanum, based on other sources, has him join the College as an apprentice in 2504 IC.",
+      "de": "Das Armeebuch Krieger des Chaos (8. Edition) datiert den Verrat auf 2457 IK, während Lexicanum ihn nach anderen Quellen 2504 IK als Lehrling ins Kollegium eintreten lässt."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Warriors of Chaos, 8e édition (2013)",
+          "en": "Warhammer Armies: Warriors of Chaos, 8th edition (2013)",
+          "de": "Warhammer Armies: Warriors of Chaos, 8. Edition (2013)"
+        },
+        "detail": {
+          "fr": "p. 15",
+          "en": "p. 15",
+          "de": "S. 15"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Egrimm van Horstmann",
+          "en": "Lexicanum, Egrimm van Horstmann page",
+          "de": "Lexicanum, Seite Egrimm van Horstmann"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Egrimm_van_Horstmann"
+      },
+      {
+        "titre": {
+          "fr": "Warhammer Wiki (Fandom), page Empire of Man Timeline",
+          "en": "Warhammer Wiki (Fandom), Empire of Man Timeline page",
+          "de": "Warhammer Wiki (Fandom), Seite Empire of Man Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Empire_of_Man_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "colere-de-karanak",
+    "annee": 2460,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "La colère de Karanak au Collège doré",
+      "en": "The Wrath of Karanak at the Gold College",
+      "de": "Karanaks Zorn im Goldenen Kollegium"
+    },
+    "resume": {
+      "fr": "L'apprenti Ricart Drallborg, de l'Ordre doré, invoque le chien démon Karanak pour se débarrasser de ses rivaux. Ses enchantements ne suffisent pas à le contenir et il en est la première victime. Nourri par les énergies du Collège, Karanak y massacre tous les sorciers présents.",
+      "en": "The apprentice Ricart Drallborg of the Gold Order summons the daemon hound Karanak to rid himself of his rivals. His enchantments are not enough to contain it and he is its first victim. Sustained by the energies of the College, Karanak slaughters every wizard within its walls.",
+      "de": "Der Lehrling Ricart Drallborg vom Goldenen Orden beschwört den Dämonenhund Karanak, um seine Rivalen zu beseitigen. Seine Bannzauber reichen nicht aus, um ihn zu bändigen, und er wird sein erstes Opfer. Von den Energien des Kollegiums genährt, tötet Karanak alle Zauberer in dessen Mauern."
+    },
+    "ere": "empire-reunifie",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [
+      "altdorf"
+    ],
+    "factions": [
+      "chaos",
+      "empire"
+    ],
+    "importance": 1,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Daemons of Chaos, 8e édition (2013)",
+          "en": "Warhammer Armies: Daemons of Chaos, 8th edition (2013)",
+          "de": "Warhammer Armies: Daemons of Chaos, 8. Edition (2013)"
+        },
+        "detail": {
+          "fr": "p. 23",
+          "en": "p. 23",
+          "de": "S. 23"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Warhammer Wiki (Fandom), page Empire of Man Timeline",
+          "en": "Warhammer Wiki (Fandom), Empire of Man Timeline page",
+          "de": "Warhammer Wiki (Fandom), Seite Empire of Man Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Empire_of_Man_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "embuscade-du-reikwald",
+    "annee": 2470,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "L'embuscade du Reikwald et le jeune Karl Franz",
+      "en": "The Reikwald ambush and the young Karl Franz",
+      "de": "Der Hinterhalt im Reikwald und der junge Karl Franz"
+    },
+    "resume": {
+      "fr": "L'empereur Luitpold et son fils encore enfant, Karl Franz, tombent dans une embuscade d'Hommes-bêtes dans la forêt du Reikwald. La Reiksguard est taillée en pièces par trois Ghorgons. Au moment où l'empereur va tomber sous la hache d'un minotaure, des Elfes sylvains surgissent, abattent les bêtes et disparaissent aussitôt.",
+      "en": "Emperor Luitpold and his infant son Karl Franz are ambushed by Beastmen in the Reikwald Forest. The Reiksguard are cut to pieces by three Ghorgons. Just as the Emperor is about to fall to a Minotaur's axe, Wood Elves burst out, cut down the beasts and vanish at once.",
+      "de": "Kaiser Luitpold und sein kleiner Sohn Karl Franz geraten im Reikwald in einen Hinterhalt der Tiermenschen. Die Reichsgarde wird von drei Ghorgons zerfetzt. Als der Kaiser gerade unter der Axt eines Minotauren zu fallen droht, brechen Waldelfen hervor, strecken die Bestien nieder und verschwinden sofort wieder."
+    },
+    "ere": "empire-reunifie",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [],
+    "factions": [
+      "empire",
+      "chaos",
+      "elfes-sylvains"
+    ],
+    "importance": 1,
+    "fiabilite": "divergent",
+    "note": {
+      "fr": "Lexicanum date l'embuscade de 2470 CI, la chronologie du livre d'armée de l'Empire de 8e édition reprise par Fandom de 2477 CI.",
+      "en": "Lexicanum dates the ambush to 2470 IC, the 8th edition Empire army book timeline as quoted by Fandom to 2477 IC.",
+      "de": "Lexicanum datiert den Hinterhalt auf 2470 IK, die von Fandom zitierte Zeittafel des Armeebuchs Imperium der 8. Edition auf 2477 IK."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: The Empire, 8e édition (2012)",
+          "en": "Warhammer Armies: The Empire, 8th edition (2012)",
+          "de": "Warhammer Armies: The Empire, 8. Edition (2012)"
+        },
+        "detail": {
+          "fr": "p. 17",
+          "en": "p. 17",
+          "de": "S. 17"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Emperor Luitpold",
+          "en": "Lexicanum, Emperor Luitpold page",
+          "de": "Lexicanum, Seite Emperor Luitpold"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Emperor_Luitpold"
+      },
+      {
+        "titre": {
+          "fr": "Warhammer Wiki (Fandom), page Empire of Man Timeline",
+          "en": "Warhammer Wiki (Fandom), Empire of Man Timeline page",
+          "de": "Warhammer Wiki (Fandom), Seite Empire of Man Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Empire_of_Man_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "mort-de-drachenfels",
+    "annee": 2480,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Oswald von Königswald abat Drachenfels",
+      "en": "Oswald von Königswald slays Drachenfels",
+      "de": "Oswald von Königswald erschlägt Drachenfels"
+    },
+    "resume": {
+      "fr": "Une troupe d'aventuriers menée par Oswald von Königswald, prince héritier de l'Ostland, et la vampire Geneviève Dieudonné s'introduit dans le château de Drachenfels. Oswald tue le Grand Enchanteur, qui hantait le Reikland depuis des siècles. Humilié par ce succès, l'empereur Luitpold envoie ensuite des troupes nettoyer le château.",
+      "en": "A band of adventurers led by Oswald von Königswald, Crown Prince of Ostland, and the vampire Genevieve Dieudonné infiltrates Castle Drachenfels. Oswald slays the Great Enchanter, who had haunted Reikland for centuries. Shamed by this success, Emperor Luitpold then sends troops to cleanse the castle.",
+      "de": "Eine Gruppe von Abenteurern unter Oswald von Königswald, dem Kronprinzen von Ostland, und der Vampirin Genevieve Dieudonné dringt in die Burg Drachenfels ein. Oswald tötet den Großen Verzauberer, der das Reikland seit Jahrhunderten heimsuchte. Von diesem Erfolg beschämt, schickt Kaiser Luitpold danach Truppen, um die Burg zu säubern."
+    },
+    "ere": "empire-reunifie",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [
+      "chateau-drachenfels"
+    ],
+    "factions": [
+      "empire"
+    ],
+    "importance": 2,
+    "fiabilite": "divergent",
+    "note": {
+      "fr": "Les éditions Boxtree des romans placent la mort de Drachenfels en 2477 CI. Le Warhammer Companion et le livre de règles de WFRP 4e édition retiennent 2480 CI.",
+      "en": "The Boxtree editions of the novels place Drachenfels' death in 2477 IC. The Warhammer Companion and the WFRP 4th edition core rulebook keep 2480 IC.",
+      "de": "Die Boxtree-Ausgaben der Romane datieren Drachenfels' Tod auf 2477 IK. Der Warhammer Companion und das Grundregelwerk von WFRP 4 nennen 2480 IK."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Livre de règles, Warhammer Fantasy Roleplay 4e édition (2018)",
+          "en": "Core Rulebook, Warhammer Fantasy Roleplay 4th edition (2018)",
+          "de": "Grundregelwerk, Warhammer Fantasy Roleplay 4. Edition (2018)"
+        },
+        "detail": {
+          "fr": "p. 275",
+          "en": "p. 275",
+          "de": "S. 275"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Drachenfels, roman de Jack Yeovil (1989)",
+          "en": "Drachenfels, novel by Jack Yeovil (1989)",
+          "de": "Drachenfels, Roman von Jack Yeovil (1989)"
+        },
+        "detail": {
+          "fr": "prologue",
+          "en": "prologue",
+          "de": "Prolog"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Constant Drachenfels",
+          "en": "Lexicanum, Constant Drachenfels page",
+          "de": "Lexicanum, Seite Constant Drachenfels"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Constant_Drachenfels"
+      }
+    ]
+  },
+  {
+    "id": "traite-de-luitpold-marienburg",
+    "annee": 2483,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Le traité de Luitpold avec le Pays perdu",
+      "en": "Luitpold's treaty with the Wasteland",
+      "de": "Luitpolds Vertrag mit dem Ödland"
+    },
+    "resume": {
+      "fr": "L'empereur Luitpold signe avec le Pays perdu un traité qui autorise les navires de la marine impériale à passer par Marienburg. Le droit de passage est concédé contre un péage très élevé. L'accord entérine de fait l'indépendance de la cité, que l'Empire n'avait jamais reconnue officiellement.",
+      "en": "Emperor Luitpold signs a treaty with the Wasteland allowing the ships of the Imperial Navy to pass through Marienburg. The right of passage is granted in return for a very high toll. The agreement in effect confirms the independence of the city, which the Empire had never officially recognised.",
+      "de": "Kaiser Luitpold schließt mit dem Ödland einen Vertrag, der den Schiffen der kaiserlichen Flotte die Durchfahrt durch Marienburg erlaubt. Das Durchfahrtsrecht wird gegen einen sehr hohen Zoll gewährt. Das Abkommen bestätigt faktisch die Unabhängigkeit der Stadt, die das Imperium nie offiziell anerkannt hatte."
+    },
+    "ere": "empire-reunifie",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [
+      "marienburg",
+      "altdorf"
+    ],
+    "factions": [
+      "empire",
+      "humains-autres"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Livre de règles, Warhammer Fantasy Roleplay 4e édition (2018)",
+          "en": "Core Rulebook, Warhammer Fantasy Roleplay 4th edition (2018)",
+          "de": "Grundregelwerk, Warhammer Fantasy Roleplay 4. Edition (2018)"
+        },
+        "detail": {
+          "fr": "p. 275",
+          "en": "p. 275",
+          "de": "S. 275"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Warhammer Wiki (Fandom), page Empire of Man Timeline",
+          "en": "Warhammer Wiki (Fandom), Empire of Man Timeline page",
+          "de": "Warhammer Wiki (Fandom), Seite Empire of Man Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Empire_of_Man_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "karl-franz-ecrase-les-norses",
+    "annee": 2502,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Karl Franz écrase les Norses au Nordland",
+      "en": "Karl Franz crushes the Norse in Nordland",
+      "de": "Karl Franz zerschlägt die Nordmänner in Nordland"
+    },
+    "resume": {
+      "fr": "À peine couronné, Karl Franz mène une armée au secours du comte électeur de Nordland, menacé par une grande invasion norse. Grâce aux astromanciens de l'Ordre céleste, il prévoit où et quand les maraudeurs frapperont et leur tend une embuscade dévastatrice. Il charge lui-même à la tête de la Reiksguard contre le mur de boucliers et se taille une réputation de chef brillant.",
+      "en": "Barely crowned, Karl Franz leads an army to aid the Elector Count of Nordland, threatened by a great Norse invasion. Thanks to the astromancers of the Celestial Order, he predicts where and when the marauders will strike and sets a devastating ambush. He personally leads the Reiksguard in the charge against the shield wall and earns a reputation as a brilliant commander.",
+      "de": "Kaum gekrönt, führt Karl Franz ein Heer dem Kurfürsten von Nordland zu Hilfe, der von einer großen Invasion der Nordmänner bedroht wird. Dank der Astromanten des Himmlischen Ordens sagt er voraus, wo und wann die Marodeure zuschlagen, und legt einen vernichtenden Hinterhalt. Er führt selbst die Reichsgarde gegen den Schildwall und erwirbt den Ruf eines brillanten Feldherrn."
+    },
+    "ere": "empire-reunifie",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [],
+    "factions": [
+      "empire",
+      "chaos"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: The Empire, 8e édition (2012)",
+          "en": "Warhammer Armies: The Empire, 8th edition (2012)",
+          "de": "Warhammer Armies: The Empire, 8. Edition (2012)"
+        },
+        "detail": {
+          "fr": "p. 17",
+          "en": "p. 17",
+          "de": "S. 17"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Warhammer Wiki (Fandom), page Empire of Man Timeline",
+          "en": "Warhammer Wiki (Fandom), Empire of Man Timeline page",
+          "de": "Warhammer Wiki (Fandom), Seite Empire of Man Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Empire_of_Man_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "oeuf-de-griffon-wissenland",
+    "annee": 2503,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Karl Franz et les Elfes sylvains contre les minotaures",
+      "en": "Karl Franz and the Wood Elves against the Minotaurs",
+      "de": "Karl Franz und die Waldelfen gegen die Minotauren"
+    },
+    "resume": {
+      "fr": "L'armée du Wissenland, menée par Karl Franz, s'allie à un ost d'Elfes sylvains pour arrêter une horde de minotaures qui menace de franchir les Montagnes Grises vers Athel Loren. Un mois plus tard, un émissaire asrai se présente à Altdorf avec un œuf de griffon et un message laconique. Le griffon Griffe-Mortelle, monture de l'empereur, naîtra de cet œuf.",
+      "en": "The army of Wissenland, led by Karl Franz, allies with a Wood Elf host to stop a horde of Minotaurs threatening to cross the Grey Mountains into Athel Loren. A month later an Asrai emissary appears in Altdorf with a Griffon egg and a terse message. The Griffon Deathclaw, the Emperor's mount, will hatch from this egg.",
+      "de": "Das Heer Wissenlands unter Karl Franz verbündet sich mit einer Streitmacht der Waldelfen, um eine Horde Minotauren aufzuhalten, die über die Grauen Berge nach Athel Loren vordringen will. Einen Monat später erscheint ein Gesandter der Asrai in Altdorf mit einem Greifenei und einer knappen Botschaft. Aus diesem Ei schlüpft der Greif Todesklaue, das Reittier des Kaisers."
+    },
+    "ere": "empire-reunifie",
+    "regions": [
+      "empire",
+      "athel-loren"
+    ],
+    "lieux": [
+      "altdorf",
+      "athel-loren"
+    ],
+    "factions": [
+      "empire",
+      "elfes-sylvains",
+      "chaos"
+    ],
+    "importance": 1,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "Le lien entre l'œuf et Griffe-Mortelle est établi par les livres de l'Empire, le livre des Elfes sylvains ne mentionnant que l'œuf.",
+      "en": "The link between the egg and Deathclaw comes from the Empire books, the Wood Elves book mentioning only the egg.",
+      "de": "Die Verbindung zwischen dem Ei und Todesklaue stammt aus den Imperiumsbüchern, das Waldelfenbuch erwähnt nur das Ei."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Wood Elves, 8e édition (2014)",
+          "en": "Warhammer Armies: Wood Elves, 8th edition (2014)",
+          "de": "Warhammer Armies: Wood Elves, 8. Edition (2014)"
+        },
+        "detail": {
+          "fr": "p. 33",
+          "en": "p. 33",
+          "de": "S. 33"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Warhammer Wiki (Fandom), page Empire of Man Timeline",
+          "en": "Warhammer Wiki (Fandom), Empire of Man Timeline page",
+          "de": "Warhammer Wiki (Fandom), Seite Empire of Man Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Empire_of_Man_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "malathrax-reikland",
+    "annee": 2508,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Markus Wulfhart abat le dragon Malathrax",
+      "en": "Markus Wulfhart slays the dragon Malathrax",
+      "de": "Markus Wulfhart erlegt den Drachen Malathrax"
+    },
+    "resume": {
+      "fr": "Le dragon Malathrax le Puissant terrorise le Reikland, rase plusieurs villages et anéantit à lui seul l'Ordre de l'Épée d'ébène. Le maître-chasseur Markus Wulfhart et ses chasseurs de monstres le surprennent au repos sur les rives du Reik. Wulfhart lui transperce le cœur de trois flèches avant qu'il n'atteigne l'autre rive.",
+      "en": "The dragon Malathrax the Mighty terrorises Reikland, razes several villages and single-handedly destroys the Order of the Ebon Sword. Huntsmarshal Markus Wulfhart and his monster hunters catch it resting on the banks of the Reik. Wulfhart drives three arrows through its heart before it can reach the far bank.",
+      "de": "Der Drache Malathrax der Mächtige terrorisiert das Reikland, zerstört mehrere Dörfer und vernichtet allein den Orden des Ebenholzschwerts. Jagdmarschall Markus Wulfhart und seine Monsterjäger überraschen ihn beim Ruhen am Ufer des Reik. Wulfhart schießt ihm drei Pfeile durchs Herz, bevor er das andere Ufer erreicht."
+    },
+    "ere": "empire-reunifie",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [],
+    "factions": [
+      "empire"
+    ],
+    "importance": 1,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: The Empire, 8e édition (2012)",
+          "en": "Warhammer Armies: The Empire, 8th edition (2012)",
+          "de": "Warhammer Armies: The Empire, 8. Edition (2012)"
+        },
+        "detail": {
+          "fr": "p. 17",
+          "en": "p. 17",
+          "de": "S. 17"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Livre de règles, Warhammer Fantasy Roleplay 4e édition (2018)",
+          "en": "Core Rulebook, Warhammer Fantasy Roleplay 4th edition (2018)",
+          "de": "Grundregelwerk, Warhammer Fantasy Roleplay 4. Edition (2018)"
+        },
+        "detail": {
+          "fr": "p. 275",
+          "en": "p. 275",
+          "de": "S. 275"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Warhammer Wiki (Fandom), page Empire of Man Timeline",
+          "en": "Warhammer Wiki (Fandom), Empire of Man Timeline page",
+          "de": "Warhammer Wiki (Fandom), Seite Empire of Man Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Empire_of_Man_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "chute-des-teugen-bogenhafen",
+    "annee": 2512,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "La chute de la maison Teugen à Bögenhafen",
+      "en": "The fall of House Teugen in Bögenhafen",
+      "de": "Der Sturz des Hauses Teugen in Bögenhafen"
+    },
+    "resume": {
+      "fr": "À Bögenhafen, le riche marchand Johannes Teugen est démasqué comme le chef d'une secte du Chaos qui préparait un rituel au cœur de la foire de la Schaffenfest. Le complot déjoué, sa maison tombe. L'affaire ouvre une année troublée, marquée par une brève guerre civile, la Tourmente de 2512, suivie d'une réorganisation des provinces et des électeurs.",
+      "en": "In Bögenhafen the wealthy merchant Johannes Teugen is unmasked as the leader of a Chaos cult preparing a ritual at the heart of the Schaffenfest fair. With the plot foiled, his house falls. The affair opens a troubled year marked by a brief civil war, the Turmoil of 2512, followed by a reorganisation of provinces and electors.",
+      "de": "In Bögenhafen wird der reiche Kaufmann Johannes Teugen als Anführer eines Chaoskults entlarvt, der mitten auf dem Schaffenfest ein Ritual vorbereitete. Nach der Vereitelung der Verschwörung fällt sein Haus. Die Affäre eröffnet ein unruhiges Jahr mit einem kurzen Bürgerkrieg, den Wirren von 2512, gefolgt von einer Neuordnung der Provinzen und Kurfürsten."
+    },
+    "ere": "empire-reunifie",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [
+      "bogenhafen"
+    ],
+    "factions": [
+      "empire",
+      "chaos"
+    ],
+    "importance": 2,
+    "fiabilite": "divergent",
+    "note": {
+      "fr": "Événements tirés de la campagne The Enemy Within de WFRP. La Tourmente de 2512 n'apparaît que dans certaines éditions, et sa nature varie selon les sources.",
+      "en": "Events drawn from the WFRP campaign The Enemy Within. The Turmoil of 2512 appears only in some editions, and its nature varies from source to source.",
+      "de": "Ereignisse aus der WFRP-Kampagne Der Innere Feind. Die Wirren von 2512 erscheinen nur in einigen Ausgaben, und ihre Art unterscheidet sich je nach Quelle."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Shadows over Bögenhafen, Warhammer Fantasy Roleplay 1re édition (1987)",
+          "en": "Shadows over Bögenhafen, Warhammer Fantasy Roleplay 1st edition (1987)",
+          "de": "Shadows over Bögenhafen, Warhammer Fantasy Roleplay 1. Edition (1987)"
+        },
+        "detail": {
+          "fr": "campagne The Enemy Within",
+          "en": "The Enemy Within campaign",
+          "de": "Kampagne Der Innere Feind"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Warhammer Armies: The Empire, 8e édition (2012)",
+          "en": "Warhammer Armies: The Empire, 8th edition (2012)",
+          "de": "Warhammer Armies: The Empire, 8. Edition (2012)"
+        },
+        "detail": {
+          "fr": "p. 17",
+          "en": "p. 17",
+          "de": "S. 17"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Warhammer Wiki (Fandom), page Empire of Man Timeline",
+          "en": "Warhammer Wiki (Fandom), Empire of Man Timeline page",
+          "de": "Warhammer Wiki (Fandom), Seite Empire of Man Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Empire_of_Man_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "baugard-devant-helmgart",
+    "annee": 2512,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "La croisade de Baugard le Téméraire brisée à Helmgart",
+      "en": "Baugard the Rash's crusade broken at Helmgart",
+      "de": "Baugard der Ungestüme scheitert vor Helmgart"
+    },
+    "resume": {
+      "fr": "Le chevalier bretonnien Baugard le Téméraire attaque l'Empire pour venger une insulte faite à son épouse par le comte électeur d'Averland, Marius Leitdorf. Sa courte croisade franchit le col de la Morsure de la Hache. Elle se brise devant les murs de Helmgart, sous le feu des batteries de canons orgues de la forteresse.",
+      "en": "The Bretonnian knight Baugard the Rash attacks the Empire to avenge an insult done to his wife by the Elector Count of Averland, Marius Leitdorf. His short crusade crosses Axe Bite Pass. It is broken before the walls of Helmgart, under the fire of the fortress's Helblaster Volley Gun batteries.",
+      "de": "Der bretonische Ritter Baugard der Ungestüme greift das Imperium an, um eine Beleidigung seiner Frau durch den Kurfürsten von Averland, Marius Leitdorf, zu rächen. Sein kurzer Kreuzzug überquert den Axtbiss-Pass. Er zerbricht vor den Mauern Helmgarts im Feuer der Höllenfeuer-Salvenkanonen der Festung."
+    },
+    "ere": "empire-reunifie",
+    "regions": [
+      "empire",
+      "bretonnie"
+    ],
+    "lieux": [
+      "helmgart"
+    ],
+    "factions": [
+      "empire",
+      "bretonnie"
+    ],
+    "importance": 1,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: The Empire, 8e édition (2012)",
+          "en": "Warhammer Armies: The Empire, 8th edition (2012)",
+          "de": "Warhammer Armies: The Empire, 8. Edition (2012)"
+        },
+        "detail": {
+          "fr": "p. 17",
+          "en": "p. 17",
+          "de": "S. 17"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Warhammer Wiki (Fandom), page Empire of Man Timeline",
+          "en": "Warhammer Wiki (Fandom), Empire of Man Timeline page",
+          "de": "Warhammer Wiki (Fandom), Seite Empire of Man Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Empire_of_Man_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "gelt-a-salzenmund",
+    "annee": 2516,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Balthasar Gelt désamorce la guerre du Nordland",
+      "en": "Balthasar Gelt defuses the Nordland war",
+      "de": "Balthasar Gelt verhindert den Krieg Nordlands"
+    },
+    "resume": {
+      "fr": "Le comte électeur de Nordland Theoderic Gausser prépare une guerre contre le Hochland voisin. Envoyé en ambassadeur par l'empereur, le Patriarche suprême Balthasar Gelt change secrètement en plomb l'or destiné à payer les mercenaires. Faute de solde, les soldats refusent de marcher, et Theoderic jure d'avoir la tête de Gelt.",
+      "en": "The Elector Count of Nordland, Theoderic Gausser, prepares a war against neighbouring Hochland. Sent as ambassador by the Emperor, Supreme Patriarch Balthasar Gelt secretly turns the gold meant to pay the mercenaries into lead. Without pay the soldiers refuse to march, and Theoderic swears he will have Gelt's head.",
+      "de": "Der Kurfürst von Nordland, Theoderic Gausser, bereitet einen Krieg gegen das benachbarte Hochland vor. Vom Kaiser als Gesandter geschickt, verwandelt der Oberste Patriarch Balthasar Gelt heimlich das für die Söldner bestimmte Gold in Blei. Ohne Sold weigern sich die Truppen zu marschieren, und Theoderic schwört, Gelts Kopf zu fordern."
+    },
+    "ere": "empire-reunifie",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [
+      "salzenmund",
+      "hergig"
+    ],
+    "factions": [
+      "empire"
+    ],
+    "importance": 1,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: The Empire, 8e édition (2012)",
+          "en": "Warhammer Armies: The Empire, 8th edition (2012)",
+          "de": "Warhammer Armies: The Empire, 8. Edition (2012)"
+        },
+        "detail": {
+          "fr": "p. 33",
+          "en": "p. 33",
+          "de": "S. 33"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Warhammer Wiki (Fandom), page Empire of Man Timeline",
+          "en": "Warhammer Wiki (Fandom), Empire of Man Timeline page",
+          "de": "Warhammer Wiki (Fandom), Seite Empire of Man Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Empire_of_Man_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "martyrs-de-taalfjord",
+    "annee": 2518,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Les Martyrs de Taalfjord",
+      "en": "The Martyrs of Taalfjord",
+      "de": "Die Märtyrer von Taalfjord"
+    },
+    "resume": {
+      "fr": "L'incursion du champion du Chaos Grakthor Hache-de-Feu est vaincue par une foule de flagellants menée par le Grand Théogoniste Volkmar en personne. À la fin de la bataille, seuls Volkmar et une vingtaine de flagellants sont encore debout. La même année, le comte Boris Todbringer purge le Drakwald et arrache un œil au seigneur des bêtes Khazrak à Elsterweld.",
+      "en": "The incursion of the Chaos champion Grakthor Flameaxe is defeated by a host of Flagellants led by Grand Theogonist Volkmar himself. At the end of the battle only Volkmar and a score of Flagellants are left standing. The same year Count Boris Todbringer purges the Drakwald and takes the eye of the Beastlord Khazrak at Elsterweld.",
+      "de": "Der Einfall des Chaos-Champions Grakthor Flammenaxt wird von einer Schar Flagellanten unter Großtheogonist Volkmar persönlich besiegt. Am Ende der Schlacht stehen nur noch Volkmar und etwa zwanzig Flagellanten. Im selben Jahr säubert Graf Boris Todbringer den Drakwald und schlägt dem Bestienfürsten Khazrak bei Elsterweld ein Auge aus."
+    },
+    "ere": "empire-reunifie",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [],
+    "factions": [
+      "empire",
+      "chaos"
+    ],
+    "importance": 1,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "En 2519 CI, Khazrak se venge en crevant à son tour un œil de Todbringer près de Norderingen.",
+      "en": "In 2519 IC Khazrak takes his revenge by putting out one of Todbringer's eyes near Norderingen.",
+      "de": "2519 IK rächt sich Khazrak, indem er Todbringer bei Norderingen ebenfalls ein Auge ausschlägt."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: The Empire, 8e édition (2012)",
+          "en": "Warhammer Armies: The Empire, 8th edition (2012)",
+          "de": "Warhammer Armies: The Empire, 8. Edition (2012)"
+        },
+        "detail": {
+          "fr": "p. 17",
+          "en": "p. 17",
+          "de": "S. 17"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2e édition (2005)",
+          "en": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2nd edition (2005)",
+          "de": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2. Edition (2005)"
+        },
+        "detail": {
+          "fr": "p. 21",
+          "en": "p. 21",
+          "de": "S. 21"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Warhammer Wiki (Fandom), page Empire of Man Timeline",
+          "en": "Warhammer Wiki (Fandom), Empire of Man Timeline page",
+          "de": "Warhammer Wiki (Fandom), Seite Empire of Man Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Empire_of_Man_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "bataille-des-six-pointes",
+    "annee": 2519,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "La bataille des Six Pointes",
+      "en": "The Battle of Six Spikes",
+      "de": "Die Schlacht der Sechs Spitzen"
+    },
+    "resume": {
+      "fr": "Lors d'une tempête de magie, le Patriarche suprême Balthasar Gelt canalise l'énergie déchaînée contre une armée du Chaos. Il change l'armée ennemie tout entière en une forêt de statues d'or. La victoire illustre la puissance acquise par les Collèges de magie sous le règne de Karl Franz.",
+      "en": "During a Storm of Magic, Supreme Patriarch Balthasar Gelt channels the unleashed energy against a Chaos army. He turns the entire enemy army into a forest of golden statues. The victory illustrates the power the Colleges of Magic have gained under Karl Franz.",
+      "de": "Während eines Sturms der Magie lenkt der Oberste Patriarch Balthasar Gelt die entfesselte Energie gegen ein Chaosheer. Er verwandelt das gesamte feindliche Heer in einen Wald aus goldenen Statuen. Der Sieg zeigt die Macht, die die Magierkollegien unter Karl Franz erlangt haben."
+    },
+    "ere": "empire-reunifie",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [],
+    "factions": [
+      "empire",
+      "chaos"
+    ],
+    "importance": 1,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: The Empire, 8e édition (2012)",
+          "en": "Warhammer Armies: The Empire, 8th edition (2012)",
+          "de": "Warhammer Armies: The Empire, 8. Edition (2012)"
+        },
+        "detail": {
+          "fr": "p. 17",
+          "en": "p. 17",
+          "de": "S. 17"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Warhammer Wiki (Fandom), page Empire of Man Timeline",
+          "en": "Warhammer Wiki (Fandom), Empire of Man Timeline page",
+          "de": "Warhammer Wiki (Fandom), Seite Empire of Man Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Empire_of_Man_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "siege-de-middendorf",
+    "annee": 2520,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Le siège de Middendorf et Luthor Huss",
+      "en": "The Siege of Middendorf and Luthor Huss",
+      "de": "Die Belagerung von Middendorf und Luthor Huss"
+    },
+    "resume": {
+      "fr": "Le sorcier de Nurgle Festus le Seigneur des sangsues répand une souche si virulente de fièvre de la bave oculaire que la mortalité permet à des démons de Nurgle de se manifester dans l'Empire. Ils assiègent la ville de Middendorf. Le prophète de Sigmar Luthor Huss rallie les défenseurs et les mène à la victoire.",
+      "en": "The Nurgle sorcerer Festus the Leechlord spreads a strain of Eyeslime Fever so virulent that the deaths allow Nurgle daemons to manifest within the Empire. They lay siege to the town of Middendorf. The prophet of Sigmar Luthor Huss rallies the defenders and leads them to victory.",
+      "de": "Der Nurgle-Zauberer Festus der Egelfürst verbreitet einen so ansteckenden Stamm des Augenschleimfiebers, dass das Sterben Nurgle-Dämonen erlaubt, im Imperium Gestalt anzunehmen. Sie belagern die Stadt Middendorf. Der Prophet Sigmars Luthor Huss sammelt die Verteidiger und führt sie zum Sieg."
+    },
+    "ere": "empire-reunifie",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [],
+    "factions": [
+      "empire",
+      "chaos"
+    ],
+    "importance": 1,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Warriors of Chaos, 8e édition (2013)",
+          "en": "Warhammer Armies: Warriors of Chaos, 8th edition (2013)",
+          "de": "Warhammer Armies: Warriors of Chaos, 8. Edition (2013)"
+        },
+        "detail": {
+          "fr": "p. 15",
+          "en": "p. 15",
+          "de": "S. 15"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Warhammer Armies: The Empire, 8e édition (2012)",
+          "en": "Warhammer Armies: The Empire, 8th edition (2012)",
+          "de": "Warhammer Armies: The Empire, 8. Edition (2012)"
+        },
+        "detail": {
+          "fr": "p. 17",
+          "en": "p. 17",
+          "de": "S. 17"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Warhammer Wiki (Fandom), page Empire of Man Timeline",
+          "en": "Warhammer Wiki (Fandom), Empire of Man Timeline page",
+          "de": "Warhammer Wiki (Fandom), Seite Empire of Man Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Empire_of_Man_Timeline"
+      }
+    ]
+  }
+]

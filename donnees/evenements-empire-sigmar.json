@@ -1,0 +1,3055 @@
+[
+  {
+    "id": "marius-fonde-jutonsryk",
+    "annee": -10,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Marius fonde Jutonsryk",
+      "en": "Marius founds Jutonsryk",
+      "de": "Marius gründet Jutonsryk"
+    },
+    "resume": {
+      "fr": "Chassés par les Teutogens, les Jutones de Marius, dit le Loup des marais, migrent vers l'ouest et s'installent dans les ruines d'une ancienne cité elfe à l'embouchure de la Reik. Marius y fait bâtir une forteresse sur l'île de Rijker et fonde Jutonsryk, qui devient vite un comptoir commercial. C'est l'origine lointaine de Marienburg.",
+      "en": "Driven out by the Teutogens, the Jutones of Marius, called the Fenwolf, migrate west and settle in the ruins of an old Elven city at the mouth of the Reik. Marius has a fortress built on Rijker's Isle and founds Jutonsryk, which quickly becomes a trading hub. It is the distant origin of Marienburg.",
+      "de": "Von den Teutogenen vertrieben, ziehen die Jutonen unter Marius, genannt der Fenwolf, nach Westen und lassen sich in den Ruinen einer alten Elfenstadt an der Mündung des Reik nieder. Marius lässt auf der Rijkersinsel eine Festung errichten und gründet Jutonsryk, das rasch zum Handelsplatz wird. Es ist der ferne Ursprung Marienburgs."
+    },
+    "ere": "age-des-tribus",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [
+      "marienburg"
+    ],
+    "factions": [
+      "empire"
+    ],
+    "importance": 2,
+    "fiabilite": "incertain",
+    "note": {
+      "fr": "Dates de -20 CI (migration) et -10 CI (prise des ruines) issues de la chronologie de Marienburg du jeu de rôle, reprise par Lexicanum.",
+      "en": "Dates of -20 IC (migration) and -10 IC (taking of the ruins) from the roleplaying game's Marienburg timeline, reported by Lexicanum.",
+      "de": "Die Jahre -20 IK (Wanderung) und -10 IK (Einnahme der Ruinen) stammen aus der Marienburg-Zeitleiste des Rollenspiels und werden von Lexicanum übernommen."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Marienburg: Sold Down the River, Warhammer Fantasy Roleplay 1re édition (2001)",
+          "en": "Marienburg: Sold Down the River, Warhammer Fantasy Roleplay 1st edition (2001)",
+          "de": "Marienburg: Sold Down the River, Warhammer Fantasy Roleplay 1. Edition (2001)"
+        },
+        "detail": {
+          "fr": "chronologie de Marienburg",
+          "en": "timeline of Marienburg",
+          "de": "Zeitleiste Marienburgs"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Marienburg",
+          "en": "Lexicanum, Marienburg page",
+          "de": "Lexicanum, Seite Marienburg"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Marienburg"
+      }
+    ]
+  },
+  {
+    "id": "guerre-contre-les-norsii",
+    "annee": -8,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Mort de Björn et expulsion des Norsii",
+      "en": "Death of Björn and expulsion of the Norsii",
+      "de": "Tod Björns und Vertreibung der Norsii"
+    },
+    "resume": {
+      "fr": "Le roi Björn des Unberogens tombe en combattant une invasion des Norsii venus du nord. Devenu roi à son tour, Sigmar venge son père en chassant les Norsii de leurs terres et en les repoussant de l'autre côté de la mer, vers une péninsule glacée. Les livres présentent ces exilés comme les ancêtres des peuples de Norsca.",
+      "en": "King Björn of the Unberogens falls fighting an invasion by the Norsii from the north. Now king himself, Sigmar avenges his father by driving the Norsii from their lands and across the sea to a frozen peninsula. The books present these exiles as the forebears of the peoples of Norsca.",
+      "de": "König Björn der Unberogenen fällt im Kampf gegen einen Einfall der Norsii aus dem Norden. Nun selbst König, rächt Sigmar seinen Vater, indem er die Norsii aus ihren Ländern vertreibt und über das Meer auf eine eisige Halbinsel zurückdrängt. Die Bücher stellen diese Verbannten als Vorfahren der Völker Norscas dar."
+    },
+    "ere": "age-des-tribus",
+    "regions": [
+      "empire",
+      "norsca"
+    ],
+    "lieux": [
+      "altdorf"
+    ],
+    "factions": [
+      "empire",
+      "humains-autres"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "La date de -8 CI pour l'accession de Sigmar est donnée par le livre de règles de The Old World et par WFRP 4e. Le récit détaillé de la guerre vient des romans de Graham McNeill.",
+      "en": "The date of -8 IC for Sigmar's accession is given by The Old World rulebook and WFRP 4th edition. The detailed account of the war comes from Graham McNeill's novels.",
+      "de": "Das Jahr -8 IK für Sigmars Thronbesteigung nennen das Regelbuch von The Old World und WFRP 4. Edition. Die ausführliche Schilderung des Krieges stammt aus den Romanen von Graham McNeill."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer: The Old World, livre de règles (2024)",
+          "en": "Warhammer: The Old World Rulebook (2024)",
+          "de": "Warhammer: The Old World, Regelbuch (2024)"
+        },
+        "detail": {
+          "fr": "Timeline of Legend, p. 22-29",
+          "en": "Timeline of Legend, pp. 22-29",
+          "de": "Timeline of Legend, S. 22-29"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Warhammer Fantasy Roleplay, 4e édition (2018)",
+          "en": "Warhammer Fantasy Roleplay, 4th edition (2018)",
+          "de": "Warhammer Fantasy Roleplay, 4. Edition (2018)"
+        },
+        "detail": {
+          "fr": "chronologie du Reikland, p. 272-275",
+          "en": "Timeline of the Reikland, pp. 272-275",
+          "de": "Zeitleiste des Reiklands, S. 272-275"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Graham McNeill, Heldenhammer (2008), trilogie La Légende de Sigmar (Black Library)",
+          "en": "Graham McNeill, Heldenhammer (2008), The Legend of Sigmar trilogy (Black Library)",
+          "de": "Graham McNeill, Heldenhammer (2008), Trilogie The Legend of Sigmar (Black Library)"
+        },
+        "detail": "",
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Sigmar",
+          "en": "Lexicanum, Sigmar page",
+          "de": "Lexicanum, Seite Sigmar"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Sigmar"
+      }
+    ]
+  },
+  {
+    "id": "sigmar-unit-les-tribus",
+    "annee": -7,
+    "fin": -2,
+    "approx": false,
+    "titre": {
+      "fr": "Sigmar rassemble les tribus",
+      "en": "Sigmar gathers the tribes",
+      "de": "Sigmar sammelt die Stämme"
+    },
+    "resume": {
+      "fr": "Convaincu que les Unberogens ne vaincront pas seuls les Peaux-vertes, Sigmar entreprend de rallier les autres tribus par la diplomatie, les serments d'épée ou les armes. Endals, Cherusens, Taleutens, Asoborns, Menogoths et bien d'autres le rejoignent, et Artur des Teutogens est tué en combat singulier au sommet du Fauschlag. En -2 CI, Sigmar règne sur douze tribus et s'est allié à d'autres.",
+      "en": "Convinced that the Unberogens cannot defeat the Greenskins alone, Sigmar sets out to rally the other tribes through diplomacy, sword-oaths or force of arms. Endals, Cherusens, Taleutens, Asoborns, Menogoths and many others join him, and Artur of the Teutogens is slain in single combat atop the Fauschlag. By -2 IC, Sigmar rules twelve tribes and has allied with others.",
+      "de": "Überzeugt, dass die Unberogenen die Grünhäute nicht allein besiegen können, beginnt Sigmar, die anderen Stämme durch Diplomatie, Schwureide oder Waffengewalt zu vereinen. Endalen, Cherusken, Taleuten, Asoborn, Menogoten und viele andere schließen sich ihm an, und Artur von den Teutogenen fällt im Zweikampf auf dem Fauschlag. Im Jahr -2 IK herrscht Sigmar über zwölf Stämme und ist mit weiteren verbündet."
+    },
+    "ere": "age-des-tribus",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [
+      "altdorf",
+      "middenheim"
+    ],
+    "factions": [
+      "empire",
+      "peaux-vertes"
+    ],
+    "importance": 3,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "Bornes -7 et -2 CI selon WFRP 4e. Le détail des ralliements, dont le duel contre Artur, vient surtout des romans de la Légende de Sigmar.",
+      "en": "Bounds of -7 and -2 IC according to WFRP 4th edition. The details of each tribe joining, including the duel with Artur, come mostly from the Legend of Sigmar novels.",
+      "de": "Eckdaten -7 und -2 IK nach WFRP 4. Edition. Die Einzelheiten der Bündnisse, darunter der Zweikampf gegen Artur, stammen vor allem aus den Romanen der Legend of Sigmar."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Fantasy Roleplay, 4e édition (2018)",
+          "en": "Warhammer Fantasy Roleplay, 4th edition (2018)",
+          "de": "Warhammer Fantasy Roleplay, 4. Edition (2018)"
+        },
+        "detail": {
+          "fr": "chronologie du Reikland, p. 272-275",
+          "en": "Timeline of the Reikland, pp. 272-275",
+          "de": "Zeitleiste des Reiklands, S. 272-275"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Graham McNeill, Heldenhammer (2008), trilogie La Légende de Sigmar (Black Library)",
+          "en": "Graham McNeill, Heldenhammer (2008), The Legend of Sigmar trilogy (Black Library)",
+          "de": "Graham McNeill, Heldenhammer (2008), Trilogie The Legend of Sigmar (Black Library)"
+        },
+        "detail": "",
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Sigmar",
+          "en": "Lexicanum, Sigmar page",
+          "de": "Lexicanum, Seite Sigmar"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Sigmar"
+      }
+    ]
+  },
+  {
+    "id": "serment-d-otwin",
+    "annee": -4,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Otwin des Thuringiens prête serment",
+      "en": "Otwin of the Thuringians swears allegiance",
+      "de": "Otwin der Thuringer leistet den Treueeid"
+    },
+    "resume": {
+      "fr": "Le roi Otwin des Thuringiens, établis dans la forêt du Drakwald, repousse tous les émissaires de Sigmar. Les Unberogens finissent par envahir son territoire avec environ douze mille guerriers. Vaincu au combat, Otwin se soumet et jure fidélité à Sigmar.",
+      "en": "King Otwin of the Thuringians, settled in the Drakwald Forest, turns away every envoy sent by Sigmar. The Unberogens eventually invade his lands with some twelve thousand warriors. Defeated in combat, Otwin yields and swears his oath to Sigmar.",
+      "de": "König Otwin der Thuringer, die im Drakwald siedeln, weist jeden Gesandten Sigmars ab. Schließlich fallen die Unberogenen mit rund zwölftausend Kriegern in sein Land ein. Im Kampf besiegt, gibt Otwin nach und schwört Sigmar die Treue."
+    },
+    "ere": "age-des-tribus",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [
+      "foret-de-drakwald"
+    ],
+    "factions": [
+      "empire"
+    ],
+    "importance": 1,
+    "fiabilite": "incertain",
+    "note": {
+      "fr": "Épisode et date tirés d'un roman (Heldenhammer), repris par Lexicanum. Aucun livre de règles ne le date.",
+      "en": "Episode and date taken from a novel (Heldenhammer), reported by Lexicanum. No rulebook dates it.",
+      "de": "Episode und Datum stammen aus einem Roman (Heldenhammer) und werden von Lexicanum übernommen. Kein Regelwerk datiert es."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Graham McNeill, Heldenhammer (2008), trilogie La Légende de Sigmar (Black Library)",
+          "en": "Graham McNeill, Heldenhammer (2008), The Legend of Sigmar trilogy (Black Library)",
+          "de": "Graham McNeill, Heldenhammer (2008), Trilogie The Legend of Sigmar (Black Library)"
+        },
+        "detail": "",
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Drakwald",
+          "en": "Lexicanum, Drakwald page",
+          "de": "Lexicanum, Seite Drakwald"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Drakwald"
+      }
+    ]
+  },
+  {
+    "id": "secours-de-zhufbar",
+    "annee": -1,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Sigmar dégage Zhufbar",
+      "en": "Sigmar relieves Zhufbar",
+      "de": "Sigmar entsetzt Zhufbar"
+    },
+    "resume": {
+      "fr": "La forteresse naine de Zhufbar est assiégée par les orques et les gobelins, et le Haut Roi Kurgan Barbe de Fer appelle à l'aide. Sigmar conduit son armée jusqu'à la place et brise le siège. Le maître des runes Alaric le Fou peut alors rallumer les anciennes forges de la cité.",
+      "en": "The Dwarf hold of Zhufbar is besieged by Orcs and Goblins, and High King Kurgan Ironbeard calls for aid. Sigmar leads his army to the hold and breaks the siege. The Runesmith Alaric the Mad is then able to rekindle the ancient forges of the city.",
+      "de": "Die Zwergenfestung Zhufbar wird von Orks und Goblins belagert, und Hochkönig Kurgan Eisenbart ruft um Hilfe. Sigmar führt sein Heer zur Festung und bricht die Belagerung. Der Runenschmied Alaric der Verrückte kann daraufhin die alten Schmieden der Stadt wieder entfachen."
+    },
+    "ere": "age-des-tribus",
+    "regions": [
+      "montagnes"
+    ],
+    "lieux": [
+      "zhufbar"
+    ],
+    "factions": [
+      "empire",
+      "nains",
+      "peaux-vertes"
+    ],
+    "importance": 1,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "Daté de -1 CI par le livre de règles de The Old World, la même année que la bataille du Col du Feu Noir.",
+      "en": "Dated -1 IC by The Old World rulebook, the same year as the Battle of Black Fire Pass.",
+      "de": "Vom Regelbuch von The Old World auf -1 IK datiert, im selben Jahr wie die Schlacht am Schwarzfeuerpass."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer: The Old World, livre de règles (2024)",
+          "en": "Warhammer: The Old World Rulebook (2024)",
+          "de": "Warhammer: The Old World, Regelbuch (2024)"
+        },
+        "detail": {
+          "fr": "Timeline of Legend, p. 22-29",
+          "en": "Timeline of Legend, pp. 22-29",
+          "de": "Timeline of Legend, S. 22-29"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Sigmar",
+          "en": "Lexicanum, Sigmar page",
+          "de": "Lexicanum, Seite Sigmar"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Sigmar"
+      }
+    ]
+  },
+  {
+    "id": "alaric-forge-les-runecrocs",
+    "annee": 1,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Alaric le Fou commence les Crocs runiques",
+      "en": "Alaric the Mad begins the Runefangs",
+      "de": "Alaric der Verrückte beginnt die Runenfänge"
+    },
+    "resume": {
+      "fr": "À la demande du Haut Roi Kurgan Barbe de Fer, le maître des runes Alaric le Fou entreprend de forger douze épées runiques destinées aux chefs qui ont suivi Sigmar. Chaque lame est faite de gromril et chargée de runes puissantes. Leur fabrication prendra près d'un siècle.",
+      "en": "At the request of High King Kurgan Ironbeard, the Runesmith Alaric the Mad begins forging twelve runeswords for the chieftains who followed Sigmar. Each blade is made of gromril and bears powerful runes. Their making will take nearly a century.",
+      "de": "Auf Bitten von Hochkönig Kurgan Eisenbart beginnt der Runenschmied Alaric der Verrückte, zwölf Runenschwerter für die Stammesfürsten zu schmieden, die Sigmar gefolgt sind. Jede Klinge besteht aus Gromril und trägt mächtige Runen. Ihre Fertigstellung wird fast ein Jahrhundert dauern."
+    },
+    "ere": "empire-sigmarite",
+    "regions": [
+      "empire",
+      "montagnes"
+    ],
+    "lieux": [],
+    "factions": [
+      "empire",
+      "nains"
+    ],
+    "importance": 1,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Fantasy Roleplay, 4e édition (2018)",
+          "en": "Warhammer Fantasy Roleplay, 4th edition (2018)",
+          "de": "Warhammer Fantasy Roleplay, 4. Edition (2018)"
+        },
+        "detail": {
+          "fr": "chronologie du Reikland, p. 272-275",
+          "en": "Timeline of the Reikland, pp. 272-275",
+          "de": "Zeitleiste des Reiklands, S. 272-275"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Runefang",
+          "en": "Lexicanum, Runefang page",
+          "de": "Lexicanum, Seite Runefang"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Runefang"
+      }
+    ]
+  },
+  {
+    "id": "morkar-premiere-guerre-chaos",
+    "annee": 1,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Morkar l'Unificateur envahit l'Empire",
+      "en": "Morkar the Uniter invades the Empire",
+      "de": "Morkar der Einiger fällt ins Imperium ein"
+    },
+    "resume": {
+      "fr": "À peine l'Empire fondé, Morkar l'Unificateur, premier Élu du Chaos connu, lance une invasion depuis le nord. La guerre est dévastatrice pour le jeune royaume. Sigmar affronte Morkar et le tue, ce qui met fin à cette première guerre contre le Chaos.",
+      "en": "Barely after the Empire's founding, Morkar the Uniter, the first known Everchosen of Chaos, launches an invasion from the north. The war is devastating for the young realm. Sigmar faces Morkar and slays him, ending this first war against Chaos.",
+      "de": "Kaum ist das Imperium gegründet, beginnt Morkar der Einiger, der erste bekannte Auserkorene des Chaos, eine Invasion aus dem Norden. Der Krieg verwüstet das junge Reich. Sigmar stellt sich Morkar und erschlägt ihn, womit dieser erste Krieg gegen das Chaos endet."
+    },
+    "ere": "empire-sigmarite",
+    "regions": [
+      "empire",
+      "norsca"
+    ],
+    "lieux": [],
+    "factions": [
+      "empire",
+      "chaos"
+    ],
+    "importance": 2,
+    "fiabilite": "divergent",
+    "note": {
+      "fr": "WFRP 4e place la guerre en 1 CI, alors que d'autres textes la situent seulement plus tard dans le règne de Sigmar, sans date.",
+      "en": "WFRP 4th edition places the war in 1 IC, while other texts only put it later in Sigmar's reign, without a date.",
+      "de": "WFRP 4. Edition verlegt den Krieg in das Jahr 1 IK, während andere Texte ihn ohne Datum in die spätere Regierungszeit Sigmars setzen."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Fantasy Roleplay, 4e édition (2018)",
+          "en": "Warhammer Fantasy Roleplay, 4th edition (2018)",
+          "de": "Warhammer Fantasy Roleplay, 4. Edition (2018)"
+        },
+        "detail": {
+          "fr": "chronologie du Reikland, p. 272-275",
+          "en": "Timeline of the Reikland, pp. 272-275",
+          "de": "Zeitleiste des Reiklands, S. 272-275"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page History of the Empire",
+          "en": "Lexicanum, History of the Empire page",
+          "de": "Lexicanum, Seite History of the Empire"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/History_of_the_Empire"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Sigmar",
+          "en": "Lexicanum, Sigmar page",
+          "de": "Lexicanum, Seite Sigmar"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Sigmar"
+      }
+    ]
+  },
+  {
+    "id": "siege-de-jutonsryk",
+    "annee": 1,
+    "fin": 3,
+    "approx": false,
+    "titre": {
+      "fr": "Siège de Jutonsryk",
+      "en": "Siege of Jutonsryk",
+      "de": "Belagerung von Jutonsryk"
+    },
+    "resume": {
+      "fr": "Les Jutones de Marius, qui ont refusé de combattre au Col du Feu Noir, restent la dernière tribu à rejeter l'autorité de Sigmar. L'empereur assiège Jutonsryk avec environ dix mille guerriers, et la ville tient deux ans avant de tomber. Marius prête alors serment et devient comte de l'Empire.",
+      "en": "The Jutones of Marius, who refused to fight at Black Fire Pass, remain the last tribe to reject Sigmar's authority. The Emperor lays siege to Jutonsryk with some ten thousand warriors, and the city holds for two years before falling. Marius then swears his oath and becomes a count of the Empire.",
+      "de": "Die Jutonen des Marius, die sich geweigert hatten, am Schwarzfeuerpass zu kämpfen, sind der letzte Stamm, der Sigmars Herrschaft ablehnt. Der Kaiser belagert Jutonsryk mit rund zehntausend Kriegern, und die Stadt hält zwei Jahre stand, bevor sie fällt. Marius leistet daraufhin den Schwur und wird Graf des Imperiums."
+    },
+    "ere": "empire-sigmarite",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [
+      "marienburg"
+    ],
+    "factions": [
+      "empire"
+    ],
+    "importance": 2,
+    "fiabilite": "incertain",
+    "note": {
+      "fr": "Dates de 1 à 3 CI et effectifs repris par Lexicanum d'après le roman Empire de Graham McNeill.",
+      "en": "Dates of 1 to 3 IC and troop numbers reported by Lexicanum from Graham McNeill's novel Empire.",
+      "de": "Die Jahre 1 bis 3 IK und die Truppenstärke übernimmt Lexicanum aus Graham McNeills Roman Empire."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Graham McNeill, Empire (2009), trilogie La Légende de Sigmar (Black Library)",
+          "en": "Graham McNeill, Empire (2009), The Legend of Sigmar trilogy (Black Library)",
+          "de": "Graham McNeill, Empire (2009), Trilogie The Legend of Sigmar (Black Library)"
+        },
+        "detail": "",
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Marienburg",
+          "en": "Lexicanum, Marienburg page",
+          "de": "Lexicanum, Seite Marienburg"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Marienburg"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Sigmar",
+          "en": "Lexicanum, Sigmar page",
+          "de": "Lexicanum, Seite Sigmar"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Sigmar"
+      }
+    ]
+  },
+  {
+    "id": "sigmar-nomme-les-comtes",
+    "annee": 2,
+    "fin": null,
+    "approx": true,
+    "titre": {
+      "fr": "Sigmar nomme ses comtes",
+      "en": "Sigmar names his counts",
+      "de": "Sigmar ernennt seine Grafen"
+    },
+    "resume": {
+      "fr": "Peu après son couronnement, Sigmar donne aux chefs des tribus vassales le titre de comtes. Chacun gouverne son peuple au nom de l'empereur. Cette noblesse tribale est l'ancêtre directe des futurs comtes électeurs.",
+      "en": "Shortly after his coronation, Sigmar gives the chiefs of the vassal tribes the title of counts. Each governs his people in the Emperor's name. This tribal nobility is the direct forebear of the future Elector Counts.",
+      "de": "Kurz nach seiner Krönung verleiht Sigmar den Häuptlingen der Vasallenstämme den Titel Graf. Jeder regiert sein Volk im Namen des Kaisers. Dieser Stammesadel ist der unmittelbare Vorläufer der späteren Kurfürsten."
+    },
+    "ere": "empire-sigmarite",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [
+      "altdorf"
+    ],
+    "factions": [
+      "empire"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Fantasy Roleplay, 4e édition (2018)",
+          "en": "Warhammer Fantasy Roleplay, 4th edition (2018)",
+          "de": "Warhammer Fantasy Roleplay, 4. Edition (2018)"
+        },
+        "detail": {
+          "fr": "chronologie du Reikland, p. 272-275",
+          "en": "Timeline of the Reikland, pp. 272-275",
+          "de": "Zeitleiste des Reiklands, S. 272-275"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page History of the Empire",
+          "en": "Lexicanum, History of the Empire page",
+          "de": "Lexicanum, Seite History of the Empire"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/History_of_the_Empire"
+      }
+    ]
+  },
+  {
+    "id": "morath-et-la-couronne-de-sorcellerie",
+    "annee": 7,
+    "fin": null,
+    "approx": true,
+    "titre": {
+      "fr": "Sigmar tue Morath et enferme la Couronne de Sorcellerie",
+      "en": "Sigmar slays Morath and locks away the Crown of Sorcery",
+      "de": "Sigmar tötet Morath und verschließt die Krone der Zauberei"
+    },
+    "resume": {
+      "fr": "Le nécromancien Morath, seigneur du Donjon d'Airain dans les Montagnes du Milieu, se sert de la Couronne de Nagash pour lever des légions de morts. Les guerriers de l'Empire les défont et Sigmar tue Morath. Il fait ensuite enfermer la couronne sous Reikdorf, ce qui attirera plus tard Nagash lui-même.",
+      "en": "The Necromancer Morath, lord of the Brass Keep in the Middle Mountains, uses the Crown of Nagash to raise legions of the dead. The Empire's warriors defeat them and Sigmar slays Morath. He then has the crown locked away beneath Reikdorf, which will later draw Nagash himself.",
+      "de": "Der Nekromant Morath, Herr der Messingfeste im Mittelgebirge, nutzt die Krone Nagashs, um Legionen von Toten zu erwecken. Die Krieger des Imperiums besiegen sie, und Sigmar tötet Morath. Danach lässt er die Krone unter Reikdorf verschließen, was später Nagash selbst anlocken wird."
+    },
+    "ere": "empire-sigmarite",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [
+      "donjon-d-airain",
+      "altdorf"
+    ],
+    "factions": [
+      "empire",
+      "vampires"
+    ],
+    "importance": 2,
+    "fiabilite": "incertain",
+    "note": {
+      "fr": "Date approximative (vers 7 CI) donnée par WFRP 4e. Le récit détaillé vient du roman Empire de Graham McNeill.",
+      "en": "Approximate date (around 7 IC) given by WFRP 4th edition. The detailed account comes from Graham McNeill's novel Empire.",
+      "de": "Ungefähres Datum (um 7 IK) nach WFRP 4. Edition. Die ausführliche Schilderung stammt aus Graham McNeills Roman Empire."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Fantasy Roleplay, 4e édition (2018)",
+          "en": "Warhammer Fantasy Roleplay, 4th edition (2018)",
+          "de": "Warhammer Fantasy Roleplay, 4. Edition (2018)"
+        },
+        "detail": {
+          "fr": "chronologie du Reikland, p. 272-275",
+          "en": "Timeline of the Reikland, pp. 272-275",
+          "de": "Zeitleiste des Reiklands, S. 272-275"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Graham McNeill, Empire (2009), trilogie La Légende de Sigmar (Black Library)",
+          "en": "Graham McNeill, Empire (2009), The Legend of Sigmar trilogy (Black Library)",
+          "de": "Graham McNeill, Empire (2009), Trilogie The Legend of Sigmar (Black Library)"
+        },
+        "detail": "",
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Sigmar",
+          "en": "Lexicanum, Sigmar page",
+          "de": "Lexicanum, Seite Sigmar"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Sigmar"
+      }
+    ]
+  },
+  {
+    "id": "premier-siege-de-middenheim",
+    "annee": 9,
+    "fin": null,
+    "approx": true,
+    "titre": {
+      "fr": "Premier siège de Middenheim",
+      "en": "First Siege of Middenheim",
+      "de": "Erste Belagerung Middenheims"
+    },
+    "resume": {
+      "fr": "Battu à la bataille de la crête du Nord, Sigmar se replie sur Middenheim pour attirer les envahisseurs norsii de Cormac Hache-sanglante et laisser aux autres comtes le temps de lever leurs armées. Poussé par le chaman Kar Odacen, Cormac assiège la ville avec environ seize mille guerriers, deux fois plus que les défenseurs. Le nain Alaric arrive avec cinq cents guerriers et le premier Croc runique, que Sigmar remet au comte Pendrag.",
+      "en": "Beaten at the Battle of the Northern Ridge, Sigmar falls back on Middenheim to draw in the Norsii invaders of Cormac Bloodaxe and give the other counts time to raise their armies. Urged on by the shaman Kar Odacen, Cormac besieges the city with some sixteen thousand warriors, twice the number of defenders. The Dwarf Alaric arrives with five hundred warriors and the first Runefang, which Sigmar gives to Count Pendrag.",
+      "de": "Nach der Niederlage in der Schlacht am Nördlichen Grat zieht sich Sigmar nach Middenheim zurück, um die Norsii-Invasoren des Cormac Blutaxt anzulocken und den anderen Grafen Zeit zum Aufstellen ihrer Heere zu verschaffen. Vom Schamanen Kar Odacen gedrängt, belagert Cormac die Stadt mit rund sechzehntausend Kriegern, doppelt so vielen wie die Verteidiger. Der Zwerg Alaric trifft mit fünfhundert Kriegern und dem ersten Runenfang ein, den Sigmar dem Grafen Pendrag übergibt."
+    },
+    "ere": "empire-sigmarite",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [
+      "middenheim"
+    ],
+    "factions": [
+      "empire",
+      "chaos",
+      "nains"
+    ],
+    "importance": 1,
+    "fiabilite": "incertain",
+    "note": {
+      "fr": "Épisode connu seulement par le roman Empire de Graham McNeill. Date approximative (vers 9 CI) proposée par Lexicanum.",
+      "en": "Episode known only from Graham McNeill's novel Empire. Approximate date (around 9 IC) suggested by Lexicanum.",
+      "de": "Episode nur aus Graham McNeills Roman Empire bekannt. Ungefähres Datum (um 9 IK) nach Lexicanum."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Graham McNeill, Empire (2009), trilogie La Légende de Sigmar (Black Library)",
+          "en": "Graham McNeill, Empire (2009), The Legend of Sigmar trilogy (Black Library)",
+          "de": "Graham McNeill, Empire (2009), Trilogie The Legend of Sigmar (Black Library)"
+        },
+        "detail": "",
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Middenheim",
+          "en": "Lexicanum, Middenheim page",
+          "de": "Lexicanum, Seite Middenheim"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Middenheim"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Runefang",
+          "en": "Lexicanum, Runefang page",
+          "de": "Lexicanum, Seite Runefang"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Runefang"
+      }
+    ]
+  },
+  {
+    "id": "bataille-de-drakenmoor",
+    "annee": 11,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Bataille de Drakenmoor",
+      "en": "Battle of Drakenmoor",
+      "de": "Schlacht von Drakenmoor"
+    },
+    "resume": {
+      "fr": "Le Grand Enchanteur Constant Drachenfels attaque Reikdorf à la tête d'une armée de gobelins et de démons. Sigmar le repousse et lui inflige sa première défaite connue. Drachenfels restera pendant des siècles l'un des pires ennemis de l'Empire.",
+      "en": "The Great Enchanter Constant Drachenfels attacks Reikdorf at the head of an army of Goblins and Daemons. Sigmar drives him back and inflicts on him his first known defeat. Drachenfels will remain one of the Empire's worst enemies for centuries.",
+      "de": "Der Große Verzauberer Constant Drachenfels greift Reikdorf mit einem Heer aus Goblins und Dämonen an. Sigmar schlägt ihn zurück und bringt ihm seine erste bekannte Niederlage bei. Drachenfels bleibt über Jahrhunderte einer der schlimmsten Feinde des Imperiums."
+    },
+    "ere": "empire-sigmarite",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [
+      "altdorf"
+    ],
+    "factions": [
+      "empire",
+      "chaos",
+      "peaux-vertes"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "Date de 11 CI donnée par la chronologie du Reikland de WFRP 4e.",
+      "en": "Date of 11 IC given by the Reikland timeline in WFRP 4th edition.",
+      "de": "Das Jahr 11 IK nennt die Zeitleiste des Reiklands in WFRP 4. Edition."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Fantasy Roleplay, 4e édition (2018)",
+          "en": "Warhammer Fantasy Roleplay, 4th edition (2018)",
+          "de": "Warhammer Fantasy Roleplay, 4. Edition (2018)"
+        },
+        "detail": {
+          "fr": "chronologie du Reikland, p. 272-275",
+          "en": "Timeline of the Reikland, pp. 272-275",
+          "de": "Zeitleiste des Reiklands, S. 272-275"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page History of the Empire",
+          "en": "Lexicanum, History of the Empire page",
+          "de": "Lexicanum, Seite History of the Empire"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/History_of_the_Empire"
+      }
+    ]
+  },
+  {
+    "id": "bataille-de-la-reik-nagash",
+    "annee": 15,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Sigmar abat Nagash sur la Reik",
+      "en": "Sigmar strikes down Nagash on the Reik",
+      "de": "Sigmar streckt Nagash am Reik nieder"
+    },
+    "resume": {
+      "fr": "Nagash le Grand Nécromancien envahit le jeune Empire avec une armée de morts-vivants pour reprendre sa Couronne de Sorcellerie. Au bord de la Reik, les hommes et leurs alliés nains sont près de céder, mais Sigmar frappe Nagash de Ghal Maraz et le détruit. Son armée se désagrège aussitôt, et la couronne reste sous la garde de l'Empire.",
+      "en": "Nagash the Great Necromancer invades the young Empire with an undead army to reclaim his Crown of Sorcery. On the banks of the Reik, the men and their Dwarf allies are close to breaking, but Sigmar strikes Nagash with Ghal Maraz and destroys him. His army collapses at once, and the crown remains in the Empire's keeping.",
+      "de": "Nagash der Große Nekromant fällt mit einem Heer von Untoten in das junge Imperium ein, um seine Krone der Zauberei zurückzufordern. Am Ufer des Reik stehen die Menschen und ihre zwergischen Verbündeten kurz vor dem Zusammenbruch, doch Sigmar trifft Nagash mit Ghal Maraz und vernichtet ihn. Sein Heer zerfällt sofort, und die Krone bleibt in der Obhut des Imperiums."
+    },
+    "ere": "empire-sigmarite",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [
+      "altdorf"
+    ],
+    "factions": [
+      "empire",
+      "nains",
+      "vampires"
+    ],
+    "importance": 3,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "La date de 15 CI est cohérente avec le retour de Nagash en 1681 CI, présenté comme survenant 1666 ans plus tard.",
+      "en": "The date of 15 IC is consistent with Nagash's return in 1681 IC, described as happening 1666 years later.",
+      "de": "Das Jahr 15 IK passt zu Nagashs Rückkehr im Jahr 1681 IK, die 1666 Jahre später stattfinden soll."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer: The Old World, livre de règles (2024)",
+          "en": "Warhammer: The Old World Rulebook (2024)",
+          "de": "Warhammer: The Old World, Regelbuch (2024)"
+        },
+        "detail": {
+          "fr": "Timeline of Legend, p. 22-29",
+          "en": "Timeline of Legend, pp. 22-29",
+          "de": "Timeline of Legend, S. 22-29"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Warhammer Fantasy Roleplay, 4e édition (2018)",
+          "en": "Warhammer Fantasy Roleplay, 4th edition (2018)",
+          "de": "Warhammer Fantasy Roleplay, 4. Edition (2018)"
+        },
+        "detail": {
+          "fr": "chronologie du Reikland, p. 272-275",
+          "en": "Timeline of the Reikland, pp. 272-275",
+          "de": "Zeitleiste des Reiklands, S. 272-275"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page History of the Empire",
+          "en": "Lexicanum, History of the Empire page",
+          "de": "Lexicanum, Seite History of the Empire"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/History_of_the_Empire"
+      }
+    ]
+  },
+  {
+    "id": "siegrich-et-hedrich",
+    "annee": 51,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Règnes de Siegrich puis d'Hedrich",
+      "en": "Reigns of Siegrich and then Hedrich",
+      "de": "Herrschaft Siegrichs und dann Hedrichs"
+    },
+    "resume": {
+      "fr": "Après le départ de Sigmar, les chefs tribaux élisent Siegrich, qui ne règne qu'un an. Hedrich des Unberogens lui succède en 51 CI et ramène la cour à Reikdorf. C'est sous son règne que les Crocs runiques sont remis aux comtes.",
+      "en": "After Sigmar's departure, the tribal chieftains elect Siegrich, who rules for only a year. Hedrich of the Unberogens succeeds him in 51 IC and brings the court back to Reikdorf. It is during his reign that the Runefangs are handed to the counts.",
+      "de": "Nach Sigmars Fortgang wählen die Stammesfürsten Siegrich, der nur ein Jahr regiert. Hedrich von den Unberogenen folgt ihm 51 IK nach und holt den Hof nach Reikdorf zurück. Unter seiner Herrschaft werden die Runenfänge an die Grafen übergeben."
+    },
+    "ere": "empire-sigmarite",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [
+      "altdorf"
+    ],
+    "factions": [
+      "empire"
+    ],
+    "importance": 1,
+    "fiabilite": "divergent",
+    "note": {
+      "fr": "Tome of Salvation fait de Siegrich un comte d'Averland, WFRP 4e un Asoborn, tribu de l'actuel Stirland.",
+      "en": "Tome of Salvation makes Siegrich a count of Averland, WFRP 4th edition an Asoborn, the tribe of present-day Stirland.",
+      "de": "Tome of Salvation macht Siegrich zu einem Grafen von Averland, WFRP 4. Edition zu einem Asoborn, dem Stamm des heutigen Stirland."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Tome of Salvation, Warhammer Fantasy Roleplay 2e édition (2007)",
+          "en": "Tome of Salvation, Warhammer Fantasy Roleplay 2nd edition (2007)",
+          "de": "Tome of Salvation, Warhammer Fantasy Roleplay 2. Edition (2007)"
+        },
+        "detail": {
+          "fr": "p. 15",
+          "en": "p. 15",
+          "de": "S. 15"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Warhammer Fantasy Roleplay, 4e édition (2018)",
+          "en": "Warhammer Fantasy Roleplay, 4th edition (2018)",
+          "de": "Warhammer Fantasy Roleplay, 4. Edition (2018)"
+        },
+        "detail": {
+          "fr": "chronologie du Reikland, p. 272-275",
+          "en": "Timeline of the Reikland, pp. 272-275",
+          "de": "Zeitleiste des Reiklands, S. 272-275"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Emperor",
+          "en": "Lexicanum, Emperor page",
+          "de": "Lexicanum, Seite Emperor"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Emperor"
+      }
+    ]
+  },
+  {
+    "id": "temple-d-ulric-a-middenheim",
+    "annee": 63,
+    "fin": 113,
+    "approx": true,
+    "titre": {
+      "fr": "Wulcan fonde le temple d'Ulric à Middenheim",
+      "en": "Wulcan founds the temple of Ulric in Middenheim",
+      "de": "Wulcan gründet den Tempel des Ulric in Middenheim"
+    },
+    "resume": {
+      "fr": "Wulcan, fils d'Artur et grand prêtre d'Ulric, reçoit une vision du dieu de l'hiver et des loups et consacre un temple à son culte sur le Fauschlag. L'édifice demande une cinquantaine d'années de travaux, et Wulcan vit assez longtemps pour le voir achevé. Middenheim devient le centre du culte d'Ulric.",
+      "en": "Wulcan, son of Artur and High Priest of Ulric, receives a vision from the god of winter and wolves and consecrates a temple to his cult atop the Fauschlag. The building takes about fifty years to complete, and Wulcan lives long enough to see it finished. Middenheim becomes the centre of the cult of Ulric.",
+      "de": "Wulcan, Sohn Arturs und Hohepriester des Ulric, empfängt eine Vision des Gottes des Winters und der Wölfe und weiht seinem Kult einen Tempel auf dem Fauschlag. Der Bau dauert etwa fünfzig Jahre, und Wulcan erlebt noch seine Vollendung. Middenheim wird zum Zentrum des Ulrickults."
+    },
+    "ere": "empire-sigmarite",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [
+      "middenheim"
+    ],
+    "factions": [
+      "empire"
+    ],
+    "importance": 2,
+    "fiabilite": "incertain",
+    "note": {
+      "fr": "Début en 63 CI selon Lexicanum. La fin vers 113 CI est déduite de la durée de cinquante ans.",
+      "en": "Start in 63 IC according to Lexicanum. The end around 113 IC is inferred from the fifty-year duration.",
+      "de": "Beginn 63 IK nach Lexicanum. Das Ende um 113 IK ergibt sich aus der Bauzeit von fünfzig Jahren."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Lexicanum, page Middenheim",
+          "en": "Lexicanum, Middenheim page",
+          "de": "Lexicanum, Seite Middenheim"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Middenheim"
+      }
+    ]
+  },
+  {
+    "id": "guilde-des-sorciers-de-middenheim",
+    "annee": 97,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Guilde des sorciers et alchimistes de Middenheim",
+      "en": "Wizards and Alchemists Guild of Middenheim",
+      "de": "Gilde der Zauberer und Alchemisten von Middenheim"
+    },
+    "resume": {
+      "fr": "Le graf Erich fonde à Middenheim une guilde des sorciers et des alchimistes, dont la grande magicienne et ses adjoints sont payés par la cité. Les mages sont encouragés à s'installer en ville et renforcent ses défenses par la magie. Bien avant les Collèges de Magie, c'est l'une des premières institutions magiques de l'Empire.",
+      "en": "Graf Erich founds a Wizards and Alchemists Guild in Middenheim, whose High Wizard and her deputies are paid by the city. Mages are encouraged to settle there and strengthen its defences with magic. Long before the Colleges of Magic, it is one of the first magical institutions of the Empire.",
+      "de": "Graf Erich gründet in Middenheim eine Gilde der Zauberer und Alchemisten, deren Hohe Zauberin und ihre Stellvertreter von der Stadt bezahlt werden. Magier werden ermutigt, sich dort niederzulassen, und verstärken die Verteidigung mit Magie. Lange vor den Magierakademien ist sie eine der ersten magischen Einrichtungen des Imperiums."
+    },
+    "ere": "empire-sigmarite",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [
+      "middenheim"
+    ],
+    "factions": [
+      "empire"
+    ],
+    "importance": 1,
+    "fiabilite": "incertain",
+    "note": {
+      "fr": "Date de 97 CI reprise par Lexicanum d'une seule source de jeu de rôle.",
+      "en": "Date of 97 IC reported by Lexicanum from a single roleplaying source.",
+      "de": "Das Jahr 97 IK übernimmt Lexicanum aus einer einzigen Rollenspielquelle."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Lexicanum, page Middenheim",
+          "en": "Lexicanum, Middenheim page",
+          "de": "Lexicanum, Seite Middenheim"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Middenheim"
+      }
+    ]
+  },
+  {
+    "id": "hedrich-remet-les-runecrocs",
+    "annee": 100,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Hedrich remet les Crocs runiques aux comtes",
+      "en": "Hedrich hands the Runefangs to the counts",
+      "de": "Hedrich übergibt die Runenfänge an die Grafen"
+    },
+    "resume": {
+      "fr": "L'empereur Hedrich reçoit d'Alaric le Fou les douze Crocs runiques et les confie aux comtes des provinces. Les épées deviennent l'insigne de la charge de comte électeur et se transmettent avec elle. Deux d'entre elles, celles du Drakwald et du Solland, survivront plus tard à la disparition de leur province.",
+      "en": "Emperor Hedrich receives the twelve Runefangs from Alaric the Mad and entrusts them to the counts of the provinces. The swords become the badge of office of the Elector Counts and pass down with the title. Two of them, those of Drakwald and Solland, will later outlive the loss of their province.",
+      "de": "Kaiser Hedrich erhält von Alaric dem Verrückten die zwölf Runenfänge und vertraut sie den Grafen der Provinzen an. Die Schwerter werden zum Amtszeichen der Kurfürsten und gehen mit dem Titel weiter. Zwei von ihnen, die des Drakwald und des Solland, werden später den Untergang ihrer Provinz überdauern."
+    },
+    "ere": "empire-sigmarite",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [
+      "altdorf"
+    ],
+    "factions": [
+      "empire",
+      "nains"
+    ],
+    "importance": 3,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "Les noms des Crocs runiques en français (Crocs runiques) et en allemand (Runenfänge) n'ont pas été vérifiés dans les éditions traduites.",
+      "en": "The French (Crocs runiques) and German (Runenfänge) names of the Runefangs have not been checked against the translated editions.",
+      "de": "Die französische (Crocs runiques) und deutsche (Runenfänge) Bezeichnung wurde nicht mit den übersetzten Ausgaben abgeglichen."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: The Empire, 8e édition (2012)",
+          "en": "Warhammer Armies: The Empire, 8th edition (2012)",
+          "de": "Warhammer Armies: The Empire, 8. Edition (2012)"
+        },
+        "detail": {
+          "fr": "chronologie de l'Empire, p. 16-17",
+          "en": "Timeline of the Empire, pp. 16-17",
+          "de": "Zeitleiste des Imperiums, S. 16-17"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Warhammer Fantasy Roleplay, 4e édition (2018)",
+          "en": "Warhammer Fantasy Roleplay, 4th edition (2018)",
+          "de": "Warhammer Fantasy Roleplay, 4. Edition (2018)"
+        },
+        "detail": {
+          "fr": "chronologie du Reikland, p. 272-275",
+          "en": "Timeline of the Reikland, pp. 272-275",
+          "de": "Zeitleiste des Reiklands, S. 272-275"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Runefang",
+          "en": "Lexicanum, Runefang page",
+          "de": "Lexicanum, Seite Runefang"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Runefang"
+      }
+    ]
+  },
+  {
+    "id": "fulk-installe-la-cour-a-nuln",
+    "annee": 100,
+    "fin": null,
+    "approx": true,
+    "titre": {
+      "fr": "Fulk installe la cour à Nuln",
+      "en": "Fulk moves the court to Nuln",
+      "de": "Fulk verlegt den Hof nach Nuln"
+    },
+    "resume": {
+      "fr": "Vers 100 CI, l'empereur Fulk déplace la capitale à Nuln, qu'il agrandit considérablement, et confirme Sigmar comme dieu officiel de l'Empire. La ville, déjà siège du comte de Wissenland, attire Nains et marchands. Plus tard, l'impératrice Agnetha y fonde les premiers collèges qui feront de Nuln une cité universitaire.",
+      "en": "Around 100 IC, Emperor Fulk moves the capital to Nuln, which he greatly expands, and confirms Sigmar as the official god of the Empire. The city, already the seat of the Count of Wissenland, draws Dwarfs and merchants. Later, Empress Agnetha founds there the first colleges that will make Nuln a university city.",
+      "de": "Um 100 IK verlegt Kaiser Fulk die Hauptstadt nach Nuln, das er stark erweitert, und bestätigt Sigmar als offiziellen Gott des Imperiums. Die Stadt, bereits Sitz des Grafen von Wissenland, zieht Zwerge und Händler an. Später gründet Kaiserin Agnetha dort die ersten Kollegien, die Nuln zur Universitätsstadt machen."
+    },
+    "ere": "empire-sigmarite",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [
+      "nuln"
+    ],
+    "factions": [
+      "empire"
+    ],
+    "importance": 1,
+    "fiabilite": "incertain",
+    "note": {
+      "fr": "Date approximative. Le règne d'Agnetha est seulement dit postérieur à celui de Fulk.",
+      "en": "Approximate date. Agnetha's reign is only said to come after Fulk's.",
+      "de": "Ungefähres Datum. Agnethas Herrschaft wird nur als nach der Fulks liegend beschrieben."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2e édition (2005)",
+          "en": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2nd edition (2005)",
+          "de": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2. Edition (2005)"
+        },
+        "detail": {
+          "fr": "p. 14",
+          "en": "p. 14",
+          "de": "S. 14"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Forges of Nuln, Warhammer Fantasy Roleplay 2e édition (2007)",
+          "en": "Forges of Nuln, Warhammer Fantasy Roleplay 2nd edition (2007)",
+          "de": "Forges of Nuln, Warhammer Fantasy Roleplay 2. Edition (2007)"
+        },
+        "detail": {
+          "fr": "p. 6",
+          "en": "p. 6",
+          "de": "S. 6"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Nuln",
+          "en": "Lexicanum, Nuln page",
+          "de": "Lexicanum, Seite Nuln"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Nuln"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Emperor",
+          "en": "Lexicanum, Emperor page",
+          "de": "Lexicanum, Seite Emperor"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Emperor"
+      }
+    ]
+  },
+  {
+    "id": "grand-temple-de-sigmar-a-reikdorf",
+    "annee": 246,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Achèvement du Grand Temple de Sigmar",
+      "en": "Completion of the High Temple of Sigmar",
+      "de": "Vollendung des Hohen Tempels des Sigmar"
+    },
+    "resume": {
+      "fr": "Le Grand Temple de Sigmar est achevé à Reikdorf. L'expansion rapide du culte à travers les provinces provoque des heurts avec les fidèles de Taal et surtout d'Ulric, qui refusent de reconnaître la divinité de Sigmar. Cette rivalité religieuse deviendra une ligne de fracture politique durable.",
+      "en": "The High Temple of Sigmar is completed in Reikdorf. The cult's rapid spread across the provinces leads to clashes with the followers of Taal and above all of Ulric, who refuse to accept Sigmar's divinity. This religious rivalry will become a lasting political fault line.",
+      "de": "Der Hohe Tempel des Sigmar in Reikdorf wird vollendet. Die rasche Ausbreitung des Kults in den Provinzen führt zu Zusammenstößen mit den Anhängern Taals und vor allem Ulrics, die Sigmars Göttlichkeit nicht anerkennen. Diese religiöse Rivalität wird zu einer dauerhaften politischen Bruchlinie."
+    },
+    "ere": "empire-sigmarite",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [
+      "altdorf"
+    ],
+    "factions": [
+      "empire"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Fantasy Roleplay, 4e édition (2018)",
+          "en": "Warhammer Fantasy Roleplay, 4th edition (2018)",
+          "de": "Warhammer Fantasy Roleplay, 4. Edition (2018)"
+        },
+        "detail": {
+          "fr": "chronologie du Reikland, p. 272-275",
+          "en": "Timeline of the Reikland, pp. 272-275",
+          "de": "Zeitleiste des Reiklands, S. 272-275"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page History of the Empire",
+          "en": "Lexicanum, History of the Empire page",
+          "de": "Lexicanum, Seite History of the Empire"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/History_of_the_Empire"
+      }
+    ]
+  },
+  {
+    "id": "mort-de-wilhelm-ier",
+    "annee": 263,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Mort de l'empereur Wilhelm Ier",
+      "en": "Death of Emperor Wilhelm I",
+      "de": "Tod Kaiser Wilhelms I."
+    },
+    "resume": {
+      "fr": "Wilhelm Ier, tyran vaniteux, meurt après avoir défié les rites funéraires de Morr. Selon la tradition d'Altdorf, il hante depuis les Jardins de Morr de la capitale sous la forme d'un revenant. Il incarne la crainte des Impériaux envers ceux qui négligent les morts.",
+      "en": "Wilhelm I, a vain tyrant, dies after defying the burial rites of Morr. According to Altdorf tradition, he has haunted the capital's Gardens of Morr ever since as a Wight. He embodies the Imperial fear of those who neglect the dead.",
+      "de": "Wilhelm I., ein eitler Tyrann, stirbt, nachdem er sich den Bestattungsriten Morrs widersetzt hat. Der Überlieferung Altdorfs zufolge spukt er seitdem als Grabunhold in den Gärten Morrs der Hauptstadt. Er verkörpert die Furcht der Imperialen vor jenen, die die Toten missachten."
+    },
+    "ere": "empire-sigmarite",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [
+      "altdorf"
+    ],
+    "factions": [
+      "empire"
+    ],
+    "importance": 1,
+    "fiabilite": "incertain",
+    "note": {
+      "fr": "Seule l'année de fin de règne est connue, par un supplément récent de WFRP.",
+      "en": "Only the year his reign ended is known, from a recent WFRP supplement.",
+      "de": "Bekannt ist nur das Jahr seines Herrschaftsendes, aus einem neueren WFRP-Ergänzungsband."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Altdorf: Crown of the Empire, Warhammer Fantasy Roleplay 4e édition",
+          "en": "Altdorf: Crown of the Empire, Warhammer Fantasy Roleplay 4th edition",
+          "de": "Altdorf: Crown of the Empire, Warhammer Fantasy Roleplay 4. Edition"
+        },
+        "detail": {
+          "fr": "p. 14, 55",
+          "en": "p. 14, 55",
+          "de": "S. 14, 55"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Emperor",
+          "en": "Lexicanum, Emperor page",
+          "de": "Lexicanum, Seite Emperor"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Emperor"
+      }
+    ]
+  },
+  {
+    "id": "hundrod-tue-mascar",
+    "annee": 322,
+    "fin": null,
+    "approx": true,
+    "titre": {
+      "fr": "Hündrod le Furieux tue le dragon Mascar",
+      "en": "Hündrod the Furious slays the dragon Mascar",
+      "de": "Hündrod der Wütende erschlägt den Drachen Mascar"
+    },
+    "resume": {
+      "fr": "L'empereur Hündrod le Furieux affronte et tue Mascar le Grand, un dragon qui terrorise la forêt du Drakwald. L'exploit fait de lui l'un des empereurs guerriers les plus célèbres des premiers siècles. Le Drakwald reste néanmoins une région sauvage et dangereuse.",
+      "en": "Emperor Hündrod the Furious faces and slays Mascar the Great, a dragon terrorising the Drakwald Forest. The feat makes him one of the most famous warrior emperors of the early centuries. The Drakwald nonetheless remains a wild and dangerous region.",
+      "de": "Kaiser Hündrod der Wütende stellt und erschlägt Mascar den Großen, einen Drachen, der den Drakwald in Angst und Schrecken versetzt. Die Tat macht ihn zu einem der berühmtesten Kriegerkaiser der frühen Jahrhunderte. Der Drakwald bleibt dennoch eine wilde und gefährliche Gegend."
+    },
+    "ere": "empire-sigmarite",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [
+      "foret-de-drakwald"
+    ],
+    "factions": [
+      "empire"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "Date donnée vers 322 CI par Sigmar's Heirs.",
+      "en": "Date given as around 322 IC by Sigmar's Heirs.",
+      "de": "Datum nach Sigmar's Heirs um 322 IK."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2e édition (2005)",
+          "en": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2nd edition (2005)",
+          "de": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2. Edition (2005)"
+        },
+        "detail": {
+          "fr": "p. 7, 20",
+          "en": "p. 7, 20",
+          "de": "S. 7, 20"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Drakwald",
+          "en": "Lexicanum, Drakwald page",
+          "de": "Lexicanum, Seite Drakwald"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Drakwald"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Emperor",
+          "en": "Lexicanum, Emperor page",
+          "de": "Lexicanum, Seite Emperor"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Emperor"
+      }
+    ]
+  },
+  {
+    "id": "sigismund-ii-conquiert-marienburg",
+    "annee": 501,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Sigismund II annexe Marienburg",
+      "en": "Sigismund II annexes Marienburg",
+      "de": "Sigismund II. gliedert Marienburg ein"
+    },
+    "resume": {
+      "fr": "L'empereur Sigismund II le Conquérant soumet Marienburg, Lichtenholm et la Marche de l'Ouest. L'ancien roi des Jutones devient baron du Westerland, vassal de l'empereur. Marienburg, déjà grand port, entre ainsi pleinement dans l'Empire.",
+      "en": "Emperor Sigismund II the Conqueror subdues Marienburg, Lichtenholm and the West Mark. The former king of the Jutones becomes Baron of Westerland, a vassal of the Emperor. Marienburg, already a major port, thus fully enters the Empire.",
+      "de": "Kaiser Sigismund II. der Eroberer unterwirft Marienburg, Lichtenholm und die Westmark. Der frühere König der Jutonen wird Baron von Westerland und Vasall des Kaisers. Marienburg, bereits ein bedeutender Hafen, wird damit voll in das Imperium eingegliedert."
+    },
+    "ere": "empire-sigmarite",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [
+      "marienburg"
+    ],
+    "factions": [
+      "empire"
+    ],
+    "importance": 2,
+    "fiabilite": "divergent",
+    "note": {
+      "fr": "Le règne de Sigismund II est daté de 479 à 505 CI par le livre de règles de la 8e édition, mais Altdorf: Crown of the Empire le fait encore régner en 522 CI.",
+      "en": "Sigismund II's reign is dated 479 to 505 IC by the 8th edition rulebook, but Altdorf: Crown of the Empire still has him ruling in 522 IC.",
+      "de": "Das Regelbuch der 8. Edition datiert Sigismunds II. Herrschaft auf 479 bis 505 IK, doch in Altdorf: Crown of the Empire regiert er noch 522 IK."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer: The Old World, livre de règles (2024)",
+          "en": "Warhammer: The Old World Rulebook (2024)",
+          "de": "Warhammer: The Old World, Regelbuch (2024)"
+        },
+        "detail": {
+          "fr": "Timeline of Legend, p. 22-29",
+          "en": "Timeline of Legend, pp. 22-29",
+          "de": "Timeline of Legend, S. 22-29"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Marienburg: Sold Down the River, Warhammer Fantasy Roleplay 1re édition (2001)",
+          "en": "Marienburg: Sold Down the River, Warhammer Fantasy Roleplay 1st edition (2001)",
+          "de": "Marienburg: Sold Down the River, Warhammer Fantasy Roleplay 1. Edition (2001)"
+        },
+        "detail": {
+          "fr": "p. 18, 21",
+          "en": "pp. 18, 21",
+          "de": "S. 18, 21"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Marienburg",
+          "en": "Lexicanum, Marienburg page",
+          "de": "Lexicanum, Seite Marienburg"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Marienburg"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Emperor",
+          "en": "Lexicanum, Emperor page",
+          "de": "Lexicanum, Seite Emperor"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Emperor"
+      }
+    ]
+  },
+  {
+    "id": "siegfried-le-legislateur-a-nuln",
+    "annee": 505,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Siegfried le Législateur quitte Altdorf pour Nuln",
+      "en": "Siegfried the Lawgiver leaves Altdorf for Nuln",
+      "de": "Siegfried der Gesetzgeber verlässt Altdorf für Nuln"
+    },
+    "resume": {
+      "fr": "Fils de Sigismund II, Siegfried le Législateur monte sur le trône et transfère la cour à Nuln. Il surnomme Altdorf « la Grande Puanteur », signe du peu d'estime qu'il porte à la ville. La capitale impériale continue ainsi de se déplacer au gré des dynasties.",
+      "en": "Son of Sigismund II, Siegfried the Lawgiver takes the throne and moves the court to Nuln. He nicknames Altdorf \"the Great Reek\", a sign of his low regard for the city. The imperial capital thus keeps moving with each dynasty.",
+      "de": "Siegfried der Gesetzgeber, Sohn Sigismunds II., besteigt den Thron und verlegt den Hof nach Nuln. Er nennt Altdorf „den Großen Gestank“, ein Zeichen seiner geringen Wertschätzung für die Stadt. Die kaiserliche Hauptstadt wandert so weiter mit den Dynastien."
+    },
+    "ere": "empire-sigmarite",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [
+      "nuln",
+      "altdorf"
+    ],
+    "factions": [
+      "empire"
+    ],
+    "importance": 1,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Altdorf: Crown of the Empire, Warhammer Fantasy Roleplay 4e édition",
+          "en": "Altdorf: Crown of the Empire, Warhammer Fantasy Roleplay 4th edition",
+          "de": "Altdorf: Crown of the Empire, Warhammer Fantasy Roleplay 4. Edition"
+        },
+        "detail": {
+          "fr": "p. 4, 10, 14",
+          "en": "p. 4, 10, 14",
+          "de": "S. 4, 10, 14"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Emperor",
+          "en": "Lexicanum, Emperor page",
+          "de": "Lexicanum, Seite Emperor"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Emperor"
+      }
+    ]
+  },
+  {
+    "id": "middenheim-province-electorale",
+    "annee": 555,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Middenheim obtient le statut de province",
+      "en": "Middenheim gains provincial status",
+      "de": "Middenheim erhält den Status einer Provinz"
+    },
+    "resume": {
+      "fr": "Sur fond de rivalité croissante entre les cultes de Sigmar et d'Ulric, le graf Wulfgaeng fait pression sur l'empereur pour que Middenheim soit reconnue comme province à part entière. Il obtient gain de cause, et la charge de Chevalier éternel est créée à la même époque. La cité du Loup blanc affirme ainsi son autonomie face au Middenland.",
+      "en": "Amid growing rivalry between the cults of Sigmar and Ulric, Graf Wulfgaeng presses the Emperor to recognise Middenheim as a province in its own right. He succeeds, and the office of Knight Eternal is created at the same time. The City of the White Wolf thus asserts its independence from Middenland.",
+      "de": "Vor dem Hintergrund der wachsenden Rivalität zwischen den Kulten Sigmars und Ulrics drängt Graf Wulfgaeng den Kaiser, Middenheim als eigene Provinz anzuerkennen. Er hat Erfolg, und zur selben Zeit wird das Amt des Ewigen Ritters geschaffen. Die Stadt des Weißen Wolfs behauptet so ihre Eigenständigkeit gegenüber dem Middenland."
+    },
+    "ere": "empire-sigmarite",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [
+      "middenheim"
+    ],
+    "factions": [
+      "empire"
+    ],
+    "importance": 1,
+    "fiabilite": "incertain",
+    "note": {
+      "fr": "Lexicanum signale que ce passage n'est pas sourcé.",
+      "en": "Lexicanum flags this passage as unsourced.",
+      "de": "Lexicanum kennzeichnet diesen Abschnitt als unbelegt."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Lexicanum, page Middenheim",
+          "en": "Lexicanum, Middenheim page",
+          "de": "Lexicanum, Seite Middenheim"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Middenheim"
+      }
+    ]
+  },
+  {
+    "id": "hasso-cree-la-flotte-imperiale",
+    "annee": 632,
+    "fin": null,
+    "approx": true,
+    "titre": {
+      "fr": "Hasso crée la flotte impériale",
+      "en": "Hasso creates the Imperial Navy",
+      "de": "Hasso gründet die kaiserliche Flotte"
+    },
+    "resume": {
+      "fr": "Les pillards norses ravagent régulièrement les côtes, et Marienburg est incendiée pour la première fois. Pour leur faire face, l'empereur Hasso crée une flotte impériale. C'est la première tentative de l'Empire de défendre ses côtes par la mer.",
+      "en": "Norse raiders regularly ravage the coasts, and Marienburg is burned to the ground for the first time. To counter them, Emperor Hasso creates an Imperial Navy. It is the Empire's first attempt to defend its coasts by sea.",
+      "de": "Nordländische Plünderer verwüsten regelmäßig die Küsten, und Marienburg wird zum ersten Mal niedergebrannt. Um ihnen zu begegnen, gründet Kaiser Hasso eine kaiserliche Flotte. Es ist der erste Versuch des Imperiums, seine Küsten von See aus zu verteidigen."
+    },
+    "ere": "empire-sigmarite",
+    "regions": [
+      "empire",
+      "norsca"
+    ],
+    "lieux": [
+      "marienburg"
+    ],
+    "factions": [
+      "empire",
+      "humains-autres"
+    ],
+    "importance": 2,
+    "fiabilite": "incertain",
+    "note": {
+      "fr": "Date donnée vers 632 CI. Le rapprochement entre le règne de Hasso et l'incendie de Marienburg repose sur deux sources différentes de même date.",
+      "en": "Date given as around 632 IC. The link between Hasso's reign and the burning of Marienburg rests on two separate sources giving the same date.",
+      "de": "Datum um 632 IK. Die Verbindung zwischen Hassos Herrschaft und dem Brand Marienburgs beruht auf zwei verschiedenen Quellen mit gleichem Datum."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Sea of Claws, Warhammer Fantasy Roleplay 2e édition (2008)",
+          "en": "Sea of Claws, Warhammer Fantasy Roleplay 2nd edition (2008)",
+          "de": "Sea of Claws, Warhammer Fantasy Roleplay 2. Edition (2008)"
+        },
+        "detail": {
+          "fr": "p. 6",
+          "en": "p. 6",
+          "de": "S. 6"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Marienburg: Sold Down the River, Warhammer Fantasy Roleplay 1re édition (2001)",
+          "en": "Marienburg: Sold Down the River, Warhammer Fantasy Roleplay 1st edition (2001)",
+          "de": "Marienburg: Sold Down the River, Warhammer Fantasy Roleplay 1. Edition (2001)"
+        },
+        "detail": {
+          "fr": "chronologie de Marienburg",
+          "en": "timeline of Marienburg",
+          "de": "Zeitleiste Marienburgs"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Emperor",
+          "en": "Lexicanum, Emperor page",
+          "de": "Lexicanum, Seite Emperor"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Emperor"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Marienburg",
+          "en": "Lexicanum, Marienburg page",
+          "de": "Lexicanum, Seite Marienburg"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Marienburg"
+      }
+    ]
+  },
+  {
+    "id": "siegfried-ier-bataille-des-destins",
+    "annee": 732,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Mort de Siegfried Ier à la bataille des Destins",
+      "en": "Death of Siegfried I at the Battle of Fates",
+      "de": "Tod Siegfrieds I. in der Schicksalsschlacht"
+    },
+    "resume": {
+      "fr": "Empereur corrompu et belliqueux depuis 677 CI, Siegfried Ier périt pendant la bataille des Destins, brûlé par accident par son propre dragon. Sa mort met fin à un règne de plus d'un demi-siècle. L'épisode reste l'un des plus étranges de la liste des empereurs.",
+      "en": "A corrupt and warlike Emperor since 677 IC, Siegfried I dies during the Battle of Fates, accidentally burned to a crisp by his own dragon. His death ends a reign of more than half a century. The episode remains one of the strangest in the list of emperors.",
+      "de": "Siegfried I., seit 677 IK ein korrupter und kriegslüsterner Kaiser, kommt in der Schicksalsschlacht ums Leben, als ihn sein eigener Drache versehentlich verbrennt. Sein Tod beendet eine Herrschaft von mehr als einem halben Jahrhundert. Die Episode bleibt eine der seltsamsten in der Liste der Kaiser."
+    },
+    "ere": "empire-sigmarite",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [],
+    "factions": [
+      "empire"
+    ],
+    "importance": 1,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "Dates de règne de 677 à 732 CI données par le livre de règles de la 8e édition.",
+      "en": "Reign dates of 677 to 732 IC given by the 8th edition rulebook.",
+      "de": "Regierungsjahre 677 bis 732 IK nach dem Regelbuch der 8. Edition."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer, livre de règles 8e édition (2010)",
+          "en": "Warhammer Rulebook, 8th edition (2010)",
+          "de": "Warhammer Regelbuch, 8. Edition (2010)"
+        },
+        "detail": {
+          "fr": "p. 172",
+          "en": "p. 172",
+          "de": "S. 172"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Altdorf: Crown of the Empire, Warhammer Fantasy Roleplay 4e édition",
+          "en": "Altdorf: Crown of the Empire, Warhammer Fantasy Roleplay 4th edition",
+          "de": "Altdorf: Crown of the Empire, Warhammer Fantasy Roleplay 4. Edition"
+        },
+        "detail": {
+          "fr": "p. 13",
+          "en": "p. 13",
+          "de": "S. 13"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Emperor",
+          "en": "Lexicanum, Emperor page",
+          "de": "Lexicanum, Seite Emperor"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Emperor"
+      }
+    ]
+  },
+  {
+    "id": "traite-de-traktatsey",
+    "annee": 765,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Traité de Traktatsey",
+      "en": "Treaty of Traktatsey",
+      "de": "Vertrag von Traktatsey"
+    },
+    "resume": {
+      "fr": "Conclu lors d'un althing, le traité de Traktatsey met fin aux longues guerres entre les Norses et l'Empire et ouvre la voie au commerce. Marienburg en tire un grand profit. Le document, conservé à la bibliothèque de l'université de la ville, est la plus ancienne trace écrite de Marienburg qui subsiste.",
+      "en": "Concluded at an althing, the Treaty of Traktatsey ends the long wars between the Norse and the Empire and opens the way to trade. Marienburg profits greatly from it. The document, kept in the city's university library, is the oldest surviving written record of Marienburg.",
+      "de": "Der auf einem Althing geschlossene Vertrag von Traktatsey beendet die langen Kriege zwischen den Nordländern und dem Imperium und ebnet den Weg für den Handel. Marienburg profitiert stark davon. Das Dokument, das in der Universitätsbibliothek der Stadt aufbewahrt wird, ist das älteste erhaltene Schriftzeugnis Marienburgs."
+    },
+    "ere": "empire-sigmarite",
+    "regions": [
+      "empire",
+      "norsca"
+    ],
+    "lieux": [
+      "marienburg"
+    ],
+    "factions": [
+      "empire",
+      "humains-autres"
+    ],
+    "importance": 1,
+    "fiabilite": "incertain",
+    "note": {
+      "fr": "Source unique, la chronologie de Marienburg du jeu de rôle (1re édition).",
+      "en": "Single source, the Marienburg timeline of the roleplaying game (1st edition).",
+      "de": "Einzige Quelle ist die Marienburg-Zeitleiste des Rollenspiels (1. Edition)."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Marienburg: Sold Down the River, Warhammer Fantasy Roleplay 1re édition (2001)",
+          "en": "Marienburg: Sold Down the River, Warhammer Fantasy Roleplay 1st edition (2001)",
+          "de": "Marienburg: Sold Down the River, Warhammer Fantasy Roleplay 1. Edition (2001)"
+        },
+        "detail": {
+          "fr": "chronologie de Marienburg",
+          "en": "timeline of Marienburg",
+          "de": "Zeitleiste Marienburgs"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Marienburg",
+          "en": "Lexicanum, Marienburg page",
+          "de": "Lexicanum, Seite Marienburg"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Marienburg"
+      }
+    ]
+  },
+  {
+    "id": "joachim-ii-brule-stimmigen",
+    "annee": 852,
+    "fin": null,
+    "approx": true,
+    "titre": {
+      "fr": "Joachim II brûle Stimmigen",
+      "en": "Joachim II burns Stimmigen",
+      "de": "Joachim II. brennt Stimmigen nieder"
+    },
+    "resume": {
+      "fr": "L'empereur Joachim II, surnommé l'Empereur répurgateur, apprend que le conseil de la ville de Stimmigen a eu recours aux services d'un sorcier. Il fait incendier la ville entière. L'épisode illustre la méfiance extrême de l'Empire envers la magie, bien avant la fondation des Collèges.",
+      "en": "Emperor Joachim II, known as the Witch Hunter Emperor, learns that the council of the town of Stimmigen has used the services of a sorcerer. He has the entire town put to the torch. The episode illustrates the Empire's extreme distrust of magic, long before the Colleges were founded.",
+      "de": "Kaiser Joachim II., der Hexenjäger-Kaiser genannt, erfährt, dass der Rat der Stadt Stimmigen die Dienste eines Zauberers in Anspruch genommen hat. Er lässt die ganze Stadt niederbrennen. Die Episode zeigt das tiefe Misstrauen des Imperiums gegenüber der Magie, lange vor der Gründung der Akademien."
+    },
+    "ere": "empire-sigmarite",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [],
+    "factions": [
+      "empire"
+    ],
+    "importance": 1,
+    "fiabilite": "incertain",
+    "note": {
+      "fr": "Date donnée vers 852 CI par une source unique (Winds of Magic).",
+      "en": "Date given as around 852 IC by a single source (Winds of Magic).",
+      "de": "Datum um 852 IK nach einer einzigen Quelle (Winds of Magic)."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Winds of Magic, Warhammer Fantasy Roleplay 2e édition (2007)",
+          "en": "Winds of Magic, Warhammer Fantasy Roleplay 2nd edition (2007)",
+          "de": "Winds of Magic, Warhammer Fantasy Roleplay 2. Edition (2007)"
+        },
+        "detail": {
+          "fr": "p. 10",
+          "en": "p. 10",
+          "de": "S. 10"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Emperor",
+          "en": "Lexicanum, Emperor page",
+          "de": "Lexicanum, Seite Emperor"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Emperor"
+      }
+    ]
+  },
+  {
+    "id": "desastre-de-laurelorn",
+    "annee": 897,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Désastre du Drakwald dans la Laurelorn",
+      "en": "Drakwald disaster in the Laurelorn",
+      "de": "Niederlage des Drakwald im Laurelorn"
+    },
+    "resume": {
+      "fr": "Les comtes du Drakwald, comme ceux du Middenland et du Westerland, convoitent la forêt de Laurelorn, mais ses Elfes repoussent toutes les tentatives de conquête. En 897 CI, ils écrasent l'armée d'un comte du Drakwald dont l'histoire n'a retenu que le surnom, « le Malchanceux ». Cette défaite amorce le déclin de la province.",
+      "en": "The counts of Drakwald, like those of Middenland and Westerland, covet the Laurelorn Forest, but its Elves repel every attempt at conquest. In 897 IC they crush the army of a Drakwald count whom history remembers only by his nickname, \"the Unlucky\". This defeat begins the province's decline.",
+      "de": "Die Grafen des Drakwald begehren wie die des Middenlands und Westerlands den Laurelorn-Wald, doch dessen Elfen wehren jeden Eroberungsversuch ab. 897 IK vernichten sie das Heer eines Drakwalder Grafen, den die Geschichte nur unter seinem Beinamen „der Glücklose“ kennt. Diese Niederlage leitet den Niedergang der Provinz ein."
+    },
+    "ere": "empire-sigmarite",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [
+      "foret-de-laurelorn"
+    ],
+    "factions": [
+      "empire",
+      "elfes-sylvains"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2e édition (2005)",
+          "en": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2nd edition (2005)",
+          "de": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2. Edition (2005)"
+        },
+        "detail": {
+          "fr": "p. 14-15",
+          "en": "p. 14-15",
+          "de": "S. 14-15"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Drakwald",
+          "en": "Lexicanum, Drakwald page",
+          "de": "Lexicanum, Seite Drakwald"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Drakwald"
+      }
+    ]
+  },
+  {
+    "id": "vote-du-grand-theogoniste",
+    "annee": 990,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Le Grand Théogoniste devient électeur",
+      "en": "The Grand Theogonist becomes an Elector",
+      "de": "Der Großtheogonist wird Kurfürst"
+    },
+    "resume": {
+      "fr": "L'empereur Ludwig le Gros accorde au Grand Théogoniste une voix dans l'élection impériale. Ce favoritisme est vivement critiqué, d'autant que l'empereur semble surtout sensible aux banquets offerts par le culte de Sigmar. Le collège électoral n'est plus seulement une affaire de comtes, et l'Église sigmarite y gagne un poids politique durable.",
+      "en": "Emperor Ludwig the Fat grants the Grand Theogonist a vote in the imperial election. The blatant favouritism is heavily criticised, all the more since the Emperor seems mostly swayed by the feasts offered by the cult of Sigmar. The electoral college is no longer a matter for counts alone, and the Sigmarite church gains lasting political weight.",
+      "de": "Kaiser Ludwig der Dicke gewährt dem Großtheogonisten eine Stimme bei der Kaiserwahl. Die offene Bevorzugung wird scharf kritisiert, zumal der Kaiser vor allem für die Festmähler des Sigmarkults empfänglich scheint. Das Wahlkollegium ist nicht mehr nur Sache der Grafen, und die sigmaritische Kirche gewinnt dauerhaftes politisches Gewicht."
+    },
+    "ere": "empire-sigmarite",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [
+      "altdorf"
+    ],
+    "factions": [
+      "empire"
+    ],
+    "importance": 3,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Fantasy Roleplay, 4e édition (2018)",
+          "en": "Warhammer Fantasy Roleplay, 4th edition (2018)",
+          "de": "Warhammer Fantasy Roleplay, 4. Edition (2018)"
+        },
+        "detail": {
+          "fr": "chronologie du Reikland, p. 272-275",
+          "en": "Timeline of the Reikland, pp. 272-275",
+          "de": "Zeitleiste des Reiklands, S. 272-275"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Warhammer Armies: The Empire, 7e édition (2006)",
+          "en": "Warhammer Armies: The Empire, 7th edition (2006)",
+          "de": "Warhammer Armies: The Empire, 7. Edition (2006)"
+        },
+        "detail": {
+          "fr": "chronologie, p. 30-31",
+          "en": "timeline, pp. 30-31",
+          "de": "Zeitleiste, S. 30-31"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page History of the Empire",
+          "en": "Lexicanum, History of the Empire page",
+          "de": "Lexicanum, Seite History of the Empire"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/History_of_the_Empire"
+      }
+    ]
+  },
+  {
+    "id": "reikdorf-devient-altdorf",
+    "annee": 1000,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Reikdorf devient Altdorf",
+      "en": "Reikdorf becomes Altdorf",
+      "de": "Aus Reikdorf wird Altdorf"
+    },
+    "resume": {
+      "fr": "Pour le millénaire du couronnement de Sigmar, le culte achève un nouveau Grand Temple à Reikdorf. L'empereur Ludwig le Gros rebaptise sa ville Altdorf afin de souligner son rang dans l'Empire. Le nom de la cité natale de Sigmar disparaît alors de l'usage.",
+      "en": "For the millennium of Sigmar's coronation, the cult completes a new High Temple in Reikdorf. Emperor Ludwig the Fat renames his city Altdorf to underline its standing in the Empire. The name of Sigmar's birthplace then falls out of use.",
+      "de": "Zum tausendsten Jahrestag der Krönung Sigmars vollendet der Kult einen neuen Hohen Tempel in Reikdorf. Kaiser Ludwig der Dicke benennt seine Stadt in Altdorf um, um ihren Rang im Imperium zu unterstreichen. Der Name von Sigmars Geburtsort gerät daraufhin außer Gebrauch."
+    },
+    "ere": "empire-sigmarite",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [
+      "altdorf"
+    ],
+    "factions": [
+      "empire"
+    ],
+    "importance": 2,
+    "fiabilite": "divergent",
+    "note": {
+      "fr": "WFRP 4e place le changement de nom en 1000 CI, alors qu'Altdorf: Crown of the Empire l'attribue à Sigismund le Conquérant en 522 CI.",
+      "en": "WFRP 4th edition places the renaming in 1000 IC, while Altdorf: Crown of the Empire credits Sigismund the Conqueror with it in 522 IC.",
+      "de": "WFRP 4. Edition verlegt die Umbenennung in das Jahr 1000 IK, während Altdorf: Crown of the Empire sie Sigismund dem Eroberer im Jahr 522 IK zuschreibt."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Fantasy Roleplay, 4e édition (2018)",
+          "en": "Warhammer Fantasy Roleplay, 4th edition (2018)",
+          "de": "Warhammer Fantasy Roleplay, 4. Edition (2018)"
+        },
+        "detail": {
+          "fr": "chronologie du Reikland, p. 272-275",
+          "en": "Timeline of the Reikland, pp. 272-275",
+          "de": "Zeitleiste des Reiklands, S. 272-275"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Altdorf: Crown of the Empire, Warhammer Fantasy Roleplay 4e édition",
+          "en": "Altdorf: Crown of the Empire, Warhammer Fantasy Roleplay 4th edition",
+          "de": "Altdorf: Crown of the Empire, Warhammer Fantasy Roleplay 4. Edition"
+        },
+        "detail": {
+          "fr": "p. 14",
+          "en": "p. 14",
+          "de": "S. 14"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page History of the Empire",
+          "en": "Lexicanum, History of the Empire page",
+          "de": "Lexicanum, Seite History of the Empire"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/History_of_the_Empire"
+      }
+    ]
+  },
+  {
+    "id": "empereurs-du-drakwald",
+    "annee": 1000,
+    "fin": null,
+    "approx": true,
+    "titre": {
+      "fr": "Les empereurs du Drakwald",
+      "en": "The Drakwald Emperors",
+      "de": "Die Drakwalder Kaiser"
+    },
+    "resume": {
+      "fr": "Au tournant du millénaire, les comtes électeurs du Drakwald achètent la couronne impériale à coups de pots-de-vin. Affaiblis par leur défaite face aux Elfes, ils installent leur capitale à Carroburg et règnent dans une grande décadence. Dans l'Empire, « Drakwaldien » devient synonyme d'homme cupide.",
+      "en": "At the turn of the millennium, the Elector Counts of Drakwald buy the imperial crown through bribery. Weakened by their defeat at the hands of the Elves, they move their capital to Carroburg and rule in great decadence. In the Empire, \"Drakwalder\" becomes a byword for a greedy man.",
+      "de": "Um die Jahrtausendwende erkaufen sich die Kurfürsten des Drakwald die Kaiserkrone durch Bestechung. Geschwächt durch ihre Niederlage gegen die Elfen, verlegen sie ihre Hauptstadt nach Carroburg und herrschen in großer Dekadenz. Im Imperium wird „Drakwalder“ zum Inbegriff des habgierigen Menschen."
+    },
+    "ere": "empire-sigmarite",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [
+      "carroburg"
+    ],
+    "factions": [
+      "empire"
+    ],
+    "importance": 2,
+    "fiabilite": "divergent",
+    "note": {
+      "fr": "Sigmar's Heirs rattache Boris Goldgather à cette lignée, ce qui s'accorde mal avec la mort du dernier comte du Drakwald vers 1110 CI.",
+      "en": "Sigmar's Heirs links Boris Goldgather to this line, which fits poorly with the death of the last Count of Drakwald around 1110 IC.",
+      "de": "Sigmar's Heirs verbindet Boris Goldgather mit dieser Linie, was schlecht zum Tod des letzten Grafen des Drakwald um 1110 IK passt."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2e édition (2005)",
+          "en": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2nd edition (2005)",
+          "de": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2. Edition (2005)"
+        },
+        "detail": {
+          "fr": "p. 14-15",
+          "en": "p. 14-15",
+          "de": "S. 14-15"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Drakwald",
+          "en": "Lexicanum, Drakwald page",
+          "de": "Lexicanum, Seite Drakwald"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Drakwald"
+      }
+    ]
+  },
+  {
+    "id": "guilde-des-sorciers-de-nuln",
+    "annee": 1000,
+    "fin": null,
+    "approx": true,
+    "titre": {
+      "fr": "Fondation de la guilde des sorciers de Nuln",
+      "en": "Founding of the Nuln Wizards Guild",
+      "de": "Gründung der Zauberergilde von Nuln"
+    },
+    "resume": {
+      "fr": "Vers l'an 1000, une guilde des sorciers est fondée à Nuln. Elle deviendra plus tard le Collège universitaire de la ville. Elle entre vite en rivalité avec la guilde des élémentalistes.",
+      "en": "Around the year 1000, a Wizards Guild is founded in Nuln. It will later become the city's University College. It quickly becomes a rival of the Elementalists' Guild.",
+      "de": "Um das Jahr 1000 wird in Nuln eine Zauberergilde gegründet. Sie wird später zum Universitätskolleg der Stadt. Rasch wird sie zur Rivalin der Gilde der Elementaristen."
+    },
+    "ere": "empire-sigmarite",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [
+      "nuln"
+    ],
+    "factions": [
+      "empire"
+    ],
+    "importance": 1,
+    "fiabilite": "incertain",
+    "note": {
+      "fr": "Date approximative et source unique citée par Lexicanum.",
+      "en": "Approximate date and single source cited by Lexicanum.",
+      "de": "Ungefähres Datum und einzige Quelle nach Lexicanum."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Lexicanum, page Nuln",
+          "en": "Lexicanum, Nuln page",
+          "de": "Lexicanum, Seite Nuln"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Nuln"
+      }
+    ]
+  },
+  {
+    "id": "la-moot-devient-province",
+    "annee": 1010,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Le Moot devient province électorale",
+      "en": "The Moot becomes an Electoral province",
+      "de": "Das Moot wird Kurprovinz"
+    },
+    "resume": {
+      "fr": "Par un édit de l'empereur Ludwig le Gros, le Moot, peuplé de Halflings et jusque-là rattaché au Stirland, devient une province distincte dotée d'une voix électorale. L'empereur dit récompenser les services des Halflings à la cuisine impériale. L'affront n'a jamais été oublié au Stirland, dont les habitants gardent rancune aux Halflings.",
+      "en": "By an edict of Emperor Ludwig the Fat, the Moot, home of the Halflings and until then part of Stirland, becomes a separate province with an electoral vote. The Emperor claims to be rewarding the Halflings' services to imperial cuisine. The slight has never been forgotten in Stirland, whose people still resent the Halflings.",
+      "de": "Durch einen Erlass Kaiser Ludwigs des Dicken wird das Moot, Heimat der Halblinge und bis dahin Teil Stirlands, zu einer eigenen Provinz mit Kurstimme. Der Kaiser begründet dies mit den Verdiensten der Halblinge um die kaiserliche Küche. In Stirland ist diese Kränkung nie vergessen worden, und die Bewohner grollen den Halblingen bis heute."
+    },
+    "ere": "empire-sigmarite",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [],
+    "factions": [
+      "empire"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: The Empire, 7e édition (2006)",
+          "en": "Warhammer Armies: The Empire, 7th edition (2006)",
+          "de": "Warhammer Armies: The Empire, 7. Edition (2006)"
+        },
+        "detail": {
+          "fr": "chronologie, p. 30-31",
+          "en": "timeline, pp. 30-31",
+          "de": "Zeitleiste, S. 30-31"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2e édition (2005)",
+          "en": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2nd edition (2005)",
+          "de": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2. Edition (2005)"
+        },
+        "detail": {
+          "fr": "p. 14",
+          "en": "p. 14",
+          "de": "S. 14"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page The Moot",
+          "en": "Lexicanum, The Moot page",
+          "de": "Lexicanum, Seite The Moot"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/The_Moot"
+      }
+    ]
+  },
+  {
+    "id": "olovald-serviteur-de-manann",
+    "annee": 1102,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Marienburg déclare Olovald serviteur de Manann",
+      "en": "Marienburg declares Olovald a servant of Manann",
+      "de": "Marienburg erklärt Olovald zum Diener Manns"
+    },
+    "resume": {
+      "fr": "Le conseil de Marienburg décrète qu'Olovald, figure vénérée des Jutones, n'est pas un dieu mais un simple serviteur de Manann, dieu de la mer. Les cultes d'Olovald sont dès lors poursuivis. La décision aligne la religion de la cité sur celle du reste de l'Empire.",
+      "en": "The Council of Marienburg decrees that Olovald, a figure revered by the Jutones, is not a god but merely a servant of Manann, god of the sea. Olovald cults are persecuted from then on. The decision brings the city's religion into line with the rest of the Empire.",
+      "de": "Der Rat von Marienburg erklärt, Olovald, eine von den Jutonen verehrte Gestalt, sei kein Gott, sondern nur ein Diener Manns, des Meeresgottes. Die Olovald-Kulte werden fortan verfolgt. Die Entscheidung gleicht die Religion der Stadt der des übrigen Imperiums an."
+    },
+    "ere": "empire-sigmarite",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [
+      "marienburg"
+    ],
+    "factions": [
+      "empire"
+    ],
+    "importance": 1,
+    "fiabilite": "incertain",
+    "note": {
+      "fr": "Source unique, la chronologie de Marienburg du jeu de rôle (1re édition).",
+      "en": "Single source, the Marienburg timeline of the roleplaying game (1st edition).",
+      "de": "Einzige Quelle ist die Marienburg-Zeitleiste des Rollenspiels (1. Edition)."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Marienburg: Sold Down the River, Warhammer Fantasy Roleplay 1re édition (2001)",
+          "en": "Marienburg: Sold Down the River, Warhammer Fantasy Roleplay 1st edition (2001)",
+          "de": "Marienburg: Sold Down the River, Warhammer Fantasy Roleplay 1. Edition (2001)"
+        },
+        "detail": {
+          "fr": "chronologie de Marienburg",
+          "en": "timeline of Marienburg",
+          "de": "Zeitleiste Marienburgs"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Marienburg",
+          "en": "Lexicanum, Marienburg page",
+          "de": "Lexicanum, Seite Marienburg"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Marienburg"
+      }
+    ]
+  },
+  {
+    "id": "soulevement-du-drakwald",
+    "annee": 1106,
+    "fin": 1110,
+    "approx": false,
+    "titre": {
+      "fr": "Soulèvement du Drakwald",
+      "en": "Rise of the Drakwald",
+      "de": "Erhebung des Drakwald"
+    },
+    "resume": {
+      "fr": "Hommes-bêtes et autres créatures jaillissent de la forêt du Drakwald et ravagent les établissements de la province. Le dernier héritier du Drakwald, Vilner, est tué vers 1110 CI. Faute de successeur, son Croc runique est envoyé à l'empereur Boris Goldgather, qui le garde dans ses coffres.",
+      "en": "Beastmen and other creatures pour out of the Drakwald Forest and ravage the province's settlements. The last heir of Drakwald, Vilner, is slain around 1110 IC. With no successor, his Runefang is sent to Emperor Boris Goldgather, who keeps it in his vaults.",
+      "de": "Tiermenschen und andere Kreaturen strömen aus dem Drakwald und verwüsten die Siedlungen der Provinz. Der letzte Erbe des Drakwald, Vilner, wird um 1110 IK getötet. Mangels Nachfolger wird sein Runenfang an Kaiser Boris Goldgather geschickt, der ihn in seinen Gewölben verwahrt."
+    },
+    "ere": "empire-sigmarite",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [
+      "foret-de-drakwald",
+      "altdorf"
+    ],
+    "factions": [
+      "empire",
+      "chaos"
+    ],
+    "importance": 2,
+    "fiabilite": "divergent",
+    "note": {
+      "fr": "WFRP 4e attribue la mort de l'héritier à un énorme Bestigor, tandis que Children of the Horned Rat l'attribue à l'assassin skaven Slike.",
+      "en": "WFRP 4th edition attributes the heir's death to an enormous Bestigor, while Children of the Horned Rat blames the Skaven assassin Slike.",
+      "de": "WFRP 4. Edition schreibt den Tod des Erben einem riesigen Bestigor zu, Children of the Horned Rat dagegen dem Skaven-Assassinen Slike."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Fantasy Roleplay, 4e édition (2018)",
+          "en": "Warhammer Fantasy Roleplay, 4th edition (2018)",
+          "de": "Warhammer Fantasy Roleplay, 4. Edition (2018)"
+        },
+        "detail": {
+          "fr": "chronologie du Reikland, p. 272-275",
+          "en": "Timeline of the Reikland, pp. 272-275",
+          "de": "Zeitleiste des Reiklands, S. 272-275"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2e édition (2005)",
+          "en": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2nd edition (2005)",
+          "de": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2. Edition (2005)"
+        },
+        "detail": {
+          "fr": "p. 20-21",
+          "en": "p. 20-21",
+          "de": "S. 20-21"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Children of the Horned Rat, Warhammer Fantasy Roleplay 2e édition (2009)",
+          "en": "Children of the Horned Rat, Warhammer Fantasy Roleplay 2nd edition (2009)",
+          "de": "Children of the Horned Rat, Warhammer Fantasy Roleplay 2. Edition (2009)"
+        },
+        "detail": {
+          "fr": "p. 35",
+          "en": "p. 35",
+          "de": "S. 35"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Drakwald",
+          "en": "Lexicanum, Drakwald page",
+          "de": "Lexicanum, Seite Drakwald"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Drakwald"
+      }
+    ]
+  },
+  {
+    "id": "snorri-demi-main-pille-marienburg",
+    "annee": 1109,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Snorri Demi-Main pille Marienburg",
+      "en": "Snorri Half-Hand sacks Marienburg",
+      "de": "Snorri Halbhand plündert Marienburg"
+    },
+    "resume": {
+      "fr": "Les Norses menacent de nouveau les côtes, et une armée menée par Snorri Demi-Main met Marienburg à sac. Snorri se proclame jarl du Vestland, tandis que les barons du Westerland se réfugient dans la forteresse de l'île de Rijker. La ville est encore pillée par les Norses en 1111 CI, pendant la Peste noire.",
+      "en": "The Norse again threaten the coasts, and an army led by Snorri Half-Hand sacks Marienburg. Snorri proclaims himself Jarl of Vestland, while the Barons of Westerland take refuge in the fortress on Rijker's Isle. The city is plundered by the Norse once more in 1111 IC, during the Black Plague.",
+      "de": "Die Nordländer bedrohen erneut die Küsten, und ein Heer unter Snorri Halbhand plündert Marienburg. Snorri ruft sich zum Jarl von Vestland aus, während die Barone von Westerland in der Festung auf der Rijkersinsel Zuflucht suchen. Während der Schwarzen Pest wird die Stadt 1111 IK erneut von den Nordländern geplündert."
+    },
+    "ere": "empire-sigmarite",
+    "regions": [
+      "empire",
+      "norsca"
+    ],
+    "lieux": [
+      "marienburg"
+    ],
+    "factions": [
+      "empire",
+      "humains-autres"
+    ],
+    "importance": 1,
+    "fiabilite": "incertain",
+    "note": {
+      "fr": "Source unique, la chronologie de Marienburg du jeu de rôle (1re édition).",
+      "en": "Single source, the Marienburg timeline of the roleplaying game (1st edition).",
+      "de": "Einzige Quelle ist die Marienburg-Zeitleiste des Rollenspiels (1. Edition)."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Marienburg: Sold Down the River, Warhammer Fantasy Roleplay 1re édition (2001)",
+          "en": "Marienburg: Sold Down the River, Warhammer Fantasy Roleplay 1st edition (2001)",
+          "de": "Marienburg: Sold Down the River, Warhammer Fantasy Roleplay 1. Edition (2001)"
+        },
+        "detail": {
+          "fr": "chronologie de Marienburg",
+          "en": "timeline of Marienburg",
+          "de": "Zeitleiste Marienburgs"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Marienburg",
+          "en": "Lexicanum, Marienburg page",
+          "de": "Lexicanum, Seite Marienburg"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Marienburg"
+      }
+    ]
+  },
+  {
+    "id": "scandale-de-nuln-1110",
+    "annee": 1110,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Scandale à Nuln et retour de la cour à Altdorf",
+      "en": "Scandal in Nuln and the court's return to Altdorf",
+      "de": "Skandal in Nuln und Rückkehr des Hofes nach Altdorf"
+    },
+    "resume": {
+      "fr": "Le grand prêtre de Sigmar à Nuln est démasqué comme adorateur de Slaanesh. Boris Goldgather quitte alors la ville et installe sa cour à Altdorf. Peu après, la Peste noire frappe Nuln, où seuls trois habitants sur dix survivent.",
+      "en": "The High Priest of Sigmar in Nuln is exposed as a worshipper of Slaanesh. Boris Goldgather then leaves the city and settles his court in Altdorf. Soon after, the Black Plague strikes Nuln, where only three inhabitants out of ten survive.",
+      "de": "Der Hohepriester des Sigmar in Nuln wird als Anhänger Slaaneshs entlarvt. Boris Goldgather verlässt daraufhin die Stadt und verlegt seinen Hof nach Altdorf. Kurz darauf sucht die Schwarze Pest Nuln heim, wo nur drei von zehn Einwohnern überleben."
+    },
+    "ere": "empire-sigmarite",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [
+      "nuln",
+      "altdorf"
+    ],
+    "factions": [
+      "empire",
+      "chaos"
+    ],
+    "importance": 1,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Forges of Nuln, Warhammer Fantasy Roleplay 2e édition (2007)",
+          "en": "Forges of Nuln, Warhammer Fantasy Roleplay 2nd edition (2007)",
+          "de": "Forges of Nuln, Warhammer Fantasy Roleplay 2. Edition (2007)"
+        },
+        "detail": {
+          "fr": "historique de Nuln",
+          "en": "history of Nuln",
+          "de": "Geschichte Nulns"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Nuln",
+          "en": "Lexicanum, Nuln page",
+          "de": "Lexicanum, Seite Nuln"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Nuln"
+      }
+    ]
+  },
+  {
+    "id": "quarantaine-de-middenheim",
+    "annee": 1111,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Middenheim se ferme à la Peste noire",
+      "en": "Middenheim seals itself against the Black Plague",
+      "de": "Middenheim riegelt sich gegen die Schwarze Pest ab"
+    },
+    "resume": {
+      "fr": "Quand la Peste noire s'abat sur l'Empire, le graf Gunthar ordonne de fermer complètement Middenheim. La cité reste close six mois, jusqu'à ce que l'épidémie ait passé. Cet isolement la sauve de la contagion, même si des centaines d'habitants meurent de faim.",
+      "en": "When the Black Plague falls on the Empire, Graf Gunthar orders Middenheim sealed off entirely. The city stays closed for six months, until the epidemic has run its course. This isolation saves it from contagion, even though hundreds of inhabitants starve.",
+      "de": "Als die Schwarze Pest über das Imperium hereinbricht, lässt Graf Gunthar Middenheim vollständig abriegeln. Die Stadt bleibt sechs Monate verschlossen, bis die Seuche abgeklungen ist. Diese Abschottung bewahrt sie vor der Ansteckung, auch wenn Hunderte Einwohner verhungern."
+    },
+    "ere": "empire-sigmarite",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [
+      "middenheim"
+    ],
+    "factions": [
+      "empire",
+      "skavens"
+    ],
+    "importance": 1,
+    "fiabilite": "divergent",
+    "note": {
+      "fr": "Passage non sourcé sur Lexicanum. D'autres textes attribuent la protection de la ville à Mandred, qui y accueille les réfugiés et constitue des réserves.",
+      "en": "Unsourced passage on Lexicanum. Other texts credit Mandred with protecting the city, taking in refugees and building up supplies.",
+      "de": "Unbelegter Abschnitt auf Lexicanum. Andere Texte schreiben den Schutz der Stadt Mandred zu, der Flüchtlinge aufnimmt und Vorräte anlegt."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Lexicanum, page Middenheim",
+          "en": "Lexicanum, Middenheim page",
+          "de": "Lexicanum, Seite Middenheim"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Middenheim"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Mandred Skavenslayer",
+          "en": "Lexicanum, Mandred Skavenslayer page",
+          "de": "Lexicanum, Seite Mandred Skavenslayer"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Mandred_Skavenslayer"
+      }
+    ]
+  },
+  {
+    "id": "frederick-van-hal-sylvanie",
+    "annee": 1111,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Frederick van Hal relève les morts de Sylvanie",
+      "en": "Frederick van Hal raises the dead of Sylvania",
+      "de": "Frederick van Hal erweckt die Toten Sylvaniens"
+    },
+    "resume": {
+      "fr": "Quand des éclats de malepierre tombent de Morrslieb sur la Sylvanie, les morts sortent de leurs tombes. Le nécromancien Frederick van Hal en prend le commandement, conquiert la province et bâtit la forteresse de Vanhaldenschlosse, d'où il combat les Skavens. Il est finalement assassiné par son apprenti Lothar von Diehl, et la Sylvanie ne se remettra jamais de cette époque.",
+      "en": "When shards of warpstone fall from Morrslieb onto Sylvania, the dead rise from their graves. The Necromancer Frederick van Hal takes command of them, conquers the province and builds the fortress of Vanhaldenschlosse, from which he fights the Skaven. He is eventually murdered by his apprentice Lothar von Diehl, and Sylvania will never recover from this era.",
+      "de": "Als Warpsteinsplitter von Morrslieb auf Sylvanien fallen, erheben sich die Toten aus ihren Gräbern. Der Nekromant Frederick van Hal übernimmt ihre Führung, erobert die Provinz und errichtet die Festung Vanhaldenschlosse, von der aus er die Skaven bekämpft. Schließlich wird er von seinem Schüler Lothar von Diehl ermordet, und Sylvanien erholt sich nie von dieser Zeit."
+    },
+    "ere": "empire-sigmarite",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [
+      "vanhaldenschlosse"
+    ],
+    "factions": [
+      "vampires",
+      "skavens",
+      "empire"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Undead, 4e édition (1994)",
+          "en": "Warhammer Armies: Undead, 4th edition (1994)",
+          "de": "Warhammer Armies: Undead, 4. Edition (1994)"
+        },
+        "detail": {
+          "fr": "p. 24-26",
+          "en": "pp. 24-26",
+          "de": "S. 24-26"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Vampire Counts, 5e édition (1999)",
+          "en": "Warhammer Armies: Vampire Counts, 5th edition (1999)",
+          "de": "Warhammer Armies: Vampire Counts, 5. Edition (1999)"
+        },
+        "detail": {
+          "fr": "histoire des Comtes vampires, p. 20-25",
+          "en": "Vampire Counts of Sylvania, pp. 20-25",
+          "de": "Geschichte der Vampirfürsten, S. 20-25"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Warhammer Fantasy Roleplay, 4e édition (2018)",
+          "en": "Warhammer Fantasy Roleplay, 4th edition (2018)",
+          "de": "Warhammer Fantasy Roleplay, 4. Edition (2018)"
+        },
+        "detail": {
+          "fr": "chronologie du Reikland, p. 272-275",
+          "en": "Timeline of the Reikland, pp. 272-275",
+          "de": "Zeitleiste des Reiklands, S. 272-275"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Sylvania",
+          "en": "Lexicanum, Sylvania page",
+          "de": "Lexicanum, Seite Sylvania"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Sylvania"
+      }
+    ]
+  },
+  {
+    "id": "guerres-skavens",
+    "annee": 1115,
+    "fin": 1124,
+    "approx": false,
+    "titre": {
+      "fr": "Les guerres skavens",
+      "en": "The Skaven Wars",
+      "de": "Die Skavenkriege"
+    },
+    "resume": {
+      "fr": "La Peste noire passée, les Skavens entreprennent de réduire en esclavage les survivants de l'Empire. Le comte Mandred rallie les défenseurs, reçoit l'aide des Elfes de la forêt de Laurelorn et mène une croisade contre les hommes-rats à partir de 1122 CI. Une série de batailles sanglantes repousse peu à peu les Skavens sous terre.",
+      "en": "Once the Black Plague has passed, the Skaven set about enslaving the Empire's survivors. Count Mandred rallies the defenders, receives aid from the Elves of the Laurelorn Forest and leads a crusade against the ratmen from 1122 IC. A series of bloody battles gradually drives the Skaven back underground.",
+      "de": "Nach dem Abklingen der Schwarzen Pest machen sich die Skaven daran, die Überlebenden des Imperiums zu versklaven. Graf Mandred sammelt die Verteidiger, erhält Hilfe von den Elfen des Laurelorn-Waldes und führt ab 1122 IK einen Kreuzzug gegen die Rattenmenschen. Eine Reihe blutiger Schlachten drängt die Skaven nach und nach unter die Erde zurück."
+    },
+    "ere": "empire-sigmarite",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [
+      "middenheim"
+    ],
+    "factions": [
+      "empire",
+      "skavens",
+      "elfes-sylvains"
+    ],
+    "importance": 3,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: The Empire, 8e édition (2012)",
+          "en": "Warhammer Armies: The Empire, 8th edition (2012)",
+          "de": "Warhammer Armies: The Empire, 8. Edition (2012)"
+        },
+        "detail": {
+          "fr": "chronologie de l'Empire, p. 16-17",
+          "en": "Timeline of the Empire, pp. 16-17",
+          "de": "Zeitleiste des Imperiums, S. 16-17"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Warhammer Fantasy Roleplay, 4e édition (2018)",
+          "en": "Warhammer Fantasy Roleplay, 4th edition (2018)",
+          "de": "Warhammer Fantasy Roleplay, 4. Edition (2018)"
+        },
+        "detail": {
+          "fr": "chronologie du Reikland, p. 272-275",
+          "en": "Timeline of the Reikland, pp. 272-275",
+          "de": "Zeitleiste des Reiklands, S. 272-275"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Skaven, 7e édition (2009)",
+          "en": "Warhammer Armies: Skaven, 7th edition (2009)",
+          "de": "Warhammer Armies: Skaven, 7. Edition (2009)"
+        },
+        "detail": {
+          "fr": "histoire des Skavens, p. 23-24",
+          "en": "History of the Skaven, pp. 23-24",
+          "de": "Geschichte der Skaven, S. 23-24"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Mandred Skavenslayer",
+          "en": "Lexicanum, Mandred Skavenslayer page",
+          "de": "Lexicanum, Seite Mandred Skavenslayer"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Mandred_Skavenslayer"
+      }
+    ]
+  },
+  {
+    "id": "siege-skaven-de-middenheim",
+    "annee": 1118,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Les Skavens assiègent Middenheim",
+      "en": "The Skaven besiege Middenheim",
+      "de": "Die Skaven belagern Middenheim"
+    },
+    "resume": {
+      "fr": "Les Skavens attaquent Middenheim, l'un des derniers bastions de l'Empire. Le comte Mandred dirige la défense de la ville et des tunnels sous le Fauschlag, et y perd un œil. Au bout de plusieurs mois, faute de vivres, les hommes-rats se retirent, et la victoire vaut à Mandred le surnom de Tueur de rats.",
+      "en": "The Skaven attack Middenheim, one of the Empire's last strongholds. Count Mandred directs the defence of the city and of the tunnels beneath the Fauschlag, losing an eye in the fighting. After several months, short of food, the ratmen withdraw, and the victory earns Mandred the name Skavenslayer.",
+      "de": "Die Skaven greifen Middenheim an, eine der letzten Bastionen des Imperiums. Graf Mandred leitet die Verteidigung der Stadt und der Tunnel unter dem Fauschlag und verliert dabei ein Auge. Nach mehreren Monaten ziehen sich die Rattenmenschen aus Mangel an Nahrung zurück, und der Sieg bringt Mandred den Beinamen Skavenschlächter ein."
+    },
+    "ere": "empire-sigmarite",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [
+      "middenheim"
+    ],
+    "factions": [
+      "empire",
+      "skavens"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "Date de 1118 CI donnée par le Citadel Journal 31 et reprise par Lexicanum.",
+      "en": "Date of 1118 IC given by Citadel Journal 31 and reported by Lexicanum.",
+      "de": "Das Jahr 1118 IK nennt das Citadel Journal 31, Lexicanum übernimmt es."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Skaven, 7e édition (2009)",
+          "en": "Warhammer Armies: Skaven, 7th edition (2009)",
+          "de": "Warhammer Armies: Skaven, 7. Edition (2009)"
+        },
+        "detail": {
+          "fr": "histoire des Skavens, p. 23-24",
+          "en": "History of the Skaven, pp. 23-24",
+          "de": "Geschichte der Skaven, S. 23-24"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Citadel Journal 31",
+          "en": "Citadel Journal 31",
+          "de": "Citadel Journal 31"
+        },
+        "detail": {
+          "fr": "p. 39-43",
+          "en": "pp. 39-43",
+          "de": "S. 39-43"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Mandred Skavenslayer",
+          "en": "Lexicanum, Mandred Skavenslayer page",
+          "de": "Lexicanum, Seite Mandred Skavenslayer"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Mandred_Skavenslayer"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Middenheim",
+          "en": "Lexicanum, Middenheim page",
+          "de": "Lexicanum, Seite Middenheim"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Middenheim"
+      }
+    ]
+  },
+  {
+    "id": "bataille-du-taurig",
+    "annee": 1121,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Bataille du Taurig",
+      "en": "Battle of the Taurig",
+      "de": "Schlacht am Taurig"
+    },
+    "resume": {
+      "fr": "Mandred se porte au secours de la ville d'Ausreik, dans les Montagnes Grises. Il y défait le clan skaven Rabidscar à la bataille du Taurig. C'est l'une des étapes de la reconquête qui précède la victoire des Collines hurlantes.",
+      "en": "Mandred rides to the aid of the town of Ausreik in the Grey Mountains. There he defeats the Skaven Clan Rabidscar at the Battle of the Taurig. It is one of the steps of the reconquest leading up to the victory of the Howling Hills.",
+      "de": "Mandred eilt der Stadt Ausreik in den Grauen Bergen zu Hilfe. Dort besiegt er den Skavenclan Rabidscar in der Schlacht am Taurig. Es ist eine der Etappen der Rückeroberung vor dem Sieg an den Heulenden Hügeln."
+    },
+    "ere": "empire-sigmarite",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [],
+    "factions": [
+      "empire",
+      "skavens"
+    ],
+    "importance": 1,
+    "fiabilite": "incertain",
+    "note": {
+      "fr": "Source unique (Citadel Journal 31).",
+      "en": "Single source (Citadel Journal 31).",
+      "de": "Einzige Quelle (Citadel Journal 31)."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Citadel Journal 31",
+          "en": "Citadel Journal 31",
+          "de": "Citadel Journal 31"
+        },
+        "detail": {
+          "fr": "p. 39-43",
+          "en": "pp. 39-43",
+          "de": "S. 39-43"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Mandred Skavenslayer",
+          "en": "Lexicanum, Mandred Skavenslayer page",
+          "de": "Lexicanum, Seite Mandred Skavenslayer"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Mandred_Skavenslayer"
+      }
+    ]
+  },
+  {
+    "id": "dissolution-du-drakwald",
+    "annee": 1124,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Mandred dissout la province du Drakwald",
+      "en": "Mandred dissolves the province of Drakwald",
+      "de": "Mandred löst die Provinz Drakwald auf"
+    },
+    "resume": {
+      "fr": "Premier acte de son règne, l'empereur Mandred dissout officiellement la grande province du Drakwald et retire tous ses honneurs à la maison Hohenack. Le Croc runique de la province est confié à la cathédrale d'Ulric à Middenheim. Laissé sans soutien, le Drakwald est ensuite ravagé par les hommes-bêtes et les gobelins.",
+      "en": "As the first act of his reign, Emperor Mandred officially dissolves the Grand Province of Drakwald and strips House Hohenack of all its honours. The province's Runefang is entrusted to the Cathedral of Ulric in Middenheim. Left without support, the Drakwald is then ravaged by Beastmen and Goblins.",
+      "de": "Als erste Amtshandlung löst Kaiser Mandred die Großprovinz Drakwald offiziell auf und entzieht dem Haus Hohenack alle Ehren. Der Runenfang der Provinz wird dem Dom des Ulric in Middenheim anvertraut. Ohne Unterstützung wird der Drakwald danach von Tiermenschen und Goblins verwüstet."
+    },
+    "ere": "empire-sigmarite",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [
+      "foret-de-drakwald",
+      "middenheim"
+    ],
+    "factions": [
+      "empire",
+      "chaos",
+      "peaux-vertes"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2e édition (2005)",
+          "en": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2nd edition (2005)",
+          "de": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2. Edition (2005)"
+        },
+        "detail": {
+          "fr": "p. 17",
+          "en": "p. 17",
+          "de": "S. 17"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Drakwald",
+          "en": "Lexicanum, Drakwald page",
+          "de": "Lexicanum, Seite Drakwald"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Drakwald"
+      }
+    ]
+  },
+  {
+    "id": "otto-de-solland-et-graf-erich",
+    "annee": 1152,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Otto de Solland succède à Mandred",
+      "en": "Otto of Solland succeeds Mandred",
+      "de": "Otto von Solland folgt Mandred nach"
+    },
+    "resume": {
+      "fr": "Après l'assassinat de Mandred, Otto de Solland lui succède, mais c'est un empereur faible qui ne parvient pas à s'imposer. À Middenheim, le graf Erich profite de la situation pour annexer le Middenland. Le titre impérial commence à devenir un enjeu de marchandage entre comtes.",
+      "en": "After Mandred's assassination, Otto of Solland succeeds him, but he is a weak Emperor who fails to assert himself. In Middenheim, Graf Erich takes advantage of the situation to annex Middenland. The imperial title begins to become a bargaining chip between counts.",
+      "de": "Nach der Ermordung Mandreds folgt ihm Otto von Solland nach, doch er ist ein schwacher Kaiser, der sich nicht durchsetzen kann. In Middenheim nutzt Graf Erich die Lage, um das Middenland zu annektieren. Der Kaisertitel wird allmählich zum Spielball zwischen den Grafen."
+    },
+    "ere": "empire-sigmarite",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [
+      "middenheim",
+      "pfeildorf"
+    ],
+    "factions": [
+      "empire"
+    ],
+    "importance": 1,
+    "fiabilite": "incertain",
+    "note": {
+      "fr": "Otto n'apparaît que dans Sigmar's Heirs. L'annexion du Middenland par le graf Erich vient d'une autre source.",
+      "en": "Otto appears only in Sigmar's Heirs. The annexation of Middenland by Graf Erich comes from another source.",
+      "de": "Otto erscheint nur in Sigmar's Heirs. Die Annexion des Middenlands durch Graf Erich stammt aus einer anderen Quelle."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2e édition (2005)",
+          "en": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2nd edition (2005)",
+          "de": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2. Edition (2005)"
+        },
+        "detail": {
+          "fr": "p. 16",
+          "en": "p. 16",
+          "de": "S. 16"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Emperor",
+          "en": "Lexicanum, Emperor page",
+          "de": "Lexicanum, Seite Emperor"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Emperor"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Middenheim",
+          "en": "Lexicanum, Middenheim page",
+          "de": "Lexicanum, Seite Middenheim"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Middenheim"
+      }
+    ]
+  },
+  {
+    "id": "age-des-guerres",
+    "annee": 1152,
+    "fin": 1359,
+    "approx": false,
+    "titre": {
+      "fr": "L'âge des guerres",
+      "en": "The Age of Wars",
+      "de": "Das Zeitalter der Kriege"
+    },
+    "resume": {
+      "fr": "Après la mort de Mandred, les électeurs, plus soucieux de protéger leurs provinces dévastées contre leurs rivaux que de choisir un véritable chef, ne s'accordent sur aucun successeur fort. La couronne devient un jouet que les comtes s'échangent, et l'Empire se divise en États rivaux. Des souverains comme Béatrice la Sanglante ou Didrick l'Injuste, aux dates inconnues, illustrent la brutalité de cette période.",
+      "en": "After Mandred's death, the Electors, more concerned with protecting their devastated provinces from their rivals than with choosing a true leader, agree on no strong successor. The crown becomes a toy traded among the counts, and the Empire splits into feuding states. Rulers such as Bloody Beatrice or Didrick the Unjust, of unknown dates, illustrate the brutality of this period.",
+      "de": "Nach Mandreds Tod einigen sich die Kurfürsten, denen der Schutz ihrer verwüsteten Provinzen vor den Rivalen wichtiger ist als die Wahl eines echten Anführers, auf keinen starken Nachfolger. Die Krone wird zum Spielzeug, das die Grafen untereinander weiterreichen, und das Imperium zerfällt in verfeindete Staaten. Herrscher wie die Blutige Beatrice oder Didrick der Ungerechte, deren Daten unbekannt sind, zeigen die Brutalität dieser Zeit."
+    },
+    "ere": "empire-sigmarite",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [],
+    "factions": [
+      "empire"
+    ],
+    "importance": 3,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "Le nom allemand de la période n'a pas été vérifié dans l'édition allemande.",
+      "en": "The German name of the period has not been checked against the German edition.",
+      "de": "Die deutsche Bezeichnung des Zeitabschnitts wurde nicht mit der deutschen Ausgabe abgeglichen."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: The Empire, 7e édition (2006)",
+          "en": "Warhammer Armies: The Empire, 7th edition (2006)",
+          "de": "Warhammer Armies: The Empire, 7. Edition (2006)"
+        },
+        "detail": {
+          "fr": "chronologie, p. 30-31",
+          "en": "timeline, pp. 30-31",
+          "de": "Zeitleiste, S. 30-31"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Tome of Salvation, Warhammer Fantasy Roleplay 2e édition (2007)",
+          "en": "Tome of Salvation, Warhammer Fantasy Roleplay 2nd edition (2007)",
+          "de": "Tome of Salvation, Warhammer Fantasy Roleplay 2. Edition (2007)"
+        },
+        "detail": {
+          "fr": "p. 19-20",
+          "en": "pp. 19-20",
+          "de": "S. 19-20"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Warhammer Fantasy Roleplay, 4e édition (2018)",
+          "en": "Warhammer Fantasy Roleplay, 4th edition (2018)",
+          "de": "Warhammer Fantasy Roleplay, 4. Edition (2018)"
+        },
+        "detail": {
+          "fr": "chronologie du Reikland, p. 272-275",
+          "en": "Timeline of the Reikland, pp. 272-275",
+          "de": "Zeitleiste des Reiklands, S. 272-275"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Emperor",
+          "en": "Lexicanum, Emperor page",
+          "de": "Lexicanum, Seite Emperor"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Emperor"
+      }
+    ]
+  },
+  {
+    "id": "invasion-stirlandaise-de-sylvanie",
+    "annee": 1350,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Le Stirland échoue en Sylvanie",
+      "en": "Stirland fails in Sylvania",
+      "de": "Stirland scheitert in Sylvanien"
+    },
+    "resume": {
+      "fr": "Le Stirland envahit la Sylvanie, gouvernée par la lignée des von Drak, mais le comte Theodor von Drak écrase l'invasion. Parce qu'il a refusé d'exécuter les prisonniers, son frère Jurgan le juge faible, le renverse et le fait exécuter. Les von Drak, descendants du petit seigneur Konrad von Altenburg, restent connus pour leur peu de loyauté envers l'Empire.",
+      "en": "Stirland invades Sylvania, ruled by the von Drak line, but Count Theodor von Drak crushes the invasion. Because he refused to put the prisoners to death, his brother Jurgan deems him weak, overthrows him and has him executed. The von Draks, descendants of the minor lord Konrad von Altenburg, remain known for their scant loyalty to the Empire.",
+      "de": "Stirland fällt in Sylvanien ein, das vom Geschlecht der von Drak regiert wird, doch Graf Theodor von Drak schlägt den Angriff zurück. Weil er sich weigerte, die Gefangenen hinzurichten, hält ihn sein Bruder Jurgan für schwach, stürzt ihn und lässt ihn hinrichten. Die von Draks, Nachfahren des kleinen Herrn Konrad von Altenburg, bleiben für ihre geringe Treue zum Imperium bekannt."
+    },
+    "ere": "empire-sigmarite",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [
+      "drakenhof"
+    ],
+    "factions": [
+      "empire"
+    ],
+    "importance": 1,
+    "fiabilite": "incertain",
+    "note": {
+      "fr": "Source unique et récente (Sylvania: The Cursed County), citée par Lexicanum.",
+      "en": "Single, recent source (Sylvania: The Cursed County), cited by Lexicanum.",
+      "de": "Einzige und neuere Quelle (Sylvania: The Cursed County), zitiert von Lexicanum."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Sylvania: The Cursed County",
+          "en": "Sylvania: The Cursed County",
+          "de": "Sylvania: The Cursed County"
+        },
+        "detail": {
+          "fr": "chapitre sur les von Drak, p. 30",
+          "en": "Lanterns in the Fog: The Von Draks, p. 30",
+          "de": "Kapitel über die von Draks, S. 30"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Sylvania",
+          "en": "Lexicanum, Sylvania page",
+          "de": "Lexicanum, Seite Sylvania"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Sylvania"
+      }
+    ]
+  },
+  {
+    "id": "election-de-wilhelm-de-stirland",
+    "annee": 1359,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Élection contestée de Wilhelm de Stirland",
+      "en": "Disputed election of Wilhelm of Stirland",
+      "de": "Umstrittene Wahl Wilhelms von Stirland"
+    },
+    "resume": {
+      "fr": "Pour mettre fin aux effusions de sang, les électeurs se réunissent à Altdorf et élisent à la majorité le grand-duc Wilhelm de Stirland, couronné à Nuln. Jugé proche du culte de Sigmar, il tente de taxer le culte de Taal. La comtesse Ottilia de Talabecland dénonce un vote truqué, ce qui annonce la rupture de l'unité impériale.",
+      "en": "To end the bloodshed, the Electors meet in Altdorf and elect by majority Grand Duke Wilhelm of Stirland, who is crowned in Nuln. Seen as close to the cult of Sigmar, he tries to tax the cult of Taal. Countess Ottilia of Talabecland denounces a rigged vote, foreshadowing the break-up of imperial unity.",
+      "de": "Um das Blutvergießen zu beenden, versammeln sich die Kurfürsten in Altdorf und wählen mit Mehrheit Großherzog Wilhelm von Stirland, der in Nuln gekrönt wird. Als dem Sigmarkult nahestehend angesehen, versucht er, den Kult des Taal zu besteuern. Gräfin Ottilia von Talabecland prangert eine manipulierte Wahl an, was den Zerfall der kaiserlichen Einheit ankündigt."
+    },
+    "ere": "empire-sigmarite",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [
+      "altdorf",
+      "nuln",
+      "talabheim"
+    ],
+    "factions": [
+      "empire"
+    ],
+    "importance": 3,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: The Empire, 8e édition (2012)",
+          "en": "Warhammer Armies: The Empire, 8th edition (2012)",
+          "de": "Warhammer Armies: The Empire, 8. Edition (2012)"
+        },
+        "detail": {
+          "fr": "chronologie de l'Empire, p. 16-17",
+          "en": "Timeline of the Empire, pp. 16-17",
+          "de": "Zeitleiste des Imperiums, S. 16-17"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Warhammer Fantasy Roleplay, 4e édition (2018)",
+          "en": "Warhammer Fantasy Roleplay, 4th edition (2018)",
+          "de": "Warhammer Fantasy Roleplay, 4. Edition (2018)"
+        },
+        "detail": {
+          "fr": "chronologie du Reikland, p. 272-275",
+          "en": "Timeline of the Reikland, pp. 272-275",
+          "de": "Zeitleiste des Reiklands, S. 272-275"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Warhammer: The Old World, livre de règles (2024)",
+          "en": "Warhammer: The Old World Rulebook (2024)",
+          "de": "Warhammer: The Old World, Regelbuch (2024)"
+        },
+        "detail": {
+          "fr": "Timeline of Legend, p. 22-29",
+          "en": "Timeline of Legend, pp. 22-29",
+          "de": "Timeline of Legend, S. 22-29"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page History of the Empire",
+          "en": "Lexicanum, History of the Empire page",
+          "de": "Lexicanum, Seite History of the Empire"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/History_of_the_Empire"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Talabheim",
+          "en": "Lexicanum, Talabheim page",
+          "de": "Lexicanum, Seite Talabheim"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Talabheim"
+      }
+    ]
+  }
+]

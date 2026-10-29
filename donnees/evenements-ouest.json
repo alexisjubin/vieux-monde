@@ -1,0 +1,3296 @@
+[
+  {
+    "id": "fondation-de-luccini",
+    "annee": 1,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Lucan et Luccina fondent Luccini",
+      "en": "Lucan and Luccina found Luccini",
+      "de": "Lucan und Luccina gründen Luccini"
+    },
+    "resume": {
+      "fr": "Selon la légende, les jumeaux Lucan et Luccina, perdus enfants, sont recueillis par un léopard monstrueux à deux têtes et trois queues qui les protège des loups, des Orques et des Trolls. Le fauve prédit à des bergers qu'ils fonderont une grande cité, mais que leurs descendants se la disputeront. Luccini est fondée en 1 CI parmi des ruines elfiques, première des cités de Tilée.",
+      "en": "According to legend, the twins Lucan and Luccina, lost as children, are taken in by a monstrous leopard with two heads and three tails that protects them from wolves, Orcs and Trolls. The beast foretells to some shepherds that they will found a great city, but that their descendants will fight over it. Luccini is founded in 1 IC among Elven ruins, the first of the cities of Tilea.",
+      "de": "Der Legende nach werden die als Kinder verirrten Zwillinge Lucan und Luccina von einem monströsen Leoparden mit zwei Köpfen und drei Schwänzen aufgenommen, der sie vor Wölfen, Orks und Trollen schützt. Das Tier sagt Hirten voraus, dass sie eine große Stadt gründen, deren Nachkommen aber um sie streiten werden. Luccini wird 1 IK inmitten elfischer Ruinen gegründet, als erste der Städte Tileas."
+    },
+    "ere": "empire-sigmarite",
+    "regions": [
+      "tilee-estalie"
+    ],
+    "lieux": [
+      "luccini"
+    ],
+    "factions": [
+      "humains-autres"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "La légende situe vers -25 CI la découverte de la grotte du léopard par les bergers.",
+      "en": "The legend places the shepherds' discovery of the leopard's cave around -25 IC.",
+      "de": "Die Legende setzt die Entdeckung der Leopardenhöhle durch die Hirten um -25 IK an."
+    },
+    "sources": [
+      {
+        "titre": "Up in Arms",
+        "detail": {
+          "fr": "chronologie de la Tilée, p. 57-60",
+          "en": "Tilea timeline, p. 57-60",
+          "de": "Zeitleiste Tileas, S. 57-60"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Tilea",
+          "en": "Lexicanum, Tilea page",
+          "de": "Lexicanum, Seite Tilea"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Tilea"
+      }
+    ]
+  },
+  {
+    "id": "sac-de-sartosa-451",
+    "annee": 451,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Elfes noirs et morts-vivants détruisent Sartosa",
+      "en": "Dark Elves and undead destroy Sartosa",
+      "de": "Dunkelelfen und Untote zerstören Sartosa"
+    },
+    "resume": {
+      "fr": "Une Arche noire lance le premier d'une série de raids elfes noirs contre les Hommes du Vieux Monde, aux côtés d'une flotte de Khemri menée par Settra. Ils assiègent et prennent Sartosa, sur la côte ouest de l'Empire rémien, puis tuent ou emmènent en captivité toute sa population. La première cité humaine de Sartosa disparaît.",
+      "en": "A Black Ark launches the first of a series of Dark Elf raids against the Men of the Old World, alongside a Khemrian fleet led by Settra. They besiege and take Sartosa, on the western coast of the Reman Empire, then kill or carry off its entire population. The first human city of Sartosa is gone.",
+      "de": "Eine Schwarze Arche eröffnet zusammen mit einer Flotte aus Khemri unter Settra die erste einer Reihe von Dunkelelfen-Raubfahrten gegen die Menschen der Alten Welt. Sie belagern und erobern Sartosa an der Westküste des Remanischen Reiches und töten oder verschleppen die gesamte Bevölkerung. Die erste Menschenstadt Sartosa ist ausgelöscht."
+    },
+    "ere": "empire-sigmarite",
+    "regions": [
+      "tilee-estalie"
+    ],
+    "lieux": [
+      "sartosa"
+    ],
+    "factions": [
+      "elfes-noirs",
+      "rois-des-tombes",
+      "humains-autres"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Dark Elves, 4e édition",
+          "en": "Warhammer Armies: Dark Elves, 4th edition",
+          "de": "Warhammer Armies: Dark Elves, 4. Edition"
+        },
+        "detail": {
+          "fr": "History of the Dark Elves, p. 10-12",
+          "en": "History of the Dark Elves, p. 10-12",
+          "de": "History of the Dark Elves, S. 10-12"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Sartosa",
+          "en": "Lexicanum, Sartosa page",
+          "de": "Lexicanum, Seite Sartosa"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Sartosa"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Tilea",
+          "en": "Lexicanum, Tilea page",
+          "de": "Lexicanum, Seite Tilea"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Tilea"
+      }
+    ]
+  },
+  {
+    "id": "age-sombre-tileen",
+    "annee": 475,
+    "fin": 978,
+    "approx": false,
+    "titre": {
+      "fr": "L'âge sombre de la Tilée",
+      "en": "The Tilean Dark Ages",
+      "de": "Das dunkle Zeitalter Tileas"
+    },
+    "resume": {
+      "fr": "Vingt-quatre ans après le sac de Sartosa, une immense Waaagh! orque envahit la Tilée et pille plusieurs cités. Il faut plus de cinq siècles pour repousser les Peaux-vertes des plaines jusque dans les monts Apuccini, pendant que les cités se fortifient. Les Tiléens achèvent de les rejeter au-delà des montagnes en 978 CI, l'année même où Gilles le Breton unifie la Bretonnie.",
+      "en": "Twenty-four years after the sack of Sartosa, a vast Orc Waaagh! invades Tilea and sacks several cities. It takes more than five centuries to drive the Greenskins from the lowlands back into the Apuccini Mountains, while the cities fortify themselves. The Tileans finally push them back over the mountains in 978 IC, the very year Gilles le Breton unites Bretonnia.",
+      "de": "Vierundzwanzig Jahre nach der Plünderung Sartosas fällt eine gewaltige Ork-Waaagh! in Tilea ein und plündert mehrere Städte. Es dauert über fünf Jahrhunderte, die Grünhäute aus dem Tiefland in die Apuccini-Berge zurückzudrängen, während die Städte sich befestigen. Im Jahr 978 IK, dem Jahr, in dem Gilles le Breton Bretonia eint, werfen die Tileaner sie endgültig über die Berge zurück."
+    },
+    "ere": "empire-sigmarite",
+    "regions": [
+      "tilee-estalie"
+    ],
+    "lieux": [],
+    "factions": [
+      "humains-autres",
+      "peaux-vertes"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": "Up in Arms",
+        "detail": {
+          "fr": "chronologie de la Tilée, p. 57-60",
+          "en": "Tilea timeline, p. 57-60",
+          "de": "Zeitleiste Tileas, S. 57-60"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Tilea",
+          "en": "Lexicanum, Tilea page",
+          "de": "Lexicanum, Seite Tilea"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Tilea"
+      }
+    ]
+  },
+  {
+    "id": "province-de-lichtenholm",
+    "annee": 550,
+    "fin": 1152,
+    "approx": true,
+    "titre": {
+      "fr": "Sigismund II et la province de Lichtenholm",
+      "en": "Sigismund II and the province of Lichtenholm",
+      "de": "Sigismund II. und die Provinz Lichtenholm"
+    },
+    "resume": {
+      "fr": "Au VIe siècle CI, l'empereur Sigismund II franchit le col du Feu Noir et repousse les Peaux-vertes jusque dans les Terres arides. Il crée dans les terres conquises la province de Lichtenholm et y bâtit des châteaux de pierre, dont certains tiennent encore des siècles plus tard. Les Orques reviennent, et en 1152 CI Lichtenholm n'est plus qu'un souvenir.",
+      "en": "In the sixth century IC, Emperor Sigismund II marches through Black Fire Pass and drives the Greenskins back into the Badlands. In the conquered lands he creates the province of Lichtenholm and builds stone castles, some of which still stand centuries later. The Orcs return, and by 1152 IC Lichtenholm is a mere memory.",
+      "de": "Im sechsten Jahrhundert IK zieht Kaiser Sigismund II. durch den Schwarzfeuerpass und treibt die Grünhäute in die Ödlande zurück. In den eroberten Gebieten schafft er die Provinz Lichtenholm und errichtet steinerne Burgen, von denen manche noch Jahrhunderte später stehen. Die Orks kehren zurück, und 1152 IK ist Lichtenholm nur noch eine Erinnerung."
+    },
+    "ere": "empire-sigmarite",
+    "regions": [
+      "royaumes-frontaliers",
+      "empire"
+    ],
+    "lieux": [
+      "col-du-feu-noir"
+    ],
+    "factions": [
+      "empire",
+      "peaux-vertes"
+    ],
+    "importance": 1,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "L'année 550 CI est une approximation pour « le VIe siècle CI », seule indication de la source.",
+      "en": "The year 550 IC is an approximation for \"the sixth century IC\", the only indication in the source.",
+      "de": "Das Jahr 550 IK ist eine Annäherung an „das sechste Jahrhundert IK“, die einzige Angabe der Quelle."
+    },
+    "sources": [
+      {
+        "titre": "Arcane Journal: War of Settra's Fury",
+        "detail": {
+          "fr": "In Lawless Realms, p. 7-8",
+          "en": "In Lawless Realms, p. 7-8",
+          "de": "In Lawless Realms, S. 7-8"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Border Princes",
+          "en": "Lexicanum, Border Princes page",
+          "de": "Lexicanum, Seite Border Princes"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Border_Princes"
+      }
+    ]
+  },
+  {
+    "id": "seize-duches-bretonni",
+    "annee": 770,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Les seize tribus bretonni",
+      "en": "The sixteen Bretonni tribes",
+      "de": "Die sechzehn Stämme der Bretonni"
+    },
+    "resume": {
+      "fr": "Après des siècles de guerres entre tribus, il ne reste plus que seize peuples bretonni, chacun maître d'une partie du pays sous un chef qui se fait appeler duc. Ces seigneuries dessinent déjà, à peu de chose près, les duchés de la future Bretonnie. Deux d'entre elles, Cuileux et Glanborielle, disparaîtront avant l'unification.",
+      "en": "After centuries of tribal warfare, only sixteen Bretonni peoples remain, each holding part of the land under a chieftain who styles himself duke. These lordships already roughly match the dukedoms of the future Bretonnia. Two of them, Cuileux and Glanborielle, will vanish before unification.",
+      "de": "Nach Jahrhunderten der Stammeskriege bleiben nur sechzehn Völker der Bretonni übrig, jedes beherrscht unter einem Anführer, der sich Herzog nennt, einen Teil des Landes. Diese Herrschaften entsprechen schon weitgehend den Herzogtümern des späteren Bretonia. Zwei von ihnen, Cuileux und Glanborielle, verschwinden noch vor der Einigung."
+    },
+    "ere": "empire-sigmarite",
+    "regions": [
+      "bretonnie"
+    ],
+    "lieux": [],
+    "factions": [
+      "bretonnie"
+    ],
+    "importance": 1,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Bretonnia, 6e édition (2004)",
+          "en": "Warhammer Armies: Bretonnia, 6th edition (2004)",
+          "de": "Warhammer Armies: Bretonnia, 6. Edition (2004)"
+        },
+        "detail": {
+          "fr": "A Tale of Years, p. 38-39",
+          "en": "A Tale of Years, p. 38-39",
+          "de": "A Tale of Years, S. 38-39"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Knights of the Grail, Warhammer Fantasy Roleplay 2e édition (2006)",
+          "en": "Knights of the Grail, Warhammer Fantasy Roleplay 2nd edition (2006)",
+          "de": "Knights of the Grail, Warhammer Fantasy Roleplay 2. Edition (2006)"
+        },
+        "detail": {
+          "fr": "chapitre II, p. 14",
+          "en": "chapter II, p. 14",
+          "de": "Kapitel II, S. 14"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Bretonnia",
+          "en": "Lexicanum, Bretonnia page",
+          "de": "Lexicanum, Seite Bretonnia"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Bretonnia"
+      }
+    ]
+  },
+  {
+    "id": "gragabad-et-balduin-de-brionne",
+    "annee": 930,
+    "fin": 932,
+    "approx": false,
+    "titre": {
+      "fr": "Gragabad ravage Cuileux, Balduin de Brionne le tue",
+      "en": "Gragabad ravages Cuileux, Balduin of Brionne slays him",
+      "de": "Gragabad verheert Cuileux, Balduin von Brionne erschlägt ihn"
+    },
+    "resume": {
+      "fr": "Une immense horde orque menée par le chef de guerre Gragabad descend du Massif Orcal et submerge le duché de Cuileux, dont les derniers chevaliers tombent jusqu'au dernier en rase campagne. Deux ans plus tard, le jeune duc Balduin de Brionne écrase la horde et tue Gragabad en combat singulier. La hache du chef orque, restée fichée dans son bouclier pendant toute la bataille, devient l'emblème de Brionne.",
+      "en": "A vast Orc horde led by the warlord Gragabad pours out of the Massif Orcal and overruns the dukedom of Cuileux, whose last knights fall to a man on the open plain. Two years later the young Duke Balduin of Brionne crushes the horde and slays Gragabad in single combat. The warlord's axe, which stayed lodged in his shield throughout the battle, becomes the emblem of Brionne.",
+      "de": "Eine gewaltige Orkhorde unter dem Kriegsherrn Gragabad bricht aus dem Massif Orcal hervor und überrennt das Herzogtum Cuileux, dessen letzte Ritter bis auf den letzten Mann in offener Feldschlacht fallen. Zwei Jahre später zerschlägt der junge Herzog Balduin von Brionne die Horde und tötet Gragabad im Zweikampf. Die Axt des Kriegsherrn, die während der ganzen Schlacht in seinem Schild steckte, wird zum Wappen von Brionne."
+    },
+    "ere": "empire-sigmarite",
+    "regions": [
+      "bretonnie"
+    ],
+    "lieux": [
+      "brionne"
+    ],
+    "factions": [
+      "bretonnie",
+      "peaux-vertes"
+    ],
+    "importance": 1,
+    "fiabilite": "incertain",
+    "note": {
+      "fr": "Source unique consultée : le wiki fandom, qui renvoie aux livres d'armée bretonniens.",
+      "en": "Only source consulted: the fandom wiki, which cites the Bretonnian army books.",
+      "de": "Einzige herangezogene Quelle: das Fandom-Wiki, das auf die bretonischen Armeebücher verweist."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Wiki (fandom), page Bretonnia",
+          "en": "Warhammer Wiki (fandom), Bretonnia page",
+          "de": "Warhammer Wiki (fandom), Seite Bretonnia"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Bretonnia"
+      }
+    ]
+  },
+  {
+    "id": "chute-de-glanborielle",
+    "annee": 974,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "L'âge sombre et la chute de Glanborielle",
+      "en": "The dark age and the fall of Glanborielle",
+      "de": "Das dunkle Zeitalter und der Fall von Glanborielle"
+    },
+    "resume": {
+      "fr": "Au Xe siècle, la Bretonnie est assaillie de toutes parts : pillards norses sur les côtes de Lyonesse et de Couronne, hardes d'hommes-bêtes, gobelins des Montagnes Grises et flottes mortes-vivantes de Settra sur la côte ouest. En 974 CI, coupé de tout secours, l'antique duché de Glanborielle est anéanti par les Orques. Ses terres seront plus tard absorbées par Carcassonne.",
+      "en": "In the tenth century, Bretonnia is beset on all sides: Norse raiders on the coasts of Lyonesse and Couronne, Beastmen warherds, Goblins from the Grey Mountains and Settra's undead fleets on the western coast. In 974 IC, cut off from all aid, the ancient dukedom of Glanborielle is wiped out by the Orcs. Its lands are later absorbed by Carcassonne.",
+      "de": "Im zehnten Jahrhundert wird Bretonia von allen Seiten bedrängt: nordische Plünderer an den Küsten von Lyonesse und Couronne, Tiermenschenherden, Goblins aus dem Grauen Gebirge und Settras untote Flotten an der Westküste. Im Jahr 974 IK wird das alte Herzogtum Glanborielle, von jeder Hilfe abgeschnitten, von den Orks ausgelöscht. Seine Ländereien fallen später an Carcassonne."
+    },
+    "ere": "empire-sigmarite",
+    "regions": [
+      "bretonnie"
+    ],
+    "lieux": [
+      "carcassonne"
+    ],
+    "factions": [
+      "bretonnie",
+      "peaux-vertes",
+      "rois-des-tombes"
+    ],
+    "importance": 1,
+    "fiabilite": "divergent",
+    "note": {
+      "fr": "Le wiki fandom place les attaques de Settra contre la côte ouest vers 948 CI, alors que Lexicanum, d'après le livre d'armée de 5e édition, les date de 100 CI. La chute de Glanborielle en 974 CI ne vient que du fandom.",
+      "en": "The fandom wiki places Settra's attacks on the western coast around 948 IC, whereas Lexicanum, following the 5th edition army book, dates them to 100 IC. The fall of Glanborielle in 974 IC comes only from the fandom wiki.",
+      "de": "Das Fandom-Wiki setzt Settras Angriffe auf die Westküste um 948 IK an, Lexicanum datiert sie nach dem Armeebuch der 5. Edition auf 100 IK. Der Fall von Glanborielle 974 IK stammt nur aus dem Fandom-Wiki."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Wiki (fandom), page Bretonnia",
+          "en": "Warhammer Wiki (fandom), Bretonnia page",
+          "de": "Warhammer Wiki (fandom), Seite Bretonnia"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Bretonnia"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Bretonnia",
+          "en": "Lexicanum, Bretonnia page",
+          "de": "Lexicanum, Seite Bretonnia"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Bretonnia"
+      }
+    ]
+  },
+  {
+    "id": "mort-de-gilles-le-breton",
+    "annee": 995,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Mort de Gilles le Breton",
+      "en": "Death of Gilles le Breton",
+      "de": "Tod von Gilles le Breton"
+    },
+    "resume": {
+      "fr": "Gilles le Breton meurt en 995 CI, tué dans une embuscade orque selon la tradition. Son corps est rendu au lac sacré, où la Fée Enchanteresse l'accueille comme gardien de l'île cachée en son centre. Son fils Louis hérite du duché de Bastonne, mais la succession au trône divise les ducs, partagés entre Louis, Landuin, Thierulf et Marcus.",
+      "en": "Gilles le Breton dies in 995 IC, killed in an Orc ambush according to tradition. His body is returned to the sacred lake, where the Fay Enchantress takes him as guardian of the hidden island at its heart. His son Louis inherits the dukedom of Bastonne, but the succession to the throne divides the dukes, split between Louis, Landuin, Thierulf and Marcus.",
+      "de": "Gilles le Breton stirbt 995 IK, der Überlieferung nach in einem Hinterhalt der Orks. Sein Leichnam wird dem heiligen See übergeben, wo die Feenzauberin ihn als Wächter der verborgenen Insel in dessen Mitte aufnimmt. Sein Sohn Louis erbt das Herzogtum Bastonne, doch die Thronfolge spaltet die Herzöge, die zwischen Louis, Landuin, Thierulf und Marcus uneins sind."
+    },
+    "ere": "empire-sigmarite",
+    "regions": [
+      "bretonnie"
+    ],
+    "lieux": [
+      "bastonne"
+    ],
+    "factions": [
+      "bretonnie",
+      "peaux-vertes"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "Conversion : 995 CI correspond à l'an 17 du calendrier bretonnien.",
+      "en": "Conversion: 995 IC corresponds to year 17 of the Bretonnian calendar.",
+      "de": "Umrechnung: 995 IK entspricht dem Jahr 17 des bretonischen Kalenders."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Bretonnia, 5e édition (1996)",
+          "en": "Warhammer Armies: Bretonnia, 5th edition (1996)",
+          "de": "Warhammer Armies: Bretonnia, 5. Edition (1996)"
+        },
+        "detail": {
+          "fr": "The History of Bretonnia, p. 10-16",
+          "en": "The History of Bretonnia, p. 10-16",
+          "de": "The History of Bretonnia, S. 10-16"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Bretonnia",
+          "en": "Lexicanum, Bretonnia page",
+          "de": "Lexicanum, Seite Bretonnia"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Bretonnia"
+      },
+      {
+        "titre": {
+          "fr": "Warhammer Wiki (fandom), page Bretonnia",
+          "en": "Warhammer Wiki (fandom), Bretonnia page",
+          "de": "Warhammer Wiki (fandom), Seite Bretonnia"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Bretonnia"
+      }
+    ]
+  },
+  {
+    "id": "louis-le-temeraire-premier-roi",
+    "annee": 1001,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Louis le Téméraire couronné roi",
+      "en": "Louis the Rash crowned king",
+      "de": "Louis der Ungestüme wird gekrönt"
+    },
+    "resume": {
+      "fr": "Parti en quête du Graal dès la mort de son père, ce qui lui vaut le surnom de Louis le Téméraire, le fils de Gilles revient avec une couronne d'or antique et une lame enchantée. La Fée Enchanteresse le couronne roi de toute la Bretonnie. Il codifie aussitôt les vœux de chevalerie que suivaient son père et les Compagnons du Graal, et confirme les ducs dans leur rôle de vassaux.",
+      "en": "Having set out on the Grail quest as soon as his father died, which earns him the name Louis the Rash, Gilles' son returns with an ancient golden crown and an enchanted blade. The Fay Enchantress crowns him king of all Bretonnia. He at once sets down the vows of chivalry that his father and the Grail Companions had followed, and confirms the dukes as his vassals.",
+      "de": "Gleich nach dem Tod seines Vaters zieht Gilles' Sohn auf Gralssuche, was ihm den Beinamen Louis der Ungestüme einbringt, und kehrt mit einer uralten goldenen Krone und einer verzauberten Klinge zurück. Die Feenzauberin krönt ihn zum König ganz Bretonias. Er schreibt sogleich die Ritterschwüre nieder, denen sein Vater und die Gralsgefährten folgten, und bestätigt die Herzöge als seine Vasallen."
+    },
+    "ere": "empire-sigmarite",
+    "regions": [
+      "bretonnie"
+    ],
+    "lieux": [
+      "couronne",
+      "bastonne"
+    ],
+    "factions": [
+      "bretonnie"
+    ],
+    "importance": 2,
+    "fiabilite": "divergent",
+    "note": {
+      "fr": "Le livre d'armée de 5e édition fait de Louis le premier roi couronné, Gilles ayant été le Chef des Batailles des ducs. D'autres textes, dont le livre de 6e édition, présentent Gilles comme le premier roi. La date de 1001 CI vient de la chronologie de 5e édition.",
+      "en": "The 5th edition army book makes Louis the first crowned king, Gilles having been the dukes' Leader of Battles. Other texts, including the 6th edition book, present Gilles as the first king. The date 1001 IC comes from the 5th edition chronicle.",
+      "de": "Das Armeebuch der 5. Edition macht Louis zum ersten gekrönten König, Gilles war der Schlachtenführer der Herzöge. Andere Texte, darunter das Buch der 6. Edition, nennen Gilles den ersten König. Das Jahr 1001 IK stammt aus der Chronik der 5. Edition."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Bretonnia, 5e édition (1996)",
+          "en": "Warhammer Armies: Bretonnia, 5th edition (1996)",
+          "de": "Warhammer Armies: Bretonnia, 5. Edition (1996)"
+        },
+        "detail": {
+          "fr": "The History of Bretonnia, p. 10-16",
+          "en": "The History of Bretonnia, p. 10-16",
+          "de": "The History of Bretonnia, S. 10-16"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Bretonnia, 5e édition (1996)",
+          "en": "Warhammer Armies: Bretonnia, 5th edition (1996)",
+          "de": "Warhammer Armies: Bretonnia, 5. Edition (1996)"
+        },
+        "detail": {
+          "fr": "A Chronicle of Bretonnia, p. 33",
+          "en": "A Chronicle of Bretonnia, p. 33",
+          "de": "A Chronicle of Bretonnia, S. 33"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Bretonnia",
+          "en": "Lexicanum, Bretonnia page",
+          "de": "Lexicanum, Seite Bretonnia"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Bretonnia"
+      },
+      {
+        "titre": {
+          "fr": "Warhammer Wiki (fandom), page Bretonnia",
+          "en": "Warhammer Wiki (fandom), Bretonnia page",
+          "de": "Warhammer Wiki (fandom), Seite Bretonnia"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Bretonnia"
+      }
+    ]
+  },
+  {
+    "id": "norses-de-sartosa",
+    "annee": 1017,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Luccini achète les pillards norses de Sartosa",
+      "en": "Luccini buys off the Norse raiders of Sartosa",
+      "de": "Luccini kauft die nordischen Plünderer Sartosas"
+    },
+    "resume": {
+      "fr": "Des pillards norses installés à Sartosa harcèlent les côtes et les flottes de Luccini. Une fois vaincus, ils ne sont pas exécutés : le prince de Luccini, reprenant une méthode éprouvée contre les Orques, achète leur loyauté et les emploie contre les corsaires elfes noirs et arabiens.",
+      "en": "Norse raiders settled on Sartosa harry the coasts and fleets of Luccini. Once defeated, they are not executed: the Prince of Luccini, using a method that had worked against the Orcs, buys their loyalty and sets them against the Dark Elf and Arabyan corsairs.",
+      "de": "Auf Sartosa ansässige nordische Plünderer bedrängen die Küsten und Flotten Luccinis. Nach ihrer Niederlage werden sie nicht hingerichtet: Der Fürst von Luccini greift auf ein gegen die Orks bewährtes Mittel zurück, kauft ihre Treue und setzt sie gegen dunkelelfische und arabysche Korsaren ein."
+    },
+    "ere": "empire-sigmarite",
+    "regions": [
+      "tilee-estalie"
+    ],
+    "lieux": [
+      "sartosa",
+      "luccini"
+    ],
+    "factions": [
+      "humains-autres"
+    ],
+    "importance": 1,
+    "fiabilite": "divergent",
+    "note": {
+      "fr": "Le livre de règles de The Old World place l'installation des Norses à Sartosa en 1017 CI, alors que la chronologie tiléenne d'Up in Arms, citée par Lexicanum, date de 1017 CI leur défaite.",
+      "en": "The Old World rulebook places the Norse settlement of Sartosa in 1017 IC, whereas the Tilean timeline in Up in Arms, cited by Lexicanum, dates their defeat to 1017 IC.",
+      "de": "Das Regelbuch von The Old World setzt die Ansiedlung der Nordmänner auf Sartosa auf 1017 IK, während die von Lexicanum zitierte tileanische Zeitleiste aus Up in Arms ihre Niederlage auf 1017 IK datiert."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer: The Old World, livre de règles (2024)",
+          "en": "Warhammer: The Old World, rulebook (2024)",
+          "de": "Warhammer: The Old World, Regelbuch (2024)"
+        },
+        "detail": {
+          "fr": "Time of Legend, p. 28",
+          "en": "Time of Legend, p. 28",
+          "de": "Time of Legend, S. 28"
+        },
+        "url": ""
+      },
+      {
+        "titre": "Up in Arms",
+        "detail": {
+          "fr": "chronologie de la Tilée, p. 57-60",
+          "en": "Tilea timeline, p. 57-60",
+          "de": "Zeitleiste Tileas, S. 57-60"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Sartosa",
+          "en": "Lexicanum, Sartosa page",
+          "de": "Lexicanum, Seite Sartosa"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Sartosa"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Tilea",
+          "en": "Lexicanum, Tilea page",
+          "de": "Lexicanum, Seite Tilea"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Tilea"
+      }
+    ]
+  },
+  {
+    "id": "bataille-d-amandur-savage-point",
+    "annee": 1142,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Bataille d'Amandur et victoire de Savage Point",
+      "en": "Battle of Amandur and victory at Savage Point",
+      "de": "Schlacht von Amandur und Sieg bei Savage Point"
+    },
+    "resume": {
+      "fr": "Le roi Guillaume écrase les tribus orques du Massif Orcal à la bataille d'Amandur. La même année, l'amiral Henri Lamorte détruit à Savage Point les flottes squelettiques du roi des tombes Amenemhetum. Les chroniques bretonniennes retiennent ces siècles comme l'âge d'or de la chevalerie.",
+      "en": "King Guillaume crushes the Orc tribes of the Massif Orcal at the Battle of Amandur. The same year, Admiral Henri Lamorte destroys the skeletal fleets of the Tomb King Amenemhetum at Savage Point. Bretonnian chronicles remember these centuries as the golden age of chivalry.",
+      "de": "König Guillaume zerschlägt in der Schlacht von Amandur die Orkstämme des Massif Orcal. Im selben Jahr vernichtet Admiral Henri Lamorte bei Savage Point die Skelettflotten des Gruftkönigs Amenemhetum. Die bretonischen Chroniken erinnern sich an diese Jahrhunderte als goldenes Zeitalter des Rittertums."
+    },
+    "ere": "empire-sigmarite",
+    "regions": [
+      "bretonnie"
+    ],
+    "lieux": [],
+    "factions": [
+      "bretonnie",
+      "peaux-vertes",
+      "rois-des-tombes"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Bretonnia, 6e édition (2004)",
+          "en": "Warhammer Armies: Bretonnia, 6th edition (2004)",
+          "de": "Warhammer Armies: Bretonnia, 6. Edition (2004)"
+        },
+        "detail": {
+          "fr": "A Tale of Years, p. 38-39",
+          "en": "A Tale of Years, p. 38-39",
+          "de": "A Tale of Years, S. 38-39"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Bretonnia",
+          "en": "Lexicanum, Bretonnia page",
+          "de": "Lexicanum, Seite Bretonnia"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Bretonnia"
+      },
+      {
+        "titre": {
+          "fr": "Warhammer Wiki (fandom), page Bretonnia",
+          "en": "Warhammer Wiki (fandom), Bretonnia page",
+          "de": "Warhammer Wiki (fandom), Seite Bretonnia"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Bretonnia"
+      }
+    ]
+  },
+  {
+    "id": "corsaires-d-araby-a-sartosa",
+    "annee": 1240,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Les corsaires d'Araby prennent Sartosa",
+      "en": "The Corsairs of Araby take Sartosa",
+      "de": "Die Korsaren Arabys nehmen Sartosa"
+    },
+    "resume": {
+      "fr": "Les corsaires d'Araby chassent les Norses de Sartosa et s'emparent de l'île. Ils la tiennent pendant plus de deux siècles et demi, jusqu'à sa reconquête par les mercenaires de Luciano Catena en 1501 CI.",
+      "en": "The Corsairs of Araby drive the Norse out of Sartosa and seize the island. They hold it for more than two and a half centuries, until Luciano Catena's mercenaries retake it in 1501 IC.",
+      "de": "Die Korsaren Arabys vertreiben die Nordmänner von Sartosa und nehmen die Insel ein. Sie halten sie über zweieinhalb Jahrhunderte, bis die Söldner Luciano Catenas sie 1501 IK zurückerobern."
+    },
+    "ere": "empire-sigmarite",
+    "regions": [
+      "tilee-estalie"
+    ],
+    "lieux": [
+      "sartosa"
+    ],
+    "factions": [
+      "humains-autres"
+    ],
+    "importance": 1,
+    "fiabilite": "divergent",
+    "note": {
+      "fr": "La chronologie tiléenne date l'invasion de 1240 CI, mais le récit de Lexicanum sur Sartosa la rattache aux désordres de la guerre de Jaffar contre l'Estalie, en 1448 CI.",
+      "en": "The Tilean timeline dates the invasion to 1240 IC, but Lexicanum's account of Sartosa ties it to the turmoil of Jaffar's war against Estalia in 1448 IC.",
+      "de": "Die tileanische Zeitleiste datiert die Invasion auf 1240 IK, doch Lexicanums Darstellung Sartosas verbindet sie mit den Wirren von Jaffars Krieg gegen Estalia 1448 IK."
+    },
+    "sources": [
+      {
+        "titre": "Up in Arms",
+        "detail": {
+          "fr": "chronologie de la Tilée, p. 57-60",
+          "en": "Tilea timeline, p. 57-60",
+          "de": "Zeitleiste Tileas, S. 57-60"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Tilea",
+          "en": "Lexicanum, Tilea page",
+          "de": "Lexicanum, Seite Tilea"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Tilea"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Sartosa",
+          "en": "Lexicanum, Sartosa page",
+          "de": "Lexicanum, Seite Sartosa"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Sartosa"
+      }
+    ]
+  },
+  {
+    "id": "conflit-de-ravola",
+    "annee": 1382,
+    "fin": 1425,
+    "approx": false,
+    "titre": {
+      "fr": "Le conflit de Ravola",
+      "en": "The Ravola conflict",
+      "de": "Der Konflikt um Ravola"
+    },
+    "resume": {
+      "fr": "Pendant plus de quarante ans, barons bretonniens et mercenaires du prince de Miragliano se disputent les vignobles des contreforts des Irrana, autour de la petite ville de Ravola. Lors d'une conférence de paix, un baron bretonnien exige qu'on lui cède la ville, et Etto le Farouche, chef de la compagnie des Venators, le défie en joute. Les chevaliers bretonniens sont tous désarçonnés par les lances tiléennes, plus longues, et repartent humiliés. La Bretonnie ne revendique plus jamais de terres en Tilée.",
+      "en": "For more than forty years, Bretonnian barons and mercenaries in the pay of the Prince of Miragliano fight over the vineyards of the Irrana foothills around the small town of Ravola. At a peace conference, a Bretonnian baron demands that the town be handed over, and Etto the Fierce, captain of the Venators company, challenges him to a joust. The Bretonnian knights are all unhorsed by the longer Tilean lances and leave in humiliation. Bretonnia never again lays claim to Tilean land.",
+      "de": "Über vierzig Jahre lang streiten bretonische Barone und Söldner des Fürsten von Miragliano um die Weinberge in den Ausläufern der Irrana-Berge rund um das Städtchen Ravola. Auf einer Friedenskonferenz verlangt ein bretonischer Baron die Übergabe der Stadt, und Etto der Grimmige, Hauptmann der Kompanie der Venatoren, fordert ihn zum Tjost. Die bretonischen Ritter werden allesamt von den längeren tileanischen Lanzen aus dem Sattel gehoben und ziehen gedemütigt ab. Bretonia erhebt nie wieder Anspruch auf tileanisches Land."
+    },
+    "ere": "trois-empereurs",
+    "regions": [
+      "bretonnie",
+      "tilee-estalie"
+    ],
+    "lieux": [
+      "ravola",
+      "miragliano"
+    ],
+    "factions": [
+      "bretonnie",
+      "humains-autres"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "La chronologie tiléenne date le tournoi de Ravola de 1425 CI, après 43 ans de conflit, ce qui place le début des escarmouches en 1382 CI comme l'indique le wiki fandom.",
+      "en": "The Tilean timeline dates the Ravola tournament to 1425 IC, after 43 years of conflict, which puts the start of the skirmishes in 1382 IC as the fandom wiki states.",
+      "de": "Die tileanische Zeitleiste datiert das Turnier von Ravola auf 1425 IK nach 43 Jahren Konflikt, womit die Scharmützel 1382 IK beginnen, wie das Fandom-Wiki angibt."
+    },
+    "sources": [
+      {
+        "titre": "Up in Arms",
+        "detail": {
+          "fr": "chronologie de la Tilée, p. 57-60",
+          "en": "Tilea timeline, p. 57-60",
+          "de": "Zeitleiste Tileas, S. 57-60"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Tilea",
+          "en": "Lexicanum, Tilea page",
+          "de": "Lexicanum, Seite Tilea"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Tilea"
+      },
+      {
+        "titre": {
+          "fr": "Warhammer Wiki (fandom), page Bretonnia",
+          "en": "Warhammer Wiki (fandom), Bretonnia page",
+          "de": "Warhammer Wiki (fandom), Seite Bretonnia"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Bretonnia"
+      }
+    ]
+  },
+  {
+    "id": "fondation-d-antoch",
+    "annee": 1451,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Les croisés s'établissent à Antoch",
+      "en": "The crusaders settle at Antoch",
+      "de": "Die Kreuzfahrer lassen sich in Antoch nieder"
+    },
+    "resume": {
+      "fr": "Après la victoire d'El Haikk qui clôt la croisade contre le sultan Jaffar, une partie des chevaliers reste en Araby et s'établit à Antoch, cité fortifiée du golfe de Medes. Elle devient la plus grande possession bretonnienne hors du royaume, tenue par le maître des chevaliers d'Antoch.",
+      "en": "After the victory at El Haikk that ends the crusade against Sultan Jaffar, some of the knights remain in Araby and settle at Antoch, a fortified city on the Gulf of Medes. It becomes the greatest Bretonnian holding outside the kingdom, held by the Master of the Knights of Antoch.",
+      "de": "Nach dem Sieg bei El Haikk, der den Kreuzzug gegen Sultan Jaffar beendet, bleibt ein Teil der Ritter in Araby und lässt sich in Antoch nieder, einer befestigten Stadt am Golf von Medes. Sie wird zum größten bretonischen Besitz außerhalb des Königreichs, gehalten vom Meister der Ritter von Antoch."
+    },
+    "ere": "trois-empereurs",
+    "regions": [
+      "sud",
+      "bretonnie"
+    ],
+    "lieux": [
+      "araby"
+    ],
+    "factions": [
+      "bretonnie",
+      "humains-autres"
+    ],
+    "importance": 1,
+    "fiabilite": "incertain",
+    "note": {
+      "fr": "Date de 1451 CI donnée par Lexicanum d'après le White Dwarf 206, seule source consultée.",
+      "en": "Date of 1451 IC given by Lexicanum after White Dwarf 206, the only source consulted.",
+      "de": "Das Jahr 1451 IK nennt Lexicanum nach White Dwarf 206, der einzigen herangezogenen Quelle."
+    },
+    "sources": [
+      {
+        "titre": "White Dwarf 206 (UK)",
+        "detail": {
+          "fr": "The Siege of Antoch, p. 76",
+          "en": "The Siege of Antoch, p. 76",
+          "de": "The Siege of Antoch, S. 76"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Bretonnia",
+          "en": "Lexicanum, Bretonnia page",
+          "de": "Lexicanum, Seite Bretonnia"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Bretonnia"
+      },
+      {
+        "titre": {
+          "fr": "Warhammer Wiki (fandom), page Bretonnia",
+          "en": "Warhammer Wiki (fandom), Bretonnia page",
+          "de": "Warhammer Wiki (fandom), Seite Bretonnia"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Bretonnia"
+      }
+    ]
+  },
+  {
+    "id": "croisade-de-tybalt-royaumes-frontaliers",
+    "annee": 1452,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "La croisade de Tybalt et la naissance des Royaumes frontaliers",
+      "en": "Tybalt's crusade and the birth of the Border Princes",
+      "de": "Tybalts Kreuzzug und die Entstehung der Grenzgrafschaften"
+    },
+    "resume": {
+      "fr": "Une seconde croisade se prépare contre l'Araby. Élu à sa tête, le baron Tybalt du Bois de Balzac choisit la voie de terre pour éviter les pirates et le manque de navires. Arrivés à Barak Varr, les croisés apprennent que le sultan est déjà vaincu et se retournent contre les forteresses peaux-vertes du fleuve de Sang, rejoints par les Nains. Les chevaliers bâtissent des châteaux dans les terres libérées et deviennent les premiers princes de ce qu'on appelle désormais les Royaumes frontaliers.",
+      "en": "A second crusade is being prepared against Araby. Elected its commander, Baron Tybalt du Bois de Balzac chooses the land route to avoid pirates and the lack of ships. On reaching Barak Varr, the crusaders learn that the Sultan has already been defeated and turn against the Greenskin strongholds along the Blood River, joined by the Dwarfs. The knights build castles in the freed lands and become the first princes of what is henceforth called the Border Princes.",
+      "de": "Ein zweiter Kreuzzug gegen Araby wird vorbereitet. Zu seinem Anführer gewählt, wählt Baron Tybalt du Bois de Balzac den Landweg, um Piraten und Schiffsmangel zu entgehen. In Barak Varr erfahren die Kreuzfahrer, dass der Sultan bereits besiegt ist, und wenden sich mit Unterstützung der Zwerge gegen die Festungen der Grünhäute am Blutfluss. Die Ritter errichten Burgen in den befreiten Ländern und werden die ersten Fürsten der Gebiete, die man fortan Grenzgrafschaften nennt."
+    },
+    "ere": "trois-empereurs",
+    "regions": [
+      "royaumes-frontaliers",
+      "bretonnie"
+    ],
+    "lieux": [
+      "barak-varr"
+    ],
+    "factions": [
+      "bretonnie",
+      "nains",
+      "peaux-vertes"
+    ],
+    "importance": 3,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Bretonnia, 5e édition (1996)",
+          "en": "Warhammer Armies: Bretonnia, 5th edition (1996)",
+          "de": "Warhammer Armies: Bretonnia, 5. Edition (1996)"
+        },
+        "detail": {
+          "fr": "The History of Bretonnia, p. 10-16",
+          "en": "The History of Bretonnia, p. 10-16",
+          "de": "The History of Bretonnia, S. 10-16"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Bretonnia, 5e édition (1996)",
+          "en": "Warhammer Armies: Bretonnia, 5th edition (1996)",
+          "de": "Warhammer Armies: Bretonnia, 5. Edition (1996)"
+        },
+        "detail": {
+          "fr": "A Chronicle of Bretonnia, p. 33",
+          "en": "A Chronicle of Bretonnia, p. 33",
+          "de": "A Chronicle of Bretonnia, S. 33"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Border Princes",
+          "en": "Lexicanum, Border Princes page",
+          "de": "Lexicanum, Seite Border Princes"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Border_Princes"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Bretonnia",
+          "en": "Lexicanum, Bretonnia page",
+          "de": "Lexicanum, Seite Bretonnia"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Bretonnia"
+      }
+    ]
+  },
+  {
+    "id": "duc-rouge-champ-de-ceren",
+    "annee": 1454,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Le Duc Rouge et la bataille du champ de Ceren",
+      "en": "The Red Duke and the Battle of Ceren Field",
+      "de": "Der Rote Herzog und die Schlacht auf dem Ceren-Feld"
+    },
+    "resume": {
+      "fr": "Pendant la croisade en Araby, le duc d'Aquitaine, frère aîné du roi Louis, survit à un assassinat grâce au Baiser de sang que lui donne le vampire Abhorash. Rentré en Bretonnie, il devient le Duc Rouge, lève une armée de morts-vivants et accuse son frère d'avoir voulu sa mort. Le roi le vainc au champ de Ceren en lui transperçant le cœur de sa lance. Le corps est scellé dans une tour de marbre au lieu d'être brûlé, et le vampire s'en échappera des siècles plus tard.",
+      "en": "During the crusade in Araby, the Duke of Aquitaine, elder brother of King Louis, survives an assassination thanks to the Blood Kiss given to him by the vampire Abhorash. Back in Bretonnia he becomes the Red Duke, raises an undead army and accuses his brother of wanting him dead. The king defeats him at Ceren Field, piercing his heart with his lance. Instead of being burned, the body is sealed in a marble tower, from which the vampire will escape centuries later.",
+      "de": "Während des Kreuzzugs in Araby überlebt der Herzog von Aquitaine, älterer Bruder König Louis', einen Mordanschlag dank des Blutkusses, den ihm der Vampir Abhorash schenkt. Zurück in Bretonia wird er zum Roten Herzog, erhebt ein Heer von Untoten und beschuldigt seinen Bruder, seinen Tod gewollt zu haben. Der König besiegt ihn auf dem Ceren-Feld und durchbohrt sein Herz mit der Lanze. Statt verbrannt zu werden, wird der Leichnam in einem Marmorturm eingeschlossen, aus dem der Vampir Jahrhunderte später entkommt."
+    },
+    "ere": "trois-empereurs",
+    "regions": [
+      "bretonnie"
+    ],
+    "lieux": [
+      "aquitaine"
+    ],
+    "factions": [
+      "bretonnie",
+      "vampires"
+    ],
+    "importance": 2,
+    "fiabilite": "incertain",
+    "note": {
+      "fr": "Date de 1454 CI (an 476 du calendrier bretonnien) donnée par le wiki fandom seul, Lexicanum ne datant pas la bataille. Le retour du Duc Rouge est placé près de cinq siècles plus tard par le fandom, mais mille ans plus tard dans la campagne Circle of Blood d'origine.",
+      "en": "Date of 1454 IC (year 476 of the Bretonnian calendar) given by the fandom wiki alone, as Lexicanum does not date the battle. The Red Duke's return is placed almost five centuries later by the fandom wiki, but a thousand years later in the original Circle of Blood campaign.",
+      "de": "Das Jahr 1454 IK (Jahr 476 des bretonischen Kalenders) nennt nur das Fandom-Wiki, Lexicanum datiert die Schlacht nicht. Die Rückkehr des Roten Herzogs liegt laut Fandom fast fünf Jahrhunderte später, in der ursprünglichen Kampagne Circle of Blood jedoch tausend Jahre."
+    },
+    "sources": [
+      {
+        "titre": "Circle of Blood",
+        "detail": {
+          "fr": "The Circle of Blood, p. 6",
+          "en": "The Circle of Blood, p. 6",
+          "de": "The Circle of Blood, S. 6"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Red Duke",
+          "en": "Lexicanum, Red Duke page",
+          "de": "Lexicanum, Seite Red Duke"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Red_Duke"
+      },
+      {
+        "titre": {
+          "fr": "Warhammer Wiki (fandom), page Red Duke",
+          "en": "Warhammer Wiki (fandom), Red Duke page",
+          "de": "Warhammer Wiki (fandom), Seite Red Duke"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Red_Duke"
+      }
+    ]
+  },
+  {
+    "id": "bataille-de-magritta-soleil-flamboyant",
+    "annee": 1457,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Bataille de Magritta et naissance du Soleil Flamboyant",
+      "en": "Battle of Magritta and birth of the Blazing Sun",
+      "de": "Schlacht von Magritta und Geburt der Flammenden Sonne"
+    },
+    "resume": {
+      "fr": "Pendant la guerre contre les Arabiens, une soixantaine de chevaliers de l'Empire aident à reprendre le temple de Myrmidia à Magritta. Alors que la bataille semble perdue, un tremblement de terre fait chuter la grande statue de bronze de la déesse, qui écrase l'émir Wazir le Cruel et sa garde. Les Arabiens abandonnent le temple, et les survivants, convaincus d'une intervention divine, fondent à leur retour l'ordre des Chevaliers du Soleil Flamboyant.",
+      "en": "During the war against the Arabyans, some sixty knights of the Empire help recapture the Temple of Myrmidia in Magritta. When the battle seems lost, an earthquake topples the goddess's great bronze statue, which crushes the Emir Wazir the Cruel and his guard. The Arabyans abandon the temple, and the survivors, convinced of divine intervention, found the Order of the Blazing Sun on their return.",
+      "de": "Im Krieg gegen die Arabyer helfen rund sechzig Ritter des Imperiums, den Tempel der Myrmidia in Magritta zurückzuerobern. Als die Schlacht verloren scheint, bringt ein Erdbeben die große Bronzestatue der Göttin zum Einsturz, die den Emir Wazir den Grausamen und seine Garde zermalmt. Die Arabyer geben den Tempel auf, und die Überlebenden gründen, von einem göttlichen Eingreifen überzeugt, nach ihrer Rückkehr den Orden der Flammenden Sonne."
+    },
+    "ere": "trois-empereurs",
+    "regions": [
+      "tilee-estalie"
+    ],
+    "lieux": [
+      "magritta"
+    ],
+    "factions": [
+      "empire",
+      "humains-autres"
+    ],
+    "importance": 2,
+    "fiabilite": "divergent",
+    "note": {
+      "fr": "Lexicanum date la bataille de 1457 CI, alors que la croisade qui libère l'Estalie commence en 1448 CI et s'achève à El Haikk en 1451 CI.",
+      "en": "Lexicanum dates the battle to 1457 IC, whereas the crusade that frees Estalia begins in 1448 IC and ends at El Haikk in 1451 IC.",
+      "de": "Lexicanum datiert die Schlacht auf 1457 IK, während der Kreuzzug zur Befreiung Estalias 1448 IK beginnt und 1451 IK bei El Haikk endet."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Lexicanum, page Knights of the Blazing Sun",
+          "en": "Lexicanum, Knights of the Blazing Sun page",
+          "de": "Lexicanum, Seite Knights of the Blazing Sun"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Knights_of_the_Blazing_Sun"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Magritta",
+          "en": "Lexicanum, Magritta page",
+          "de": "Lexicanum, Seite Magritta"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Magritta"
+      }
+    ]
+  },
+  {
+    "id": "raid-elfe-noir-sur-remas",
+    "annee": 1487,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Raid elfe noir sur Remas",
+      "en": "Dark Elf raid on Remas",
+      "de": "Dunkelelfenüberfall auf Remas"
+    },
+    "resume": {
+      "fr": "Un raid elfe noir frappe Remas. Interrogés, les Hauts Elfes reconnaissent que ces Elfes sont aussi leurs ennemis mais refusent d'en dire plus. Les marchands de Remas, avides de vengeance, se mettent à financer des expéditions vers l'ouest, ce qui mènera Marco Colombo jusqu'en Lustrie.",
+      "en": "A Dark Elf raid strikes Remas. When questioned, the High Elves admit that these Elves are their enemies too but refuse to say more. The merchants of Remas, eager for revenge, begin funding expeditions to the west, which will lead Marco Colombo to Lustria.",
+      "de": "Ein Dunkelelfenüberfall trifft Remas. Auf Nachfrage räumen die Hochelfen ein, dass diese Elfen auch ihre Feinde sind, verweigern aber weitere Auskünfte. Die rachedurstigen Kaufleute von Remas beginnen, Expeditionen nach Westen zu finanzieren, die Marco Colombo bis nach Lustria führen werden."
+    },
+    "ere": "trois-empereurs",
+    "regions": [
+      "tilee-estalie"
+    ],
+    "lieux": [
+      "remas"
+    ],
+    "factions": [
+      "humains-autres",
+      "elfes-noirs",
+      "hauts-elfes"
+    ],
+    "importance": 1,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": "Up in Arms",
+        "detail": {
+          "fr": "chronologie de la Tilée, p. 57-60",
+          "en": "Tilea timeline, p. 57-60",
+          "de": "Zeitleiste Tileas, S. 57-60"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Tilea",
+          "en": "Lexicanum, Tilea page",
+          "de": "Lexicanum, Seite Tilea"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Tilea"
+      }
+    ]
+  },
+  {
+    "id": "catena-reprend-sartosa",
+    "annee": 1501,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Luciano Catena reprend Sartosa",
+      "en": "Luciano Catena retakes Sartosa",
+      "de": "Luciano Catena erobert Sartosa zurück"
+    },
+    "resume": {
+      "fr": "L'armée de mercenaires de Luciano Catena reprend Sartosa aux corsaires d'Araby, avec l'aide de Norses et de flottes pirates selon Lexicanum. Comme pour les Norses avant eux, les Arabiens survivants sont autorisés à rester sur l'île à condition de servir Luccini.",
+      "en": "Luciano Catena's mercenary army retakes Sartosa from the Corsairs of Araby, with the help of Norsemen and pirate fleets according to Lexicanum. As with the Norse before them, the surviving Arabyans are allowed to stay on the island as long as they serve Luccini.",
+      "de": "Das Söldnerheer Luciano Catenas entreißt Sartosa den Korsaren Arabys, laut Lexicanum mit Hilfe von Nordmännern und Piratenflotten. Wie zuvor die Nordmänner dürfen die überlebenden Arabyer auf der Insel bleiben, solange sie Luccini dienen."
+    },
+    "ere": "trois-empereurs",
+    "regions": [
+      "tilee-estalie"
+    ],
+    "lieux": [
+      "sartosa",
+      "luccini"
+    ],
+    "factions": [
+      "humains-autres"
+    ],
+    "importance": 1,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": "Up in Arms",
+        "detail": {
+          "fr": "chronologie de la Tilée, p. 57-60",
+          "en": "Tilea timeline, p. 57-60",
+          "de": "Zeitleiste Tileas, S. 57-60"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Tilea",
+          "en": "Lexicanum, Tilea page",
+          "de": "Lexicanum, Seite Tilea"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Tilea"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Sartosa",
+          "en": "Lexicanum, Sartosa page",
+          "de": "Lexicanum, Seite Sartosa"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Sartosa"
+      }
+    ]
+  },
+  {
+    "id": "skavens-a-tobaro",
+    "annee": 1563,
+    "fin": 1565,
+    "approx": false,
+    "titre": {
+      "fr": "Les Skavens s'emparent de Tobaro",
+      "en": "The Skaven seize Tobaro",
+      "de": "Die Skaven nehmen Tobaro ein"
+    },
+    "resume": {
+      "fr": "Alors que les trésors de Lustrie affluent en Tilée, les Skavens frappent. Le village d'Escantos est dévoré par les rats et Tobaro subit des attaques surgies de sous ses rues, qui incendient des quartiers entiers et enlèvent de nombreux habitants. En 1565 CI, Meldo Marcelli reprend la ville à la tête d'une armée de mercenaires appuyée par des Elfes de la mer.",
+      "en": "As the treasures of Lustria flow into Tilea, the Skaven strike. The village of Escantos is devoured by rats and Tobaro suffers attacks from beneath its streets that burn whole districts and carry off many citizens. In 1565 IC, Meldo Marcelli retakes the city at the head of a mercenary army supported by Sea Elves.",
+      "de": "Während die Schätze Lustrias nach Tilea strömen, schlagen die Skaven zu. Das Dorf Escantos wird von Ratten verschlungen, und Tobaro erleidet Angriffe aus der Tiefe unter seinen Straßen, die ganze Viertel niederbrennen und viele Bürger verschleppen. 1565 IK erobert Meldo Marcelli die Stadt an der Spitze eines Söldnerheeres mit Unterstützung von Seeelfen zurück."
+    },
+    "ere": "trois-empereurs",
+    "regions": [
+      "tilee-estalie"
+    ],
+    "lieux": [
+      "tobaro"
+    ],
+    "factions": [
+      "humains-autres",
+      "skavens",
+      "hauts-elfes"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": "Up in Arms",
+        "detail": {
+          "fr": "chronologie de la Tilée, p. 57-60",
+          "en": "Tilea timeline, p. 57-60",
+          "de": "Zeitleiste Tileas, S. 57-60"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Tilea",
+          "en": "Lexicanum, Tilea page",
+          "de": "Lexicanum, Seite Tilea"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Tilea"
+      }
+    ]
+  },
+  {
+    "id": "occupation-bretonnienne-de-marienburg",
+    "annee": 1597,
+    "fin": 1602,
+    "approx": true,
+    "titre": {
+      "fr": "Les Bretonniens occupent Marienburg",
+      "en": "Bretonnians occupy Marienburg",
+      "de": "Bretonen besetzen Marienburg"
+    },
+    "resume": {
+      "fr": "Une grande armée bretonnienne menée par le duc de L'Anguille s'empare de Marienburg. Les habitants opposent une résistance violente pendant cinq ans. Quand l'Empire rassemble ses forces pour secourir la ville, les Bretonniens doivent se retirer.",
+      "en": "A large Bretonnian army led by the Duke of L'Anguille seizes Marienburg. The inhabitants put up violent resistance for five years. When the Empire musters its forces to relieve the city, the Bretonnians are forced to withdraw.",
+      "de": "Ein großes bretonisches Heer unter dem Herzog von L'Anguille nimmt Marienburg ein. Die Einwohner leisten fünf Jahre lang erbitterten Widerstand. Als das Imperium seine Truppen zum Entsatz der Stadt sammelt, müssen die Bretonen abziehen."
+    },
+    "ere": "trois-empereurs",
+    "regions": [
+      "bretonnie",
+      "empire"
+    ],
+    "lieux": [
+      "marienburg",
+      "anguille"
+    ],
+    "factions": [
+      "bretonnie",
+      "empire"
+    ],
+    "importance": 2,
+    "fiabilite": "incertain",
+    "note": {
+      "fr": "Source unique consultée : le wiki fandom, sans référence précise. La fin en 1602 CI est déduite des cinq années de résistance.",
+      "en": "Only source consulted: the fandom wiki, without a precise reference. The end in 1602 IC is inferred from the five years of resistance.",
+      "de": "Einzige herangezogene Quelle: das Fandom-Wiki ohne genaue Belegstelle. Das Ende 1602 IK ist aus den fünf Jahren Widerstand abgeleitet."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Wiki (fandom), page Bretonnia",
+          "en": "Warhammer Wiki (fandom), Bretonnia page",
+          "de": "Warhammer Wiki (fandom), Seite Bretonnia"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Bretonnia"
+      }
+    ]
+  },
+  {
+    "id": "bataille-de-castellet",
+    "annee": 1635,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Bataille de Castellet",
+      "en": "Battle of Castellet",
+      "de": "Schlacht von Castellet"
+    },
+    "resume": {
+      "fr": "Le roi Philippe le Fort, à la tête de dix mille chevaliers, repousse à la bataille de Castellet des envahisseurs venus de la mer qui menaçaient L'Anguille. Les sources consultées ne précisent pas qui étaient ces assaillants.",
+      "en": "King Philippe the Strong, at the head of ten thousand knights, drives back sea-borne invaders threatening L'Anguille at the Battle of Castellet. The sources consulted do not say who these attackers were.",
+      "de": "König Philippe der Starke schlägt an der Spitze von zehntausend Rittern in der Schlacht von Castellet Invasoren von See zurück, die L'Anguille bedrohten. Die herangezogenen Quellen sagen nicht, wer diese Angreifer waren."
+    },
+    "ere": "trois-empereurs",
+    "regions": [
+      "bretonnie"
+    ],
+    "lieux": [
+      "anguille"
+    ],
+    "factions": [
+      "bretonnie"
+    ],
+    "importance": 1,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Bretonnia, 5e édition (1996)",
+          "en": "Warhammer Armies: Bretonnia, 5th edition (1996)",
+          "de": "Warhammer Armies: Bretonnia, 5. Edition (1996)"
+        },
+        "detail": {
+          "fr": "A Chronicle of Bretonnia, p. 33",
+          "en": "A Chronicle of Bretonnia, p. 33",
+          "de": "A Chronicle of Bretonnia, S. 33"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Bretonnia, 6e édition (2004)",
+          "en": "Warhammer Armies: Bretonnia, 6th edition (2004)",
+          "de": "Warhammer Armies: Bretonnia, 6. Edition (2004)"
+        },
+        "detail": {
+          "fr": "A Tale of Years, p. 38-39",
+          "en": "A Tale of Years, p. 38-39",
+          "de": "A Tale of Years, S. 38-39"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Bretonnia",
+          "en": "Lexicanum, Bretonnia page",
+          "de": "Lexicanum, Seite Bretonnia"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Bretonnia"
+      }
+    ]
+  },
+  {
+    "id": "chute-de-kronenbourg",
+    "annee": 1664,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Chute de Kronenbourg",
+      "en": "Fall of Kronenbourg",
+      "de": "Fall von Kronenbourg"
+    },
+    "resume": {
+      "fr": "Kronenbourg, forteresse fondée en 1452 CI par des compagnons du baron Tybalt, est assiégée par une armée de démons et d'hommes-bêtes. La place et la mine naine voisine sont livrées aux flammes.",
+      "en": "Kronenbourg, a fortress founded in 1452 IC by followers of Baron Tybalt, is besieged by a host of Daemons and Beastmen. The stronghold and the nearby Dwarf mine are left in flames.",
+      "de": "Kronenbourg, eine 1452 IK von Gefolgsleuten Baron Tybalts gegründete Festung, wird von einem Heer aus Dämonen und Tiermenschen belagert. Die Festung und die nahe Zwergenmine gehen in Flammen auf."
+    },
+    "ere": "trois-empereurs",
+    "regions": [
+      "royaumes-frontaliers"
+    ],
+    "lieux": [
+      "kronenbourg"
+    ],
+    "factions": [
+      "chaos",
+      "humains-autres",
+      "nains"
+    ],
+    "importance": 1,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": "Citadel Journal 40",
+        "detail": {
+          "fr": "Battle of Kronenbourg, p. 34",
+          "en": "Battle of Kronenbourg, p. 34",
+          "de": "Battle of Kronenbourg, S. 34"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Border Princes",
+          "en": "Lexicanum, Border Princes page",
+          "de": "Lexicanum, Seite Border Princes"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Border_Princes"
+      }
+    ]
+  },
+  {
+    "id": "horde-de-gorbag",
+    "annee": 1715,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "La horde de Gorbag écrasée",
+      "en": "Gorbag's horde crushed",
+      "de": "Gorbags Horde zerschlagen"
+    },
+    "resume": {
+      "fr": "Une vaste horde orque menée par le chef de guerre Gorbag envahit la Bretonnie. Elle est taillée en pièces par l'ost du royaume, quelques années après que la Waaagh! de Gorbad Griffe-de-Fer a ravagé l'Empire.",
+      "en": "A vast Orc horde led by the warlord Gorbag invades Bretonnia. It is cut to pieces by the kingdom's host, a few years after Gorbad Ironclaw's Waaagh! ravaged the Empire.",
+      "de": "Eine gewaltige Orkhorde unter dem Kriegsherrn Gorbag fällt in Bretonia ein. Sie wird vom Heer des Königreichs aufgerieben, wenige Jahre nachdem Gorbad Eisenklaues Waaagh! das Imperium verwüstet hat."
+    },
+    "ere": "trois-empereurs",
+    "regions": [
+      "bretonnie"
+    ],
+    "lieux": [],
+    "factions": [
+      "bretonnie",
+      "peaux-vertes"
+    ],
+    "importance": 1,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Bretonnia, 5e édition (1996)",
+          "en": "Warhammer Armies: Bretonnia, 5th edition (1996)",
+          "de": "Warhammer Armies: Bretonnia, 5. Edition (1996)"
+        },
+        "detail": {
+          "fr": "A Chronicle of Bretonnia, p. 33",
+          "en": "A Chronicle of Bretonnia, p. 33",
+          "de": "A Chronicle of Bretonnia, S. 33"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Bretonnia, 6e édition (2004)",
+          "en": "Warhammer Armies: Bretonnia, 6th edition (2004)",
+          "de": "Warhammer Armies: Bretonnia, 6. Edition (2004)"
+        },
+        "detail": {
+          "fr": "A Tale of Years, p. 38-39",
+          "en": "A Tale of Years, p. 38-39",
+          "de": "A Tale of Years, S. 38-39"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Bretonnia",
+          "en": "Lexicanum, Bretonnia page",
+          "de": "Lexicanum, Seite Bretonnia"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Bretonnia"
+      }
+    ]
+  },
+  {
+    "id": "nourgul-assiege-magritta",
+    "annee": 1750,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Le nécrarque Nourgul assiège Magritta",
+      "en": "The Necrarch Nourgul besieges Magritta",
+      "de": "Der Nekrarch Nourgul belagert Magritta"
+    },
+    "resume": {
+      "fr": "Le vampire nécrarque Nourgul ravage les terres entre la mer du Sud et les monts Irrana. Les princes estaliens s'unissent contre lui mais sont battus trois fois, et les survivants se replient dans Magritta, qui tombe après trois mois de siège. Nourgul entre dans le temple de Myrmidia et tue les prêtres, mais après un cri déchirant dans la nuit, les défenseurs trouvent ses morts-vivants effondrés et le vampire réduit en cendres au pied de l'autel. Les Estaliens y voient la main de leur déesse.",
+      "en": "The Necrarch vampire Nourgul lays waste to the lands between the Southern Sea and the Irrana Mountains. The Estalian princes unite against him but are beaten three times, and the survivors fall back into Magritta, which falls after a three-month siege. Nourgul enters the Temple of Myrmidia and slays the priests, but after a piercing scream in the night the defenders find his undead collapsed and the vampire reduced to ashes beside the altar. The Estalians see the hand of their goddess in this.",
+      "de": "Der Nekrarch-Vampir Nourgul verwüstet die Länder zwischen dem Südmeer und den Irrana-Bergen. Die estalischen Fürsten vereinen sich gegen ihn, werden aber dreimal geschlagen, und die Überlebenden ziehen sich nach Magritta zurück, das nach dreimonatiger Belagerung fällt. Nourgul dringt in den Tempel der Myrmidia ein und tötet die Priester, doch nach einem gellenden Schrei in der Nacht finden die Verteidiger seine Untoten zusammengebrochen und den Vampir als Asche neben dem Altar. Die Estalier sehen darin die Hand ihrer Göttin."
+    },
+    "ere": "trois-empereurs",
+    "regions": [
+      "tilee-estalie"
+    ],
+    "lieux": [
+      "magritta"
+    ],
+    "factions": [
+      "humains-autres",
+      "vampires"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Vampire Counts, 5e édition (1999)",
+          "en": "Warhammer Armies: Vampire Counts, 5th edition (1999)",
+          "de": "Warhammer Armies: Vampire Counts, 5. Edition (1999)"
+        },
+        "detail": {
+          "fr": "Liber Mortis, p. 56",
+          "en": "Liber Mortis, p. 56",
+          "de": "Liber Mortis, S. 56"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Warhammer: The Old World, livre de règles (2024)",
+          "en": "Warhammer: The Old World, rulebook (2024)",
+          "de": "Warhammer: The Old World, Regelbuch (2024)"
+        },
+        "detail": {
+          "fr": "Southern Wars, p. 55",
+          "en": "Southern Wars, p. 55",
+          "de": "Southern Wars, S. 55"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Estalia",
+          "en": "Lexicanum, Estalia page",
+          "de": "Lexicanum, Seite Estalia"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Estalia"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Magritta",
+          "en": "Lexicanum, Magritta page",
+          "de": "Lexicanum, Seite Magritta"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Magritta"
+      }
+    ]
+  },
+  {
+    "id": "sartosa-cite-des-pirates",
+    "annee": 1757,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Sartosa devient la cité des pirates",
+      "en": "Sartosa becomes the pirate city",
+      "de": "Sartosa wird zur Piratenstadt"
+    },
+    "resume": {
+      "fr": "Sartosa se soulève contre le prince de Luccini et, après plusieurs révoltes victorieuses, devient un port franc livré à l'anarchie. L'île devient le repaire des pirates et contrebandiers de toute la mer Tiléenne. Elle est depuis gouvernée par un prince pirate élu parmi les capitaines, et les princes marchands de Tilée y louent volontiers des navires contre leurs rivaux.",
+      "en": "Sartosa rises against the Prince of Luccini and, after several successful revolts, becomes an anarchic free port. The island becomes the lair of pirates and smugglers from all over the Tilean Sea. It has since been ruled by a Pirate Prince elected from among the captains, and the merchant princes of Tilea readily hire ships there against their rivals.",
+      "de": "Sartosa erhebt sich gegen den Fürsten von Luccini und wird nach mehreren erfolgreichen Aufständen zu einem gesetzlosen Freihafen. Die Insel wird zum Schlupfwinkel der Piraten und Schmuggler des ganzen Tileanischen Meeres. Seitdem regiert sie ein aus den Kapitänen gewählter Piratenfürst, und die Handelsfürsten Tileas heuern dort gern Schiffe gegen ihre Rivalen an."
+    },
+    "ere": "trois-empereurs",
+    "regions": [
+      "tilee-estalie"
+    ],
+    "lieux": [
+      "sartosa",
+      "luccini"
+    ],
+    "factions": [
+      "humains-autres"
+    ],
+    "importance": 3,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": "Up in Arms",
+        "detail": {
+          "fr": "chronologie de la Tilée, p. 57-60",
+          "en": "Tilea timeline, p. 57-60",
+          "de": "Zeitleiste Tileas, S. 57-60"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Warhammer: The Old World, livre de règles (2024)",
+          "en": "Warhammer: The Old World, rulebook (2024)",
+          "de": "Warhammer: The Old World, Regelbuch (2024)"
+        },
+        "detail": {
+          "fr": "The Southern Kingdoms: Tilea, p. 52",
+          "en": "The Southern Kingdoms: Tilea, p. 52",
+          "de": "The Southern Kingdoms: Tilea, S. 52"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Tilea",
+          "en": "Lexicanum, Tilea page",
+          "de": "Lexicanum, Seite Tilea"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Tilea"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Sartosa",
+          "en": "Lexicanum, Sartosa page",
+          "de": "Lexicanum, Seite Sartosa"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Sartosa"
+      }
+    ]
+  },
+  {
+    "id": "peste-rouge-et-merovech",
+    "annee": 1813,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "La Peste rouge et le crime de Merovech",
+      "en": "The Red Pox and Merovech's crime",
+      "de": "Die Rote Pocke und Merovechs Frevel"
+    },
+    "resume": {
+      "fr": "La Peste rouge ravage la Bretonnie et les Skavens assiègent Brionne et Quenelles. Le duc Merovech de Mousillon, l'armée de Parravon et les Elfes d'Athel Loren brisent les hommes-rats, mais Merovech, ivre de sang, se croit la réincarnation de Landuin. Au banquet de la victoire à Mousillon, il tue le roi de ses mains et boit son sang. Lyonesse mène alors la guerre contre lui, et sa chute ouvre le long déclin de Mousillon.",
+      "en": "The Red Pox ravages Bretonnia and the Skaven besiege Brionne and Quenelles. Duke Merovech of Mousillon, the army of Parravon and the Elves of Athel Loren break the ratmen, but Merovech, drunk on blood, believes himself Landuin reborn. At the victory banquet in Mousillon he kills the king with his bare hands and drinks his blood. Lyonesse then leads the war against him, and his fall begins the long decline of Mousillon.",
+      "de": "Die Rote Pocke wütet in Bretonia, und die Skaven belagern Brionne und Quenelles. Herzog Merovech von Mousillon, das Heer von Parravon und die Elfen von Athel Loren zerschlagen die Rattenmenschen, doch der blutberauschte Merovech hält sich für den wiedergeborenen Landuin. Beim Siegesbankett in Mousillon tötet er den König mit bloßen Händen und trinkt sein Blut. Lyonesse führt daraufhin den Krieg gegen ihn, und sein Sturz leitet den langen Niedergang Mousillons ein."
+    },
+    "ere": "trois-empereurs",
+    "regions": [
+      "bretonnie"
+    ],
+    "lieux": [
+      "mousillon",
+      "brionne",
+      "quenelles",
+      "lyonesse"
+    ],
+    "factions": [
+      "bretonnie",
+      "skavens",
+      "elfes-sylvains"
+    ],
+    "importance": 3,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "La chronologie tiléenne d'Up in Arms date de 1812 CI le passage de la Peste rouge en Tilée.",
+      "en": "The Tilean timeline in Up in Arms dates the Red Pox in Tilea to 1812 IC.",
+      "de": "Die tileanische Zeitleiste in Up in Arms datiert die Rote Pocke in Tilea auf 1812 IK."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Bretonnia, 5e édition (1996)",
+          "en": "Warhammer Armies: Bretonnia, 5th edition (1996)",
+          "de": "Warhammer Armies: Bretonnia, 5. Edition (1996)"
+        },
+        "detail": {
+          "fr": "A Chronicle of Bretonnia, p. 33",
+          "en": "A Chronicle of Bretonnia, p. 33",
+          "de": "A Chronicle of Bretonnia, S. 33"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Bretonnia, 6e édition (2004)",
+          "en": "Warhammer Armies: Bretonnia, 6th edition (2004)",
+          "de": "Warhammer Armies: Bretonnia, 6. Edition (2004)"
+        },
+        "detail": {
+          "fr": "A Tale of Years, p. 38-39",
+          "en": "A Tale of Years, p. 38-39",
+          "de": "A Tale of Years, S. 38-39"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Bretonnia",
+          "en": "Lexicanum, Bretonnia page",
+          "de": "Lexicanum, Seite Bretonnia"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Bretonnia"
+      },
+      {
+        "titre": {
+          "fr": "Warhammer Wiki (fandom), page Bretonnia",
+          "en": "Warhammer Wiki (fandom), Bretonnia page",
+          "de": "Warhammer Wiki (fandom), Seite Bretonnia"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Bretonnia"
+      }
+    ]
+  },
+  {
+    "id": "expedition-du-duc-d-lorrain",
+    "annee": 1847,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "L'expédition du duc d'Lorrain en Lustrie",
+      "en": "The Duc d'Lorrain's expedition to Lustria",
+      "de": "Die Lustria-Expedition des Duc d'Lorrain"
+    },
+    "resume": {
+      "fr": "Le roi Jean finance une expédition vers la Lustrie sous le commandement du duc d'Lorrain, qui appareille de Bordeleaux. Les Bretonniens pillent la cité en ruine de Huatl, puis sont attaqués et massacrés par les Hommes-lézards. Les survivants doivent fuir vers la Bretonnie.",
+      "en": "King Jean finances an expedition to Lustria under the command of the Duc d'Lorrain, which sets sail from Bordeleaux. The Bretonnians loot the ruined city of Huatl, then are attacked and massacred by the Lizardmen. The survivors are forced to flee home.",
+      "de": "König Jean finanziert eine Expedition nach Lustria unter dem Befehl des Duc d'Lorrain, die von Bordeleaux aus in See sticht. Die Bretonen plündern die Ruinenstadt Huatl, werden dann von den Echsenmenschen angegriffen und niedergemetzelt. Die Überlebenden müssen nach Hause fliehen."
+    },
+    "ere": "trois-empereurs",
+    "regions": [
+      "bretonnie",
+      "lustrie"
+    ],
+    "lieux": [
+      "bordeleaux",
+      "lustrie"
+    ],
+    "factions": [
+      "bretonnie",
+      "hommes-lezards"
+    ],
+    "importance": 1,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": "White Dwarf 205 (UK)",
+        "detail": {
+          "fr": "A Dark Conspiracy, p. 34-35",
+          "en": "A Dark Conspiracy, p. 34-35",
+          "de": "A Dark Conspiracy, S. 34-35"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Bretonnia",
+          "en": "Lexicanum, Bretonnia page",
+          "de": "Lexicanum, Seite Bretonnia"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Bretonnia"
+      }
+    ]
+  },
+  {
+    "id": "tobaro-elit-un-cochon",
+    "annee": 1877,
+    "fin": 1889,
+    "approx": false,
+    "titre": {
+      "fr": "Tobaro élit un cochon pour prince",
+      "en": "Tobaro elects a pig as prince",
+      "de": "Tobaro wählt ein Schwein zum Fürsten"
+    },
+    "resume": {
+      "fr": "Les habitants de Tobaro élisent un cochon comme prince. L'animal conserve le trône pendant douze ans, épisode qui témoigne de l'instabilité politique des cités tiléennes.",
+      "en": "The people of Tobaro elect a pig as their prince. The animal keeps the throne for twelve years, an episode that reflects the political instability of the Tilean cities.",
+      "de": "Die Einwohner Tobaros wählen ein Schwein zu ihrem Fürsten. Das Tier behält den Thron zwölf Jahre lang, eine Episode, die die politische Unbeständigkeit der tileanischen Städte zeigt."
+    },
+    "ere": "trois-empereurs",
+    "regions": [
+      "tilee-estalie"
+    ],
+    "lieux": [
+      "tobaro"
+    ],
+    "factions": [
+      "humains-autres"
+    ],
+    "importance": 1,
+    "fiabilite": "incertain",
+    "note": {
+      "fr": "Mention unique dans la chronologie tiléenne d'Up in Arms, citée par Lexicanum.",
+      "en": "Single mention in the Tilean timeline of Up in Arms, cited by Lexicanum.",
+      "de": "Einzige Erwähnung in der tileanischen Zeitleiste von Up in Arms, zitiert von Lexicanum."
+    },
+    "sources": [
+      {
+        "titre": "Up in Arms",
+        "detail": {
+          "fr": "chronologie de la Tilée, p. 57-60",
+          "en": "Tilea timeline, p. 57-60",
+          "de": "Zeitleiste Tileas, S. 57-60"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Tilea",
+          "en": "Lexicanum, Tilea page",
+          "de": "Lexicanum, Seite Tilea"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Tilea"
+      }
+    ]
+  },
+  {
+    "id": "ere-des-lumieres-tileenne",
+    "annee": 2000,
+    "fin": null,
+    "approx": true,
+    "titre": {
+      "fr": "L'ère des Lumières tiléenne",
+      "en": "The Tilean Era of Enlightenment",
+      "de": "Das tileanische Zeitalter der Aufklärung"
+    },
+    "resume": {
+      "fr": "La Tilée entre dans une ère des Lumières qui fait fleurir pendant des siècles les arts et la culture. Les principautés retombent pourtant dans les querelles et les intrigues. Excédées par la tyrannie de leurs princes, Remas et Verezzo se proclament républiques, tandis que les cinq autres principautés restent gouvernées par des princes ou, à Miragliano et Pavona, par leurs veuves.",
+      "en": "Tilea enters an Era of Enlightenment in which art and culture flourish for centuries. Yet the principalities fall back into bickering and intrigue. Weary of their princes' tyranny, Remas and Verezzo proclaim themselves republics, while the other five principalities remain ruled by princes or, in Miragliano and Pavona, by their widows.",
+      "de": "Tilea tritt in ein Zeitalter der Aufklärung ein, in dem Kunst und Kultur jahrhundertelang blühen. Doch die Fürstentümer verfallen wieder in Zank und Ränke. Der Tyrannei ihrer Fürsten überdrüssig, rufen sich Remas und Verezzo zu Republiken aus, während die übrigen fünf Fürstentümer von Fürsten oder, in Miragliano und Pavona, von deren Witwen regiert werden."
+    },
+    "ere": "trois-empereurs",
+    "regions": [
+      "tilee-estalie"
+    ],
+    "lieux": [
+      "remas",
+      "verezzo",
+      "miragliano",
+      "pavona"
+    ],
+    "factions": [
+      "humains-autres"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "L'an 2000 CI marque le début de cette ère. La proclamation des républiques n'est pas datée précisément.",
+      "en": "The year 2000 IC marks the start of this era. The proclamation of the republics is not precisely dated.",
+      "de": "Das Jahr 2000 IK markiert den Beginn dieser Epoche. Die Ausrufung der Republiken ist nicht genau datiert."
+    },
+    "sources": [
+      {
+        "titre": "Up in Arms",
+        "detail": {
+          "fr": "chronologie de la Tilée, p. 57-60",
+          "en": "Tilea timeline, p. 57-60",
+          "de": "Zeitleiste Tileas, S. 57-60"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Tilea",
+          "en": "Lexicanum, Tilea page",
+          "de": "Lexicanum, Seite Tilea"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Tilea"
+      }
+    ]
+  },
+  {
+    "id": "repanse-bataille-de-couronne",
+    "annee": 2007,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Repanse de Lyonesse à la bataille de Couronne",
+      "en": "Repanse de Lyonesse at the Battle of Couronne",
+      "de": "Repanse de Lyonesse in der Schlacht von Couronne"
+    },
+    "resume": {
+      "fr": "Repanse, bergère de Lyonesse d'une grande piété, prend les armes et l'armure d'un chevalier tombé et rallie l'armée de son duché avec la bénédiction de la Dame. Elle défait une immense horde du Chaos à la bataille de Couronne. Elle reste l'une des héroïnes les plus célèbres de l'histoire bretonnienne.",
+      "en": "Repanse, a devout shepherdess of Lyonesse, takes up the arms and armour of a fallen knight and rallies her dukedom's army with the Lady's blessing. She defeats a vast Chaos horde at the Battle of Couronne. She remains one of the most famous heroines in Bretonnian history.",
+      "de": "Repanse, eine fromme Schäferin aus Lyonesse, legt Waffen und Rüstung eines gefallenen Ritters an und sammelt mit dem Segen der Herrin das Heer ihres Herzogtums. In der Schlacht von Couronne besiegt sie eine gewaltige Chaoshorde. Sie bleibt eine der berühmtesten Heldinnen der bretonischen Geschichte."
+    },
+    "ere": "trois-empereurs",
+    "regions": [
+      "bretonnie"
+    ],
+    "lieux": [
+      "couronne",
+      "lyonesse"
+    ],
+    "factions": [
+      "bretonnie",
+      "chaos"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Bretonnia, 6e édition (2004)",
+          "en": "Warhammer Armies: Bretonnia, 6th edition (2004)",
+          "de": "Warhammer Armies: Bretonnia, 6. Edition (2004)"
+        },
+        "detail": {
+          "fr": "A Tale of Years, p. 38-39",
+          "en": "A Tale of Years, p. 38-39",
+          "de": "A Tale of Years, S. 38-39"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Bretonnia",
+          "en": "Lexicanum, Bretonnia page",
+          "de": "Lexicanum, Seite Bretonnia"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Bretonnia"
+      },
+      {
+        "titre": {
+          "fr": "Warhammer Wiki (fandom), page Bretonnia",
+          "en": "Warhammer Wiki (fandom), Bretonnia page",
+          "de": "Warhammer Wiki (fandom), Seite Bretonnia"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Bretonnia"
+      }
+    ]
+  },
+  {
+    "id": "guerre-d-errance-de-louen-tueur-d-orques",
+    "annee": 2201,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "La guerre d'errance de Louen Tueur d'Orques",
+      "en": "Louen Orc-Slayer's Errantry War",
+      "de": "Louen Orktöters Krieg der Fahrenden Ritter"
+    },
+    "resume": {
+      "fr": "Le roi Louen Tueur d'Orques proclame une guerre d'errance contre les Peaux-vertes massées aux frontières. Des milliers de jeunes chevaliers errants rejoignent les osts ducaux, les places fortes orques tombent et les frontières des duchés reculent. Beaucoup de ces chevaliers reçoivent à la fin de la guerre les nouveaux fiefs conquis.",
+      "en": "King Louen Orc-Slayer declares an Errantry War against the Greenskins massing on the borders. Thousands of young Knights Errant join the ducal hosts, Orc strongholds fall and the frontiers of the dukedoms are pushed back. Many of these knights are granted the newly conquered fiefs at the end of the war.",
+      "de": "König Louen Orktöter ruft einen Krieg der Fahrenden Ritter gegen die an den Grenzen versammelten Grünhäute aus. Tausende junge Fahrende Ritter schließen sich den herzoglichen Heeren an, Orkfestungen fallen und die Grenzen der Herzogtümer werden vorgeschoben. Viele dieser Ritter erhalten nach dem Krieg die neu eroberten Lehen."
+    },
+    "ere": "trois-empereurs",
+    "regions": [
+      "bretonnie"
+    ],
+    "lieux": [],
+    "factions": [
+      "bretonnie",
+      "peaux-vertes"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "Conversion : 2201 CI correspond à l'an 1223 du calendrier bretonnien.",
+      "en": "Conversion: 2201 IC corresponds to year 1223 of the Bretonnian calendar.",
+      "de": "Umrechnung: 2201 IK entspricht dem Jahr 1223 des bretonischen Kalenders."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Bretonnia, 5e édition (1996)",
+          "en": "Warhammer Armies: Bretonnia, 5th edition (1996)",
+          "de": "Warhammer Armies: Bretonnia, 5. Edition (1996)"
+        },
+        "detail": {
+          "fr": "A Chronicle of Bretonnia, p. 33",
+          "en": "A Chronicle of Bretonnia, p. 33",
+          "de": "A Chronicle of Bretonnia, S. 33"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Bretonnia, 6e édition (2004)",
+          "en": "Warhammer Armies: Bretonnia, 6th edition (2004)",
+          "de": "Warhammer Armies: Bretonnia, 6. Edition (2004)"
+        },
+        "detail": {
+          "fr": "A Tale of Years, p. 38-39",
+          "en": "A Tale of Years, p. 38-39",
+          "de": "A Tale of Years, S. 38-39"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Bretonnia",
+          "en": "Lexicanum, Bretonnia page",
+          "de": "Lexicanum, Seite Bretonnia"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Bretonnia"
+      },
+      {
+        "titre": {
+          "fr": "Warhammer Wiki (fandom), page Bretonnia",
+          "en": "Warhammer Wiki (fandom), Bretonnia page",
+          "de": "Warhammer Wiki (fandom), Seite Bretonnia"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Bretonnia"
+      }
+    ]
+  },
+  {
+    "id": "faux-graal-de-maldred",
+    "annee": 2297,
+    "fin": 2300,
+    "approx": false,
+    "titre": {
+      "fr": "L'affaire du faux Graal et la fin de Mousillon",
+      "en": "The Affair of the False Grail and the end of Mousillon",
+      "de": "Die Affäre um den falschen Gral und das Ende Mousillons"
+    },
+    "resume": {
+      "fr": "Après la mort du roi Jules, sa fille la Belle Isoulde promet le trône au chevalier qui tuera un Jabberwock. Le duc Maldred de Mousillon et son épouse, la sorcière Malfleur, emprisonnent en secret la Fée Enchanteresse et exhibent un faux Graal pour se faire reconnaître roi. Gaston de Geste délivre l'Enchanteresse, devient roi et épouse Isoulde. Assiégé trois ans, Maldred meurt de la Peste rouge avec la plupart des habitants, et Mousillon perd à jamais son rang de duché.",
+      "en": "After King Jules dies, his daughter La Belle Isoulde promises the throne to the knight who slays a Jabberwock. Duke Maldred of Mousillon and his wife, the sorceress Malfleur, secretly imprison the Fay Enchantress and display a false Grail to have Maldred acknowledged as king. Gaston de Geste frees the Enchantress, becomes king and marries Isoulde. Besieged for three years, Maldred dies of the Red Pox along with most of the inhabitants, and Mousillon loses its status as a dukedom forever.",
+      "de": "Nach dem Tod König Jules' verspricht seine Tochter La Belle Isoulde den Thron dem Ritter, der einen Jabberwock erschlägt. Herzog Maldred von Mousillon und seine Gemahlin, die Zauberin Malfleur, setzen heimlich die Feenzauberin gefangen und zeigen einen falschen Gral vor, um Maldred als König anerkennen zu lassen. Gaston de Geste befreit die Zauberin, wird König und heiratet Isoulde. Nach dreijähriger Belagerung stirbt Maldred mit den meisten Einwohnern an der Roten Pocke, und Mousillon verliert für immer seinen Rang als Herzogtum."
+    },
+    "ere": "trois-empereurs",
+    "regions": [
+      "bretonnie"
+    ],
+    "lieux": [
+      "mousillon",
+      "gisoreux"
+    ],
+    "factions": [
+      "bretonnie"
+    ],
+    "importance": 3,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "Lexicanum situe la mort de Jules vers 2297 CI, le wiki fandom place l'affaire entre 2297 et 2300 CI. Le nom du nouveau roi varie entre Gaston de Geste et Gaston de Beau Geste.",
+      "en": "Lexicanum places Jules' death around 2297 IC, the fandom wiki places the affair between 2297 and 2300 IC. The new king's name varies between Gaston de Geste and Gaston de Beau Geste.",
+      "de": "Lexicanum setzt Jules' Tod um 2297 IK an, das Fandom-Wiki die Affäre zwischen 2297 und 2300 IK. Der Name des neuen Königs schwankt zwischen Gaston de Geste und Gaston de Beau Geste."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Bretonnia, 5e édition (1996)",
+          "en": "Warhammer Armies: Bretonnia, 5th edition (1996)",
+          "de": "Warhammer Armies: Bretonnia, 5. Edition (1996)"
+        },
+        "detail": {
+          "fr": "The History of Bretonnia, p. 10-16",
+          "en": "The History of Bretonnia, p. 10-16",
+          "de": "The History of Bretonnia, S. 10-16"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Bretonnia",
+          "en": "Lexicanum, Bretonnia page",
+          "de": "Lexicanum, Seite Bretonnia"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Bretonnia"
+      },
+      {
+        "titre": {
+          "fr": "Warhammer Wiki (fandom), page Bretonnia",
+          "en": "Warhammer Wiki (fandom), Bretonnia page",
+          "de": "Warhammer Wiki (fandom), Seite Bretonnia"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Bretonnia"
+      }
+    ]
+  },
+  {
+    "id": "corsaires-de-karond-kar-a-sartosa",
+    "annee": 2379,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Corsaires elfes noirs naufragés à Sartosa",
+      "en": "Dark Elf corsairs shipwrecked at Sartosa",
+      "de": "Schiffbrüchige Dunkelelfenkorsaren bei Sartosa"
+    },
+    "resume": {
+      "fr": "Des corsaires elfes noirs de Karond Kar font naufrage près de Sartosa. Ils volent plusieurs navires, dont le vaisseau amiral du seigneur pirate Ernezio Porcurio, et pillent les côtes de Remas et de Luccini. Trahis par les mercenaires qu'ils avaient engagés, ils finissent eux-mêmes captifs des pirates.",
+      "en": "Dark Elf corsairs from Karond Kar are shipwrecked near Sartosa. They steal several ships, including the flagship of the pirate lord Ernezio Porcurio, and raid the coasts of Remas and Luccini. Betrayed by the mercenaries they had hired, they end up captives of the pirates themselves.",
+      "de": "Dunkelelfenkorsaren aus Karond Kar erleiden vor Sartosa Schiffbruch. Sie stehlen mehrere Schiffe, darunter das Flaggschiff des Piratenlords Ernezio Porcurio, und plündern die Küsten von Remas und Luccini. Von den Söldnern verraten, die sie angeheuert hatten, geraten sie selbst in die Gefangenschaft der Piraten."
+    },
+    "ere": "empire-reunifie",
+    "regions": [
+      "tilee-estalie",
+      "naggaroth"
+    ],
+    "lieux": [
+      "sartosa",
+      "karond-kar",
+      "remas",
+      "luccini"
+    ],
+    "factions": [
+      "elfes-noirs",
+      "humains-autres"
+    ],
+    "importance": 1,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Dark Elves, 7e édition (2008)",
+          "en": "Warhammer Armies: Dark Elves, 7th edition (2008)",
+          "de": "Warhammer Armies: Dark Elves, 7. Edition (2008)"
+        },
+        "detail": {
+          "fr": "The Dark Elves, p. 33",
+          "en": "The Dark Elves, p. 33",
+          "de": "The Dark Elves, S. 33"
+        },
+        "url": ""
+      },
+      {
+        "titre": "Up in Arms",
+        "detail": {
+          "fr": "chronologie de la Tilée, p. 57-60",
+          "en": "Tilea timeline, p. 57-60",
+          "de": "Zeitleiste Tileas, S. 57-60"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Sartosa",
+          "en": "Lexicanum, Sartosa page",
+          "de": "Lexicanum, Seite Sartosa"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Sartosa"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Tilea",
+          "en": "Lexicanum, Tilea page",
+          "de": "Lexicanum, Seite Tilea"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Tilea"
+      }
+    ]
+  },
+  {
+    "id": "ennio-mordini-et-lambrusco",
+    "annee": 2406,
+    "fin": 2416,
+    "approx": false,
+    "titre": {
+      "fr": "La trahison d'Ennio Mordini",
+      "en": "The betrayal of Ennio Mordini",
+      "de": "Der Verrat an Ennio Mordini"
+    },
+    "resume": {
+      "fr": "Le général mercenaire Ennio Mordini entre au service du duc Fabriano de Lambrusco, mais sa compétence finit par inquiéter son employeur. En 2411 CI, Mordini et ses hommes sont trahis et massacrés. Cinq ans plus tard, une armée de squelettes portant sa bannière en lambeaux descend des monts Apuccini, s'empare de Lambrusco et s'y retranche.",
+      "en": "The mercenary general Ennio Mordini enters the service of Duke Fabriano of Lambrusco, but his competence ends up worrying his employer. In 2411 IC, Mordini and his men are betrayed and slaughtered. Five years later, a skeleton army bearing his tattered banner comes down from the Apuccini Mountains, takes Lambrusco and fortifies it.",
+      "de": "Der Söldnergeneral Ennio Mordini tritt in die Dienste Herzog Fabrianos von Lambrusco, doch seine Tüchtigkeit beunruhigt seinen Dienstherrn zusehends. 2411 IK werden Mordini und seine Männer verraten und niedergemacht. Fünf Jahre später steigt ein Skelettheer unter seinem zerfetzten Banner aus den Apuccini-Bergen herab, erobert Lambrusco und verschanzt sich dort."
+    },
+    "ere": "empire-reunifie",
+    "regions": [
+      "tilee-estalie"
+    ],
+    "lieux": [],
+    "factions": [
+      "humains-autres",
+      "vampires"
+    ],
+    "importance": 1,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": "Up in Arms",
+        "detail": {
+          "fr": "chronologie de la Tilée, p. 57-60",
+          "en": "Tilea timeline, p. 57-60",
+          "de": "Zeitleiste Tileas, S. 57-60"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Tilea",
+          "en": "Lexicanum, Tilea page",
+          "de": "Lexicanum, Seite Tilea"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Tilea"
+      }
+    ]
+  },
+  {
+    "id": "kemmler-contre-brachnar",
+    "annee": 2415,
+    "fin": 2422,
+    "approx": false,
+    "titre": {
+      "fr": "Kemmler contre le Conseil des Neuf",
+      "en": "Kemmler against the Council of Nine",
+      "de": "Kemmler gegen den Rat der Neun"
+    },
+    "resume": {
+      "fr": "La puissance croissante du nécromancien Heinrich Kemmler attire la rivalité du nécrarque Brachnar le Damné, qui retourne plusieurs de ses disciples pour former le Conseil des Neuf. Les deux camps se combattent à travers l'Estalie de 2415 à 2419 CI. Kemmler écrase les légions du Conseil près de Quenelles en 2420 CI, puis l'emporte sur Brachnar en duel magique en 2422 CI.",
+      "en": "The growing power of the necromancer Heinrich Kemmler draws the rivalry of the Necrarch Brachnar the Damned, who turns several of his pupils to form the Council of Nine. The two factions battle across Estalia from 2415 to 2419 IC. Kemmler smashes the Council's legions near Quenelles in 2420 IC, then defeats Brachnar in a magical duel in 2422 IC.",
+      "de": "Die wachsende Macht des Nekromanten Heinrich Kemmler ruft die Feindschaft des Nekrarchen Brachnar des Verdammten hervor, der mehrere seiner Schüler abwirbt und den Rat der Neun bildet. Die beiden Lager kämpfen von 2415 bis 2419 IK quer durch Estalia. Kemmler zerschlägt 2420 IK bei Quenelles die Legionen des Rates und besiegt Brachnar 2422 IK in einem magischen Duell."
+    },
+    "ere": "empire-reunifie",
+    "regions": [
+      "tilee-estalie",
+      "bretonnie"
+    ],
+    "lieux": [
+      "quenelles"
+    ],
+    "factions": [
+      "vampires"
+    ],
+    "importance": 1,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "Lexicanum dit Brachnar réduit en poussière en 2422 CI, mais le fait ensuite tendre une embuscade à Kemmler à la bataille des Dix Mille Crânes.",
+      "en": "Lexicanum says Brachnar is turned to dust in 2422 IC, but later has him ambush Kemmler at the Battle of Ten Thousand Skulls.",
+      "de": "Laut Lexicanum wird Brachnar 2422 IK zu Staub, lockt Kemmler später aber in der Schlacht der Zehntausend Schädel in einen Hinterhalt."
+    },
+    "sources": [
+      {
+        "titre": "White Dwarf 309 (UK)",
+        "detail": {
+          "fr": "The history of Heinrich Kemmler, p. 61",
+          "en": "The history of Heinrich Kemmler, p. 61",
+          "de": "The history of Heinrich Kemmler, S. 61"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Heinrich Kemmler",
+          "en": "Lexicanum, Heinrich Kemmler page",
+          "de": "Lexicanum, Seite Heinrich Kemmler"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Heinrich_Kemmler"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Estalia",
+          "en": "Lexicanum, Estalia page",
+          "de": "Lexicanum, Seite Estalia"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Estalia"
+      }
+    ]
+  },
+  {
+    "id": "raids-elfes-noirs-sur-la-bretonnie",
+    "annee": 2418,
+    "fin": 2468,
+    "approx": false,
+    "titre": {
+      "fr": "Raids elfes noirs et ruine de L'Anguille",
+      "en": "Dark Elf raids and the ruin of L'Anguille",
+      "de": "Dunkelelfenüberfälle und der Untergang von L'Anguille"
+    },
+    "resume": {
+      "fr": "Irrité par les bonnes relations entre les ducs bretonniens et Ulthuan, Malekith pousse les hommes-bêtes de la forêt d'Arden et les Orques du Massif Orcal à ravager l'intérieur du royaume. Le roi Charlen doit dégarnir les forteresses côtières, et les Elfes noirs mettent à sac la côte nord. L'Anguille, premier port du royaume, est laissée en ruine et ses habitants emmenés en esclavage. Ces raids affaiblissent la Bretonnie au point qu'elle doit refuser son aide aux autres nations.",
+      "en": "Angered by the good relations between the Bretonnian dukes and Ulthuan, Malekith incites the Beastmen of the Forest of Arden and the Orcs of the Massif Orcal to ravage the kingdom's interior. King Charlen has to strip the coastal fortresses of their garrisons, and the Dark Elves sack the northern coast. L'Anguille, the kingdom's greatest port, is left in ruins and its people carried off into slavery. These raids weaken Bretonnia so much that it has to refuse aid to other nations.",
+      "de": "Erzürnt über die guten Beziehungen der bretonischen Herzöge zu Ulthuan, stachelt Malekith die Tiermenschen des Waldes von Arden und die Orks des Massif Orcal an, das Landesinnere zu verwüsten. König Charlen muss die Küstenfestungen entblößen, und die Dunkelelfen plündern die Nordküste. L'Anguille, der größte Hafen des Reiches, bleibt in Trümmern zurück, seine Bewohner werden in die Sklaverei verschleppt. Diese Überfälle schwächen Bretonia so sehr, dass es anderen Nationen die Hilfe verweigern muss."
+    },
+    "ere": "empire-reunifie",
+    "regions": [
+      "bretonnie"
+    ],
+    "lieux": [
+      "anguille"
+    ],
+    "factions": [
+      "bretonnie",
+      "elfes-noirs",
+      "chaos",
+      "peaux-vertes"
+    ],
+    "importance": 2,
+    "fiabilite": "incertain",
+    "note": {
+      "fr": "Source unique consultée : le wiki fandom, qui renvoie au livre d'armée Dark Elves de 7e édition. La période 2418 à 2468 CI est celle de la section du fandom.",
+      "en": "Only source consulted: the fandom wiki, which cites the 7th edition Dark Elves army book. The period 2418 to 2468 IC is that of the fandom section.",
+      "de": "Einzige herangezogene Quelle: das Fandom-Wiki, das auf das Dunkelelfen-Armeebuch der 7. Edition verweist. Der Zeitraum 2418 bis 2468 IK ist der des Fandom-Abschnitts."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Dark Elves, 7e édition (2008)",
+          "en": "Warhammer Armies: Dark Elves, 7th edition (2008)",
+          "de": "Warhammer Armies: Dark Elves, 7. Edition (2008)"
+        },
+        "detail": "",
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Warhammer Wiki (fandom), page Bretonnia",
+          "en": "Warhammer Wiki (fandom), Bretonnia page",
+          "de": "Warhammer Wiki (fandom), Seite Bretonnia"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Bretonnia"
+      }
+    ]
+  },
+  {
+    "id": "guerre-d-errance-de-charlen",
+    "annee": 2420,
+    "fin": 2488,
+    "approx": false,
+    "titre": {
+      "fr": "La guerre d'errance de Charlen",
+      "en": "Charlen's Errantry War",
+      "de": "Charlens Krieg der Fahrenden Ritter"
+    },
+    "resume": {
+      "fr": "Les Royaumes frontaliers, submergés par des hordes orques, appellent la Bretonnie à l'aide. Le roi Charlen proclame une guerre d'errance pour en finir avec les Peaux-vertes, et des milliers de jeunes chevaliers franchissent les montagnes. Les premières victoires sur les rives du fleuve de Sang laissent place à une guerre de plus de soixante ans qui saigne le royaume. Dès 2422 CI, les Orques profitent de l'absence des chevaliers pour ravager le duché de Carcassonne.",
+      "en": "Overrun by Orc hordes, the Border Princes call on Bretonnia for aid. King Charlen declares an Errantry War to be done with the Greenskins, and thousands of young knights cross the mountains. The first victories on the banks of the Blood River give way to a war of more than sixty years that bleeds the kingdom dry. As early as 2422 IC, the Orcs take advantage of the knights' absence to ravage the dukedom of Carcassonne.",
+      "de": "Von Orkhorden überrannt, rufen die Grenzgrafschaften Bretonia um Hilfe. König Charlen ruft einen Krieg der Fahrenden Ritter aus, um mit den Grünhäuten ein Ende zu machen, und Tausende junge Ritter ziehen über die Berge. Den ersten Siegen an den Ufern des Blutflusses folgt ein über sechzigjähriger Krieg, der das Königreich ausblutet. Schon 2422 IK nutzen die Orks die Abwesenheit der Ritter, um das Herzogtum Carcassonne zu verwüsten."
+    },
+    "ere": "empire-reunifie",
+    "regions": [
+      "bretonnie",
+      "royaumes-frontaliers"
+    ],
+    "lieux": [
+      "carcassonne"
+    ],
+    "factions": [
+      "bretonnie",
+      "peaux-vertes",
+      "humains-autres"
+    ],
+    "importance": 3,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "Conversion : 2420 CI correspond à l'an 1442 du calendrier bretonnien.",
+      "en": "Conversion: 2420 IC corresponds to year 1442 of the Bretonnian calendar.",
+      "de": "Umrechnung: 2420 IK entspricht dem Jahr 1442 des bretonischen Kalenders."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Bretonnia, 5e édition (1996)",
+          "en": "Warhammer Armies: Bretonnia, 5th edition (1996)",
+          "de": "Warhammer Armies: Bretonnia, 5. Edition (1996)"
+        },
+        "detail": {
+          "fr": "The History of Bretonnia, p. 10-16",
+          "en": "The History of Bretonnia, p. 10-16",
+          "de": "The History of Bretonnia, S. 10-16"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Bretonnia, 6e édition (2004)",
+          "en": "Warhammer Armies: Bretonnia, 6th edition (2004)",
+          "de": "Warhammer Armies: Bretonnia, 6. Edition (2004)"
+        },
+        "detail": {
+          "fr": "A Tale of Years, p. 38-39",
+          "en": "A Tale of Years, p. 38-39",
+          "de": "A Tale of Years, S. 38-39"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Bretonnia",
+          "en": "Lexicanum, Bretonnia page",
+          "de": "Lexicanum, Seite Bretonnia"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Bretonnia"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Border Princes",
+          "en": "Lexicanum, Border Princes page",
+          "de": "Lexicanum, Seite Border Princes"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Border_Princes"
+      },
+      {
+        "titre": {
+          "fr": "Warhammer Wiki (fandom), page Bretonnia",
+          "en": "Warhammer Wiki (fandom), Bretonnia page",
+          "de": "Warhammer Wiki (fandom), Seite Bretonnia"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Bretonnia"
+      }
+    ]
+  },
+  {
+    "id": "guerres-des-pirates",
+    "annee": 2458,
+    "fin": 2478,
+    "approx": false,
+    "titre": {
+      "fr": "Les guerres des pirates",
+      "en": "The Pirate Wars",
+      "de": "Die Piratenkriege"
+    },
+    "resume": {
+      "fr": "Le culte de Manann à Marienburg proclame une croisade contre les pirates adorateurs de Stromfels, le dieu requin. Des centaines de fidèles prennent la mer depuis tout le Vieux Monde, et une expédition contre Sartosa même se solde par un échec. Plusieurs pirates célèbres sont éliminés, mais la piraterie ne recule pas durablement.",
+      "en": "The Cult of Manann in Marienburg declares a crusade against the pirates who worship Stromfels, the shark god. Hundreds of the faithful set sail from all over the Old World, and an expedition against Sartosa itself ends in failure. Several notorious pirates are eliminated, but piracy does not lastingly decline.",
+      "de": "Der Kult des Manann in Marienburg ruft einen Kreuzzug gegen die Piraten aus, die Stromfels, den Haigott, anbeten. Hunderte Gläubige stechen aus Häfen der ganzen Alten Welt in See, und eine Expedition gegen Sartosa selbst scheitert. Mehrere berüchtigte Piraten werden ausgeschaltet, doch die Piraterie geht nicht dauerhaft zurück."
+    },
+    "ere": "empire-reunifie",
+    "regions": [
+      "tilee-estalie",
+      "empire"
+    ],
+    "lieux": [
+      "sartosa",
+      "marienburg"
+    ],
+    "factions": [
+      "humains-autres",
+      "empire"
+    ],
+    "importance": 1,
+    "fiabilite": "incertain",
+    "note": {
+      "fr": "Source unique consultée : le wiki fandom, sans titre de livre précis.",
+      "en": "Only source consulted: the fandom wiki, without a precise book title.",
+      "de": "Einzige herangezogene Quelle: das Fandom-Wiki ohne genauen Buchtitel."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Wiki (fandom), page Bretonnia",
+          "en": "Warhammer Wiki (fandom), Bretonnia page",
+          "de": "Warhammer Wiki (fandom), Seite Bretonnia"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Bretonnia"
+      }
+    ]
+  },
+  {
+    "id": "lichemaitre-a-krinal",
+    "annee": 2460,
+    "fin": 2470,
+    "approx": false,
+    "titre": {
+      "fr": "Le Liche-Maître à Krinal",
+      "en": "The Lichemaster at Krinal",
+      "de": "Der Lichemaster in Krinal"
+    },
+    "resume": {
+      "fr": "Le nécromancien Heinrich Kemmler, qui se fait appeler le Liche-Maître, bâtit la forteresse de Krinal dans les Voûtes et lance ses armées sur le nord de la Tilée. Plusieurs ducs tiléens lui prêtent allégeance en secret pour faire cesser ses raids. Kemmler se tourne alors vers la Bretonnie et attaque Carcassonne en 2470 CI.",
+      "en": "The necromancer Heinrich Kemmler, who calls himself the Lichemaster, builds the fortress of Krinal in the Vaults and sends his armies against northern Tilea. Several Tilean dukes secretly pledge allegiance to him to end his raids. Kemmler then turns on Bretonnia and attacks Carcassonne in 2470 IC.",
+      "de": "Der Nekromant Heinrich Kemmler, der sich Lichemaster nennt, errichtet in den Vaults die Festung Krinal und schickt seine Heere gegen das nördliche Tilea. Mehrere tileanische Herzöge schwören ihm heimlich Treue, damit seine Raubzüge aufhören. Kemmler wendet sich daraufhin Bretonia zu und greift 2470 IK Carcassonne an."
+    },
+    "ere": "empire-reunifie",
+    "regions": [
+      "tilee-estalie",
+      "bretonnie"
+    ],
+    "lieux": [
+      "krinal",
+      "carcassonne"
+    ],
+    "factions": [
+      "vampires",
+      "humains-autres",
+      "bretonnie"
+    ],
+    "importance": 1,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": "White Dwarf 309 (UK)",
+        "detail": {
+          "fr": "The history of Heinrich Kemmler, p. 61",
+          "en": "The history of Heinrich Kemmler, p. 61",
+          "de": "The history of Heinrich Kemmler, S. 61"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Heinrich Kemmler",
+          "en": "Lexicanum, Heinrich Kemmler page",
+          "de": "Lexicanum, Seite Heinrich Kemmler"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Heinrich_Kemmler"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Tilea",
+          "en": "Lexicanum, Tilea page",
+          "de": "Lexicanum, Seite Tilea"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Tilea"
+      }
+    ]
+  },
+  {
+    "id": "siege-de-krinal",
+    "annee": 2478,
+    "fin": 2479,
+    "approx": false,
+    "titre": {
+      "fr": "Théobald II assiège Krinal",
+      "en": "Theobald II besieges Krinal",
+      "de": "Theobald II. belagert Krinal"
+    },
+    "resume": {
+      "fr": "Après la destruction de Breganalle et une défaite du duc de Quenelles, le roi Théobald II promet une immense récompense à qui le mènera jusqu'au repaire du Liche-Maître. Il assiège Krinal en 2478 CI, mais la neige et la magie de Kemmler le forcent à se retirer. Revenu l'année suivante avec les plus saintes reliques du royaume, il périt dans l'assaut, mais la forteresse est détruite et Kemmler grièvement blessé.",
+      "en": "After the destruction of Breganalle and a defeat of the Duke of Quenelles, King Theobald II offers a vast reward to whoever can lead him to the Lichemaster's lair. He besieges Krinal in 2478 IC, but the snows and Kemmler's magic force him to withdraw. Returning the following year with the holiest relics of the realm, he dies in the assault, but the fortress is destroyed and Kemmler badly wounded.",
+      "de": "Nach der Zerstörung von Breganalle und einer Niederlage des Herzogs von Quenelles setzt König Theobald II. eine gewaltige Belohnung für den aus, der ihn zum Versteck des Lichemasters führt. Er belagert Krinal 2478 IK, doch Schnee und Kemmlers Magie zwingen ihn zum Rückzug. Im folgenden Jahr kehrt er mit den heiligsten Reliquien des Reiches zurück und fällt beim Sturm, doch die Festung wird zerstört und Kemmler schwer verwundet."
+    },
+    "ere": "empire-reunifie",
+    "regions": [
+      "bretonnie",
+      "tilee-estalie"
+    ],
+    "lieux": [
+      "krinal",
+      "quenelles"
+    ],
+    "factions": [
+      "bretonnie",
+      "vampires"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": "White Dwarf 309 (UK)",
+        "detail": {
+          "fr": "The history of Heinrich Kemmler, p. 61",
+          "en": "The history of Heinrich Kemmler, p. 61",
+          "de": "The history of Heinrich Kemmler, S. 61"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Heinrich Kemmler",
+          "en": "Lexicanum, Heinrich Kemmler page",
+          "de": "Lexicanum, Seite Heinrich Kemmler"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Heinrich_Kemmler"
+      }
+    ]
+  },
+  {
+    "id": "expedition-de-schuvaltz",
+    "annee": 2480,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "L'expédition du comte Schuvaltz en Khemri",
+      "en": "Count Schuvaltz's expedition to Khemri",
+      "de": "Graf Schuvaltz' Expedition nach Khemri"
+    },
+    "resume": {
+      "fr": "À court d'argent pour lever une armée, le comte Schuvaltz, prince des Royaumes frontaliers, envoie une expédition piller les terres de Khemri. Un seul homme en revient.",
+      "en": "Short of money to raise an army, Count Schuvaltz, one of the Border Princes, sends an expedition to plunder the land of Khemri. Only one man returns.",
+      "de": "Aus Geldmangel für die Aufstellung eines Heeres schickt Graf Schuvaltz, ein Grenzfürst, eine Expedition aus, um das Land Khemri zu plündern. Nur ein einziger Mann kehrt zurück."
+    },
+    "ere": "empire-reunifie",
+    "regions": [
+      "royaumes-frontaliers",
+      "sud"
+    ],
+    "lieux": [
+      "khemri"
+    ],
+    "factions": [
+      "humains-autres",
+      "rois-des-tombes"
+    ],
+    "importance": 1,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Livre de règles de Warhammer, 6e édition (2000)",
+          "en": "Warhammer rulebook, 6th edition (2000)",
+          "de": "Warhammer-Regelbuch, 6. Edition (2000)"
+        },
+        "detail": {
+          "fr": "p. 201",
+          "en": "p. 201",
+          "de": "S. 201"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Border Princes",
+          "en": "Lexicanum, Border Princes page",
+          "de": "Lexicanum, Seite Border Princes"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Border_Princes"
+      }
+    ]
+  },
+  {
+    "id": "borgio-l-assiegeur",
+    "annee": 2485,
+    "fin": 2503,
+    "approx": false,
+    "titre": {
+      "fr": "Borgio l'Assiégeur, prince de Miragliano",
+      "en": "Borgio the Besieger, Prince of Miragliano",
+      "de": "Borgio der Belagerer, Fürst von Miragliano"
+    },
+    "resume": {
+      "fr": "Borgio l'Assiégeur se proclame prince de Miragliano et mène pendant près de vingt ans des guerres victorieuses contre ses voisins. Remas est battue à Villa Vennia en 2489 CI, Verezzo à Via Vedia en 2495 CI et Trantio à Vittoria Viccia en 2497 CI, après la trahison de ses alliés de Pavona. En 2503 CI, Borgio est tué dans son bain avec une fourchette à griller, et son armée de mercenaires se disloque.",
+      "en": "Borgio the Besieger proclaims himself Prince of Miragliano and wages victorious wars against his neighbours for almost twenty years. Remas is beaten at Villa Vennia in 2489 IC, Verezzo at Via Vedia in 2495 IC and Trantio at Vittoria Viccia in 2497 IC, after being betrayed by its Pavonan allies. In 2503 IC Borgio is killed in his bath with a toasting fork, and his mercenary army breaks apart.",
+      "de": "Borgio der Belagerer ruft sich zum Fürsten von Miragliano aus und führt fast zwanzig Jahre lang siegreiche Kriege gegen seine Nachbarn. Remas wird 2489 IK bei Villa Vennia geschlagen, Verezzo 2495 IK bei Via Vedia und Trantio 2497 IK bei Vittoria Viccia, nachdem seine Verbündeten aus Pavona es verraten haben. 2503 IK wird Borgio in seinem Bad mit einer Röstgabel getötet, und sein Söldnerheer zerfällt."
+    },
+    "ere": "empire-reunifie",
+    "regions": [
+      "tilee-estalie"
+    ],
+    "lieux": [
+      "miragliano",
+      "remas",
+      "verezzo",
+      "trantio",
+      "pavona"
+    ],
+    "factions": [
+      "humains-autres"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": "Up in Arms",
+        "detail": {
+          "fr": "chronologie de la Tilée, p. 57-60",
+          "en": "Tilea timeline, p. 57-60",
+          "de": "Zeitleiste Tileas, S. 57-60"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Dogs of War, 5e édition (1998)",
+          "en": "Warhammer Armies: Dogs of War, 5th edition (1998)",
+          "de": "Warhammer Armies: Dogs of War, 5. Edition (1998)"
+        },
+        "detail": "",
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Tilea",
+          "en": "Lexicanum, Tilea page",
+          "de": "Lexicanum, Seite Tilea"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Tilea"
+      }
+    ]
+  },
+  {
+    "id": "col-de-la-mort-fontainebleu",
+    "annee": 2488,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Le baron de Fontainebleu disparaît au Col de la Mort",
+      "en": "Baron de Fontainebleu vanishes in Death Pass",
+      "de": "Baron de Fontainebleu verschwindet im Todespass"
+    },
+    "resume": {
+      "fr": "La guerre d'errance de Charlen prend fin quand le baron Jules de Fontainebleu entraîne ses chevaliers dans le Col de la Mort. Aucun d'eux n'en revient, et l'armée entière est tenue pour anéantie. Bien des princes des Royaumes frontaliers descendent des chevaliers de cette guerre.",
+      "en": "Charlen's Errantry War comes to an end when Baron Jules de Fontainebleu leads his knights into Death Pass. None of them return, and the whole army is presumed wiped out. Many Border Princes are descended from the knights of this war.",
+      "de": "Charlens Krieg der Fahrenden Ritter endet, als Baron Jules de Fontainebleu seine Ritter in den Todespass führt. Keiner von ihnen kehrt zurück, und das ganze Heer gilt als vernichtet. Viele Grenzfürsten stammen von den Rittern dieses Krieges ab."
+    },
+    "ere": "empire-reunifie",
+    "regions": [
+      "royaumes-frontaliers",
+      "terres-arides"
+    ],
+    "lieux": [],
+    "factions": [
+      "bretonnie",
+      "peaux-vertes"
+    ],
+    "importance": 1,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Bretonnia, 5e édition (1996)",
+          "en": "Warhammer Armies: Bretonnia, 5th edition (1996)",
+          "de": "Warhammer Armies: Bretonnia, 5. Edition (1996)"
+        },
+        "detail": {
+          "fr": "The History of Bretonnia, p. 10-16",
+          "en": "The History of Bretonnia, p. 10-16",
+          "de": "The History of Bretonnia, S. 10-16"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Bretonnia, 6e édition (2004)",
+          "en": "Warhammer Armies: Bretonnia, 6th edition (2004)",
+          "de": "Warhammer Armies: Bretonnia, 6. Edition (2004)"
+        },
+        "detail": {
+          "fr": "A Tale of Years, p. 38-39",
+          "en": "A Tale of Years, p. 38-39",
+          "de": "A Tale of Years, S. 38-39"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Border Princes",
+          "en": "Lexicanum, Border Princes page",
+          "de": "Lexicanum, Seite Border Princes"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Border_Princes"
+      },
+      {
+        "titre": {
+          "fr": "Warhammer Wiki (fandom), page Bretonnia",
+          "en": "Warhammer Wiki (fandom), Bretonnia page",
+          "de": "Warhammer Wiki (fandom), Seite Bretonnia"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Bretonnia"
+      }
+    ]
+  },
+  {
+    "id": "lucrezzia-belladonna",
+    "annee": 2488,
+    "fin": 2513,
+    "approx": false,
+    "titre": {
+      "fr": "Lucrezzia Belladonna, veuve de Pavona",
+      "en": "Lucrezzia Belladonna, widow of Pavona",
+      "de": "Lucrezzia Belladonna, Witwe von Pavona"
+    },
+    "resume": {
+      "fr": "L'assassinat du prince Luigi de Pavona laisse le pouvoir à sa jeune veuve, Lucrezzia Belladonna. Ses maris successifs meurent les uns après les autres, l'un après une bataille perdue contre Verezzo, un autre peu après avoir signé une alliance avec Trantio. En 2513 CI, elle empoisonne le prince Poggio, son septième époux.",
+      "en": "The assassination of Prince Luigi of Pavona leaves power to his young widow, Lucrezzia Belladonna. Her successive husbands die one after another, one after a lost battle against Verezzo, another soon after signing an alliance with Trantio. In 2513 IC she poisons Prince Poggio, her seventh husband.",
+      "de": "Die Ermordung Fürst Luigis von Pavona überlässt die Macht seiner jungen Witwe Lucrezzia Belladonna. Ihre Ehemänner sterben einer nach dem anderen, einer nach einer verlorenen Schlacht gegen Verezzo, ein anderer kurz nach einem Bündnis mit Trantio. 2513 IK vergiftet sie Fürst Poggio, ihren siebten Gemahl."
+    },
+    "ere": "empire-reunifie",
+    "regions": [
+      "tilee-estalie"
+    ],
+    "lieux": [
+      "pavona"
+    ],
+    "factions": [
+      "humains-autres"
+    ],
+    "importance": 1,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "Lexicanum écrit le nom Lucretia dans la chronologie et Lucrezzia ailleurs.",
+      "en": "Lexicanum spells the name Lucretia in the timeline and Lucrezzia elsewhere.",
+      "de": "Lexicanum schreibt den Namen in der Zeitleiste Lucretia, an anderer Stelle Lucrezzia."
+    },
+    "sources": [
+      {
+        "titre": "Up in Arms",
+        "detail": {
+          "fr": "chronologie de la Tilée, p. 57-60",
+          "en": "Tilea timeline, p. 57-60",
+          "de": "Zeitleiste Tileas, S. 57-60"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Tilea",
+          "en": "Lexicanum, Tilea page",
+          "de": "Lexicanum, Seite Tilea"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Tilea"
+      }
+    ]
+  },
+  {
+    "id": "bataille-de-la-maisontaal",
+    "annee": 2491,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Bataille de La Maisontaal",
+      "en": "Battle of La Maisontaal",
+      "de": "Schlacht von La Maisontaal"
+    },
+    "resume": {
+      "fr": "Revenu à sa puissance grâce à un pacte avec les dieux du Chaos, le Liche-Maître s'allie à Krell, ancien champion du Chaos qu'il a ranimé, et attaque l'abbaye de La Maisontaal, qui abrite un artefact volé aux Skavens. La bataille oppose morts-vivants, hommes-rats et chevaliers. Le duc Tancred de Quenelles brise l'assaut par une charge décisive, mais les Skavens repartent avec leur trésor et Kemmler s'enfuit dans les Montagnes Grises.",
+      "en": "Restored to power by a pact with the Chaos gods, the Lichemaster allies with Krell, a long-dead Chaos champion he has raised, and attacks the abbey of La Maisontaal, which holds an artefact stolen from the Skaven. The battle pits undead, ratmen and knights against one another. Duke Tancred of Quenelles breaks the assault with a decisive charge, but the Skaven make off with their prize and Kemmler flees into the Grey Mountains.",
+      "de": "Durch einen Pakt mit den Chaosgöttern wieder zu Macht gelangt, verbündet sich der Lichemaster mit Krell, einem längst toten Chaoschampion, den er erweckt hat, und greift die Abtei La Maisontaal an, die ein den Skaven gestohlenes Artefakt birgt. In der Schlacht stehen sich Untote, Rattenmenschen und Ritter gegenüber. Herzog Tancred von Quenelles bricht den Angriff mit einem entscheidenden Sturmangriff, doch die Skaven entkommen mit ihrer Beute und Kemmler flieht ins Graue Gebirge."
+    },
+    "ere": "empire-reunifie",
+    "regions": [
+      "bretonnie"
+    ],
+    "lieux": [
+      "la-maisontaal",
+      "quenelles"
+    ],
+    "factions": [
+      "bretonnie",
+      "vampires",
+      "skavens"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Bretonnia, 5e édition (1996)",
+          "en": "Warhammer Armies: Bretonnia, 5th edition (1996)",
+          "de": "Warhammer Armies: Bretonnia, 5. Edition (1996)"
+        },
+        "detail": {
+          "fr": "A Chronicle of Bretonnia, p. 33",
+          "en": "A Chronicle of Bretonnia, p. 33",
+          "de": "A Chronicle of Bretonnia, S. 33"
+        },
+        "url": ""
+      },
+      {
+        "titre": "White Dwarf 309 (UK)",
+        "detail": {
+          "fr": "The history of Heinrich Kemmler, p. 61",
+          "en": "The history of Heinrich Kemmler, p. 61",
+          "de": "The history of Heinrich Kemmler, S. 61"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Heinrich Kemmler",
+          "en": "Lexicanum, Heinrich Kemmler page",
+          "de": "Lexicanum, Seite Heinrich Kemmler"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Heinrich_Kemmler"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Bretonnia",
+          "en": "Lexicanum, Bretonnia page",
+          "de": "Lexicanum, Seite Bretonnia"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Bretonnia"
+      }
+    ]
+  },
+  {
+    "id": "couronnement-de-louen-coeur-de-lion",
+    "annee": 2500,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Couronnement de Louen Cœur de Lion",
+      "en": "Coronation of Louen Leoncoeur",
+      "de": "Krönung von Louen Leoncoeur"
+    },
+    "resume": {
+      "fr": "Louen Cœur de Lion est couronné roi de Bretonnie. Chevalier du Graal réputé pour sa bravoure et sa piété, il règne à l'époque de la Tempête du Chaos et jusqu'à la Fin des Temps. C'est le roi que met en scène le livre d'armée de 6e édition.",
+      "en": "Louen Leoncoeur is crowned King of Bretonnia. A Grail Knight renowned for his courage and piety, he reigns through the time of the Storm of Chaos and up to the End Times. He is the king featured in the 6th edition army book.",
+      "de": "Louen Leoncoeur wird zum König von Bretonia gekrönt. Als Gralsritter für Tapferkeit und Frömmigkeit berühmt, regiert er zur Zeit des Sturms des Chaos und bis zur Endzeit. Er ist der König, den das Armeebuch der 6. Edition vorstellt."
+    },
+    "ere": "empire-reunifie",
+    "regions": [
+      "bretonnie"
+    ],
+    "lieux": [
+      "couronne"
+    ],
+    "factions": [
+      "bretonnie"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Bretonnia, 6e édition (2004)",
+          "en": "Warhammer Armies: Bretonnia, 6th edition (2004)",
+          "de": "Warhammer Armies: Bretonnia, 6. Edition (2004)"
+        },
+        "detail": {
+          "fr": "A Tale of Years, p. 38-39",
+          "en": "A Tale of Years, p. 38-39",
+          "de": "A Tale of Years, S. 38-39"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Bretonnia, 5e édition (1996)",
+          "en": "Warhammer Armies: Bretonnia, 5th edition (1996)",
+          "de": "Warhammer Armies: Bretonnia, 5. Edition (1996)"
+        },
+        "detail": {
+          "fr": "A Chronicle of Bretonnia, p. 33",
+          "en": "A Chronicle of Bretonnia, p. 33",
+          "de": "A Chronicle of Bretonnia, S. 33"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Bretonnia",
+          "en": "Lexicanum, Bretonnia page",
+          "de": "Lexicanum, Seite Bretonnia"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Bretonnia"
+      }
+    ]
+  },
+  {
+    "id": "gotrek-et-le-geant-d-albion",
+    "annee": 2505,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Gotrek et Felix face au plus vieux géant d'Albion",
+      "en": "Gotrek and Felix face the oldest giant on Albion",
+      "de": "Gotrek und Felix gegen den ältesten Riesen Albions"
+    },
+    "resume": {
+      "fr": "Sur l'île d'Albion, Gotrek Gurnisson et Felix Jaeger, aux côtés du maître du savoir Teclis, affrontent le plus vieux géant du monde. L'épisode est raconté dans le roman Giantslayer de William King.",
+      "en": "On the isle of Albion, Gotrek Gurnisson and Felix Jaeger, alongside the Loremaster Teclis, fight the oldest giant in the world. The episode is told in William King's novel Giantslayer.",
+      "de": "Auf der Insel Albion kämpfen Gotrek Gurnisson und Felix Jaeger an der Seite des Hochmagiers Teclis gegen den ältesten Riesen der Welt. Die Episode erzählt William Kings Roman Giantslayer."
+    },
+    "ere": "empire-reunifie",
+    "regions": [
+      "bretonnie"
+    ],
+    "lieux": [
+      "albion"
+    ],
+    "factions": [
+      "nains",
+      "hauts-elfes",
+      "humains-autres"
+    ],
+    "importance": 1,
+    "fiabilite": "incertain",
+    "note": {
+      "fr": "Source romanesque, date donnée par Lexicanum sans référence de page. Albion n'a pas de région propre dans le référentiel et est rattachée à la Bretonnie, sa voisine.",
+      "en": "Novel source, date given by Lexicanum without a page reference. Albion has no region of its own in the reference data and is attached to neighbouring Bretonnia.",
+      "de": "Romanquelle, Datum von Lexicanum ohne Seitenangabe. Albion hat im Referenzverzeichnis keine eigene Region und wird dem benachbarten Bretonia zugeordnet."
+    },
+    "sources": [
+      {
+        "titre": "Giantslayer, William King (2003)",
+        "detail": "",
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Albion",
+          "en": "Lexicanum, Albion page",
+          "de": "Lexicanum, Seite Albion"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Albion"
+      }
+    ]
+  },
+  {
+    "id": "dark-shadows-albion",
+    "annee": 2520,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Be'lakor et la campagne des Ombres sur Albion",
+      "en": "Be'lakor and the Dark Shadows campaign on Albion",
+      "de": "Be'lakor und der Feldzug Dark Shadows auf Albion"
+    },
+    "resume": {
+      "fr": "Le prince démon Be'lakor commence à se matérialiser dans la Citadelle de plomb, au nord-est d'Albion, et corrompt des Diseurs de vérité qui deviennent ses Émissaires noirs. Les Diseurs restés fidèles appellent le monde à l'aide, et des flottes de toutes les races débarquent sur l'île : Orques, Elfes noirs, Hommes de l'Empire qui fondent la colonie de Neuland, Hommes-lézards qui font pousser une jungle autour de la Forge des Anciens. Be'lakor arrache assez de puissance pour prendre un corps à demi solide, mais doit fuir avant d'achever son œuvre.",
+      "en": "The Daemon Prince Be'lakor begins to materialise in the Citadel of Lead in north-eastern Albion and corrupts some Truthsayers, who become his Dark Emissaries. The Truthsayers who remain loyal call on the world for help, and fleets of every race land on the island: Orcs, Dark Elves, Men of the Empire who found the colony of Neuland, and Lizardmen who grow a jungle around the Forge of the Old Ones. Be'lakor tears enough power from the island to take a half-solid body, but has to flee before completing his goal.",
+      "de": "Der Dämonenprinz Be'lakor beginnt, sich in der Zitadelle aus Blei im Nordosten Albions zu verkörpern, und verdirbt einige Wahrsager, die zu seinen Dunklen Emissären werden. Die treu gebliebenen Wahrsager rufen die Welt zu Hilfe, und Flotten aller Völker landen auf der Insel: Orks, Dunkelelfen, Menschen des Imperiums, die die Kolonie Neuland gründen, und Echsenmenschen, die einen Dschungel um die Schmiede der Alten wachsen lassen. Be'lakor entreißt der Insel genug Macht für einen halbstofflichen Körper, muss aber fliehen, bevor er sein Ziel erreicht."
+    },
+    "ere": "empire-reunifie",
+    "regions": [
+      "bretonnie"
+    ],
+    "lieux": [
+      "albion"
+    ],
+    "factions": [
+      "chaos",
+      "humains-autres",
+      "empire",
+      "peaux-vertes",
+      "elfes-noirs",
+      "hommes-lezards",
+      "hauts-elfes",
+      "vampires"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "Albion n'a pas de région propre dans le référentiel et est rattachée à la Bretonnie, sa voisine. La campagne Dark Shadows (2001) a été publiée par Games Workshop sous ce nom anglais.",
+      "en": "Albion has no region of its own in the reference data and is attached to neighbouring Bretonnia. The Dark Shadows campaign (2001) was published by Games Workshop under this English name.",
+      "de": "Albion hat im Referenzverzeichnis keine eigene Region und wird dem benachbarten Bretonia zugeordnet. Der Feldzug Dark Shadows (2001) erschien bei Games Workshop unter diesem englischen Namen."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Lizardmen, 6e édition (2003)",
+          "en": "Warhammer Armies: Lizardmen, 6th edition (2003)",
+          "de": "Warhammer Armies: Lizardmen, 6. Edition (2003)"
+        },
+        "detail": {
+          "fr": "Time Line of Lustria, p. 9",
+          "en": "Time Line of Lustria, p. 9",
+          "de": "Time Line of Lustria, S. 9"
+        },
+        "url": ""
+      },
+      {
+        "titre": "White Dwarf 264 (UK)",
+        "detail": {
+          "fr": "Arcane Lore: The Aftermath of Dark Shadows, p. 99-100",
+          "en": "Arcane Lore: The Aftermath of Dark Shadows, p. 99-100",
+          "de": "Arcane Lore: The Aftermath of Dark Shadows, S. 99-100"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Tome of Corruption, Warhammer Fantasy Roleplay 2e édition (2006)",
+          "en": "Tome of Corruption, Warhammer Fantasy Roleplay 2nd edition (2006)",
+          "de": "Tome of Corruption, Warhammer Fantasy Roleplay 2. Edition (2006)"
+        },
+        "detail": {
+          "fr": "History of Chaos, p. 11",
+          "en": "History of Chaos, p. 11",
+          "de": "History of Chaos, S. 11"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Albion",
+          "en": "Lexicanum, Albion page",
+          "de": "Lexicanum, Seite Albion"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Albion"
+      }
+    ]
+  },
+  {
+    "id": "guerre-civile-de-mallobaude",
+    "annee": 2522,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Guerre civile de Mallobaude et retour de Gilles",
+      "en": "Mallobaude's civil war and the return of Gilles",
+      "de": "Mallobaudes Bürgerkrieg und die Rückkehr von Gilles"
+    },
+    "resume": {
+      "fr": "Mallobaude, chevalier noir réfugié à Mousillon, se dresse contre le roi Louen à la tête de chevaliers déchus et réclame le trône. Les ducs d'Artois, de Carcassonne et de Lyonesse se rallient à lui, et Arkhan le Noir le soutient en secret. Louen est abattu à la bataille de Quenelles, mais quand Mallobaude marche sur Couronne, le Chevalier vert le décapite. Celui-ci se révèle être Gilles le Breton revenu, qui reprend la couronne.",
+      "en": "Mallobaude, a black knight sheltering in Mousillon, rises against King Louen at the head of disgraced knights and claims the throne. The Dukes of Artois, Carcassonne and Lyonesse side with him, and Arkhan the Black secretly supports him. Louen is struck down at the Battle of Quenelles, but when Mallobaude marches on Couronne, the Green Knight beheads him. He is revealed to be Gilles le Breton returned, who takes back the crown.",
+      "de": "Mallobaude, ein schwarzer Ritter, der in Mousillon Zuflucht gefunden hat, erhebt sich an der Spitze entehrter Ritter gegen König Louen und beansprucht den Thron. Die Herzöge von Artois, Carcassonne und Lyonesse schlagen sich auf seine Seite, und Arkhan der Schwarze unterstützt ihn insgeheim. Louen wird in der Schlacht von Quenelles niedergestreckt, doch als Mallobaude auf Couronne marschiert, enthauptet ihn der Grüne Ritter. Dieser gibt sich als zurückgekehrter Gilles le Breton zu erkennen und nimmt die Krone wieder an sich."
+    },
+    "ere": "empire-reunifie",
+    "regions": [
+      "bretonnie"
+    ],
+    "lieux": [
+      "mousillon",
+      "quenelles",
+      "couronne"
+    ],
+    "factions": [
+      "bretonnie",
+      "vampires"
+    ],
+    "importance": 3,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer: Nagash, La Fin des Temps livre I (2014)",
+          "en": "Warhammer: Nagash, The End Times book I (2014)",
+          "de": "Warhammer: Nagash, Die Endzeit Buch I (2014)"
+        },
+        "detail": {
+          "fr": "The Beginning of the End, p. 30-31",
+          "en": "The Beginning of the End, p. 30-31",
+          "de": "The Beginning of the End, S. 30-31"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Bretonnia",
+          "en": "Lexicanum, Bretonnia page",
+          "de": "Lexicanum, Seite Bretonnia"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Bretonnia"
+      }
+    ]
+  },
+  {
+    "id": "chute-de-la-tilee",
+    "annee": 2523,
+    "fin": null,
+    "approx": true,
+    "titre": {
+      "fr": "Trantio emportée et la Tilée submergée",
+      "en": "Trantio taken and Tilea overrun",
+      "de": "Trantio vergeht, Tilea wird überrannt"
+    },
+    "resume": {
+      "fr": "Au début de la Fin des Temps, une tempête parfumée déchire Trantio et Slaanesh emporte l'âme de tous ses habitants. Peu après, une marée de Skavens jaillit des profondeurs et submerge la Tilée entière. Les survivants sont massacrés, dévorés ou emmenés en esclavage dans l'Empire souterrain.",
+      "en": "Early in the End Times, a perfumed storm tears Trantio apart and Slaanesh takes the souls of all its inhabitants. Soon afterwards a tide of Skaven boils up from below and overruns the whole of Tilea. The survivors are slaughtered, devoured or carried off as slaves into the Under-Empire.",
+      "de": "Zu Beginn der Endzeit zerreißt ein parfümierter Sturm Trantio, und Slaanesh nimmt die Seelen aller Einwohner. Bald darauf quillt eine Flut von Skaven aus der Tiefe und überrennt ganz Tilea. Die Überlebenden werden niedergemetzelt, gefressen oder als Sklaven ins Unterimperium verschleppt."
+    },
+    "ere": "fin-des-temps",
+    "regions": [
+      "tilee-estalie"
+    ],
+    "lieux": [
+      "trantio"
+    ],
+    "factions": [
+      "humains-autres",
+      "skavens",
+      "chaos"
+    ],
+    "importance": 3,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "Le livre Nagash situe ces événements au début de la Fin des Temps sans année précise.",
+      "en": "The Nagash book places these events at the start of the End Times without a precise year.",
+      "de": "Das Buch Nagash setzt diese Ereignisse ohne genaues Jahr an den Beginn der Endzeit."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer: Nagash, La Fin des Temps livre I (2014)",
+          "en": "Warhammer: Nagash, The End Times book I (2014)",
+          "de": "Warhammer: Nagash, Die Endzeit Buch I (2014)"
+        },
+        "detail": {
+          "fr": "p. 11 et 49",
+          "en": "p. 11 and 49",
+          "de": "S. 11 und 49"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Tilea",
+          "en": "Lexicanum, Tilea page",
+          "de": "Lexicanum, Seite Tilea"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Tilea"
+      }
+    ]
+  },
+  {
+    "id": "ruine-de-la-bretonnie",
+    "annee": 2523,
+    "fin": null,
+    "approx": true,
+    "titre": {
+      "fr": "La Bretonnie ravagée par le Chaos",
+      "en": "Bretonnia ravaged by Chaos",
+      "de": "Bretonia vom Chaos verheert"
+    },
+    "resume": {
+      "fr": "Quelques jours après le retour de Gilles sur le trône, la peste ravage Carcassonne et Quenelles, puis une pluie de malepierre fait naître mort et mutations dans tout le royaume. Les hardes d'hommes-bêtes rasent sanctuaires et villages, et Bordeleaux disparaît en une nuit, remplacée par un donjon d'os et d'airain. La moitié de la population est morte ou a fui, et Gilles proclame une guerre d'errance contre le Chaos.",
+      "en": "A few days after Gilles returns to the throne, plague ravages Carcassonne and Quenelles, then a rain of warpstone brings death and mutation across the kingdom. Beastmen warherds raze shrines and villages, and Bordeleaux vanishes in a single night, replaced by a keep of bone and brass. Half the population is dead or has fled, and Gilles declares an Errantry War against Chaos.",
+      "de": "Wenige Tage nach Gilles' Rückkehr auf den Thron wütet die Pest in Carcassonne und Quenelles, dann bringt ein Warpsteinregen Tod und Mutation über das ganze Reich. Tiermenschenherden machen Schreine und Dörfer dem Erdboden gleich, und Bordeleaux verschwindet in einer einzigen Nacht, ersetzt durch eine Burg aus Knochen und Messing. Die Hälfte der Bevölkerung ist tot oder geflohen, und Gilles ruft einen Krieg der Fahrenden Ritter gegen das Chaos aus."
+    },
+    "ere": "fin-des-temps",
+    "regions": [
+      "bretonnie"
+    ],
+    "lieux": [
+      "bordeleaux",
+      "carcassonne",
+      "quenelles"
+    ],
+    "factions": [
+      "bretonnie",
+      "chaos"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "Le livre Nagash ne date pas précisément ces calamités, situées entre la fin de la guerre civile en 2522 CI et le retour d'Arkhan à la fin de 2523 CI.",
+      "en": "The Nagash book does not date these calamities precisely, placing them between the end of the civil war in 2522 IC and Arkhan's return in late 2523 IC.",
+      "de": "Das Buch Nagash datiert diese Katastrophen nicht genau, sie liegen zwischen dem Ende des Bürgerkriegs 2522 IK und Arkhans Rückkehr Ende 2523 IK."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer: Nagash, La Fin des Temps livre I (2014)",
+          "en": "Warhammer: Nagash, The End Times book I (2014)",
+          "de": "Warhammer: Nagash, Die Endzeit Buch I (2014)"
+        },
+        "detail": {
+          "fr": "The Beginning of the End, p. 30-31",
+          "en": "The Beginning of the End, p. 30-31",
+          "de": "The Beginning of the End, S. 30-31"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Bretonnia",
+          "en": "Lexicanum, Bretonnia page",
+          "de": "Lexicanum, Seite Bretonnia"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Bretonnia"
+      }
+    ]
+  },
+  {
+    "id": "chute-de-l-estalie",
+    "annee": 2525,
+    "fin": null,
+    "approx": true,
+    "titre": {
+      "fr": "L'Estalie submergée par les Skavens",
+      "en": "Estalia overrun by the Skaven",
+      "de": "Estalia von den Skaven überrannt"
+    },
+    "resume": {
+      "fr": "Pendant la Fin des Temps, l'Estalie est entièrement conquise et submergée par les Skavens. En 2525 CI, ses royaumes, de Magritta à Bilbali, ont disparu, comme ceux de la Tilée voisine tombée peu avant.",
+      "en": "During the End Times, Estalia is entirely conquered and overrun by the Skaven. By 2525 IC its kingdoms, from Magritta to Bilbali, are gone, like those of neighbouring Tilea which fell shortly before.",
+      "de": "In der Endzeit wird Estalia vollständig von den Skaven erobert und überrannt. Bis 2525 IK sind seine Königreiche von Magritta bis Bilbali untergegangen, wie die des benachbarten Tilea, das kurz zuvor gefallen ist."
+    },
+    "ere": "fin-des-temps",
+    "regions": [
+      "tilee-estalie"
+    ],
+    "lieux": [
+      "magritta",
+      "bilbali"
+    ],
+    "factions": [
+      "humains-autres",
+      "skavens"
+    ],
+    "importance": 1,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer: Glottkin, La Fin des Temps livre II (2014)",
+          "en": "Warhammer: Glottkin, The End Times book II (2014)",
+          "de": "Warhammer: Glottkin, Die Endzeit Buch II (2014)"
+        },
+        "detail": {
+          "fr": "p. 4",
+          "en": "p. 4",
+          "de": "S. 4"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Estalia",
+          "en": "Lexicanum, Estalia page",
+          "de": "Lexicanum, Seite Estalia"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Estalia"
+      }
+    ]
+  }
+]

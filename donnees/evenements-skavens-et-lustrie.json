@@ -1,0 +1,3840 @@
+[
+  {
+    "id": "chute-de-xahutec",
+    "annee": -5600,
+    "fin": null,
+    "approx": true,
+    "titre": {
+      "fr": "Xahutec, première cité-temple à tomber",
+      "en": "Xahutec, the first temple-city to fall",
+      "de": "Xahutec, die erste Tempelstadt, die fällt"
+    },
+    "resume": {
+      "fr": "Lorsque les portails polaires s'effondrent, les démons déferlent sur la Lustrie et Xahutec est la première cité-temple à succomber. En trois siècles de guerre, tous les Slanns de la Première Génération périssent, à la seule exception du seigneur Kroak d'Itza. Les ruines de Xahutec resteront pour toujours une plaie ouverte par où le Chaos revient.",
+      "en": "When the polar gates collapse, daemons pour into Lustria and Xahutec is the first temple-city to succumb. Within three centuries of war, every Slann of the First Spawning perishes, save only Lord Kroak of Itza. The ruins of Xahutec will remain an open wound through which Chaos keeps returning.",
+      "de": "Als die Polartore zusammenbrechen, überfluten Dämonen Lustria, und Xahutec ist die erste Tempelstadt, die fällt. Innerhalb von drei Jahrhunderten Krieg kommen alle Slann der Ersten Brut ums Leben, mit Ausnahme von Lord Kroak aus Itza. Die Ruinen von Xahutec bleiben fortan eine offene Wunde, durch die das Chaos immer wieder zurückkehrt."
+    },
+    "ere": "grande-catastrophe",
+    "regions": [
+      "lustrie"
+    ],
+    "lieux": [
+      "xahutec"
+    ],
+    "factions": [
+      "hommes-lezards",
+      "chaos"
+    ],
+    "importance": 3,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "Date approximative : le livre d'armée situe la chute au début de la Grande Catastrophe, vers -5600 CI.",
+      "en": "Approximate date: the army book places the fall at the start of the Great Catastrophe, around -5600 IC.",
+      "de": "Ungefähres Datum: Das Armeebuch setzt den Fall zu Beginn der Großen Katastrophe an, um -5600 IK."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Lizardmen (8e édition, 2013)",
+          "en": "Warhammer Armies: Lizardmen (8th edition, 2013)",
+          "de": "Warhammer Armies: Lizardmen (8. Edition, 2013)"
+        },
+        "detail": {
+          "fr": "p. 26",
+          "en": "p. 26",
+          "de": "S. 26"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Lizardmen Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Lizardmen Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Lizardmen Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Lizardmen_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "chute-de-pahuax",
+    "annee": -4500,
+    "fin": null,
+    "approx": true,
+    "titre": {
+      "fr": "Chute de Pahuax",
+      "en": "Fall of Pahuax",
+      "de": "Fall von Pahuax"
+    },
+    "resume": {
+      "fr": "Alors qu'il ne reste qu'une poignée de cités-temples, une armée de démons majeurs franchit les défenses de Pahuax et en massacre les habitants. Le seigneur Mazdamundi maintient la barrière protectrice de Hexoatl mais ne peut secourir ses frères. Pahuax était le lieu de ponte des Skinks caméléons, que l'on croira disparus pendant des millénaires.",
+      "en": "With only a handful of temple-cities still standing, a host of Greater Daemons breaches the defences of Pahuax and slaughters its inhabitants. Lord Mazdamundi holds the protective barrier of Hexoatl but cannot come to his brethren's aid. Pahuax was the spawning place of the Chameleon Skinks, who will be thought extinct for millennia.",
+      "de": "Als nur noch eine Handvoll Tempelstädte steht, durchbricht ein Heer Großer Dämonen die Verteidigung von Pahuax und metzelt seine Bewohner nieder. Lord Mazdamundi hält die Schutzbarriere von Hexoatl aufrecht, kann seinen Brüdern aber nicht zu Hilfe eilen. In Pahuax schlüpften die Chamäleon-Skinks, die man für Jahrtausende für ausgestorben halten wird."
+    },
+    "ere": "grande-catastrophe",
+    "regions": [
+      "lustrie"
+    ],
+    "lieux": [
+      "pahuax",
+      "hexoatl"
+    ],
+    "factions": [
+      "hommes-lezards",
+      "chaos"
+    ],
+    "importance": 3,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "Le rôle de Mazdamundi n'apparaît que sur le wiki, sans renvoi précis à un livre.",
+      "en": "Mazdamundi's role only appears on the wiki, without a precise book reference.",
+      "de": "Mazdamundis Rolle erscheint nur im Wiki, ohne genauen Buchverweis."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Lizardmen (8e édition, 2013)",
+          "en": "Warhammer Armies: Lizardmen (8th edition, 2013)",
+          "de": "Warhammer Armies: Lizardmen (8. Edition, 2013)"
+        },
+        "detail": {
+          "fr": "p. 26",
+          "en": "p. 26",
+          "de": "S. 26"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Lizardmen Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Lizardmen Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Lizardmen Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Lizardmen_Timeline"
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Timeline of the Warhammer World",
+          "en": "Warhammer Fantasy Wiki (fandom), page Timeline of the Warhammer World",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Timeline of the Warhammer World"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Timeline_of_the_Warhammer_World"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Lizardmen",
+          "en": "Lexicanum, Lizardmen page",
+          "de": "Lexicanum, Seite Lizardmen"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Lizardmen"
+      }
+    ]
+  },
+  {
+    "id": "premiers-elfes-en-lustrie",
+    "annee": -4419,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Les premiers Hauts Elfes en Lustrie",
+      "en": "The first High Elves in Lustria",
+      "de": "Die ersten Hochelfen in Lustria"
+    },
+    "resume": {
+      "fr": "Peu après la mort d'Aenarion, des explorateurs elfes pénètrent dans les jungles de Lustrie et sont conduits jusqu'à Pahuax, lors d'une conjonction des deux lunes tenue pour un mauvais présage. La rencontre avec le seigneur slann Huinitenuchli tourne court et finit dans le sang. Les Hommes-lézards en tirent la conviction que les jeunes races sont imprévisibles.",
+      "en": "Shortly after the death of Aenarion, Elf explorers push into the Lustrian jungles and are brought to Pahuax, during a conjunction of the two moons held to be an ill omen. The meeting with the Slann Lord Huinitenuchli is brief and ends in bloodshed. The Lizardmen draw from it the conviction that the young races are unpredictable.",
+      "de": "Kurz nach Aenarions Tod dringen elfische Entdecker in die Dschungel Lustrias vor und werden nach Pahuax gebracht, während einer Konjunktion der beiden Monde, die als böses Omen gilt. Die Begegnung mit dem Slann-Lord Huinitenuchli ist kurz und endet in Blutvergießen. Die Echsenmenschen schließen daraus, dass die jungen Völker unberechenbar sind."
+    },
+    "ere": "grande-catastrophe",
+    "regions": [
+      "lustrie"
+    ],
+    "lieux": [
+      "pahuax"
+    ],
+    "factions": [
+      "hommes-lezards",
+      "hauts-elfes"
+    ],
+    "importance": 1,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Lizardmen (8e édition, 2013)",
+          "en": "Warhammer Armies: Lizardmen (8th edition, 2013)",
+          "de": "Warhammer Armies: Lizardmen (8. Edition, 2013)"
+        },
+        "detail": {
+          "fr": "p. 26",
+          "en": "p. 26",
+          "de": "S. 26"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Lizardmen Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Lizardmen Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Lizardmen Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Lizardmen_Timeline"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Lizardmen",
+          "en": "Lexicanum, Lizardmen page",
+          "de": "Lexicanum, Seite Lizardmen"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Lizardmen"
+      }
+    ]
+  },
+  {
+    "id": "naufrage-de-chupayotl",
+    "annee": -3894,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Chupayotl sombre dans la mer",
+      "en": "Chupayotl slips into the sea",
+      "de": "Chupayotl versinkt im Meer"
+    },
+    "resume": {
+      "fr": "La cité-temple de Chupayotl s'enfonce dans l'océan, ses Prêtres-Mages périssent et les survivants rejoignent d'autres cités. Chupayotl servait de relais dans le réseau géomantique entre la Lustrie et les Terres du Sud, dont les Slanns se trouvent dès lors coupés. Aucune plaque des Anciens n'avait prédit ce désastre, et les Slanns connaissent l'incertitude pour la première fois.",
+      "en": "The temple-city of Chupayotl slips beneath the ocean, its Mage-Priests perish and the survivors join other cities. Chupayotl was a relay in the geomantic web between Lustria and the Southlands, whose Slann are now cut off. No plaque of the Old Ones had foretold this disaster, and the Slann know uncertainty for the first time.",
+      "de": "Die Tempelstadt Chupayotl versinkt im Ozean, ihre Magierpriester kommen um und die Überlebenden ziehen in andere Städte. Chupayotl war ein Knoten im geomantischen Netz zwischen Lustria und den Südlanden, deren Slann nun abgeschnitten sind. Keine Tafel der Alten hatte dieses Unglück vorhergesagt, und die Slann lernen zum ersten Mal die Ungewissheit kennen."
+    },
+    "ere": "grande-catastrophe",
+    "regions": [
+      "lustrie",
+      "sud"
+    ],
+    "lieux": [],
+    "factions": [
+      "hommes-lezards"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Lizardmen (8e édition, 2013)",
+          "en": "Warhammer Armies: Lizardmen (8th edition, 2013)",
+          "de": "Warhammer Armies: Lizardmen (8. Edition, 2013)"
+        },
+        "detail": {
+          "fr": "p. 26",
+          "en": "p. 26",
+          "de": "S. 26"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Warhammer Fantasy Roleplay 4e édition, Lustria (2023)",
+          "en": "Warhammer Fantasy Roleplay 4th edition, Lustria (2023)",
+          "de": "Warhammer Fantasy Roleplay 4. Edition, Lustria (2023)"
+        },
+        "detail": {
+          "fr": "p. 21",
+          "en": "p. 21",
+          "de": "S. 21"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Lizardmen Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Lizardmen Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Lizardmen Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Lizardmen_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "guerre-contre-karak-zorn",
+    "annee": -2000,
+    "fin": null,
+    "approx": true,
+    "titre": {
+      "fr": "Zlatlan contre Karak Zorn",
+      "en": "Zlatlan against Karak Zorn",
+      "de": "Zlatlan gegen Karak Zorn"
+    },
+    "resume": {
+      "fr": "Les annales anciennes de Zlatlan, la cité-temple des Terres du Sud, mentionnent un conflit avec Karak Zorn. Cette forteresse naine perdue se trouvait dans les montagnes du sud du continent. C'est l'une des rares traces écrites de ce royaume nain oublié.",
+      "en": "The ancient records of Zlatlan, the temple-city of the Southlands, mention strife with Karak Zorn. This lost Dwarf stronghold lay in the mountains of the south of the continent. It is one of the few written traces of this forgotten Dwarf realm.",
+      "de": "Die alten Aufzeichnungen von Zlatlan, der Tempelstadt der Südlande, erwähnen einen Konflikt mit Karak Zorn. Diese verlorene Zwergenfestung lag in den Bergen im Süden des Kontinents. Es ist eine der wenigen schriftlichen Spuren dieses vergessenen Zwergenreichs."
+    },
+    "ere": "age-d-or",
+    "regions": [
+      "sud"
+    ],
+    "lieux": [
+      "zlatlan"
+    ],
+    "factions": [
+      "hommes-lezards",
+      "nains"
+    ],
+    "importance": 1,
+    "fiabilite": "incertain",
+    "note": {
+      "fr": "Source unique et laconique (livre d'armée de 6e édition).",
+      "en": "Single, terse source (6th edition army book).",
+      "de": "Einzelne, knappe Quelle (Armeebuch der 6. Edition)."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Lizardmen (6e édition, 2003)",
+          "en": "Warhammer Armies: Lizardmen (6th edition, 2003)",
+          "de": "Warhammer Armies: Lizardmen (6. Edition, 2003)"
+        },
+        "detail": {
+          "fr": "p. 9",
+          "en": "p. 9",
+          "de": "S. 9"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Lizardmen Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Lizardmen Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Lizardmen Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Lizardmen_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "premier-conseil-des-treize",
+    "annee": -1500,
+    "fin": null,
+    "approx": true,
+    "titre": {
+      "fr": "Le premier Conseil des Treize et la Grande Migration",
+      "en": "The first Council of Thirteen and the Great Migration",
+      "de": "Der erste Rat der Dreizehn und die Große Wanderung"
+    },
+    "resume": {
+      "fr": "La Grande Machine de l'Ordre des Prophètes explose sous Skavenblight, dont la population est décimée. Dans le chaos qui suit se dressent douze Seigneurs gris, qui forment le premier Conseil des Treize, la treizième place revenant au Rat Cornu, et l'Ordre des Prophètes gris. Les clans quittent alors Skavenblight dans une Grande Migration qui les répand sous le monde entier.",
+      "en": "The Great Machine of the Seer Order explodes beneath Skavenblight, whose population is devastated. In the chaos that follows twelve Grey Lords arise, forming the first Council of Thirteen, the thirteenth seat belonging to the Horned Rat, and the Order of Grey Seers. The clans then leave Skavenblight in a Great Migration that spreads them beneath the whole world.",
+      "de": "Die Große Maschine des Ordens der Propheten explodiert unter Skavenblight und dezimiert dessen Bevölkerung. Im folgenden Chaos erheben sich zwölf Graue Fürsten und bilden den ersten Rat der Dreizehn, dessen dreizehnter Sitz der Gehörnten Ratte gehört, sowie den Orden der Grauen Propheten. Die Klans verlassen daraufhin Skavenblight in einer Großen Wanderung, die sie unter der ganzen Welt verbreitet."
+    },
+    "ere": "age-des-tribus",
+    "regions": [
+      "tilee-estalie"
+    ],
+    "lieux": [
+      "skavenblight"
+    ],
+    "factions": [
+      "skavens"
+    ],
+    "importance": 3,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "Les Slanns ont perçu l'énergie de l'explosion mais l'ont attribuée à leurs propres sorts, ignorant tout de cette race nouvelle.",
+      "en": "The Slann sensed the energy of the explosion but attributed it to their own spells, knowing nothing of this new race.",
+      "de": "Die Slann spürten die Energie der Explosion, schrieben sie aber ihren eigenen Zaubern zu, da sie von diesem neuen Volk nichts wussten."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Skaven (7e édition, 2009)",
+          "en": "Warhammer Armies: Skaven (7th edition, 2009)",
+          "de": "Warhammer Armies: Skaven (7. Edition, 2009)"
+        },
+        "detail": {
+          "fr": "p. 30",
+          "en": "p. 30",
+          "de": "S. 30"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Warhammer Fantasy Roleplay 2e édition, Children of the Horned Rat (2009)",
+          "en": "Warhammer Fantasy Roleplay 2nd edition, Children of the Horned Rat (2009)",
+          "de": "Warhammer Fantasy Roleplay 2. Edition, Children of the Horned Rat (2009)"
+        },
+        "detail": {
+          "fr": "p. 35",
+          "en": "p. 35",
+          "de": "S. 35"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Skaven Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Skaven Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Skaven Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Skaven_Timeline"
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Lizardmen Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Lizardmen Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Lizardmen Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Lizardmen_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "realignement-de-quex",
+    "annee": -1500,
+    "fin": null,
+    "approx": true,
+    "titre": {
+      "fr": "Le seigneur Quex déplace les continents",
+      "en": "Lord Quex realigns the continents",
+      "de": "Lord Quex verschiebt die Kontinente"
+    },
+    "resume": {
+      "fr": "Suivant les instructions de la plaque d'Otzli-Potec, le Slann Quex opère un léger déplacement des continents. Les Montagnes du Bord du Monde sont ravagées par les séismes et la lave qui noie les halls nains, les châteaux célestes des Montagnes du Deuil s'écroulent et une brèche s'ouvre dans le Grand Bastion de Cathay. Pour les Prêtres-Mages, il ne s'agit que de la volonté des Anciens.",
+      "en": "Following the instructions of the plaque of Otzli-Potec, the Slann Quex carries out a minor shift of the continents. The Worlds Edge Mountains are ravaged by earthquakes and lava that floods the Dwarf halls, the sky-castles of the Mountains of Mourn crumble and a breach opens in the Great Bastion of Cathay. To the Mage-Priests, this is merely the will of the Old Ones.",
+      "de": "Gemäß den Anweisungen der Tafel von Otzli-Potec nimmt der Slann Quex eine geringfügige Verschiebung der Kontinente vor. Das Weltrandgebirge wird von Erdbeben und Lava verwüstet, die die Hallen der Zwerge überflutet, die Himmelsburgen der Berge der Trauer stürzen ein und in der Großen Bastion von Cathay öffnet sich eine Bresche. Für die Magierpriester ist dies nur der Wille der Alten."
+    },
+    "ere": "age-des-tribus",
+    "regions": [
+      "lustrie",
+      "montagnes",
+      "orient"
+    ],
+    "lieux": [
+      "grand-bastion"
+    ],
+    "factions": [
+      "hommes-lezards",
+      "nains"
+    ],
+    "importance": 2,
+    "fiabilite": "divergent",
+    "note": {
+      "fr": "Les livres nains et skavens attribuent ces mêmes séismes du Temps du Malheur à la sorcellerie skaven, les livres hommes-lézards au rituel de Quex. Les deux versions coexistent.",
+      "en": "Dwarf and Skaven books attribute the same earthquakes of the Time of Woes to Skaven sorcery, the Lizardmen books to Quex's ritual. Both versions coexist.",
+      "de": "Die Bücher der Zwerge und Skaven schreiben dieselben Erdbeben der Zeit des Leids der Skaven-Zauberei zu, die Bücher der Echsenmenschen dem Ritual von Quex. Beide Versionen bestehen nebeneinander."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Lizardmen (8e édition, 2013)",
+          "en": "Warhammer Armies: Lizardmen (8th edition, 2013)",
+          "de": "Warhammer Armies: Lizardmen (8. Edition, 2013)"
+        },
+        "detail": {
+          "fr": "p. 26",
+          "en": "p. 26",
+          "de": "S. 26"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Lizardmen (7e édition, 2009)",
+          "en": "Warhammer Armies: Lizardmen (7th edition, 2009)",
+          "de": "Warhammer Armies: Lizardmen (7. Edition, 2009)"
+        },
+        "detail": {
+          "fr": "p. 11",
+          "en": "p. 11",
+          "de": "S. 11"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Lizardmen Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Lizardmen Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Lizardmen Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Lizardmen_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "clan-eshin-part-vers-l-est",
+    "annee": -1450,
+    "fin": null,
+    "approx": true,
+    "titre": {
+      "fr": "Le clan Eshin disparaît vers l'Orient",
+      "en": "Clan Eshin vanishes into the East",
+      "de": "Klan Eshin verschwindet nach Osten"
+    },
+    "resume": {
+      "fr": "Le seigneur Visktrin est mortellement blessé par un dragon dans les Montagnes du Deuil. Avant de mourir, il ordonne à son successeur de fonder une colonie dans le lointain Cathay. Le clan qui deviendra Eshin sort alors de la mémoire des autres Skavens pour près de deux mille ans.",
+      "en": "Lord Visktrin is mortally wounded by a dragon in the Mountains of Mourn. Before dying, he instructs his successor to found a colony in distant Cathay. The clan that will become Eshin then passes out of the knowledge of the other Skaven for nearly two thousand years.",
+      "de": "Lord Visktrin wird in den Bergen der Trauer von einem Drachen tödlich verwundet. Vor seinem Tod befiehlt er seinem Nachfolger, im fernen Cathay eine Kolonie zu gründen. Der Klan, aus dem Eshin wird, gerät daraufhin für fast zweitausend Jahre aus dem Gedächtnis der übrigen Skaven."
+    },
+    "ere": "age-des-tribus",
+    "regions": [
+      "orient"
+    ],
+    "lieux": [
+      "cathay"
+    ],
+    "factions": [
+      "skavens"
+    ],
+    "importance": 1,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Skaven (7e édition, 2009)",
+          "en": "Warhammer Armies: Skaven (7th edition, 2009)",
+          "de": "Warhammer Armies: Skaven (7. Edition, 2009)"
+        },
+        "detail": {
+          "fr": "p. 30",
+          "en": "p. 30",
+          "de": "S. 30"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Skaven Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Skaven Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Skaven Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Skaven_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "clan-moulder-au-puits-de-l-enfer",
+    "annee": -1450,
+    "fin": null,
+    "approx": true,
+    "titre": {
+      "fr": "Le clan Moulder s'installe au Puits de l'Enfer",
+      "en": "Clan Moulder settles at Hell Pit",
+      "de": "Klan Moulder lässt sich in der Höllengrube nieder"
+    },
+    "resume": {
+      "fr": "Le Seigneur de la Ruine Malkrit conduit le clan Moulder vers le Pays des Trolls, au nord de Kislev. Il y fonde la place forte qui deviendra le Puits de l'Enfer, creusée autour d'un gigantesque fragment de malepierre. Les maîtres mutateurs y élèveront pendant des millénaires leurs monstres de guerre.",
+      "en": "The Lord of Decay Malkrit leads Clan Moulder into the Troll Country north of Kislev. There he establishes the stronghold that will become Hell Pit, dug around a gigantic chunk of warpstone. The master mutators will breed their war-beasts there for millennia.",
+      "de": "Der Fürst des Verfalls Malkrit führt Klan Moulder ins Trollland nördlich von Kislev. Dort gründet er die Festung, aus der die Höllengrube wird, gegraben um einen gewaltigen Warpsteinbrocken. Die Meistermutatoren werden dort jahrtausendelang ihre Kriegsbestien züchten."
+    },
+    "ere": "age-des-tribus",
+    "regions": [
+      "kislev"
+    ],
+    "lieux": [
+      "hell-pit"
+    ],
+    "factions": [
+      "skavens"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "Le fragment de malepierre est mentionné par les ouvrages consacrés au Puits de l'Enfer, pas par la chronologie elle-même.",
+      "en": "The warpstone chunk is mentioned in works about Hell Pit, not in the timeline itself.",
+      "de": "Der Warpsteinbrocken wird in Werken über die Höllengrube erwähnt, nicht in der Chronik selbst."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Skaven (7e édition, 2009)",
+          "en": "Warhammer Armies: Skaven (7th edition, 2009)",
+          "de": "Warhammer Armies: Skaven (7. Edition, 2009)"
+        },
+        "detail": {
+          "fr": "p. 30",
+          "en": "p. 30",
+          "de": "S. 30"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Warhammer Fantasy Roleplay 2e édition, Children of the Horned Rat (2009)",
+          "en": "Warhammer Fantasy Roleplay 2nd edition, Children of the Horned Rat (2009)",
+          "de": "Warhammer Fantasy Roleplay 2. Edition, Children of the Horned Rat (2009)"
+        },
+        "detail": {
+          "fr": "p. 35",
+          "en": "p. 35",
+          "de": "S. 35"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Skaven Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Skaven Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Skaven Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Skaven_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "skavens-en-araby",
+    "annee": -1420,
+    "fin": null,
+    "approx": true,
+    "titre": {
+      "fr": "Les Skavens en Araby et le Fléau des Savants",
+      "en": "The Skaven in Araby and the Scouring of Scholars",
+      "de": "Die Skaven in Araby und die Geißel der Gelehrten"
+    },
+    "resume": {
+      "fr": "Des clans skavens s'aventurent pour la première fois en Araby et y creusent leurs premiers repaires souterrains. Les Arabiens gardent le souvenir de ces migrations sous le nom de Fléau des Savants. Ils y voient un châtiment divin contre les hommes qui se fiaient trop à la science.",
+      "en": "Skaven clans venture into Araby for the first time and dig their first underground strongholds there. The Arabyans remember these migrations as the Scouring of Scholars. They see them as divine punishment upon men who trusted too much in science.",
+      "de": "Skaven-Klans wagen sich zum ersten Mal nach Araby und graben dort ihre ersten unterirdischen Festungen. Die Araber erinnern sich an diese Wanderungen als die Geißel der Gelehrten. Sie sehen darin eine göttliche Strafe für Menschen, die zu sehr auf die Wissenschaft vertrauten."
+    },
+    "ere": "age-des-tribus",
+    "regions": [
+      "sud"
+    ],
+    "lieux": [
+      "araby"
+    ],
+    "factions": [
+      "skavens",
+      "humains-autres"
+    ],
+    "importance": 1,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Skaven (7e édition, 2009)",
+          "en": "Warhammer Armies: Skaven (7th edition, 2009)",
+          "de": "Warhammer Armies: Skaven (7. Edition, 2009)"
+        },
+        "detail": {
+          "fr": "p. 30",
+          "en": "p. 30",
+          "de": "S. 30"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Warhammer Fantasy Roleplay 2e édition, Children of the Horned Rat (2009)",
+          "en": "Warhammer Fantasy Roleplay 2nd edition, Children of the Horned Rat (2009)",
+          "de": "Warhammer Fantasy Roleplay 2. Edition, Children of the Horned Rat (2009)"
+        },
+        "detail": {
+          "fr": "p. 29",
+          "en": "p. 29",
+          "de": "S. 29"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Skaven Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Skaven Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Skaven Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Skaven_Timeline"
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Timeline of the Warhammer World",
+          "en": "Warhammer Fantasy Wiki (fandom), page Timeline of the Warhammer World",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Timeline of the Warhammer World"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Timeline_of_the_Warhammer_World"
+      }
+    ]
+  },
+  {
+    "id": "pacte-avec-nagash",
+    "annee": -1300,
+    "fin": -1200,
+    "approx": true,
+    "titre": {
+      "fr": "Guerre et pacte avec Nagash au Pic Estropié",
+      "en": "War and pact with Nagash at Cripple Peak",
+      "de": "Krieg und Pakt mit Nagash am Krüppelgipfel"
+    },
+    "resume": {
+      "fr": "Attirés par l'énorme masse de malepierre du Pic Estropié, les Skavens attaquent Nagash, mais ses légions de morts les repoussent. Le Conseil des Treize finit par signer avec lui un traité tracé dans le sang sur de la peau de dragon. Contre la malepierre extraite sous la montagne, les Skavens attirent plusieurs tribus d'orques et de gobelins dans Nagashizzar.",
+      "en": "Drawn by the huge mass of warpstone at Cripple Peak, the Skaven attack Nagash, but his legions of the dead drive them back. The Council of Thirteen eventually signs a treaty with him, written in blood on dragonhide. In exchange for the warpstone mined beneath the mountain, the Skaven lure several tribes of Orcs and Goblins into Nagashizzar.",
+      "de": "Angelockt von der riesigen Warpsteinmasse des Krüppelgipfels greifen die Skaven Nagash an, doch seine Totenlegionen treiben sie zurück. Der Rat der Dreizehn schließt schließlich einen mit Blut auf Drachenhaut geschriebenen Vertrag mit ihm. Im Tausch gegen den unter dem Berg geförderten Warpstein locken die Skaven mehrere Ork- und Goblinstämme nach Nagashizzar."
+    },
+    "ere": "age-des-tribus",
+    "regions": [
+      "terres-arides"
+    ],
+    "lieux": [
+      "nagashizzar"
+    ],
+    "factions": [
+      "skavens",
+      "rois-des-tombes",
+      "peaux-vertes"
+    ],
+    "importance": 2,
+    "fiabilite": "divergent",
+    "note": {
+      "fr": "Le livre d'armée skaven de 7e édition date la guerre d'environ -1300 à -1250 CI et le traité d'environ -1200 CI. D'autres chronologies placent la guerre vers -1400 CI.",
+      "en": "The 7th edition Skaven army book dates the war to around -1300 to -1250 IC and the treaty to around -1200 IC. Other timelines place the war around -1400 IC.",
+      "de": "Das Skaven-Armeebuch der 7. Edition datiert den Krieg auf etwa -1300 bis -1250 IK und den Vertrag auf etwa -1200 IK. Andere Chroniken setzen den Krieg um -1400 IK an."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Skaven (7e édition, 2009)",
+          "en": "Warhammer Armies: Skaven (7th edition, 2009)",
+          "de": "Warhammer Armies: Skaven (7. Edition, 2009)"
+        },
+        "detail": {
+          "fr": "p. 30",
+          "en": "p. 30",
+          "de": "S. 30"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Tomb Kings (8e édition, 2011)",
+          "en": "Warhammer Armies: Tomb Kings (8th edition, 2011)",
+          "de": "Warhammer Armies: Tomb Kings (8. Edition, 2011)"
+        },
+        "detail": {
+          "fr": "p. 20",
+          "en": "p. 20",
+          "de": "S. 20"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Skaven Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Skaven Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Skaven Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Skaven_Timeline"
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Timeline of the Warhammer World",
+          "en": "Warhammer Fantasy Wiki (fandom), page Timeline of the Warhammer World",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Timeline of the Warhammer World"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Timeline_of_the_Warhammer_World"
+      }
+    ]
+  },
+  {
+    "id": "hommes-lezards-envahissent-nehekhara",
+    "annee": -917,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Les Hommes-lézards envahissent Nehekhara",
+      "en": "The Lizardmen invade Nehekhara",
+      "de": "Die Echsenmenschen fallen in Nehekhara ein"
+    },
+    "resume": {
+      "fr": "Une armée d'Hommes-lézards venue des Terres du Sud entre en Nehekhara à la recherche de plaques volées jadis dans leurs cités-temples. Elle balaie les légions squelettes à Ka-Sabar et à Bhagar et s'enfonce au cœur du Pays des Morts. Elle est finalement anéantie devant Khemri, quand les Prêtres liches concentrent les rayons du soleil à travers les prismes des pyramides.",
+      "en": "A Lizardmen warhost from the Southlands enters Nehekhara in search of plaques once looted from their temple-cities. It sweeps aside skeletal legions at Ka-Sabar and Bhagar and drives deep into the Land of the Dead. It is finally destroyed before Khemri, when the Liche Priests focus the sun's rays through the prisms atop the pyramids.",
+      "de": "Ein Heer der Echsenmenschen aus den Südlanden dringt auf der Suche nach Tafeln, die einst aus ihren Tempelstädten geraubt wurden, in Nehekhara ein. Es fegt die Skelettlegionen bei Ka-Sabar und Bhagar beiseite und stößt tief ins Land der Toten vor. Vor Khemri wird es schließlich vernichtet, als die Lichepriester die Sonnenstrahlen durch die Prismen auf den Pyramiden bündeln."
+    },
+    "ere": "age-des-tribus",
+    "regions": [
+      "sud"
+    ],
+    "lieux": [
+      "khemri",
+      "ka-sabar",
+      "bhagar"
+    ],
+    "factions": [
+      "hommes-lezards",
+      "rois-des-tombes"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Tomb Kings (8e édition, 2011)",
+          "en": "Warhammer Armies: Tomb Kings (8th edition, 2011)",
+          "de": "Warhammer Armies: Tomb Kings (8. Edition, 2011)"
+        },
+        "detail": {
+          "fr": "p. 20",
+          "en": "p. 20",
+          "de": "S. 20"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Timeline of the Warhammer World",
+          "en": "Warhammer Fantasy Wiki (fandom), page Timeline of the Warhammer World",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Timeline of the Warhammer World"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Timeline_of_the_Warhammer_World"
+      }
+    ]
+  },
+  {
+    "id": "tunnels-sous-karak-huit-pics",
+    "annee": -701,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Les mineurs de Karak Huit Pics percent un tunnel skaven",
+      "en": "The miners of Karak Eight Peaks break into a Skaven tunnel",
+      "de": "Die Bergleute von Karak Acht Gipfel stoßen auf einen Skaven-Tunnel"
+    },
+    "resume": {
+      "fr": "Le Livre des Rancunes rapporte que des mineurs nains de Karak Huit Pics débouchent dans un tunnel skaven. Les Nains découvrent avec effroi l'étendue des terriers creusés sous leur forteresse. Une guerre souterraine acharnée commence, qui durera près de deux siècles jusqu'à la chute de la cité.",
+      "en": "The Book of Grudges records that Dwarf miners of Karak Eight Peaks break into a Skaven tunnel. The Dwarfs are horrified to discover the extent of the burrows dug beneath their stronghold. A bitter underground war begins, which will last nearly two centuries until the fall of the city.",
+      "de": "Das Buch des Grolls berichtet, dass zwergische Bergleute in Karak Acht Gipfel auf einen Skaven-Tunnel stoßen. Entsetzt entdecken die Zwerge das Ausmaß der unter ihrer Festung gegrabenen Baue. Ein erbitterter unterirdischer Krieg beginnt, der fast zwei Jahrhunderte bis zum Fall der Stadt dauern wird."
+    },
+    "ere": "age-des-tribus",
+    "regions": [
+      "montagnes"
+    ],
+    "lieux": [
+      "karak-huit-pics"
+    ],
+    "factions": [
+      "skavens",
+      "nains"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Dwarfs (8e édition, 2013)",
+          "en": "Warhammer Armies: Dwarfs (8th edition, 2013)",
+          "de": "Warhammer Armies: Dwarfs (8. Edition, 2013)"
+        },
+        "detail": {
+          "fr": "p. 20-21",
+          "en": "pp. 20-21",
+          "de": "S. 20-21"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Skaven (7e édition, 2009)",
+          "en": "Warhammer Armies: Skaven (7th edition, 2009)",
+          "de": "Warhammer Armies: Skaven (7. Edition, 2009)"
+        },
+        "detail": {
+          "fr": "p. 30",
+          "en": "p. 30",
+          "de": "S. 30"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Skaven Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Skaven Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Skaven Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Skaven_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "guerre-des-tetes-reduites",
+    "annee": -594,
+    "fin": -494,
+    "approx": true,
+    "titre": {
+      "fr": "La Guerre des Têtes réduites",
+      "en": "The Shrunken Head War",
+      "de": "Der Schrumpfkopfkrieg"
+    },
+    "resume": {
+      "fr": "Les Hommes-lézards entament une campagne d'un siècle contre les tribus orques de la jungle de la Côte des Scorpions. Le guerrier saurus Kroq-Gar y met fin en tuant de sa main les chefs de guerre des six tribus ennemies. C'est l'un des plus anciens exploits attribués à ce champion.",
+      "en": "The Lizardmen begin a century-long campaign against the jungle Orc tribes of the Scorpion Coast. The Saurus warrior Kroq-Gar ends it by personally slaying the warbosses of all six enemy tribes. It is one of the oldest feats attributed to this champion.",
+      "de": "Die Echsenmenschen beginnen einen hundertjährigen Feldzug gegen die Dschungelorkstämme der Skorpionküste. Der Saurus-Krieger Kroq-Gar beendet ihn, indem er eigenhändig die Waaaghbosse aller sechs feindlichen Stämme erschlägt. Es ist eine der ältesten Taten, die diesem Helden zugeschrieben werden."
+    },
+    "ere": "age-des-tribus",
+    "regions": [
+      "lustrie"
+    ],
+    "lieux": [],
+    "factions": [
+      "hommes-lezards",
+      "peaux-vertes"
+    ],
+    "importance": 1,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "La source dit « une campagne d'un siècle » commencée en -594 CI : la date de fin est déduite.",
+      "en": "The source speaks of « a century-long campaign » begun in -594 IC: the end date is inferred.",
+      "de": "Die Quelle spricht von einem « hundertjährigen Feldzug », der -594 IK begann: Das Enddatum ist abgeleitet."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Lizardmen (8e édition, 2013)",
+          "en": "Warhammer Armies: Lizardmen (8th edition, 2013)",
+          "de": "Warhammer Armies: Lizardmen (8. Edition, 2013)"
+        },
+        "detail": {
+          "fr": "p. 26",
+          "en": "p. 26",
+          "de": "S. 26"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Lizardmen Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Lizardmen Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Lizardmen Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Lizardmen_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "skryre-vole-les-canons",
+    "annee": -380,
+    "fin": null,
+    "approx": true,
+    "titre": {
+      "fr": "Le clan Skryre copie les canons nains",
+      "en": "Clan Skryre copies the Dwarf cannons",
+      "de": "Klan Skryre kopiert die Kanonen der Zwerge"
+    },
+    "resume": {
+      "fr": "Les premiers canons nains empêchent les armées gobelines et skavens de prendre Karaz-a-Karak. Des espions skavens en dérobent les plans et en tirent les premiers pistolets et jezzails à malepierre. Le clan Skryre doit son ascension à ces armes.",
+      "en": "The first Dwarf cannons prevent the Goblin and Skaven armies from taking Karaz-a-Karak. Skaven spies steal the designs and use them to build the first warp-pistols and jezzails. Clan Skryre owes its rise to power to these weapons.",
+      "de": "Die ersten Kanonen der Zwerge verhindern, dass die Heere der Goblins und Skaven Karaz-a-Karak einnehmen. Skaven-Spione stehlen die Pläne und bauen danach die ersten Warp-Pistolen und Jezzails. Klan Skryre verdankt diesen Waffen seinen Aufstieg."
+    },
+    "ere": "age-des-tribus",
+    "regions": [
+      "montagnes"
+    ],
+    "lieux": [
+      "karaz-a-karak"
+    ],
+    "factions": [
+      "skavens",
+      "nains"
+    ],
+    "importance": 1,
+    "fiabilite": "incertain",
+    "note": {
+      "fr": "Source unique (jeu de rôle, Children of the Horned Rat).",
+      "en": "Single source (roleplaying game, Children of the Horned Rat).",
+      "de": "Einzelne Quelle (Rollenspiel, Children of the Horned Rat)."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Fantasy Roleplay 2e édition, Children of the Horned Rat (2009)",
+          "en": "Warhammer Fantasy Roleplay 2nd edition, Children of the Horned Rat (2009)",
+          "de": "Warhammer Fantasy Roleplay 2. Edition, Children of the Horned Rat (2009)"
+        },
+        "detail": {
+          "fr": "p. 35",
+          "en": "p. 35",
+          "de": "S. 35"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Skaven Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Skaven Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Skaven Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Skaven_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "crookback-et-clan-rictus",
+    "annee": -350,
+    "fin": -250,
+    "approx": true,
+    "titre": {
+      "fr": "Le Mont Crookback et le clan Rictus",
+      "en": "Crookback Mountain and Clan Rictus",
+      "de": "Der Crookback-Berg und Klan Rictus"
+    },
+    "resume": {
+      "fr": "Les Skavens envahissent le Mont Crookback, dans les Terres sombres, et réduisent en esclavage plusieurs tribus de gobelins de la nuit qui y vivaient. Vers -250 CI, le clan Rictus achète au Conseil des Treize le droit exclusif de s'y établir. La montagne devient la porte souterraine des Skavens vers les Terres sombres.",
+      "en": "The Skaven overrun Crookback Mountain in the Dark Lands and enslave several tribes of Night Goblins living there. Around -250 IC, Clan Rictus bribes the Council of Thirteen for the exclusive right to settle there. The mountain becomes the Skaven's underground gateway to the Dark Lands.",
+      "de": "Die Skaven überrennen den Crookback-Berg in den Dunklen Landen und versklaven mehrere dort lebende Nachtgoblinstämme. Um -250 IK besticht Klan Rictus den Rat der Dreizehn, um das alleinige Recht zu erhalten, sich dort niederzulassen. Der Berg wird zum unterirdischen Tor der Skaven in die Dunklen Lande."
+    },
+    "ere": "age-des-tribus",
+    "regions": [
+      "terres-arides"
+    ],
+    "lieux": [],
+    "factions": [
+      "skavens",
+      "peaux-vertes"
+    ],
+    "importance": 1,
+    "fiabilite": "divergent",
+    "note": {
+      "fr": "Children of the Horned Rat place la prise de la montagne vers -350 CI, une autre chronologie en -315 CI. Le nom français de la montagne n'a pas été vérifié.",
+      "en": "Children of the Horned Rat places the capture of the mountain around -350 IC, another timeline in -315 IC. The French name of the mountain has not been checked.",
+      "de": "Children of the Horned Rat datiert die Einnahme des Berges auf etwa -350 IK, eine andere Chronik auf -315 IK. Der deutsche Name des Berges wurde nicht überprüft."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Skaven (7e édition, 2009)",
+          "en": "Warhammer Armies: Skaven (7th edition, 2009)",
+          "de": "Warhammer Armies: Skaven (7. Edition, 2009)"
+        },
+        "detail": {
+          "fr": "p. 30",
+          "en": "p. 30",
+          "de": "S. 30"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Warhammer Fantasy Roleplay 2e édition, Children of the Horned Rat (2009)",
+          "en": "Warhammer Fantasy Roleplay 2nd edition, Children of the Horned Rat (2009)",
+          "de": "Warhammer Fantasy Roleplay 2. Edition, Children of the Horned Rat (2009)"
+        },
+        "detail": {
+          "fr": "p. 35",
+          "en": "p. 35",
+          "de": "S. 35"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Skaven Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Skaven Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Skaven Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Skaven_Timeline"
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Timeline of the Warhammer World",
+          "en": "Warhammer Fantasy Wiki (fandom), page Timeline of the Warhammer World",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Timeline of the Warhammer World"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Timeline_of_the_Warhammer_World"
+      }
+    ]
+  },
+  {
+    "id": "nurglitch-dans-les-terres-du-sud",
+    "annee": -50,
+    "fin": null,
+    "approx": true,
+    "titre": {
+      "fr": "Nurglitch mène le clan Pestilens dans les Terres du Sud",
+      "en": "Nurglitch leads Clan Pestilens into the Southlands",
+      "de": "Nurglitch führt Klan Pestilens in die Südlande"
+    },
+    "resume": {
+      "fr": "Alors que la guerre contre les Hommes-lézards tourne mal, le seigneur Nurglitch conduit la majeure partie du clan Pestilens hors de Lustrie. Il établit de nouvelles places fortes dans les Terres du Sud. Le clan y ravagera longtemps les jungles et les déserts par ses contagions magiques.",
+      "en": "As the war against the Lizardmen turns sour, Lord Nurglitch leads most of Clan Pestilens out of Lustria. He establishes new strongholds in the Southlands. From there the clan will long ravage the jungles and deserts with its magical contagions.",
+      "de": "Als sich der Krieg gegen die Echsenmenschen zum Schlechten wendet, führt Lord Nurglitch den Großteil des Klans Pestilens aus Lustria fort. Er errichtet neue Festungen in den Südlanden. Von dort aus wird der Klan Dschungel und Wüsten lange mit seinen magischen Seuchen verwüsten."
+    },
+    "ere": "age-des-tribus",
+    "regions": [
+      "sud",
+      "lustrie"
+    ],
+    "lieux": [],
+    "factions": [
+      "skavens"
+    ],
+    "importance": 1,
+    "fiabilite": "divergent",
+    "note": {
+      "fr": "Le livre d'armée skaven de 7e édition donne environ -50 CI, la chronologie générale du wiki 50 CI.",
+      "en": "The 7th edition Skaven army book gives around -50 IC, the wiki's general timeline 50 IC.",
+      "de": "Das Skaven-Armeebuch der 7. Edition nennt etwa -50 IK, die allgemeine Chronik des Wikis 50 IK."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Skaven (7e édition, 2009)",
+          "en": "Warhammer Armies: Skaven (7th edition, 2009)",
+          "de": "Warhammer Armies: Skaven (7. Edition, 2009)"
+        },
+        "detail": {
+          "fr": "p. 30",
+          "en": "p. 30",
+          "de": "S. 30"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Skaven Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Skaven Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Skaven Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Skaven_Timeline"
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Timeline of the Warhammer World",
+          "en": "Warhammer Fantasy Wiki (fandom), page Timeline of the Warhammer World",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Timeline of the Warhammer World"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Timeline_of_the_Warhammer_World"
+      }
+    ]
+  },
+  {
+    "id": "prophetie-de-sotek",
+    "annee": 1,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "La Prophétie de Sotek et l'abandon de Chaqua",
+      "en": "The Prophecy of Sotek and the abandonment of Chaqua",
+      "de": "Die Prophezeiung Soteks und die Aufgabe von Chaqua"
+    },
+    "resume": {
+      "fr": "Les pestes skavens achèvent de vider Chaqua, dont les Prêtres-Mages succombent, et la cité est abandonnée. Le prêtre skink Tehenhauin y découvre la Prophétie de Sotek et la prêche alors qu'une comète à deux queues traverse le ciel. Les Skinks à crête rouge se rallient en masse au culte du dieu serpent, qui promet la délivrance contre des sacrifices d'hommes-rats.",
+      "en": "Skaven plagues finish emptying Chaqua, whose Mage-Priests succumb, and the city is abandoned. The Skink Priest Tehenhauin discovers the Prophecy of Sotek there and preaches it as a twin-tailed comet crosses the sky. Red-crested Skinks rally en masse to the cult of the serpent god, who promises deliverance in exchange for sacrifices of ratmen.",
+      "de": "Skaven-Seuchen entvölkern Chaqua endgültig, seine Magierpriester erliegen ihnen, und die Stadt wird aufgegeben. Der Skink-Priester Tehenhauin entdeckt dort die Prophezeiung Soteks und predigt sie, während ein zweischweifiger Komet den Himmel quert. Rotkammige Skinks schließen sich in Scharen dem Kult des Schlangengottes an, der Erlösung gegen Opfer von Rattenmenschen verheißt."
+    },
+    "ere": "empire-sigmarite",
+    "regions": [
+      "lustrie"
+    ],
+    "lieux": [
+      "chaqua"
+    ],
+    "factions": [
+      "hommes-lezards",
+      "skavens"
+    ],
+    "importance": 3,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Lizardmen (8e édition, 2013)",
+          "en": "Warhammer Armies: Lizardmen (8th edition, 2013)",
+          "de": "Warhammer Armies: Lizardmen (8. Edition, 2013)"
+        },
+        "detail": {
+          "fr": "p. 26",
+          "en": "p. 26",
+          "de": "S. 26"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Lizardmen Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Lizardmen Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Lizardmen Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Lizardmen_Timeline"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Lizardmen",
+          "en": "Lexicanum, Lizardmen page",
+          "de": "Lexicanum, Seite Lizardmen"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Lizardmen"
+      }
+    ]
+  },
+  {
+    "id": "sigmar-ecrase-les-hommes-rats",
+    "annee": 17,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Sigmar écrase une armée d'hommes-rats",
+      "en": "Sigmar destroys an army of ratmen",
+      "de": "Sigmar vernichtet ein Heer von Rattenmenschen"
+    },
+    "resume": {
+      "fr": "Trois documents impériaux et une tapisserie rapportent que Sigmar anéantit cette année-là une armée d'hommes-rats, dans les Montagnes du Milieu selon une version. Ces récits ont depuis disparu et la partie de la tapisserie consacrée à cette époque a été rongée par la vermine. Les Skavens veillent à effacer toute trace de leur défaite.",
+      "en": "Three Imperial records and a tapestry relate that Sigmar destroys an army of ratmen that year, in the Middle Mountains according to one version. These accounts have since been lost and the section of the tapestry covering that era has been eaten away by vermin. The Skaven take care to erase every trace of their defeat.",
+      "de": "Drei imperiale Urkunden und ein Wandteppich berichten, dass Sigmar in diesem Jahr ein Heer von Rattenmenschen vernichtet, einer Fassung zufolge im Mittelgebirge. Diese Berichte sind inzwischen verloren, und der Teil des Wandteppichs, der diese Zeit zeigt, wurde von Ungeziefer zerfressen. Die Skaven sorgen dafür, jede Spur ihrer Niederlage zu tilgen."
+    },
+    "ere": "empire-sigmarite",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [],
+    "factions": [
+      "skavens",
+      "empire"
+    ],
+    "importance": 1,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "La localisation dans les Montagnes du Milieu ne figure que sur la chronologie générale du wiki, sans source.",
+      "en": "The Middle Mountains location only appears in the wiki's general timeline, without a source.",
+      "de": "Die Verortung im Mittelgebirge erscheint nur in der allgemeinen Chronik des Wikis, ohne Quelle."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Skaven (7e édition, 2009)",
+          "en": "Warhammer Armies: Skaven (7th edition, 2009)",
+          "de": "Warhammer Armies: Skaven (7. Edition, 2009)"
+        },
+        "detail": {
+          "fr": "p. 30",
+          "en": "p. 30",
+          "de": "S. 30"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Skaven Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Skaven Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Skaven Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Skaven_Timeline"
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Timeline of the Warhammer World",
+          "en": "Warhammer Fantasy Wiki (fandom), page Timeline of the Warhammer World",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Timeline of the Warhammer World"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Timeline_of_the_Warhammer_World"
+      }
+    ]
+  },
+  {
+    "id": "premiere-guerre-civile-skaven",
+    "annee": 100,
+    "fin": null,
+    "approx": true,
+    "titre": {
+      "fr": "Le retour de Pestilens et la première guerre civile skaven",
+      "en": "The return of Pestilens and the first Skaven civil war",
+      "de": "Die Rückkehr von Pestilens und der erste Skaven-Bürgerkrieg"
+    },
+    "resume": {
+      "fr": "Chassé de Lustrie, le clan Pestilens, que l'on croyait perdu, reparaît de façon spectaculaire à Skavenblight. Ses moines de la peste exigent leur place et déclenchent la première guerre civile du Sous-Empire. Privées du soutien skaven, les armées gobelines s'affaiblissent et les Nains commencent à renverser le cours des Guerres gobelines.",
+      "en": "Driven from Lustria, Clan Pestilens, long believed lost, makes a dramatic return to Skavenblight. Its plague monks demand their place and set off the first civil war of the Under-Empire. Deprived of Skaven support, the Goblin armies weaken and the Dwarfs begin to turn the tide of the Goblin Wars.",
+      "de": "Aus Lustria vertrieben, kehrt Klan Pestilens, den man für verloren hielt, auf spektakuläre Weise nach Skavenblight zurück. Seine Seuchenmönche fordern ihren Platz und entfesseln den ersten Bürgerkrieg des Unterimperiums. Ohne die Unterstützung der Skaven werden die Goblinheere schwächer, und die Zwerge beginnen, das Blatt in den Goblinkriegen zu wenden."
+    },
+    "ere": "empire-sigmarite",
+    "regions": [
+      "tilee-estalie",
+      "montagnes"
+    ],
+    "lieux": [
+      "skavenblight"
+    ],
+    "factions": [
+      "skavens"
+    ],
+    "importance": 3,
+    "fiabilite": "divergent",
+    "note": {
+      "fr": "Le livre d'armée de 7e édition place ce retour vers 100 CI. Children of the Horned Rat étale la guerre civile d'environ -300 à 200 CI.",
+      "en": "The 7th edition army book places this return around 100 IC. Children of the Horned Rat spreads the civil war from around -300 to 200 IC.",
+      "de": "Das Armeebuch der 7. Edition setzt diese Rückkehr um 100 IK an. Children of the Horned Rat erstreckt den Bürgerkrieg von etwa -300 bis 200 IK."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Skaven (7e édition, 2009)",
+          "en": "Warhammer Armies: Skaven (7th edition, 2009)",
+          "de": "Warhammer Armies: Skaven (7. Edition, 2009)"
+        },
+        "detail": {
+          "fr": "p. 30",
+          "en": "p. 30",
+          "de": "S. 30"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Warhammer Fantasy Roleplay 2e édition, Children of the Horned Rat (2009)",
+          "en": "Warhammer Fantasy Roleplay 2nd edition, Children of the Horned Rat (2009)",
+          "de": "Warhammer Fantasy Roleplay 2. Edition, Children of the Horned Rat (2009)"
+        },
+        "detail": {
+          "fr": "p. 35",
+          "en": "p. 35",
+          "de": "S. 35"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Skaven Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Skaven Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Skaven Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Skaven_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "skavens-chasses-de-lustrie",
+    "annee": 100,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Les Skavens chassés de Lustrie",
+      "en": "The Skaven driven from Lustria",
+      "de": "Die Skaven werden aus Lustria vertrieben"
+    },
+    "resume": {
+      "fr": "Après un siècle de guerre et de sacrifices, une dernière campagne des armées de Tehenhauin brise les Skavens, frappés par des fléaux de serpents. Les survivants du clan Pestilens fuient vers le Vieux Monde par les Terres du Sud, en laissant derrière eux quelques tunnels inaperçus. Réunis à Itza, les Slanns reconnaissent Sotek comme le premier des dieux des Hommes-lézards.",
+      "en": "After a century of war and sacrifice, a final campaign by Tehenhauin's armies breaks the Skaven, struck by plagues of serpents. The survivors of Clan Pestilens flee to the Old World through the Southlands, leaving behind a few unnoticed tunnels. Gathered at Itza, the Slann recognise Sotek as the foremost god of the Lizardmen.",
+      "de": "Nach einem Jahrhundert des Krieges und der Opfer bricht ein letzter Feldzug von Tehenhauins Heeren die Skaven, die von Schlangenplagen heimgesucht werden. Die Überlebenden des Klans Pestilens fliehen über die Südlande in die Alte Welt und lassen einige unentdeckte Tunnel zurück. In Itza versammelt, erkennen die Slann Sotek als obersten Gott der Echsenmenschen an."
+    },
+    "ere": "empire-sigmarite",
+    "regions": [
+      "lustrie",
+      "sud"
+    ],
+    "lieux": [
+      "itza"
+    ],
+    "factions": [
+      "hommes-lezards",
+      "skavens"
+    ],
+    "importance": 3,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Lizardmen (8e édition, 2013)",
+          "en": "Warhammer Armies: Lizardmen (8th edition, 2013)",
+          "de": "Warhammer Armies: Lizardmen (8. Edition, 2013)"
+        },
+        "detail": {
+          "fr": "p. 26",
+          "en": "p. 26",
+          "de": "S. 26"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Skaven (7e édition, 2009)",
+          "en": "Warhammer Armies: Skaven (7th edition, 2009)",
+          "de": "Warhammer Armies: Skaven (7. Edition, 2009)"
+        },
+        "detail": {
+          "fr": "p. 30",
+          "en": "p. 30",
+          "de": "S. 30"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Lizardmen Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Lizardmen Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Lizardmen Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Lizardmen_Timeline"
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Timeline of the Warhammer World",
+          "en": "Warhammer Fantasy Wiki (fandom), page Timeline of the Warhammer World",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Timeline of the Warhammer World"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Timeline_of_the_Warhammer_World"
+      }
+    ]
+  },
+  {
+    "id": "star-stela-de-quetli",
+    "annee": 315,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Reconquête de la Stèle stellaire de Quetli",
+      "en": "Recovery of the Star Stela of Quetli",
+      "de": "Rückeroberung der Sternenstele von Quetli"
+    },
+    "resume": {
+      "fr": "Des pillards elfes noirs ont dérobé la Stèle stellaire de Quetli, un artefact vital pour les Slanns. Le seigneur Tepec-Inzi ouvre un portail jusqu'en Naggaroth, où une armée menée par Gor-Rok écrase les Druchii et reprend la stèle. Désormais, toute intrusion en Lustrie est accueillie par la force.",
+      "en": "Dark Elf raiders have stolen the Star Stela of Quetli, an artefact vital to the Slann. Lord Tepec-Inzi opens a portal to Naggaroth, where an army led by Gor-Rok crushes the Druchii and takes the stela back. From now on, every intrusion into Lustria is met with force.",
+      "de": "Dunkelelfische Plünderer haben die Sternenstele von Quetli gestohlen, ein für die Slann lebenswichtiges Artefakt. Lord Tepec-Inzi öffnet ein Portal nach Naggaroth, wo ein von Gor-Rok geführtes Heer die Druchii zerschlägt und die Stele zurückholt. Fortan wird jedes Eindringen in Lustria mit Gewalt beantwortet."
+    },
+    "ere": "empire-sigmarite",
+    "regions": [
+      "lustrie",
+      "naggaroth"
+    ],
+    "lieux": [
+      "naggaroth"
+    ],
+    "factions": [
+      "hommes-lezards",
+      "elfes-noirs"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Lizardmen (8e édition, 2013)",
+          "en": "Warhammer Armies: Lizardmen (8th edition, 2013)",
+          "de": "Warhammer Armies: Lizardmen (8. Edition, 2013)"
+        },
+        "detail": {
+          "fr": "p. 26",
+          "en": "p. 26",
+          "de": "S. 26"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Lizardmen Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Lizardmen Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Lizardmen Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Lizardmen_Timeline"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Lizardmen",
+          "en": "Lexicanum, Lizardmen page",
+          "de": "Lexicanum, Seite Lizardmen"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Lizardmen"
+      }
+    ]
+  },
+  {
+    "id": "retour-du-clan-eshin",
+    "annee": 500,
+    "fin": null,
+    "approx": true,
+    "titre": {
+      "fr": "Le retour du clan Eshin",
+      "en": "The return of Clan Eshin",
+      "de": "Die Rückkehr von Klan Eshin"
+    },
+    "resume": {
+      "fr": "Le clan perdu parti vers l'est lors de la Grande Migration revient du lointain Cathay. Ses adeptes y ont développé et perfectionné l'art de l'assassinat et de la dissimulation. Ils se mettent au service du Conseil des Treize, et l'élimination de plusieurs chefs de guerre suffit à ramener bien des clans dans le rang.",
+      "en": "The lost clan that went east during the Great Migration returns from distant Cathay. Its adepts have developed and perfected the arts of assassination and stealth there. They place themselves at the service of the Council of Thirteen, and the killing of several warlords is enough to bring many clans to heel.",
+      "de": "Der verlorene Klan, der bei der Großen Wanderung nach Osten zog, kehrt aus dem fernen Cathay zurück. Seine Adepten haben dort die Kunst des Meuchelmords und der Tarnung entwickelt und vervollkommnet. Sie stellen sich in den Dienst des Rats der Dreizehn, und die Ermordung mehrerer Kriegsherren genügt, um viele Klans zur Räson zu bringen."
+    },
+    "ere": "empire-sigmarite",
+    "regions": [
+      "orient",
+      "tilee-estalie"
+    ],
+    "lieux": [
+      "skavenblight"
+    ],
+    "factions": [
+      "skavens"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Skaven (7e édition, 2009)",
+          "en": "Warhammer Armies: Skaven (7th edition, 2009)",
+          "de": "Warhammer Armies: Skaven (7. Edition, 2009)"
+        },
+        "detail": {
+          "fr": "p. 30",
+          "en": "p. 30",
+          "de": "S. 30"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Skaven Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Skaven Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Skaven Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Skaven_Timeline"
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Timeline of the Warhammer World",
+          "en": "Warhammer Fantasy Wiki (fandom), page Timeline of the Warhammer World",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Timeline of the Warhammer World"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Timeline_of_the_Warhammer_World"
+      }
+    ]
+  },
+  {
+    "id": "pestilens-au-conseil-des-treize",
+    "annee": 600,
+    "fin": null,
+    "approx": true,
+    "titre": {
+      "fr": "Le clan Pestilens entre au Conseil des Treize",
+      "en": "Clan Pestilens joins the Council of Thirteen",
+      "de": "Klan Pestilens zieht in den Rat der Dreizehn ein"
+    },
+    "resume": {
+      "fr": "Après avoir absorbé de nombreux clans de guerriers et dévasté les Terres du Sud par ses contagions, le clan Pestilens tue l'un des Seigneurs de la Ruine en combat rituel. Le Seigneur de la Peste Nurglitch obtient ainsi un siège au Conseil des Treize. La première guerre civile skaven prend fin.",
+      "en": "Having consumed many warlord clans and devastated the Southlands with its contagions, Clan Pestilens kills one of the Lords of Decay in ritual combat. The Plague Lord Nurglitch thus gains a seat on the Council of Thirteen. The first Skaven civil war comes to an end.",
+      "de": "Nachdem Klan Pestilens zahlreiche Kriegsherrenklans verschlungen und die Südlande mit seinen Seuchen verwüstet hat, tötet er einen der Fürsten des Verfalls im rituellen Zweikampf. Der Seuchenfürst Nurglitch erhält so einen Sitz im Rat der Dreizehn. Der erste Skaven-Bürgerkrieg endet."
+    },
+    "ere": "empire-sigmarite",
+    "regions": [
+      "tilee-estalie",
+      "sud"
+    ],
+    "lieux": [
+      "skavenblight"
+    ],
+    "factions": [
+      "skavens"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Skaven (7e édition, 2009)",
+          "en": "Warhammer Armies: Skaven (7th edition, 2009)",
+          "de": "Warhammer Armies: Skaven (7. Edition, 2009)"
+        },
+        "detail": {
+          "fr": "p. 30",
+          "en": "p. 30",
+          "de": "S. 30"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Skaven Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Skaven Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Skaven Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Skaven_Timeline"
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Timeline of the Warhammer World",
+          "en": "Warhammer Fantasy Wiki (fandom), page Timeline of the Warhammer World",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Timeline of the Warhammer World"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Timeline_of_the_Warhammer_World"
+      }
+    ]
+  },
+  {
+    "id": "arrivee-de-luthor-harkon",
+    "annee": 876,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Luthor Harkon échoue en Lustrie",
+      "en": "Luthor Harkon washes up in Lustria",
+      "de": "Luthor Harkon strandet in Lustria"
+    },
+    "resume": {
+      "fr": "Des pillards norses s'emparent d'un navire marchand impérial et emportent sans le savoir le sarcophage du vampire Luthor Harkon. Lorsque leur bateau se brise sur les côtes de Lustrie, tout l'équipage est asservi ou changé en morts-vivants. Harkon se taille un royaume sur la côte orientale du continent, bientôt connue sous le nom de Côte des Vampires.",
+      "en": "Norse raiders seize an Imperial merchant ship and unwittingly carry off the sarcophagus of the vampire Luthor Harkon. When their vessel breaks apart on the shores of Lustria, the whole crew has been enslaved or turned into undead. Harkon carves out a realm on the eastern coast of the continent, soon known as the Vampire Coast.",
+      "de": "Nordische Plünderer kapern ein imperiales Handelsschiff und nehmen ahnungslos den Sarkophag des Vampirs Luthor Harkon mit. Als ihr Schiff an der Küste Lustrias zerschellt, ist die gesamte Besatzung versklavt oder zu Untoten geworden. Harkon errichtet sich ein Reich an der Ostküste des Kontinents, das bald als Vampirküste bekannt wird."
+    },
+    "ere": "empire-sigmarite",
+    "regions": [
+      "lustrie"
+    ],
+    "lieux": [
+      "cote-des-vampires"
+    ],
+    "factions": [
+      "vampires",
+      "humains-autres"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "Les origines de Harkon sont contradictoires : il se dit tantôt issu des Harkoni de Lahmia, tantôt nécromancien de l'est de l'Empire.",
+      "en": "Harkon's origins are contradictory: he claims at times to come from the Harkoni of Lahmia, at others to have been a necromancer from the eastern Empire.",
+      "de": "Harkons Herkunft ist widersprüchlich: Mal gibt er an, von den Harkoni aus Lahmia abzustammen, mal ein Nekromant aus dem Osten des Imperiums gewesen zu sein."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Lizardmen (8e édition, 2013)",
+          "en": "Warhammer Armies: Lizardmen (8th edition, 2013)",
+          "de": "Warhammer Armies: Lizardmen (8. Edition, 2013)"
+        },
+        "detail": {
+          "fr": "p. 26",
+          "en": "p. 26",
+          "de": "S. 26"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Lizardmen Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Lizardmen Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Lizardmen Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Lizardmen_Timeline"
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Luthor Harkon",
+          "en": "Warhammer Fantasy Wiki (fandom), page Luthor Harkon",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Luthor Harkon"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Luthor_Harkon"
+      }
+    ]
+  },
+  {
+    "id": "valkyries-et-amazones",
+    "annee": 891,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Les Valkyries de Skeggi et la légende des Amazones",
+      "en": "The Valkyries of Skeggi and the legend of the Amazons",
+      "de": "Die Walküren von Skeggi und die Legende der Amazonen"
+    },
+    "resume": {
+      "fr": "Des Valkyries norses chassées de Skeggi disparaissent dans la jungle de Lustrie. Leur sort reste inconnu, mais elles seraient à l'origine de la légende des Amazones. Les récits de guerrières de la jungle hanteront dès lors les tavernes des marins.",
+      "en": "Norse Valkyries expelled from Skeggi vanish into the Lustrian jungle. Their fate remains unknown, but they are said to be the origin of the legend of the Amazons. Tales of jungle warrior-women will haunt sailors' taverns from then on.",
+      "de": "Aus Skeggi vertriebene nordische Walküren verschwinden im Dschungel Lustrias. Ihr Schicksal bleibt unbekannt, doch sie sollen der Ursprung der Legende von den Amazonen sein. Geschichten über Kriegerinnen des Dschungels geistern fortan durch die Seemannskneipen."
+    },
+    "ere": "empire-sigmarite",
+    "regions": [
+      "lustrie"
+    ],
+    "lieux": [
+      "skeggi"
+    ],
+    "factions": [
+      "humains-autres"
+    ],
+    "importance": 1,
+    "fiabilite": "incertain",
+    "note": {
+      "fr": "Source unique (White Dwarf 305). Les Amazones de Lustrie ont une histoire très différente dans les éditions plus anciennes.",
+      "en": "Single source (White Dwarf 305). The Amazons of Lustria have a very different history in older editions.",
+      "de": "Einzelne Quelle (White Dwarf 305). Die Amazonen Lustrias haben in älteren Editionen eine ganz andere Geschichte."
+    },
+    "sources": [
+      {
+        "titre": "White Dwarf 305 (2005)",
+        "detail": {
+          "fr": "p. 22",
+          "en": "p. 22",
+          "de": "S. 22"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Timeline of the Warhammer World",
+          "en": "Warhammer Fantasy Wiki (fandom), page Timeline of the Warhammer World",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Timeline of the Warhammer World"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Timeline_of_the_Warhammer_World"
+      }
+    ]
+  },
+  {
+    "id": "mort-du-seigneur-zhul",
+    "annee": 912,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Mort du seigneur Zhul et retour du Chaos",
+      "en": "Death of Lord Zhul and the return of Chaos",
+      "de": "Tod von Lord Zhul und Rückkehr des Chaos"
+    },
+    "resume": {
+      "fr": "L'esprit du Slann Zhul de Xahutec est rongé par une influence venue des ruines de Tlencan. Une expédition du chef skink Quzipantuti y découvre un prince démon blessé qui puise dans le réseau géomantique et le détruit, à l'instant même où Zhul meurt. Xahutec est abandonnée pour de bon et les Prêtres-Mages admettent que le Chaos est revenu en Lustrie.",
+      "en": "The mind of the Slann Zhul of Xahutec is gnawed by an influence coming from the ruins of Tlencan. An expedition led by the Skink Chief Quzipantuti finds a wounded Daemon Prince drawing on the geomantic web there and destroys it, at the very moment Zhul dies. Xahutec is abandoned for good and the Mage-Priests admit that Chaos has returned to Lustria.",
+      "de": "Der Geist des Slann Zhul aus Xahutec wird von einem Einfluss zerfressen, der aus den Ruinen von Tlencan stammt. Eine Expedition des Skink-Häuptlings Quzipantuti entdeckt dort einen verwundeten Dämonenprinzen, der aus dem geomantischen Netz schöpft, und vernichtet ihn, genau in dem Augenblick, in dem Zhul stirbt. Xahutec wird endgültig aufgegeben, und die Magierpriester erkennen an, dass das Chaos nach Lustria zurückgekehrt ist."
+    },
+    "ere": "empire-sigmarite",
+    "regions": [
+      "lustrie"
+    ],
+    "lieux": [
+      "xahutec"
+    ],
+    "factions": [
+      "hommes-lezards",
+      "chaos"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Lizardmen (8e édition, 2013)",
+          "en": "Warhammer Armies: Lizardmen (8th edition, 2013)",
+          "de": "Warhammer Armies: Lizardmen (8. Edition, 2013)"
+        },
+        "detail": {
+          "fr": "p. 26",
+          "en": "p. 26",
+          "de": "S. 26"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Lizardmen Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Lizardmen Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Lizardmen Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Lizardmen_Timeline"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Lizardmen",
+          "en": "Lexicanum, Lizardmen page",
+          "de": "Lexicanum, Seite Lizardmen"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Lizardmen"
+      }
+    ]
+  },
+  {
+    "id": "bataille-de-l-eclipse",
+    "annee": 930,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "La bataille de l'Éclipse",
+      "en": "The Battle of the Eclipse",
+      "de": "Die Schlacht der Finsternis"
+    },
+    "resume": {
+      "fr": "Une horde de zombies, faite de marins noyés au service de Luthor Harkon, sort de la jungle et marche vers l'intérieur de la Lustrie. Le Slann Xltep d'Itza, épaulé par le vieux Kroxigor Nakai, l'arrête et la disperse. La victoire accomplit la prophétie de Huanca-Xlanpac.",
+      "en": "A horde of zombies, made of drowned sailors serving Luthor Harkon, emerges from the jungle and marches towards the interior of Lustria. The Slann Xltep of Itza, aided by the ancient Kroxigor Nakai, halts and scatters it. The victory fulfils the Prophecy of Huanca-Xlanpac.",
+      "de": "Eine Zombiehorde aus ertrunkenen Seeleuten im Dienst von Luthor Harkon bricht aus dem Dschungel hervor und marschiert ins Innere Lustrias. Der Slann Xltep aus Itza hält sie mit Hilfe des uralten Kroxigors Nakai auf und zerstreut sie. Der Sieg erfüllt die Prophezeiung von Huanca-Xlanpac."
+    },
+    "ere": "empire-sigmarite",
+    "regions": [
+      "lustrie"
+    ],
+    "lieux": [
+      "itza"
+    ],
+    "factions": [
+      "hommes-lezards",
+      "vampires"
+    ],
+    "importance": 1,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "Le nom de « bataille de l'Éclipse » et la présence de Nakai viennent du wiki, page Luthor Harkon, sans renvoi précis.",
+      "en": "The name « Battle of the Eclipse » and Nakai's presence come from the wiki's Luthor Harkon page, without a precise reference.",
+      "de": "Der Name « Schlacht der Finsternis » und Nakais Anwesenheit stammen von der Wiki-Seite Luthor Harkon, ohne genauen Verweis."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Lizardmen (8e édition, 2013)",
+          "en": "Warhammer Armies: Lizardmen (8th edition, 2013)",
+          "de": "Warhammer Armies: Lizardmen (8. Edition, 2013)"
+        },
+        "detail": {
+          "fr": "p. 26",
+          "en": "p. 26",
+          "de": "S. 26"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Lizardmen Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Lizardmen Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Lizardmen Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Lizardmen_Timeline"
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Luthor Harkon",
+          "en": "Warhammer Fantasy Wiki (fandom), page Luthor Harkon",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Luthor Harkon"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Luthor_Harkon"
+      }
+    ]
+  },
+  {
+    "id": "invasion-d-allac-fellclaw",
+    "annee": 954,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "L'invasion d'Allac Fellclaw",
+      "en": "The invasion of Allac Fellclaw",
+      "de": "Die Invasion von Allac Fellclaw"
+    },
+    "resume": {
+      "fr": "Le seigneur du Chaos Allac Fellclaw mène la première grande invasion de la Lustrie par les serviteurs du Chaos depuis la Grande Catastrophe. Sa horde est vaincue et rejetée à la mer. Les rares survivants repartent vers le nord chargés d'or, mais toutes les plaques sacrées qu'ils avaient volées sont reprises.",
+      "en": "The Chaos lord Allac Fellclaw leads the first full-scale invasion of Lustria by the servants of Chaos since the Great Catastrophe. His horde is defeated and driven into the sea. The few survivors head back north laden with gold, but every sacred plaque they had stolen is recovered.",
+      "de": "Der Chaosherr Allac Fellclaw führt die erste große Invasion Lustrias durch Diener des Chaos seit der Großen Katastrophe. Seine Horde wird besiegt und ins Meer getrieben. Die wenigen Überlebenden kehren mit Gold beladen nach Norden zurück, doch alle heiligen Tafeln, die sie gestohlen hatten, werden zurückgeholt."
+    },
+    "ere": "empire-sigmarite",
+    "regions": [
+      "lustrie"
+    ],
+    "lieux": [],
+    "factions": [
+      "hommes-lezards",
+      "chaos"
+    ],
+    "importance": 1,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Lizardmen (8e édition, 2013)",
+          "en": "Warhammer Armies: Lizardmen (8th edition, 2013)",
+          "de": "Warhammer Armies: Lizardmen (8. Edition, 2013)"
+        },
+        "detail": {
+          "fr": "p. 26",
+          "en": "p. 26",
+          "de": "S. 26"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Lizardmen Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Lizardmen Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Lizardmen Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Lizardmen_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "gardiens-gris",
+    "annee": 1004,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Mazdamundi soulève les Gardiens gris",
+      "en": "Mazdamundi raises the Grey Guardians",
+      "de": "Mazdamundi erhebt die Grauen Wächter"
+    },
+    "resume": {
+      "fr": "À l'équinoxe de Tlac-Ipec, le seigneur Mazdamundi consulte les plaques de Huatl pendant qu'une puissante armée elfe noire marche sur le nord de la Lustrie. Il fait surgir du sol la chaîne de montagnes des Gardiens gris en travers de sa route. La séquence des plaques de Huatl est ensuite réalignée sur celle d'Itza.",
+      "en": "At the equinox of Tlac-Ipec, Lord Mazdamundi consults the plaques of Huatl while a mighty Dark Elf army marches on northern Lustria. He raises the mountain range of the Grey Guardians across its path. The plaque sequence of Huatl is then realigned with that of Itza.",
+      "de": "Zur Tagundnachtgleiche von Tlac-Ipec befragt Lord Mazdamundi die Tafeln von Huatl, während ein mächtiges Dunkelelfenheer auf den Norden Lustrias vorrückt. Er lässt die Bergkette der Grauen Wächter quer zu dessen Weg emporsteigen. Die Tafelfolge von Huatl wird danach an die von Itza angeglichen."
+    },
+    "ere": "empire-sigmarite",
+    "regions": [
+      "lustrie"
+    ],
+    "lieux": [
+      "huatl"
+    ],
+    "factions": [
+      "hommes-lezards",
+      "elfes-noirs"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Lizardmen (8e édition, 2013)",
+          "en": "Warhammer Armies: Lizardmen (8th edition, 2013)",
+          "de": "Warhammer Armies: Lizardmen (8. Edition, 2013)"
+        },
+        "detail": {
+          "fr": "p. 27",
+          "en": "p. 27",
+          "de": "S. 27"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Lizardmen Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Lizardmen Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Lizardmen Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Lizardmen_Timeline"
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Timeline of the Warhammer World",
+          "en": "Warhammer Fantasy Wiki (fandom), page Timeline of the Warhammer World",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Timeline of the Warhammer World"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Timeline_of_the_Warhammer_World"
+      }
+    ]
+  },
+  {
+    "id": "chant-des-sirenes-de-harkon",
+    "annee": 1011,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Le chant des sirènes de Harkon",
+      "en": "Harkon's siren-song",
+      "de": "Harkons Sirenengesang"
+    },
+    "resume": {
+      "fr": "Assoiffé de vengeance contre les Hommes-lézards, Luthor Harkon tisse un enchantement qui détourne les navires traversant le Grand Océan vers la Côte des Vampires. Les vaisseaux s'y fracassent et leurs équipages noyés se relèvent pour grossir son armée. À partir de 1127 CI, ses Pirates zombies sillonnent les mers à bord d'épaves et terrorisent les marins du monde entier.",
+      "en": "Thirsting for vengeance against the Lizardmen, Luthor Harkon weaves an enchantment that draws ships crossing the Great Ocean towards the Vampire Coast. The vessels are wrecked there and their drowned crews rise to swell his army. From 1127 IC, his Zombie Pirates sail the seas aboard wrecks and terrorise sailors the world over.",
+      "de": "Nach Rache an den Echsenmenschen dürstend, webt Luthor Harkon einen Zauber, der Schiffe auf dem Großen Ozean zur Vampirküste lockt. Dort zerschellen sie, und ihre ertrunkenen Besatzungen erheben sich, um sein Heer zu verstärken. Ab 1127 IK befahren seine Zombiepiraten auf Wracks die Meere und versetzen Seeleute in aller Welt in Angst."
+    },
+    "ere": "empire-sigmarite",
+    "regions": [
+      "lustrie"
+    ],
+    "lieux": [
+      "cote-des-vampires"
+    ],
+    "factions": [
+      "vampires"
+    ],
+    "importance": 1,
+    "fiabilite": "incertain",
+    "note": {
+      "fr": "Source unique (White Dwarf 305, campagne de Lustrie), reprise sur le wiki.",
+      "en": "Single source (White Dwarf 305, Lustria campaign), repeated on the wiki.",
+      "de": "Einzelne Quelle (White Dwarf 305, Lustria-Kampagne), im Wiki wiedergegeben."
+    },
+    "sources": [
+      {
+        "titre": "White Dwarf 305 (2005)",
+        "detail": {
+          "fr": "p. 22",
+          "en": "p. 22",
+          "de": "S. 22"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Timeline of the Warhammer World",
+          "en": "Warhammer Fantasy Wiki (fandom), page Timeline of the Warhammer World",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Timeline of the Warhammer World"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Timeline_of_the_Warhammer_World"
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Luthor Harkon",
+          "en": "Warhammer Fantasy Wiki (fandom), page Luthor Harkon",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Luthor Harkon"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Luthor_Harkon"
+      }
+    ]
+  },
+  {
+    "id": "ibn-jellaba-a-zlatlan",
+    "annee": 1150,
+    "fin": null,
+    "approx": true,
+    "titre": {
+      "fr": "Ibn Jellaba découvre Zlatlan",
+      "en": "Ibn Jellaba encounters Zlatlan",
+      "de": "Ibn Jellaba stößt auf Zlatlan"
+    },
+    "resume": {
+      "fr": "L'Arabien Ibn Jellaba traverse le désert en quête d'une route terrestre vers l'intérieur des Terres du Sud. Il y rencontre la cité cachée des Hommes-lézards de Zlatlan. Son récit est l'un des rares témoignages humains sur les Slanns de ce continent.",
+      "en": "The Arabyan Ibn Jellaba crosses the desert seeking an overland route into the interior of the Southlands. There he comes upon the hidden Lizardmen city of Zlatlan. His account is one of the few human testimonies about the Slann of that continent.",
+      "de": "Der Araber Ibn Jellaba durchquert die Wüste auf der Suche nach einem Landweg ins Innere der Südlande. Dort stößt er auf die verborgene Echsenmenschenstadt Zlatlan. Sein Bericht ist eines der wenigen menschlichen Zeugnisse über die Slann dieses Kontinents."
+    },
+    "ere": "empire-sigmarite",
+    "regions": [
+      "sud"
+    ],
+    "lieux": [
+      "zlatlan",
+      "araby"
+    ],
+    "factions": [
+      "humains-autres",
+      "hommes-lezards"
+    ],
+    "importance": 1,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Lizardmen (6e édition, 2003)",
+          "en": "Warhammer Armies: Lizardmen (6th edition, 2003)",
+          "de": "Warhammer Armies: Lizardmen (6. Edition, 2003)"
+        },
+        "detail": {
+          "fr": "p. 9",
+          "en": "p. 9",
+          "de": "S. 9"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Lizardmen Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Lizardmen Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Lizardmen Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Lizardmen_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "fondation-forteresse-de-l-aube",
+    "annee": 1203,
+    "fin": null,
+    "approx": true,
+    "titre": {
+      "fr": "Fondation de la Forteresse de l'Aube",
+      "en": "Founding of the Fortress of Dawn",
+      "de": "Gründung der Festung der Morgenröte"
+    },
+    "resume": {
+      "fr": "Le Roi Phénix Morvael fait bâtir la Forteresse de l'Aube sur l'île du Soleil, au large de la pointe sud des Terres du Sud. Ses flèches entourent une pierre levée colossale, vestige de l'époque où l'empire d'Ulthuan couvrait le monde. La forteresse abrite une grande base navale qui garde la route maritime vers Cathay.",
+      "en": "Phoenix King Morvael has the Fortress of Dawn built on the Island of the Sun, off the southern tip of the Southlands. Its spires surround a colossal waystone, a remnant of the days when Ulthuan's empire spanned the world. The fortress houses a major naval base guarding the sea route to Cathay.",
+      "de": "Phönixkönig Morvael lässt auf der Sonneninsel vor der Südspitze der Südlande die Festung der Morgenröte erbauen. Ihre Türme umgeben einen gewaltigen Wegstein, ein Überbleibsel aus der Zeit, als Ulthuans Reich die Welt umspannte. Die Festung beherbergt einen großen Flottenstützpunkt, der den Seeweg nach Cathay sichert."
+    },
+    "ere": "empire-sigmarite",
+    "regions": [
+      "sud"
+    ],
+    "lieux": [
+      "forteresse-de-l-aube"
+    ],
+    "factions": [
+      "hauts-elfes"
+    ],
+    "importance": 1,
+    "fiabilite": "incertain",
+    "note": {
+      "fr": "Date déduite : la source dit que la forteresse fut construite quinze ans avant la Citadelle du Crépuscule, achevée en 1218 CI.",
+      "en": "Inferred date: the source says the fortress was built fifteen years before the Citadel of Dusk, completed in 1218 IC.",
+      "de": "Abgeleitetes Datum: Laut der Quelle wurde die Festung fünfzehn Jahre vor der 1218 IK vollendeten Zitadelle der Dämmerung erbaut."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Fantasy Roleplay 4e édition, Lustria (2023)",
+          "en": "Warhammer Fantasy Roleplay 4th edition, Lustria (2023)",
+          "de": "Warhammer Fantasy Roleplay 4. Edition, Lustria (2023)"
+        },
+        "detail": {
+          "fr": "p. 86",
+          "en": "p. 86",
+          "de": "S. 86"
+        },
+        "url": ""
+      },
+      {
+        "titre": "Warhammer: Uniforms & Heraldry of the High Elves (2007)",
+        "detail": {
+          "fr": "p. 71",
+          "en": "p. 71",
+          "de": "S. 71"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Fortress of Dawn",
+          "en": "Warhammer Fantasy Wiki (fandom), page Fortress of Dawn",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Fortress of Dawn"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Fortress_of_Dawn"
+      }
+    ]
+  },
+  {
+    "id": "fondation-citadelle-du-crepuscule",
+    "annee": 1218,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Achèvement de la Citadelle du Crépuscule",
+      "en": "Completion of the Citadel of Dusk",
+      "de": "Vollendung der Zitadelle der Dämmerung"
+    },
+    "resume": {
+      "fr": "Après l'assaut désastreux du Roi Phénix Morvael contre Naggaroth en 1121 CI, Ulthuan et ses colonies sont exposés aux contre-attaques druchii. Dans le cadre de son plan de redressement, la Citadelle du Crépuscule est achevée à la pointe sud de la Lustrie, rendue invisible par enchantement. Sans le savoir, les Elfes y gardent un nœud important de la Grande Protection des Slanns.",
+      "en": "After Phoenix King Morvael's disastrous assault on Naggaroth in 1121 IC, Ulthuan and its colonies lie exposed to Druchii counterattacks. As part of his recovery plan, the Citadel of Dusk is completed at the southern tip of Lustria, made invisible by enchantment. Unknowingly, the Elves are guarding an important node of the Slann's Great Warding there.",
+      "de": "Nach Phönixkönig Morvaels verheerendem Angriff auf Naggaroth 1121 IK sind Ulthuan und seine Kolonien den Gegenangriffen der Druchii ausgesetzt. Im Rahmen seines Wiederaufbauplans wird an der Südspitze Lustrias die Zitadelle der Dämmerung vollendet, die durch Zauber unsichtbar ist. Ohne es zu wissen, bewachen die Elfen dort einen wichtigen Knoten der Großen Abschirmung der Slann."
+    },
+    "ere": "empire-sigmarite",
+    "regions": [
+      "lustrie"
+    ],
+    "lieux": [
+      "citadelle-du-crepuscule"
+    ],
+    "factions": [
+      "hauts-elfes",
+      "elfes-noirs"
+    ],
+    "importance": 2,
+    "fiabilite": "divergent",
+    "note": {
+      "fr": "Le livre d'armée de 7e édition dit seulement « la 97e année du règne de Morvael ». La date de 1218 CI vient de WFRP 4e édition, Lustria.",
+      "en": "The 7th edition army book only says « the 97th year of Morvael's reign ». The 1218 IC date comes from WFRP 4th edition, Lustria.",
+      "de": "Das Armeebuch der 7. Edition sagt nur « im 97. Jahr der Herrschaft Morvaels ». Das Datum 1218 IK stammt aus WFRP 4. Edition, Lustria."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Lizardmen (7e édition, 2009)",
+          "en": "Warhammer Armies: Lizardmen (7th edition, 2009)",
+          "de": "Warhammer Armies: Lizardmen (7. Edition, 2009)"
+        },
+        "detail": {
+          "fr": "p. 35",
+          "en": "p. 35",
+          "de": "S. 35"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Warhammer Fantasy Roleplay 4e édition, Lustria (2023)",
+          "en": "Warhammer Fantasy Roleplay 4th edition, Lustria (2023)",
+          "de": "Warhammer Fantasy Roleplay 4. Edition, Lustria (2023)"
+        },
+        "detail": {
+          "fr": "p. 78",
+          "en": "p. 78",
+          "de": "S. 78"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Citadel of Dusk",
+          "en": "Warhammer Fantasy Wiki (fandom), page Citadel of Dusk",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Citadel of Dusk"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Citadel_of_Dusk"
+      }
+    ]
+  },
+  {
+    "id": "premier-rat-ogre",
+    "annee": 1300,
+    "fin": null,
+    "approx": true,
+    "titre": {
+      "fr": "Le clan Moulder crée le premier Rat-ogre",
+      "en": "Clan Moulder creates the first Rat Ogre",
+      "de": "Klan Moulder erschafft den ersten Rattenoger"
+    },
+    "resume": {
+      "fr": "Au Puits de l'Enfer, les maîtres mutateurs du clan Moulder réussissent enfin à créer un Rat-ogre viable. Ces brutes musculeuses deviennent l'un des piliers des armées skavens. Grâce à elles, le clan Moulder gagne en influence parmi les clans.",
+      "en": "At Hell Pit, the master mutators of Clan Moulder at last succeed in creating a viable Rat Ogre. These hulking brutes become one of the mainstays of the Skaven armies. Thanks to them, Clan Moulder rises in prominence among the clans.",
+      "de": "In der Höllengrube gelingt es den Meistermutatoren von Klan Moulder endlich, einen lebensfähigen Rattenoger zu erschaffen. Diese muskelbepackten Bestien werden zu einer der Stützen der Skaven-Heere. Dank ihnen gewinnt Klan Moulder unter den Klans an Einfluss."
+    },
+    "ere": "empire-sigmarite",
+    "regions": [
+      "kislev"
+    ],
+    "lieux": [
+      "hell-pit"
+    ],
+    "factions": [
+      "skavens"
+    ],
+    "importance": 1,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Skaven (7e édition, 2009)",
+          "en": "Warhammer Armies: Skaven (7th edition, 2009)",
+          "de": "Warhammer Armies: Skaven (7. Edition, 2009)"
+        },
+        "detail": {
+          "fr": "p. 30",
+          "en": "p. 30",
+          "de": "S. 30"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Skaven Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Skaven Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Skaven Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Skaven_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "chute-d-axlotl",
+    "annee": 1351,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Harkon pille Axlotl",
+      "en": "Harkon sacks Axlotl",
+      "de": "Harkon plündert Axlotl"
+    },
+    "resume": {
+      "fr": "L'armée morte-vivante de Luthor Harkon quitte la Côte des Vampires et marche contre les Hommes-lézards. Elle renverse la cité-temple d'Axlotl et la dépouille d'innombrables artefacts magiques. Harkon cherche dans ces reliques slanns un remède à la folie qui fracture son esprit.",
+      "en": "Luthor Harkon's undead army leaves the Vampire Coast and marches against the Lizardmen. It topples the temple-city of Axlotl and strips it of countless magical artefacts. Harkon seeks in these Slann relics a cure for the madness that fractures his mind.",
+      "de": "Luthor Harkons untotes Heer verlässt die Vampirküste und zieht gegen die Echsenmenschen. Es stürzt die Tempelstadt Axlotl und raubt unzählige magische Artefakte. Harkon sucht in diesen Slann-Reliquien ein Heilmittel gegen den Wahnsinn, der seinen Geist zersplittert."
+    },
+    "ere": "empire-sigmarite",
+    "regions": [
+      "lustrie"
+    ],
+    "lieux": [
+      "axlotl",
+      "cote-des-vampires"
+    ],
+    "factions": [
+      "vampires",
+      "hommes-lezards"
+    ],
+    "importance": 2,
+    "fiabilite": "incertain",
+    "note": {
+      "fr": "Source unique (White Dwarf 305). La folie de Harkon viendrait d'un piège magique dans les ruines de Huatl, épisode non daté.",
+      "en": "Single source (White Dwarf 305). Harkon's madness is said to come from a magical trap in the ruins of Huatl, an undated episode.",
+      "de": "Einzelne Quelle (White Dwarf 305). Harkons Wahnsinn soll von einer magischen Falle in den Ruinen von Huatl herrühren, eine undatierte Episode."
+    },
+    "sources": [
+      {
+        "titre": "White Dwarf 305 (2005)",
+        "detail": {
+          "fr": "p. 22",
+          "en": "p. 22",
+          "de": "S. 22"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Timeline of the Warhammer World",
+          "en": "Warhammer Fantasy Wiki (fandom), page Timeline of the Warhammer World",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Timeline of the Warhammer World"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Timeline_of_the_Warhammer_World"
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Luthor Harkon",
+          "en": "Warhammer Fantasy Wiki (fandom), page Luthor Harkon",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Luthor Harkon"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Luthor_Harkon"
+      }
+    ]
+  },
+  {
+    "id": "yin-tuan-a-zlatlan",
+    "annee": 1690,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Le voyage de Yin-Tuan",
+      "en": "The journey of Yin-Tuan",
+      "de": "Die Reise von Yin-Tuan"
+    },
+    "resume": {
+      "fr": "Le Cathayen Yin-Tuan accomplit un voyage épique à travers la Lustrie et les Terres du Sud. À Zlatlan, il échappe de justesse au sacrifice. Il est l'un des très rares voyageurs à avoir vu les deux continents des Hommes-lézards.",
+      "en": "The Cathayan Yin-Tuan makes an epic journey across Lustria and the Southlands. At Zlatlan, he narrowly escapes being sacrificed. He is one of the very few travellers to have seen both continents of the Lizardmen.",
+      "de": "Der Cathayer Yin-Tuan unternimmt eine epische Reise durch Lustria und die Südlande. In Zlatlan entgeht er nur knapp der Opferung. Er ist einer der ganz wenigen Reisenden, die beide Kontinente der Echsenmenschen gesehen haben."
+    },
+    "ere": "trois-empereurs",
+    "regions": [
+      "sud",
+      "lustrie",
+      "orient"
+    ],
+    "lieux": [
+      "zlatlan"
+    ],
+    "factions": [
+      "humains-autres",
+      "hommes-lezards"
+    ],
+    "importance": 1,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Lizardmen (6e édition, 2003)",
+          "en": "Warhammer Armies: Lizardmen (6th edition, 2003)",
+          "de": "Warhammer Armies: Lizardmen (6. Edition, 2003)"
+        },
+        "detail": {
+          "fr": "p. 9",
+          "en": "p. 9",
+          "de": "S. 9"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Lizardmen Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Lizardmen Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Lizardmen Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Lizardmen_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "oeuf-de-quango",
+    "annee": 1809,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "L'œuf de Quango de Pahuax",
+      "en": "The Quango egg of Pahuax",
+      "de": "Das Quango-Ei von Pahuax"
+    },
+    "resume": {
+      "fr": "Les ouvriers qui rebâtissent la Grande Pyramide de Pahuax mettent au jour une chambre secrète. Ils y trouvent le seul œuf connu de Quango, une créature disparue depuis le temps des Anciens. L'œuf est confié à Mazdamundi, qui annonce que son éclosion aura une grande portée.",
+      "en": "Workers rebuilding the Great Pyramid of Pahuax uncover a secret chamber. Inside they find the only known egg of a Quango, a creature unseen since the time of the Old Ones. The egg is entrusted to Mazdamundi, who declares that its hatching will be of great import.",
+      "de": "Arbeiter, die die Große Pyramide von Pahuax wiederaufbauen, legen eine geheime Kammer frei. Darin finden sie das einzige bekannte Ei eines Quango, eines seit der Zeit der Alten verschwundenen Geschöpfs. Das Ei wird Mazdamundi anvertraut, der verkündet, dass sein Schlüpfen von großer Bedeutung sein wird."
+    },
+    "ere": "trois-empereurs",
+    "regions": [
+      "lustrie"
+    ],
+    "lieux": [
+      "pahuax"
+    ],
+    "factions": [
+      "hommes-lezards"
+    ],
+    "importance": 1,
+    "fiabilite": "divergent",
+    "note": {
+      "fr": "Le livre de 8e édition dit seulement que l'éclosion « pourrait être de grande importance ». Une version plus ancienne, reprise sur le wiki, affirme qu'il n'éclora qu'au retour des Anciens.",
+      "en": "The 8th edition book only says the hatching « may be of great import ». An older version, repeated on the wiki, claims it will only hatch when the Old Ones return.",
+      "de": "Das Buch der 8. Edition sagt nur, das Schlüpfen « könnte von großer Bedeutung sein ». Eine ältere, im Wiki wiedergegebene Fassung behauptet, es werde erst bei der Rückkehr der Alten schlüpfen."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Lizardmen (8e édition, 2013)",
+          "en": "Warhammer Armies: Lizardmen (8th edition, 2013)",
+          "de": "Warhammer Armies: Lizardmen (8. Edition, 2013)"
+        },
+        "detail": {
+          "fr": "p. 27",
+          "en": "p. 27",
+          "de": "S. 27"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Lizardmen Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Lizardmen Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Lizardmen Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Lizardmen_Timeline"
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Timeline of the Warhammer World",
+          "en": "Warhammer Fantasy Wiki (fandom), page Timeline of the Warhammer World",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Timeline of the Warhammer World"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Timeline_of_the_Warhammer_World"
+      }
+    ]
+  },
+  {
+    "id": "peste-rouge-en-bretonnie",
+    "annee": 1812,
+    "fin": 1813,
+    "approx": false,
+    "titre": {
+      "fr": "La Peste rouge et l'invasion skaven de la Bretonnie",
+      "en": "The Red Pox and the Skaven invasion of Bretonnia",
+      "de": "Die Rote Pest und die Skaven-Invasion Bretonias"
+    },
+    "resume": {
+      "fr": "Une nouvelle épidémie de Peste rouge, mise au point par le clan Pestilens, ravage le sud de la Bretonnie et le nord de la Tilée, et le Grand Incendie de Brionne détruit les trois quarts de la ville. Au plus fort de la maladie, les Skavens surgissent, dévastent Brionne, Bordeleaux et Miragliano et assiègent Quenelles. En 1813 CI, le duc de Parravon et les Elfes d'Athel Loren brisent le siège et les repoussent sous terre.",
+      "en": "A new outbreak of the Red Pox, devised by Clan Pestilens, ravages southern Bretonnia and northern Tilea, and the Great Fire of Brionne destroys three quarters of the city. At the height of the disease the Skaven emerge, lay waste to Brionne, Bordeleaux and Miragliano and besiege Quenelles. In 1813 IC the Duc de Parravon and the Elves of Athel Loren break the siege and drive them underground.",
+      "de": "Ein neuer Ausbruch der Roten Pest, ersonnen von Klan Pestilens, verwüstet den Süden Bretonias und den Norden Tileas, und der Große Brand von Brionne zerstört drei Viertel der Stadt. Auf dem Höhepunkt der Seuche brechen die Skaven hervor, verheeren Brionne, Bordeleaux und Miragliano und belagern Quenelles. 1813 IK brechen der Herzog von Parravon und die Elfen von Athel Loren die Belagerung und treiben sie unter die Erde zurück."
+    },
+    "ere": "trois-empereurs",
+    "regions": [
+      "bretonnie",
+      "tilee-estalie",
+      "athel-loren"
+    ],
+    "lieux": [
+      "brionne",
+      "bordeleaux",
+      "miragliano",
+      "quenelles",
+      "parravon"
+    ],
+    "factions": [
+      "skavens",
+      "bretonnie",
+      "elfes-sylvains"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "Une première flambée de Peste rouge avait déjà frappé Bordeleaux en 1786 CI, répandue par des rats du clan Eshin.",
+      "en": "A first outbreak of the Red Pox had already struck Bordeleaux in 1786 IC, spread by Clan Eshin rats.",
+      "de": "Ein erster Ausbruch der Roten Pest hatte Bordeleaux bereits 1786 IK heimgesucht, verbreitet durch Ratten von Klan Eshin."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Skaven (7e édition, 2009)",
+          "en": "Warhammer Armies: Skaven (7th edition, 2009)",
+          "de": "Warhammer Armies: Skaven (7. Edition, 2009)"
+        },
+        "detail": {
+          "fr": "p. 31",
+          "en": "p. 31",
+          "de": "S. 31"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Warhammer Fantasy Roleplay 2e édition, Children of the Horned Rat (2009)",
+          "en": "Warhammer Fantasy Roleplay 2nd edition, Children of the Horned Rat (2009)",
+          "de": "Warhammer Fantasy Roleplay 2. Edition, Children of the Horned Rat (2009)"
+        },
+        "detail": {
+          "fr": "p. 36",
+          "en": "p. 36",
+          "de": "S. 36"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Skaven Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Skaven Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Skaven Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Skaven_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "seconde-guerre-civile-skaven",
+    "annee": 1850,
+    "fin": 2302,
+    "approx": true,
+    "titre": {
+      "fr": "La seconde guerre civile skaven",
+      "en": "The second Skaven civil war",
+      "de": "Der zweite Skaven-Bürgerkrieg"
+    },
+    "resume": {
+      "fr": "Les Seigneurs de la Ruine prennent prétexte de l'échec de la campagne de Bretonnie pour exclure le clan Pestilens du Conseil des Treize. Les moines de la peste tentent alors de s'emparer du temple du Rat Cornu à Skavenblight, et le Conseil vole en éclats. Pendant plus de quatre siècles, tous les clans luttent pour la suprématie ou la simple survie.",
+      "en": "The Lords of Decay use the failure of the Bretonnian campaign as a pretext to expel Clan Pestilens from the Council of Thirteen. The plague monks then try to seize the temple of the Horned Rat in Skavenblight, and the Council shatters. For more than four centuries, every clan fights for supremacy or mere survival.",
+      "de": "Die Fürsten des Verfalls nehmen das Scheitern des Feldzugs in Bretonia zum Vorwand, Klan Pestilens aus dem Rat der Dreizehn auszuschließen. Die Seuchenmönche versuchen daraufhin, den Tempel der Gehörnten Ratte in Skavenblight an sich zu reißen, und der Rat zerbricht. Mehr als vier Jahrhunderte lang kämpfen alle Klans um die Vorherrschaft oder das bloße Überleben."
+    },
+    "ere": "trois-empereurs",
+    "regions": [
+      "tilee-estalie"
+    ],
+    "lieux": [
+      "skavenblight"
+    ],
+    "factions": [
+      "skavens"
+    ],
+    "importance": 2,
+    "fiabilite": "divergent",
+    "note": {
+      "fr": "Le livre d'armée de 7e édition décrit seulement un Conseil brisé vers 1850 CI. Le rôle de Pestilens et du temple vient de la chronologie générale du wiki, sans source. La fin en 2302 CI correspond à la Grande Invocation.",
+      "en": "The 7th edition army book only describes a broken Council around 1850 IC. The role of Pestilens and of the temple comes from the wiki's general timeline, without a source. The end in 2302 IC matches the Great Summoning.",
+      "de": "Das Armeebuch der 7. Edition beschreibt um 1850 IK nur einen zerbrochenen Rat. Die Rolle von Pestilens und des Tempels stammt aus der allgemeinen Chronik des Wikis, ohne Quelle. Das Ende 2302 IK entspricht der Großen Beschwörung."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Skaven (7e édition, 2009)",
+          "en": "Warhammer Armies: Skaven (7th edition, 2009)",
+          "de": "Warhammer Armies: Skaven (7. Edition, 2009)"
+        },
+        "detail": {
+          "fr": "p. 31",
+          "en": "p. 31",
+          "de": "S. 31"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Skaven Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Skaven Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Skaven Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Skaven_Timeline"
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Timeline of the Warhammer World",
+          "en": "Warhammer Fantasy Wiki (fandom), page Timeline of the Warhammer World",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Timeline of the Warhammer World"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Timeline_of_the_Warhammer_World"
+      }
+    ]
+  },
+  {
+    "id": "eveil-du-krakatoa",
+    "annee": 1883,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Les éruptions du Krakatoa et l'invasion démoniaque",
+      "en": "The Krakatoa eruptions and the daemonic invasion",
+      "de": "Die Ausbrüche des Krakatoa und die Dämoneninvasion"
+    },
+    "resume": {
+      "fr": "Les Skinks croient que le grand volcan Krakatoa se réveille, mais ses éruptions sont en réalité un afflux de Chaos et les démons parcourent de nouveau la Lustrie. Gor-Rok défait une armée de la peste devant Itza, une charge de Stegadons empêche une percée depuis les ruines de Xahutec. À Tlaxtlan, les Prêtres-Mages réunis viennent à bout d'une armée de démons majeurs.",
+      "en": "The Skinks believe the great volcano Krakatoa is awakening, but its eruptions are in truth an influx of Chaos and daemons stalk Lustria once more. Gor-Rok defeats a plague army before Itza, a massed charge of Stegadons prevents a breakout from the ruins of Xahutec. At Tlaxtlan, the assembled Mage-Priests overcome a host of Greater Daemons.",
+      "de": "Die Skinks glauben, der große Vulkan Krakatoa erwache, doch seine Ausbrüche sind in Wahrheit ein Einbruch des Chaos, und erneut ziehen Dämonen durch Lustria. Gor-Rok besiegt vor Itza ein Seuchenheer, ein massierter Angriff von Stegadons verhindert einen Ausbruch aus den Ruinen von Xahutec. In Tlaxtlan bezwingen die versammelten Magierpriester ein Heer Großer Dämonen."
+    },
+    "ere": "trois-empereurs",
+    "regions": [
+      "lustrie"
+    ],
+    "lieux": [
+      "itza",
+      "xahutec",
+      "tlaxtlan"
+    ],
+    "factions": [
+      "hommes-lezards",
+      "chaos"
+    ],
+    "importance": 1,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Lizardmen (8e édition, 2013)",
+          "en": "Warhammer Armies: Lizardmen (8th edition, 2013)",
+          "de": "Warhammer Armies: Lizardmen (8. Edition, 2013)"
+        },
+        "detail": {
+          "fr": "p. 27",
+          "en": "p. 27",
+          "de": "S. 27"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Lizardmen Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Lizardmen Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Lizardmen Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Lizardmen_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "destruction-de-cadavo",
+    "annee": 1944,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Mazdamundi détruit Cadavo",
+      "en": "Mazdamundi destroys Cadavo",
+      "de": "Mazdamundi zerstört Cadavo"
+    },
+    "resume": {
+      "fr": "L'aventurier et pirate El Cadavo fonde le port de Cadavo à sa troisième tentative d'entrer dans la jungle. Sur l'ordre du seigneur Mazdamundi de Hexoatl, la ville est rasée à plusieurs reprises, puis un séisme dévastateur la raye de la carte avec tous ses habitants. On dit qu'El Cadavo, enfui avec un butin, a péri en mer dans une tempête hors de saison.",
+      "en": "The adventurer and pirate El Cadavo founds the port of Cadavo on his third attempt to enter the jungle. On the order of Lord Mazdamundi of Hexoatl, the town is razed several times, then a devastating earthquake wipes it off the map along with all its inhabitants. El Cadavo, who fled with plunder, is said to have perished at sea in an unseasonable storm.",
+      "de": "Der Abenteurer und Pirat El Cadavo gründet beim dritten Versuch, in den Dschungel vorzudringen, den Hafen Cadavo. Auf Befehl von Lord Mazdamundi aus Hexoatl wird die Stadt mehrmals zerstört, dann tilgt ein verheerendes Erdbeben sie samt all ihren Bewohnern von der Landkarte. El Cadavo, der mit Beute geflohen war, soll in einem ungewöhnlichen Sturm auf See umgekommen sein."
+    },
+    "ere": "trois-empereurs",
+    "regions": [
+      "lustrie"
+    ],
+    "lieux": [
+      "cadavo",
+      "hexoatl"
+    ],
+    "factions": [
+      "hommes-lezards",
+      "humains-autres"
+    ],
+    "importance": 2,
+    "fiabilite": "divergent",
+    "note": {
+      "fr": "La 6e édition parle de trois destructions et d'une ville reconstruite à chaque fois, la 8e édition d'un seul séisme qui l'efface. Une version dit que l'épisode fait de Mazdamundi « celui qui chevauche la Bête cornue » de la prophétie de Querchi.",
+      "en": "The 6th edition speaks of three destructions and a town rebuilt each time, the 8th edition of a single earthquake that wipes it out. One version says the episode makes Mazdamundi « he who rides the Horned Beast » of the Prophecy of Querchi.",
+      "de": "Die 6. Edition spricht von drei Zerstörungen und einem jedes Mal wiederaufgebauten Ort, die 8. Edition von einem einzigen Erdbeben, das ihn auslöscht. Einer Fassung zufolge macht die Episode Mazdamundi zu « dem, der das gehörnte Tier reitet » aus der Prophezeiung von Querchi."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Lizardmen (8e édition, 2013)",
+          "en": "Warhammer Armies: Lizardmen (8th edition, 2013)",
+          "de": "Warhammer Armies: Lizardmen (8. Edition, 2013)"
+        },
+        "detail": {
+          "fr": "p. 27",
+          "en": "p. 27",
+          "de": "S. 27"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Lizardmen (6e édition, 2003)",
+          "en": "Warhammer Armies: Lizardmen (6th edition, 2003)",
+          "de": "Warhammer Armies: Lizardmen (6. Edition, 2003)"
+        },
+        "detail": {
+          "fr": "p. 9",
+          "en": "p. 9",
+          "de": "S. 9"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Lizardmen Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Lizardmen Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Lizardmen Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Lizardmen_Timeline"
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Timeline of the Warhammer World",
+          "en": "Warhammer Fantasy Wiki (fandom), page Timeline of the Warhammer World",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Timeline of the Warhammer World"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Timeline_of_the_Warhammer_World"
+      }
+    ]
+  },
+  {
+    "id": "ikit-claw-exosquelette",
+    "annee": 2150,
+    "fin": null,
+    "approx": true,
+    "titre": {
+      "fr": "Ikit Claw et l'exosquelette de fer",
+      "en": "Ikit Claw and the iron exo-skeleton",
+      "de": "Ikit Klaue und das eiserne Exoskelett"
+    },
+    "resume": {
+      "fr": "Grièvement brûlé lors d'un grave accident dans son laboratoire, l'ingénieur-sorcier Ikit Claw du clan Skryre achève une grande armure d'exosquelette en fer. Elle le maintient en vie et décuple sa force. Il deviendra le plus célèbre et le plus dangereux des Grands Prophètes-ingénieurs du clan.",
+      "en": "Terribly burned in a major laboratory accident, the warlock engineer Ikit Claw of Clan Skryre completes a great iron exo-skeleton. It keeps him alive and multiplies his strength. He will become the most famous and most dangerous of the clan's Chief Warlocks.",
+      "de": "Bei einem schweren Laborunfall furchtbar verbrannt, vollendet der Warlock-Ingenieur Ikit Klaue von Klan Skryre ein großes eisernes Exoskelett. Es hält ihn am Leben und vervielfacht seine Kraft. Er wird zum berühmtesten und gefährlichsten Obersten Warlock des Klans."
+    },
+    "ere": "trois-empereurs",
+    "regions": [
+      "tilee-estalie"
+    ],
+    "lieux": [
+      "skavenblight"
+    ],
+    "factions": [
+      "skavens"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "La nature de l'accident (brûlures) vient des descriptions du personnage. La chronologie dit seulement « après son grave accident de laboratoire ».",
+      "en": "The nature of the accident (burns) comes from descriptions of the character. The timeline only says « after his major lab accident ».",
+      "de": "Die Art des Unfalls (Verbrennungen) stammt aus Beschreibungen der Figur. Die Chronik sagt nur « nach seinem schweren Laborunfall »."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Skaven (7e édition, 2009)",
+          "en": "Warhammer Armies: Skaven (7th edition, 2009)",
+          "de": "Warhammer Armies: Skaven (7. Edition, 2009)"
+        },
+        "detail": {
+          "fr": "p. 31",
+          "en": "p. 31",
+          "de": "S. 31"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Skaven Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Skaven Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Skaven Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Skaven_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "guerre-skavens-rois-des-tombes",
+    "annee": 2250,
+    "fin": 2450,
+    "approx": true,
+    "titre": {
+      "fr": "La guerre des Skavens et des Rois des tombes",
+      "en": "The war of the Skaven and the Tomb Kings",
+      "de": "Der Krieg der Skaven und der Gruftkönige"
+    },
+    "resume": {
+      "fr": "De petites escarmouches entre Skavens et Rois des tombes de Khemri tournent à la guerre ouverte. Le conflit dure environ deux siècles dans les sables et les nécropoles de Nehekhara. Il sert de couverture aux Skavens pour étendre largement leur réseau de tunnels vers les Terres du Sud.",
+      "en": "Small skirmishes between the Skaven and the Tomb Kings of Khemri turn into outright war. The conflict lasts some two centuries across the sands and necropolises of Nehekhara. It provides cover for the Skaven to greatly expand their tunnel network towards the Southlands.",
+      "de": "Kleine Scharmützel zwischen den Skaven und den Gruftkönigen von Khemri weiten sich zu offenem Krieg aus. Der Konflikt dauert etwa zwei Jahrhunderte in den Sanden und Nekropolen Nehekharas. Er dient den Skaven als Deckmantel, um ihr Tunnelnetz in Richtung der Südlande stark auszubauen."
+    },
+    "ere": "trois-empereurs",
+    "regions": [
+      "sud"
+    ],
+    "lieux": [
+      "khemri",
+      "nehekhara"
+    ],
+    "factions": [
+      "skavens",
+      "rois-des-tombes"
+    ],
+    "importance": 2,
+    "fiabilite": "incertain",
+    "note": {
+      "fr": "Source unique (Children of the Horned Rat). La fin, « environ deux siècles plus tard », est déduite.",
+      "en": "Single source (Children of the Horned Rat). The end, « some two centuries later », is inferred.",
+      "de": "Einzelne Quelle (Children of the Horned Rat). Das Ende, « etwa zwei Jahrhunderte später », ist abgeleitet."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Fantasy Roleplay 2e édition, Children of the Horned Rat (2009)",
+          "en": "Warhammer Fantasy Roleplay 2nd edition, Children of the Horned Rat (2009)",
+          "de": "Warhammer Fantasy Roleplay 2. Edition, Children of the Horned Rat (2009)"
+        },
+        "detail": {
+          "fr": "p. 36",
+          "en": "p. 36",
+          "de": "S. 36"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Skaven Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Skaven Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Skaven Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Skaven_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "grande-invocation-du-rat-cornu",
+    "annee": 2302,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "La Grande Invocation du Rat Cornu",
+      "en": "The Great Summoning of the Horned Rat",
+      "de": "Die Große Beschwörung der Gehörnten Ratte"
+    },
+    "resume": {
+      "fr": "Face à la montée de la magie noire, les Prophètes gris convoquent tous les clans à Skavenblight pendant la Vermintide, la grande fête annuelle du dieu. Ils osent invoquer une incarnation du Rat Cornu, qui dicte lui-même le plan à suivre et terrifie les seigneurs de clan jusqu'à une obéissance inédite. Le Conseil des Treize est entièrement réorganisé, Gnawdwell, Vrisk Ironscratch, Griznekt Man-carver et Paskrit le Vaste y entrent, et la guerre civile prend fin.",
+      "en": "Faced with the rising tide of dark magic, the Grey Seers summon every clan to Skavenblight during Vermintide, the god's great annual feast. They dare to call forth an incarnation of the Horned Rat, who himself dictates the plan to follow and terrifies the clan lords into unprecedented obedience. The Council of Thirteen is completely reorganised, Gnawdwell, Vrisk Ironscratch, Griznekt Man-carver and Paskrit the Vast join it, and the civil war ends.",
+      "de": "Angesichts der steigenden dunklen Magie rufen die Grauen Propheten während der Vermintide, des großen jährlichen Festes des Gottes, alle Klans nach Skavenblight. Sie wagen es, eine Inkarnation der Gehörnten Ratte zu beschwören, die selbst den zu befolgenden Plan diktiert und die Klanfürsten in einen nie dagewesenen Gehorsam versetzt. Der Rat der Dreizehn wird völlig neu geordnet, Gnawdwell, Vrisk Ironscratch, Griznekt Man-carver und Paskrit der Gewaltige ziehen in ihn ein, und der Bürgerkrieg endet."
+    },
+    "ere": "trois-empereurs",
+    "regions": [
+      "tilee-estalie"
+    ],
+    "lieux": [
+      "skavenblight"
+    ],
+    "factions": [
+      "skavens"
+    ],
+    "importance": 3,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "Épuisés par des siècles de luttes internes, les Skavens ne pèsent guère sur la Grande Guerre contre le Chaos qui suit.",
+      "en": "Exhausted by centuries of infighting, the Skaven have little weight in the Great War Against Chaos that follows.",
+      "de": "Von Jahrhunderten innerer Kämpfe erschöpft, spielen die Skaven im folgenden Großen Krieg gegen das Chaos kaum eine Rolle."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Skaven (7e édition, 2009)",
+          "en": "Warhammer Armies: Skaven (7th edition, 2009)",
+          "de": "Warhammer Armies: Skaven (7. Edition, 2009)"
+        },
+        "detail": {
+          "fr": "p. 31",
+          "en": "p. 31",
+          "de": "S. 31"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Warhammer Fantasy Roleplay 2e édition, Children of the Horned Rat (2009)",
+          "en": "Warhammer Fantasy Roleplay 2nd edition, Children of the Horned Rat (2009)",
+          "de": "Warhammer Fantasy Roleplay 2. Edition, Children of the Horned Rat (2009)"
+        },
+        "detail": {
+          "fr": "p. 36",
+          "en": "p. 36",
+          "de": "S. 36"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Skaven Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Skaven Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Skaven Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Skaven_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "grande-protection-2303",
+    "annee": 2303,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Les Slanns renforcent la Grande Protection",
+      "en": "The Slann bolster the Great Warding",
+      "de": "Die Slann verstärken die Große Abschirmung"
+    },
+    "resume": {
+      "fr": "D'après une lecture des astres, les Slanns renforcent la Grande Protection, le réseau de sites qui contient le Chaos. L'influence des Puissances de la Ruine s'en trouve affaiblie, ce qui aide sans qu'il le sache Magnus le Pieux dans sa Grande Guerre contre le Chaos. C'est le début de ce que les Hommes-lézards nomment l'Âge de l'Éveil.",
+      "en": "Taking a reading from the stars, the Slann bolster the Great Warding, the network of sites that holds Chaos in check. The influence of the Ruinous Powers is weakened, which unknowingly aids Magnus the Pious in his Great War Against Chaos. It marks the start of what the Lizardmen call the Age of Awakening.",
+      "de": "Nach einer Deutung der Sterne verstärken die Slann die Große Abschirmung, das Netz von Stätten, das das Chaos eindämmt. Der Einfluss der Ruinösen Mächte wird geschwächt, was Magnus dem Frommen in seinem Großen Krieg gegen das Chaos unwissentlich hilft. Damit beginnt, was die Echsenmenschen das Zeitalter des Erwachens nennen."
+    },
+    "ere": "trois-empereurs",
+    "regions": [
+      "lustrie",
+      "kislev"
+    ],
+    "lieux": [],
+    "factions": [
+      "hommes-lezards",
+      "chaos",
+      "empire"
+    ],
+    "importance": 2,
+    "fiabilite": "divergent",
+    "note": {
+      "fr": "Le livre de 8e édition donne 2303 CI. Certaines chronologies placent ce rituel en 2304 CI, d'après une lecture de l'étoile Iztl.",
+      "en": "The 8th edition book gives 2303 IC. Some timelines place this ritual in 2304 IC, after a reading of the Iztl Star.",
+      "de": "Das Buch der 8. Edition nennt 2303 IK. Manche Chroniken setzen dieses Ritual nach einer Deutung des Iztl-Sterns auf 2304 IK an."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Lizardmen (8e édition, 2013)",
+          "en": "Warhammer Armies: Lizardmen (8th edition, 2013)",
+          "de": "Warhammer Armies: Lizardmen (8. Edition, 2013)"
+        },
+        "detail": {
+          "fr": "p. 27",
+          "en": "p. 27",
+          "de": "S. 27"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Lizardmen Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Lizardmen Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Lizardmen Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Lizardmen_Timeline"
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Timeline of the Warhammer World",
+          "en": "Warhammer Fantasy Wiki (fandom), page Timeline of the Warhammer World",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Timeline of the Warhammer World"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Timeline_of_the_Warhammer_World"
+      }
+    ]
+  },
+  {
+    "id": "bataille-du-soleil-noir",
+    "annee": 2321,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "La bataille du Soleil noir",
+      "en": "The Black Sun Battle",
+      "de": "Die Schlacht der Schwarzen Sonne"
+    },
+    "resume": {
+      "fr": "Un jour, le soleil se lève noir sur la Lustrie : le réseau géomantique vacille et la Grande Protection faiblit. Des légions démoniaques se matérialisent sur tout le continent et des milliers de combats ont lieu pendant une semaine sanglante. Le péril cesse quand le vrai soleil se lève de nouveau.",
+      "en": "One day the sun rises black over Lustria: the geomantic web flickers and the Great Warding falters. Daemon legions manifest across the whole continent and thousands of battles are fought over a blood-filled week. The peril ends when the true sun rises again.",
+      "de": "Eines Tages geht die Sonne schwarz über Lustria auf: Das geomantische Netz flackert und die Große Abschirmung wird schwach. Dämonenlegionen erscheinen auf dem ganzen Kontinent, und eine blutige Woche lang werden Tausende Schlachten geschlagen. Die Gefahr endet, als die wahre Sonne wieder aufgeht."
+    },
+    "ere": "empire-reunifie",
+    "regions": [
+      "lustrie"
+    ],
+    "lieux": [],
+    "factions": [
+      "hommes-lezards",
+      "chaos"
+    ],
+    "importance": 1,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Lizardmen (8e édition, 2013)",
+          "en": "Warhammer Armies: Lizardmen (8th edition, 2013)",
+          "de": "Warhammer Armies: Lizardmen (8. Edition, 2013)"
+        },
+        "detail": {
+          "fr": "p. 27",
+          "en": "p. 27",
+          "de": "S. 27"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Lizardmen Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Lizardmen Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Lizardmen Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Lizardmen_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "secours-de-la-citadelle-du-crepuscule",
+    "annee": 2349,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Les Hommes-lézards sauvent la Citadelle du Crépuscule",
+      "en": "The Lizardmen save the Citadel of Dusk",
+      "de": "Die Echsenmenschen retten die Zitadelle der Dämmerung"
+    },
+    "resume": {
+      "fr": "Une armée d'Itza traverse les plaines de Culchan et franchit un pont d'énergie magique jusqu'à l'île de la Citadelle du Crépuscule. Les Hauts Elfes craignent un siège, mais une flotte de corsaires elfes noirs attaque au même moment et n'est repoussée que grâce aux Hommes-lézards. Ceux-ci repartent vers le nord sans adresser un mot aux survivants.",
+      "en": "An army from Itza crosses the Culchan Plains and passes over a bridge of magical energy to the island of the Citadel of Dusk. The High Elves fear a siege, but a fleet of Dark Elf Corsairs attacks at the same moment and is only repulsed thanks to the Lizardmen. These march back north without a word to the survivors.",
+      "de": "Ein Heer aus Itza durchquert die Culchan-Ebenen und überschreitet eine Brücke aus magischer Energie zur Insel der Zitadelle der Dämmerung. Die Hochelfen fürchten eine Belagerung, doch gleichzeitig greift eine Flotte dunkelelfischer Korsaren an, die nur dank der Echsenmenschen zurückgeschlagen wird. Diese marschieren ohne ein Wort an die Überlebenden zurück nach Norden."
+    },
+    "ere": "empire-reunifie",
+    "regions": [
+      "lustrie"
+    ],
+    "lieux": [
+      "citadelle-du-crepuscule",
+      "itza"
+    ],
+    "factions": [
+      "hommes-lezards",
+      "hauts-elfes",
+      "elfes-noirs"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Lizardmen (8e édition, 2013)",
+          "en": "Warhammer Armies: Lizardmen (8th edition, 2013)",
+          "de": "Warhammer Armies: Lizardmen (8. Edition, 2013)"
+        },
+        "detail": {
+          "fr": "p. 27",
+          "en": "p. 27",
+          "de": "S. 27"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Lizardmen Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Lizardmen Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Lizardmen Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Lizardmen_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "guerre-de-la-fausse-lune",
+    "annee": 2418,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "La Guerre de la Fausse Lune",
+      "en": "The False Moon War",
+      "de": "Der Krieg des Falschen Mondes"
+    },
+    "resume": {
+      "fr": "Le Slann Tecciztec de Tlaxtlan, la Cité de la Lune, tente par un rituel de chasser Morrslieb, la lune du Chaos, hors de son orbite. Il ne rassemble pas assez de puissance pour y parvenir, mais la lune est ébranlée. Des fragments s'en détachent et s'abattent avec violence sur les terres situées de l'autre côté de l'océan.",
+      "en": "The Slann Tecciztec of Tlaxtlan, the City of the Moon, attempts through a ritual to push Morrslieb, the Chaos Moon, out of its orbit. He fails to muster enough power, but the moon is shaken. Chunks split off and crash with devastating effect upon the lands across the ocean.",
+      "de": "Der Slann Tecciztec aus Tlaxtlan, der Stadt des Mondes, versucht mit einem Ritual, Morrslieb, den Chaosmond, aus seiner Bahn zu stoßen. Er bringt nicht genug Macht auf, doch der Mond wird erschüttert. Brocken lösen sich und schlagen verheerend in den Ländern jenseits des Ozeans ein."
+    },
+    "ere": "empire-reunifie",
+    "regions": [
+      "lustrie"
+    ],
+    "lieux": [
+      "tlaxtlan"
+    ],
+    "factions": [
+      "hommes-lezards",
+      "chaos"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Lizardmen (8e édition, 2013)",
+          "en": "Warhammer Armies: Lizardmen (8th edition, 2013)",
+          "de": "Warhammer Armies: Lizardmen (8. Edition, 2013)"
+        },
+        "detail": {
+          "fr": "p. 27",
+          "en": "p. 27",
+          "de": "S. 27"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Lizardmen Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Lizardmen Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Lizardmen Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Lizardmen_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "bataille-du-sang-et-de-l-or",
+    "annee": 2471,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "La bataille du Sang et de l'Or",
+      "en": "The Battle of Blood and Gold",
+      "de": "Die Schlacht von Blut und Gold"
+    },
+    "resume": {
+      "fr": "Luthor Harkon s'allie aux Elfes noirs pour piller les ruines côtières de Chokablox. Les Hommes-lézards répliquent et, au cours de la bataille, le vampire est capturé et emprisonné. C'est l'un des rares revers directs subis par le maître de la Côte des Vampires.",
+      "en": "Luthor Harkon allies with the Dark Elves to raid the coastal ruins of Chokablox. The Lizardmen strike back and, during the battle, the vampire is captured and imprisoned. It is one of the few direct setbacks suffered by the master of the Vampire Coast.",
+      "de": "Luthor Harkon verbündet sich mit den Dunkelelfen, um die Küstenruinen von Chokablox zu plündern. Die Echsenmenschen schlagen zurück, und während der Schlacht wird der Vampir gefangen genommen und eingekerkert. Es ist einer der wenigen direkten Rückschläge für den Herrn der Vampirküste."
+    },
+    "ere": "empire-reunifie",
+    "regions": [
+      "lustrie"
+    ],
+    "lieux": [
+      "cote-des-vampires"
+    ],
+    "factions": [
+      "hommes-lezards",
+      "vampires",
+      "elfes-noirs"
+    ],
+    "importance": 1,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Lizardmen (8e édition, 2013)",
+          "en": "Warhammer Armies: Lizardmen (8th edition, 2013)",
+          "de": "Warhammer Armies: Lizardmen (8. Edition, 2013)"
+        },
+        "detail": {
+          "fr": "p. 27",
+          "en": "p. 27",
+          "de": "S. 27"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Lizardmen Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Lizardmen Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Lizardmen Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Lizardmen_Timeline"
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Luthor Harkon",
+          "en": "Warhammer Fantasy Wiki (fandom), page Luthor Harkon",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Luthor Harkon"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Luthor_Harkon"
+      }
+    ]
+  },
+  {
+    "id": "comete-sur-quetza",
+    "annee": 2489,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Tetto'eko abat une comète sur Quetza",
+      "en": "Tetto'eko brings a comet down on Quetza",
+      "de": "Tetto'eko lässt einen Kometen auf Quetza stürzen"
+    },
+    "resume": {
+      "fr": "Les Skavens repartent à l'assaut de la Lustrie depuis Quetza, la Cité souillée, où ils ont reconstitué un nid. L'astromancien skink Tetto'eko, qui a prévu chacun de leurs mouvements, détourne une comète de passage sur le centre de la ville. L'impact effondre leurs tunnels et brise l'invasion.",
+      "en": "The Skaven launch a fresh assault on Lustria from Quetza, the Defiled City, where they have rebuilt a nest. The Skink Astromancer Tetto'eko, who has foreseen their every move, redirects a passing comet onto the centre of the city. The impact collapses their tunnels and shatters the invasion.",
+      "de": "Die Skaven starten von Quetza aus, der Entweihten Stadt, wo sie ein neues Nest errichtet haben, einen neuen Angriff auf Lustria. Der Skink-Astromant Tetto'eko, der jede ihrer Bewegungen vorhergesehen hat, lenkt einen vorbeiziehenden Kometen auf das Zentrum der Stadt. Der Einschlag lässt ihre Tunnel einstürzen und zerschlägt die Invasion."
+    },
+    "ere": "empire-reunifie",
+    "regions": [
+      "lustrie"
+    ],
+    "lieux": [
+      "quetza"
+    ],
+    "factions": [
+      "hommes-lezards",
+      "skavens"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Lizardmen (8e édition, 2013)",
+          "en": "Warhammer Armies: Lizardmen (8th edition, 2013)",
+          "de": "Warhammer Armies: Lizardmen (8. Edition, 2013)"
+        },
+        "detail": {
+          "fr": "p. 27",
+          "en": "p. 27",
+          "de": "S. 27"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Lizardmen Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Lizardmen Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Lizardmen Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Lizardmen_Timeline"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Lizardmen",
+          "en": "Lexicanum, Lizardmen page",
+          "de": "Lexicanum, Seite Lizardmen"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Lizardmen"
+      }
+    ]
+  },
+  {
+    "id": "arche-noire-de-la-maisontaal",
+    "annee": 2491,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Le vol de l'Arche noire",
+      "en": "The theft of the Black Arc",
+      "de": "Der Raub der Schwarzen Arche"
+    },
+    "resume": {
+      "fr": "Bagrian, maître du monastère de La Maisontaal, s'infiltre à Skavenblight et y dérobe l'Arche noire, un artefact redoutable. Le Prophète gris Gnawdoom mène les Skavens contre le monastère, allié à l'armée morte-vivante du Liche Heinrich Kemmler. L'Arche est reprise au terme d'une bataille féroce contre les moines.",
+      "en": "Bagrian, master of the monastery of La Maisontaal, infiltrates Skavenblight and steals the Black Arc, a fearsome artefact. The Grey Seer Gnawdoom leads the Skaven against the monastery, allied with the undead army of the Lichemaster Heinrich Kemmler. The Arc is recovered after a vicious battle with the monks.",
+      "de": "Bagrian, Meister des Klosters La Maisontaal, schleicht sich in Skavenblight ein und stiehlt die Schwarze Arche, ein furchtbares Artefakt. Der Graue Prophet Gnawdoom führt die Skaven gegen das Kloster, verbündet mit dem untoten Heer des Lichemeisters Heinrich Kemmler. Nach einer erbitterten Schlacht gegen die Mönche wird die Arche zurückgeholt."
+    },
+    "ere": "empire-reunifie",
+    "regions": [
+      "bretonnie",
+      "tilee-estalie"
+    ],
+    "lieux": [
+      "la-maisontaal",
+      "skavenblight"
+    ],
+    "factions": [
+      "skavens",
+      "bretonnie",
+      "vampires"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Skaven (7e édition, 2009)",
+          "en": "Warhammer Armies: Skaven (7th edition, 2009)",
+          "de": "Warhammer Armies: Skaven (7. Edition, 2009)"
+        },
+        "detail": {
+          "fr": "p. 31",
+          "en": "p. 31",
+          "de": "S. 31"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Warhammer Fantasy Roleplay 2e édition, Children of the Horned Rat (2009)",
+          "en": "Warhammer Fantasy Roleplay 2nd edition, Children of the Horned Rat (2009)",
+          "de": "Warhammer Fantasy Roleplay 2. Edition, Children of the Horned Rat (2009)"
+        },
+        "detail": {
+          "fr": "p. 36",
+          "en": "p. 36",
+          "de": "S. 36"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Bretonnia (6e édition, 2004)",
+          "en": "Warhammer Armies: Bretonnia (6th edition, 2004)",
+          "de": "Warhammer Armies: Bretonnia (6. Edition, 2004)"
+        },
+        "detail": {
+          "fr": "p. 38-39",
+          "en": "pp. 38-39",
+          "de": "S. 38-39"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Skaven Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Skaven Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Skaven Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Skaven_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "thanquol-a-nuln",
+    "annee": 2499,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Thanquol et la bataille de Nuln",
+      "en": "Thanquol and the Battle of Nuln",
+      "de": "Thanquol und die Schlacht um Nuln"
+    },
+    "resume": {
+      "fr": "Le Prophète gris Thanquol manipule Fritz von Halstadt, chef de la police secrète de Nuln, pour pousser l'Empire à la guerre civile. Le complot est démasqué, mais Thanquol revient la même année avec une horde qui envahit la ville par les égouts et manque de l'emporter en une nuit. Les incendies allumés par les défenseurs repoussent les Skavens en laissant la moitié de Nuln en ruine.",
+      "en": "The Grey Seer Thanquol manipulates Fritz von Halstadt, head of Nuln's secret police, to push the Empire into civil war. The plot is exposed, but Thanquol returns the same year with a horde that floods into the city through the sewers and almost takes it in a single night. Fires lit by the defenders drive the Skaven back, leaving half of Nuln in ruins.",
+      "de": "Der Graue Prophet Thanquol manipuliert Fritz von Halstadt, den Leiter der Geheimpolizei von Nuln, um das Imperium in einen Bürgerkrieg zu stürzen. Das Komplott fliegt auf, doch Thanquol kehrt im selben Jahr mit einer Horde zurück, die durch die Kanalisation in die Stadt dringt und sie fast in einer einzigen Nacht einnimmt. Von den Verteidigern gelegte Brände treiben die Skaven zurück und lassen halb Nuln in Trümmern."
+    },
+    "ere": "empire-reunifie",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [
+      "nuln"
+    ],
+    "factions": [
+      "skavens",
+      "empire"
+    ],
+    "importance": 3,
+    "fiabilite": "divergent",
+    "note": {
+      "fr": "Le livre d'armée skaven de 7e édition et celui de 4e édition donnent 2499 CI, Children of the Horned Rat 2514 CI. L'épisode vient du roman Skavenslayer de William King.",
+      "en": "The 7th and 4th edition Skaven army books give 2499 IC, Children of the Horned Rat 2514 IC. The episode comes from William King's novel Skavenslayer.",
+      "de": "Die Skaven-Armeebücher der 7. und 4. Edition nennen 2499 IK, Children of the Horned Rat 2514 IK. Die Episode stammt aus William Kings Roman Skavenslayer."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Skaven (7e édition, 2009)",
+          "en": "Warhammer Armies: Skaven (7th edition, 2009)",
+          "de": "Warhammer Armies: Skaven (7. Edition, 2009)"
+        },
+        "detail": {
+          "fr": "p. 31",
+          "en": "p. 31",
+          "de": "S. 31"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Skaven (4e édition, 1993)",
+          "en": "Warhammer Armies: Skaven (4th edition, 1993)",
+          "de": "Warhammer Armies: Skaven (4. Edition, 1993)"
+        },
+        "detail": {
+          "fr": "p. 69",
+          "en": "p. 69",
+          "de": "S. 69"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Warhammer Fantasy Roleplay 2e édition, Children of the Horned Rat (2009)",
+          "en": "Warhammer Fantasy Roleplay 2nd edition, Children of the Horned Rat (2009)",
+          "de": "Warhammer Fantasy Roleplay 2. Edition, Children of the Horned Rat (2009)"
+        },
+        "detail": {
+          "fr": "p. 36",
+          "en": "p. 36",
+          "de": "S. 36"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Skaven Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Skaven Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Skaven Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Skaven_Timeline"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Thanquol",
+          "en": "Lexicanum, Thanquol page",
+          "de": "Lexicanum, Seite Thanquol"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Thanquol"
+      }
+    ]
+  },
+  {
+    "id": "assaut-sur-slagmire",
+    "annee": 2502,
+    "fin": 2505,
+    "approx": false,
+    "titre": {
+      "fr": "Tehenhauin à l'assaut de Slagmire",
+      "en": "Tehenhauin's assault on Slagmire",
+      "de": "Tehenhauins Angriff auf Slagmire"
+    },
+    "resume": {
+      "fr": "Les Slanns prévoient qu'une machine construite par les Skavens dans leur repaire de Slagmire ne doit jamais être achevée. Par magie, ils transportent le Prophète de Sotek Tehenhauin et son armée au cœur du nid. Après trois ans de combats, les Skavens sont vaincus et leur fusée est détruite.",
+      "en": "The Slann foresee that a device being built by the Skaven in their lair of Slagmire must never be completed. By magic, they transport Tehenhauin, Prophet of Sotek, and his army into the heart of the nest. After three years of fighting, the Skaven are defeated and their rocket is destroyed.",
+      "de": "Die Slann sehen voraus, dass eine Maschine, die die Skaven in ihrem Bau Slagmire errichten, niemals fertiggestellt werden darf. Mit Magie versetzen sie Tehenhauin, den Propheten Soteks, und sein Heer ins Herz des Nests. Nach drei Jahren Kampf sind die Skaven besiegt und ihre Rakete zerstört."
+    },
+    "ere": "empire-reunifie",
+    "regions": [
+      "lustrie"
+    ],
+    "lieux": [],
+    "factions": [
+      "hommes-lezards",
+      "skavens"
+    ],
+    "importance": 1,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "L'emplacement de Slagmire n'est pas précisé par la source.",
+      "en": "The source does not give the location of Slagmire.",
+      "de": "Die Quelle nennt den Ort von Slagmire nicht."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Lizardmen (8e édition, 2013)",
+          "en": "Warhammer Armies: Lizardmen (8th edition, 2013)",
+          "de": "Warhammer Armies: Lizardmen (8. Edition, 2013)"
+        },
+        "detail": {
+          "fr": "p. 27",
+          "en": "p. 27",
+          "de": "S. 27"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Lizardmen Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Lizardmen Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Lizardmen Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Lizardmen_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "thanquol-invoque-skarbrand",
+    "annee": 2515,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Thanquol invoque Skarbrand par erreur",
+      "en": "Thanquol summons Skarbrand by mistake",
+      "de": "Thanquol beschwört versehentlich Skarbrand"
+    },
+    "resume": {
+      "fr": "Une expédition naine attaque le repaire skaven de Fester Spike pour reprendre l'un des marteaux perdus de la déesse Valaya. Pour sauver la bataille, Thanquol tente d'invoquer un Prophète Verminien du Rat Cornu. Il fait surgir à la place l'Assoiffeur de sang Skarbrand et sa légion khornate, qui massacrent Nains et Skavens sans distinction.",
+      "en": "A Dwarf expedition attacks the Skaven burrow of Fester Spike to reclaim one of the lost relic hammers of the goddess Valaya. To save the battle, Thanquol attempts to summon a Verminlord of the Horned Rat. Instead he conjures the Bloodthirster Skarbrand and his Khornate legion, who slaughter Dwarfs and Skaven alike.",
+      "de": "Eine Zwergenexpedition greift den Skaven-Bau Fester Spike an, um einen der verlorenen Reliquienhämmer der Göttin Valaya zurückzuerobern. Um die Schlacht zu retten, versucht Thanquol, einen Rattendämon der Gehörnten Ratte zu beschwören. Stattdessen ruft er den Blutdämon Skarbrand und seine khornatische Legion herbei, die Zwerge wie Skaven gleichermaßen niedermetzeln."
+    },
+    "ere": "empire-reunifie",
+    "regions": [
+      "montagnes"
+    ],
+    "lieux": [],
+    "factions": [
+      "skavens",
+      "nains",
+      "chaos"
+    ],
+    "importance": 1,
+    "fiabilite": "divergent",
+    "note": {
+      "fr": "Le lieu varie selon les sources : Fester Spike dans Daemons of Chaos, une attaque souterraine contre Karak Kadrin selon d'autres, Karak Angkul dans une nouvelle consacrée à Queek.",
+      "en": "The place varies with the sources: Fester Spike in Daemons of Chaos, an underground assault on Karak Kadrin according to others, Karak Angkul in a story about Queek.",
+      "de": "Der Ort variiert je nach Quelle: Fester Spike in Daemons of Chaos, ein unterirdischer Angriff auf Karak Kadrin laut anderen, Karak Angkul in einer Geschichte über Queek."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Daemons of Chaos (8e édition, 2013)",
+          "en": "Warhammer Armies: Daemons of Chaos (8th edition, 2013)",
+          "de": "Warhammer Armies: Daemons of Chaos (8. Edition, 2013)"
+        },
+        "detail": {
+          "fr": "p. 23",
+          "en": "p. 23",
+          "de": "S. 23"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Skaven Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Skaven Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Skaven Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Skaven_Timeline"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Thanquol",
+          "en": "Lexicanum, Thanquol page",
+          "de": "Lexicanum, Seite Thanquol"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Thanquol"
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Queek Headtaker",
+          "en": "Warhammer Fantasy Wiki (fandom), page Queek Headtaker",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Queek Headtaker"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Queek_Headtaker"
+      }
+    ]
+  },
+  {
+    "id": "retour-d-oxyotl",
+    "annee": 2517,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Retour d'Oxyotl",
+      "en": "The return of Oxyotl",
+      "de": "Die Rückkehr von Oxyotl"
+    },
+    "resume": {
+      "fr": "Le Skink caméléon Oxyotl, disparu depuis la chute de Pahuax pendant la Grande Catastrophe, reparaît mystérieusement en Lustrie. Son retour coïncide avec des pontes spontanées de Skinks caméléons dans les ruines de Pahuax et dans d'autres cités, les premières depuis des milliers d'années. Les Slanns y voient le signe d'un dessein ancien qui se remet en marche.",
+      "en": "The Chameleon Skink Oxyotl, missing since the fall of Pahuax during the Great Catastrophe, mysteriously reappears in Lustria. His return coincides with spontaneous spawnings of Chameleon Skinks in the ruins of Pahuax and in other cities, the first in thousands of years. The Slann see in it the sign of an ancient design coming back into motion.",
+      "de": "Der Chamäleon-Skink Oxyotl, der seit dem Fall von Pahuax während der Großen Katastrophe verschollen war, taucht auf rätselhafte Weise wieder in Lustria auf. Seine Rückkehr fällt mit spontanen Bruten von Chamäleon-Skinks in den Ruinen von Pahuax und in anderen Städten zusammen, den ersten seit Jahrtausenden. Die Slann sehen darin das Zeichen eines uralten Plans, der wieder in Gang kommt."
+    },
+    "ere": "empire-reunifie",
+    "regions": [
+      "lustrie"
+    ],
+    "lieux": [
+      "pahuax"
+    ],
+    "factions": [
+      "hommes-lezards"
+    ],
+    "importance": 1,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Lizardmen (8e édition, 2013)",
+          "en": "Warhammer Armies: Lizardmen (8th edition, 2013)",
+          "de": "Warhammer Armies: Lizardmen (8. Edition, 2013)"
+        },
+        "detail": {
+          "fr": "p. 27",
+          "en": "p. 27",
+          "de": "S. 27"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Lizardmen Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Lizardmen Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Lizardmen Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Lizardmen_Timeline"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Lizardmen",
+          "en": "Lexicanum, Lizardmen page",
+          "de": "Lexicanum, Seite Lizardmen"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Lizardmen"
+      }
+    ]
+  },
+  {
+    "id": "konquata-en-albion",
+    "annee": 2520,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Fondation de Konquata en Albion",
+      "en": "Founding of Konquata on Albion",
+      "de": "Gründung von Konquata auf Albion"
+    },
+    "resume": {
+      "fr": "Des portails s'ouvrent vers l'île d'Albion et le chef saurus Kroq-Gar mène les premières bandes chargées d'en chasser les sang-chaud. Le seigneur Mazdamundi modifie le climat de l'île, où une jungle commence à pousser. Les Hommes-lézards entreprennent de bâtir la cité-temple de Konquata, la « Place de la Résistance ».",
+      "en": "Gates open onto the island of Albion and the Saurus leader Kroq-Gar leads the first war parties to cleanse it of warm-bloods. Lord Mazdamundi alters the island's climate, where a jungle begins to grow. The Lizardmen begin building the temple-city of Konquata, the « Place of Resistance ».",
+      "de": "Tore öffnen sich zur Insel Albion, und der Saurus-Anführer Kroq-Gar führt die ersten Kriegstrupps an, um sie von Warmblütern zu säubern. Lord Mazdamundi verändert das Klima der Insel, auf der ein Dschungel zu wachsen beginnt. Die Echsenmenschen beginnen mit dem Bau der Tempelstadt Konquata, des « Ortes des Widerstands »."
+    },
+    "ere": "empire-reunifie",
+    "regions": [
+      "lustrie"
+    ],
+    "lieux": [
+      "konquata"
+    ],
+    "factions": [
+      "hommes-lezards"
+    ],
+    "importance": 1,
+    "fiabilite": "incertain",
+    "note": {
+      "fr": "Épisode tiré de la campagne d'Albion de White Dwarf, repris par le livre d'armée de 6e édition, et absent des livres plus récents.",
+      "en": "Episode taken from White Dwarf's Albion campaign, repeated in the 6th edition army book, and absent from later books.",
+      "de": "Episode aus der Albion-Kampagne des White Dwarf, im Armeebuch der 6. Edition übernommen und in späteren Büchern nicht enthalten."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Lizardmen (6e édition, 2003)",
+          "en": "Warhammer Armies: Lizardmen (6th edition, 2003)",
+          "de": "Warhammer Armies: Lizardmen (6. Edition, 2003)"
+        },
+        "detail": {
+          "fr": "p. 9",
+          "en": "p. 9",
+          "de": "S. 9"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Lizardmen Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Lizardmen Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Lizardmen Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Lizardmen_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "queek-a-la-cite-des-piliers",
+    "annee": 2521,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Queek Headtaker rappelé à la Cité des Piliers",
+      "en": "Queek Headtaker recalled to the City of Pillars",
+      "de": "Queek Kopfjäger wird in die Stadt der Säulen zurückgerufen"
+    },
+    "resume": {
+      "fr": "Le chef de guerre Queek Headtaker, champion du clan Mors et protégé de Gnawdwell, est rappelé à la Cité des Piliers, le nom skaven de Karak Huit Pics. Il doit mettre fin aux combats incessants contre les Nains de Belegar et les gobelins de Skarsnik. Ailleurs, les mines de cuivre de Grim-Duraz, dans les Montagnes Grises, tombent à leur tour aux mains des Skavens.",
+      "en": "The warlord Queek Headtaker, champion of Clan Mors and protégé of Gnawdwell, is recalled to the City of Pillars, the Skaven name for Karak Eight Peaks. He is to end the ceaseless fighting against Belegar's Dwarfs and Skarsnik's Goblins. Elsewhere, the copper mines of Grim-Duraz in the Grey Mountains also fall into Skaven hands.",
+      "de": "Der Kriegsherr Queek Kopfjäger, Champion von Klan Mors und Schützling Gnawdwells, wird in die Stadt der Säulen zurückgerufen, wie die Skaven Karak Acht Gipfel nennen. Er soll die unablässigen Kämpfe gegen Belegars Zwerge und Skarsniks Goblins beenden. Anderswo fallen auch die Kupferminen von Grim-Duraz im Grauen Gebirge in die Hände der Skaven."
+    },
+    "ere": "empire-reunifie",
+    "regions": [
+      "montagnes"
+    ],
+    "lieux": [
+      "karak-huit-pics"
+    ],
+    "factions": [
+      "skavens",
+      "nains",
+      "peaux-vertes"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "Le clan Mors avait entamé son ascension en 2485 CI en écrasant plusieurs clans rivaux, dont une grande partie du clan Skab.",
+      "en": "Clan Mors had begun its rise in 2485 IC by crushing several rival clans, including much of Clan Skab.",
+      "de": "Klan Mors hatte seinen Aufstieg 2485 IK begonnen, indem er mehrere rivalisierende Klans zerschlug, darunter einen Großteil von Klan Skab."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Skaven (7e édition, 2009)",
+          "en": "Warhammer Armies: Skaven (7th edition, 2009)",
+          "de": "Warhammer Armies: Skaven (7. Edition, 2009)"
+        },
+        "detail": {
+          "fr": "p. 31",
+          "en": "p. 31",
+          "de": "S. 31"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Skaven Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Skaven Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Skaven Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Skaven_Timeline"
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Queek Headtaker",
+          "en": "Warhammer Fantasy Wiki (fandom), page Queek Headtaker",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Queek Headtaker"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Queek_Headtaker"
+      }
+    ]
+  },
+  {
+    "id": "siege-de-hexoatl",
+    "annee": 2521,
+    "fin": 2522,
+    "approx": false,
+    "titre": {
+      "fr": "Vashnaar et le siège de Hexoatl",
+      "en": "Vashnaar and the Siege of Hexoatl",
+      "de": "Vashnaar und die Belagerung von Hexoatl"
+    },
+    "resume": {
+      "fr": "Alors que le Chaos frappe les sites de la Grande Protection dans le monde entier, des Hommes-bêtes détruisent le Monument de la Lune sur l'isthme de Pahuax et la prescience des Slanns se brouille. Vashnaar le Tourmenteur unit Elfes noirs, Hommes-bêtes et monstres et assiège Hexoatl à la fin de 2521 CI. En 2522 CI, Mazdamundi et Kroq-Gar, rappelés d'Albion, arrivent chacun à la tête d'une armée et brisent l'ost du Chaos.",
+      "en": "As Chaos strikes the sites of the Great Warding across the world, Beastmen destroy the Monument of the Moon on the Isthmus of Pahuax and the Slann's foresight clouds over. Vashnaar the Tormentor unites Dark Elves, Beastmen and monsters and lays siege to Hexoatl at the end of 2521 IC. In 2522 IC Mazdamundi and Kroq-Gar, recalled from Albion, each arrive at the head of an army and break the Chaos host.",
+      "de": "Während das Chaos weltweit die Stätten der Großen Abschirmung angreift, zerstören Tiermenschen das Monument des Mondes auf dem Isthmus von Pahuax, und die Voraussicht der Slann trübt sich. Vashnaar der Peiniger vereint Dunkelelfen, Tiermenschen und Ungeheuer und belagert Ende 2521 IK Hexoatl. 2522 IK treffen Mazdamundi und Kroq-Gar, aus Albion zurückgerufen, jeweils an der Spitze eines Heeres ein und zerschlagen das Chaosheer."
+    },
+    "ere": "empire-reunifie",
+    "regions": [
+      "lustrie"
+    ],
+    "lieux": [
+      "hexoatl"
+    ],
+    "factions": [
+      "hommes-lezards",
+      "chaos",
+      "elfes-noirs"
+    ],
+    "importance": 3,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Lizardmen (8e édition, 2013)",
+          "en": "Warhammer Armies: Lizardmen (8th edition, 2013)",
+          "de": "Warhammer Armies: Lizardmen (8. Edition, 2013)"
+        },
+        "detail": {
+          "fr": "p. 27",
+          "en": "p. 27",
+          "de": "S. 27"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Lizardmen Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Lizardmen Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Lizardmen Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Lizardmen_Timeline"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Lizardmen",
+          "en": "Lexicanum, Lizardmen page",
+          "de": "Lexicanum, Seite Lizardmen"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Lizardmen"
+      }
+    ]
+  }
+]

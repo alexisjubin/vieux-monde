@@ -1,0 +1,3398 @@
+[
+  {
+    "id": "settra-nomme-nekaph",
+    "annee": -2390,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Settra fait de Nekaph son héraut",
+      "en": "Settra names Nekaph his herald",
+      "de": "Settra ernennt Nekaph zu seinem Herold"
+    },
+    "resume": {
+      "fr": "Au faîte de son règne, Settra choisit Nekaph comme héraut personnel. Chargé de porter la parole du roi des rois et de défier ses ennemis, Nekaph lui reste attaché au-delà de la mort. Il le sauvera d'un assassinat pendant la révolte de Numas et de Zandri.",
+      "en": "At the height of his reign, Settra chooses Nekaph as his personal herald. Charged with carrying the word of the King of Kings and challenging his foes, Nekaph stays bound to him beyond death. He will save him from assassination during the revolt of Numas and Zandri.",
+      "de": "Auf dem Höhepunkt seiner Herrschaft wählt Settra Nekaph zu seinem persönlichen Herold. Mit der Aufgabe betraut, das Wort des Königs der Könige zu überbringen und seine Feinde herauszufordern, bleibt Nekaph ihm über den Tod hinaus verbunden. Während des Aufstands von Numas und Zandri wird er ihn vor einem Attentat bewahren."
+    },
+    "ere": "age-d-or",
+    "regions": [
+      "sud"
+    ],
+    "lieux": [
+      "khemri"
+    ],
+    "factions": [
+      "rois-des-tombes"
+    ],
+    "importance": 1,
+    "fiabilite": "incertain",
+    "note": {
+      "fr": "Date donnée par Lexicanum (page Settra) sans référence de page.",
+      "en": "Date given by Lexicanum (Settra page) with no page reference.",
+      "de": "Datum laut Lexicanum (Seite Settra), ohne Seitenangabe."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Lexicanum, page Settra",
+          "en": "Lexicanum, Settra page",
+          "de": "Lexicanum, Seite Settra"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Settra"
+      }
+    ]
+  },
+  {
+    "id": "fondation-de-bel-aliad",
+    "annee": -2140,
+    "fin": null,
+    "approx": true,
+    "titre": {
+      "fr": "Des exilés de Bhagar fondent Bel-Aliad",
+      "en": "Exiles from Bhagar found Bel-Aliad",
+      "de": "Verbannte aus Bhagar gründen Bel-Aliad"
+    },
+    "resume": {
+      "fr": "Des exilés chassés de Bhagar s'installent à l'ouest de Nehekhara et fondent Bel-Aliad, sur la route des épices. La cité devient l'un des premiers foyers de ce qui sera plus tard l'Araby. Elle reste longtemps liée aux royaumes de Nehekhara, dont elle subit l'influence et les guerres.",
+      "en": "Exiles driven out of Bhagar settle west of Nehekhara and found Bel-Aliad on the Spice Road. The city becomes one of the first centres of what will later be Araby. For a long time it remains tied to the kingdoms of Nehekhara, sharing their influence and their wars.",
+      "de": "Aus Bhagar vertriebene Verbannte lassen sich westlich von Nehekhara nieder und gründen Bel-Aliad an der Gewürzstraße. Die Stadt wird zu einem der ersten Zentren des späteren Araby. Lange bleibt sie an die Königreiche Nehekharas gebunden, deren Einfluss und Kriege sie teilt."
+    },
+    "ere": "age-d-or",
+    "regions": [
+      "sud"
+    ],
+    "lieux": [
+      "bel-aliad"
+    ],
+    "factions": [
+      "humains-autres",
+      "rois-des-tombes"
+    ],
+    "importance": 1,
+    "fiabilite": "incertain",
+    "note": {
+      "fr": "Date tirée d'un roman de la Black Library, reprise par Lexicanum. Aucun livre d'armée ne la confirme.",
+      "en": "Date taken from a Black Library novel and reported by Lexicanum. No army book confirms it.",
+      "de": "Datum aus einem Roman der Black Library, von Lexicanum übernommen. Kein Armeebuch bestätigt es."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Neferata, roman de Josh Reynolds (2013)",
+          "en": "Neferata, novel by Josh Reynolds (2013)",
+          "de": "Neferata, Roman von Josh Reynolds (2013)"
+        },
+        "detail": "",
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Bel Aliad",
+          "en": "Lexicanum, Bel Aliad page",
+          "de": "Lexicanum, Seite Bel Aliad"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Bel_Aliad"
+      }
+    ]
+  },
+  {
+    "id": "bataille-de-la-route-des-epices",
+    "annee": -1744,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Bataille de la route des épices",
+      "en": "Battle of the Spice Road",
+      "de": "Schlacht an der Gewürzstraße"
+    },
+    "resume": {
+      "fr": "Pendant la guerre contre Nagash, l'Armée de bronze de Ka-Sabar marche sur Bel-Aliad, qui soutient l'usurpateur avec des mercenaires du nord. Le roi Akhmen-hotep bat et capture le prince Suhedir al-Khazem près des Fontaines de vie éternelle. Pendant qu'il négocie une rançon, des cavaliers de Bhagar mettent la cité à sac.",
+      "en": "During the war against Nagash, the Bronze Host of Ka-Sabar marches on Bel-Aliad, which backs the usurper with northern mercenaries. King Akhmen-hotep defeats and captures Prince Suhedir al-Khazem near the Fountains of Eternal Life. While he negotiates a ransom, Bhagarite horsemen sack the city.",
+      "de": "Im Krieg gegen Nagash marschiert das Bronzeheer von Ka-Sabar gegen Bel-Aliad, das den Usurpator mit Söldnern aus dem Norden unterstützt. König Akhmen-hotep besiegt und fängt Prinz Suhedir al-Khazem bei den Quellen des ewigen Lebens. Während er ein Lösegeld aushandelt, plündern Reiter aus Bhagar die Stadt."
+    },
+    "ere": "age-d-or",
+    "regions": [
+      "sud"
+    ],
+    "lieux": [
+      "bel-aliad",
+      "ka-sabar"
+    ],
+    "factions": [
+      "rois-des-tombes",
+      "humains-autres"
+    ],
+    "importance": 1,
+    "fiabilite": "divergent",
+    "note": {
+      "fr": "Date de -1744 CI donnée par Lexicanum et par la chronologie arabienne du wiki fandom, d'après le roman Nagash the Sorcerer. Elle cadre mal avec le livre Tomb Kings (8e édition), qui place la guerre contre Nagash et le sac de Khemri en -1600 CI.",
+      "en": "The date of -1744 IC is given by Lexicanum and the Arabyan timeline on the fandom wiki, based on the novel Nagash the Sorcerer. It fits poorly with the Tomb Kings book (8th edition), which places the war against Nagash and the sack of Khemri in -1600 IC.",
+      "de": "Das Datum -1744 IK nennen Lexicanum und die arabische Zeitleiste des Fandom-Wikis nach dem Roman Nagash the Sorcerer. Es passt schlecht zum Armeebuch Gruftkönige (8. Edition), das den Krieg gegen Nagash und die Plünderung Khemris auf -1600 IK legt."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Nagash the Sorcerer, roman de Mike Lee (2010)",
+          "en": "Nagash the Sorcerer, novel by Mike Lee (2010)",
+          "de": "Nagash the Sorcerer, Roman von Mike Lee (2010)"
+        },
+        "detail": "",
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Bel Aliad",
+          "en": "Lexicanum, Bel Aliad page",
+          "de": "Lexicanum, Seite Bel Aliad"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Bel_Aliad"
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Arabyan Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Arabyan Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Arabyan Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Arabyan_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "krell-tombe-a-karak-kadrin",
+    "annee": -1500,
+    "fin": null,
+    "approx": true,
+    "titre": {
+      "fr": "Krell tombe devant Karak Kadrin",
+      "en": "Krell falls before Karak Kadrin",
+      "de": "Krell fällt vor Karak Kadrin"
+    },
+    "resume": {
+      "fr": "Le seigneur du Chaos Krell, champion de Khorne, s'allie aux gobelins de la nuit et s'empare des forteresses naines de Karak Ungor et de Karak Varn. Il est tué en attaquant Karak Kadrin par une armée naine menée par Grimbul Heaume-de-fer. Son tombeau, aux portes des Désolations du Chaos, sera retrouvé bien plus tard par Nagash.",
+      "en": "The Chaos Lord Krell, champion of Khorne, allies with Night Goblins and takes the Dwarf holds of Karak Ungor and Karak Varn. He is slain while attacking Karak Kadrin by a Dwarf army led by Grimbul Ironhelm. His tomb, on the edge of the Chaos Wastes, will be found much later by Nagash.",
+      "de": "Der Chaosherr Krell, ein Champion des Khorne, verbündet sich mit Nachtgoblins und erobert die Zwergenfesten Karak Ungor und Karak Varn. Beim Angriff auf Karak Kadrin wird er von einem Zwergenheer unter Grimbul Eisenhelm erschlagen. Sein Grab am Rand der Chaoswüste wird viel später von Nagash gefunden."
+    },
+    "ere": "age-des-tribus",
+    "regions": [
+      "montagnes"
+    ],
+    "lieux": [
+      "karak-kadrin",
+      "karak-ungor",
+      "karak-varn"
+    ],
+    "factions": [
+      "chaos",
+      "nains",
+      "peaux-vertes"
+    ],
+    "importance": 1,
+    "fiabilite": "incertain",
+    "note": {
+      "fr": "Lexicanum situe Krell environ 1500 ans avant la fondation de l'Empire, sans date exacte. Cela le rapproche du Temps du Malheur, sans que les sources les relient explicitement.",
+      "en": "Lexicanum places Krell roughly 1500 years before the founding of the Empire, with no exact date. This brings him close to the Time of Woes, though the sources do not link them explicitly.",
+      "de": "Lexicanum setzt Krell etwa 1500 Jahre vor der Gründung des Imperiums an, ohne genaues Datum. Das rückt ihn in die Nähe der Zeit des Leids, ohne dass die Quellen beides ausdrücklich verbinden."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Lexicanum, page Krell",
+          "en": "Lexicanum, Krell page",
+          "de": "Lexicanum, Seite Krell"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Krell"
+      }
+    ]
+  },
+  {
+    "id": "w-soran-emmure",
+    "annee": -1222,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "W'soran entrevoit Nagash et finit emmuré",
+      "en": "W'soran glimpses Nagash and is entombed",
+      "de": "W'soran erblickt Nagash und wird eingemauert"
+    },
+    "resume": {
+      "fr": "À Lahmia, le vampire W'soran tente un rituel pour joindre l'esprit de Nagash, qu'il croit mort. Son âme est saisie par le Grand Nécromancien bien vivant à Nagashizzar, puis renvoyée dans son corps. Neferata, qui a senti le rituel, le fait empaler et enterrer dans un tonneau sous un temple, où il restera vingt-deux ans.",
+      "en": "In Lahmia, the vampire W'soran attempts a ritual to reach the spirit of Nagash, whom he believes dead. His soul is seized by the very much alive Great Necromancer at Nagashizzar, then thrust back into his body. Neferata, who has sensed the ritual, has him staked and buried in a barrel beneath a temple, where he will stay for twenty-two years.",
+      "de": "In Lahmia versucht der Vampir W'soran mit einem Ritual den Geist des Nagash zu erreichen, den er für tot hält. Seine Seele wird in Nagashizzar vom höchst lebendigen Großen Nekromanten ergriffen und dann in seinen Körper zurückgestoßen. Neferata, die das Ritual gespürt hat, lässt ihn pfählen und in einem Fass unter einem Tempel begraben, wo er zweiundzwanzig Jahre bleibt."
+    },
+    "ere": "age-des-tribus",
+    "regions": [
+      "sud"
+    ],
+    "lieux": [
+      "lahmia"
+    ],
+    "factions": [
+      "vampires"
+    ],
+    "importance": 1,
+    "fiabilite": "incertain",
+    "note": {
+      "fr": "Date donnée par Lexicanum, d'après un roman de la Black Library. Aucun livre d'armée ne la confirme.",
+      "en": "Date given by Lexicanum, based on a Black Library novel. No army book confirms it.",
+      "de": "Datum laut Lexicanum nach einem Roman der Black Library. Kein Armeebuch bestätigt es."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Neferata, roman de Josh Reynolds (2013)",
+          "en": "Neferata, novel by Josh Reynolds (2013)",
+          "de": "Neferata, Roman von Josh Reynolds (2013)"
+        },
+        "detail": "",
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page W'soran",
+          "en": "Lexicanum, W'soran page",
+          "de": "Lexicanum, Seite W'soran"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/W%27soran"
+      }
+    ]
+  },
+  {
+    "id": "alcadizaar-roi-de-khemri",
+    "annee": -1200,
+    "fin": null,
+    "approx": true,
+    "titre": {
+      "fr": "Alcadizaar, dernier grand roi de Nehekhara",
+      "en": "Alcadizaar, last great king of Nehekhara",
+      "de": "Alcadizaar, letzter großer König Nehekharas"
+    },
+    "resume": {
+      "fr": "Issu de la sixième dynastie de Khemri, Alcadizaar unifie de nouveau Nehekhara après des siècles de lent redressement. Roi sage et charismatique, il soumet le Culte Mortuaire à de nouvelles règles pour qu'aucun prêtre ne suive la voie de Nagash. Sous son règne, le pays retrouve sa prospérité, jusqu'au retour du Grand Nécromancien.",
+      "en": "From the sixth dynasty of Khemri, Alcadizaar reunites Nehekhara after centuries of slow recovery. A wise and charismatic king, he binds the Mortuary Cult with new rules so that no priest may follow the path of Nagash. Under his reign the land prospers again, until the Great Necromancer returns.",
+      "de": "Alcadizaar aus der sechsten Dynastie von Khemri eint Nehekhara nach Jahrhunderten langsamer Erholung von Neuem. Als weiser und charismatischer König unterwirft er den Totenkult neuen Regeln, damit kein Priester mehr Nagashs Weg folgt. Unter seiner Herrschaft blüht das Land wieder auf, bis der Große Nekromant zurückkehrt."
+    },
+    "ere": "age-des-tribus",
+    "regions": [
+      "sud"
+    ],
+    "lieux": [
+      "khemri"
+    ],
+    "factions": [
+      "rois-des-tombes"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "Le livre Tomb Kings (6e édition) situe son règne vers -1200 CI sans date précise de couronnement.",
+      "en": "The Tomb Kings book (6th edition) places his reign around -1200 IC, with no exact coronation date.",
+      "de": "Das Armeebuch Gruftkönige (6. Edition) setzt seine Herrschaft um -1200 IK an, ohne genaues Krönungsdatum."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Tomb Kings (6e édition, 2003)",
+          "en": "Warhammer Armies: Tomb Kings (6th edition, 2003)",
+          "de": "Warhammer Armies: Tomb Kings (6. Edition, 2003)"
+        },
+        "detail": {
+          "fr": "p. 7",
+          "en": "p. 7",
+          "de": "S. 7"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Dynasties of Khemri",
+          "en": "Lexicanum, Dynasties of Khemri page",
+          "de": "Lexicanum, Seite Dynasties of Khemri"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Dynasties_of_Khemri"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page History of Nehekhara",
+          "en": "Lexicanum, History of Nehekhara page",
+          "de": "Lexicanum, Seite History of Nehekhara"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/History_of_Nehekhara"
+      }
+    ]
+  },
+  {
+    "id": "sepulcre-des-cieux",
+    "annee": -1185,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Ramhotep achève le Sépulcre des cieux",
+      "en": "Ramhotep completes the Sepulchre of the Heavens",
+      "de": "Ramhotep vollendet das Grabmal der Himmel"
+    },
+    "resume": {
+      "fr": "Au soir de sa vie, le grand architecte Ramhotep achève à Quatar le Sépulcre des cieux, qu'il destine à sa propre sépulture. Le roi de Quatar le récompense par des funérailles somptueuses. Réveillé plus tard par le Grand Rituel, Ramhotep deviendra le plus célèbre des nécrotectes.",
+      "en": "Near the end of his life, the great architect Ramhotep completes the Sepulchre of the Heavens in Quatar, which he intends as his own resting place. The King of Quatar rewards him with a lavish burial. Later awakened by the Great Ritual, Ramhotep will become the most famous of the Necrotects.",
+      "de": "Am Ende seines Lebens vollendet der große Baumeister Ramhotep in Quatar das Grabmal der Himmel, das er für sich selbst bestimmt. Der König von Quatar belohnt ihn mit einer prächtigen Bestattung. Später vom Großen Ritual erweckt, wird Ramhotep der berühmteste der Nekrotekten."
+    },
+    "ere": "age-des-tribus",
+    "regions": [
+      "sud"
+    ],
+    "lieux": [
+      "quatar"
+    ],
+    "factions": [
+      "rois-des-tombes"
+    ],
+    "importance": 1,
+    "fiabilite": "incertain",
+    "note": {
+      "fr": "Date donnée par Lexicanum (page Ramhotep) sans livre identifié.",
+      "en": "Date given by Lexicanum (Ramhotep page) with no book identified.",
+      "de": "Datum laut Lexicanum (Seite Ramhotep), ohne bekanntes Buch."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Lexicanum, page Ramhotep",
+          "en": "Lexicanum, Ramhotep page",
+          "de": "Lexicanum, Seite Ramhotep"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Ramhotep"
+      }
+    ]
+  },
+  {
+    "id": "chute-de-lahmia",
+    "annee": -1170,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Alcadizaar détruit Lahmia",
+      "en": "Alcadizaar destroys Lahmia",
+      "de": "Alcadizaar zerstört Lahmia"
+    },
+    "resume": {
+      "fr": "Lorsque la nature vampirique de la cour de Lahmia est découverte, Alcadizaar rassemble les armées de Nehekhara et des cités arabiennes contre la cité de Neferata. Après un siège acharné, Lahmia est rasée et ses mortels massacrés. Seuls les plus puissants vampires s'enfuient vers le nord, parmi eux Neferata, Abhorash, Ushoran et W'soran, et trouvent refuge auprès de Nagash.",
+      "en": "When the vampiric nature of Lahmia's court is uncovered, Alcadizaar gathers the armies of Nehekhara and of the Arabyan cities against Neferata's city. After a bitter siege, Lahmia is razed and its mortals slaughtered. Only the mightiest vampires escape north, among them Neferata, Abhorash, Ushoran and W'soran, and they find refuge with Nagash.",
+      "de": "Als die vampirische Natur des Hofes von Lahmia ans Licht kommt, vereint Alcadizaar die Heere Nehekharas und der arabischen Städte gegen Neferatas Stadt. Nach erbitterter Belagerung wird Lahmia geschleift und seine Sterblichen werden niedergemetzelt. Nur die mächtigsten Vampire fliehen nach Norden, darunter Neferata, Abhorash, Ushoran und W'soran, und finden bei Nagash Zuflucht."
+    },
+    "ere": "age-des-tribus",
+    "regions": [
+      "sud"
+    ],
+    "lieux": [
+      "lahmia"
+    ],
+    "factions": [
+      "vampires",
+      "rois-des-tombes",
+      "humains-autres"
+    ],
+    "importance": 3,
+    "fiabilite": "divergent",
+    "note": {
+      "fr": "Lexicanum (pages History of Nehekhara et Khalida) donne -1170 CI. Les pages consacrées à Ushoran et W'soran, tirées des romans, placent le siège vers -1200 CI, date reprise par la chronologie arabienne du wiki fandom.",
+      "en": "Lexicanum (History of Nehekhara and Khalida pages) gives -1170 IC. The pages on Ushoran and W'soran, drawn from the novels, place the siege around -1200 IC, a date also used by the Arabyan timeline on the fandom wiki.",
+      "de": "Lexicanum (Seiten History of Nehekhara und Khalida) nennt -1170 IK. Die Seiten zu Ushoran und W'soran, die sich auf die Romane stützen, setzen die Belagerung um -1200 IK an, ebenso die arabische Zeitleiste des Fandom-Wikis."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Tomb Kings (8e édition, 2011)",
+          "en": "Warhammer Armies: Tomb Kings (8th edition, 2011)",
+          "de": "Warhammer Armies: Tomb Kings (8. Edition, 2011)"
+        },
+        "detail": {
+          "fr": "p. 13-15",
+          "en": "pp. 13-15",
+          "de": "S. 13-15"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page History of Nehekhara",
+          "en": "Lexicanum, History of Nehekhara page",
+          "de": "Lexicanum, Seite History of Nehekhara"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/History_of_Nehekhara"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Ushoran",
+          "en": "Lexicanum, Ushoran page",
+          "de": "Lexicanum, Seite Ushoran"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Ushoran"
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Arabyan Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Arabyan Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Arabyan Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Arabyan_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "bataille-du-crane-d-or",
+    "annee": -1163,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Bataille du Crâne d'or",
+      "en": "Battle of the Golden Skull",
+      "de": "Schlacht am Goldenen Schädel"
+    },
+    "resume": {
+      "fr": "Nagash tire Arkhan le Noir de son tombeau et lance sur Nehekhara une immense armée de morts commandée par les vampires réfugiés de Lahmia. Alcadizaar, à la tête d'une armée unifiée, les bat à plusieurs reprises. La bataille du Crâne d'or chasse les morts-vivants du pays, et la légende veut que Nagash maudisse les vampires en fuite, désormais brûlés par le soleil.",
+      "en": "Nagash raises Arkhan the Black from his tomb and sends a vast army of the dead against Nehekhara, led by the vampires who fled Lahmia. Alcadizaar, at the head of a united army, defeats them again and again. The Battle of the Golden Skull drives the undead from the land, and legend says Nagash cursed the fleeing vampires to burn in the sunlight from then on.",
+      "de": "Nagash holt Arkhan den Schwarzen aus seinem Grab und schickt ein gewaltiges Totenheer unter den aus Lahmia geflohenen Vampiren gegen Nehekhara. Alcadizaar schlägt sie an der Spitze eines geeinten Heeres immer wieder. Die Schlacht am Goldenen Schädel vertreibt die Untoten aus dem Land, und der Legende nach verflucht Nagash die fliehenden Vampire, die seither im Sonnenlicht verbrennen."
+    },
+    "ere": "age-des-tribus",
+    "regions": [
+      "sud"
+    ],
+    "lieux": [
+      "khemri",
+      "nagashizzar"
+    ],
+    "factions": [
+      "rois-des-tombes",
+      "vampires"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Tomb Kings (8e édition, 2011)",
+          "en": "Warhammer Armies: Tomb Kings (8th edition, 2011)",
+          "de": "Warhammer Armies: Tomb Kings (8. Edition, 2011)"
+        },
+        "detail": {
+          "fr": "p. 13-15",
+          "en": "pp. 13-15",
+          "de": "S. 13-15"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page History of Nehekhara",
+          "en": "Lexicanum, History of Nehekhara page",
+          "de": "Lexicanum, Seite History of Nehekhara"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/History_of_Nehekhara"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Arkhan",
+          "en": "Lexicanum, Arkhan page",
+          "de": "Lexicanum, Seite Arkhan"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Arkhan"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Vampire",
+          "en": "Lexicanum, Vampire page",
+          "de": "Lexicanum, Seite Vampire"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Vampire"
+      }
+    ]
+  },
+  {
+    "id": "neferata-a-bel-aliad",
+    "annee": -1152,
+    "fin": -1149,
+    "approx": false,
+    "titre": {
+      "fr": "Neferata à Bel-Aliad",
+      "en": "Neferata at Bel-Aliad",
+      "de": "Neferata in Bel-Aliad"
+    },
+    "resume": {
+      "fr": "Chassée de Lahmia, Neferata mène des tribus du désert contre Bel-Aliad, mais Abhorash, qui défend la cité, la transperce d'une lance et repousse son assaut. Elle revient par la ruse en infiltrant le culte de Mordig, dont les fidèles mangent déjà les morts, et en prend la tête. La guerre civile qui s'ensuit contre le calife ne s'achève qu'avec l'arrivée d'Arkhan.",
+      "en": "Driven out of Lahmia, Neferata leads desert tribes against Bel-Aliad, but Abhorash, who defends the city, impales her on a lance and throws back her attack. She returns by stealth, infiltrating the cult of Mordig, whose followers already eat the dead, and takes its leadership. The civil war that follows against the caliph only ends when Arkhan arrives.",
+      "de": "Aus Lahmia vertrieben, führt Neferata Wüstenstämme gegen Bel-Aliad, doch Abhorash, der die Stadt verteidigt, spießt sie mit einer Lanze auf und schlägt ihren Angriff zurück. Sie kehrt mit List zurück, unterwandert den Kult des Mordig, dessen Anhänger schon Tote verzehren, und übernimmt seine Führung. Der folgende Bürgerkrieg gegen den Kalifen endet erst mit Arkhans Ankunft."
+    },
+    "ere": "age-des-tribus",
+    "regions": [
+      "sud"
+    ],
+    "lieux": [
+      "bel-aliad"
+    ],
+    "factions": [
+      "vampires",
+      "humains-autres"
+    ],
+    "importance": 1,
+    "fiabilite": "incertain",
+    "note": {
+      "fr": "Date tirée d'un roman de la Black Library, reprise par Lexicanum. Aucun livre d'armée ne la confirme.",
+      "en": "Date taken from a Black Library novel and reported by Lexicanum. No army book confirms it.",
+      "de": "Datum aus einem Roman der Black Library, von Lexicanum übernommen. Kein Armeebuch bestätigt es."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Neferata, roman de Josh Reynolds (2013)",
+          "en": "Neferata, novel by Josh Reynolds (2013)",
+          "de": "Neferata, Roman von Josh Reynolds (2013)"
+        },
+        "detail": "",
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Bel Aliad",
+          "en": "Lexicanum, Bel Aliad page",
+          "de": "Lexicanum, Seite Bel Aliad"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Bel_Aliad"
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Arabyan Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Arabyan Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Arabyan Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Arabyan_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "khatep-reveille-settra",
+    "annee": -1151,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Khatep réveille Settra",
+      "en": "Khatep awakens Settra",
+      "de": "Khatep erweckt Settra"
+    },
+    "resume": {
+      "fr": "Le Grand Rituel a relevé les rois défunts, qui se déchirent aussitôt pour leurs cités mortes. Le Grand Hiérophante Khatep brise les sceaux de la pyramide de Settra pour rétablir l'ordre. Settra écrase les rois qui refusent de plier et ouvre le Règne d'un million d'années, tandis qu'Arkhan le Noir s'enfuit de Nehekhara.",
+      "en": "The Great Ritual has raised the dead kings, who at once tear at each other over their dead cities. Grand Hierophant Khatep breaks the seals of Settra's pyramid to restore order. Settra crushes the kings who refuse to kneel and begins the Reign of a Million Years, while Arkhan the Black flees Nehekhara.",
+      "de": "Das Große Ritual hat die toten Könige erweckt, die sich sofort um ihre toten Städte bekriegen. Der Großhierophant Khatep bricht die Siegel von Settras Pyramide, um die Ordnung wiederherzustellen. Settra zerschmettert die Könige, die sich nicht beugen, und beginnt die Herrschaft der Million Jahre, während Arkhan der Schwarze aus Nehekhara flieht."
+    },
+    "ere": "age-des-tribus",
+    "regions": [
+      "sud"
+    ],
+    "lieux": [
+      "khemri"
+    ],
+    "factions": [
+      "rois-des-tombes"
+    ],
+    "importance": 3,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "Complète l'événement du Grand Rituel de Nagash, daté de la même année.",
+      "en": "Complements the Great Ritual of Nagash event, dated to the same year.",
+      "de": "Ergänzt das Ereignis zum Großen Ritual des Nagash aus demselben Jahr."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Tomb Kings (8e édition, 2011)",
+          "en": "Warhammer Armies: Tomb Kings (8th edition, 2011)",
+          "de": "Warhammer Armies: Tomb Kings (8. Edition, 2011)"
+        },
+        "detail": {
+          "fr": "p. 16",
+          "en": "p. 16",
+          "de": "S. 16"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Settra",
+          "en": "Lexicanum, Settra page",
+          "de": "Lexicanum, Seite Settra"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Settra"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page History of Nehekhara",
+          "en": "Lexicanum, History of Nehekhara page",
+          "de": "Lexicanum, Seite History of Nehekhara"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/History_of_Nehekhara"
+      }
+    ]
+  },
+  {
+    "id": "w-soran-quitte-nagashizzar",
+    "annee": -1150,
+    "fin": -1147,
+    "approx": false,
+    "titre": {
+      "fr": "W'soran quitte Nagashizzar",
+      "en": "W'soran leaves Nagashizzar",
+      "de": "W'soran verlässt Nagashizzar"
+    },
+    "resume": {
+      "fr": "Après la chute de Nagash, le vampire W'soran quitte Nagashizzar avec quelques disciples et l'un des livres du Grand Nécromancien. Traqué par les Rois des tombes jusque dans les Marais de la Folie, il se réfugie en Araby. À Lashiek, la Concubine douairière et les vampires de Neferata le débusquent et le chassent de la cité.",
+      "en": "After Nagash's fall, the vampire W'soran leaves Nagashizzar with a few disciples and one of the Great Necromancer's books. Hunted by the Tomb Kings into the Marshes of Madness, he takes refuge in Araby. In Lashiek, the Dowager Concubine and Neferata's vampires track him down and drive him from the city.",
+      "de": "Nach Nagashs Sturz verlässt der Vampir W'soran Nagashizzar mit einigen Jüngern und einem der Bücher des Großen Nekromanten. Von den Gruftkönigen bis in die Sümpfe des Wahnsinns gejagt, flüchtet er nach Araby. In Lashiek spüren ihn die Witwen-Konkubine und Neferatas Vampire auf und vertreiben ihn aus der Stadt."
+    },
+    "ere": "age-des-tribus",
+    "regions": [
+      "sud",
+      "terres-arides"
+    ],
+    "lieux": [
+      "nagashizzar",
+      "lashiek"
+    ],
+    "factions": [
+      "vampires",
+      "rois-des-tombes"
+    ],
+    "importance": 2,
+    "fiabilite": "incertain",
+    "note": {
+      "fr": "Dates tirées des romans Neferata et Master of Death de Josh Reynolds, reprises par Lexicanum. W'soran est le fondateur de la lignée des Nécrarques.",
+      "en": "Dates taken from Josh Reynolds' novels Neferata and Master of Death, reported by Lexicanum. W'soran is the founder of the Necrarch bloodline.",
+      "de": "Daten aus Josh Reynolds' Romanen Neferata und Master of Death, von Lexicanum übernommen. W'soran ist der Begründer der Blutlinie der Necrarchen."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Master of Death, roman de Josh Reynolds (2014)",
+          "en": "Master of Death, novel by Josh Reynolds (2014)",
+          "de": "Master of Death, Roman von Josh Reynolds (2014)"
+        },
+        "detail": "",
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page W'soran",
+          "en": "Lexicanum, W'soran page",
+          "de": "Lexicanum, Seite W'soran"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/W%27soran"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Lashiek",
+          "en": "Lexicanum, Lashiek page",
+          "de": "Lexicanum, Seite Lashiek"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Lashiek"
+      }
+    ]
+  },
+  {
+    "id": "arkhan-guerres-de-la-mort",
+    "annee": -1149,
+    "fin": -149,
+    "approx": true,
+    "titre": {
+      "fr": "Arkhan rase Bel-Aliad et ouvre les Guerres de la Mort",
+      "en": "Arkhan razes Bel-Aliad and begins the Wars of Death",
+      "de": "Arkhan zerstört Bel-Aliad und beginnt die Todeskriege"
+    },
+    "resume": {
+      "fr": "Chassé de Nehekhara par les Rois des tombes réveillés, Arkhan le Noir cherche un nouveau fief et anéantit Bel-Aliad, livrée à la guerre civile. Tous ceux qui ne fuient pas, vivants ou morts, rejoignent son armée. Pendant près de mille ans, il ravage ensuite les terres d'Araby, réduites à quelques cités affaiblies et à des tribus du désert.",
+      "en": "Driven out of Nehekhara by the awakened Tomb Kings, Arkhan the Black looks for a new domain and annihilates Bel-Aliad, already torn by civil war. All who do not flee, living or dead, join his army. For nearly a thousand years he then ravages the lands of Araby, reduced to a few weakened cities and desert tribes.",
+      "de": "Von den erwachten Gruftkönigen aus Nehekhara vertrieben, sucht Arkhan der Schwarze ein neues Reich und vernichtet das vom Bürgerkrieg zerrissene Bel-Aliad. Alle, die nicht fliehen, ob lebend oder tot, schließen sich seinem Heer an. Fast tausend Jahre lang verheert er danach die Lande Arabys, die auf wenige geschwächte Städte und Wüstenstämme schrumpfen."
+    },
+    "ere": "age-des-tribus",
+    "regions": [
+      "sud"
+    ],
+    "lieux": [
+      "bel-aliad",
+      "araby"
+    ],
+    "factions": [
+      "rois-des-tombes",
+      "humains-autres",
+      "vampires"
+    ],
+    "importance": 3,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "Le sac de Bel-Aliad est daté de -1149 CI. La fin des raids, vers -149 CI, est approximative et ne vient que de la chronologie arabienne du wiki fandom, qui parle de mille ans de pillages.",
+      "en": "The sack of Bel-Aliad is dated -1149 IC. The end of the raids, around -149 IC, is approximate and only comes from the Arabyan timeline on the fandom wiki, which speaks of a thousand years of raiding.",
+      "de": "Die Plünderung Bel-Aliads wird auf -1149 IK datiert. Das Ende der Raubzüge um -149 IK ist ungefähr und stammt nur aus der arabischen Zeitleiste des Fandom-Wikis, die von tausend Jahren Plünderung spricht."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Tomb Kings (8e édition, 2011)",
+          "en": "Warhammer Armies: Tomb Kings (8th edition, 2011)",
+          "de": "Warhammer Armies: Tomb Kings (8. Edition, 2011)"
+        },
+        "detail": {
+          "fr": "p. 20-21",
+          "en": "pp. 20-21",
+          "de": "S. 20-21"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Araby",
+          "en": "Lexicanum, Araby page",
+          "de": "Lexicanum, Seite Araby"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Araby"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Arkhan",
+          "en": "Lexicanum, Arkhan page",
+          "de": "Lexicanum, Seite Arkhan"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Arkhan"
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Arabyan Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Arabyan Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Arabyan Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Arabyan_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "kadon-couronne-de-nagash",
+    "annee": -1147,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Kadon trouve la Couronne de Nagash",
+      "en": "Kadon finds the Crown of Nagash",
+      "de": "Kadon findet die Krone des Nagash"
+    },
+    "resume": {
+      "fr": "Au bord de la Rivière aveugle, un jeune chaman de la tribu des Lodringen nommé Kadon découvre le corps gelé d'Alcadizaar, qui serre encore la Couronne de sorcellerie de Nagash. Guidé par la couronne, il fonde une cité, Mourkain, au cœur des tribus des Terres arides. Elle deviendra la capitale du royaume de Strygos.",
+      "en": "On the banks of the Blind River, a young shaman of the Lodringen tribe named Kadon finds the frozen body of Alcadizaar, still clutching Nagash's Crown of Sorcery. Guided by the crown, he founds a city, Mourkain, among the tribes of the Badlands. It will become the capital of the kingdom of Strygos.",
+      "de": "Am Ufer des Blinden Flusses findet ein junger Schamane vom Stamm der Lodringen namens Kadon den gefrorenen Leichnam Alcadizaars, der noch Nagashs Krone der Zauberei umklammert. Von der Krone geleitet gründet er bei den Stämmen der Ödlande eine Stadt, Mourkain. Sie wird zur Hauptstadt des Königreichs Strygos."
+    },
+    "ere": "age-des-tribus",
+    "regions": [
+      "terres-arides"
+    ],
+    "lieux": [
+      "mourkain"
+    ],
+    "factions": [
+      "vampires",
+      "humains-autres"
+    ],
+    "importance": 2,
+    "fiabilite": "incertain",
+    "note": {
+      "fr": "Date tirée d'un roman de la Black Library, reprise par Lexicanum. Aucun livre d'armée ne la confirme.",
+      "en": "Date taken from a Black Library novel and reported by Lexicanum. No army book confirms it.",
+      "de": "Datum aus einem Roman der Black Library, von Lexicanum übernommen. Kein Armeebuch bestätigt es."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Neferata, roman de Josh Reynolds (2013)",
+          "en": "Neferata, novel by Josh Reynolds (2013)",
+          "de": "Neferata, Roman von Josh Reynolds (2013)"
+        },
+        "detail": "",
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Strygos",
+          "en": "Lexicanum, Strygos page",
+          "de": "Lexicanum, Seite Strygos"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Strygos"
+      }
+    ]
+  },
+  {
+    "id": "ushoran-roi-de-strygos",
+    "annee": -1120,
+    "fin": null,
+    "approx": true,
+    "titre": {
+      "fr": "Ushoran s'empare de Mourkain",
+      "en": "Ushoran seizes Mourkain",
+      "de": "Ushoran nimmt Mourkain"
+    },
+    "resume": {
+      "fr": "Attiré par la Couronne de Nagash, le vampire Ushoran arrive à Mourkain, observe longtemps la cité puis tue Kadon et prend sa place. Se présentant comme un roi guerrier et sage, il impose aux tribus barbares les usages de Lahmia. En quelques décennies, le royaume de Strygos devient un reflet sombre de Nehekhara, gouverné par une aristocratie de vampires.",
+      "en": "Drawn by the Crown of Nagash, the vampire Ushoran comes to Mourkain, watches the city for a long time, then kills Kadon and takes his place. Presenting himself as a wise warrior king, he imposes the customs of Lahmia on the barbarian tribes. Within decades the kingdom of Strygos becomes a dark reflection of Nehekhara, ruled by a vampire aristocracy.",
+      "de": "Von der Krone des Nagash angezogen, kommt der Vampir Ushoran nach Mourkain, beobachtet die Stadt lange und tötet dann Kadon, um seinen Platz einzunehmen. Er gibt sich als weiser Kriegerkönig und zwingt den Barbarenstämmen die Sitten Lahmias auf. Binnen Jahrzehnten wird das Königreich Strygos zum dunklen Abbild Nehekharas, beherrscht von einer Vampiraristokratie."
+    },
+    "ere": "age-des-tribus",
+    "regions": [
+      "terres-arides"
+    ],
+    "lieux": [
+      "mourkain"
+    ],
+    "factions": [
+      "vampires"
+    ],
+    "importance": 2,
+    "fiabilite": "divergent",
+    "note": {
+      "fr": "Lexicanum donne -1120 CI sur la page Strygos et -1020 CI sur les pages Ushoran et Vampire. Une autre tradition, reprise dans l'événement de la Waaagh! des Terres arides, fait mourir Kadon sous les coups d'Orques sauvages vers -1020 CI. Ushoran est l'ancêtre de la lignée des Strigoï.",
+      "en": "Lexicanum gives -1120 IC on the Strygos page and -1020 IC on the Ushoran and Vampire pages. Another tradition, used in the Badlands Waaagh! event, has Kadon killed by Savage Orcs around -1020 IC. Ushoran is the ancestor of the Strigoi bloodline.",
+      "de": "Lexicanum nennt -1120 IK auf der Seite Strygos und -1020 IK auf den Seiten Ushoran und Vampire. Eine andere Überlieferung, die das Ereignis zur Waaagh! in den Ödlanden aufgreift, lässt Kadon um -1020 IK durch Wilde Orks sterben. Ushoran ist der Ahnherr der Blutlinie der Strigoi."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Neferata, roman de Josh Reynolds (2013)",
+          "en": "Neferata, novel by Josh Reynolds (2013)",
+          "de": "Neferata, Roman von Josh Reynolds (2013)"
+        },
+        "detail": "",
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Strygos",
+          "en": "Lexicanum, Strygos page",
+          "de": "Lexicanum, Seite Strygos"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Strygos"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Ushoran",
+          "en": "Lexicanum, Ushoran page",
+          "de": "Lexicanum, Seite Ushoran"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Ushoran"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Vampire",
+          "en": "Lexicanum, Vampire page",
+          "de": "Lexicanum, Seite Vampire"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Vampire"
+      }
+    ]
+  },
+  {
+    "id": "neferata-et-razek",
+    "annee": -800,
+    "fin": -450,
+    "approx": true,
+    "titre": {
+      "fr": "Neferata, Strygos et les Nains du Pic d'argent",
+      "en": "Neferata, Strygos and the Dwarfs of the Silver Pinnacle",
+      "de": "Neferata, Strygos und die Zwerge der Silberzinne"
+    },
+    "resume": {
+      "fr": "Neferata sauve des hommes-bêtes le prince nain Razek Pied-d'argent, envoyé négocier avec Mourkain, et devient l'intermédiaire entre les Nains et Ushoran. Pendant des siècles, elle tisse des alliances avec les tribus voisines tout en manipulant les menaces qui pèsent sur Strygos. Vers -450 CI, Nains, vampires et tribus écrasent ensemble la Waaagh! du chaman orque Wazzakaz.",
+      "en": "Neferata saves the Dwarf prince Razek Silverfoot, sent to negotiate with Mourkain, from beastmen and becomes the go-between for the Dwarfs and Ushoran. For centuries she forges alliances with the neighbouring tribes while manipulating the threats facing Strygos. Around -450 IC, Dwarfs, vampires and tribes together crush the Waaagh! of the Orc shaman Wazzakaz.",
+      "de": "Neferata rettet den Zwergenprinzen Razek Silberfuß, der mit Mourkain verhandeln soll, vor Tiermenschen und wird zur Mittlerin zwischen den Zwergen und Ushoran. Jahrhundertelang schmiedet sie Bündnisse mit den Nachbarstämmen und lenkt zugleich die Gefahren, die Strygos bedrohen. Um -450 IK zerschlagen Zwerge, Vampire und Stämme gemeinsam die Waaagh! des Orkschamanen Wazzakaz."
+    },
+    "ere": "age-des-tribus",
+    "regions": [
+      "terres-arides",
+      "montagnes"
+    ],
+    "lieux": [
+      "mourkain",
+      "pic-d-argent"
+    ],
+    "factions": [
+      "vampires",
+      "nains",
+      "peaux-vertes"
+    ],
+    "importance": 2,
+    "fiabilite": "incertain",
+    "note": {
+      "fr": "Date tirée d'un roman de la Black Library, reprise par Lexicanum. Aucun livre d'armée ne la confirme.",
+      "en": "Date taken from a Black Library novel and reported by Lexicanum. No army book confirms it.",
+      "de": "Datum aus einem Roman der Black Library, von Lexicanum übernommen. Kein Armeebuch bestätigt es."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Neferata, roman de Josh Reynolds (2013)",
+          "en": "Neferata, novel by Josh Reynolds (2013)",
+          "de": "Neferata, Roman von Josh Reynolds (2013)"
+        },
+        "detail": "",
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Silver Pinnacle",
+          "en": "Lexicanum, Silver Pinnacle page",
+          "de": "Lexicanum, Seite Silver Pinnacle"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Silver_Pinnacle"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Strygos",
+          "en": "Lexicanum, Strygos page",
+          "de": "Lexicanum, Seite Strygos"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Strygos"
+      }
+    ]
+  },
+  {
+    "id": "revolte-de-numas-et-zandri",
+    "annee": -645,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Révolte des rois de Numas et de Zandri",
+      "en": "Revolt of the kings of Numas and Zandri",
+      "de": "Aufstand der Könige von Numas und Zandri"
+    },
+    "resume": {
+      "fr": "Le roi Rapesh de Numas et le roi Qu'a de Zandri s'allient pour renverser Settra. Une tentative d'assassinat échoue grâce à Nekaph, le héraut du roi des rois. La bataille qui suit dure sept jours et sept nuits, et Settra détruit les deux rebelles.",
+      "en": "King Rapesh of Numas and King Qu'a of Zandri ally to overthrow Settra. An assassination attempt fails thanks to Nekaph, herald of the King of Kings. The battle that follows rages for seven days and nights, and Settra destroys both rebels.",
+      "de": "König Rapesh von Numas und König Qu'a von Zandri verbünden sich, um Settra zu stürzen. Ein Attentat scheitert dank Nekaph, dem Herold des Königs der Könige. Die folgende Schlacht tobt sieben Tage und Nächte, und Settra vernichtet beide Rebellen."
+    },
+    "ere": "age-des-tribus",
+    "regions": [
+      "sud"
+    ],
+    "lieux": [
+      "numas",
+      "zandri"
+    ],
+    "factions": [
+      "rois-des-tombes"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Tomb Kings (8e édition, 2011)",
+          "en": "Warhammer Armies: Tomb Kings (8th edition, 2011)",
+          "de": "Warhammer Armies: Tomb Kings (8. Edition, 2011)"
+        },
+        "detail": {
+          "fr": "p. 20-21",
+          "en": "pp. 20-21",
+          "de": "S. 20-21"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page History of Nehekhara",
+          "en": "Lexicanum, History of Nehekhara page",
+          "de": "Lexicanum, Seite History of Nehekhara"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/History_of_Nehekhara"
+      }
+    ]
+  },
+  {
+    "id": "ogres-attaquent-quatar",
+    "annee": -642,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Les ogres de la Gueule noire attaquent Quatar",
+      "en": "Black Maw Ogres attack Quatar",
+      "de": "Oger des Schwarzen Schlunds greifen Quatar an"
+    },
+    "resume": {
+      "fr": "Une tribu d'ogres, la Gueule noire, descend sur Quatar et assiège la cité gardienne de la Vallée des rois. Les assaillants sont finalement massacrés par une armée de statues animées sorties de la Vallée des charniers. L'épisode illustre la puissance des constructions animées par les prêtres liches.",
+      "en": "An Ogre tribe, the Black Maw, descends on Quatar and besieges the city that guards the Valley of Kings. The attackers are finally slaughtered by an army of animated statues from the Charnel Valley. The episode shows the power of the constructs awakened by the Liche Priests.",
+      "de": "Ein Ogerstamm, der Schwarze Schlund, fällt über Quatar her und belagert die Stadt, die das Tal der Könige bewacht. Die Angreifer werden schließlich von einem Heer belebter Statuen aus dem Tal der Gebeine niedergemacht. Die Episode zeigt die Macht der von den Leichenpriestern erweckten Konstrukte."
+    },
+    "ere": "age-des-tribus",
+    "regions": [
+      "sud"
+    ],
+    "lieux": [
+      "quatar"
+    ],
+    "factions": [
+      "rois-des-tombes",
+      "ogres"
+    ],
+    "importance": 1,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Tomb Kings (8e édition, 2011)",
+          "en": "Warhammer Armies: Tomb Kings (8th edition, 2011)",
+          "de": "Warhammer Armies: Tomb Kings (8. Edition, 2011)"
+        },
+        "detail": {
+          "fr": "p. 20-21",
+          "en": "pp. 20-21",
+          "de": "S. 20-21"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page History of Nehekhara",
+          "en": "Lexicanum, History of Nehekhara page",
+          "de": "Lexicanum, Seite History of Nehekhara"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/History_of_Nehekhara"
+      }
+    ]
+  },
+  {
+    "id": "vorag-pic-dolent",
+    "annee": -600,
+    "fin": null,
+    "approx": true,
+    "titre": {
+      "fr": "Vorag Dent-sanglante, seigneur du Pic Dolent",
+      "en": "Vorag Bloodytooth, lord of Cripple Peak",
+      "de": "Vorag Blutzahn, Herr von Cripple Peak"
+    },
+    "resume": {
+      "fr": "Exilé de Strygos, le vampire Vorag Dent-sanglante s'installe au Pic Dolent, dans les ruines de Nagashizzar. Il bâtit une forteresse à l'est de la Plaine des ossements et rêve d'un empire à lui. Il meurt en voulant prendre un village des gobelins de la tribu de la Vieille grise, et son royaume naissant s'effondre.",
+      "en": "Exiled from Strygos, the vampire Vorag Bloodytooth settles at Cripple Peak, in the ruins of Nagashizzar. He builds a fortress east of the Plain of Bones and dreams of an empire of his own. He dies trying to take a settlement of the Grey Hag goblin tribe, and his young realm collapses.",
+      "de": "Aus Strygos verbannt, lässt sich der Vampir Vorag Blutzahn in Cripple Peak in den Ruinen von Nagashizzar nieder. Er errichtet eine Festung östlich der Knochenebene und träumt von einem eigenen Reich. Er fällt beim Versuch, eine Siedlung des Goblinstamms der Grauen Vettel zu erobern, und sein junges Reich zerfällt."
+    },
+    "ere": "age-des-tribus",
+    "regions": [
+      "terres-arides"
+    ],
+    "lieux": [
+      "nagashizzar"
+    ],
+    "factions": [
+      "vampires",
+      "peaux-vertes"
+    ],
+    "importance": 1,
+    "fiabilite": "incertain",
+    "note": {
+      "fr": "Date tirée d'un roman de la Black Library, reprise par Lexicanum. Aucun livre d'armée ne la confirme.",
+      "en": "Date taken from a Black Library novel and reported by Lexicanum. No army book confirms it.",
+      "de": "Datum aus einem Roman der Black Library, von Lexicanum übernommen. Kein Armeebuch bestätigt es."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Lexicanum, page Vampire",
+          "en": "Lexicanum, Vampire page",
+          "de": "Lexicanum, Seite Vampire"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Vampire"
+      }
+    ]
+  },
+  {
+    "id": "siege-de-mourkain",
+    "annee": -600,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Les Orques assiègent Mourkain",
+      "en": "The Orcs besiege Mourkain",
+      "de": "Die Orks belagern Mourkain"
+    },
+    "resume": {
+      "fr": "Une grande horde orque assiège Mourkain, capitale de Strygos. Ushoran rappelle Abhorash, qui combat les ogres sur la frontière orientale, et revêt lui-même son armure. Abhorash conçoit le plan qui brise l'assaut et tue seul un géant, sans savoir que Neferata attise en secret la menace peau-verte.",
+      "en": "A great Orc horde besieges Mourkain, capital of Strygos. Ushoran recalls Abhorash, who is fighting Ogres on the eastern frontier, and dons his own armour. Abhorash devises the plan that breaks the assault and kills a giant single-handed, unaware that Neferata is secretly stoking the greenskin threat.",
+      "de": "Eine große Orkhorde belagert Mourkain, die Hauptstadt von Strygos. Ushoran ruft Abhorash zurück, der an der Ostgrenze gegen Oger kämpft, und legt selbst seine Rüstung an. Abhorash ersinnt den Plan, der den Angriff bricht, und tötet allein einen Riesen, ohne zu ahnen, dass Neferata die Bedrohung durch die Grünhäute insgeheim schürt."
+    },
+    "ere": "age-des-tribus",
+    "regions": [
+      "terres-arides"
+    ],
+    "lieux": [
+      "mourkain"
+    ],
+    "factions": [
+      "vampires",
+      "peaux-vertes"
+    ],
+    "importance": 1,
+    "fiabilite": "incertain",
+    "note": {
+      "fr": "Date donnée par Lexicanum, d'après un roman de la Black Library. Aucun livre d'armée ne la confirme.",
+      "en": "Date given by Lexicanum, based on a Black Library novel. No army book confirms it.",
+      "de": "Datum laut Lexicanum nach einem Roman der Black Library. Kein Armeebuch bestätigt es."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Neferata, roman de Josh Reynolds (2013)",
+          "en": "Neferata, novel by Josh Reynolds (2013)",
+          "de": "Neferata, Roman von Josh Reynolds (2013)"
+        },
+        "detail": "",
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Strygos",
+          "en": "Lexicanum, Strygos page",
+          "de": "Lexicanum, Seite Strygos"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Strygos"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Abhorash",
+          "en": "Lexicanum, Abhorash page",
+          "de": "Lexicanum, Seite Abhorash"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Abhorash"
+      }
+    ]
+  },
+  {
+    "id": "morath-et-neferata-a-nagashizzar",
+    "annee": -328,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Morath et Neferata à Nagashizzar",
+      "en": "Morath and Neferata at Nagashizzar",
+      "de": "Morath und Neferata in Nagashizzar"
+    },
+    "resume": {
+      "fr": "Le nécromancien Morath et Neferata mènent une expédition jusqu'à Nagashizzar pour en rapporter un Livre de Nagash. Ils doivent d'abord traverser les territoires des tribus goules, puis combattre les Skavens qui occupent la forteresse. C'est ce même Morath qui emportera plus tard la Couronne de Nagash vers le nord.",
+      "en": "The necromancer Morath and Neferata lead an expedition to Nagashizzar to bring back a Book of Nagash. They must first cross the lands of the ghoul tribes, then fight the Skaven who hold the fortress. This same Morath will later carry the Crown of Nagash north.",
+      "de": "Der Nekromant Morath und Neferata führen eine Expedition nach Nagashizzar, um ein Buch des Nagash zu bergen. Zuerst müssen sie die Gebiete der Ghulstämme durchqueren, dann die Skaven bekämpfen, die die Festung halten. Derselbe Morath bringt später die Krone des Nagash nach Norden."
+    },
+    "ere": "age-des-tribus",
+    "regions": [
+      "terres-arides"
+    ],
+    "lieux": [
+      "nagashizzar"
+    ],
+    "factions": [
+      "vampires",
+      "skavens"
+    ],
+    "importance": 1,
+    "fiabilite": "incertain",
+    "note": {
+      "fr": "Date donnée par Lexicanum, d'après un roman de la Black Library. Aucun livre d'armée ne la confirme.",
+      "en": "Date given by Lexicanum, based on a Black Library novel. No army book confirms it.",
+      "de": "Datum laut Lexicanum nach einem Roman der Black Library. Kein Armeebuch bestätigt es."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Lexicanum, page Nagashizzar",
+          "en": "Lexicanum, Nagashizzar page",
+          "de": "Lexicanum, Seite Nagashizzar"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Nagashizzar"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Nagash",
+          "en": "Lexicanum, Nagash page",
+          "de": "Lexicanum, Seite Nagash"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Nagash"
+      }
+    ]
+  },
+  {
+    "id": "neferata-prend-le-pic-d-argent",
+    "annee": -326,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Neferata prend le Pic d'argent",
+      "en": "Neferata takes the Silver Pinnacle",
+      "de": "Neferata nimmt die Silberzinne"
+    },
+    "resume": {
+      "fr": "Sous l'emprise croissante de la Couronne de Nagash, Ushoran fait tuer Razek et ordonne à Neferata de s'emparer de la forteresse naine du Pic d'argent. Après une guerre d'infiltration menée par ses servantes, la place tombe aux mains des morts-vivants de Mourkain. Neferata en fait ensuite le siège de sa propre cour, d'où les Lahmiennes étendent leurs intrigues sur les royaumes humains.",
+      "en": "Under the growing sway of the Crown of Nagash, Ushoran has Razek killed and orders Neferata to seize the Dwarf hold of the Silver Pinnacle. After a war of infiltration waged by her handmaidens, the hold falls to the undead of Mourkain. Neferata then makes it the seat of her own court, from which the Lahmians spread their intrigues across the human kingdoms.",
+      "de": "Unter dem wachsenden Einfluss der Krone des Nagash lässt Ushoran Razek töten und befiehlt Neferata, die Zwergenfestung Silberzinne zu erobern. Nach einem von ihren Dienerinnen geführten Unterwanderungskrieg fällt die Festung an die Untoten von Mourkain. Neferata macht sie später zum Sitz ihres eigenen Hofes, von dem aus die Lahmianer ihre Intrigen über die Menschenreiche spinnen."
+    },
+    "ere": "age-des-tribus",
+    "regions": [
+      "montagnes"
+    ],
+    "lieux": [
+      "pic-d-argent"
+    ],
+    "factions": [
+      "vampires",
+      "nains"
+    ],
+    "importance": 3,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "Date de -326 CI donnée par Lexicanum, d'après le roman Neferata. Le Pic d'argent comme repaire de Neferata est confirmé par les livres d'armée des Comtes vampires.",
+      "en": "The date of -326 IC is given by Lexicanum, based on the novel Neferata. The Silver Pinnacle as Neferata's lair is confirmed by the Vampire Counts army books.",
+      "de": "Das Datum -326 IK nennt Lexicanum nach dem Roman Neferata. Die Silberzinne als Neferatas Sitz bestätigen die Armeebücher der Vampirfürsten."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Vampire Counts (8e édition, 2013)",
+          "en": "Warhammer Armies: Vampire Counts (8th edition, 2013)",
+          "de": "Warhammer Armies: Vampire Counts (8. Edition, 2013)"
+        },
+        "detail": "",
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Neferata, roman de Josh Reynolds (2013)",
+          "en": "Neferata, novel by Josh Reynolds (2013)",
+          "de": "Neferata, Roman von Josh Reynolds (2013)"
+        },
+        "detail": "",
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Silver Pinnacle",
+          "en": "Lexicanum, Silver Pinnacle page",
+          "de": "Lexicanum, Seite Silver Pinnacle"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Silver_Pinnacle"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Vampire",
+          "en": "Lexicanum, Vampire page",
+          "de": "Lexicanum, Seite Vampire"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Vampire"
+      }
+    ]
+  },
+  {
+    "id": "abdul-ben-raschid",
+    "annee": -300,
+    "fin": null,
+    "approx": true,
+    "titre": {
+      "fr": "Abdul ben Raschid et le Livre des morts",
+      "en": "Abdul ben Raschid and the Book of the Dead",
+      "de": "Abdul ben Raschid und das Buch der Toten"
+    },
+    "resume": {
+      "fr": "Le prince arabien Abdul ben Raschid part de Ka-Sabar pour explorer la Nehekhara morte. Son voyage de huit ans le rend fou, et il en tire le Livre des morts, l'un des traités de nécromancie les plus célèbres. Neferata le met en pièces en plein jour à Copher quand il refuse de lui livrer son savoir.",
+      "en": "The Arabyan prince Abdul ben Raschid sets out from Ka-Sabar to explore dead Nehekhara. His eight-year journey drives him mad, and from it he writes the Book of the Dead, one of the most famous treatises on necromancy. Neferata tears him apart in broad daylight in Copher when he refuses to hand over his knowledge.",
+      "de": "Der arabische Prinz Abdul ben Raschid bricht von Ka-Sabar auf, um das tote Nehekhara zu erkunden. Seine achtjährige Reise treibt ihn in den Wahnsinn, und er verfasst daraus das Buch der Toten, eine der berühmtesten Abhandlungen der Nekromantie. Als er Neferata sein Wissen verweigert, zerreißt sie ihn am helllichten Tag in Copher."
+    },
+    "ere": "age-des-tribus",
+    "regions": [
+      "sud"
+    ],
+    "lieux": [
+      "ka-sabar",
+      "copher"
+    ],
+    "factions": [
+      "humains-autres",
+      "vampires"
+    ],
+    "importance": 2,
+    "fiabilite": "divergent",
+    "note": {
+      "fr": "Le Livre des morts est un objet de jeu ancien de Warhammer. Lexicanum place la mort d'Abdul vers -320 CI, la chronologie arabienne du wiki fandom vers -300 CI.",
+      "en": "The Book of the Dead is an old Warhammer game item. Lexicanum places Abdul's death around -320 IC, the Arabyan timeline on the fandom wiki around -300 IC.",
+      "de": "Das Buch der Toten ist ein alter Spielgegenstand von Warhammer. Lexicanum setzt Abduls Tod um -320 IK an, die arabische Zeitleiste des Fandom-Wikis um -300 IK."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Lexicanum, page Copher",
+          "en": "Lexicanum, Copher page",
+          "de": "Lexicanum, Seite Copher"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Copher"
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Arabyan Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Arabyan Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Arabyan Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Arabyan_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "behedesh-nettoie-les-terres-arides",
+    "annee": -241,
+    "fin": -236,
+    "approx": false,
+    "titre": {
+      "fr": "Les sept mille chars de Behedesh",
+      "en": "The seven thousand chariots of Behedesh",
+      "de": "Die siebentausend Streitwagen des Behedesh"
+    },
+    "resume": {
+      "fr": "Le roi des tombes Behedesh lance sept mille chars dans les Terres arides pour en chasser les Peaux-vertes. La campagne dure plusieurs années. Elle montre que les Rois des tombes ne se contentent pas de défendre leurs nécropoles.",
+      "en": "The Tomb King Behedesh sends seven thousand chariots into the Badlands to drive out the greenskins. The campaign lasts several years. It shows that the Tomb Kings do more than defend their necropolises.",
+      "de": "Der Gruftkönig Behedesh schickt siebentausend Streitwagen in die Ödlande, um die Grünhäute zu vertreiben. Der Feldzug dauert mehrere Jahre. Er zeigt, dass die Gruftkönige nicht nur ihre Nekropolen verteidigen."
+    },
+    "ere": "age-des-tribus",
+    "regions": [
+      "terres-arides",
+      "sud"
+    ],
+    "lieux": [],
+    "factions": [
+      "rois-des-tombes",
+      "peaux-vertes"
+    ],
+    "importance": 1,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Tomb Kings (8e édition, 2011)",
+          "en": "Warhammer Armies: Tomb Kings (8th edition, 2011)",
+          "de": "Warhammer Armies: Tomb Kings (8. Edition, 2011)"
+        },
+        "detail": {
+          "fr": "p. 20-21",
+          "en": "pp. 20-21",
+          "de": "S. 20-21"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page History of Nehekhara",
+          "en": "Lexicanum, History of Nehekhara page",
+          "de": "Lexicanum, Seite History of Nehekhara"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/History_of_Nehekhara"
+      }
+    ]
+  },
+  {
+    "id": "melkhior-tue-w-soran",
+    "annee": -223,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Melkhior détruit W'soran",
+      "en": "Melkhior destroys W'soran",
+      "de": "Melkhior vernichtet W'soran"
+    },
+    "resume": {
+      "fr": "Le Nécrarque Melkhior, disciple de W'soran, se retourne contre son maître et le détruit. Il s'empare du Livre de Nagash que W'soran avait emporté de Nagashizzar. Melkhior devient l'un des plus anciens et des plus redoutés Nécrarques du Vieux Monde.",
+      "en": "The Necrarch Melkhior, a disciple of W'soran, turns on his master and destroys him. He seizes the Book of Nagash that W'soran had taken from Nagashizzar. Melkhior becomes one of the oldest and most feared Necrarchs in the Old World.",
+      "de": "Der Necrarch Melkhior, ein Schüler W'sorans, wendet sich gegen seinen Meister und vernichtet ihn. Er nimmt das Buch des Nagash an sich, das W'soran aus Nagashizzar mitgenommen hatte. Melkhior wird einer der ältesten und gefürchtetsten Necrarchen der Alten Welt."
+    },
+    "ere": "age-des-tribus",
+    "regions": [],
+    "lieux": [],
+    "factions": [
+      "vampires"
+    ],
+    "importance": 2,
+    "fiabilite": "incertain",
+    "note": {
+      "fr": "Date donnée par Lexicanum sans livre d'armée identifié. Le lieu du meurtre n'est pas précisé.",
+      "en": "Date given by Lexicanum with no army book identified. The place of the killing is not stated.",
+      "de": "Datum laut Lexicanum, ohne bekanntes Armeebuch. Der Ort der Tat wird nicht genannt."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Lexicanum, page Vampire",
+          "en": "Lexicanum, Vampire page",
+          "de": "Lexicanum, Seite Vampire"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Vampire"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Melkhior",
+          "en": "Lexicanum, Melkhior page",
+          "de": "Lexicanum, Seite Melkhior"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Melkhior"
+      }
+    ]
+  },
+  {
+    "id": "chute-de-strygos",
+    "annee": -200,
+    "fin": null,
+    "approx": true,
+    "titre": {
+      "fr": "Chute de Strygos et naissance des Strigoï",
+      "en": "Fall of Strygos and birth of the Strigoi",
+      "de": "Untergang von Strygos und Entstehung der Strigoi"
+    },
+    "resume": {
+      "fr": "Affaibli par les intrigues de Neferata, qui voulait garder les vampires dans l'ombre, le royaume de Strygos succombe à une immense Waaagh! menée par Garsnag Craktoof et le chaman Œil-rouge. Mourkain tombe et Ushoran disparaît. Les survivants fuient dans les terres sauvages, où ils dégénèrent en Strigoï, ancêtres des Rois goules.",
+      "en": "Weakened by the schemes of Neferata, who wanted vampires to stay hidden, the kingdom of Strygos falls to a huge Waaagh! led by Garsnag Craktoof and the shaman Red Eye. Mourkain falls and Ushoran vanishes. The survivors flee into the wilds, where they degenerate into the Strigoi, forebears of the Ghoul Kings.",
+      "de": "Geschwächt durch Neferatas Intrigen, die die Vampire im Verborgenen halten wollte, erliegt das Königreich Strygos einer gewaltigen Waaagh! unter Garsnag Craktoof und dem Schamanen Rotauge. Mourkain fällt und Ushoran verschwindet. Die Überlebenden fliehen in die Wildnis, wo sie zu Strigoi verkommen, den Vorfahren der Ghulkönige."
+    },
+    "ere": "age-des-tribus",
+    "regions": [
+      "terres-arides"
+    ],
+    "lieux": [
+      "mourkain"
+    ],
+    "factions": [
+      "vampires",
+      "peaux-vertes"
+    ],
+    "importance": 3,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "Date approximative (vers -200 CI) donnée par Lexicanum. La chute de Strygos sous les Orques et l'origine des Strigoï figurent dans le livre Vampire Counts (8e édition).",
+      "en": "Approximate date (around -200 IC) given by Lexicanum. The fall of Strygos to the Orcs and the origin of the Strigoi appear in the Vampire Counts book (8th edition).",
+      "de": "Ungefähres Datum (um -200 IK) laut Lexicanum. Der Fall von Strygos an die Orks und der Ursprung der Strigoi stehen im Armeebuch Vampirfürsten (8. Edition)."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Vampire Counts (8e édition, 2013)",
+          "en": "Warhammer Armies: Vampire Counts (8th edition, 2013)",
+          "de": "Warhammer Armies: Vampire Counts (8. Edition, 2013)"
+        },
+        "detail": "",
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Vampire",
+          "en": "Lexicanum, Vampire page",
+          "de": "Lexicanum, Seite Vampire"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Vampire"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Strygos",
+          "en": "Lexicanum, Strygos page",
+          "de": "Lexicanum, Seite Strygos"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Strygos"
+      }
+    ]
+  },
+  {
+    "id": "valgar-abat-settra",
+    "annee": -150,
+    "fin": null,
+    "approx": true,
+    "titre": {
+      "fr": "Valgar le Boucher abat Settra",
+      "en": "Valgar the Butcher strikes down Settra",
+      "de": "Valgar der Schlächter fällt Settra"
+    },
+    "resume": {
+      "fr": "Une horde de Norses menée par le champion du Chaos Valgar le Boucher envahit Nehekhara. Valgar abat Settra au combat, mais le corps du roi se change en nuée de scarabées qui dévore son vainqueur. Seule une douzaine de pillards s'échappe, emportant la couronne de Settra vers Norsca.",
+      "en": "A Norse horde led by the Chaos champion Valgar the Butcher invades Nehekhara. Valgar strikes Settra down in battle, but the king's body bursts into a swarm of beetles that devours his slayer. Only a dozen raiders escape, carrying Settra's crown back to Norsca.",
+      "de": "Eine Horde von Nordmännern unter dem Chaoschampion Valgar dem Schlächter fällt in Nehekhara ein. Valgar streckt Settra im Kampf nieder, doch der Leib des Königs zerfällt zu einem Käferschwarm, der seinen Bezwinger verschlingt. Nur ein Dutzend Plünderer entkommt und bringt Settras Krone nach Norsca."
+    },
+    "ere": "age-des-tribus",
+    "regions": [
+      "sud",
+      "norsca"
+    ],
+    "lieux": [
+      "khemri"
+    ],
+    "factions": [
+      "rois-des-tombes",
+      "chaos"
+    ],
+    "importance": 2,
+    "fiabilite": "divergent",
+    "note": {
+      "fr": "Lexicanum date l'invasion vers -150 CI sur la page History of Nehekhara et vers -151 CI sur la page Settra. La page d'histoire dit que Valgar s'échappe, celle de Settra qu'il est dévoré et que c'est Khagul Poing-sanglant qui emporte la couronne.",
+      "en": "Lexicanum dates the invasion around -150 IC on the History of Nehekhara page and around -151 IC on the Settra page. The history page says Valgar escapes, the Settra page that he is devoured and that Khagul Bloodfist carries off the crown.",
+      "de": "Lexicanum datiert den Einfall auf der Seite History of Nehekhara um -150 IK und auf der Seite Settra um -151 IK. Die Geschichtsseite lässt Valgar entkommen, die Settra-Seite lässt ihn verschlingen und Khagul Blutfaust die Krone fortbringen."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Tomb Kings (8e édition, 2011)",
+          "en": "Warhammer Armies: Tomb Kings (8th edition, 2011)",
+          "de": "Warhammer Armies: Tomb Kings (8. Edition, 2011)"
+        },
+        "detail": {
+          "fr": "p. 20-21",
+          "en": "pp. 20-21",
+          "de": "S. 20-21"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page History of Nehekhara",
+          "en": "Lexicanum, History of Nehekhara page",
+          "de": "Lexicanum, Seite History of Nehekhara"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/History_of_Nehekhara"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Settra",
+          "en": "Lexicanum, Settra page",
+          "de": "Lexicanum, Seite Settra"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Settra"
+      }
+    ]
+  },
+  {
+    "id": "nagash-reprend-nagashizzar",
+    "annee": 100,
+    "fin": null,
+    "approx": true,
+    "titre": {
+      "fr": "Nagash reprend Nagashizzar",
+      "en": "Nagash retakes Nagashizzar",
+      "de": "Nagash erobert Nagashizzar zurück"
+    },
+    "resume": {
+      "fr": "Après des siècles d'absence, Nagash revient au Pic Dolent, où le clan skaven Rikek exploite ses mines de malepierre. En une seule nuit, il massacre tout le clan. Les Skavens tentent ensuite à plusieurs reprises de reprendre la montagne, en vain face à Arkhan revenu servir son maître.",
+      "en": "After centuries of absence, Nagash returns to Cripple Peak, where Skaven Clan Rikek works its warpstone mines. In a single night he slaughters the whole clan. The Skaven make several later attempts to retake the mountain, all in vain against Arkhan, who has returned to serve his master.",
+      "de": "Nach Jahrhunderten der Abwesenheit kehrt Nagash nach Cripple Peak zurück, wo der Skavenklan Rikek die Warpsteinminen ausbeutet. In einer einzigen Nacht metzelt er den ganzen Klan nieder. Spätere Versuche der Skaven, den Berg zurückzuerobern, scheitern an Arkhan, der wieder seinem Meister dient."
+    },
+    "ere": "empire-sigmarite",
+    "regions": [
+      "terres-arides"
+    ],
+    "lieux": [
+      "nagashizzar"
+    ],
+    "factions": [
+      "rois-des-tombes",
+      "skavens"
+    ],
+    "importance": 2,
+    "fiabilite": "divergent",
+    "note": {
+      "fr": "Lexicanum (page Nagashizzar) place ce retour vers 100 CI, alors que la même source fait revenir Nagash dès 15 CI pour combattre Sigmar. L'ordre exact des deux épisodes reste flou.",
+      "en": "Lexicanum (Nagashizzar page) places this return around 100 IC, while the same source has Nagash back as early as 15 IC to fight Sigmar. The exact order of the two episodes is unclear.",
+      "de": "Lexicanum (Seite Nagashizzar) setzt diese Rückkehr um 100 IK an, während dieselbe Quelle Nagash schon 15 IK gegen Sigmar kämpfen lässt. Die genaue Reihenfolge beider Episoden bleibt unklar."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Lexicanum, page Nagashizzar",
+          "en": "Lexicanum, Nagashizzar page",
+          "de": "Lexicanum, Seite Nagashizzar"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Nagashizzar"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Nagash",
+          "en": "Lexicanum, Nagash page",
+          "de": "Lexicanum, Seite Nagash"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Nagash"
+      }
+    ]
+  },
+  {
+    "id": "flottes-de-settra",
+    "annee": 101,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Settra reconstruit ses flottes de guerre",
+      "en": "Settra rebuilds his war fleets",
+      "de": "Settra baut seine Kriegsflotten wieder auf"
+    },
+    "resume": {
+      "fr": "Settra ordonne la reconstruction des flottes de Nehekhara. Ses navires de guerre pillent les côtes de Bretonnie et ramènent des prisonniers à Khemri. Le Vieux Monde découvre que les morts du sud peuvent frapper par la mer.",
+      "en": "Settra orders the fleets of Nehekhara rebuilt. His warships raid the coasts of Bretonnia and bring prisoners back to Khemri. The Old World learns that the dead of the south can strike by sea.",
+      "de": "Settra lässt die Flotten Nehekharas wieder aufbauen. Seine Kriegsschiffe plündern die Küsten Bretonias und bringen Gefangene nach Khemri. Die Alte Welt erfährt, dass die Toten des Südens auch über das Meer zuschlagen können."
+    },
+    "ere": "empire-sigmarite",
+    "regions": [
+      "sud",
+      "bretonnie"
+    ],
+    "lieux": [
+      "khemri"
+    ],
+    "factions": [
+      "rois-des-tombes",
+      "bretonnie"
+    ],
+    "importance": 1,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Tomb Kings (8e édition, 2011)",
+          "en": "Warhammer Armies: Tomb Kings (8th edition, 2011)",
+          "de": "Warhammer Armies: Tomb Kings (8. Edition, 2011)"
+        },
+        "detail": {
+          "fr": "p. 20-21",
+          "en": "pp. 20-21",
+          "de": "S. 20-21"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Settra",
+          "en": "Lexicanum, Settra page",
+          "de": "Lexicanum, Seite Settra"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Settra"
+      }
+    ]
+  },
+  {
+    "id": "arkhan-tour-noire",
+    "annee": 111,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Arkhan reprend la Tour noire",
+      "en": "Arkhan reclaims the Black Tower",
+      "de": "Arkhan nimmt den Schwarzen Turm zurück"
+    },
+    "resume": {
+      "fr": "Arkhan le Noir revient en Nehekhara et s'installe de nouveau dans sa forteresse de la Tour noire. Ses raids incessants forcent Settra à le combattre à maintes reprises, sans jamais l'emporter face à sa magie. Arkhan finit par jurer fidélité au roi des rois, puis le trahit quelques années plus tard, un manège qui se répète pendant des siècles.",
+      "en": "Arkhan the Black returns to Nehekhara and takes up residence again in his fortress, the Black Tower. His constant raids force Settra to fight him time and again, never able to overcome his magic. Arkhan eventually swears fealty to the King of Kings, then betrays him a few years later, a pattern repeated for centuries.",
+      "de": "Arkhan der Schwarze kehrt nach Nehekhara zurück und bezieht erneut seine Festung, den Schwarzen Turm. Seine ständigen Raubzüge zwingen Settra immer wieder zum Kampf, ohne dass er Arkhans Magie je überwinden kann. Arkhan schwört dem König der Könige schließlich Treue und verrät ihn wenige Jahre später, ein Spiel, das sich über Jahrhunderte wiederholt."
+    },
+    "ere": "empire-sigmarite",
+    "regions": [
+      "sud"
+    ],
+    "lieux": [
+      "tour-noire-d-arkhan"
+    ],
+    "factions": [
+      "rois-des-tombes"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Tomb Kings (8e édition, 2011)",
+          "en": "Warhammer Armies: Tomb Kings (8th edition, 2011)",
+          "de": "Warhammer Armies: Tomb Kings (8. Edition, 2011)"
+        },
+        "detail": {
+          "fr": "p. 20-21",
+          "en": "pp. 20-21",
+          "de": "S. 20-21"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Arkhan",
+          "en": "Lexicanum, Arkhan page",
+          "de": "Lexicanum, Seite Arkhan"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Arkhan"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page History of Nehekhara",
+          "en": "Lexicanum, History of Nehekhara page",
+          "de": "Lexicanum, Seite History of Nehekhara"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/History_of_Nehekhara"
+      }
+    ]
+  },
+  {
+    "id": "setep-envahit-les-royaumes-frontaliers",
+    "annee": 120,
+    "fin": 170,
+    "approx": false,
+    "titre": {
+      "fr": "Le roi Setep envahit les Royaumes frontaliers",
+      "en": "King Setep invades the Border Princes",
+      "de": "König Setep fällt in die Grenzgrafschaften ein"
+    },
+    "resume": {
+      "fr": "Le roi des tombes Setep mène ses légions au nord-ouest et s'empare d'une grande partie de ce qui deviendra les Royaumes frontaliers. La campagne dure une cinquantaine d'années. Elle annonce les nombreuses incursions des Rois des tombes dans ces terres disputées.",
+      "en": "The Tomb King Setep leads his legions north-west and seizes much of what will become the Border Princes. The campaign lasts some fifty years. It foreshadows the many incursions of the Tomb Kings into these contested lands.",
+      "de": "Der Gruftkönig Setep führt seine Legionen nach Nordwesten und erobert einen großen Teil der späteren Grenzgrafschaften. Der Feldzug dauert etwa fünfzig Jahre. Er kündigt die vielen Vorstöße der Gruftkönige in diese umkämpften Lande an."
+    },
+    "ere": "empire-sigmarite",
+    "regions": [
+      "royaumes-frontaliers"
+    ],
+    "lieux": [],
+    "factions": [
+      "rois-des-tombes",
+      "humains-autres"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Tomb Kings (8e édition, 2011)",
+          "en": "Warhammer Armies: Tomb Kings (8th edition, 2011)",
+          "de": "Warhammer Armies: Tomb Kings (8. Edition, 2011)"
+        },
+        "detail": {
+          "fr": "p. 20-21",
+          "en": "pp. 20-21",
+          "de": "S. 20-21"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page History of Nehekhara",
+          "en": "Lexicanum, History of Nehekhara page",
+          "de": "Lexicanum, Seite History of Nehekhara"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/History_of_Nehekhara"
+      }
+    ]
+  },
+  {
+    "id": "guerre-du-marteau",
+    "annee": 210,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "La guerre du Marteau",
+      "en": "The War of the Hammer",
+      "de": "Der Krieg des Hammers"
+    },
+    "resume": {
+      "fr": "Une armée naine marche sur Mahrak pour reprendre le Marteau d'Algrim, une relique dérobée. Le conflit oppose les Nains aux Rois des tombes de la Cité des Rois. Il ouvre une longue rancune entre les deux peuples.",
+      "en": "A Dwarf army marches on Mahrak to recover the Hammer of Algrim, a stolen relic. The conflict pits the Dwarfs against the Tomb Kings of the City of Kings. It opens a long grudge between the two peoples.",
+      "de": "Ein Zwergenheer marschiert auf Mahrak, um den Hammer des Algrim zurückzuholen, eine geraubte Reliquie. Der Konflikt stellt die Zwerge gegen die Gruftkönige der Stadt der Könige. Er begründet einen langen Groll zwischen beiden Völkern."
+    },
+    "ere": "empire-sigmarite",
+    "regions": [
+      "sud"
+    ],
+    "lieux": [
+      "mahrak"
+    ],
+    "factions": [
+      "rois-des-tombes",
+      "nains"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Tomb Kings (8e édition, 2011)",
+          "en": "Warhammer Armies: Tomb Kings (8th edition, 2011)",
+          "de": "Warhammer Armies: Tomb Kings (8. Edition, 2011)"
+        },
+        "detail": {
+          "fr": "p. 20-21",
+          "en": "pp. 20-21",
+          "de": "S. 20-21"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page History of Nehekhara",
+          "en": "Lexicanum, History of Nehekhara page",
+          "de": "Lexicanum, Seite History of Nehekhara"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/History_of_Nehekhara"
+      }
+    ]
+  },
+  {
+    "id": "abhorash-boit-le-sang-du-dragon",
+    "annee": 253,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Abhorash boit le sang d'un dragon",
+      "en": "Abhorash drinks a dragon's blood",
+      "de": "Abhorash trinkt das Blut eines Drachen"
+    },
+    "resume": {
+      "fr": "Au sommet d'une montagne de feu des Montagnes du Bord du Monde, le vampire Abhorash affronte un immense dragon rouge en combat singulier. Après une nuit entière de lutte, il le tue et boit son sang. Il se libère ainsi de la Soif rouge et devient le père des Dragons de sang, chevaliers vampires voués à la perfection martiale.",
+      "en": "On the summit of a fiery peak in the Worlds Edge Mountains, the vampire Abhorash fights a vast red dragon in single combat. After a whole night of struggle he slays it and drinks its blood. This frees him from the Red Thirst and makes him the father of the Blood Dragons, vampire knights devoted to martial perfection.",
+      "de": "Auf dem Gipfel eines Feuerbergs im Weltrandgebirge stellt sich der Vampir Abhorash einem gewaltigen roten Drachen zum Zweikampf. Nach einer ganzen Nacht des Ringens erschlägt er ihn und trinkt sein Blut. Damit befreit er sich vom Roten Durst und wird zum Stammvater der Blutdrachen, vampirischer Ritter, die nach kriegerischer Vollkommenheit streben."
+    },
+    "ere": "empire-sigmarite",
+    "regions": [
+      "montagnes"
+    ],
+    "lieux": [],
+    "factions": [
+      "vampires"
+    ],
+    "importance": 3,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "Date de 253 CI donnée par Lexicanum. Le duel contre le dragon est un récit fondateur des livres d'armée des Comtes vampires.",
+      "en": "The date of 253 IC is given by Lexicanum. The duel with the dragon is a founding story of the Vampire Counts army books.",
+      "de": "Das Datum 253 IK nennt Lexicanum. Der Zweikampf mit dem Drachen ist eine Gründungserzählung der Armeebücher der Vampirfürsten."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Vampire Counts (8e édition, 2013)",
+          "en": "Warhammer Armies: Vampire Counts (8th edition, 2013)",
+          "de": "Warhammer Armies: Vampire Counts (8. Edition, 2013)"
+        },
+        "detail": "",
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Abhorash",
+          "en": "Lexicanum, Abhorash page",
+          "de": "Lexicanum, Seite Abhorash"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Abhorash"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Vampire",
+          "en": "Lexicanum, Vampire page",
+          "de": "Lexicanum, Seite Vampire"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Vampire"
+      }
+    ]
+  },
+  {
+    "id": "demons-devant-la-pyramide-noire",
+    "annee": 666,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Les démons devant la Pyramide noire",
+      "en": "Daemons before the Black Pyramid",
+      "de": "Dämonen vor der Schwarzen Pyramide"
+    },
+    "resume": {
+      "fr": "Une immense armée de démons se manifeste en Nehekhara et met en difficulté les légions de Settra elles-mêmes. Une armée de Hauts Elfes débarque alors et combat à leurs côtés. Ensemble, ils écrasent les démons devant la Pyramide noire de Nagash.",
+      "en": "A huge host of daemons manifests in Nehekhara and presses even Settra's legions hard. A High Elf army then lands and fights alongside them. Together they crush the daemons before the Black Pyramid of Nagash.",
+      "de": "Ein gewaltiges Dämonenheer erscheint in Nehekhara und setzt selbst Settras Legionen schwer zu. Da landet ein Heer der Hochelfen und kämpft an ihrer Seite. Gemeinsam zerschlagen sie die Dämonen vor der Schwarzen Pyramide des Nagash."
+    },
+    "ere": "empire-sigmarite",
+    "regions": [
+      "sud"
+    ],
+    "lieux": [
+      "pyramide-noire"
+    ],
+    "factions": [
+      "rois-des-tombes",
+      "chaos",
+      "hauts-elfes"
+    ],
+    "importance": 1,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Tomb Kings (8e édition, 2011)",
+          "en": "Warhammer Armies: Tomb Kings (8th edition, 2011)",
+          "de": "Warhammer Armies: Tomb Kings (8. Edition, 2011)"
+        },
+        "detail": {
+          "fr": "p. 20-21",
+          "en": "pp. 20-21",
+          "de": "S. 20-21"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page History of Nehekhara",
+          "en": "Lexicanum, History of Nehekhara page",
+          "de": "Lexicanum, Seite History of Nehekhara"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/History_of_Nehekhara"
+      }
+    ]
+  },
+  {
+    "id": "arche-noire-attaque-zandri",
+    "annee": 1167,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Une Arche noire attaque Zandri",
+      "en": "A Black Ark attacks Zandri",
+      "de": "Eine Schwarze Arche greift Zandri an"
+    },
+    "resume": {
+      "fr": "Une Arche noire des Elfes noirs jette l'ancre devant Zandri, le grand port de Nehekhara, et lance ses corsaires contre la nécropole. Les Druchii viennent chercher esclaves et trésors funéraires. L'attaque montre que même la Terre des morts n'échappe pas aux raids de Naggaroth.",
+      "en": "A Dark Elf Black Ark drops anchor off Zandri, the great port of Nehekhara, and sends its corsairs against the necropolis. The Druchii come for slaves and grave treasures. The attack shows that even the Land of the Dead is not safe from the raids of Naggaroth.",
+      "de": "Eine Schwarze Arche der Dunkelelfen ankert vor Zandri, dem großen Hafen Nehekharas, und schickt ihre Korsaren gegen die Nekropole. Die Druchii suchen Sklaven und Grabschätze. Der Angriff zeigt, dass selbst das Land der Toten vor den Raubzügen aus Naggaroth nicht sicher ist."
+    },
+    "ere": "empire-sigmarite",
+    "regions": [
+      "sud"
+    ],
+    "lieux": [
+      "zandri"
+    ],
+    "factions": [
+      "rois-des-tombes",
+      "elfes-noirs"
+    ],
+    "importance": 1,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "Le livre et Lexicanum ne précisent que l'attaque. Le but du raid est une hypothèse habituelle pour les Elfes noirs, non confirmée par la source.",
+      "en": "The book and Lexicanum only mention the attack. The purpose of the raid is the usual assumption for Dark Elves, not confirmed by the source.",
+      "de": "Buch und Lexicanum erwähnen nur den Angriff. Der Zweck des Raubzugs ist die übliche Annahme bei Dunkelelfen und von der Quelle nicht bestätigt."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Tomb Kings (8e édition, 2011)",
+          "en": "Warhammer Armies: Tomb Kings (8th edition, 2011)",
+          "de": "Warhammer Armies: Tomb Kings (8. Edition, 2011)"
+        },
+        "detail": {
+          "fr": "p. 20-21",
+          "en": "pp. 20-21",
+          "de": "S. 20-21"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page History of Nehekhara",
+          "en": "Lexicanum, History of Nehekhara page",
+          "de": "Lexicanum, Seite History of Nehekhara"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/History_of_Nehekhara"
+      }
+    ]
+  },
+  {
+    "id": "portail-du-crepuscule",
+    "annee": 1230,
+    "fin": null,
+    "approx": true,
+    "titre": {
+      "fr": "Mahik al'Rak crée le Portail du crépuscule",
+      "en": "Mahik al'Rak creates the Portal of Twilight",
+      "de": "Mahik al'Rak erschafft das Portal der Dämmerung"
+    },
+    "resume": {
+      "fr": "Le sorcier fou Mahik al'Rak assemble une série de miroirs enchantés et ouvre le Portail du crépuscule. Il est bientôt possédé par un Duc du Changement. Le démon oriente dès lors la magie d'Araby au service de Tzeentch, une souillure dont le pays ne se libérera jamais tout à fait.",
+      "en": "The mad sorcerer Mahik al'Rak assembles a series of enchanted mirrors and opens the Portal of Twilight. He is soon possessed by a Lord of Change. From then on the daemon bends the magic of Araby to the service of Tzeentch, a taint the land will never fully shake off.",
+      "de": "Der wahnsinnige Zauberer Mahik al'Rak fügt eine Reihe verzauberter Spiegel zusammen und öffnet das Portal der Dämmerung. Bald ist er von einem Herrscher des Wandels besessen. Fortan lenkt der Dämon die Magie Arabys in den Dienst des Tzeentch, ein Makel, den das Land nie ganz loswird."
+    },
+    "ere": "empire-sigmarite",
+    "regions": [
+      "sud"
+    ],
+    "lieux": [
+      "araby"
+    ],
+    "factions": [
+      "humains-autres",
+      "chaos"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Lexicanum, page Araby",
+          "en": "Lexicanum, Araby page",
+          "de": "Lexicanum, Seite Araby"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Araby"
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Arabyan Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Arabyan Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Arabyan Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Arabyan_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "kalandrithir-ravage-quatar",
+    "annee": 1321,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Le dragon Kalandrithir ravage Quatar",
+      "en": "The dragon Kalandrithir ravages Quatar",
+      "de": "Der Drache Kalandrithir verwüstet Quatar"
+    },
+    "resume": {
+      "fr": "Un dragon ancien, Kalandrithir, s'éveille et dévaste Nehekhara. Il détruit une grande partie de Quatar. Il est abattu d'un trait en plein cœur tiré par un colosse nécrolithe.",
+      "en": "An ancient dragon, Kalandrithir, awakens and rampages across Nehekhara. It destroys much of Quatar. It is brought down by a shot through the heart from a Necrolith Colossus.",
+      "de": "Ein uralter Drache, Kalandrithir, erwacht und wütet in Nehekhara. Er zerstört einen großen Teil von Quatar. Ein Nekrolith-Koloss streckt ihn mit einem Schuss ins Herz nieder."
+    },
+    "ere": "empire-sigmarite",
+    "regions": [
+      "sud"
+    ],
+    "lieux": [
+      "quatar"
+    ],
+    "factions": [
+      "rois-des-tombes"
+    ],
+    "importance": 1,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Tomb Kings (8e édition, 2011)",
+          "en": "Warhammer Armies: Tomb Kings (8th edition, 2011)",
+          "de": "Warhammer Armies: Tomb Kings (8. Edition, 2011)"
+        },
+        "detail": {
+          "fr": "p. 20-21",
+          "en": "pp. 20-21",
+          "de": "S. 20-21"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page History of Nehekhara",
+          "en": "Lexicanum, History of Nehekhara page",
+          "de": "Lexicanum, Seite History of Nehekhara"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/History_of_Nehekhara"
+      }
+    ]
+  },
+  {
+    "id": "pillards-du-desert-a-zandri",
+    "annee": 1428,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Des sorciers du désert pillent Zandri et Khemri",
+      "en": "Desert sorcerers plunder Zandri and Khemri",
+      "de": "Wüstenzauberer plündern Zandri und Khemri"
+    },
+    "resume": {
+      "fr": "Des sorciers venus des tribus du désert entrent en Nehekhara à la recherche de parchemins et de textes sacrés. Ils saccagent la nécropole de Zandri et tuent de nombreux prêtres liches, puis forcent les tombeaux de Khemri. Les rois réveillés dans leur colère massacrent les intrus.",
+      "en": "Sorcerers from the desert tribes enter Nehekhara in search of scrolls and sacred texts. They ransack the necropolis of Zandri and slay many Liche Priests, then break into the tombs of Khemri. The kings, awakened in wrath, slaughter the intruders.",
+      "de": "Zauberer der Wüstenstämme dringen auf der Suche nach Schriftrollen und heiligen Texten in Nehekhara ein. Sie verwüsten die Nekropole von Zandri, töten viele Leichenpriester und brechen dann in die Gräber von Khemri ein. Die im Zorn erwachten Könige metzeln die Eindringlinge nieder."
+    },
+    "ere": "trois-empereurs",
+    "regions": [
+      "sud"
+    ],
+    "lieux": [
+      "zandri",
+      "khemri"
+    ],
+    "factions": [
+      "rois-des-tombes",
+      "humains-autres"
+    ],
+    "importance": 1,
+    "fiabilite": "incertain",
+    "note": {
+      "fr": "La chronologie arabienne du wiki fandom donne l'année 2588 du calendrier de Settra, qu'elle convertit en 1428 CI. Le même tableau convertit l'an 2877 de Settra en 1726 CI, soit un écart différent (1160 contre 1151 ans) : l'une des deux conversions est fausse.",
+      "en": "The Arabyan timeline on the fandom wiki gives year 2588 of Settra's calendar, which it converts to 1428 IC. The same table converts Settra's year 2877 to 1726 IC, a different gap (1160 against 1151 years), so one of the two conversions is wrong.",
+      "de": "Die arabische Zeitleiste des Fandom-Wikis nennt das Jahr 2588 nach Settras Kalender und rechnet es in 1428 IK um. Dieselbe Tabelle rechnet Settras Jahr 2877 in 1726 IK um, also mit anderem Abstand (1160 gegenüber 1151 Jahren), eine der beiden Umrechnungen ist daher falsch."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Arabyan Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Arabyan Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Arabyan Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Arabyan_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "jaffar-unifie-l-araby",
+    "annee": 1435,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Le sultan Jaffar unifie l'Araby",
+      "en": "Sultan Jaffar unites Araby",
+      "de": "Sultan Jaffar eint Araby"
+    },
+    "resume": {
+      "fr": "Le sorcier Jaffar rallie de nombreuses tribus du désert et unifie l'Araby sous son autorité de sultan. Il bâtit en quelques années un empire redouté. Manipulé ensuite par les Skavens, qui lui font croire à une menace estalienne, il lancera l'invasion de l'Estalie en 1448 CI.",
+      "en": "The sorcerer Jaffar rallies many desert tribes and unites Araby under his rule as sultan. Within a few years he builds a feared empire. Later manipulated by the Skaven, who convince him of an Estalian threat, he will launch the invasion of Estalia in 1448 IC.",
+      "de": "Der Zauberer Jaffar sammelt zahlreiche Wüstenstämme und eint Araby unter seiner Herrschaft als Sultan. Binnen weniger Jahre schafft er ein gefürchtetes Reich. Später von den Skaven getäuscht, die ihm eine estalische Bedrohung vorgaukeln, fällt er 1448 IK in Estalia ein."
+    },
+    "ere": "trois-empereurs",
+    "regions": [
+      "sud"
+    ],
+    "lieux": [
+      "araby"
+    ],
+    "factions": [
+      "humains-autres",
+      "skavens"
+    ],
+    "importance": 2,
+    "fiabilite": "divergent",
+    "note": {
+      "fr": "Lexicanum (page Jaffar) date l'unification de 1435 CI et un règne de quinze ans. La chronologie arabienne du wiki fandom place la formation de sa coalition en 1430 CI.",
+      "en": "Lexicanum (Jaffar page) dates the unification to 1435 IC and a fifteen-year reign. The Arabyan timeline on the fandom wiki places the forming of his coalition in 1430 IC.",
+      "de": "Lexicanum (Seite Jaffar) datiert die Einigung auf 1435 IK und eine fünfzehnjährige Herrschaft. Die arabische Zeitleiste des Fandom-Wikis setzt die Bildung seiner Koalition auf 1430 IK."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Lexicanum, page Jaffar",
+          "en": "Lexicanum, Jaffar page",
+          "de": "Lexicanum, Seite Jaffar"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Jaffar"
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Arabyan Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Arabyan Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Arabyan Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Arabyan_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "bataille-d-el-haikk",
+    "annee": 1452,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Bataille d'El-Haikk et pacte de Jaffar",
+      "en": "Battle of El-Haikk and Jaffar's pact",
+      "de": "Schlacht von El-Haikk und Jaffars Pakt"
+    },
+    "resume": {
+      "fr": "Acculé par les croisés qui l'ont poursuivi jusqu'en Araby, Jaffar conclut un pacte désespéré avec Kairos Tisse-Destin. Pendant la bataille d'El-Haikk, le ciel pleut du sang et des tourbillons de sable vivants frappent les chevaliers. Mais les légions démoniaques se retirent soudain, Jaffar est tué et son sultanat se disloque.",
+      "en": "Cornered by the crusaders who have pursued him into Araby, Jaffar makes a desperate pact with Kairos Fateweaver. During the Battle of El-Haikk the sky rains blood and living sand whirlwinds strike the knights. But the daemonic legions suddenly withdraw, Jaffar is slain and his sultanate falls apart.",
+      "de": "Von den Kreuzfahrern, die ihn bis nach Araby verfolgt haben, in die Enge getrieben, schließt Jaffar einen verzweifelten Pakt mit Kairos Schicksalsweber. In der Schlacht von El-Haikk regnet es Blut, und lebendige Sandwirbel treffen die Ritter. Doch die dämonischen Legionen ziehen sich plötzlich zurück, Jaffar fällt und sein Sultanat zerbricht."
+    },
+    "ere": "trois-empereurs",
+    "regions": [
+      "sud"
+    ],
+    "lieux": [
+      "al-haikk"
+    ],
+    "factions": [
+      "humains-autres",
+      "chaos",
+      "bretonnie",
+      "empire"
+    ],
+    "importance": 2,
+    "fiabilite": "divergent",
+    "note": {
+      "fr": "Lexicanum date la bataille de 1451 CI, la chronologie arabienne du wiki fandom de 1452 CI en signalant l'autre date. Le pacte avec Kairos vient du livre Daemons of Chaos (8e édition). Complète l'événement de la croisade d'Araby.",
+      "en": "Lexicanum dates the battle to 1451 IC, the Arabyan timeline on the fandom wiki to 1452 IC while noting the other date. The pact with Kairos comes from the Daemons of Chaos book (8th edition). Complements the crusade against Araby event.",
+      "de": "Lexicanum datiert die Schlacht auf 1451 IK, die arabische Zeitleiste des Fandom-Wikis auf 1452 IK, mit Hinweis auf das andere Datum. Der Pakt mit Kairos stammt aus dem Armeebuch Dämonen des Chaos (8. Edition). Ergänzt das Ereignis zum Kreuzzug gegen Araby."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Daemons of Chaos (8e édition, 2013)",
+          "en": "Warhammer Armies: Daemons of Chaos (8th edition, 2013)",
+          "de": "Warhammer Armies: Daemons of Chaos (8. Edition, 2013)"
+        },
+        "detail": "",
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Jaffar",
+          "en": "Lexicanum, Jaffar page",
+          "de": "Lexicanum, Seite Jaffar"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Jaffar"
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Arabyan Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Arabyan Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Arabyan Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Arabyan_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "amanhotep-en-bretonnie",
+    "annee": 1452,
+    "fin": null,
+    "approx": true,
+    "titre": {
+      "fr": "Amanhotep l'Intolérant ramené en Bretonnie",
+      "en": "Amanhotep the Intolerant carried to Bretonnia",
+      "de": "Amanhotep der Unduldsame nach Bretonia gebracht"
+    },
+    "resume": {
+      "fr": "Le duc Cheldric de Brionne est assassiné en Araby par le prince Apophas. Les croisés croient rapporter son corps en Bretonnie, mais la momie qu'ils promènent de bataille en bataille est celle du roi Amanhotep l'Intolérant. Réveillé, il massacre les habitants de dizaines de villes avant de regagner son sarcophage à Zandri, ce qui déclenche un siècle de croisades de représailles contre Nehekhara.",
+      "en": "Duke Cheldric of Brionne is assassinated in Araby by Prince Apophas. The crusaders believe they are bringing his body home to Bretonnia, but the mummy they parade from battle to battle is that of King Amanhotep the Intolerant. Awakened, he slaughters the people of dozens of towns before returning to his sarcophagus in Zandri, which sparks a century of retaliatory crusades against Nehekhara.",
+      "de": "Herzog Cheldric von Brionne wird in Araby von Prinz Apophas ermordet. Die Kreuzfahrer glauben, seinen Leichnam nach Bretonia heimzubringen, doch die Mumie, die sie von Schlacht zu Schlacht tragen, ist die König Amanhoteps des Unduldsamen. Erwacht, metzelt er die Bewohner Dutzender Städte nieder und kehrt dann in seinen Sarkophag in Zandri zurück, was ein Jahrhundert vergeltender Kreuzzüge gegen Nehekhara auslöst."
+    },
+    "ere": "trois-empereurs",
+    "regions": [
+      "bretonnie",
+      "sud"
+    ],
+    "lieux": [
+      "brionne",
+      "zandri"
+    ],
+    "factions": [
+      "rois-des-tombes",
+      "bretonnie"
+    ],
+    "importance": 2,
+    "fiabilite": "incertain",
+    "note": {
+      "fr": "Date et récit fournis uniquement par la chronologie arabienne du wiki fandom.",
+      "en": "Date and account given only by the Arabyan timeline on the fandom wiki.",
+      "de": "Datum und Darstellung nur aus der arabischen Zeitleiste des Fandom-Wikis."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Tomb Kings (8e édition, 2011)",
+          "en": "Warhammer Armies: Tomb Kings (8th edition, 2011)",
+          "de": "Warhammer Armies: Tomb Kings (8. Edition, 2011)"
+        },
+        "detail": "",
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Arabyan Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Arabyan Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Arabyan Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Arabyan_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "wazar-le-cruel-a-magritta",
+    "annee": 1456,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Chute de l'émir Wazar le Cruel à Magritta",
+      "en": "Fall of Emir Wazar the Cruel at Magritta",
+      "de": "Fall des Emirs Wazar des Grausamen in Magritta"
+    },
+    "resume": {
+      "fr": "Après un siège de huit ans, l'émir Wazar le Cruel est vaincu à Magritta, dernier bastion arabien de la péninsule. Il périt avec sa garde des Cimeterres noirs, écrasé par la chute d'une statue de Myrmidia. Sa mort met fin à la présence d'Araby en Estalie.",
+      "en": "After an eight-year siege, Emir Wazar the Cruel is defeated at Magritta, the last Arabyan stronghold on the peninsula. He dies with his Black Scimitar Guard, crushed by a falling statue of Myrmidia. His death ends Araby's presence in Estalia.",
+      "de": "Nach achtjähriger Belagerung wird Emir Wazar der Grausame in Magritta besiegt, der letzten arabischen Bastion auf der Halbinsel. Er stirbt mit seiner Garde der Schwarzen Krummschwerter, erschlagen von einer stürzenden Statue der Myrmidia. Sein Tod beendet die Anwesenheit Arabys in Estalia."
+    },
+    "ere": "trois-empereurs",
+    "regions": [
+      "tilee-estalie"
+    ],
+    "lieux": [
+      "magritta"
+    ],
+    "factions": [
+      "humains-autres"
+    ],
+    "importance": 2,
+    "fiabilite": "incertain",
+    "note": {
+      "fr": "Date déduite par le wiki fandom de la durée du siège (huit ans à partir de 1448 CI). Elle contredit la libération de l'Estalie en 1450 CI donnée par la même chronologie.",
+      "en": "Date deduced by the fandom wiki from the length of the siege (eight years from 1448 IC). It contradicts the liberation of Estalia in 1450 IC given by the same timeline.",
+      "de": "Vom Fandom-Wiki aus der Belagerungsdauer erschlossen (acht Jahre ab 1448 IK). Es widerspricht der Befreiung Estalias 1450 IK, die dieselbe Zeitleiste nennt."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Arabyan Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Arabyan Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Arabyan Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Arabyan_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "philzhar-et-les-chevaliers-jaguar",
+    "annee": 1459,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Philzhar piège les Chevaliers Jaguar",
+      "en": "Philzhar traps the Knights Jaguar",
+      "de": "Philzhar lockt die Jaguarritter in die Falle"
+    },
+    "resume": {
+      "fr": "Le roi des tombes Philzhar, le Seigneur Scarabée, se retire de Copher en attirant l'ordre croisé des Chevaliers Jaguar à sa poursuite. Dans la vallée maudite de Hammurabi, des guerriers enfouis sous le sable surgissent et brisent leur charge. Une poignée de survivants regagnent Copher, où personne ne croit leur récit.",
+      "en": "The Tomb King Philzhar, the Scarab Lord, withdraws from Copher and draws the crusading Knights Jaguar after him. In the cursed valley of Hammurabi, warriors buried beneath the sand rise and break their charge. A handful of survivors make it back to Copher, where no one believes their story.",
+      "de": "Der Gruftkönig Philzhar, der Skarabäusfürst, zieht sich aus Copher zurück und lockt den Kreuzritterorden der Jaguarritter hinter sich her. Im verfluchten Tal von Hammurabi erheben sich unter dem Sand verborgene Krieger und brechen ihren Ansturm. Eine Handvoll Überlebender erreicht Copher, wo niemand ihrer Geschichte glaubt."
+    },
+    "ere": "trois-empereurs",
+    "regions": [
+      "sud"
+    ],
+    "lieux": [
+      "copher"
+    ],
+    "factions": [
+      "rois-des-tombes",
+      "humains-autres"
+    ],
+    "importance": 1,
+    "fiabilite": "incertain",
+    "note": {
+      "fr": "Date et récit fournis uniquement par la chronologie arabienne du wiki fandom.",
+      "en": "Date and account given only by the Arabyan timeline on the fandom wiki.",
+      "de": "Datum und Darstellung nur aus der arabischen Zeitleiste des Fandom-Wikis."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Arabyan Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Arabyan Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Arabyan Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Arabyan_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "miroir-des-cauchemars",
+    "annee": 1460,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Marius Holseher et le Miroir des cauchemars",
+      "en": "Marius Holseher and the Mirror of Nightmares",
+      "de": "Marius Holseher und der Spiegel der Albträume"
+    },
+    "resume": {
+      "fr": "En croisade en Araby, le comte électeur Marius Holseher de Stirland découvre le Miroir des cauchemars. Il traverse le Royaume du Chaos et en revient vivant. Il consigne ensuite son expérience dans le Liber Malefic.",
+      "en": "While on crusade in Araby, Elector Count Marius Holseher of Stirland discovers the Mirror of Nightmares. He passes through the Realm of Chaos and returns alive. He then records his experience in the Liber Malefic.",
+      "de": "Auf dem Kreuzzug in Araby entdeckt Kurfürst Marius Holseher von Stirland den Spiegel der Albträume. Er durchquert das Reich des Chaos und kehrt lebend zurück. Danach schreibt er seine Erfahrungen im Liber Malefic nieder."
+    },
+    "ere": "trois-empereurs",
+    "regions": [
+      "sud"
+    ],
+    "lieux": [
+      "araby"
+    ],
+    "factions": [
+      "empire",
+      "chaos"
+    ],
+    "importance": 1,
+    "fiabilite": "incertain",
+    "note": {
+      "fr": "Date et récit fournis uniquement par la chronologie arabienne du wiki fandom.",
+      "en": "Date and account given only by the Arabyan timeline on the fandom wiki.",
+      "de": "Datum und Darstellung nur aus der arabischen Zeitleiste des Fandom-Wikis."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Arabyan Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Arabyan Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Arabyan Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Arabyan_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "sac-de-bel-aliad-1475",
+    "annee": 1475,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Les croisés saccagent Bel-Aliad et réveillent le Portail",
+      "en": "Crusaders sack Bel-Aliad and wake the Portal",
+      "de": "Kreuzfahrer plündern Bel-Aliad und wecken das Portal"
+    },
+    "resume": {
+      "fr": "Une armée croisée de l'Empire et de Bretonnie met à sac la cité arabienne de Bel-Aliad. En la pillant, les chevaliers réveillent par mégarde le Portail du crépuscule. Ils sont projetés dans le Royaume du Chaos, où ils rejoignent la guerre éternelle de Khorne.",
+      "en": "A crusading army from the Empire and Bretonnia sacks the Arabyan city of Bel-Aliad. While plundering it, the knights accidentally awaken the Portal of Twilight. They are hurled into the Realm of Chaos, where they join Khorne's eternal war.",
+      "de": "Ein Kreuzfahrerheer aus dem Imperium und Bretonia plündert die arabische Stadt Bel-Aliad. Dabei wecken die Ritter versehentlich das Portal der Dämmerung. Sie werden ins Reich des Chaos geschleudert, wo sie Teil von Khornes ewigem Krieg werden."
+    },
+    "ere": "trois-empereurs",
+    "regions": [
+      "sud"
+    ],
+    "lieux": [
+      "bel-aliad"
+    ],
+    "factions": [
+      "empire",
+      "bretonnie",
+      "humains-autres",
+      "chaos"
+    ],
+    "importance": 1,
+    "fiabilite": "incertain",
+    "note": {
+      "fr": "Date et récit fournis uniquement par la chronologie arabienne du wiki fandom.",
+      "en": "Date and account given only by the Arabyan timeline on the fandom wiki.",
+      "de": "Datum und Darstellung nur aus der arabischen Zeitleiste des Fandom-Wikis."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Arabyan Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Arabyan Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Arabyan Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Arabyan_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "guerres-de-daryus",
+    "annee": 1500,
+    "fin": null,
+    "approx": true,
+    "titre": {
+      "fr": "Les guerres saintes du sultan Daryus-e Qabir",
+      "en": "The holy wars of Sultan Daryus-e Qabir",
+      "de": "Die heiligen Kriege des Sultans Daryus-e Qabir"
+    },
+    "resume": {
+      "fr": "Le sultan Daryus-e Qabir lance une série de guerres religieuses contre la Tilée et l'Estalie. Aucune ne lui apporte de gain durable. Les légendes de cette époque façonnent pour longtemps la méfiance des Occidentaux envers l'Araby, et l'échec arabien encourage les offensives tiléennes contre Sartosa.",
+      "en": "Sultan Daryus-e Qabir launches a series of religious wars against Tilea and Estalia. None brings him lasting gains. The legends of this period long shape Old Worlders' distrust of Araby, and the Arabyan failure encourages Tilean offensives against Sartosa.",
+      "de": "Sultan Daryus-e Qabir beginnt eine Reihe von Glaubenskriegen gegen Tilea und Estalia. Keiner bringt ihm dauerhaften Gewinn. Die Legenden dieser Zeit prägen lange das Misstrauen der Altweltler gegenüber Araby, und das arabische Scheitern ermutigt tileanische Angriffe auf Sartosa."
+    },
+    "ere": "trois-empereurs",
+    "regions": [
+      "sud",
+      "tilee-estalie"
+    ],
+    "lieux": [
+      "araby"
+    ],
+    "factions": [
+      "humains-autres"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Fantasy Roleplay (1re édition, 1986)",
+          "en": "Warhammer Fantasy Roleplay (1st edition, 1986)",
+          "de": "Warhammer Fantasy Roleplay (1. Edition, 1986)"
+        },
+        "detail": {
+          "fr": "p. 261",
+          "en": "p. 261",
+          "de": "S. 261"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Araby",
+          "en": "Warhammer Fantasy Wiki (fandom), page Araby",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Araby"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Araby"
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Arabyan Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Arabyan Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Arabyan Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Arabyan_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "abdul-al-shar-royaumes-frontaliers",
+    "annee": 1600,
+    "fin": 1800,
+    "approx": true,
+    "titre": {
+      "fr": "Les principautés d'Abdul Al'Shar",
+      "en": "The principalities of Abdul Al'Shar",
+      "de": "Die Fürstentümer des Abdul Al'Shar"
+    },
+    "resume": {
+      "fr": "Le chef de guerre arabien Abdul Al'Shar envahit la région de Masserschloss, dans les Royaumes frontaliers, combat les Peaux-vertes et s'y installe autour d'une mine de fer. Il est assassiné par un de ses serviteurs, mais ses principautés lui survivent. Elles déclinent ensuite sous une suite de petits seigneurs et s'effondrent quand la mine s'épuise.",
+      "en": "The Arabyan warlord Abdul Al'Shar invades the Masserschloss region of the Border Princes, fights the greenskins and settles there around an iron mine. He is murdered by one of his servants, but his principalities outlive him. They then decline under a series of lesser lords and collapse when the mine runs dry.",
+      "de": "Der arabische Kriegsherr Abdul Al'Shar fällt in die Gegend von Masserschloss in den Grenzgrafschaften ein, bekämpft die Grünhäute und lässt sich um ein Eisenbergwerk herum nieder. Er wird von einem seiner Diener ermordet, doch seine Fürstentümer überdauern ihn. Unter einer Reihe kleiner Herren verfallen sie und brechen zusammen, als das Bergwerk erschöpft ist."
+    },
+    "ere": "trois-empereurs",
+    "regions": [
+      "royaumes-frontaliers"
+    ],
+    "lieux": [],
+    "factions": [
+      "humains-autres",
+      "peaux-vertes"
+    ],
+    "importance": 1,
+    "fiabilite": "divergent",
+    "note": {
+      "fr": "Le wiki fandom date l'invasion de 1500 CI sur la page Araby et de 1600 CI sur sa chronologie arabienne, qui fixe l'effondrement vers 1800 CI. La source d'origine est le supplément Renegade Crowns de WFRP.",
+      "en": "The fandom wiki dates the invasion to 1500 IC on the Araby page and to 1600 IC on its Arabyan timeline, which sets the collapse around 1800 IC. The original source is the WFRP supplement Renegade Crowns.",
+      "de": "Das Fandom-Wiki datiert den Einfall auf der Seite Araby auf 1500 IK und in seiner arabischen Zeitleiste auf 1600 IK, die den Zusammenbruch um 1800 IK ansetzt. Ursprüngliche Quelle ist das WFRP-Ergänzungsbuch Renegade Crowns."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Fantasy Roleplay: Renegade Crowns (2e édition, 2007)",
+          "en": "Warhammer Fantasy Roleplay: Renegade Crowns (2nd edition, 2007)",
+          "de": "Warhammer Fantasy Roleplay: Renegade Crowns (2. Edition, 2007)"
+        },
+        "detail": {
+          "fr": "p. 117-118",
+          "en": "pp. 117-118",
+          "de": "S. 117-118"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Araby",
+          "en": "Warhammer Fantasy Wiki (fandom), page Araby",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Araby"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Araby"
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Arabyan Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Arabyan Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Arabyan Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Arabyan_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "rakaph-soumet-les-nomades",
+    "annee": 1726,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Le roi Rakaph fait payer tribut aux nomades",
+      "en": "King Rakaph exacts tribute from the nomads",
+      "de": "König Rakaph zwingt die Nomaden zum Tribut"
+    },
+    "resume": {
+      "fr": "Le roi des tombes Rakaph de Khemri livre trois batailles aux peuples du désert. Vainqueur, il leur impose un tribut. Les Rois des tombes continuent ainsi de traiter les tribus arabiennes comme des vassaux de Nehekhara.",
+      "en": "The Tomb King Rakaph of Khemri fights three battles against the desert peoples. Victorious, he imposes a tribute on them. The Tomb Kings thus keep treating the Arabyan tribes as vassals of Nehekhara.",
+      "de": "Der Gruftkönig Rakaph von Khemri liefert den Wüstenvölkern drei Schlachten. Als Sieger zwingt er ihnen einen Tribut auf. So behandeln die Gruftkönige die arabischen Stämme weiter als Vasallen Nehekharas."
+    },
+    "ere": "trois-empereurs",
+    "regions": [
+      "sud"
+    ],
+    "lieux": [
+      "khemri"
+    ],
+    "factions": [
+      "rois-des-tombes",
+      "humains-autres"
+    ],
+    "importance": 1,
+    "fiabilite": "incertain",
+    "note": {
+      "fr": "La chronologie arabienne du wiki fandom donne l'an 2877 du calendrier de Settra, converti en 1726 CI. Voir la note sur le pillage de Zandri en 1428 CI pour l'incohérence des conversions.",
+      "en": "The Arabyan timeline on the fandom wiki gives year 2877 of Settra's calendar, converted to 1726 IC. See the note on the plundering of Zandri in 1428 IC for the inconsistent conversions.",
+      "de": "Die arabische Zeitleiste des Fandom-Wikis nennt das Jahr 2877 nach Settras Kalender, umgerechnet 1726 IK. Zur widersprüchlichen Umrechnung siehe die Anmerkung zur Plünderung Zandris 1428 IK."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Arabyan Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Arabyan Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Arabyan Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Arabyan_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "walach-harkon-forteresse-de-sang",
+    "annee": 1887,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Walach Harkon et la naissance des Dragons de sang",
+      "en": "Walach Harkon and the birth of the Blood Dragons",
+      "de": "Walach Harkon und die Entstehung der Blutdrachen"
+    },
+    "resume": {
+      "fr": "Le vampire Walach Harkon, disciple d'Abhorash, se présente à la Forteresse de Sang, qui garde un col vers la Bretonnie. En une seule nuit, il défie et tue tous les chevaliers de l'ordre du Dragon de sang, change les plus dignes en vampires et relève les autres en revenants. L'ordre chevaleresque devient une confrérie de Chevaliers de sang qui fait des habitants qu'il protégeait ses proies.",
+      "en": "The vampire Walach Harkon, a follower of Abhorash, comes to Blood Keep, which guards a pass into Bretonnia. In a single night he challenges and slays every knight of the Order of the Blood Dragon, turns the worthiest into vampires and raises the rest as Wights. The knightly order becomes a brotherhood of Blood Knights that preys on the people it once protected.",
+      "de": "Der Vampir Walach Harkon, ein Gefolgsmann Abhorashs, erscheint in der Blutfeste, die einen Pass nach Bretonia bewacht. In einer einzigen Nacht fordert und tötet er alle Ritter des Ordens des Blutdrachen, verwandelt die Würdigsten in Vampire und erhebt die übrigen als Grabunholde. Der Ritterorden wird zu einer Bruderschaft von Blutrittern, die das Volk jagt, das sie einst beschützte."
+    },
+    "ere": "trois-empereurs",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [
+      "forteresse-de-sang"
+    ],
+    "factions": [
+      "vampires",
+      "empire"
+    ],
+    "importance": 3,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Vampire Counts (8e édition, 2013)",
+          "en": "Warhammer Armies: Vampire Counts (8th edition, 2013)",
+          "de": "Warhammer Armies: Vampire Counts (8. Edition, 2013)"
+        },
+        "detail": "",
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Walach Harkon",
+          "en": "Lexicanum, Walach Harkon page",
+          "de": "Lexicanum, Seite Walach Harkon"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Walach_Harkon"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Blood Keep",
+          "en": "Lexicanum, Blood Keep page",
+          "de": "Lexicanum, Seite Blood Keep"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Blood_Keep"
+      }
+    ]
+  },
+  {
+    "id": "siege-de-la-forteresse-de-sang",
+    "annee": 1932,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Siège de la Forteresse de Sang",
+      "en": "Siege of Blood Keep",
+      "de": "Belagerung der Blutfeste"
+    },
+    "resume": {
+      "fr": "Quand la vérité sur les Dragons de sang éclate, une armée impériale et plusieurs ordres templiers assiègent la Forteresse de Sang. Au terme d'un long siège, l'ordre est anéanti en tant qu'organisation et la compagne de Walach, Aurora, est décapitée. Harkon et quelques chevaliers survivent et se dispersent à travers le monde.",
+      "en": "When the truth about the Blood Dragons comes out, an Imperial army and several templar orders lay siege to Blood Keep. After a long siege the order is destroyed as an organisation and Walach's consort Aurora is beheaded. Harkon and a few knights survive and scatter across the world.",
+      "de": "Als die Wahrheit über die Blutdrachen ans Licht kommt, belagern ein imperiales Heer und mehrere Templerorden die Blutfeste. Nach langer Belagerung ist der Orden als Gemeinschaft vernichtet, und Walachs Gefährtin Aurora wird enthauptet. Harkon und einige Ritter überleben und zerstreuen sich in alle Welt."
+    },
+    "ere": "trois-empereurs",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [
+      "forteresse-de-sang"
+    ],
+    "factions": [
+      "vampires",
+      "empire"
+    ],
+    "importance": 2,
+    "fiabilite": "divergent",
+    "note": {
+      "fr": "Lexicanum date le siège de 1932 CI sur la page Walach Harkon et de 1946 CI sur la page Vampire, où il est mené par Gunther van Hal. Les sources parlent de quatre ordres templiers.",
+      "en": "Lexicanum dates the siege to 1932 IC on the Walach Harkon page and to 1946 IC on the Vampire page, where it is led by Gunther van Hal. The sources mention four templar orders.",
+      "de": "Lexicanum datiert die Belagerung auf der Seite Walach Harkon auf 1932 IK und auf der Seite Vampire auf 1946 IK, wo Gunther van Hal sie anführt. Die Quellen sprechen von vier Templerorden."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Vampire Counts (8e édition, 2013)",
+          "en": "Warhammer Armies: Vampire Counts (8th edition, 2013)",
+          "de": "Warhammer Armies: Vampire Counts (8. Edition, 2013)"
+        },
+        "detail": "",
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Walach Harkon",
+          "en": "Lexicanum, Walach Harkon page",
+          "de": "Lexicanum, Seite Walach Harkon"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Walach_Harkon"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Vampire",
+          "en": "Lexicanum, Vampire page",
+          "de": "Lexicanum, Seite Vampire"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Vampire"
+      }
+    ]
+  },
+  {
+    "id": "tribu-bloodhunt-en-araby",
+    "annee": 2103,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "La Rivière pourpre de la tribu Bloodhunt",
+      "en": "The Crimson River of the Bloodhunt tribe",
+      "de": "Der Purpurfluss des Bloodhunt-Stammes"
+    },
+    "resume": {
+      "fr": "Moins de cent guerriers de la tribu nordique Bloodhunt prennent la mer pour offrir à Khorne des crânes de terres lointaines et débarquent en Araby. Malgré les esprits du vent et du feu lancés contre eux par les émirs, ils se taillent un chemin sanglant à travers le pays. Ils finissent vaincus, mais Khorne fait couler en leur honneur la Rivière pourpre à travers l'Araby.",
+      "en": "Fewer than a hundred warriors of the northern Bloodhunt tribe take to the sea to offer Khorne skulls from distant lands and land in Araby. Despite the wind and fire spirits the emirs send against them, they carve a bloody path across the country. They are eventually defeated, but Khorne sets the Crimson River flowing across Araby in their honour.",
+      "de": "Weniger als hundert Krieger des nordischen Bloodhunt-Stammes stechen in See, um Khorne Schädel aus fernen Landen darzubringen, und landen in Araby. Trotz der Wind- und Feuergeister, die die Emire gegen sie aussenden, bahnen sie sich einen blutigen Weg durch das Land. Am Ende werden sie besiegt, doch Khorne lässt ihnen zu Ehren den Purpurfluss durch Araby fließen."
+    },
+    "ere": "trois-empereurs",
+    "regions": [
+      "sud",
+      "norsca"
+    ],
+    "lieux": [
+      "araby"
+    ],
+    "factions": [
+      "chaos",
+      "humains-autres"
+    ],
+    "importance": 1,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Warriors of Chaos (7e édition, 2008)",
+          "en": "Warhammer Armies: Warriors of Chaos (7th edition, 2008)",
+          "de": "Warhammer Armies: Warriors of Chaos (7. Edition, 2008)"
+        },
+        "detail": {
+          "fr": "p. 17",
+          "en": "p. 17",
+          "de": "S. 17"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Araby",
+          "en": "Warhammer Fantasy Wiki (fandom), page Araby",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Araby"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Araby"
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Arabyan Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Arabyan Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Arabyan Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Arabyan_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "ramhotep-muraille-de-terre-cuite",
+    "annee": 2141,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Ramhotep et la Grande Muraille de terre cuite",
+      "en": "Ramhotep and the Great Terracotta Wall",
+      "de": "Ramhotep und die Große Terrakottamauer"
+    },
+    "resume": {
+      "fr": "Le nécrotecte Ramhotep achève enfin la Grande Muraille de terre cuite, mais des Tanks à vapeur de l'Empire la détruisent aussitôt à la bataille de la Flamme d'acier. Furieux, il jure de la rebâtir avec les os de ses ennemis. Il passe ensuite un siècle à façonner son Armée de marbre.",
+      "en": "The Necrotect Ramhotep finally completes the Great Terracotta Wall, but Imperial Steam Tanks destroy it straight away at the Battle of Steel Flame. Enraged, he vows to rebuild it with the bones of his enemies. He then spends a century fashioning his Marble Army.",
+      "de": "Der Nekrotekt Ramhotep vollendet endlich die Große Terrakottamauer, doch Dampfpanzer des Imperiums zerstören sie sofort in der Schlacht der Stahlflamme. Wutentbrannt schwört er, sie mit den Knochen seiner Feinde neu zu errichten. Danach arbeitet er ein Jahrhundert lang an seiner Marmorarmee."
+    },
+    "ere": "trois-empereurs",
+    "regions": [
+      "sud"
+    ],
+    "lieux": [],
+    "factions": [
+      "rois-des-tombes",
+      "empire"
+    ],
+    "importance": 1,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Tomb Kings (8e édition, 2011)",
+          "en": "Warhammer Armies: Tomb Kings (8th edition, 2011)",
+          "de": "Warhammer Armies: Tomb Kings (8. Edition, 2011)"
+        },
+        "detail": {
+          "fr": "p. 20-21",
+          "en": "pp. 20-21",
+          "de": "S. 20-21"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Ramhotep",
+          "en": "Lexicanum, Ramhotep page",
+          "de": "Lexicanum, Seite Ramhotep"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Ramhotep"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page History of Nehekhara",
+          "en": "Lexicanum, History of Nehekhara page",
+          "de": "Lexicanum, Seite History of Nehekhara"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/History_of_Nehekhara"
+      }
+    ]
+  },
+  {
+    "id": "khalida-blesse-mannfred",
+    "annee": 2150,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Khalida chasse Mannfred de Lahmia",
+      "en": "Khalida drives Mannfred from Lahmia",
+      "de": "Khalida vertreibt Mannfred aus Lahmia"
+    },
+    "resume": {
+      "fr": "Cinq ans après Hel Fenn, Mannfred von Carstein pénètre dans les ruines de Lahmia à la recherche d'une relique. La reine Khalida, ancienne victime de Neferata et ennemie jurée des vampires, sort de son repos. Ses archers déciment la horde de Mannfred, qu'elle blesse elle-même avant qu'il ne s'enfuie.",
+      "en": "Five years after Hel Fenn, Mannfred von Carstein enters the ruins of Lahmia in search of a relic. Queen Khalida, once a victim of Neferata and a sworn enemy of vampires, rises from her rest. Her archers cut down Mannfred's horde, and she wounds him herself before he flees.",
+      "de": "Fünf Jahre nach Hel Fenn dringt Mannfred von Carstein auf der Suche nach einer Reliquie in die Ruinen von Lahmia ein. Königin Khalida, einst Opfer Neferatas und geschworene Feindin der Vampire, erhebt sich aus ihrer Ruhe. Ihre Bogenschützen mähen Mannfreds Horde nieder, und sie selbst verwundet ihn, bevor er flieht."
+    },
+    "ere": "trois-empereurs",
+    "regions": [
+      "sud"
+    ],
+    "lieux": [
+      "lahmia"
+    ],
+    "factions": [
+      "rois-des-tombes",
+      "vampires"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "Lexicanum situe la rencontre à Lahmia sur la page Khalida, sans lieu sur la page History of Nehekhara. Le livre Tomb Kings (8e édition) la mentionne dans sa chronologie.",
+      "en": "Lexicanum places the encounter at Lahmia on the Khalida page, with no place on the History of Nehekhara page. The Tomb Kings book (8th edition) mentions it in its timeline.",
+      "de": "Lexicanum verortet die Begegnung auf der Seite Khalida in Lahmia, die Seite History of Nehekhara nennt keinen Ort. Das Armeebuch Gruftkönige (8. Edition) erwähnt sie in seiner Zeitleiste."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Tomb Kings (8e édition, 2011)",
+          "en": "Warhammer Armies: Tomb Kings (8th edition, 2011)",
+          "de": "Warhammer Armies: Tomb Kings (8. Edition, 2011)"
+        },
+        "detail": {
+          "fr": "p. 20-21",
+          "en": "pp. 20-21",
+          "de": "S. 20-21"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Khalida Neferher",
+          "en": "Lexicanum, Khalida Neferher page",
+          "de": "Lexicanum, Seite Khalida Neferher"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Khalida_Neferher"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page History of Nehekhara",
+          "en": "Lexicanum, History of Nehekhara page",
+          "de": "Lexicanum, Seite History of Nehekhara"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/History_of_Nehekhara"
+      }
+    ]
+  },
+  {
+    "id": "heimholtz-attaque-numas",
+    "annee": 2225,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Les Chevaliers du Soleil flamboyant attaquent Numas",
+      "en": "The Knights of the Blazing Sun attack Numas",
+      "de": "Die Ritter der Flammenden Sonne greifen Numas an"
+    },
+    "resume": {
+      "fr": "Le graf Heimholtz, grand maître des Chevaliers du Soleil flamboyant, mène son ordre contre Numas. Il tue le roi Pharakh au combat. Il tombe à son tour sous les coups du prince Apophas.",
+      "en": "Graf Heimholtz, Grand Master of the Knights of the Blazing Sun, leads his order against Numas. He slays King Pharakh in battle. He is slain in turn by Prince Apophas.",
+      "de": "Graf Heimholtz, Großmeister der Ritter der Flammenden Sonne, führt seinen Orden gegen Numas. Er erschlägt König Pharakh im Kampf. Dann fällt er selbst durch Prinz Apophas."
+    },
+    "ere": "trois-empereurs",
+    "regions": [
+      "sud"
+    ],
+    "lieux": [
+      "numas"
+    ],
+    "factions": [
+      "rois-des-tombes",
+      "empire"
+    ],
+    "importance": 1,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Tomb Kings (8e édition, 2011)",
+          "en": "Warhammer Armies: Tomb Kings (8th edition, 2011)",
+          "de": "Warhammer Armies: Tomb Kings (8. Edition, 2011)"
+        },
+        "detail": {
+          "fr": "p. 20-21",
+          "en": "pp. 20-21",
+          "de": "S. 20-21"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page History of Nehekhara",
+          "en": "Lexicanum, History of Nehekhara page",
+          "de": "Lexicanum, Seite History of Nehekhara"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/History_of_Nehekhara"
+      }
+    ]
+  },
+  {
+    "id": "arkhan-et-khalida-contre-mandregan",
+    "annee": 2350,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Arkhan et Khalida reprennent le Bâton de Nagash",
+      "en": "Arkhan and Khalida retrieve the Staff of Nagash",
+      "de": "Arkhan und Khalida holen den Stab des Nagash zurück"
+    },
+    "resume": {
+      "fr": "Fait rarissime, Arkhan le Noir et la reine Khalida concluent une alliance provisoire. Ils se rendent ensemble en Sylvanie, où le vampire Mandregan garde le Bâton de Nagash dans son cercueil. Khalida détruit Mandregan et le bâton est récupéré.",
+      "en": "In a very rare move, Arkhan the Black and Queen Khalida strike a temporary alliance. Together they travel to Sylvania, where the vampire Mandregan keeps the Staff of Nagash in his coffin. Khalida destroys Mandregan and the staff is recovered.",
+      "de": "In einem äußerst seltenen Schritt schließen Arkhan der Schwarze und Königin Khalida ein befristetes Bündnis. Gemeinsam reisen sie nach Sylvania, wo der Vampir Mandregan den Stab des Nagash in seinem Sarg verwahrt. Khalida vernichtet Mandregan, und der Stab wird geborgen."
+    },
+    "ere": "empire-reunifie",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [
+      "drakenhof"
+    ],
+    "factions": [
+      "rois-des-tombes",
+      "vampires"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "La source ne situe pas le repaire de Mandregan plus précisément que la Sylvanie. Drakenhof sert ici de repère.",
+      "en": "The source places Mandregan's lair no more precisely than Sylvania. Drakenhof is used here as a marker.",
+      "de": "Die Quelle verortet Mandregans Versteck nicht genauer als in Sylvania. Drakenhof dient hier als Orientierungspunkt."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Tomb Kings (8e édition, 2011)",
+          "en": "Warhammer Armies: Tomb Kings (8th edition, 2011)",
+          "de": "Warhammer Armies: Tomb Kings (8. Edition, 2011)"
+        },
+        "detail": {
+          "fr": "p. 20-21",
+          "en": "pp. 20-21",
+          "de": "S. 20-21"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Khalida Neferher",
+          "en": "Lexicanum, Khalida Neferher page",
+          "de": "Lexicanum, Seite Khalida Neferher"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Khalida_Neferher"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page History of Nehekhara",
+          "en": "Lexicanum, History of Nehekhara page",
+          "de": "Lexicanum, Seite History of Nehekhara"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/History_of_Nehekhara"
+      }
+    ]
+  },
+  {
+    "id": "bataille-des-cairns",
+    "annee": 2497,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Bataille des Cairns",
+      "en": "Battle of the Cairns",
+      "de": "Schlacht der Hügelgräber"
+    },
+    "resume": {
+      "fr": "En plein hiver, Kemmler relève une immense armée dans les tertres funéraires oubliés d'Athel Loren, des sites liés à la santé de la forêt. Les Elfes sylvains, affaiblis par la saison, subissent de lourds ravages. L'antique homme-arbre Durthu réveille les esprits de la forêt et repousse le nécromancien.",
+      "en": "In the depth of winter, Kemmler raises a vast army from the forgotten burial mounds of Athel Loren, sites bound to the forest's health. The Wood Elves, weakened by the season, suffer heavy losses. The ancient Treeman Durthu rouses the forest spirits and drives the necromancer back.",
+      "de": "Mitten im Winter erhebt Kemmler ein gewaltiges Heer aus den vergessenen Grabhügeln Athel Lorens, Orten, die mit dem Wohl des Waldes verbunden sind. Die durch die Jahreszeit geschwächten Waldelfen erleiden schwere Verwüstungen. Der uralte Baummensch Durthu weckt die Waldgeister und schlägt den Nekromanten zurück."
+    },
+    "ere": "empire-reunifie",
+    "regions": [
+      "athel-loren"
+    ],
+    "lieux": [
+      "athel-loren"
+    ],
+    "factions": [
+      "vampires",
+      "elfes-sylvains"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "La campagne est aussi appelée l'Hiver des malheurs dans les sources sur Krell.",
+      "en": "The campaign is also called the Winter of Woes in sources on Krell.",
+      "de": "Der Feldzug heißt in Quellen zu Krell auch der Winter des Leids."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Lexicanum, page Heinrich Kemmler",
+          "en": "Lexicanum, Heinrich Kemmler page",
+          "de": "Lexicanum, Seite Heinrich Kemmler"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Heinrich_Kemmler"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Krell",
+          "en": "Lexicanum, Krell page",
+          "de": "Lexicanum, Seite Krell"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Krell"
+      }
+    ]
+  },
+  {
+    "id": "zacharias-l-eternel",
+    "annee": 2506,
+    "fin": 2518,
+    "approx": false,
+    "titre": {
+      "fr": "Zacharias l'Éternel renverse Melkhior",
+      "en": "Zacharias the Everliving overthrows Melkhior",
+      "de": "Zacharias der Ewiglebende stürzt Melkhior"
+    },
+    "resume": {
+      "fr": "Le Nécrarque Zacharias tente de voler le Livre de Nagash de son maître Melkhior pendant un festin de sang. Démasqué, il s'enfuit, traqué par les serviteurs de Melkhior jusque dans les Montagnes du Milieu. Douze ans plus tard, il revient monté sur un dragon zombie et terrasse son ancien maître.",
+      "en": "The Necrarch Zacharias tries to steal the Book of Nagash from his master Melkhior during a blood-feast. Unmasked, he flees, hunted by Melkhior's minions all the way into the Middle Mountains. Twelve years later he returns astride a Zombie Dragon and defeats his former master.",
+      "de": "Der Necrarch Zacharias versucht während eines Blutfestes, seinem Meister Melkhior das Buch des Nagash zu stehlen. Entlarvt flieht er, von Melkhiors Dienern bis in die Mittelberge gejagt. Zwölf Jahre später kehrt er auf einem Zombiedrachen zurück und bezwingt seinen früheren Meister."
+    },
+    "ere": "empire-reunifie",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [],
+    "factions": [
+      "vampires"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "Entre les deux, Zacharias attaque le Wissenland en 2517 CI, voir l'événement de la bataille des Ossements.",
+      "en": "In between, Zacharias attacks Wissenland in 2517 IC, see the Battle of Bones event.",
+      "de": "Dazwischen greift Zacharias 2517 IK das Wissenland an, siehe das Ereignis zur Schlacht der Knochen."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Lexicanum, page Zacharias the Everliving",
+          "en": "Lexicanum, Zacharias the Everliving page",
+          "de": "Lexicanum, Seite Zacharias the Everliving"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Zacharias_the_Everliving"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Vampire",
+          "en": "Lexicanum, Vampire page",
+          "de": "Lexicanum, Seite Vampire"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Vampire"
+      }
+    ]
+  },
+  {
+    "id": "prophete-de-la-loi",
+    "annee": 2510,
+    "fin": null,
+    "approx": true,
+    "titre": {
+      "fr": "Le Prophète de la Loi en Araby",
+      "en": "The Prophet of Law in Araby",
+      "de": "Der Prophet des Gesetzes in Araby"
+    },
+    "resume": {
+      "fr": "Un fanatique se faisant appeler le Prophète de la Loi soulève les habitants d'Araby pour purger le pays du mal. Sa définition du mal englobe tout ce qui n'est pas humain. Dans le Vieux Monde, la rumeur d'une nouvelle guerre sainte attire des mercenaires tiléens.",
+      "en": "A fanatic calling himself the Prophet of Law stirs up the people of Araby to cleanse the land of evil. His idea of evil includes anyone who is not human. In the Old World, rumours of a new holy war draw Tilean mercenaries.",
+      "de": "Ein Fanatiker, der sich Prophet des Gesetzes nennt, wiegelt die Menschen Arabys auf, das Land vom Bösen zu säubern. Zum Bösen zählt er alles, was nicht menschlich ist. In der Alten Welt locken Gerüchte über einen neuen heiligen Krieg tileanische Söldner an."
+    },
+    "ere": "empire-reunifie",
+    "regions": [
+      "sud"
+    ],
+    "lieux": [
+      "araby"
+    ],
+    "factions": [
+      "humains-autres"
+    ],
+    "importance": 1,
+    "fiabilite": "incertain",
+    "note": {
+      "fr": "Date approximative donnée par la chronologie arabienne du wiki fandom, qui évoque aussi des rumeurs de nouveau prophète dès 2411 CI. Le lien entre les deux n'est pas établi.",
+      "en": "Approximate date given by the Arabyan timeline on the fandom wiki, which also mentions rumours of a new prophet as early as 2411 IC. The link between the two is not established.",
+      "de": "Ungefähres Datum aus der arabischen Zeitleiste des Fandom-Wikis, die schon für 2411 IK Gerüchte über einen neuen Propheten erwähnt. Ein Zusammenhang ist nicht belegt."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Araby",
+          "en": "Warhammer Fantasy Wiki (fandom), page Araby",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Araby"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Araby"
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Arabyan Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), page Arabyan Timeline",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Arabyan Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Arabyan_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "dreadfleet-de-noctilus",
+    "annee": 2522,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Le comte Noctilus et la Flotte maudite",
+      "en": "Count Noctilus and the Dreadfleet",
+      "de": "Graf Noctilus und die Dreadfleet"
+    },
+    "resume": {
+      "fr": "Le soir de Geheimnisnacht, le vampire Nyklaus von Carstein accomplit un rituel qui transporte son château entier au cœur du Cimetière des galions. Sous le nom de comte Noctilus, il lève une flotte de navires morts-vivants et ravage Sartosa. Une coalition de seigneurs pirates finit par le traquer et le détruire.",
+      "en": "On Geheimnisnacht, the vampire Nyklaus von Carstein performs a ritual that moves his whole castle into the heart of the Galleon's Graveyard. As Count Noctilus he raises a fleet of undead ships and ravages Sartosa. A coalition of pirate lords eventually hunts him down and destroys him.",
+      "de": "In der Geheimnisnacht vollzieht der Vampir Nyklaus von Carstein ein Ritual, das seine ganze Burg ins Herz des Galeonenfriedhofs versetzt. Als Graf Noctilus erhebt er eine Flotte untoter Schiffe und verheert Sartosa. Eine Koalition von Piratenfürsten spürt ihn schließlich auf und vernichtet ihn."
+    },
+    "ere": "empire-reunifie",
+    "regions": [
+      "tilee-estalie"
+    ],
+    "lieux": [
+      "sartosa"
+    ],
+    "factions": [
+      "vampires",
+      "humains-autres"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "Récit tiré du jeu Dreadfleet (2011). C'est la même année que la Tempête du Chaos.",
+      "en": "Story taken from the Dreadfleet game (2011). It is the same year as the Storm of Chaos.",
+      "de": "Handlung aus dem Spiel Dreadfleet (2011). Es ist dasselbe Jahr wie der Sturm des Chaos."
+    },
+    "sources": [
+      {
+        "titre": "Dreadfleet (2011)",
+        "detail": "",
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Count Noctilus",
+          "en": "Lexicanum, Count Noctilus page",
+          "de": "Lexicanum, Seite Count Noctilus"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Count_Noctilus"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Dreadfleet",
+          "en": "Lexicanum, Dreadfleet page",
+          "de": "Lexicanum, Seite Dreadfleet"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Dreadfleet"
+      }
+    ]
+  }
+]

@@ -1,0 +1,3728 @@
+[
+  {
+    "id": "migration-des-thurini",
+    "annee": -304,
+    "fin": null,
+    "approx": true,
+    "titre": {
+      "fr": "Les Thurini gagnent la mer des Griffes",
+      "en": "The Thurini reach the Sea of Claws",
+      "de": "Die Thurini erreichen das Klauenmeer"
+    },
+    "resume": {
+      "fr": "Venue de l'est des Montagnes du Bord du Monde, la tribu humaine des Thurini remonte le cours de la Lynsk jusqu'au rivage sud-est de la mer des Griffes. C'est l'une des premières migrations humaines connues sur les terres du futur Kislev.",
+      "en": "Coming from east of the Worlds Edge Mountains, the human tribe of the Thurini follows the River Lynsk to the south-eastern shore of the Sea of Claws. It is one of the earliest known human migrations into the lands of the future Kislev.",
+      "de": "Der Menschenstamm der Thurini kommt von östlich des Weltrandgebirges, folgt dem Fluss Lynsk und erreicht das Südostufer des Klauenmeers. Es ist eine der frühesten bekannten Wanderungen von Menschen in die Lande des späteren Kislev."
+    },
+    "ere": "age-des-tribus",
+    "regions": [
+      "kislev"
+    ],
+    "lieux": [],
+    "factions": [
+      "humains-autres"
+    ],
+    "importance": 1,
+    "fiabilite": "incertain",
+    "note": {
+      "fr": "Date donnée comme approximative par Realm of the Ice Queen (vers -1828 du calendrier gospodar). Fait mentionné par une seule source.",
+      "en": "Date given as approximate by Realm of the Ice Queen (around -1828 in the Gospodar calendar). Only one source mentions it.",
+      "de": "Das Datum ist in Realm of the Ice Queen nur ungefähr angegeben (um -1828 nach gospodarischem Kalender). Nur eine Quelle erwähnt es."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Realm of the Ice Queen, Warhammer Fantasy Roleplay 2e édition (2007)",
+          "en": "Realm of the Ice Queen, Warhammer Fantasy Roleplay 2nd edition (2007)",
+          "de": "Realm of the Ice Queen, Warhammer Fantasy Roleplay 2. Edition (2007)"
+        },
+        "detail": {
+          "fr": "p. 18",
+          "en": "p. 18",
+          "de": "S. 18"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Kislev Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), Kislev Timeline page",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Kislev Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Kislev_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "gospodars-quittent-les-steppes",
+    "annee": 1479,
+    "fin": null,
+    "approx": true,
+    "titre": {
+      "fr": "Les Gospodars quittent les steppes de l'Est",
+      "en": "The Gospodars leave the Eastern Steppes",
+      "de": "Die Gospodaren verlassen die Östlichen Steppen"
+    },
+    "resume": {
+      "fr": "Pressées par l'expansion des tribus du Nord vouées au Chaos, les tribus gospodars refusent de se soumettre aux dieux sombres et prennent la route de l'ouest. Leur migration dure plusieurs années avant le passage des montagnes sous la conduite de Miska.",
+      "en": "Pressed by the expansion of the Chaos-worshipping tribes of the north, the Gospodar tribes refuse to bow to the Dark Gods and set off westwards. Their migration lasts several years before they cross the mountains under Miska's lead.",
+      "de": "Bedrängt von der Ausbreitung der chaosanbetenden Stämme des Nordens weigern sich die Gospodaren, sich den Dunklen Göttern zu unterwerfen, und ziehen nach Westen. Ihre Wanderung dauert mehrere Jahre, bevor sie unter Miskas Führung die Berge überqueren."
+    },
+    "ere": "trois-empereurs",
+    "regions": [
+      "kislev",
+      "desolations"
+    ],
+    "lieux": [],
+    "factions": [
+      "kislev",
+      "chaos"
+    ],
+    "importance": 1,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "Vers -45 du calendrier gospodar, qui commence en 1524 CI avec la fondation de la cité de Kislev.",
+      "en": "Around -45 in the Gospodar calendar, which begins in 1524 IC with the founding of the city of Kislev.",
+      "de": "Um -45 nach gospodarischem Kalender, der 1524 IK mit der Gründung der Stadt Kislev beginnt."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Realm of the Ice Queen, Warhammer Fantasy Roleplay 2e édition (2007)",
+          "en": "Realm of the Ice Queen, Warhammer Fantasy Roleplay 2nd edition (2007)",
+          "de": "Realm of the Ice Queen, Warhammer Fantasy Roleplay 2. Edition (2007)"
+        },
+        "detail": {
+          "fr": "p. 18",
+          "en": "p. 18",
+          "de": "S. 18"
+        },
+        "url": ""
+      },
+      {
+        "titre": "Warhammer Chronicles 2004",
+        "detail": {
+          "fr": "p. 16",
+          "en": "p. 16",
+          "de": "S. 16"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Kislev Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), Kislev Timeline page",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Kislev Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Kislev_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "prise-de-praag-par-les-gospodars",
+    "annee": 1497,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Les Gospodars s'emparent de Praag",
+      "en": "The Gospodars take Praag",
+      "de": "Die Gospodaren nehmen Praag ein"
+    },
+    "resume": {
+      "fr": "La cité ungole de Praag, sur la Lynsk, tombe aux mains des Gospodars venus de l'est. Les Ungols sont refoulés vers l'ouest et le nord. Praag, la plus ancienne ville du pays, devient l'avant-poste du nouveau royaume face au Pays des Trolls.",
+      "en": "The Ungol city of Praag, on the River Lynsk, falls to the Gospodars from the east. The Ungols are pushed back to the west and north. Praag, the oldest city in the land, becomes the new realm's outpost facing Troll Country.",
+      "de": "Die ungolische Stadt Praag am Lynsk fällt an die aus dem Osten kommenden Gospodaren. Die Ungol werden nach Westen und Norden abgedrängt. Praag, die älteste Stadt des Landes, wird zum Vorposten des neuen Reiches gegenüber dem Trollland."
+    },
+    "ere": "trois-empereurs",
+    "regions": [
+      "kislev"
+    ],
+    "lieux": [
+      "praag"
+    ],
+    "factions": [
+      "kislev"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": "Warhammer Chronicles 2004",
+        "detail": {
+          "fr": "p. 16",
+          "en": "p. 16",
+          "de": "S. 16"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Kislev Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), Kislev Timeline page",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Kislev Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Kislev_Timeline"
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Praag",
+          "en": "Warhammer Fantasy Wiki (fandom), Praag page",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Praag"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Praag"
+      }
+    ]
+  },
+  {
+    "id": "hetis-chaq-ecrase-les-roppsmenn",
+    "annee": 1499,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Hetis Chaq écrase les Roppsmenn",
+      "en": "Hetis Chaq crushes the Roppsmenn",
+      "de": "Hetis Chaq zerschlägt die Roppsmenn"
+    },
+    "resume": {
+      "fr": "Chassé par les Gospodars, le chef de guerre ungol Hetis Chaq se retourne contre les Roppsmenn du roi Weiran et les bat sur les falaises qui dominent la mer des Griffes. Les Roppsmenn sont dispersés et les Ungols occupent leurs terres, dans ce qui deviendra le nord du Kislev.",
+      "en": "Driven out by the Gospodars, the Ungol warlord Hetis Chaq turns on the Roppsmenn of King Weiran and defeats them on the cliffs overlooking the Sea of Claws. The Roppsmenn are scattered and the Ungols take their lands, in what will become northern Kislev.",
+      "de": "Von den Gospodaren vertrieben, wendet sich der ungolische Kriegsherr Hetis Chaq gegen die Roppsmenn König Weirans und besiegt sie auf den Klippen über dem Klauenmeer. Die Roppsmenn werden zerstreut und die Ungol nehmen ihr Land ein, das spätere nördliche Kislev."
+    },
+    "ere": "trois-empereurs",
+    "regions": [
+      "kislev"
+    ],
+    "lieux": [],
+    "factions": [
+      "kislev",
+      "humains-autres"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "L'orthographe varie selon les sources : Roppsmenn ou Ropsmenn, Hetis ou Hethis Chaq.",
+      "en": "Spelling varies between sources: Roppsmenn or Ropsmenn, Hetis or Hethis Chaq.",
+      "de": "Die Schreibweise schwankt je nach Quelle: Roppsmenn oder Ropsmenn, Hetis oder Hethis Chaq."
+    },
+    "sources": [
+      {
+        "titre": "Warhammer Chronicles 2004",
+        "detail": {
+          "fr": "p. 16",
+          "en": "p. 16",
+          "de": "S. 16"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Kislev Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), Kislev Timeline page",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Kislev Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Kislev_Timeline"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Hethis Chaq",
+          "en": "Lexicanum, Hethis Chaq page",
+          "de": "Lexicanum, Seite Hethis Chaq"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Hethis_Chaq"
+      }
+    ]
+  },
+  {
+    "id": "bataille-des-cimeterres",
+    "annee": 1515,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "La bataille des Cimeterres",
+      "en": "The Battle of the Scimitars",
+      "de": "Die Schlacht der Krummsäbel"
+    },
+    "resume": {
+      "fr": "La horde de la khan-reine Miska affronte les armées réunies de l'Empire, des Nains et de la Bretonnie. La bataille reste indécise. Miska se replie au nord, fortifie ses frontières et proclame le royaume des Kislevites, que ses adversaires sont trop affaiblis pour reconquérir.",
+      "en": "The horde of Khan-Queen Miska clashes with the combined armies of the Empire, the Dwarfs and Bretonnia. The battle is indecisive. Miska withdraws north, fortifies her borders and proclaims the realm of the Kislevites, which her opponents are too weak to reconquer.",
+      "de": "Die Horde der Khankönigin Miska trifft auf die vereinten Heere des Imperiums, der Zwerge und Bretonias. Die Schlacht endet unentschieden. Miska zieht sich nach Norden zurück, befestigt ihre Grenzen und ruft das Reich der Kisleviten aus, das ihre Gegner zu schwach sind zurückzuerobern."
+    },
+    "ere": "trois-empereurs",
+    "regions": [
+      "kislev",
+      "empire"
+    ],
+    "lieux": [],
+    "factions": [
+      "kislev",
+      "empire",
+      "nains",
+      "bretonnie"
+    ],
+    "importance": 1,
+    "fiabilite": "incertain",
+    "note": {
+      "fr": "Récit tiré du Citadel Journal 14 (1996), que le wiki qualifie d'apocryphe. Il ne s'accorde pas bien avec les sources plus récentes.",
+      "en": "Account from Citadel Journal 14 (1996), which the wiki calls apocryphal. It does not fit well with more recent sources.",
+      "de": "Bericht aus dem Citadel Journal 14 (1996), den das Wiki als apokryph einstuft. Er passt schlecht zu neueren Quellen."
+    },
+    "sources": [
+      {
+        "titre": "Citadel Journal 14 (1996)",
+        "detail": {
+          "fr": "article « Kislev: The Claws of the Great Bear », p. 12",
+          "en": "article \"Kislev: The Claws of the Great Bear\", p. 12",
+          "de": "Artikel „Kislev: The Claws of the Great Bear“, S. 12"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Kislev Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), Kislev Timeline page",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Kislev Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Kislev_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "norvard-devient-erengrad",
+    "annee": 1527,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Norvard devient Erengrad",
+      "en": "Norvard becomes Erengrad",
+      "de": "Norvard wird zu Erengrad"
+    },
+    "resume": {
+      "fr": "Les Gospodars prennent Norvard, la plus grande cité ungole du pays, et la rebaptisent Erengrad. Cette prise achève la conquête des terres au nord de l'Urskoy. Le port d'Erengrad devient la porte du Kislev sur la mer des Griffes.",
+      "en": "The Gospodars take Norvard, the largest Ungol city in the land, and rename it Erengrad. This capture completes the conquest of the lands north of the River Urskoy. The port of Erengrad becomes Kislev's gateway to the Sea of Claws.",
+      "de": "Die Gospodaren erobern Norvard, die größte ungolische Stadt des Landes, und benennen sie in Erengrad um. Damit ist die Eroberung der Lande nördlich des Urskoy abgeschlossen. Der Hafen Erengrad wird Kislevs Tor zum Klauenmeer."
+    },
+    "ere": "trois-empereurs",
+    "regions": [
+      "kislev"
+    ],
+    "lieux": [
+      "erengrad"
+    ],
+    "factions": [
+      "kislev"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "An 3 du calendrier gospodar.",
+      "en": "Year 3 of the Gospodar calendar.",
+      "de": "Jahr 3 des gospodarischen Kalenders."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Realm of the Ice Queen, Warhammer Fantasy Roleplay 2e édition (2007)",
+          "en": "Realm of the Ice Queen, Warhammer Fantasy Roleplay 2nd edition (2007)",
+          "de": "Realm of the Ice Queen, Warhammer Fantasy Roleplay 2. Edition (2007)"
+        },
+        "detail": {
+          "fr": "p. 18",
+          "en": "p. 18",
+          "de": "S. 18"
+        },
+        "url": ""
+      },
+      {
+        "titre": "Warhammer Chronicles 2004",
+        "detail": {
+          "fr": "p. 16",
+          "en": "p. 16",
+          "de": "S. 16"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Kislev Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), Kislev Timeline page",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Kislev Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Kislev_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "tsar-alexandr-njevski",
+    "annee": 1602,
+    "fin": 1605,
+    "approx": false,
+    "titre": {
+      "fr": "Le tsar Alexandr Njevski et l'alliance avec Dieter III",
+      "en": "Tzar Alexandr Njevski and the alliance with Dieter III",
+      "de": "Zar Alexandr Njevski und das Bündnis mit Dieter III."
+    },
+    "resume": {
+      "fr": "L'empereur Dieter III conclut une alliance avec le tsar guerrier Alexandr Njevski. En 1605, appuyé par un contingent impérial, le tsar repousse une grande armée de Peaux-vertes hors du Kislev en bataille rangée.",
+      "en": "Emperor Dieter III forms an alliance with the warrior Tzar Alexandr Njevski. In 1605, supported by an Imperial contingent, the tzar throws a large Greenskin army out of Kislev in a pitched battle.",
+      "de": "Kaiser Dieter III. schließt ein Bündnis mit dem Kriegerzaren Alexandr Njevski. Im Jahr 1605 wirft der Zar mit Unterstützung eines kaiserlichen Kontingents ein großes Heer der Grünhäute in offener Feldschlacht aus Kislev."
+    },
+    "ere": "trois-empereurs",
+    "regions": [
+      "kislev"
+    ],
+    "lieux": [],
+    "factions": [
+      "kislev",
+      "empire",
+      "peaux-vertes"
+    ],
+    "importance": 1,
+    "fiabilite": "incertain",
+    "note": {
+      "fr": "Source unique, le Citadel Journal 14 (1996).",
+      "en": "Single source, Citadel Journal 14 (1996).",
+      "de": "Einzige Quelle ist das Citadel Journal 14 (1996)."
+    },
+    "sources": [
+      {
+        "titre": "Citadel Journal 14 (1996)",
+        "detail": {
+          "fr": "article « Kislev: The Claws of the Great Bear », p. 12",
+          "en": "article \"Kislev: The Claws of the Great Bear\", p. 12",
+          "de": "Artikel „Kislev: The Claws of the Great Bear“, S. 12"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Kislev Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), Kislev Timeline page",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Kislev Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Kislev_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "igor-le-terrible",
+    "annee": 2099,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Couronnement d'Igor le Terrible",
+      "en": "Coronation of Igor the Terrible",
+      "de": "Krönung Igors des Schrecklichen"
+    },
+    "resume": {
+      "fr": "Igor le Terrible monte sur le trône de Kislev. Son premier acte est de faire décapiter le tiers de sa garde pour une insulte imaginaire. Le règne de ce tsar reste le symbole de la brutalité de la cour kislévite.",
+      "en": "Igor the Terrible ascends the throne of Kislev. His first act is to have a third of his bodyguard beheaded for an imagined insult. This tzar's reign remains a byword for the brutality of the Kislevite court.",
+      "de": "Igor der Schreckliche besteigt den Thron von Kislev. Seine erste Tat ist es, ein Drittel seiner Leibwache wegen einer eingebildeten Beleidigung enthaupten zu lassen. Die Herrschaft dieses Zaren gilt als Sinnbild für die Grausamkeit des kislevitischen Hofes."
+    },
+    "ere": "trois-empereurs",
+    "regions": [
+      "kislev"
+    ],
+    "lieux": [
+      "kislev"
+    ],
+    "factions": [
+      "kislev"
+    ],
+    "importance": 2,
+    "fiabilite": "divergent",
+    "note": {
+      "fr": "Le Citadel Journal 14 date l'avènement de 2099 CI. Something Rotten in Kislev (WFRP 1re édition) fait d'Igor un prince d'Erengrad qui unifie le pays vers 2100 et se proclame tsar en 2134 CI.",
+      "en": "Citadel Journal 14 dates the accession to 2099 IC. Something Rotten in Kislev (WFRP 1st edition) makes Igor a prince of Erengrad who unifies the land around 2100 and proclaims himself tzar in 2134 IC.",
+      "de": "Das Citadel Journal 14 datiert die Thronbesteigung auf 2099 IK. Something Rotten in Kislev (WFRP 1. Edition) macht Igor zu einem Fürsten von Erengrad, der das Land um 2100 eint und sich 2134 IK zum Zaren ausruft."
+    },
+    "sources": [
+      {
+        "titre": "Citadel Journal 14 (1996)",
+        "detail": {
+          "fr": "article « Kislev: The Claws of the Great Bear », p. 12",
+          "en": "article \"Kislev: The Claws of the Great Bear\", p. 12",
+          "de": "Artikel „Kislev: The Claws of the Great Bear“, S. 12"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Something Rotten in Kislev, Warhammer Fantasy Roleplay 1re édition (1988)",
+          "en": "Something Rotten in Kislev, Warhammer Fantasy Roleplay 1st edition (1988)",
+          "de": "Something Rotten in Kislev, Warhammer Fantasy Roleplay 1. Edition (1988)"
+        },
+        "detail": {
+          "fr": "p. 12-13",
+          "en": "pp. 12-13",
+          "de": "S. 12-13"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Kislev Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), Kislev Timeline page",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Kislev Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Kislev_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "bataille-de-kurkov",
+    "annee": 2303,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "La bataille de Kurkov",
+      "en": "The Battle of Kurkov",
+      "de": "Die Schlacht von Kurkov"
+    },
+    "resume": {
+      "fr": "Pendant la Grande Guerre contre le Chaos, la cavalerie kislévite affronte à Kurkov une immense armée de chevaliers du Chaos et la défait dans un gigantesque combat monté. Cette victoire précède de peu la bataille des Portes de Kislev.",
+      "en": "During the Great War against Chaos, the Kislevite cavalry meets an immense army of Chaos Knights at Kurkov and defeats it in a colossal mounted battle. This victory comes shortly before the Battle of the Gates of Kislev.",
+      "de": "Während des Großen Krieges gegen das Chaos trifft die kislevitische Reiterei bei Kurkov auf ein riesiges Heer von Chaosrittern und besiegt es in einer gewaltigen Reiterschlacht. Dieser Sieg geht der Schlacht vor den Toren Kislevs kurz voraus."
+    },
+    "ere": "trois-empereurs",
+    "regions": [
+      "kislev"
+    ],
+    "lieux": [],
+    "factions": [
+      "kislev",
+      "chaos"
+    ],
+    "importance": 1,
+    "fiabilite": "incertain",
+    "note": {
+      "fr": "Mentionnée seulement par le Citadel Journal 14 (1996).",
+      "en": "Only mentioned in Citadel Journal 14 (1996).",
+      "de": "Nur im Citadel Journal 14 (1996) erwähnt."
+    },
+    "sources": [
+      {
+        "titre": "Citadel Journal 14 (1996)",
+        "detail": {
+          "fr": "article « Kislev: The Claws of the Great Bear », p. 12",
+          "en": "article \"Kislev: The Claws of the Great Bear\", p. 12",
+          "de": "Artikel „Kislev: The Claws of the Great Bear“, S. 12"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Kislev Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), Kislev Timeline page",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Kislev Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Kislev_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "kattarin-la-sanglante",
+    "annee": 2309,
+    "fin": 2465,
+    "approx": false,
+    "titre": {
+      "fr": "Le règne de Kattarin la Sanglante",
+      "en": "The reign of Kattarin the Bloody",
+      "de": "Die Herrschaft Kattarins der Blutigen"
+    },
+    "resume": {
+      "fr": "Une tsarine vampire, Kattarin la Sanglante, règne sur Kislev pendant environ cent cinquante ans. Son arrière-arrière-petit-fils, le tsarévitch Pavel, met fin à sa non-vie et fait exposer son corps dans un bloc de glace au palais Bokha, en avertissement aux autres vampires.",
+      "en": "A vampire tzarina, Kattarin the Bloody, rules Kislev for about a hundred and fifty years. Her great-great-grandson, Tzarevitch Pavel, ends her unlife and has her body displayed in a block of ice in the Bokha Palace, as a warning to other vampires.",
+      "de": "Eine Vampirzarin, Kattarin die Blutige, herrscht rund hundertfünfzig Jahre über Kislev. Ihr Ururenkel, der Zarewitsch Pavel, beendet ihr Untotsein und lässt ihren Leichnam in einem Eisblock im Bokha-Palast ausstellen, als Warnung an andere Vampire."
+    },
+    "ere": "empire-reunifie",
+    "regions": [
+      "kislev"
+    ],
+    "lieux": [
+      "kislev"
+    ],
+    "factions": [
+      "kislev",
+      "vampires"
+    ],
+    "importance": 2,
+    "fiabilite": "divergent",
+    "note": {
+      "fr": "La figure vient du roman Drachenfels de Kim Newman. Realm of the Ice Queen la reprend et place son règne entre 785 et 941 du calendrier gospodar, soit 2309 à 2465 CI. Le rôle prêté aux Lahmiennes dans sa chute relève de la légende.",
+      "en": "The character comes from Kim Newman's novel Drachenfels. Realm of the Ice Queen adopts her and places her reign between 785 and 941 of the Gospodar calendar, that is 2309 to 2465 IC. The part attributed to the Lahmians in her fall is legend.",
+      "de": "Die Figur stammt aus Kim Newmans Roman Drachenfels. Realm of the Ice Queen übernimmt sie und legt ihre Herrschaft auf 785 bis 941 nach gospodarischem Kalender, also 2309 bis 2465 IK. Die Rolle der Lahmianerinnen bei ihrem Sturz ist Legende."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Realm of the Ice Queen, Warhammer Fantasy Roleplay 2e édition (2007)",
+          "en": "Realm of the Ice Queen, Warhammer Fantasy Roleplay 2nd edition (2007)",
+          "de": "Realm of the Ice Queen, Warhammer Fantasy Roleplay 2. Edition (2007)"
+        },
+        "detail": {
+          "fr": "p. 18",
+          "en": "p. 18",
+          "de": "S. 18"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Kislev Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), Kislev Timeline page",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Kislev Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Kislev_Timeline"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Kattarin",
+          "en": "Lexicanum, Kattarin page",
+          "de": "Lexicanum, Seite Kattarin"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Kattarin"
+      }
+    ]
+  },
+  {
+    "id": "boris-bokha-le-rouge",
+    "annee": 2492,
+    "fin": 2493,
+    "approx": false,
+    "titre": {
+      "fr": "Boris Bokha devient tsar, « Radii Bokha »",
+      "en": "Boris Bokha becomes tzar, \"Radii Bokha\"",
+      "de": "Boris Bokha wird Zar, „Radii Bokha“"
+    },
+    "resume": {
+      "fr": "Le tsar Vladimir Bokha tombe en combattant des Gobelins à l'est de Kislev. Son fils Boris hérite d'un royaume qui ne s'est jamais vraiment relevé de la Grande Guerre contre le Chaos. L'année suivante, il écrase une grande armée d'Hommes-bêtes devant Praag et gagne le surnom de Radii Bokha, Bokha le Rouge.",
+      "en": "Tzar Vladimir Bokha falls fighting Goblins east of Kislev. His son Boris inherits a realm that has never truly recovered from the Great War against Chaos. The following year he crushes a large Beastmen army outside Praag and earns the name Radii Bokha, Bokha the Red.",
+      "de": "Zar Vladimir Bokha fällt im Kampf gegen Goblins östlich von Kislev. Sein Sohn Boris erbt ein Reich, das sich vom Großen Krieg gegen das Chaos nie wirklich erholt hat. Im Jahr darauf zerschlägt er vor Praag ein großes Heer von Tiermenschen und erhält den Beinamen Radii Bokha, Bokha der Rote."
+    },
+    "ere": "empire-reunifie",
+    "regions": [
+      "kislev"
+    ],
+    "lieux": [
+      "kislev",
+      "praag"
+    ],
+    "factions": [
+      "kislev",
+      "peaux-vertes",
+      "chaos"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Realm of the Ice Queen, Warhammer Fantasy Roleplay 2e édition (2007)",
+          "en": "Realm of the Ice Queen, Warhammer Fantasy Roleplay 2nd edition (2007)",
+          "de": "Realm of the Ice Queen, Warhammer Fantasy Roleplay 2. Edition (2007)"
+        },
+        "detail": {
+          "fr": "p. 18",
+          "en": "p. 18",
+          "de": "S. 18"
+        },
+        "url": ""
+      },
+      {
+        "titre": "Warhammer Chronicles 2004",
+        "detail": {
+          "fr": "p. 16",
+          "en": "p. 16",
+          "de": "S. 16"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Kislev Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), Kislev Timeline page",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Kislev Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Kislev_Timeline"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Boris Ursus",
+          "en": "Lexicanum, Boris Ursus page",
+          "de": "Lexicanum, Seite Boris Ursus"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Boris_Ursus"
+      }
+    ]
+  },
+  {
+    "id": "boris-ursus-pretre-d-ursun",
+    "annee": 2497,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Boris Bokha devient Boris Ursus",
+      "en": "Boris Bokha becomes Boris Ursus",
+      "de": "Boris Bokha wird zu Boris Ursus"
+    },
+    "resume": {
+      "fr": "Le tsar Boris revient des étendues sauvages avec l'ours de guerre Urskin. Il devient le premier grand prêtre du culte d'Ursun depuis plus de quatre siècles et prend le nom de Boris Ursus pour afficher sa piété.",
+      "en": "Tzar Boris returns from the wilds with the war bear Urskin. He becomes the first high priest of the cult of Ursun in more than four centuries and takes the name Boris Ursus to show his piety.",
+      "de": "Zar Boris kehrt mit dem Kriegsbären Urskin aus der Wildnis zurück. Er wird der erste Hohepriester des Kultes des Ursun seit über vier Jahrhunderten und nimmt den Namen Boris Ursus an, um seine Frömmigkeit zu zeigen."
+    },
+    "ere": "empire-reunifie",
+    "regions": [
+      "kislev"
+    ],
+    "lieux": [],
+    "factions": [
+      "kislev"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Realm of the Ice Queen, Warhammer Fantasy Roleplay 2e édition (2007)",
+          "en": "Realm of the Ice Queen, Warhammer Fantasy Roleplay 2nd edition (2007)",
+          "de": "Realm of the Ice Queen, Warhammer Fantasy Roleplay 2. Edition (2007)"
+        },
+        "detail": {
+          "fr": "p. 18",
+          "en": "p. 18",
+          "de": "S. 18"
+        },
+        "url": ""
+      },
+      {
+        "titre": "Warhammer Chronicles 2004",
+        "detail": {
+          "fr": "p. 16",
+          "en": "p. 16",
+          "de": "S. 16"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Kislev Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), Kislev Timeline page",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Kislev Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Kislev_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "katarin-reine-des-glaces",
+    "annee": 2517,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Katarin devient tsarine, la Reine des Glaces",
+      "en": "Katarin becomes Tzarina, the Ice Queen",
+      "de": "Katarin wird Zarin, die Eiskönigin"
+    },
+    "resume": {
+      "fr": "Boris Ursus est tué au-delà de la Lynsk, dans le Pays des Trolls, en combattant le chef hetzar Feydaj. Sa fille Katarin, la plus puissante sorcière des glaces que le Kislev ait connue depuis des siècles, monte sur le trône. On dit qu'à son avènement, le palais Bokha se dota d'une aile de glace longue d'un demi-mille.",
+      "en": "Boris Ursus is killed beyond the River Lynsk, in Troll Country, fighting the Hetzar Feydaj. His daughter Katarin, the most powerful Ice Witch Kislev has seen in centuries, takes the throne. It is said that on her accession the Bokha Palace grew a wing of ice half a mile long.",
+      "de": "Boris Ursus fällt jenseits des Lynsk im Trollland im Kampf gegen den Hetzar Feydaj. Seine Tochter Katarin, die mächtigste Eishexe, die Kislev seit Jahrhunderten gesehen hat, besteigt den Thron. Es heißt, bei ihrer Thronbesteigung sei dem Bokha-Palast ein eine halbe Meile langer Flügel aus Eis gewachsen."
+    },
+    "ere": "empire-reunifie",
+    "regions": [
+      "kislev"
+    ],
+    "lieux": [
+      "kislev"
+    ],
+    "factions": [
+      "kislev",
+      "chaos"
+    ],
+    "importance": 3,
+    "fiabilite": "divergent",
+    "note": {
+      "fr": "Le Citadel Journal 14 place la mort de Boris en 2512 CI, dans des circonstances mystérieuses. Realm of the Ice Queen et les livres d'armées retiennent 2517 CI.",
+      "en": "Citadel Journal 14 places Boris's death in 2512 IC, in mysterious circumstances. Realm of the Ice Queen and the army books give 2517 IC.",
+      "de": "Das Citadel Journal 14 setzt Boris' Tod auf 2512 IK unter rätselhaften Umständen. Realm of the Ice Queen und die Armeebücher nennen 2517 IK."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Realm of the Ice Queen, Warhammer Fantasy Roleplay 2e édition (2007)",
+          "en": "Realm of the Ice Queen, Warhammer Fantasy Roleplay 2nd edition (2007)",
+          "de": "Realm of the Ice Queen, Warhammer Fantasy Roleplay 2. Edition (2007)"
+        },
+        "detail": {
+          "fr": "p. 18",
+          "en": "p. 18",
+          "de": "S. 18"
+        },
+        "url": ""
+      },
+      {
+        "titre": "Warhammer Chronicles 2004",
+        "detail": {
+          "fr": "p. 16",
+          "en": "p. 16",
+          "de": "S. 16"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Katarin",
+          "en": "Lexicanum, Katarin page",
+          "de": "Lexicanum, Seite Katarin"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Katarin"
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Kislev Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), Kislev Timeline page",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Kislev Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Kislev_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "siege-de-praag-arek-griffe-demon",
+    "annee": 2500,
+    "fin": null,
+    "approx": true,
+    "titre": {
+      "fr": "Arek Griffe-Démon assiège Praag",
+      "en": "Arek Daemonclaw besieges Praag",
+      "de": "Arek Dämonenklaue belagert Praag"
+    },
+    "resume": {
+      "fr": "Au début du XXVIe siècle, le seigneur de Tzeentch Arek Griffe-Démon mène contre Praag la plus grande invasion qu'ait connue la ville depuis deux siècles. La milice gospodar et un bombardement du dirigeable nain Esprit de Grungni sauvent la cité, et Arek est tué. Plus de la moitié de la ville neuve brûle et près d'un quart des habitants périt.",
+      "en": "In the early 26th century, the Tzeentch lord Arek Daemonclaw leads against Praag the greatest invasion the city has seen in two centuries. The Gospodar militia and a bombing run by the Dwarf airship Spirit of Grungni save the city, and Arek is slain. More than half the New Town burns and nearly a quarter of the inhabitants die.",
+      "de": "Zu Beginn des 26. Jahrhunderts führt der Tzeentch-Fürst Arek Dämonenklaue den größten Angriff seit zwei Jahrhunderten gegen Praag. Die gospodarische Miliz und ein Bombenangriff des Zwergenluftschiffs Geist von Grungni retten die Stadt, Arek wird getötet. Mehr als die Hälfte der Neustadt brennt nieder und fast ein Viertel der Einwohner stirbt."
+    },
+    "ere": "empire-reunifie",
+    "regions": [
+      "kislev"
+    ],
+    "lieux": [
+      "praag"
+    ],
+    "factions": [
+      "chaos",
+      "kislev",
+      "nains"
+    ],
+    "importance": 1,
+    "fiabilite": "incertain",
+    "note": {
+      "fr": "Épisode du roman Beastslayer de William King (Gotrek et Felix), sans année précise. La date de 2500 CI est une estimation pour le placer sur la frise.",
+      "en": "Episode from William King's novel Beastslayer (Gotrek and Felix), with no precise year. The date of 2500 IC is an estimate to place it on the timeline.",
+      "de": "Episode aus William Kings Roman Beastslayer (Gotrek und Felix) ohne genaue Jahreszahl. Das Datum 2500 IK ist eine Schätzung, um es auf der Zeitleiste einzuordnen."
+    },
+    "sources": [
+      {
+        "titre": "Beastslayer, William King (2001)",
+        "detail": "",
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Praag",
+          "en": "Warhammer Fantasy Wiki (fandom), Praag page",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Praag"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Praag"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Arek Daemonclaw",
+          "en": "Lexicanum, Arek Daemonclaw page",
+          "de": "Lexicanum, Seite Arek Daemonclaw"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Arek_Daemonclaw"
+      }
+    ]
+  },
+  {
+    "id": "be-lakor-premier-prince-demon",
+    "annee": -5600,
+    "fin": null,
+    "approx": true,
+    "titre": {
+      "fr": "Be'lakor, le premier prince démon",
+      "en": "Be'lakor, the first Daemon Prince",
+      "de": "Be'lakor, der erste Dämonenprinz"
+    },
+    "resume": {
+      "fr": "À l'aube du monde, un guerrier primitif nommé Be'lakor est le premier mortel à vouer son âme aux dieux du Chaos, qui le recréent en prince démon. Il trompe ses maîtres, revient dans le monde mortel lors de la Grande Catastrophe et y règne comme un dieu sur les hommes du Nord.",
+      "en": "At the dawn of the world, a primitive warrior named Be'lakor is the first mortal to pledge his soul to the Chaos Gods, who remake him as a Daemon Prince. He tricks his masters, returns to the mortal world during the Great Catastrophe and rules the Men of the north as a god.",
+      "de": "In der Frühzeit der Welt verschreibt ein primitiver Krieger namens Be'lakor als erster Sterblicher seine Seele den Chaosgöttern, die ihn zum Dämonenprinzen umformen. Er überlistet seine Herren, kehrt während der Großen Katastrophe in die Welt der Sterblichen zurück und herrscht wie ein Gott über die Menschen des Nordens."
+    },
+    "ere": "grande-catastrophe",
+    "regions": [
+      "desolations"
+    ],
+    "lieux": [
+      "desolations"
+    ],
+    "factions": [
+      "chaos"
+    ],
+    "importance": 3,
+    "fiabilite": "incertain",
+    "note": {
+      "fr": "Aucune date n'est donnée. Le retour de Be'lakor coïncide avec l'effondrement des portails polaires, d'où l'année retenue.",
+      "en": "No date is given. Be'lakor's return coincides with the collapse of the Polar Gates, hence the year chosen.",
+      "de": "Es wird kein Datum genannt. Be'lakors Rückkehr fällt mit dem Zusammenbruch der Polartore zusammen, daher das gewählte Jahr."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Daemons of Chaos, 8e édition (2013)",
+          "en": "Warhammer Armies: Daemons of Chaos, 8th edition (2013)",
+          "de": "Warhammer Armies: Daemons of Chaos, 8. Edition (2013)"
+        },
+        "detail": "",
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Be'lakor",
+          "en": "Warhammer Fantasy Wiki (fandom), Be'lakor page",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Be'lakor"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Be%27lakor"
+      }
+    ]
+  },
+  {
+    "id": "malediction-de-be-lakor",
+    "annee": -4420,
+    "fin": null,
+    "approx": true,
+    "titre": {
+      "fr": "La malédiction de Be'lakor",
+      "en": "The curse of Be'lakor",
+      "de": "Der Fluch Be'lakors"
+    },
+    "resume": {
+      "fr": "Le Grand Vortex des Elfes aspire la magie du monde et Be'lakor est le dernier démon arraché au monde mortel. Pour le punir de ses tromperies, les dieux du Chaos ne le laissent plus revenir que pour couronner l'Élu Éternel, avant de le renvoyer à chaque défaite de celui-ci.",
+      "en": "The Elves' Great Vortex drains the magic from the world and Be'lakor is the last daemon pulled out of the mortal realm. To punish his deceits, the Chaos Gods now only let him return to crown the Everchosen, and banish him again each time that champion is defeated.",
+      "de": "Der Große Mahlstrom der Elfen saugt die Magie aus der Welt, und Be'lakor ist der letzte Dämon, der aus der Welt der Sterblichen gerissen wird. Zur Strafe für seine Täuschungen lassen ihn die Chaosgötter fortan nur noch zurückkehren, um den Ewig Erwählten zu krönen, und verbannen ihn bei jeder Niederlage dieses Champions erneut."
+    },
+    "ere": "grande-catastrophe",
+    "regions": [
+      "desolations",
+      "ulthuan"
+    ],
+    "lieux": [
+      "desolations"
+    ],
+    "factions": [
+      "chaos",
+      "hauts-elfes"
+    ],
+    "importance": 2,
+    "fiabilite": "incertain",
+    "note": {
+      "fr": "La malédiction n'est pas datée. Elle suit le bannissement provoqué par le Grand Vortex, en -4420 CI.",
+      "en": "The curse is undated. It follows the banishment caused by the Great Vortex, in -4420 IC.",
+      "de": "Der Fluch ist nicht datiert. Er folgt auf die Verbannung durch den Großen Mahlstrom im Jahr -4420 IK."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Daemons of Chaos, 8e édition (2013)",
+          "en": "Warhammer Armies: Daemons of Chaos, 8th edition (2013)",
+          "de": "Warhammer Armies: Daemons of Chaos, 8. Edition (2013)"
+        },
+        "detail": "",
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Be'lakor",
+          "en": "Warhammer Fantasy Wiki (fandom), Be'lakor page",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Be'lakor"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Be%27lakor"
+      }
+    ]
+  },
+  {
+    "id": "migration-des-norsii",
+    "annee": -1012,
+    "fin": null,
+    "approx": true,
+    "titre": {
+      "fr": "La migration des Norsii",
+      "en": "The migration of the Norsii",
+      "de": "Die Wanderung der Norsii"
+    },
+    "resume": {
+      "fr": "Les chroniques des Nains de Norsca datent de cette époque l'arrivée des tribus humaines du Nord, une vingtaine d'années avant que les tribus ancêtres de l'Empire ne franchissent le col du Feu Noir. Ces Norsii s'installent sur la côte sud de la mer des Griffes et vivent de pillage.",
+      "en": "The chronicles of the Norse Dwarfs date to this time the arrival of the northern human tribes, some twenty years before the ancestor tribes of the Empire cross Black Fire Pass. These Norsii settle on the southern coast of the Sea of Claws and live by raiding.",
+      "de": "Die Chroniken der Norse-Zwerge datieren die Ankunft der nördlichen Menschenstämme auf diese Zeit, etwa zwanzig Jahre bevor die Vorfahrenstämme des Imperiums den Schwarzfeuerpass überqueren. Diese Norsii siedeln an der Südküste des Klauenmeers und leben von Raubzügen."
+    },
+    "ere": "age-des-tribus",
+    "regions": [
+      "norsca",
+      "empire"
+    ],
+    "lieux": [],
+    "factions": [
+      "humains-autres",
+      "chaos"
+    ],
+    "importance": 1,
+    "fiabilite": "incertain",
+    "note": {
+      "fr": "Date rapportée par la page fandom sur la Norsca, à partir d'une source de WFRP 4e édition non identifiée.",
+      "en": "Date reported by the fandom page on Norsca, from an unidentified WFRP 4th edition source.",
+      "de": "Datum nach der Fandom-Seite über Norsca, gestützt auf eine nicht genauer bezeichnete Quelle der WFRP 4. Edition."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Norsca",
+          "en": "Warhammer Fantasy Wiki (fandom), Norsca page",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Norsca"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Norsca"
+      }
+    ]
+  },
+  {
+    "id": "dletch-et-les-panses-noires",
+    "annee": -1002,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Dletch l'Impitoyable et la tribu des Panses-Noires",
+      "en": "Dletch the Merciless and the Black Gut tribe",
+      "de": "Dletch der Gnadenlose und der Stamm der Schwarzbäuche"
+    },
+    "resume": {
+      "fr": "Lorsque le seigneur du Chaos Dletch l'Impitoyable traverse leurs terres, les Ogres de la tribu des Panses-Noires se joignent à son armée. Le salaire convenu est d'un humain par jour et par Ogre, un marché qui élimine vite les plus faibles de ses troupes.",
+      "en": "As the Chaos Lord Dletch the Merciless marches through their lands, the Ogres of the Black Gut tribe join his army. The agreed wage is one human per day per Ogre, a bargain that quickly weeds out the weak from his host.",
+      "de": "Als der Chaosfürst Dletch der Gnadenlose durch ihr Land zieht, schließen sich die Oger vom Stamm der Schwarzbäuche seinem Heer an. Der vereinbarte Lohn ist ein Mensch pro Tag und Oger, ein Handel, der die Schwachen in seinem Heer rasch aussiebt."
+    },
+    "ere": "age-des-tribus",
+    "regions": [
+      "orient",
+      "desolations"
+    ],
+    "lieux": [],
+    "factions": [
+      "chaos",
+      "ogres"
+    ],
+    "importance": 1,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Warriors of Chaos, 7e édition (2007)",
+          "en": "Warhammer Armies: Warriors of Chaos, 7th edition (2007)",
+          "de": "Warhammer Armies: Warriors of Chaos, 7. Edition (2007)"
+        },
+        "detail": {
+          "fr": "p. 38",
+          "en": "p. 38",
+          "de": "S. 38"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Warriors of Chaos Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), Warriors of Chaos Timeline page",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Warriors of Chaos Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Warriors_of_Chaos_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "arbaal-defie-khorne",
+    "annee": -830,
+    "fin": null,
+    "approx": true,
+    "titre": {
+      "fr": "Arbaal l'Invaincu défie Khorne",
+      "en": "Arbaal the Undefeated challenges Khorne",
+      "de": "Arbaal der Unbesiegte fordert Khorne heraus"
+    },
+    "resume": {
+      "fr": "Lassé de ne trouver aucun adversaire digne de lui dans le monde mortel, Arbaal l'Invaincu, le Destructeur de Khorne, chevauche jusque sur la Plaine des Crânes pour défier le Dieu du Sang en personne.",
+      "en": "Tired of finding no foe worthy of him in the mortal world, Arbaal the Undefeated, the Destroyer of Khorne, rides onto the Plain of Skulls to challenge the Blood God himself.",
+      "de": "Da er in der Welt der Sterblichen keinen würdigen Gegner mehr findet, reitet Arbaal der Unbesiegte, der Zerstörer des Khorne, auf die Ebene der Schädel, um den Blutgott selbst herauszufordern."
+    },
+    "ere": "age-des-tribus",
+    "regions": [
+      "desolations"
+    ],
+    "lieux": [
+      "desolations"
+    ],
+    "factions": [
+      "chaos"
+    ],
+    "importance": 1,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Warriors of Chaos, 8e édition (2013)",
+          "en": "Warhammer Armies: Warriors of Chaos, 8th edition (2013)",
+          "de": "Warhammer Armies: Warriors of Chaos, 8. Edition (2013)"
+        },
+        "detail": {
+          "fr": "p. 14",
+          "en": "p. 14",
+          "de": "S. 14"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Warriors of Chaos Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), Warriors of Chaos Timeline page",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Warriors of Chaos Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Warriors_of_Chaos_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "norsii-chasses-en-norsca",
+    "annee": 1,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Les Norsii chassés vers la Norsca",
+      "en": "The Norsii driven into Norsca",
+      "de": "Die Norsii werden nach Norsca vertrieben"
+    },
+    "resume": {
+      "fr": "Par un grand assaut, Sigmar disperse les Norsii, peuple pirate établi sur la côte sud de la mer des Griffes. Les Ungols les repoussent ensuite plus au nord, dans la péninsule glacée qui prend le nom de Norsca. Les Ungols et le jeune Empire restent en paix après avoir combattu ensemble les Orques.",
+      "en": "With a great assault, Sigmar scatters the Norsii, a piratical people settled on the southern shore of the Sea of Claws. The Ungols then drive them further north into the frozen peninsula that becomes known as Norsca. The Ungols and the young Empire remain at peace after fighting the Orcs together.",
+      "de": "Mit einem großen Angriff zerstreut Sigmar die Norsii, ein Piratenvolk an der Südküste des Klauenmeers. Die Ungol drängen sie daraufhin weiter nach Norden auf die eisige Halbinsel, die den Namen Norsca erhält. Die Ungol und das junge Imperium bleiben in Frieden, nachdem sie gemeinsam gegen die Orks gekämpft haben."
+    },
+    "ere": "empire-sigmarite",
+    "regions": [
+      "norsca",
+      "kislev",
+      "empire"
+    ],
+    "lieux": [],
+    "factions": [
+      "humains-autres",
+      "empire",
+      "kislev"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "Le roman Dieu-Roi de Graham McNeill place cette campagne avant le couronnement de Sigmar. La chronologie de Realm of the Ice Queen la rattache à la fondation de l'Empire.",
+      "en": "Graham McNeill's novel God King places this campaign before Sigmar's coronation. The Realm of the Ice Queen timeline links it to the founding of the Empire.",
+      "de": "Graham McNeills Roman God King legt diesen Feldzug vor Sigmars Krönung. Die Zeitleiste von Realm of the Ice Queen verknüpft ihn mit der Gründung des Imperiums."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Realm of the Ice Queen, Warhammer Fantasy Roleplay 2e édition (2007)",
+          "en": "Realm of the Ice Queen, Warhammer Fantasy Roleplay 2nd edition (2007)",
+          "de": "Realm of the Ice Queen, Warhammer Fantasy Roleplay 2. Edition (2007)"
+        },
+        "detail": {
+          "fr": "p. 18",
+          "en": "p. 18",
+          "de": "S. 18"
+        },
+        "url": ""
+      },
+      {
+        "titre": "Warhammer Chronicles 2004",
+        "detail": {
+          "fr": "p. 16",
+          "en": "p. 16",
+          "de": "S. 16"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Kislev Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), Kislev Timeline page",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Kislev Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Kislev_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "morkar-le-rassembleur",
+    "annee": 1,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Morkar le Rassembleur, premier Élu Éternel",
+      "en": "Morkar the Uniter, the first Everchosen",
+      "de": "Morkar der Einiger, der erste Ewig Erwählte"
+    },
+    "resume": {
+      "fr": "Survivant d'un village norsii rasé par Sigmar, Morkar devient le premier Élu Éternel du Chaos. Un an après le couronnement de Sigmar, il mène les hommes du Nord et leurs alliés démons contre le jeune Empire. Sigmar l'affronte en un duel d'un jour et d'une nuit et l'abat avec Ghal Maraz.",
+      "en": "A survivor of a Norsii village razed by Sigmar, Morkar becomes the first Everchosen of Chaos. A year after Sigmar's coronation, he leads the Northmen and their daemon allies against the young Empire. Sigmar fights him in a duel lasting a day and a night and strikes him down with Ghal Maraz.",
+      "de": "Morkar, Überlebender eines von Sigmar zerstörten Norsii-Dorfes, wird zum ersten Ewig Erwählten des Chaos. Ein Jahr nach Sigmars Krönung führt er die Nordmänner und ihre dämonischen Verbündeten gegen das junge Imperium. Sigmar stellt ihn zu einem Zweikampf, der einen Tag und eine Nacht dauert, und erschlägt ihn mit Ghal Maraz."
+    },
+    "ere": "empire-sigmarite",
+    "regions": [
+      "empire",
+      "norsca"
+    ],
+    "lieux": [],
+    "factions": [
+      "chaos",
+      "empire"
+    ],
+    "importance": 3,
+    "fiabilite": "divergent",
+    "note": {
+      "fr": "Le livre Champions of Chaos (5e édition) faisait de Morkar un adversaire d'Aenarion vers -4500 CI. Warriors of Chaos (8e édition) et WFRP 4e édition le placent au temps de Sigmar.",
+      "en": "The Champions of Chaos book (5th edition) made Morkar an opponent of Aenarion around -4500 IC. Warriors of Chaos (8th edition) and WFRP 4th edition place him in Sigmar's time.",
+      "de": "Das Buch Champions of Chaos (5. Edition) machte Morkar um -4500 IK zum Gegner Aenarions. Warriors of Chaos (8. Edition) und WFRP 4. Edition setzen ihn in Sigmars Zeit."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Warriors of Chaos, 8e édition (2013)",
+          "en": "Warhammer Armies: Warriors of Chaos, 8th edition (2013)",
+          "de": "Warhammer Armies: Warriors of Chaos, 8. Edition (2013)"
+        },
+        "detail": {
+          "fr": "p. 14",
+          "en": "p. 14",
+          "de": "S. 14"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Core Rulebook, Warhammer Fantasy Roleplay 4e édition (2018)",
+          "en": "Core Rulebook, Warhammer Fantasy Roleplay 4th edition (2018)",
+          "de": "Core Rulebook, Warhammer Fantasy Roleplay 4. Edition (2018)"
+        },
+        "detail": "",
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Morkar",
+          "en": "Warhammer Fantasy Wiki (fandom), Morkar page",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Morkar"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Morkar"
+      }
+    ]
+  },
+  {
+    "id": "losteriksson-fonde-skeggi",
+    "annee": 888,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Losteriksson fonde Skeggi",
+      "en": "Losteriksson founds Skeggi",
+      "de": "Losteriksson gründet Skeggi"
+    },
+    "resume": {
+      "fr": "Le navigateur norse Losteriksson traverse l'océan et devient le premier homme du Vieux Monde à aborder la Lustrie. Il y fonde l'avant-poste de Skeggi, du nom de sa fille, premier enfant du Vieux Monde né sur le Nouveau. Les raids qui suivent enrichissent la Norsca et attirent d'autres bandes vers les cités des Hommes-lézards.",
+      "en": "The Norse seafarer Losteriksson crosses the ocean and becomes the first man of the Old World to land in Lustria. There he founds the outpost of Skeggi, named after his daughter, the first child of the Old World born in the New. The raids that follow enrich Norsca and draw more warbands to the Lizardmen's cities.",
+      "de": "Der norsische Seefahrer Losteriksson überquert den Ozean und landet als erster Mensch der Alten Welt in Lustria. Dort gründet er den Außenposten Skeggi, benannt nach seiner Tochter, dem ersten Kind der Alten Welt, das in der Neuen geboren wurde. Die folgenden Raubzüge machen Norsca reich und locken weitere Kriegsbanden zu den Städten der Echsenmenschen."
+    },
+    "ere": "empire-sigmarite",
+    "regions": [
+      "norsca",
+      "lustrie"
+    ],
+    "lieux": [
+      "skeggi"
+    ],
+    "factions": [
+      "chaos",
+      "humains-autres",
+      "hommes-lezards"
+    ],
+    "importance": 3,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Warriors of Chaos, 7e édition (2007)",
+          "en": "Warhammer Armies: Warriors of Chaos, 7th edition (2007)",
+          "de": "Warhammer Armies: Warriors of Chaos, 7. Edition (2007)"
+        },
+        "detail": {
+          "fr": "p. 39",
+          "en": "p. 39",
+          "de": "S. 39"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Norsca",
+          "en": "Warhammer Fantasy Wiki (fandom), Norsca page",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Norsca"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Norsca"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Skeggi",
+          "en": "Lexicanum, Skeggi page",
+          "de": "Lexicanum, Seite Skeggi"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Skeggi"
+      }
+    ]
+  },
+  {
+    "id": "ormgaard-et-snagr-a-marienburg",
+    "annee": 1109,
+    "fin": 1111,
+    "approx": false,
+    "titre": {
+      "fr": "Ormgaard et Snagr Demi-Nez à Marienburg",
+      "en": "Ormgaard and Snagr Half-Nose at Marienburg",
+      "de": "Ormgaard und Snagr Halbnase in Marienburg"
+    },
+    "resume": {
+      "fr": "Le haut roi Ormgaard de Norsca mène une horde du Chaos vers le sud sous le règne de Boris l'Avide. Il est vaincu et sa tête emportée à Altdorf, mais son fils Snagr Demi-Nez ravage le Westerland, brûle le quartier des temples de Marienburg et occupe la ville. L'arrivée de la Peste noire en 1111 pousse les Norses à repartir.",
+      "en": "High King Ormgaard of Norsca leads a Chaos horde south during the reign of Boris Goldgather. He is defeated and his head taken to Altdorf, but his son Snagr Half-Nose ravages the Westerland, burns Marienburg's temple district and occupies the city. The coming of the Black Plague in 1111 drives the Norse back home.",
+      "de": "Der Hochkönig Ormgaard von Norsca führt unter der Herrschaft von Boris dem Raffgierigen eine Chaoshorde nach Süden. Er wird besiegt und sein Kopf nach Altdorf gebracht, doch sein Sohn Snagr Halbnase verheert das Westerland, brennt das Tempelviertel Marienburgs nieder und besetzt die Stadt. Als 1111 der Schwarze Tod ausbricht, kehren die Nordmänner heim."
+    },
+    "ere": "empire-sigmarite",
+    "regions": [
+      "norsca",
+      "empire"
+    ],
+    "lieux": [
+      "marienburg"
+    ],
+    "factions": [
+      "chaos",
+      "empire"
+    ],
+    "importance": 1,
+    "fiabilite": "divergent",
+    "note": {
+      "fr": "Le fils d'Ormgaard est nommé Snagr Demi-Nez ou Snorri Demi-Main selon les versions.",
+      "en": "Ormgaard's son is called Snagr Half-Nose or Snorri Half-Hand depending on the version.",
+      "de": "Ormgaards Sohn heißt je nach Fassung Snagr Halbnase oder Snorri Halbhand."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Marienburg: Sold Down the River, Warhammer Fantasy Roleplay 1re édition (1989)",
+          "en": "Marienburg: Sold Down the River, Warhammer Fantasy Roleplay 1st edition (1989)",
+          "de": "Marienburg: Sold Down the River, Warhammer Fantasy Roleplay 1. Edition (1989)"
+        },
+        "detail": "",
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Norsca",
+          "en": "Warhammer Fantasy Wiki (fandom), Norsca page",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Norsca"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Norsca"
+      }
+    ]
+  },
+  {
+    "id": "valkia-a-karak-ghulg",
+    "annee": 1393,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Valkia la Sanglante à Karak Ghulg",
+      "en": "Valkia the Bloody at Karak Ghulg",
+      "de": "Valkia die Blutige in Karak Ghulg"
+    },
+    "resume": {
+      "fr": "La princesse démon de Khorne Valkia la Sanglante descend du royaume du Chaos sur Karak Ghulg, la forteresse naine la plus septentrionale, déjà assiégée par une armée norse. Les lignes de boucliers naines tombent une à une. Valkia fait pratiquer sur les vaincus l'aigle de sang et Khorne, impressionné, la prend pour consort.",
+      "en": "The Khorne Daemon Princess Valkia the Bloody descends from the Realm of Chaos upon Karak Ghulg, the northernmost Dwarf hold, already besieged by a Norse army. The Dwarf shield lines fall one by one. Valkia has the blood raven carried out on the vanquished, and Khorne, impressed, takes her as his consort.",
+      "de": "Die Dämonenprinzessin des Khorne, Valkia die Blutige, steigt aus dem Reich des Chaos auf Karak Ghulg herab, die nördlichste Zwergenfestung, die bereits von einem norsischen Heer belagert wird. Die Schildwälle der Zwerge fallen einer nach dem anderen. Valkia lässt an den Besiegten den Blutadler vollziehen, und Khorne nimmt sie beeindruckt zur Gemahlin."
+    },
+    "ere": "trois-empereurs",
+    "regions": [
+      "norsca"
+    ],
+    "lieux": [
+      "karak-ghulg"
+    ],
+    "factions": [
+      "chaos",
+      "nains"
+    ],
+    "importance": 1,
+    "fiabilite": "divergent",
+    "note": {
+      "fr": "Warriors of Chaos (8e édition) donne 1393 CI, d'autres passages du même wiki citent 1396 CI.",
+      "en": "Warriors of Chaos (8th edition) gives 1393 IC, other passages of the same wiki cite 1396 IC.",
+      "de": "Warriors of Chaos (8. Edition) nennt 1393 IK, andere Stellen desselben Wikis nennen 1396 IK."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Warriors of Chaos, 8e édition (2013)",
+          "en": "Warhammer Armies: Warriors of Chaos, 8th edition (2013)",
+          "de": "Warhammer Armies: Warriors of Chaos, 8. Edition (2013)"
+        },
+        "detail": {
+          "fr": "p. 14",
+          "en": "p. 14",
+          "de": "S. 14"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Warriors of Chaos Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), Warriors of Chaos Timeline page",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Warriors of Chaos Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Warriors_of_Chaos_Timeline"
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Norsca",
+          "en": "Warhammer Fantasy Wiki (fandom), Norsca page",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Norsca"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Norsca"
+      }
+    ]
+  },
+  {
+    "id": "guerre-de-sable-et-de-neige",
+    "annee": 2271,
+    "fin": 2286,
+    "approx": false,
+    "titre": {
+      "fr": "La guerre de Sable et de Neige",
+      "en": "The War of Sand and Snow",
+      "de": "Der Krieg von Sand und Schnee"
+    },
+    "resume": {
+      "fr": "Valgar le Boucher mène sa bande piller les tombeaux des rois-prêtres de Khemri. Settra l'Impérissable l'attend au retour lors de la bataille des Vautours, d'où à peine une douzaine de maraudeurs regagnent la Norsca. De 2281 à 2286, Settra poursuit les Norses jusque dans les neiges du Nord et reprend chaque pièce d'or volée.",
+      "en": "Valgar the Butcher leads his warband to plunder the tombs of the priest-kings of Khemri. Settra the Imperishable ambushes him on the way back at the Battle of the Vultures, from which barely a dozen marauders reach Norsca. From 2281 to 2286, Settra pursues the Norse into the snows of the north and recovers every stolen gold coin.",
+      "de": "Valgar der Schlächter plündert mit seiner Kriegsbande die Gräber der Priesterkönige von Khemri. Settra der Unvergängliche stellt ihn auf dem Rückweg in der Schlacht der Geier, aus der kaum ein Dutzend Plünderer nach Norsca zurückkehrt. Von 2281 bis 2286 verfolgt Settra die Nordmänner bis in den Schnee des Nordens und holt jede gestohlene Goldmünze zurück."
+    },
+    "ere": "trois-empereurs",
+    "regions": [
+      "norsca",
+      "sud"
+    ],
+    "lieux": [
+      "khemri"
+    ],
+    "factions": [
+      "chaos",
+      "rois-des-tombes"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Warriors of Chaos, 8e édition (2013)",
+          "en": "Warhammer Armies: Warriors of Chaos, 8th edition (2013)",
+          "de": "Warhammer Armies: Warriors of Chaos, 8. Edition (2013)"
+        },
+        "detail": {
+          "fr": "p. 14",
+          "en": "p. 14",
+          "de": "S. 14"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Warriors of Chaos, 7e édition (2007)",
+          "en": "Warhammer Armies: Warriors of Chaos, 7th edition (2007)",
+          "de": "Warhammer Armies: Warriors of Chaos, 7. Edition (2007)"
+        },
+        "detail": {
+          "fr": "p. 40",
+          "en": "p. 40",
+          "de": "S. 40"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Warriors of Chaos Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), Warriors of Chaos Timeline page",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Warriors of Chaos Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Warriors_of_Chaos_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "archaon-autel-des-tenebres",
+    "annee": 2420,
+    "fin": null,
+    "approx": true,
+    "titre": {
+      "fr": "Archaon à l'Autel des Ténèbres ultimes",
+      "en": "Archaon at the Altar of Ultimate Darkness",
+      "de": "Archaon am Altar der Ultimativen Finsternis"
+    },
+    "resume": {
+      "fr": "Né Diederick Kastner, d'un père norse et d'une mère nordlandaise, ancien templier de Sigmar ayant renié son dieu, le futur Archaon commence sa quête des Six Trésors du Chaos. Il émerge de l'Autel des Ténèbres ultimes, en Naggaroth, couvert de sang et portant au front la marque brûlante des quatre dieux.",
+      "en": "Born Diederick Kastner, of a Norse father and a Nordland mother, a former templar of Sigmar who has renounced his god, the future Archaon begins his quest for the Six Treasures of Chaos. He emerges from the Altar of Ultimate Darkness in Naggaroth, slick with blood and bearing on his brow the burning mark of all four gods.",
+      "de": "Der als Diederick Kastner geborene Sohn eines norsischen Vaters und einer nordländischen Mutter, ein ehemaliger Templer Sigmars, der seinem Gott abgeschworen hat, beginnt als künftiger Archaon seine Suche nach den Sechs Schätzen des Chaos. Er tritt blutüberströmt aus dem Altar der Ultimativen Finsternis in Naggaroth, auf der Stirn das brennende Mal aller vier Götter."
+    },
+    "ere": "empire-reunifie",
+    "regions": [
+      "naggaroth",
+      "desolations"
+    ],
+    "lieux": [
+      "naggaroth"
+    ],
+    "factions": [
+      "chaos"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "Date approximative donnée par Warriors of Chaos (8e édition). Lexicanum fait naître Kastner en 2391 CI.",
+      "en": "Approximate date given by Warriors of Chaos (8th edition). Lexicanum has Kastner born in 2391 IC.",
+      "de": "Ungefähres Datum nach Warriors of Chaos (8. Edition). Lexicanum lässt Kastner 2391 IK geboren werden."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Warriors of Chaos, 8e édition (2013)",
+          "en": "Warhammer Armies: Warriors of Chaos, 8th edition (2013)",
+          "de": "Warhammer Armies: Warriors of Chaos, 8. Edition (2013)"
+        },
+        "detail": {
+          "fr": "p. 15",
+          "en": "p. 15",
+          "de": "S. 15"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Archaon",
+          "en": "Warhammer Fantasy Wiki (fandom), Archaon page",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Archaon"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Archaon"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Archaon",
+          "en": "Lexicanum, Archaon page",
+          "de": "Lexicanum, Seite Archaon"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Archaon"
+      }
+    ]
+  },
+  {
+    "id": "maree-des-rejetons",
+    "annee": 2480,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "La Marée des Rejetons",
+      "en": "The Spawn Tide",
+      "de": "Die Brutflut"
+    },
+    "resume": {
+      "fr": "Le champion de Nurgle Festerlung et le sorcier de Tzeentch Vilitch le Maudit mènent leurs bandes dans les Montagnes des Lamentations contre la tribu ogre des Œil-de-Fer. Presque écrasés par un Rhinox-tonnerre déchaîné, ils sont sauvés lorsque Vilitch change Festerlung et ses guerriers en rejetons du Chaos, qui mettent en pièces la tribu.",
+      "en": "The Nurgle champion Festerlung and the Tzeentch sorcerer Vilitch the Curseling lead their warbands into the Mountains of Mourn against the Iron-Eye Ogre tribe. Nearly crushed by a rampaging Stonehorn, they are saved when Vilitch turns Festerlung and his warriors into Chaos Spawn, which tear the tribe apart.",
+      "de": "Der Nurgle-Champion Festerlung und der Tzeentch-Hexer Vilitch der Verfluchte ziehen mit ihren Kriegsbanden in die Berge der Trauer gegen den Ogerstamm der Eisenaugen. Von einem tobenden Steinhorn fast zermalmt, werden sie gerettet, als Vilitch Festerlung und seine Krieger in Chaosbruten verwandelt, die den Stamm zerreißen."
+    },
+    "ere": "empire-reunifie",
+    "regions": [
+      "orient"
+    ],
+    "lieux": [],
+    "factions": [
+      "chaos",
+      "ogres"
+    ],
+    "importance": 1,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Warriors of Chaos, 8e édition (2013)",
+          "en": "Warhammer Armies: Warriors of Chaos, 8th edition (2013)",
+          "de": "Warhammer Armies: Warriors of Chaos, 8. Edition (2013)"
+        },
+        "detail": {
+          "fr": "p. 15",
+          "en": "p. 15",
+          "de": "S. 15"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Warriors of Chaos Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), Warriors of Chaos Timeline page",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Warriors of Chaos Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Warriors_of_Chaos_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "bataille-des-monolithes",
+    "annee": 2510,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "La bataille des Monolithes",
+      "en": "The Battle of the Monoliths",
+      "de": "Die Schlacht der Monolithen"
+    },
+    "resume": {
+      "fr": "Dans les Désolations du Chaos, Archaon écrase une armée de Kislévites, d'impériaux et de Nains conduite par l'archilecteur Kurt Mannfeld. Il contraint le prélat vaincu à renier Sigmar et à le servir. Archaon rassemble ainsi l'une des plus grandes armées du Chaos jamais vues.",
+      "en": "In the Chaos Wastes, Archaon crushes an army of Kislevites, Imperials and Dwarfs led by Arch Lector Kurt Mannfeld. He forces the defeated prelate to renounce Sigmar and serve him. In this way Archaon gathers one of the largest Chaos armies ever seen.",
+      "de": "In der Chaoswüste zerschlägt Archaon ein Heer aus Kisleviten, Imperialen und Zwergen unter dem Erzlektor Kurt Mannfeld. Er zwingt den besiegten Prälaten, Sigmar abzuschwören und ihm zu dienen. So sammelt Archaon eines der größten Chaosheere aller Zeiten."
+    },
+    "ere": "empire-reunifie",
+    "regions": [
+      "desolations"
+    ],
+    "lieux": [
+      "desolations"
+    ],
+    "factions": [
+      "chaos",
+      "kislev",
+      "empire",
+      "nains"
+    ],
+    "importance": 1,
+    "fiabilite": "incertain",
+    "note": {
+      "fr": "Rapporté par le wiki fandom (page Archaon) d'après Storm of Chaos, campagne aujourd'hui considérée comme hors canon.",
+      "en": "Reported by the fandom wiki (Archaon page) from Storm of Chaos, a campaign now considered non-canon.",
+      "de": "Nach dem Fandom-Wiki (Seite Archaon) aus Storm of Chaos, einer heute als nicht kanonisch geltenden Kampagne."
+    },
+    "sources": [
+      {
+        "titre": "Warhammer: Storm of Chaos (2004)",
+        "detail": "",
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Archaon",
+          "en": "Warhammer Fantasy Wiki (fandom), Archaon page",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Archaon"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Archaon"
+      }
+    ]
+  },
+  {
+    "id": "tamurkhan-le-seigneur-asticot",
+    "annee": 2509,
+    "fin": 2511,
+    "approx": false,
+    "titre": {
+      "fr": "L'invasion de Tamurkhan, le Seigneur Asticot",
+      "en": "The invasion of Tamurkhan, the Maggot Lord",
+      "de": "Der Einfall Tamurkhans, des Madenfürsten"
+    },
+    "resume": {
+      "fr": "Champion de Nurgle, le Kurgan Tamurkhan l'emporte à Zanbaijin sur ses rivaux, dont Hakka l'Aesling, et prend la tête d'une grande incursion. Son lieutenant Sayl l'Infidèle est repoussé par les Cathayans à la tour d'Ashshair. La horde descend le long des Montagnes des Lamentations, traverse les Terres sombres avec l'aide des Nains du Chaos et frappe les Royaumes frontaliers et le sud de l'Empire.",
+      "en": "A champion of Nurgle, the Kurgan Tamurkhan prevails at Zanbaijin over his rivals, among them Hakka the Aesling, and takes the lead of a great incursion. His lieutenant Sayl the Faithless is repelled by the Cathayans at the Tower of Ashshair. The horde marches down the Mountains of Mourn, crosses the Dark Lands with the help of the Chaos Dwarfs and strikes at the Border Princes and the south of the Empire.",
+      "de": "Der Kurgan Tamurkhan, ein Champion des Nurgle, setzt sich in Zanbaijin gegen seine Rivalen durch, darunter Hakka den Aesling, und übernimmt die Führung eines großen Einfalls. Sein Gefolgsmann Sayl der Treulose wird von den Cathayanern am Turm von Ashshair zurückgeschlagen. Die Horde zieht die Berge der Trauer hinab, durchquert mit Hilfe der Chaoszwerge die Dunklen Lande und fällt in die Grenzgrafschaften und den Süden des Imperiums ein."
+    },
+    "ere": "empire-reunifie",
+    "regions": [
+      "desolations",
+      "terres-arides",
+      "royaumes-frontaliers",
+      "orient"
+    ],
+    "lieux": [],
+    "factions": [
+      "chaos",
+      "humains-autres",
+      "empire"
+    ],
+    "importance": 3,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": "Tamurkhan: The Throne of Chaos, Forge World (2013)",
+        "detail": {
+          "fr": "p. 24-25",
+          "en": "pp. 24-25",
+          "de": "S. 24-25"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Warriors of Chaos, 8e édition (2013)",
+          "en": "Warhammer Armies: Warriors of Chaos, 8th edition (2013)",
+          "de": "Warhammer Armies: Warriors of Chaos, 8. Edition (2013)"
+        },
+        "detail": {
+          "fr": "p. 15",
+          "en": "p. 15",
+          "de": "S. 15"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Warriors of Chaos Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), Warriors of Chaos Timeline page",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Warriors of Chaos Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Warriors_of_Chaos_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "massacre-de-volganof",
+    "annee": 2515,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Le massacre de Volganof",
+      "en": "The Slaughter at Volganof",
+      "de": "Das Gemetzel von Volganof"
+    },
+    "resume": {
+      "fr": "Porté par une tempête magique venue du royaume du Chaos, le seigneur norse Mortkin, le Ravageur de fer noir, descend vers le sud à la tête de la Légion déchue. Sa horde balaie le Kislev et l'Ostland et réduit en cendres la ville de Volganof. Mortkin cherche avant tout à se venger des raids de l'Ostland sur les villages norses.",
+      "en": "Borne by a magical tempest from the Realm of Chaos, the Norse lord Mortkin, the Black-iron Reaver, marches south at the head of the Fell Legion. His horde sweeps through Kislev and Ostland and burns the city of Volganof to the ground. Mortkin seeks above all revenge for Ostland's raids on Norse villages.",
+      "de": "Getragen von einem magischen Sturm aus dem Reich des Chaos zieht der norsische Fürst Mortkin, der Schwarzeisen-Schnitter, an der Spitze der Gefallenen Legion nach Süden. Seine Horde fegt durch Kislev und Ostland und brennt die Stadt Volganof nieder. Mortkin sucht vor allem Rache für die Überfälle Ostlands auf norsische Dörfer."
+    },
+    "ere": "empire-reunifie",
+    "regions": [
+      "kislev",
+      "empire",
+      "norsca"
+    ],
+    "lieux": [
+      "volganof"
+    ],
+    "factions": [
+      "chaos",
+      "kislev",
+      "empire"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Warriors of Chaos, 8e édition (2013)",
+          "en": "Warhammer Armies: Warriors of Chaos, 8th edition (2013)",
+          "de": "Warhammer Armies: Warriors of Chaos, 8. Edition (2013)"
+        },
+        "detail": {
+          "fr": "p. 15",
+          "en": "p. 15",
+          "de": "S. 15"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Warriors of Chaos Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), Warriors of Chaos Timeline page",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Warriors of Chaos Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Warriors_of_Chaos_Timeline"
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Norsca",
+          "en": "Warhammer Fantasy Wiki (fandom), Norsca page",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Norsca"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Norsca"
+      }
+    ]
+  },
+  {
+    "id": "wulfrik-le-vagabond",
+    "annee": 2519,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "La malédiction de Wulfrik le Vagabond",
+      "en": "The curse of Wulfrik the Wanderer",
+      "de": "Der Fluch Wulfriks des Wanderers"
+    },
+    "resume": {
+      "fr": "Le seigneur norse Wulfrik se vante d'être le plus grand guerrier ayant jamais vécu. Les dieux du Chaos le condamnent à errer éternellement à travers le monde pour le prouver. Wulfrik finit par voir dans cette malédiction une chance de gagner toujours plus de gloire.",
+      "en": "The Norse lord Wulfrik boasts that he is the mightiest warrior who has ever lived. The Chaos Gods curse him to roam the world for all eternity to prove it. Wulfrik comes to see the curse as a chance to win ever more glory.",
+      "de": "Der norsische Fürst Wulfrik prahlt, der mächtigste Krieger aller Zeiten zu sein. Die Chaosgötter verfluchen ihn, auf ewig durch die Welt zu ziehen, um es zu beweisen. Wulfrik sieht in dem Fluch schließlich eine Gelegenheit, immer mehr Ruhm zu erringen."
+    },
+    "ere": "empire-reunifie",
+    "regions": [
+      "norsca"
+    ],
+    "lieux": [],
+    "factions": [
+      "chaos"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Warriors of Chaos, 8e édition (2013)",
+          "en": "Warhammer Armies: Warriors of Chaos, 8th edition (2013)",
+          "de": "Warhammer Armies: Warriors of Chaos, 8. Edition (2013)"
+        },
+        "detail": {
+          "fr": "p. 15",
+          "en": "p. 15",
+          "de": "S. 15"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Warriors of Chaos Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), Warriors of Chaos Timeline page",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Warriors of Chaos Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Warriors_of_Chaos_Timeline"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Wulfrik",
+          "en": "Lexicanum, Wulfrik page",
+          "de": "Lexicanum, Seite Wulfrik"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Wulfrik"
+      }
+    ]
+  },
+  {
+    "id": "couronnement-d-archaon",
+    "annee": 2519,
+    "fin": null,
+    "approx": true,
+    "titre": {
+      "fr": "Be'lakor couronne Archaon",
+      "en": "Be'lakor crowns Archaon",
+      "de": "Be'lakor krönt Archaon"
+    },
+    "resume": {
+      "fr": "Au cœur des Désolations du Chaos, le prince démon Be'lakor préside au couronnement d'Archaon, treizième et dernier Élu Éternel. Les tribus du Nord, Norses, Kurgans et Hung, se rangent sous sa bannière. Ce sacre ouvre la voie à la plus grande invasion du Chaos de l'histoire.",
+      "en": "In the heart of the Chaos Wastes, the Daemon Prince Be'lakor presides over the coronation of Archaon, thirteenth and last Everchosen. The tribes of the north, Norse, Kurgan and Hung, rally to his banner. This crowning paves the way for the greatest Chaos invasion in history.",
+      "de": "Im Herzen der Chaoswüste leitet der Dämonenprinz Be'lakor die Krönung Archaons, des dreizehnten und letzten Ewig Erwählten. Die Stämme des Nordens, Norsii, Kurgan und Hung, sammeln sich unter seinem Banner. Diese Krönung ebnet den Weg für den größten Einfall des Chaos der Geschichte."
+    },
+    "ere": "empire-reunifie",
+    "regions": [
+      "desolations"
+    ],
+    "lieux": [
+      "desolations"
+    ],
+    "factions": [
+      "chaos"
+    ],
+    "importance": 3,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Warriors of Chaos, 8e édition (2013)",
+          "en": "Warhammer Armies: Warriors of Chaos, 8th edition (2013)",
+          "de": "Warhammer Armies: Warriors of Chaos, 8. Edition (2013)"
+        },
+        "detail": {
+          "fr": "p. 15",
+          "en": "p. 15",
+          "de": "S. 15"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Warriors of Chaos Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), Warriors of Chaos Timeline page",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Warriors of Chaos Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Warriors_of_Chaos_Timeline"
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Be'lakor",
+          "en": "Warhammer Fantasy Wiki (fandom), Be'lakor page",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Be'lakor"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Be%27lakor"
+      }
+    ]
+  },
+  {
+    "id": "pelerinage-de-groth-un-doigt",
+    "annee": -2749,
+    "fin": null,
+    "approx": true,
+    "titre": {
+      "fr": "Le festin de Groth Un-Doigt",
+      "en": "The feast of Groth Onefinger",
+      "de": "Das Festmahl Groth Einfingers"
+    },
+    "resume": {
+      "fr": "Le prophète ogre Groth Un-Doigt part en pèlerinage vers la Grande Gueule et, au bord du gouffre palpitant, tient un banquet fait de la chair de ses propres disciples. Il fonde ainsi la lignée des prophètes du dieu affamé.",
+      "en": "The Ogre prophet Groth Onefinger makes a pilgrimage to the Great Maw and, on the lip of the pulsing gullet, holds a banquet of the flesh of his own disciples. He thus founds the line of prophets of the hungry god.",
+      "de": "Der Ogerprophet Groth Einfinger pilgert zum Großen Schlund und hält am Rand des pulsierenden Schlunds ein Festmahl aus dem Fleisch seiner eigenen Jünger. So begründet er die Reihe der Propheten des hungrigen Gottes."
+    },
+    "ere": "grande-catastrophe",
+    "regions": [
+      "orient"
+    ],
+    "lieux": [
+      "grande-gueule"
+    ],
+    "factions": [
+      "ogres"
+    ],
+    "importance": 1,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Ogre Kingdoms, 8e édition (2013)",
+          "en": "Warhammer Armies: Ogre Kingdoms, 8th edition (2013)",
+          "de": "Warhammer Armies: Ogre Kingdoms, 8. Edition (2013)"
+        },
+        "detail": {
+          "fr": "p. 22",
+          "en": "p. 22",
+          "de": "S. 22"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Ogre Kingdoms Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), Ogre Kingdoms Timeline page",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Ogre Kingdoms Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Ogre_Kingdoms_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "guerre-dans-le-ciel",
+    "annee": -2745,
+    "fin": -2735,
+    "approx": false,
+    "titre": {
+      "fr": "La guerre dans le ciel",
+      "en": "The War in the Sky",
+      "de": "Der Krieg im Himmel"
+    },
+    "resume": {
+      "fr": "Les tribus ogres rescapées de la chute de la Grande Gueule et de la famine gravissent les pics des Terres des Géants anciens. Elles y rencontrent les Skytitans, une race de géants très savants, qu'elles exterminent et dévorent au fil d'une guerre de dix ans. Vers -2720, la plupart des Ogres descendent vers les Montagnes des Lamentations.",
+      "en": "The Ogre tribes that survived the coming of the Great Maw and the famine climb the peaks of the Ancient Giant Lands. There they meet the Skytitans, a race of brilliant giants, whom they wipe out and eat over a ten-year war. Around -2720, most Ogres descend to the Mountains of Mourn.",
+      "de": "Die Ogerstämme, die den Einschlag des Großen Schlunds und die Hungersnot überlebt haben, erklimmen die Gipfel der Alten Riesenlande. Dort treffen sie auf die Skytitanen, ein hochgelehrtes Riesenvolk, das sie in einem zehnjährigen Krieg ausrotten und verzehren. Um -2720 steigen die meisten Oger in die Berge der Trauer hinab."
+    },
+    "ere": "grande-catastrophe",
+    "regions": [
+      "orient"
+    ],
+    "lieux": [],
+    "factions": [
+      "ogres"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Ogre Kingdoms, 8e édition (2013)",
+          "en": "Warhammer Armies: Ogre Kingdoms, 8th edition (2013)",
+          "de": "Warhammer Armies: Ogre Kingdoms, 8. Edition (2013)"
+        },
+        "detail": {
+          "fr": "p. 22",
+          "en": "p. 22",
+          "de": "S. 22"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Ogre Kingdoms Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), Ogre Kingdoms Timeline page",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Ogre Kingdoms Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Ogre_Kingdoms_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "thug-le-poing-premier-surtyran",
+    "annee": -950,
+    "fin": -930,
+    "approx": true,
+    "titre": {
+      "fr": "Thug le Poing, premier Surtyran",
+      "en": "Thug the Fist, the first Overtyrant",
+      "de": "Thug die Faust, der erste Übertyrann"
+    },
+    "resume": {
+      "fr": "Thug le Poing devient le premier Surtyran des Royaumes ogres et instaure la coutume du Grand Festin. Quand le volcan de la Gueule de Feu se réveille après des siècles de sommeil, il y voit un appel à la guerre et lance de nombreuses tribus à travers le monde connu.",
+      "en": "Thug the Fist becomes the first Overtyrant of the Ogre Kingdoms and establishes the custom of the Great Feast. When the Fire Mouth volcano wakes after centuries of slumber, he takes it as a call to war and leads many tribes across the known world.",
+      "de": "Thug die Faust wird der erste Übertyrann der Ogerkönigreiche und begründet den Brauch des Großen Festmahls. Als der Vulkan Feuermaul nach Jahrhunderten der Ruhe ausbricht, sieht er darin einen Ruf zum Krieg und führt zahlreiche Stämme durch die bekannte Welt."
+    },
+    "ere": "age-des-tribus",
+    "regions": [
+      "orient"
+    ],
+    "lieux": [],
+    "factions": [
+      "ogres"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "Thug devient Surtyran vers -950 CI. La guerre qui suit l'éruption s'étend de -947 à -930 CI environ.",
+      "en": "Thug becomes Overtyrant around -950 IC. The war that follows the eruption runs from about -947 to -930 IC.",
+      "de": "Thug wird um -950 IK Übertyrann. Der Krieg nach dem Ausbruch dauert etwa von -947 bis -930 IK."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Ogre Kingdoms, 8e édition (2013)",
+          "en": "Warhammer Armies: Ogre Kingdoms, 8th edition (2013)",
+          "de": "Warhammer Armies: Ogre Kingdoms, 8. Edition (2013)"
+        },
+        "detail": {
+          "fr": "p. 22",
+          "en": "p. 22",
+          "de": "S. 22"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Ogre Kingdoms Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), Ogre Kingdoms Timeline page",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Ogre Kingdoms Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Ogre_Kingdoms_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "batailles-de-cendres",
+    "annee": -734,
+    "fin": -700,
+    "approx": false,
+    "titre": {
+      "fr": "Les batailles de Cendres",
+      "en": "The Ash Battles",
+      "de": "Die Aschenschlachten"
+    },
+    "resume": {
+      "fr": "Au fil d'une série de combats acharnés, les Nains du Chaos chassent de nombreuses tribus ogres des Terres sombres. Les Ogres se replient vers les Montagnes des Lamentations, que les Gnoblars rejoignent pour échapper eux-mêmes à l'esclavage.",
+      "en": "In a string of bitter fights, the Chaos Dwarfs drive many Ogre tribes out of the Dark Lands. The Ogres fall back towards the Mountains of Mourn, where the Gnoblars follow them to escape enslavement themselves.",
+      "de": "In einer Reihe erbitterter Kämpfe vertreiben die Chaoszwerge zahlreiche Ogerstämme aus den Dunklen Landen. Die Oger ziehen sich in die Berge der Trauer zurück, wohin ihnen die Gnoblars folgen, um selbst der Versklavung zu entgehen."
+    },
+    "ere": "age-des-tribus",
+    "regions": [
+      "terres-arides",
+      "orient"
+    ],
+    "lieux": [],
+    "factions": [
+      "ogres",
+      "chaos"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "Les Nains du Chaos n'ont pas d'identifiant propre dans le référentiel. Ils sont rattachés ici à la faction Chaos.",
+      "en": "The Chaos Dwarfs have no dedicated identifier in the reference data. They are filed here under the Chaos faction.",
+      "de": "Die Chaoszwerge haben im Referenzverzeichnis keine eigene Kennung. Sie werden hier der Fraktion Chaos zugeordnet."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Ogre Kingdoms, 8e édition (2013)",
+          "en": "Warhammer Armies: Ogre Kingdoms, 8th edition (2013)",
+          "de": "Warhammer Armies: Ogre Kingdoms, 8. Edition (2013)"
+        },
+        "detail": {
+          "fr": "p. 22",
+          "en": "p. 22",
+          "de": "S. 22"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Ogre Kingdoms Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), Ogre Kingdoms Timeline page",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Ogre Kingdoms Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Ogre_Kingdoms_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "ogres-a-l-ouest",
+    "annee": 200,
+    "fin": null,
+    "approx": true,
+    "titre": {
+      "fr": "Les Ogres franchissent les Montagnes du Bord du Monde",
+      "en": "Ogres cross the Worlds Edge Mountains",
+      "de": "Oger überqueren das Weltrandgebirge"
+    },
+    "resume": {
+      "fr": "Des Ogres et des Halflings passent les Montagnes du Bord du Monde depuis l'est et s'installent dans le Vieux Monde. Les Ogres y deviennent des mercenaires recherchés, déjà appréciés de Sigmar qui, disent-ils, tenait une grande table.",
+      "en": "Ogres and Halflings cross the Worlds Edge Mountains from the east and settle in the Old World. The Ogres become sought-after mercenaries there, already valued by Sigmar who, they say, kept a grand table.",
+      "de": "Oger und Halblinge überqueren das Weltrandgebirge von Osten und lassen sich in der Alten Welt nieder. Die Oger werden dort zu begehrten Söldnern, die schon Sigmar schätzte, der nach ihren Worten eine große Tafel hielt."
+    },
+    "ere": "empire-sigmarite",
+    "regions": [
+      "montagnes",
+      "empire"
+    ],
+    "lieux": [],
+    "factions": [
+      "ogres",
+      "empire"
+    ],
+    "importance": 1,
+    "fiabilite": "divergent",
+    "note": {
+      "fr": "Archives of the Empire Vol. I date la migration vers 200 CI, alors que le volume II mentionne déjà des Ogres au service de Sigmar entre 1 et 30 CI.",
+      "en": "Archives of the Empire Vol. I dates the migration to around 200 IC, while Vol. II already mentions Ogres in Sigmar's service between 1 and 30 IC.",
+      "de": "Archives of the Empire Vol. I datiert die Wanderung um 200 IK, während Band II schon zwischen 1 und 30 IK Oger in Sigmars Diensten erwähnt."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Archives of the Empire Vol. I, Warhammer Fantasy Roleplay 4e édition",
+          "en": "Archives of the Empire Vol. I, Warhammer Fantasy Roleplay 4th edition",
+          "de": "Archives of the Empire Vol. I, Warhammer Fantasy Roleplay 4. Edition"
+        },
+        "detail": {
+          "fr": "p. 35",
+          "en": "p. 35",
+          "de": "S. 35"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Archives of the Empire Vol. II, Warhammer Fantasy Roleplay 4e édition",
+          "en": "Archives of the Empire Vol. II, Warhammer Fantasy Roleplay 4th edition",
+          "de": "Archives of the Empire Vol. II, Warhammer Fantasy Roleplay 4. Edition"
+        },
+        "detail": {
+          "fr": "p. 10",
+          "en": "p. 10",
+          "de": "S. 10"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Ogre Kingdoms Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), Ogre Kingdoms Timeline page",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Ogre Kingdoms Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Ogre_Kingdoms_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "route-de-l-ivoire",
+    "annee": 702,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "La route de l'Ivoire",
+      "en": "The Ivory Road",
+      "de": "Die Elfenbeinstraße"
+    },
+    "resume": {
+      "fr": "Des Ogres partis vers l'Extrême-Orient découvrent que les grands trophées à cornes qui ornent leurs casques ont une grande valeur là-bas. Ce commerce donne son nom à la route qui relie le Vieux Monde à Cathay, la route de l'Ivoire, appelée route de la Soie à l'ouest.",
+      "en": "Ogres travelling to the Far East discover that the great horned trophies on their helmets are highly prized there. This trade gives its name to the road linking the Old World to Cathay, the Ivory Road, known in the west as the Silk Road.",
+      "de": "Oger, die in den Fernen Osten reisen, stellen fest, dass die großen Horntrophäen an ihren Helmen dort sehr begehrt sind. Dieser Handel gibt der Straße zwischen der Alten Welt und Cathay ihren Namen, die Elfenbeinstraße, im Westen Seidenstraße genannt."
+    },
+    "ere": "empire-sigmarite",
+    "regions": [
+      "orient"
+    ],
+    "lieux": [
+      "cathay"
+    ],
+    "factions": [
+      "ogres",
+      "humains-autres"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Ogre Kingdoms, 8e édition (2013)",
+          "en": "Warhammer Armies: Ogre Kingdoms, 8th edition (2013)",
+          "de": "Warhammer Armies: Ogre Kingdoms, 8. Edition (2013)"
+        },
+        "detail": {
+          "fr": "p. 23",
+          "en": "p. 23",
+          "de": "S. 23"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Ogre Kingdoms Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), Ogre Kingdoms Timeline page",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Ogre Kingdoms Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Ogre_Kingdoms_Timeline"
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Grand Cathay",
+          "en": "Warhammer Fantasy Wiki (fandom), Grand Cathay page",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Grand Cathay"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Grand_Cathay"
+      }
+    ]
+  },
+  {
+    "id": "embuscade-du-mont-cragg",
+    "annee": 2305,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "L'embuscade du mont Cragg",
+      "en": "The Ambush at Mount Cragg",
+      "de": "Der Hinterhalt am Berg Cragg"
+    },
+    "resume": {
+      "fr": "Après la défaite d'Asavar Kul, une armée du Chaos en déroute cherche à regagner les Désolations par le col de l'Est. Des Ogres la prennent en embuscade à l'ombre du mont Cragg et on n'en entend plus jamais parler. Des Gnoblars portent des fragments d'armure du Chaos pendant des décennies.",
+      "en": "After the defeat of Asavar Kul, a routed Chaos army tries to reach the Wastes through the Pass to the East. Ogres ambush it in the shadow of Mount Cragg and it is never heard of again. Gnoblars sport fragments of Chaos armour for decades afterwards.",
+      "de": "Nach der Niederlage Asavar Kuls versucht ein geschlagenes Chaosheer, über den Pass nach Osten in die Wüste zurückzukehren. Oger legen ihm im Schatten des Berges Cragg einen Hinterhalt, und man hört nie wieder von ihm. Gnoblars tragen noch Jahrzehnte später Bruchstücke von Chaosrüstungen."
+    },
+    "ere": "empire-reunifie",
+    "regions": [
+      "orient",
+      "montagnes"
+    ],
+    "lieux": [],
+    "factions": [
+      "ogres",
+      "chaos"
+    ],
+    "importance": 1,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Ogre Kingdoms, 8e édition (2013)",
+          "en": "Warhammer Armies: Ogre Kingdoms, 8th edition (2013)",
+          "de": "Warhammer Armies: Ogre Kingdoms, 8. Edition (2013)"
+        },
+        "detail": {
+          "fr": "p. 23",
+          "en": "p. 23",
+          "de": "S. 23"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Ogre Kingdoms Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), Ogre Kingdoms Timeline page",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Ogre Kingdoms Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Ogre_Kingdoms_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "greasus-dent-d-or-surtyran",
+    "annee": 2482,
+    "fin": 2487,
+    "approx": false,
+    "titre": {
+      "fr": "Greasus Dent-d'Or devient Surtyran",
+      "en": "Greasus Goldtooth becomes Overtyrant",
+      "de": "Greasus Goldzahn wird Übertyrann"
+    },
+    "resume": {
+      "fr": "Convaincu par un vieux mercenaire que l'or sert à autre chose qu'à se parer, le jeune Greasus prend la tête de sa tribu en dévorant son père Gofg en 2482. En 2487, il se proclame Surtyran, titre vacant depuis la mort de Donner Grosse-Panse dans une avalanche un siècle plus tôt. Sous son règne, l'or vaut autant que la viande rouge dans la plupart des Royaumes ogres.",
+      "en": "Persuaded by an old mercenary that gold is good for more than ornament, the young Greasus takes over his tribe by eating his father Gofg in 2482. In 2487 he declares himself Overtyrant, a title vacant since Donner Gutbag died in an avalanche a century earlier. Under his rule, gold is worth as much as red meat in most of the Ogre Kingdoms.",
+      "de": "Von einem alten Söldner überzeugt, dass Gold zu mehr taugt als zum Schmuck, übernimmt der junge Greasus 2482 seinen Stamm, indem er seinen Vater Gofg verspeist. 2487 ruft er sich zum Übertyrannen aus, ein Titel, der seit dem Tod Donner Wanst' in einer Lawine ein Jahrhundert zuvor unbesetzt war. Unter seiner Herrschaft gilt Gold in den meisten Ogerkönigreichen so viel wie rotes Fleisch."
+    },
+    "ere": "empire-reunifie",
+    "regions": [
+      "orient"
+    ],
+    "lieux": [],
+    "factions": [
+      "ogres"
+    ],
+    "importance": 3,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "Archives of the Empire Vol. II place la rencontre avec le mercenaire en 2475 CI.",
+      "en": "Archives of the Empire Vol. II places the meeting with the mercenary in 2475 IC.",
+      "de": "Archives of the Empire Vol. II setzt die Begegnung mit dem Söldner auf 2475 IK."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Ogre Kingdoms, 8e édition (2013)",
+          "en": "Warhammer Armies: Ogre Kingdoms, 8th edition (2013)",
+          "de": "Warhammer Armies: Ogre Kingdoms, 8. Edition (2013)"
+        },
+        "detail": {
+          "fr": "p. 23",
+          "en": "p. 23",
+          "de": "S. 23"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Archives of the Empire Vol. II, Warhammer Fantasy Roleplay 4e édition",
+          "en": "Archives of the Empire Vol. II, Warhammer Fantasy Roleplay 4th edition",
+          "de": "Archives of the Empire Vol. II, Warhammer Fantasy Roleplay 4. Edition"
+        },
+        "detail": {
+          "fr": "p. 10",
+          "en": "p. 10",
+          "de": "S. 10"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Ogre Kingdoms Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), Ogre Kingdoms Timeline page",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Ogre Kingdoms Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Ogre_Kingdoms_Timeline"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Greasus Goldtooth",
+          "en": "Lexicanum, Greasus Goldtooth page",
+          "de": "Lexicanum, Seite Greasus Goldtooth"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Greasus_Goldtooth"
+      }
+    ]
+  },
+  {
+    "id": "skrag-le-massacreur",
+    "annee": 2496,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Skrag le Massacreur, prophète de la Grande Gueule",
+      "en": "Skrag the Slaughterer, prophet of the Great Maw",
+      "de": "Skrag der Schlächter, Prophet des Großen Schlunds"
+    },
+    "resume": {
+      "fr": "Banni de sa tribu, les mains tranchées, le Boucher ogre Skrag erre dans les labyrinthes hantés par les Gorgers sous les montagnes. Il y reçoit une révélation et devient la nouvelle incarnation du prophète de la Grande Gueule, voué à nourrir son dieu sans fin.",
+      "en": "Banished from his tribe with his hands cut off, the Ogre Butcher Skrag wanders the Gorger-haunted labyrinths beneath the mountains. There he has a revelation and becomes the latest incarnation of the Prophet of the Great Maw, sworn to feed his god without end.",
+      "de": "Aus seinem Stamm verbannt und mit abgeschlagenen Händen irrt der Ogerschlachter Skrag durch die von Gorgern heimgesuchten Labyrinthe unter den Bergen. Dort hat er eine Offenbarung und wird zur neuesten Verkörperung des Propheten des Großen Schlunds, der seinem Gott ohne Ende Nahrung bringen soll."
+    },
+    "ere": "empire-reunifie",
+    "regions": [
+      "orient"
+    ],
+    "lieux": [],
+    "factions": [
+      "ogres"
+    ],
+    "importance": 1,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Ogre Kingdoms, 8e édition (2013)",
+          "en": "Warhammer Armies: Ogre Kingdoms, 8th edition (2013)",
+          "de": "Warhammer Armies: Ogre Kingdoms, 8. Edition (2013)"
+        },
+        "detail": {
+          "fr": "p. 23",
+          "en": "p. 23",
+          "de": "S. 23"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Ogre Kingdoms Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), Ogre Kingdoms Timeline page",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Ogre Kingdoms Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Ogre_Kingdoms_Timeline"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Skrag the Slaughterer",
+          "en": "Lexicanum, Skrag the Slaughterer page",
+          "de": "Lexicanum, Seite Skrag the Slaughterer"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Skrag_the_Slaughterer"
+      }
+    ]
+  },
+  {
+    "id": "imrathepis-vallee-de-dague-dent",
+    "annee": 2512,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "La défaite d'Imrathepis dans la vallée de Dague-Dent",
+      "en": "The defeat of Imrathepis in Daggertooth Valley",
+      "de": "Die Niederlage des Imrathepis im Dolchzahntal"
+    },
+    "resume": {
+      "fr": "Les légions de morts-vivants d'Imrathepis, le Roi cramoisi de Numas, traversent les Terres arides et entrent dans les Montagnes des Lamentations. La tribu des Sabots-Tonnerre lâche un troupeau de rhinox dans l'étroite vallée de Dague-Dent, où l'armée squelettique est réduite en poussière.",
+      "en": "The undead legions of Imrathepis, the Crimson King of Numas, sweep through the Badlands and into the Mountains of Mourn. The Thunderhoof tribe unleashes a rhinox herd into the narrow Daggertooth Valley, where the skeletal army is ground to dust.",
+      "de": "Die untoten Legionen des Imrathepis, des Purpurkönigs von Numas, ziehen durch die Ödlande in die Berge der Trauer. Der Stamm der Donnerhufe treibt eine Rhinoxherde in das enge Dolchzahntal, wo das Skelettheer zu Staub zermalmt wird."
+    },
+    "ere": "empire-reunifie",
+    "regions": [
+      "orient",
+      "terres-arides",
+      "sud"
+    ],
+    "lieux": [
+      "numas"
+    ],
+    "factions": [
+      "ogres",
+      "rois-des-tombes"
+    ],
+    "importance": 1,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Ogre Kingdoms, 8e édition (2013)",
+          "en": "Warhammer Armies: Ogre Kingdoms, 8th edition (2013)",
+          "de": "Warhammer Armies: Ogre Kingdoms, 8. Edition (2013)"
+        },
+        "detail": {
+          "fr": "p. 23",
+          "en": "p. 23",
+          "de": "S. 23"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Ogre Kingdoms Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), Ogre Kingdoms Timeline page",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Ogre Kingdoms Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Ogre_Kingdoms_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "nouvelle-migration-ogre",
+    "annee": 2521,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "La nouvelle migration ogre",
+      "en": "A New Ogre Migration",
+      "de": "Eine neue Ogerwanderung"
+    },
+    "resume": {
+      "fr": "Enrichis et devenus trop nombreux sous le règne de Greasus Dent-d'Or, les Ogres ne trouvent plus assez à manger dans les Montagnes des Lamentations. Quand la Gueule de Feu entre en éruption, le Surtyran ordonne la conquête de nouvelles terres et des tribus entières se mettent en marche vers de nombreux royaumes.",
+      "en": "Grown wealthy and too numerous under the rule of Greasus Goldtooth, the Ogres can no longer find enough to eat in the Mountains of Mourn. When the Fire Mouth erupts, the Overtyrant orders the conquest of new lands and whole tribes set out towards many realms.",
+      "de": "Unter der Herrschaft von Greasus Goldzahn reich und zu zahlreich geworden, finden die Oger in den Bergen der Trauer nicht mehr genug zu essen. Als das Feuermaul ausbricht, befiehlt der Übertyrann die Eroberung neuer Länder, und ganze Stämme brechen in viele Reiche auf."
+    },
+    "ere": "empire-reunifie",
+    "regions": [
+      "orient",
+      "montagnes",
+      "terres-arides"
+    ],
+    "lieux": [],
+    "factions": [
+      "ogres"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Ogre Kingdoms, 8e édition (2013)",
+          "en": "Warhammer Armies: Ogre Kingdoms, 8th edition (2013)",
+          "de": "Warhammer Armies: Ogre Kingdoms, 8. Edition (2013)"
+        },
+        "detail": {
+          "fr": "p. 23",
+          "en": "p. 23",
+          "de": "S. 23"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Ogre Kingdoms Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), Ogre Kingdoms Timeline page",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Ogre Kingdoms Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Ogre_Kingdoms_Timeline"
+      }
+    ]
+  },
+  {
+    "id": "commerce-cathay-nehekhara",
+    "annee": -2350,
+    "fin": -1959,
+    "approx": false,
+    "titre": {
+      "fr": "Le commerce entre Cathay et la Nehekhara",
+      "en": "Trade between Cathay and Nehekhara",
+      "de": "Der Handel zwischen Cathay und Nehekhara"
+    },
+    "resume": {
+      "fr": "Soieries et jade partent de Cathay vers la Nehekhara en échange d'or, d'ivoire et d'encens, et les savants des deux civilisations échangent leur savoir en astrologie et en ingénierie. Vers -2100, la route terrestre est prolongée jusqu'au Grand Cathay. Ce commerce cesse brutalement quand Nagash prend le pouvoir à Khemri.",
+      "en": "Silks and jade sail from Cathay to Nehekhara in exchange for gold, ivory and incense, and the scholars of both civilisations share their knowledge of astrology and engineering. Around -2100 the overland route is extended all the way to Grand Cathay. This trade ends abruptly when Nagash seizes power in Khemri.",
+      "de": "Seide und Jade gehen von Cathay nach Nehekhara und werden gegen Gold, Elfenbein und Weihrauch getauscht, und die Gelehrten beider Kulturen teilen ihr Wissen über Astrologie und Ingenieurskunst. Um -2100 wird der Landweg bis nach Groß-Cathay verlängert. Der Handel endet abrupt, als Nagash in Khemri die Macht ergreift."
+    },
+    "ere": "age-d-or",
+    "regions": [
+      "orient",
+      "sud"
+    ],
+    "lieux": [
+      "cathay",
+      "khemri"
+    ],
+    "factions": [
+      "humains-autres",
+      "rois-des-tombes"
+    ],
+    "importance": 1,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "La fin du commerce est datée de -1959 CI dans l'Arcane Journal, alors que la chronologie des Anciens retient -1968 CI pour l'usurpation de Nagash.",
+      "en": "The end of trade is dated to -1959 IC in the Arcane Journal, while the main timeline gives -1968 IC for Nagash's usurpation.",
+      "de": "Das Ende des Handels wird im Arcane Journal auf -1959 IK datiert, während die Hauptzeitleiste -1968 IK für Nagashs Machtergreifung nennt."
+    },
+    "sources": [
+      {
+        "titre": "Warhammer: The Old World, Arcane Journal: Breaching of the Great Bastion",
+        "detail": {
+          "fr": "p. 6-9",
+          "en": "pp. 6-9",
+          "de": "S. 6-9"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Grand Cathay",
+          "en": "Warhammer Fantasy Wiki (fandom), Grand Cathay page",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Grand Cathay"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Grand_Cathay"
+      }
+    ]
+  },
+  {
+    "id": "couronne-du-roi-singe",
+    "annee": -2000,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "La couronne du Roi Singe",
+      "en": "The crown of the Monkey King",
+      "de": "Die Krone des Affenkönigs"
+    },
+    "resume": {
+      "fr": "Descendu des Montagnes du Ciel, le Roi Singe ravage les provinces du sud, domaine du Dragon de Feu Li Dao. L'Empereur Dragon retient son fils, rencontre le Roi Singe et lui offre une couronne d'une beauté sans égale qui le reconnaît roi des Montagnes du Ciel. Satisfait, celui-ci regagne son royaume, sans savoir que le présent n'est pas un simple bijou.",
+      "en": "Coming down from the Mountains of Heaven, the Monkey King ravages the southern provinces, domain of the Fire Dragon Li Dao. The Dragon Emperor holds his son back, meets the Monkey King and gives him a crown of unmatched beauty recognising him as King of the Mountains of Heaven. Pleased, the Monkey King returns to his realm, unaware that the gift is no mere trinket.",
+      "de": "Der Affenkönig steigt aus den Himmelsbergen herab und verwüstet die Südprovinzen, das Reich des Feuerdrachen Li Dao. Der Drachenkaiser hält seinen Sohn zurück, trifft den Affenkönig und schenkt ihm eine Krone von unvergleichlicher Schönheit, die ihn als König der Himmelsberge anerkennt. Zufrieden kehrt dieser in sein Reich zurück, ohne zu ahnen, dass das Geschenk kein bloßes Schmuckstück ist."
+    },
+    "ere": "age-d-or",
+    "regions": [
+      "orient"
+    ],
+    "lieux": [
+      "cathay"
+    ],
+    "factions": [
+      "humains-autres"
+    ],
+    "importance": 1,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": "Warhammer: The Old World, Arcane Journal: Breaching of the Great Bastion",
+        "detail": {
+          "fr": "p. 6-9",
+          "en": "pp. 6-9",
+          "de": "S. 6-9"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Grand Cathay",
+          "en": "Warhammer Fantasy Wiki (fandom), Grand Cathay page",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Grand Cathay"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Grand_Cathay"
+      }
+    ]
+  },
+  {
+    "id": "construction-du-grand-bastion",
+    "annee": -1800,
+    "fin": null,
+    "approx": true,
+    "titre": {
+      "fr": "La construction du Grand Bastion",
+      "en": "The building of the Great Bastion",
+      "de": "Der Bau der Großen Bastion"
+    },
+    "resume": {
+      "fr": "L'Empereur Dragon, qui a unifié les royaumes humains de Cathay, mobilise tout son empire pour élever le Grand Bastion, ou Échine du Dragon. Cette muraille fortifiée haute d'un quart de mille court sur des lieues le long de la frontière nord et est achevée en moins d'un siècle. Le compas Wu Xing, construit en même temps, permet de canaliser la magie Yang pour la renforcer.",
+      "en": "The Dragon Emperor, who has united the human realms of Cathay, sets his whole empire to raising the Great Bastion, or Dragon's Spine. This fortified wall a quarter of a mile high runs for leagues along the northern border and is completed in under a century. The Wu Xing Compass, built at the same time, channels Yang magic to strengthen it.",
+      "de": "Der Drachenkaiser, der die Menschenreiche Cathays geeint hat, setzt sein ganzes Reich daran, die Große Bastion, auch Rückgrat des Drachen genannt, zu errichten. Diese eine Viertelmeile hohe Festungsmauer erstreckt sich meilenweit entlang der Nordgrenze und wird in weniger als einem Jahrhundert vollendet. Der zugleich gebaute Wu-Xing-Kompass lenkt die Yang-Magie, um sie zu verstärken."
+    },
+    "ere": "age-d-or",
+    "regions": [
+      "orient"
+    ],
+    "lieux": [
+      "grand-bastion"
+    ],
+    "factions": [
+      "humains-autres",
+      "chaos"
+    ],
+    "importance": 3,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "Warriors of Chaos (7e édition) date l'achèvement de -1800 CI. L'Arcane Journal fait commencer les travaux vers cette date.",
+      "en": "Warriors of Chaos (7th edition) dates the completion to -1800 IC. The Arcane Journal has work begin around that date.",
+      "de": "Warriors of Chaos (7. Edition) datiert die Fertigstellung auf -1800 IK. Das Arcane Journal lässt die Arbeiten um dieses Datum beginnen."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Warriors of Chaos, 7e édition (2007)",
+          "en": "Warhammer Armies: Warriors of Chaos, 7th edition (2007)",
+          "de": "Warhammer Armies: Warriors of Chaos, 7. Edition (2007)"
+        },
+        "detail": {
+          "fr": "p. 38",
+          "en": "p. 38",
+          "de": "S. 38"
+        },
+        "url": ""
+      },
+      {
+        "titre": "Warhammer: The Old World, Arcane Journal: Breaching of the Great Bastion",
+        "detail": {
+          "fr": "p. 6-9",
+          "en": "pp. 6-9",
+          "de": "S. 6-9"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Grand Cathay",
+          "en": "Warhammer Fantasy Wiki (fandom), Grand Cathay page",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Grand Cathay"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Grand_Cathay"
+      }
+    ]
+  },
+  {
+    "id": "bastion-effondre-temps-des-malheurs",
+    "annee": -1500,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Le Grand Bastion s'effondre au temps des Malheurs",
+      "en": "The Great Bastion collapses in the Time of Woes",
+      "de": "Die Große Bastion stürzt in der Zeit der Wehklagen ein"
+    },
+    "resume": {
+      "fr": "Les séismes qui ravagent les Montagnes du Bord du Monde font aussi tomber des pans du Grand Bastion. Les hordes du Chaos se ruent sur les provinces du nord. Le Dragon des Tempêtes Miao Ying couvre la retraite de son peuple vers Nan-Gau mais tombe gravement blessée, et l'Empereur Dragon accourt avec ses autres enfants pour rejeter les envahisseurs au-delà du mur.",
+      "en": "The earthquakes that wrack the Worlds Edge Mountains also bring down sections of the Great Bastion. The hordes of Chaos pour into the northern provinces. The Storm Dragon Miao Ying covers her people's retreat to Nan-Gau but is gravely wounded, and the Dragon Emperor rushes in with his other children to drive the invaders back beyond the wall.",
+      "de": "Die Erdbeben, die das Weltrandgebirge erschüttern, bringen auch Teile der Großen Bastion zum Einsturz. Die Horden des Chaos fallen in die Nordprovinzen ein. Der Sturmdrache Miao Ying deckt den Rückzug ihres Volkes nach Nan-Gau, wird aber schwer verwundet, und der Drachenkaiser eilt mit seinen anderen Kindern herbei, um die Eindringlinge hinter die Mauer zurückzuwerfen."
+    },
+    "ere": "age-des-tribus",
+    "regions": [
+      "orient"
+    ],
+    "lieux": [
+      "grand-bastion",
+      "nan-gau"
+    ],
+    "factions": [
+      "humains-autres",
+      "chaos"
+    ],
+    "importance": 2,
+    "fiabilite": "divergent",
+    "note": {
+      "fr": "Warriors of Chaos (7e édition) place la chute de sections du Bastion en -1666 CI, en même temps que les séismes. L'Arcane Journal la place en -1500 CI.",
+      "en": "Warriors of Chaos (7th edition) places the collapse of Bastion sections in -1666 IC, together with the earthquakes. The Arcane Journal places it in -1500 IC.",
+      "de": "Warriors of Chaos (7. Edition) setzt den Einsturz von Teilen der Bastion zusammen mit den Erdbeben auf -1666 IK. Das Arcane Journal setzt ihn auf -1500 IK."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Warriors of Chaos, 7e édition (2007)",
+          "en": "Warhammer Armies: Warriors of Chaos, 7th edition (2007)",
+          "de": "Warhammer Armies: Warriors of Chaos, 7. Edition (2007)"
+        },
+        "detail": {
+          "fr": "p. 38",
+          "en": "p. 38",
+          "de": "S. 38"
+        },
+        "url": ""
+      },
+      {
+        "titre": "Warhammer: The Old World, Arcane Journal: Breaching of the Great Bastion",
+        "detail": {
+          "fr": "p. 2-9",
+          "en": "pp. 2-9",
+          "de": "S. 2-9"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Grand Cathay",
+          "en": "Warhammer Fantasy Wiki (fandom), Grand Cathay page",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Grand Cathay"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Grand_Cathay"
+      }
+    ]
+  },
+  {
+    "id": "eveil-des-sentinelles",
+    "annee": -1310,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "L'éveil des premières Sentinelles",
+      "en": "The awakening of the first Sentinels",
+      "de": "Das Erwachen der ersten Wächter"
+    },
+    "resume": {
+      "fr": "De nouveaux séismes ouvrent des brèches dans le Grand Bastion et le Chaos s'y engouffre, tandis que d'autres ennemis attaquent Cathay par le sud et l'ouest. Réunis au sommet du mont sacré Kunlan, les Dragons tissent ensemble les Vents élémentaires et éveillent la terre elle-même. Les premières Sentinelles de Cathay mènent la contre-attaque et dispersent les envahisseurs.",
+      "en": "New earthquakes open breaches in the Great Bastion and Chaos pours through, while other enemies strike Cathay from the south and west. Gathered on the summit of the sacred mountain Kunlan, the Dragons weave the Elemental Winds together and awaken the land itself. The first Cathayan Sentinels lead the counter-attack and scatter the invaders.",
+      "de": "Neue Erdbeben reißen Breschen in die Große Bastion, durch die das Chaos einfällt, während andere Feinde Cathay von Süden und Westen angreifen. Auf dem Gipfel des heiligen Berges Kunlan vereint, verweben die Drachen die elementaren Winde und erwecken das Land selbst. Die ersten Wächter Cathays führen den Gegenangriff und zerstreuen die Eindringlinge."
+    },
+    "ere": "age-des-tribus",
+    "regions": [
+      "orient"
+    ],
+    "lieux": [
+      "grand-bastion"
+    ],
+    "factions": [
+      "humains-autres",
+      "chaos"
+    ],
+    "importance": 2,
+    "fiabilite": "divergent",
+    "note": {
+      "fr": "Le livre de règles de la 8e édition décrit une grande invasion kurgane après l'effondrement du Bastion en 1310 CI, et non en -1310. Les deux dates pourraient renvoyer au même récit.",
+      "en": "The 8th edition rulebook describes a great Kurgan invasion after the collapse of the Bastion in 1310 IC, not -1310. The two dates may refer to the same story.",
+      "de": "Das Regelbuch der 8. Edition beschreibt eine große Kurgan-Invasion nach dem Einsturz der Bastion im Jahr 1310 IK, nicht -1310. Beide Daten könnten auf dieselbe Geschichte verweisen."
+    },
+    "sources": [
+      {
+        "titre": "Warhammer: The Old World, Arcane Journal: Breaching of the Great Bastion",
+        "detail": {
+          "fr": "p. 6-9",
+          "en": "pp. 6-9",
+          "de": "S. 6-9"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Grand Cathay",
+          "en": "Warhammer Fantasy Wiki (fandom), Grand Cathay page",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Grand Cathay"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Grand_Cathay"
+      }
+    ]
+  },
+  {
+    "id": "culte-de-chi-an-chi-a-beichai",
+    "annee": -1200,
+    "fin": -200,
+    "approx": false,
+    "titre": {
+      "fr": "Le culte de Chi'an Chi à Beichai",
+      "en": "The cult of Chi'an Chi in Beichai",
+      "de": "Der Kult des Chi'an Chi in Beichai"
+    },
+    "resume": {
+      "fr": "Le culte de Chi'an Chi, nom que l'Orient donne à Tzeentch, gagne la faveur de l'aristocratie de Beichai, sur la côte est de Cathay. Le Dragon des Mers Yin-Yin, qui préfère parcourir les océans plutôt que gouverner, ne voit rien. Quand elle et son père tentent de l'extirper vers -200, beaucoup de fidèles leur échappent.",
+      "en": "The cult of Chi'an Chi, as the East calls Tzeentch, wins favour among the aristocracy of Beichai, on Cathay's eastern coast. The Sea Dragon Yin-Yin, who prefers roaming the oceans to governing, notices nothing. When she and her father try to stamp it out around -200, many devotees escape them.",
+      "de": "Der Kult des Chi'an Chi, wie man im Osten Tzeentch nennt, gewinnt die Gunst der Aristokratie von Beichai an der Ostküste Cathays. Der Meeresdrache Yin-Yin, die lieber die Ozeane durchstreift als zu regieren, bemerkt nichts. Als sie und ihr Vater ihn um -200 ausrotten wollen, entkommen ihnen viele Anhänger."
+    },
+    "ere": "age-des-tribus",
+    "regions": [
+      "orient"
+    ],
+    "lieux": [
+      "beichai"
+    ],
+    "factions": [
+      "chaos",
+      "humains-autres"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Warriors of Chaos, 7e édition (2007)",
+          "en": "Warhammer Armies: Warriors of Chaos, 7th edition (2007)",
+          "de": "Warhammer Armies: Warriors of Chaos, 7. Edition (2007)"
+        },
+        "detail": {
+          "fr": "p. 38",
+          "en": "p. 38",
+          "de": "S. 38"
+        },
+        "url": ""
+      },
+      {
+        "titre": "Warhammer: The Old World, Arcane Journal: Breaching of the Great Bastion",
+        "detail": {
+          "fr": "p. 6-9",
+          "en": "pp. 6-9",
+          "de": "S. 6-9"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Grand Cathay",
+          "en": "Warhammer Fantasy Wiki (fandom), Grand Cathay page",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Grand Cathay"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Grand_Cathay"
+      }
+    ]
+  },
+  {
+    "id": "miao-ying-a-la-cour-de-sigmar",
+    "annee": 1,
+    "fin": 50,
+    "approx": true,
+    "titre": {
+      "fr": "Miao Ying à la cour de Sigmar",
+      "en": "Miao Ying at the court of Sigmar",
+      "de": "Miao Ying am Hof Sigmars"
+    },
+    "resume": {
+      "fr": "Curieux du nouvel empire qui naît à l'ouest, l'Empereur Dragon envoie sa fille Miao Ying auprès de Sigmar. Le Dragon des Tempêtes gagne Marienburg par la mer puis Altdorf en lanterne céleste. Elle trouve un roi lettré et éloquent, lui offre l'amitié de son père et ouvre les premières routes commerciales entre les deux empires.",
+      "en": "Curious about the new empire rising in the west, the Dragon Emperor sends his daughter Miao Ying to Sigmar. The Storm Dragon reaches Marienburg by sea and then Altdorf by sky lantern. She finds a learned and eloquent king, offers him her father's friendship and opens the first trade routes between the two empires.",
+      "de": "Neugierig auf das neue Reich im Westen schickt der Drachenkaiser seine Tochter Miao Ying zu Sigmar. Der Sturmdrache erreicht Marienburg auf dem Seeweg und dann Altdorf mit einer Himmelslaterne. Sie trifft auf einen gebildeten und beredten König, bietet ihm die Freundschaft ihres Vaters an und eröffnet die ersten Handelswege zwischen den beiden Reichen."
+    },
+    "ere": "empire-sigmarite",
+    "regions": [
+      "orient",
+      "empire"
+    ],
+    "lieux": [
+      "altdorf",
+      "marienburg"
+    ],
+    "factions": [
+      "humains-autres",
+      "empire"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "Les Arcane Journals de The Old World situent la visite sous le règne de Sigmar, sans année précise.",
+      "en": "The Old World Arcane Journals set the visit during Sigmar's reign, without a precise year.",
+      "de": "Die Arcane Journals von The Old World setzen den Besuch in Sigmars Herrschaft, ohne genaues Jahr."
+    },
+    "sources": [
+      {
+        "titre": "Warhammer: The Old World, Arcane Journal: Armies of Grand Cathay",
+        "detail": {
+          "fr": "p. 16-17",
+          "en": "pp. 16-17",
+          "de": "S. 16-17"
+        },
+        "url": ""
+      },
+      {
+        "titre": "Warhammer: The Old World, Arcane Journal: Breaching of the Great Bastion",
+        "detail": {
+          "fr": "p. 6-9",
+          "en": "pp. 6-9",
+          "de": "S. 6-9"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Grand Cathay",
+          "en": "Warhammer Fantasy Wiki (fandom), Grand Cathay page",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Grand Cathay"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Grand_Cathay"
+      }
+    ]
+  },
+  {
+    "id": "yamyakyuki-premier-empereur-de-nippon",
+    "annee": 12,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Mort de Yamyakyuki Ier, premier empereur de Nippon",
+      "en": "Death of Yamyakyuki I, first Emperor of Nippon",
+      "de": "Tod Yamyakyukis I., des ersten Kaisers von Nippon"
+    },
+    "resume": {
+      "fr": "Pendant que Sigmar combat les Peaux-vertes, Nippon est unifié pour la première fois sous un seul empereur seigneur de guerre, Yamyakyuki Ier, qui meurt en 12 CI. Malgré des divisions et des guerres civiles constantes, l'archipel reste ensuite l'un des foyers de civilisation de l'Orient.",
+      "en": "While Sigmar fights the Greenskins, Nippon is united for the first time under a single Emperor Warlord, Yamyakyuki I, who dies in 12 IC. Despite constant division and civil war, the island realm then remains one of the centres of civilisation in the East.",
+      "de": "Während Sigmar gegen die Grünhäute kämpft, wird Nippon zum ersten Mal unter einem einzigen Kriegsherrn-Kaiser geeint, Yamyakyuki I., der 12 IK stirbt. Trotz ständiger Spaltungen und Bürgerkriege bleibt das Inselreich danach eines der Zentren der Zivilisation im Osten."
+    },
+    "ere": "empire-sigmarite",
+    "regions": [
+      "orient"
+    ],
+    "lieux": [],
+    "factions": [
+      "humains-autres"
+    ],
+    "importance": 1,
+    "fiabilite": "incertain",
+    "note": {
+      "fr": "Source unique et ancienne, le livre de règles de la 3e édition (1987), dont le ton parodique a été abandonné depuis.",
+      "en": "Single and old source, the 3rd edition rulebook (1987), whose parodic tone has since been dropped.",
+      "de": "Einzige und alte Quelle ist das Regelbuch der 3. Edition (1987), dessen parodistischer Ton inzwischen aufgegeben wurde."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Fantasy Battle Rulebook, 3e édition (1987)",
+          "en": "Warhammer Fantasy Battle Rulebook, 3rd edition (1987)",
+          "de": "Warhammer Fantasy Battle Rulebook, 3. Edition (1987)"
+        },
+        "detail": {
+          "fr": "p. 197",
+          "en": "p. 197",
+          "de": "S. 197"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Nippon",
+          "en": "Warhammer Fantasy Wiki (fandom), Nippon page",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Nippon"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Nippon"
+      }
+    ]
+  },
+  {
+    "id": "poudre-noire-vers-l-ouest",
+    "annee": 200,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "La poudre noire arrive dans le Vieux Monde",
+      "en": "Blackpowder reaches the Old World",
+      "de": "Schwarzpulver erreicht die Alte Welt"
+    },
+    "resume": {
+      "fr": "Des marchands tiléens et estaliens rapportent de Cathay les premières cargaisons connues de poudre noire. Les Nains, qui voulaient garder pour eux le secret de cette substance, en sont fort contrariés.",
+      "en": "Tilean and Estalian merchants bring back from Cathay the first recorded shipments of blackpowder. The Dwarfs, who wished to keep the secret of the substance to themselves, are much aggrieved.",
+      "de": "Tileanische und estalische Kaufleute bringen aus Cathay die ersten bekannten Ladungen Schwarzpulver mit. Die Zwerge, die das Geheimnis dieses Stoffes für sich behalten wollten, sind darüber sehr verärgert."
+    },
+    "ere": "empire-sigmarite",
+    "regions": [
+      "orient",
+      "tilee-estalie"
+    ],
+    "lieux": [
+      "cathay"
+    ],
+    "factions": [
+      "humains-autres",
+      "nains"
+    ],
+    "importance": 1,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": "Warhammer: The Old World, Arcane Journal: Breaching of the Great Bastion",
+        "detail": {
+          "fr": "p. 6-9",
+          "en": "pp. 6-9",
+          "de": "S. 6-9"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Grand Cathay",
+          "en": "Warhammer Fantasy Wiki (fandom), Grand Cathay page",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Grand Cathay"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Grand_Cathay"
+      }
+    ]
+  },
+  {
+    "id": "marco-polare-a-wei-jin",
+    "annee": 1247,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Marco Polare atteint Cathay",
+      "en": "Marco Polare reaches Cathay",
+      "de": "Marco Polare erreicht Cathay"
+    },
+    "resume": {
+      "fr": "L'explorateur tiléen Marco Polare parvient au Grand Cathay. Dans ses écrits, il dit avoir aperçu des Skavens sous Wei-Jin, la capitale, et rapporte des légendes d'eunuques sorciers immortels qui boiraient l'âme des hommes.",
+      "en": "The Tilean explorer Marco Polare reaches Grand Cathay. In his writings he claims to have glimpsed Skaven beneath the capital, Wei-Jin, and records legends of immortal eunuch sorcerers who drink the souls of men.",
+      "de": "Der tileanische Entdecker Marco Polare erreicht Groß-Cathay. In seinen Schriften behauptet er, unter der Hauptstadt Wei-Jin Skaven gesehen zu haben, und berichtet von Legenden über unsterbliche Eunuchenzauberer, die die Seelen der Menschen trinken."
+    },
+    "ere": "empire-sigmarite",
+    "regions": [
+      "orient",
+      "tilee-estalie"
+    ],
+    "lieux": [
+      "wei-jin"
+    ],
+    "factions": [
+      "humains-autres",
+      "skavens"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Children of the Horned Rat, Warhammer Fantasy Roleplay 2e édition (2009)",
+          "en": "Children of the Horned Rat, Warhammer Fantasy Roleplay 2nd edition (2009)",
+          "de": "Children of the Horned Rat, Warhammer Fantasy Roleplay 2. Edition (2009)"
+        },
+        "detail": {
+          "fr": "p. 35",
+          "en": "p. 35",
+          "de": "S. 35"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Grand Cathay",
+          "en": "Warhammer Fantasy Wiki (fandom), Grand Cathay page",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Grand Cathay"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Grand_Cathay"
+      }
+    ]
+  },
+  {
+    "id": "grande-invasion-kurgane-de-cathay",
+    "annee": 1310,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "La grande invasion kurgane de Cathay",
+      "en": "The great Kurgan invasion of Cathay",
+      "de": "Die große Kurgan-Invasion Cathays"
+    },
+    "resume": {
+      "fr": "Des séismes abattent une partie du Grand Bastion et des dizaines de tribus kurganes des steppes de l'Est se déversent dans l'empire. Guerriers du Chaos et automates de terre cuite s'affrontent dans les brèches, des mammouths mutants piétinent des régiments d'Ogres et des princes démons combattent les Dragons dans le ciel. Cathay finit par briser l'invasion, mais non sans pertes.",
+      "en": "Earthquakes bring down part of the Great Bastion and scores of Kurgan tribes from the Eastern Steppes flood into the empire. Chaos Warriors and terracotta automatons clash in the breaches, mutated mammoths trample regiments of Ogres and Daemon Princes duel the Dragons in the skies. Cathay finally blunts the invasion, but not without loss.",
+      "de": "Erdbeben bringen einen Teil der Großen Bastion zum Einsturz, und Dutzende Kurgan-Stämme aus den Östlichen Steppen strömen ins Reich. Chaoskrieger und Terrakotta-Automaten kämpfen in den Breschen, mutierte Mammuts zertrampeln Ogerregimenter und Dämonenprinzen duellieren sich am Himmel mit den Drachen. Cathay bricht die Invasion schließlich, jedoch unter Verlusten."
+    },
+    "ere": "empire-sigmarite",
+    "regions": [
+      "orient",
+      "desolations"
+    ],
+    "lieux": [
+      "grand-bastion"
+    ],
+    "factions": [
+      "chaos",
+      "humains-autres",
+      "ogres"
+    ],
+    "importance": 2,
+    "fiabilite": "divergent",
+    "note": {
+      "fr": "Le livre de règles de la 8e édition donne 1310 CI. L'Arcane Journal décrit un épisode très proche en -1310 CI.",
+      "en": "The 8th edition rulebook gives 1310 IC. The Arcane Journal describes a very similar episode in -1310 IC.",
+      "de": "Das Regelbuch der 8. Edition nennt 1310 IK. Das Arcane Journal beschreibt eine sehr ähnliche Episode im Jahr -1310 IK."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Rulebook, 8e édition (2010)",
+          "en": "Warhammer Rulebook, 8th edition (2010)",
+          "de": "Warhammer Rulebook, 8. Edition (2010)"
+        },
+        "detail": {
+          "fr": "p. 219",
+          "en": "p. 219",
+          "de": "S. 219"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Grand Cathay",
+          "en": "Warhammer Fantasy Wiki (fandom), Grand Cathay page",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Grand Cathay"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Grand_Cathay"
+      }
+    ]
+  },
+  {
+    "id": "expedition-cathay-estalie",
+    "annee": 1690,
+    "fin": null,
+    "approx": true,
+    "titre": {
+      "fr": "L'expédition commune de Cathay et de l'Estalie",
+      "en": "The joint expedition of Cathay and Estalia",
+      "de": "Die gemeinsame Expedition Cathays und Estalias"
+    },
+    "resume": {
+      "fr": "Le Dragon des Mers Yin-Yin, que les érudits du Vieux Monde appellent à tort l'empereur Wu, s'associe à l'Estalie pour coloniser les Terres du Sud. La flotte estalienne touche terre, mais deux typhons, invoqués par les Slanns, détruisent la flotte cathayane, dont les rescapés s'abritent au large d'Ind. Le marin Yin-Tuan, égaré, traverse la Lustrie et échappe de peu au sacrifice à Zlatlan.",
+      "en": "The Sea Dragon Yin-Yin, wrongly called Emperor Wu by Old World scholars, joins with Estalia to colonise the Southlands. The Estalian fleet makes landfall, but twin typhoons, conjured by the Slann, wreck the Cathayan fleet, whose survivors shelter off the coast of Ind. The mariner Yin-Tuan, blown off course, crosses Lustria and narrowly escapes sacrifice at Zlatlan.",
+      "de": "Der Meeresdrache Yin-Yin, von den Gelehrten der Alten Welt fälschlich Kaiser Wu genannt, verbündet sich mit Estalia, um die Südlande zu besiedeln. Die estalische Flotte landet, doch zwei von den Slann heraufbeschworene Taifune zerstören die cathayanische Flotte, deren Überlebende vor der Küste von Ind Schutz suchen. Der verirrte Seefahrer Yin-Tuan durchquert Lustria und entgeht in Zlatlan knapp der Opferung."
+    },
+    "ere": "trois-empereurs",
+    "regions": [
+      "orient",
+      "tilee-estalie",
+      "sud",
+      "lustrie"
+    ],
+    "lieux": [
+      "zlatlan"
+    ],
+    "factions": [
+      "humains-autres",
+      "hommes-lezards"
+    ],
+    "importance": 2,
+    "fiabilite": "divergent",
+    "note": {
+      "fr": "Le livre des Hommes-lézards (5e édition) parle d'un empereur Wu de Cathay. L'Arcane Journal précise qu'il s'agissait du Dragon des Mers Yin-Yin.",
+      "en": "The Lizardmen book (5th edition) speaks of an Emperor Wu of Cathay. The Arcane Journal explains that this was the Sea Dragon Yin-Yin.",
+      "de": "Das Echsenmenschen-Buch (5. Edition) spricht von einem Kaiser Wu von Cathay. Das Arcane Journal erklärt, dass es sich um den Meeresdrachen Yin-Yin handelte."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Lizardmen, 5e édition (1998)",
+          "en": "Warhammer Armies: Lizardmen, 5th edition (1998)",
+          "de": "Warhammer Armies: Lizardmen, 5. Edition (1998)"
+        },
+        "detail": {
+          "fr": "p. 14-17",
+          "en": "pp. 14-17",
+          "de": "S. 14-17"
+        },
+        "url": ""
+      },
+      {
+        "titre": "Warhammer: The Old World, Arcane Journal: Breaching of the Great Bastion",
+        "detail": {
+          "fr": "p. 6-9",
+          "en": "pp. 6-9",
+          "de": "S. 6-9"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Grand Cathay",
+          "en": "Warhammer Fantasy Wiki (fandom), Grand Cathay page",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Grand Cathay"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Grand_Cathay"
+      }
+    ]
+  },
+  {
+    "id": "ricco-et-robbio-chez-l-empereur-wu",
+    "annee": 1699,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Ricco et Robbio à la cour de l'empereur Wu",
+      "en": "Ricco and Robbio at the court of Emperor Wu",
+      "de": "Ricco und Robbio am Hof des Kaisers Wu"
+    },
+    "resume": {
+      "fr": "Les mercenaires tiléens Ricco et Robbio suivent la route de la Soie jusqu'au Grand Cathay et sont reçus à la cour du prétendu empereur Wu, en réalité l'un des enfants dragons de l'Empereur Dragon. Leur récit nourrit l'image fabuleuse de Cathay dans le Vieux Monde.",
+      "en": "The Tilean mercenaries Ricco and Robbio travel the Silk Road to Grand Cathay and are received at the court of the so-called Emperor Wu, in truth one of the Dragon Emperor's dragon children. Their account feeds the fabulous image of Cathay in the Old World.",
+      "de": "Die tileanischen Söldner Ricco und Robbio ziehen die Seidenstraße entlang nach Groß-Cathay und werden am Hof des sogenannten Kaisers Wu empfangen, in Wahrheit eines der Drachenkinder des Drachenkaisers. Ihr Bericht nährt das sagenhafte Bild Cathays in der Alten Welt."
+    },
+    "ere": "trois-empereurs",
+    "regions": [
+      "orient",
+      "tilee-estalie"
+    ],
+    "lieux": [
+      "cathay"
+    ],
+    "factions": [
+      "humains-autres"
+    ],
+    "importance": 1,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Dogs of War, 5e édition (1998)",
+          "en": "Warhammer Armies: Dogs of War, 5th edition (1998)",
+          "de": "Warhammer Armies: Dogs of War, 5. Edition (1998)"
+        },
+        "detail": {
+          "fr": "p. 85-95",
+          "en": "pp. 85-95",
+          "de": "S. 85-95"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Grand Cathay",
+          "en": "Warhammer Fantasy Wiki (fandom), Grand Cathay page",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Grand Cathay"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Grand_Cathay"
+      }
+    ]
+  },
+  {
+    "id": "temps-des-tenebres-et-de-la-discorde",
+    "annee": 2000,
+    "fin": 2380,
+    "approx": false,
+    "titre": {
+      "fr": "Le temps des Ténèbres et de la Discorde",
+      "en": "The Time of Darkness and Disharmony",
+      "de": "Die Zeit der Finsternis und Zwietracht"
+    },
+    "resume": {
+      "fr": "L'Empereur Dragon et l'Impératrice de la Lune quittent soudain Cathay sans dire quand ils reviendront. Leurs enfants se disputent le pouvoir, seigneurs rebelles et magistrats ambitieux intriguent et les campagnes se remplissent de brigands. En 2101, une grande horde assaille le Grand Bastion et seul le Dragon de Jade Yuan Bo répond à l'appel de Miao Ying.",
+      "en": "The Dragon Emperor and the Moon Empress suddenly leave Cathay without saying when they will return. Their children quarrel over power, rebel lords and ambitious magistrates scheme and the countryside fills with bandits. In 2101 a great horde assaults the Great Bastion and only the Jade Dragon Yuan Bo answers Miao Ying's call.",
+      "de": "Der Drachenkaiser und die Mondkaiserin verlassen Cathay plötzlich, ohne zu sagen, wann sie zurückkehren. Ihre Kinder streiten um die Macht, rebellische Fürsten und ehrgeizige Magistrate intrigieren und das Land füllt sich mit Räubern. Im Jahr 2101 greift eine große Horde die Große Bastion an, und nur der Jadedrache Yuan Bo folgt Miao Yings Ruf."
+    },
+    "ere": "trois-empereurs",
+    "regions": [
+      "orient"
+    ],
+    "lieux": [
+      "wei-jin",
+      "grand-bastion"
+    ],
+    "factions": [
+      "humains-autres",
+      "chaos"
+    ],
+    "importance": 3,
+    "fiabilite": "divergent",
+    "note": {
+      "fr": "Le départ est daté de 1999 ou de 2000 CI et le retour de 2380 ou de 2387 CI selon les sources (livre de règles de The Old World, Arcane Journal, entretien d'Andy Hall). Cette période correspond à l'Anarchie dans l'Empire.",
+      "en": "The departure is dated to 1999 or 2000 IC and the return to 2380 or 2387 IC depending on the source (The Old World rulebook, Arcane Journal, Andy Hall interview). This period matches the Anarchy in the Empire.",
+      "de": "Der Aufbruch wird je nach Quelle auf 1999 oder 2000 IK und die Rückkehr auf 2380 oder 2387 IK datiert (Regelbuch von The Old World, Arcane Journal, Interview mit Andy Hall). Diese Zeit entspricht der Anarchie im Imperium."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer: The Old World, livre de règles (2024)",
+          "en": "Warhammer: The Old World Rulebook (2024)",
+          "de": "Warhammer: The Old World, Regelbuch (2024)"
+        },
+        "detail": {
+          "fr": "p. 87",
+          "en": "p. 87",
+          "de": "S. 87"
+        },
+        "url": ""
+      },
+      {
+        "titre": "Warhammer: The Old World, Arcane Journal: Breaching of the Great Bastion",
+        "detail": {
+          "fr": "p. 2-9",
+          "en": "pp. 2-9",
+          "de": "S. 2-9"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Grand Cathay",
+          "en": "Warhammer Fantasy Wiki (fandom), Grand Cathay page",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Grand Cathay"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Grand_Cathay"
+      }
+    ]
+  },
+  {
+    "id": "bataille-de-nan-li",
+    "annee": 2276,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "La bataille de Nan-Li et la porte du Serpent",
+      "en": "The Battle of Nan-Li and the Snake Gate",
+      "de": "Die Schlacht von Nan-Li und das Schlangentor"
+    },
+    "resume": {
+      "fr": "Face à des tribus du Nord toujours plus nombreuses, Miao Ying dégarnit volontairement la citadelle de la porte du Serpent. Une horde kurgane la prend et se répand dans les provinces du nord. Le Dragon des Tempêtes reprend la porte avec l'Armée de Jade pendant que les paysans enrôlés de Nan-Li, appuyés par une Sentinelle de terre cuite, écrasent les envahisseurs. La même année, Miao Ying part pour l'Empire combattre le Chaos au Westerland.",
+      "en": "Facing ever more numerous northern tribes, Miao Ying deliberately weakens the citadel of the Snake Gate. A Kurgan horde takes it and spreads into the northern provinces. The Storm Dragon retakes the gate with the Jade Host while the conscripted peasants of Nan-Li, backed by a terracotta Sentinel, crush the invaders. The same year, Miao Ying leaves for the Empire to fight Chaos in the Westerland.",
+      "de": "Angesichts immer zahlreicherer Nordstämme schwächt Miao Ying absichtlich die Zitadelle des Schlangentors. Eine Kurgan-Horde nimmt sie ein und fällt in die Nordprovinzen ein. Der Sturmdrache erobert das Tor mit dem Jadeheer zurück, während die ausgehobenen Bauern von Nan-Li mit Hilfe eines Terrakotta-Wächters die Eindringlinge zerschlagen. Im selben Jahr bricht Miao Ying ins Imperium auf, um im Westerland gegen das Chaos zu kämpfen."
+    },
+    "ere": "trois-empereurs",
+    "regions": [
+      "orient",
+      "empire"
+    ],
+    "lieux": [
+      "nan-li",
+      "grand-bastion",
+      "nan-gau"
+    ],
+    "factions": [
+      "humains-autres",
+      "chaos"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": "Warhammer: The Old World, Arcane Journal: Breaching of the Great Bastion",
+        "detail": {
+          "fr": "p. 24-29",
+          "en": "pp. 24-29",
+          "de": "S. 24-29"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Grand Cathay",
+          "en": "Warhammer Fantasy Wiki (fandom), Grand Cathay page",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Grand Cathay"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Grand_Cathay"
+      }
+    ]
+  },
+  {
+    "id": "le-roi-singe-sur-le-trone",
+    "annee": 2377,
+    "fin": 2380,
+    "approx": false,
+    "titre": {
+      "fr": "Le Roi Singe sur le trône de Cathay",
+      "en": "The Monkey King on the throne of Cathay",
+      "de": "Der Affenkönig auf dem Thron Cathays"
+    },
+    "resume": {
+      "fr": "Profitant du désordre, le Roi Singe s'empare du trône du Grand Cathay. Il prend pour conseiller le seigneur de guerre Kishkik du clan Eshin et ouvre un commerce honteux avec l'empire souterrain des Skavens. Humiliés, les Dragons cessent enfin leurs querelles et le chassent vers le sud. Trois ans plus tard, l'Empereur Dragon et son épouse reviennent.",
+      "en": "Taking advantage of the disorder, the Monkey King seizes the throne of Grand Cathay. He takes Warlord Kishkik of Clan Eshin as his adviser and opens a shameful trade with the Skaven Under-Empire. Humiliated, the Dragons finally end their quarrels and drive him south. Three years later, the Dragon Emperor and his consort return.",
+      "de": "Der Affenkönig nutzt das Chaos und reißt den Thron von Groß-Cathay an sich. Er macht den Kriegsherrn Kishkik vom Klan Eshin zu seinem Berater und beginnt einen schändlichen Handel mit dem Unterreich der Skaven. Gedemütigt legen die Drachen endlich ihren Streit bei und vertreiben ihn nach Süden. Drei Jahre später kehren der Drachenkaiser und seine Gemahlin zurück."
+    },
+    "ere": "empire-reunifie",
+    "regions": [
+      "orient"
+    ],
+    "lieux": [
+      "wei-jin"
+    ],
+    "factions": [
+      "humains-autres",
+      "skavens"
+    ],
+    "importance": 2,
+    "fiabilite": "divergent",
+    "note": {
+      "fr": "Children of the Horned Rat date la prise du trône de 2377 CI. L'Arcane Journal fait commencer les intrigues du Roi Singe pour le trône dès 2163 CI.",
+      "en": "Children of the Horned Rat dates the seizure of the throne to 2377 IC. The Arcane Journal has the Monkey King's schemes for the throne begin as early as 2163 IC.",
+      "de": "Children of the Horned Rat datiert die Thronergreifung auf 2377 IK. Das Arcane Journal lässt die Ränke des Affenkönigs um den Thron schon 2163 IK beginnen."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Children of the Horned Rat, Warhammer Fantasy Roleplay 2e édition (2009)",
+          "en": "Children of the Horned Rat, Warhammer Fantasy Roleplay 2nd edition (2009)",
+          "de": "Children of the Horned Rat, Warhammer Fantasy Roleplay 2. Edition (2009)"
+        },
+        "detail": {
+          "fr": "p. 36",
+          "en": "p. 36",
+          "de": "S. 36"
+        },
+        "url": ""
+      },
+      {
+        "titre": "Warhammer: The Old World, Arcane Journal: Breaching of the Great Bastion",
+        "detail": {
+          "fr": "p. 6-9",
+          "en": "pp. 6-9",
+          "de": "S. 6-9"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Grand Cathay",
+          "en": "Warhammer Fantasy Wiki (fandom), Grand Cathay page",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Grand Cathay"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Grand_Cathay"
+      }
+    ]
+  },
+  {
+    "id": "marchands-de-marienburg-a-nippon",
+    "annee": 2475,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Les marchands de Marienburg à Nippon",
+      "en": "Marienburg traders in Nippon",
+      "de": "Marienburger Händler in Nippon"
+    },
+    "resume": {
+      "fr": "Des marchands de Marienburg portent leurs marchandises jusqu'à Nippon, l'un des rares contacts directs entre le Vieux Monde et l'archipel. Les Nippons se méfient des étrangers et ne les laissent voyager sur leurs terres qu'en de rares occasions.",
+      "en": "Traders from Marienburg carry their wares as far as Nippon, one of the few direct contacts between the Old World and the island realm. The Nipponese distrust outsiders and only rarely allow them to travel in their lands.",
+      "de": "Händler aus Marienburg bringen ihre Waren bis nach Nippon, einer der wenigen direkten Kontakte zwischen der Alten Welt und dem Inselreich. Die Nipponer misstrauen Fremden und erlauben ihnen nur selten, durch ihr Land zu reisen."
+    },
+    "ere": "empire-reunifie",
+    "regions": [
+      "orient",
+      "empire"
+    ],
+    "lieux": [
+      "marienburg"
+    ],
+    "factions": [
+      "humains-autres"
+    ],
+    "importance": 1,
+    "fiabilite": "incertain",
+    "note": {
+      "fr": "Source unique, Marienburg: Sold Down the River (WFRP 1re édition).",
+      "en": "Single source, Marienburg: Sold Down the River (WFRP 1st edition).",
+      "de": "Einzige Quelle ist Marienburg: Sold Down the River (WFRP 1. Edition)."
+    },
+    "sources": [
+      {
+        "titre": {
+          "fr": "Marienburg: Sold Down the River, Warhammer Fantasy Roleplay 1re édition (1989)",
+          "en": "Marienburg: Sold Down the River, Warhammer Fantasy Roleplay 1st edition (1989)",
+          "de": "Marienburg: Sold Down the River, Warhammer Fantasy Roleplay 1. Edition (1989)"
+        },
+        "detail": {
+          "fr": "p. 21",
+          "en": "p. 21",
+          "de": "S. 21"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Nippon",
+          "en": "Warhammer Fantasy Wiki (fandom), Nippon page",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Nippon"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Nippon"
+      }
+    ]
+  },
+  {
+    "id": "throgg-roi-des-trolls",
+    "annee": 2490,
+    "fin": 2517,
+    "approx": false,
+    "titre": {
+      "fr": "Throgg, le roi des Trolls",
+      "en": "Throgg, the Troll King",
+      "de": "Throgg, der Trollkönig"
+    },
+    "resume": {
+      "fr": "La nécromancienne Hela Demi-Morte mène une horde de cadavres dans le Pays des Trolls, où elle est mise en pièces par Throgg, le roi des Trolls, et son armée. En 2517, Throgg rassemble les monstres du Nord et entre en guerre contre le monde civilisé.",
+      "en": "The necromancer Hela Half-dead leads a horde of corpses into Troll Country, where she is torn apart by Throgg, the Troll King, and his army. In 2517 Throgg gathers the monsters of the north and begins his war against the civilised world.",
+      "de": "Die Nekromantin Hela Halbtot führt eine Leichenhorde ins Trollland, wo sie von Throgg, dem Trollkönig, und seinem Heer zerrissen wird. 2517 sammelt Throgg die Ungeheuer des Nordens und beginnt seinen Krieg gegen die zivilisierte Welt."
+    },
+    "ere": "empire-reunifie",
+    "regions": [
+      "kislev",
+      "desolations"
+    ],
+    "lieux": [],
+    "factions": [
+      "chaos",
+      "vampires"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Warriors of Chaos, 8e édition (2013)",
+          "en": "Warhammer Armies: Warriors of Chaos, 8th edition (2013)",
+          "de": "Warhammer Armies: Warriors of Chaos, 8. Edition (2013)"
+        },
+        "detail": {
+          "fr": "p. 15",
+          "en": "p. 15",
+          "de": "S. 15"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Warriors of Chaos Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), Warriors of Chaos Timeline page",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Warriors of Chaos Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Warriors_of_Chaos_Timeline"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Throgg",
+          "en": "Lexicanum, Throgg page",
+          "de": "Lexicanum, Seite Throgg"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Throgg"
+      }
+    ]
+  },
+  {
+    "id": "galrauch-se-reveille",
+    "annee": 1846,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Le réveil de Galrauch",
+      "en": "Galrauch awakens",
+      "de": "Galrauch erwacht"
+    },
+    "resume": {
+      "fr": "Une grande bataille entre Orques et tribus hung, livrée devant son repaire, réveille le dragon du Chaos Galrauch. Il déchaîne sa fureur sur tous les combattants et tue en combat aérien les six vouivres envoyées contre lui.",
+      "en": "A great battle between Orcs and Hung tribes, fought outside his lair, wakes the Chaos Dragon Galrauch. He vents his rage on all present and kills in aerial combat no fewer than six wyverns sent to slay him.",
+      "de": "Eine große Schlacht zwischen Orks und Hung-Stämmen vor seinem Hort weckt den Chaosdrachen Galrauch. Er lässt seinen Zorn an allen Anwesenden aus und tötet im Luftkampf die sechs Lindwürmer, die gegen ihn geschickt werden."
+    },
+    "ere": "trois-empereurs",
+    "regions": [
+      "desolations"
+    ],
+    "lieux": [
+      "desolations"
+    ],
+    "factions": [
+      "chaos",
+      "peaux-vertes"
+    ],
+    "importance": 1,
+    "fiabilite": "etabli",
+    "note": "",
+    "sources": [
+      {
+        "titre": {
+          "fr": "Warhammer Armies: Warriors of Chaos, 8e édition (2013)",
+          "en": "Warhammer Armies: Warriors of Chaos, 8th edition (2013)",
+          "de": "Warhammer Armies: Warriors of Chaos, 8. Edition (2013)"
+        },
+        "detail": {
+          "fr": "p. 14",
+          "en": "p. 14",
+          "de": "S. 14"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Wiki Warhammer Fantasy (fandom), page Warriors of Chaos Timeline",
+          "en": "Warhammer Fantasy Wiki (fandom), Warriors of Chaos Timeline page",
+          "de": "Warhammer Fantasy Wiki (Fandom), Seite Warriors of Chaos Timeline"
+        },
+        "detail": "",
+        "url": "https://warhammerfantasy.fandom.com/wiki/Warriors_of_Chaos_Timeline"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Galrauch",
+          "en": "Lexicanum, Galrauch page",
+          "de": "Lexicanum, Seite Galrauch"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Galrauch"
+      }
+    ]
+  }
+]
