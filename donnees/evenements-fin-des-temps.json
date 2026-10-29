@@ -1,0 +1,1602 @@
+[
+  {
+    "id": "sylvanie-scellee",
+    "annee": 2522,
+    "fin": null,
+    "approx": true,
+    "titre": {
+      "fr": "Mannfred von Carstein scelle la Sylvanie",
+      "en": "Mannfred von Carstein seals Sylvania",
+      "de": "Mannfred von Carstein versiegelt Sylvanien"
+    },
+    "resume": {
+      "fr": "Mannfred von Carstein prend ouvertement le contrôle de la Sylvanie et capture le Grand Théogoniste Volkmar, venu le combattre en croisade. Avec les captifs de sang divin qu'il a réunis, il tisse l'Enchantement apostatique, qui coupe la province du regard des dieux. En réponse, le Patriarche suprême Balthasar Gelt dresse un mur de foi autour de la Sylvanie pour y enfermer les morts-vivants.",
+      "en": "Mannfred von Carstein openly seizes Sylvania and captures Grand Theogonist Volkmar, who had led a crusade against him. With the captives of divine blood he has gathered, he weaves the Apostatic Enchantment, which hides the province from the gods. In response, Supreme Patriarch Balthasar Gelt raises a Wall of Faith around Sylvania to trap the undead inside.",
+      "de": "Mannfred von Carstein übernimmt offen die Herrschaft über Sylvanien und nimmt den Großtheogonisten Volkmar gefangen, der einen Kreuzzug gegen ihn geführt hatte. Mit den Gefangenen göttlichen Blutes wirkt er die Apostatische Verzauberung, die die Provinz vor den Blicken der Götter verbirgt. Als Antwort errichtet der Oberste Patriarch Balthasar Gelt einen Wall des Glaubens um Sylvanien, um die Untoten einzuschließen."
+    },
+    "ere": "fin-des-temps",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [
+      "drakenhof"
+    ],
+    "factions": [
+      "vampires",
+      "empire"
+    ],
+    "importance": 2,
+    "fiabilite": "divergent",
+    "note": {
+      "fr": "Raconté dans le prologue « Le commencement de la fin » du livre Nagash, que Lexicanum range en 2522 CI, avant le premier chapitre daté de l'automne 2523. C'est l'année de la Tempête du Chaos, dont le récit ignore tout de cet enfermement. La Fin des Temps remplace cette version antérieure.",
+      "en": "Told in the prologue \"The Beginning of the End\" of the Nagash book, which Lexicanum files under 2522 IC, before the first chapter dated autumn 2523. This is the year of the Storm of Chaos, whose account knows nothing of this sealing. The End Times replaces that earlier version.",
+      "de": "Erzählt im Prolog „Der Anfang vom Ende“ des Bandes Nagash, den Lexicanum unter 2522 IK einordnet, vor dem ersten Kapitel ab Herbst 2523. Es ist das Jahr des Sturms des Chaos, dessen Bericht nichts von dieser Abriegelung weiß. Die Endzeit ersetzt diese ältere Fassung."
+    },
+    "sources": [
+      {
+        "titre": "Warhammer: The End Times – Nagash (2014)",
+        "detail": {
+          "fr": "prologue « The Beginning of the End », p. 18-25",
+          "en": "prologue \"The Beginning of the End\", pp. 18-25",
+          "de": "Prolog „The Beginning of the End“, S. 18-25"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page The End Times",
+          "en": "Lexicanum, The End Times page",
+          "de": "Lexicanum, Seite The End Times"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/The_End_Times"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Mannfred von Carstein",
+          "en": "Lexicanum, Mannfred von Carstein page",
+          "de": "Lexicanum, Seite Mannfred von Carstein"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Mannfred_von_Carstein"
+      }
+    ]
+  },
+  {
+    "id": "alliance-arkhan-mannfred",
+    "annee": 2523,
+    "fin": 2524,
+    "approx": true,
+    "titre": {
+      "fr": "Alliance d'Arkhan le Noir et de Mannfred",
+      "en": "Alliance of Arkhan the Black and Mannfred",
+      "de": "Bündnis zwischen Arkhan dem Schwarzen und Mannfred"
+    },
+    "resume": {
+      "fr": "Arkhan le Noir pénètre en Sylvanie pour reprendre les Livres de Nagash, puis s'allie à Mannfred dans le but de ramener leur maître. Les deux seigneurs morts-vivants partent chercher les artefacts du Grand Nécromancien : Arkhan reprend le bâton Alakanash en Bretonnie, Mannfred arrache la Lame maudite au clan skaven Mordkin. Ils prennent ensuite la forteresse de Heldenhame pour s'emparer de Morikhane, l'armure de Nagash.",
+      "en": "Arkhan the Black enters Sylvania to reclaim the Books of Nagash, then allies with Mannfred to bring back their master. The two undead lords set out to recover the Great Necromancer's artefacts: Arkhan retakes the staff Alakanash in Bretonnia, while Mannfred wrests the Fellblade from the Skaven clan Mordkin. They then storm the fortress of Heldenhame to seize Morikhane, the armour of Nagash.",
+      "de": "Arkhan der Schwarze dringt nach Sylvanien vor, um die Bücher des Nagash zurückzuholen, und verbündet sich dann mit Mannfred, um ihren Meister zurückzubringen. Die beiden untoten Fürsten suchen die Artefakte des Großen Nekromanten: Arkhan holt den Stab Alakanash in Bretonia zurück, Mannfred entreißt dem Skavenklan Mordkin die Fluchklinge. Danach erstürmen sie die Festung Heldenhame, um Morikhane, die Rüstung des Nagash, zu erbeuten."
+    },
+    "ere": "fin-des-temps",
+    "regions": [
+      "empire",
+      "bretonnie",
+      "royaumes-frontaliers"
+    ],
+    "lieux": [
+      "drakenhof"
+    ],
+    "factions": [
+      "vampires",
+      "bretonnie",
+      "skavens",
+      "empire"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "Chapitre daté de l'automne 2523 à l'été 2524. Les Livres de Nagash sont déjà en Sylvanie au début du récit, Lexicanum ne détaille pas leur rassemblement.",
+      "en": "Chapter dated autumn 2523 to summer 2524. The Books of Nagash are already in Sylvania when the story begins, and Lexicanum does not detail how they were gathered.",
+      "de": "Kapitel datiert von Herbst 2523 bis Sommer 2524. Die Bücher des Nagash befinden sich zu Beginn der Handlung bereits in Sylvanien, Lexicanum beschreibt ihre Sammlung nicht."
+    },
+    "sources": [
+      {
+        "titre": "Warhammer: The End Times – Nagash (2014)",
+        "detail": {
+          "fr": "chapitre I « An Accursed Alliance », p. 46-91",
+          "en": "chapter I \"An Accursed Alliance\", pp. 46-91",
+          "de": "Kapitel I „An Accursed Alliance“, S. 46-91"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page The End Times",
+          "en": "Lexicanum, The End Times page",
+          "de": "Lexicanum, Seite The End Times"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/The_End_Times"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Arkhan",
+          "en": "Lexicanum, Arkhan page",
+          "de": "Lexicanum, Seite Arkhan"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Arkhan"
+      }
+    ]
+  },
+  {
+    "id": "chute-de-kislev-bastion-aurique",
+    "annee": 2523,
+    "fin": null,
+    "approx": true,
+    "titre": {
+      "fr": "Chute de Kislev et Bastion aurique",
+      "en": "Fall of Kislev and the Auric Bastion",
+      "de": "Fall Kislevs und die Aurische Bastion"
+    },
+    "resume": {
+      "fr": "Les hordes du Chaos submergent Kislev, dont seule Erengrad reste debout parmi les grandes cités. Balthasar Gelt élève alors le Bastion aurique, une muraille magique dressée le long de la frontière nord de l'Empire pour contenir l'invasion. Le rempart tient un temps, mais son entretien épuise le Collège doré.",
+      "en": "The Chaos hordes overrun Kislev, where only Erengrad remains standing among the great cities. Balthasar Gelt then raises the Auric Bastion, a magical wall along the Empire's northern border meant to hold back the invasion. The barrier holds for a while, but maintaining it drains the Gold College.",
+      "de": "Die Horden des Chaos überrennen Kislev, wo von den großen Städten nur Erengrad bestehen bleibt. Balthasar Gelt errichtet daraufhin die Aurische Bastion, einen magischen Wall entlang der Nordgrenze des Imperiums, der die Invasion aufhalten soll. Der Wall hält eine Zeit lang, doch seine Erhaltung erschöpft das Goldene Kollegium."
+    },
+    "ere": "fin-des-temps",
+    "regions": [
+      "kislev",
+      "empire"
+    ],
+    "lieux": [
+      "kislev",
+      "erengrad"
+    ],
+    "factions": [
+      "chaos",
+      "kislev",
+      "empire"
+    ],
+    "importance": 3,
+    "fiabilite": "divergent",
+    "note": {
+      "fr": "Contredit la Tempête du Chaos (2522 CI), où Kislev résiste et où l'invasion d'Archaon est brisée devant Middenheim. Lexicanum place la chute de Kislev et le Bastion en 2523 CI, d'après le chapitre IV du livre Nagash, qui couvre de l'été 2524 à l'été 2525.",
+      "en": "Contradicts the Storm of Chaos (2522 IC), in which Kislev holds and Archaon's invasion is broken before Middenheim. Lexicanum puts the fall of Kislev and the Bastion in 2523 IC, citing chapter IV of the Nagash book, which covers summer 2524 to summer 2525.",
+      "de": "Widerspricht dem Sturm des Chaos (2522 IK), in dem Kislev standhält und Archaons Invasion vor Middenheim scheitert. Lexicanum setzt den Fall Kislevs und die Bastion auf 2523 IK und verweist auf Kapitel IV des Bandes Nagash, das Sommer 2524 bis Sommer 2525 abdeckt."
+    },
+    "sources": [
+      {
+        "titre": "Warhammer: The End Times – Nagash (2014)",
+        "detail": {
+          "fr": "chapitre IV « Dark Tides », p. 166-168",
+          "en": "chapter IV \"Dark Tides\", pp. 166-168",
+          "de": "Kapitel IV „Dark Tides“, S. 166-168"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page The End Times",
+          "en": "Lexicanum, The End Times page",
+          "de": "Lexicanum, Seite The End Times"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/The_End_Times"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Auric Bastion",
+          "en": "Lexicanum, Auric Bastion page",
+          "de": "Lexicanum, Seite Auric Bastion"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Auric_Bastion"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Kislev",
+          "en": "Lexicanum, Kislev page",
+          "de": "Lexicanum, Seite Kislev"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Kislev"
+      }
+    ]
+  },
+  {
+    "id": "assaut-pestilens-lustrie",
+    "annee": 2523,
+    "fin": 2524,
+    "approx": true,
+    "titre": {
+      "fr": "Le clan Pestilens attaque la Lustrie",
+      "en": "Clan Pestilens attacks Lustria",
+      "de": "Klan Pestilens greift Lustria an"
+    },
+    "resume": {
+      "fr": "Le clan Pestilens reçoit l'ordre de frapper les Slanns et lance une triple offensive contre Itza, Tlaxtlan et Xlanhuapec. Tlaxtlan est détruite et plusieurs Slanns périssent, mais les armées skavens sont presque anéanties. Seul le seigneur Skrolk empêche le clan de se disloquer.",
+      "en": "Clan Pestilens is ordered to strike at the Slann and launches a three-pronged offensive against Itza, Tlaxtlan and Xlanhuapec. Tlaxtlan is destroyed and several Slann die, but the Skaven armies are all but wiped out. Only Lord Skrolk keeps the clan from breaking apart.",
+      "de": "Klan Pestilens erhält den Befehl, die Slann anzugreifen, und startet eine dreifache Offensive gegen Itza, Tlaxtlan und Xlanhuapec. Tlaxtlan wird zerstört und mehrere Slann sterben, doch die Skavenheere werden fast vollständig vernichtet. Nur Lord Skrolk verhindert den Zerfall des Klans."
+    },
+    "ere": "fin-des-temps",
+    "regions": [
+      "lustrie"
+    ],
+    "lieux": [
+      "lustrie"
+    ],
+    "factions": [
+      "skavens",
+      "hommes-lezards"
+    ],
+    "importance": 1,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "Chapitre daté de l'automne 2523 à l'hiver 2524.",
+      "en": "Chapter dated autumn 2523 to winter 2524.",
+      "de": "Kapitel datiert von Herbst 2523 bis Winter 2524."
+    },
+    "sources": [
+      {
+        "titre": "Warhammer: The End Times – Thanquol (2015)",
+        "detail": {
+          "fr": "chapitre I « Assault on Lustria »",
+          "en": "chapter I \"Assault on Lustria\"",
+          "de": "Kapitel I „Assault on Lustria“"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Skaven",
+          "en": "Lexicanum, Skaven page",
+          "de": "Lexicanum, Seite Skaven"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Skaven"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Warhammer: Thanquol",
+          "en": "Lexicanum, Warhammer: Thanquol page",
+          "de": "Lexicanum, Seite Warhammer: Thanquol"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Warhammer:_Thanquol"
+      }
+    ]
+  },
+  {
+    "id": "resurrection-de-nagash",
+    "annee": 2524,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Résurrection de Nagash",
+      "en": "Resurrection of Nagash",
+      "de": "Wiederauferstehung des Nagash"
+    },
+    "resume": {
+      "fr": "La nuit de Geheimnisnacht, à la tour des Neuf Démons en Sylvanie, Arkhan le Noir achève le rituel et Nagash revient à la vie. Le Grand Nécromancien arrache le vent de Shyish au Grand Vortex, et les morts se relèvent dans le monde entier. Une faille dans le rituel l'empêche de contenir tout ce pouvoir, qu'il ancre dans la Sylvanie et qui ravage la province.",
+      "en": "On Geheimnisnacht, at the Nine Daemons in Sylvania, Arkhan the Black completes the ritual and Nagash returns to life. The Great Necromancer tears the Wind of Shyish from the Great Vortex, and the dead rise across the world. A flaw in the ritual stops him from holding all that power, so he grounds it in Sylvania, which is laid waste.",
+      "de": "In der Geheimnisnacht vollendet Arkhan der Schwarze bei den Neun Dämonen in Sylvanien das Ritual, und Nagash kehrt ins Leben zurück. Der Große Nekromant reißt den Wind Shyish aus dem Großen Vortex, und überall auf der Welt erheben sich die Toten. Ein Fehler im Ritual hindert ihn daran, diese Macht ganz zu halten, also verankert er sie in Sylvanien, das verwüstet wird."
+    },
+    "ere": "fin-des-temps",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [
+      "drakenhof"
+    ],
+    "factions": [
+      "vampires",
+      "hauts-elfes"
+    ],
+    "importance": 3,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "Chapitre II daté de l'automne 2524. Aliathra, fille cachée de Tyrion et d'Alarielle, est sacrifiée pendant le rituel.",
+      "en": "Chapter II is dated autumn 2524. Aliathra, the secret daughter of Tyrion and Alarielle, is sacrificed during the ritual.",
+      "de": "Kapitel II ist auf Herbst 2524 datiert. Aliathra, die heimliche Tochter von Tyrion und Alarielle, wird während des Rituals geopfert."
+    },
+    "sources": [
+      {
+        "titre": "Warhammer: The End Times – Nagash (2014)",
+        "detail": {
+          "fr": "chapitre II « The Ritual », p. 98-125",
+          "en": "chapter II \"The Ritual\", pp. 98-125",
+          "de": "Kapitel II „The Ritual“, S. 98-125"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page The End Times",
+          "en": "Lexicanum, The End Times page",
+          "de": "Lexicanum, Seite The End Times"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/The_End_Times"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Nagash",
+          "en": "Lexicanum, Nagash page",
+          "de": "Lexicanum, Seite Nagash"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Nagash"
+      },
+      {
+        "titre": {
+          "fr": "The Return of Nagash, roman de Josh Reynolds (2014)",
+          "en": "The Return of Nagash, novel by Josh Reynolds (2014)",
+          "de": "The Return of Nagash, Roman von Josh Reynolds (2014)"
+        },
+        "detail": "",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "id": "reconquete-d-ulthuan",
+    "annee": 2524,
+    "fin": null,
+    "approx": true,
+    "titre": {
+      "fr": "Guerres de reconquête d'Ulthuan",
+      "en": "Wars of Reclamation in Ulthuan",
+      "de": "Kriege der Rückeroberung in Ulthuan"
+    },
+    "resume": {
+      "fr": "Revenu à Ulthuan, Tyrion découvre la mort du Roi Phénix Finubar et mène la lutte contre les démons qui ravagent l'île. Avec Teclis, il abat le Gardien des secrets N'Kari, puis Teclis purge Ulthuan de ses démons. Malekith débarque aussitôt avec presque tous les Elfes noirs survivants, et la Porte de l'Aigle tombe quand les seigneurs dragons de Caledor trahissent leurs frères.",
+      "en": "Back in Ulthuan, Tyrion learns that Phoenix King Finubar is dead and leads the fight against the daemons ravaging the island. With Teclis he slays the Keeper of Secrets N'Kari, after which Teclis cleanses Ulthuan of daemons. Malekith lands at once with nearly all surviving Dark Elves, and the Eagle Gate falls when the dragon lords of Caledor betray their kin.",
+      "de": "Nach Ulthuan zurückgekehrt, erfährt Tyrion vom Tod des Phönixkönigs Finubar und führt den Kampf gegen die Dämonen, die die Insel verwüsten. Mit Teclis erschlägt er den Hüter der Geheimnisse N'Kari, danach reinigt Teclis Ulthuan von den Dämonen. Malekith landet sofort mit fast allen überlebenden Dunkelelfen, und das Adlertor fällt, als die Drachenfürsten von Caledor ihre Brüder verraten."
+    },
+    "ere": "fin-des-temps",
+    "regions": [
+      "ulthuan",
+      "naggaroth"
+    ],
+    "lieux": [
+      "ulthuan"
+    ],
+    "factions": [
+      "hauts-elfes",
+      "elfes-noirs",
+      "chaos"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "Chapitre I du livre Khaine, daté de l'hiver 2524 à l'hiver 2525. Tyrion est nommé régent en attendant de passer par la flamme d'Asuryan.",
+      "en": "Chapter I of the Khaine book, dated winter 2524 to winter 2525. Tyrion is named regent until he can pass through the flame of Asuryan.",
+      "de": "Kapitel I des Bandes Khaine, datiert von Winter 2524 bis Winter 2525. Tyrion wird zum Regenten ernannt, bis er durch die Flamme Asuryans schreiten kann."
+    },
+    "sources": [
+      {
+        "titre": "Warhammer: The End Times – Khaine (2014)",
+        "detail": {
+          "fr": "chapitre I « The Widowmaker »",
+          "en": "chapter I \"The Widowmaker\"",
+          "de": "Kapitel I „The Widowmaker“"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page The End Times",
+          "en": "Lexicanum, The End Times page",
+          "de": "Lexicanum, Seite The End Times"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/The_End_Times"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Tyrion",
+          "en": "Lexicanum, Tyrion page",
+          "de": "Lexicanum, Seite Tyrion"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Tyrion"
+      }
+    ]
+  },
+  {
+    "id": "porte-de-valaya-mortarques",
+    "annee": 2524,
+    "fin": null,
+    "approx": true,
+    "titre": {
+      "fr": "Neferata à la Porte de Valaya et naissance des Mortarques",
+      "en": "Neferata at Valaya's Gate and the first Mortarchs",
+      "de": "Neferata am Tor der Valaya und die ersten Mortarchen"
+    },
+    "resume": {
+      "fr": "Dans les Montagnes du Bord du Monde, Neferata écrase l'armée de Karak Azul à la Porte de Valaya, où tombent le roi Kazador et Thorek Ironbrow. Cette victoire lui vaut d'être élevée au rang de Mortarque. Nagash rassemble ainsi ses grands lieutenants et détruit les seigneurs vampires qui refusent de plier.",
+      "en": "In the Worlds Edge Mountains, Neferata crushes the host of Karak Azul at Valaya's Gate, where King Kazador and Thorek Ironbrow fall. The victory earns her a place among the Mortarchs. Nagash gathers his great lieutenants in this way and destroys the vampire lords who will not bow.",
+      "de": "Im Weltrandgebirge vernichtet Neferata das Heer von Karak Azul am Tor der Valaya, wo König Kazador und Thorek Eisenbraue fallen. Dieser Sieg bringt ihr den Rang einer Mortarchin ein. Auf diese Weise sammelt Nagash seine großen Statthalter und vernichtet die Vampirfürsten, die sich ihm nicht beugen."
+    },
+    "ere": "fin-des-temps",
+    "regions": [
+      "montagnes"
+    ],
+    "lieux": [],
+    "factions": [
+      "vampires",
+      "nains"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "Chapitre III daté du printemps 2524 à l'hiver 2525. En 2525 CI, Thorgrim annonce à Belegar que Karak Azul est tombée.",
+      "en": "Chapter III is dated spring 2524 to winter 2525. In 2525 IC, Thorgrim tells Belegar that Karak Azul has fallen.",
+      "de": "Kapitel III ist von Frühjahr 2524 bis Winter 2525 datiert. 2525 IK teilt Thorgrim Belegar mit, dass Karak Azul gefallen ist."
+    },
+    "sources": [
+      {
+        "titre": "Warhammer: The End Times – Nagash (2014)",
+        "detail": {
+          "fr": "chapitre III « Death at the World's Edge », p. 131-161",
+          "en": "chapter III \"Death at the World's Edge\", pp. 131-161",
+          "de": "Kapitel III „Death at the World's Edge“, S. 131-161"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page The End Times",
+          "en": "Lexicanum, The End Times page",
+          "de": "Lexicanum, Seite The End Times"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/The_End_Times"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Thorgrim Grudgebearer",
+          "en": "Lexicanum, Thorgrim Grudgebearer page",
+          "de": "Lexicanum, Seite Thorgrim Grudgebearer"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Thorgrim_Grudgebearer"
+      }
+    ]
+  },
+  {
+    "id": "bataille-de-heffengen",
+    "annee": 2524,
+    "fin": null,
+    "approx": true,
+    "titre": {
+      "fr": "Effondrement du Bastion et bataille de Heffengen",
+      "en": "Collapse of the Bastion and Battle of Heffengen",
+      "de": "Zusammenbruch der Bastion und Schlacht von Heffengen"
+    },
+    "resume": {
+      "fr": "Accusé de nécromancie après avoir pactisé avec Vlad von Carstein, Balthasar Gelt est déclaré traître et s'enfuit. Privé de ses soutiens, le Bastion aurique cède et les hordes du Chaos se déversent dans le nord de l'Empire. À Heffengen, l'intervention du vampire Walach Harkon aux côtés du Chaos fait basculer la bataille, et Karl Franz disparaît après un duel aérien, présumé mort.",
+      "en": "Exposed as a necromancer after his pact with Vlad von Carstein, Balthasar Gelt is branded a traitor and flees. Without its supporters, the Auric Bastion gives way and the Chaos hordes pour into the northern Empire. At Heffengen, the vampire Walach Harkon fights for Chaos and turns the battle, and Karl Franz vanishes after an aerial duel, presumed dead.",
+      "de": "Nach seinem Pakt mit Vlad von Carstein als Nekromant entlarvt, wird Balthasar Gelt zum Verräter erklärt und flieht. Ohne Unterstützung bricht die Aurische Bastion zusammen, und die Horden des Chaos strömen in den Norden des Imperiums. Bei Heffengen kämpft der Vampir Walach Harkon auf der Seite des Chaos und entscheidet die Schlacht, Karl Franz verschwindet nach einem Luftduell und gilt als tot."
+    },
+    "ere": "fin-des-temps",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [],
+    "factions": [
+      "empire",
+      "chaos",
+      "vampires"
+    ],
+    "importance": 3,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "Chapitre IV daté de l'été 2524 à l'été 2525. Lexicanum range la bataille en 2524 CI. Karl Franz survit et réapparaît à Altdorf.",
+      "en": "Chapter IV is dated summer 2524 to summer 2525. Lexicanum files the battle under 2524 IC. Karl Franz survives and reappears at Altdorf.",
+      "de": "Kapitel IV ist von Sommer 2524 bis Sommer 2525 datiert. Lexicanum ordnet die Schlacht 2524 IK zu. Karl Franz überlebt und taucht in Altdorf wieder auf."
+    },
+    "sources": [
+      {
+        "titre": "Warhammer: The End Times – Nagash (2014)",
+        "detail": {
+          "fr": "chapitre IV « Dark Tides », p. 194-212",
+          "en": "chapter IV \"Dark Tides\", pp. 194-212",
+          "de": "Kapitel IV „Dark Tides“, S. 194-212"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page The End Times",
+          "en": "Lexicanum, The End Times page",
+          "de": "Lexicanum, Seite The End Times"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/The_End_Times"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Battle of Heffengen",
+          "en": "Lexicanum, Battle of Heffengen page",
+          "de": "Lexicanum, Seite Battle of Heffengen"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Battle_of_Heffengen"
+      }
+    ]
+  },
+  {
+    "id": "chute-de-nuln",
+    "annee": 2524,
+    "fin": 2525,
+    "approx": true,
+    "titre": {
+      "fr": "Les Skavens prennent Nuln",
+      "en": "The Skaven take Nuln",
+      "de": "Die Skaven nehmen Nuln ein"
+    },
+    "resume": {
+      "fr": "Thanquol, soutenu par le Seigneur de la vermine Skreech Verminking, prend la tête de l'offensive skaven contre Nuln. Des explosifs engloutissent le quartier des fonderies, d'où les Skavens emportent la poudre noire et des machines à vapeur. Au douzième coup de la Cloche hurlante, les derniers défenseurs cèdent et la ville tombe.",
+      "en": "Thanquol, backed by the Verminlord Skreech Verminking, takes charge of the Skaven offensive against Nuln. Explosives bring down the foundry district, from which the Skaven carry off black powder and steam engines. At the twelfth toll of the Screaming Bell the last defenders break and the city falls.",
+      "de": "Thanquol übernimmt mit Unterstützung des Rattendämons Skreech Verminking die Führung der Skavenoffensive gegen Nuln. Sprengladungen lassen das Gießereiviertel einstürzen, aus dem die Skaven Schwarzpulver und Dampfmaschinen fortschaffen. Beim zwölften Schlag der Kreischenden Glocke brechen die letzten Verteidiger, und die Stadt fällt."
+    },
+    "ere": "fin-des-temps",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [
+      "nuln"
+    ],
+    "factions": [
+      "skavens",
+      "empire"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "Chapitre daté de l'hiver 2524 au printemps 2525.",
+      "en": "Chapter dated winter 2524 to spring 2525.",
+      "de": "Kapitel datiert von Winter 2524 bis Frühjahr 2525."
+    },
+    "sources": [
+      {
+        "titre": "Warhammer: The End Times – Thanquol (2015)",
+        "detail": {
+          "fr": "chapitre IV « The Bell Tolls for Nuln »",
+          "en": "chapter IV \"The Bell Tolls for Nuln\"",
+          "de": "Kapitel IV „The Bell Tolls for Nuln“"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Thanquol",
+          "en": "Lexicanum, Thanquol page",
+          "de": "Lexicanum, Seite Thanquol"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Thanquol"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Warhammer: Thanquol",
+          "en": "Lexicanum, Warhammer: Thanquol page",
+          "de": "Lexicanum, Seite Warhammer: Thanquol"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Warhammer:_Thanquol"
+      }
+    ]
+  },
+  {
+    "id": "chute-de-karak-kadrin",
+    "annee": 2525,
+    "fin": null,
+    "approx": true,
+    "titre": {
+      "fr": "Destruction de Karak Kadrin",
+      "en": "Destruction of Karak Kadrin",
+      "de": "Zerstörung von Karak Kadrin"
+    },
+    "resume": {
+      "fr": "Après un an de siège, Ungrim Ironfist sort détruire les machines d'Ikit Claw, mais il est attiré loin de sa forteresse. Des abominations forcent les portes et une bombe libère un gaz qui tue toute la population de Karak Kadrin. Investi par le vent d'Aqshy, Ungrim devient l'Incarné du Feu et embrase la forteresse en un immense bûcher funéraire.",
+      "en": "After a year of siege, Ungrim Ironfist sallies out to destroy Ikit Claw's war machines, but he is drawn far from his hold. Abominations break the gates and a bomb releases a gas that kills the entire population of Karak Kadrin. Filled with the Wind of Aqshy, Ungrim becomes the Incarnate of Fire and turns the hold into a vast funeral pyre.",
+      "de": "Nach einem Jahr Belagerung zieht Ungrim Eisenfaust aus, um die Kriegsmaschinen von Ikit Klaue zu zerstören, wird aber weit von seiner Festung fortgelockt. Abscheulichkeiten brechen die Tore auf, und eine Bombe setzt ein Gas frei, das die gesamte Bevölkerung von Karak Kadrin tötet. Vom Wind Aqshy erfüllt, wird Ungrim zum Inkarnat des Feuers und verwandelt die Festung in einen gewaltigen Scheiterhaufen."
+    },
+    "ere": "fin-des-temps",
+    "regions": [
+      "montagnes"
+    ],
+    "lieux": [
+      "karak-kadrin"
+    ],
+    "factions": [
+      "nains",
+      "skavens"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "Lexicanum situe le siège en 2524-2525 CI. Le chapitre « Götterdämmerung » du livre Thanquol couvre du printemps 2524 à l'hiver 2525.",
+      "en": "Lexicanum places the siege in 2524-2525 IC. The \"Gotterdammerung\" chapter of the Thanquol book covers spring 2524 to winter 2525.",
+      "de": "Lexicanum setzt die Belagerung auf 2524-2525 IK. Das Kapitel „Götterdämmerung“ des Bandes Thanquol umfasst Frühjahr 2524 bis Winter 2525."
+    },
+    "sources": [
+      {
+        "titre": "Warhammer: The End Times – Thanquol (2015)",
+        "detail": {
+          "fr": "chapitre III « Gotterdammerung », « Disaster at Karak Kadrin »",
+          "en": "chapter III \"Gotterdammerung\", \"Disaster at Karak Kadrin\"",
+          "de": "Kapitel III „Gotterdammerung“, „Disaster at Karak Kadrin“"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Karak Kadrin",
+          "en": "Lexicanum, Karak Kadrin page",
+          "de": "Lexicanum, Seite Karak Kadrin"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Karak_Kadrin"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Ungrim Ironfist",
+          "en": "Lexicanum, Ungrim Ironfist page",
+          "de": "Lexicanum, Seite Ungrim Ironfist"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Ungrim_Ironfist"
+      }
+    ]
+  },
+  {
+    "id": "conquete-de-nehekhara",
+    "annee": 2525,
+    "fin": null,
+    "approx": true,
+    "titre": {
+      "fr": "Nagash conquiert Nehekhara",
+      "en": "Nagash conquers Nehekhara",
+      "de": "Nagash erobert Nehekhara"
+    },
+    "resume": {
+      "fr": "Nagash plonge Nehekhara dans les ténèbres et lance ses Mortarques contre les Rois des tombes. Devant Khemri, il descend dans le royaume des morts, dévore le dieu Usirian et revient au sommet de sa puissance. Il humilie Settra, qui refuse de devenir son Mortarque, puis rase les cités du désert et emmène leurs légions vers la Sylvanie à bord de la Pyramide noire.",
+      "en": "Nagash shrouds Nehekhara in darkness and sends his Mortarchs against the Tomb Kings. Before Khemri he descends into the underworld, devours the god Usirian and returns at the height of his power. He humbles Settra, who refuses to become his Mortarch, then razes the desert cities and takes their legions to Sylvania aboard the Black Pyramid.",
+      "de": "Nagash hüllt Nehekhara in Finsternis und schickt seine Mortarchen gegen die Gruftkönige. Vor Khemri steigt er in die Unterwelt hinab, verschlingt den Gott Usirian und kehrt auf dem Gipfel seiner Macht zurück. Er demütigt Settra, der sich weigert, sein Mortarch zu werden, zerstört dann die Wüstenstädte und führt ihre Legionen an Bord der Schwarzen Pyramide nach Sylvanien."
+    },
+    "ere": "fin-des-temps",
+    "regions": [
+      "sud"
+    ],
+    "lieux": [
+      "nehekhara"
+    ],
+    "factions": [
+      "vampires",
+      "rois-des-tombes"
+    ],
+    "importance": 3,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "Chapitre V daté de l'hiver 2524 à l'automne 2525. Settra est ensuite ramené par les dieux du Chaos, qui lui offrent de combattre Nagash.",
+      "en": "Chapter V is dated winter 2524 to autumn 2525. Settra is later brought back by the Chaos Gods, who offer him the chance to fight Nagash.",
+      "de": "Kapitel V ist von Winter 2524 bis Herbst 2525 datiert. Settra wird später von den Chaosgöttern zurückgeholt, die ihm anbieten, gegen Nagash zu kämpfen."
+    },
+    "sources": [
+      {
+        "titre": "Warhammer: The End Times – Nagash (2014)",
+        "detail": {
+          "fr": "chapitre V « The Land of the Dead », p. 218-296",
+          "en": "chapter V \"The Land of the Dead\", pp. 218-296",
+          "de": "Kapitel V „The Land of the Dead“, S. 218-296"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page The End Times",
+          "en": "Lexicanum, The End Times page",
+          "de": "Lexicanum, Seite The End Times"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/The_End_Times"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Battle at the Gates of Khemri",
+          "en": "Lexicanum, Battle at the Gates of Khemri page",
+          "de": "Lexicanum, Seite Battle at the Gates of Khemri"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Battle_at_the_Gates_of_Khemri"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Settra",
+          "en": "Lexicanum, Settra page",
+          "de": "Lexicanum, Seite Settra"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Settra"
+      }
+    ]
+  },
+  {
+    "id": "malekith-roi-phenix",
+    "annee": 2525,
+    "fin": null,
+    "approx": true,
+    "titre": {
+      "fr": "L'Épée de Khaine et Malekith Roi Phénix",
+      "en": "The Sword of Khaine and Malekith the Phoenix King",
+      "de": "Das Schwert des Khaine und Malekith der Phönixkönig"
+    },
+    "resume": {
+      "fr": "Sur l'Île Maudite, Tyrion devance Malekith, s'empare de l'Épée de Khaine et devient Khaine incarné. Malekith, grièvement blessé, gagne le sanctuaire d'Asuryan, traverse la flamme et en ressort comme le véritable Roi Phénix. L'Île Maudite se brise ensuite et sombre dans la mer.",
+      "en": "On the Blighted Isle, Tyrion beats Malekith to the Sword of Khaine, draws it and becomes Khaine reborn. Malekith, badly wounded, reaches the Shrine of Asuryan, passes through the flame and emerges as the true Phoenix King. The Blighted Isle then breaks apart and sinks into the sea.",
+      "de": "Auf der Verdorbenen Insel kommt Tyrion Malekith zuvor, ergreift das Schwert des Khaine und wird zum wiedergeborenen Khaine. Der schwer verwundete Malekith erreicht den Schrein Asuryans, schreitet durch die Flamme und tritt als wahrer Phönixkönig hervor. Die Verdorbene Insel zerbricht danach und versinkt im Meer."
+    },
+    "ere": "fin-des-temps",
+    "regions": [
+      "ulthuan"
+    ],
+    "lieux": [
+      "ulthuan"
+    ],
+    "factions": [
+      "hauts-elfes",
+      "elfes-noirs"
+    ],
+    "importance": 3,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "À la charnière des chapitres I et II du livre Khaine (hiver 2525). Lexicanum range l'événement en 2525 CI.",
+      "en": "At the turn of chapters I and II of the Khaine book (winter 2525). Lexicanum files it under 2525 IC.",
+      "de": "Am Übergang der Kapitel I und II des Bandes Khaine (Winter 2525). Lexicanum ordnet das Ereignis 2525 IK zu."
+    },
+    "sources": [
+      {
+        "titre": "Warhammer: The End Times – Khaine (2014)",
+        "detail": {
+          "fr": "chapitres I et II",
+          "en": "chapters I and II",
+          "de": "Kapitel I und II"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page The End Times",
+          "en": "Lexicanum, The End Times page",
+          "de": "Lexicanum, Seite The End Times"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/The_End_Times"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Battle for the Blighted Isle",
+          "en": "Lexicanum, Battle for the Blighted Isle page",
+          "de": "Lexicanum, Seite Battle for the Blighted Isle"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Battle_for_the_Blighted_Isle"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Malekith",
+          "en": "Lexicanum, Malekith page",
+          "de": "Lexicanum, Seite Malekith"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Malekith"
+      },
+      {
+        "titre": {
+          "fr": "The Curse of Khaine, roman de Gav Thorpe (2014)",
+          "en": "The Curse of Khaine, novel by Gav Thorpe (2014)",
+          "de": "The Curse of Khaine, Roman von Gav Thorpe (2014)"
+        },
+        "detail": "",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "id": "glottkin-marienburg",
+    "annee": 2525,
+    "fin": null,
+    "approx": true,
+    "titre": {
+      "fr": "Les Glottkin débarquent à Marienburg",
+      "en": "The Glottkin land at Marienburg",
+      "de": "Die Glottkin landen in Marienburg"
+    },
+    "resume": {
+      "fr": "Nommés champions de Nurgle, les trois frères Glottkin traversent la Mer des Griffes sur la flotte de Gutrot Spume. Ils débarquent à Marienburg et submergent rapidement la ville malgré ses défenseurs et les renforts impériaux. Deux autres armées de Nurgle prennent pied en Nordland et près d'Erengrad, et toutes marchent vers le sud.",
+      "en": "Named champions of Nurgle, the three Glottkin brothers cross the Sea of Claws on Gutrot Spume's fleet. They land at Marienburg and quickly overwhelm the city despite its defenders and Imperial reinforcements. Two more armies of Nurgle come ashore in Nordland and near Erengrad, and all march south.",
+      "de": "Zu Champions des Nurgle ernannt, überqueren die drei Glottkin-Brüder auf der Flotte von Gutrot Spume das Meer der Klauen. Sie landen in Marienburg und überrennen die Stadt trotz ihrer Verteidiger und kaiserlicher Verstärkung rasch. Zwei weitere Heere des Nurgle gehen in Nordland und bei Erengrad an Land, und alle ziehen nach Süden."
+    },
+    "ere": "fin-des-temps",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [
+      "marienburg"
+    ],
+    "factions": [
+      "chaos",
+      "empire"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "Chapitre I du livre Glottkin, daté du printemps 2525.",
+      "en": "Chapter I of the Glottkin book, dated spring 2525.",
+      "de": "Kapitel I des Bandes Glottkin, datiert auf Frühjahr 2525."
+    },
+    "sources": [
+      {
+        "titre": "Warhammer: The End Times – Glottkin (2014)",
+        "detail": {
+          "fr": "chapitre I « Rise of the Glottkin »",
+          "en": "chapter I \"Rise of the Glottkin\"",
+          "de": "Kapitel I „Rise of the Glottkin“"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page The End Times",
+          "en": "Lexicanum, The End Times page",
+          "de": "Lexicanum, Seite The End Times"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/The_End_Times"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Glottkin",
+          "en": "Lexicanum, Glottkin page",
+          "de": "Lexicanum, Seite Glottkin"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Glottkin"
+      }
+    ]
+  },
+  {
+    "id": "deluge-de-talabheim",
+    "annee": 2525,
+    "fin": null,
+    "approx": true,
+    "titre": {
+      "fr": "Le déluge de Talabheim",
+      "en": "The Deluge of Talabheim",
+      "de": "Die Sintflut von Talabheim"
+    },
+    "resume": {
+      "fr": "Les Seigneurs Maggoth, renforcés par les démons d'Epidemius surgis des pierres-troupeaux du Drakwald, s'attaquent à Talabheim. Une peste liquide inonde la cité et force sa garnison à sortir livrer bataille. Le combat s'achève par la destruction de la ville.",
+      "en": "The Maggoth Lords, joined by Epidemius's daemons pouring from the herdstones of the Drakwald, attack Talabheim. A liquid plague floods the city and forces its garrison out to give battle. The fighting ends with the city's destruction.",
+      "de": "Die Maggoth-Herren, verstärkt durch die Dämonen des Epidemius, die aus den Herdensteinen des Drakwalds hervorbrechen, greifen Talabheim an. Eine flüssige Seuche überflutet die Stadt und zwingt ihre Besatzung zum Ausfall. Der Kampf endet mit der Zerstörung der Stadt."
+    },
+    "ere": "fin-des-temps",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [
+      "talabheim"
+    ],
+    "factions": [
+      "chaos",
+      "empire"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "Chapitre III du livre Glottkin, daté de l'été 2525.",
+      "en": "Chapter III of the Glottkin book, dated summer 2525.",
+      "de": "Kapitel III des Bandes Glottkin, datiert auf Sommer 2525."
+    },
+    "sources": [
+      {
+        "titre": "Warhammer: The End Times – Glottkin (2014)",
+        "detail": {
+          "fr": "chapitre III « The Deluge of Talabheim »",
+          "en": "chapter III \"The Deluge of Talabheim\"",
+          "de": "Kapitel III „The Deluge of Talabheim“"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page The End Times",
+          "en": "Lexicanum, The End Times page",
+          "de": "Lexicanum, Seite The End Times"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/The_End_Times"
+      }
+    ]
+  },
+  {
+    "id": "siege-d-altdorf-retour-de-sigmar",
+    "annee": 2525,
+    "fin": null,
+    "approx": true,
+    "titre": {
+      "fr": "Siège d'Altdorf et retour de Sigmar",
+      "en": "Siege of Altdorf and the return of Sigmar",
+      "de": "Belagerung von Altdorf und Sigmars Rückkehr"
+    },
+    "resume": {
+      "fr": "Les trois armées de Nurgle convergent sur Altdorf tandis qu'un portail démoniaque s'ouvre au cœur de la ville. Vampires de Vlad von Carstein et chevaliers de Louen Leoncoeur combattent aux côtés des défenseurs, mais Louen et Kurt Helborg y laissent la vie. Karl Franz, revenu de Heffengen, est tué à son tour puis renaît dans un embrasement qui chasse les forces de Nurgle. En secret, c'est Sigmar qui habite désormais son corps, devenu l'Incarné des Cieux.",
+      "en": "The three armies of Nurgle converge on Altdorf as a daemonic portal opens in the heart of the city. Vlad von Carstein's vampires and Louen Leoncoeur's knights fight beside the defenders, but Louen and Kurt Helborg are killed. Karl Franz, back from Heffengen, is slain in turn and then reborn in a blaze that drives out Nurgle's forces. Unknown to all, Sigmar now dwells in his body as the Incarnate of Heavens.",
+      "de": "Die drei Heere des Nurgle ziehen auf Altdorf zu, während sich im Herzen der Stadt ein Dämonenportal öffnet. Die Vampire Vlad von Carsteins und die Ritter Louen Leoncoeurs kämpfen an der Seite der Verteidiger, doch Louen und Kurt Helborg fallen. Karl Franz, aus Heffengen zurückgekehrt, wird ebenfalls getötet und in einem Flammenmeer wiedergeboren, das die Kräfte Nurgles vertreibt. Insgeheim wohnt nun Sigmar in seinem Körper, als Inkarnat des Himmels."
+    },
+    "ere": "fin-des-temps",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [
+      "altdorf"
+    ],
+    "factions": [
+      "empire",
+      "chaos",
+      "bretonnie",
+      "vampires"
+    ],
+    "importance": 3,
+    "fiabilite": "divergent",
+    "note": {
+      "fr": "Chapitre IV du livre Glottkin, daté de l'automne 2525. Contredit la Tempête du Chaos (2522 CI), où Valten passe pour l'incarnation de Sigmar avant d'être assassiné. Louen Leoncoeur, présumé mort en Bretonnie en 2522, réapparaît ici.",
+      "en": "Chapter IV of the Glottkin book, dated autumn 2525. Contradicts the Storm of Chaos (2522 IC), where Valten is hailed as Sigmar's incarnation before being murdered. Louen Leoncoeur, presumed dead in Bretonnia in 2522, reappears here.",
+      "de": "Kapitel IV des Bandes Glottkin, datiert auf Herbst 2525. Widerspricht dem Sturm des Chaos (2522 IK), in dem Valten als Sigmars Verkörperung gilt, bevor er ermordet wird. Louen Leoncoeur, der 2522 in Bretonia für tot gehalten wurde, taucht hier wieder auf."
+    },
+    "sources": [
+      {
+        "titre": "Warhammer: The End Times – Glottkin (2014)",
+        "detail": {
+          "fr": "chapitre IV « The Fall of Altdorf »",
+          "en": "chapter IV \"The Fall of Altdorf\"",
+          "de": "Kapitel IV „The Fall of Altdorf“"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page The End Times",
+          "en": "Lexicanum, The End Times page",
+          "de": "Lexicanum, Seite The End Times"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/The_End_Times"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Siege of Altdorf (Glottkin)",
+          "en": "Lexicanum, Siege of Altdorf (Glottkin) page",
+          "de": "Lexicanum, Seite Siege of Altdorf (Glottkin)"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Fall_of_Altdorf"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Karl Franz",
+          "en": "Lexicanum, Karl Franz page",
+          "de": "Lexicanum, Seite Karl Franz"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Karl_Franz"
+      },
+      {
+        "titre": {
+          "fr": "The Fall of Altdorf, roman de Chris Wraight (2014)",
+          "en": "The Fall of Altdorf, novel by Chris Wraight (2014)",
+          "de": "The Fall of Altdorf, Roman von Chris Wraight (2014)"
+        },
+        "detail": "",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "id": "guerre-civile-elfique",
+    "annee": 2525,
+    "fin": 2526,
+    "approx": true,
+    "titre": {
+      "fr": "Guerre de Tyrion contre Malekith",
+      "en": "Tyrion's war against Malekith",
+      "de": "Tyrions Krieg gegen Malekith"
+    },
+    "resume": {
+      "fr": "Corrompu par l'Épée de Khaine et conseillé par Morathi, Tyrion se proclame Roi Phénix et reprend le terrain gagné par Malekith. À Withelan, l'Everqueen Alarielle refuse de le suivre et Orion, roi des Elfes sylvains, tombe en le combattant. Alarielle reconnaît alors Malekith comme Roi Phénix et lui apporte le soutien des Elfes sylvains.",
+      "en": "Corrupted by the Sword of Khaine and counselled by Morathi, Tyrion proclaims himself Phoenix King and wins back the ground Malekith had taken. At Withelan, Everqueen Alarielle refuses to follow him, and Orion, king of the Wood Elves, dies fighting him. Alarielle then recognises Malekith as Phoenix King and brings him the support of the Wood Elves.",
+      "de": "Vom Schwert des Khaine verdorben und von Morathi beraten, ruft sich Tyrion zum Phönixkönig aus und gewinnt das von Malekith eroberte Land zurück. Bei Withelan weigert sich die Immerkönigin Alarielle, ihm zu folgen, und Orion, König der Waldelfen, fällt im Kampf gegen ihn. Alarielle erkennt daraufhin Malekith als Phönixkönig an und bringt ihm die Unterstützung der Waldelfen."
+    },
+    "ere": "fin-des-temps",
+    "regions": [
+      "ulthuan"
+    ],
+    "lieux": [
+      "ulthuan"
+    ],
+    "factions": [
+      "hauts-elfes",
+      "elfes-noirs",
+      "elfes-sylvains"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "Chapitre II du livre Khaine, daté de l'hiver 2525 à l'hiver 2526.",
+      "en": "Chapter II of the Khaine book, dated winter 2525 to winter 2526.",
+      "de": "Kapitel II des Bandes Khaine, datiert von Winter 2525 bis Winter 2526."
+    },
+    "sources": [
+      {
+        "titre": "Warhammer: The End Times – Khaine (2014)",
+        "detail": {
+          "fr": "chapitre II « Khaine Reborn »",
+          "en": "chapter II \"Khaine Reborn\"",
+          "de": "Kapitel II „Khaine Reborn“"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page The End Times",
+          "en": "Lexicanum, The End Times page",
+          "de": "Lexicanum, Seite The End Times"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/The_End_Times"
+      }
+    ]
+  },
+  {
+    "id": "ile-des-morts-incarnes",
+    "annee": 2526,
+    "fin": null,
+    "approx": true,
+    "titre": {
+      "fr": "L'Île des Morts et les Incarnés des Vents de Magie",
+      "en": "The Isle of the Dead and the Incarnates of the Winds of Magic",
+      "de": "Die Insel der Toten und die Inkarnate der Winde der Magie"
+    },
+    "resume": {
+      "fr": "Teclis convainc Malekith de détruire le Grand Vortex pour lier les Vents de Magie à des champions mortels. Sur l'Île des Morts, Tyrion et Morathi sont tués, puis Teclis brise le Vortex. Seuls Malekith, Incarné de l'Ombre, et Alarielle, Incarnée de la Vie, reçoivent leur vent parmi les Elfes, les autres partent chercher un hôte à travers le monde. Ulthuan est détruite.",
+      "en": "Teclis persuades Malekith to destroy the Great Vortex and bind the Winds of Magic to mortal champions. On the Isle of the Dead, Tyrion and Morathi are slain, and Teclis then breaks the Vortex. Only Malekith, Incarnate of Shadow, and Alarielle, Incarnate of Life, receive their winds among the elves, while the others race across the world in search of hosts. Ulthuan is destroyed.",
+      "de": "Teclis überzeugt Malekith, den Großen Vortex zu zerstören und die Winde der Magie an sterbliche Champions zu binden. Auf der Insel der Toten werden Tyrion und Morathi getötet, danach zerbricht Teclis den Vortex. Nur Malekith, Inkarnat der Schatten, und Alarielle, Inkarnat des Lebens, erhalten unter den Elfen ihre Winde, die übrigen suchen sich überall auf der Welt einen Wirt. Ulthuan wird zerstört."
+    },
+    "ere": "fin-des-temps",
+    "regions": [
+      "ulthuan"
+    ],
+    "lieux": [
+      "ulthuan"
+    ],
+    "factions": [
+      "hauts-elfes",
+      "elfes-noirs",
+      "elfes-sylvains"
+    ],
+    "importance": 3,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "Fin du livre Khaine, hiver 2526. Le plan de Teclis prévoyait huit Incarnés elfes, la trahison n'en laisse que deux.",
+      "en": "End of the Khaine book, winter 2526. Teclis's plan called for eight elven Incarnates, but treachery leaves only two.",
+      "de": "Ende des Bandes Khaine, Winter 2526. Teclis' Plan sah acht elfische Inkarnate vor, durch Verrat bleiben nur zwei."
+    },
+    "sources": [
+      {
+        "titre": "Warhammer: The End Times – Khaine (2014)",
+        "detail": {
+          "fr": "chapitre II « Khaine Reborn »",
+          "en": "chapter II \"Khaine Reborn\"",
+          "de": "Kapitel II „Khaine Reborn“"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page The End Times",
+          "en": "Lexicanum, The End Times page",
+          "de": "Lexicanum, Seite The End Times"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/The_End_Times"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Incarnates",
+          "en": "Lexicanum, Incarnates page",
+          "de": "Lexicanum, Seite Incarnates"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Incarnates"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Teclis",
+          "en": "Lexicanum, Teclis page",
+          "de": "Lexicanum, Seite Teclis"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Teclis"
+      }
+    ]
+  },
+  {
+    "id": "refuge-d-athel-loren",
+    "annee": 2526,
+    "fin": 2527,
+    "approx": true,
+    "titre": {
+      "fr": "Les Elfes unis à Athel Loren",
+      "en": "The united elves in Athel Loren",
+      "de": "Die vereinten Elfen in Athel Loren"
+    },
+    "resume": {
+      "fr": "Les survivants des trois peuples elfes se réfugient à Athel Loren, où Lileath unit Malekith et Alarielle. Malekith y est couronné Roi Éternel. La forêt doit aussitôt combattre Hommes-bêtes, démons des Caveaux de l'Hiver et esprits sylvestres passés au Chaos.",
+      "en": "The survivors of the three elven peoples take refuge in Athel Loren, where Lileath weds Malekith and Alarielle. Malekith is crowned there as the Eternity King. The forest must immediately fight Beastmen, daemons from the Vaults of Winter and forest spirits turned to Chaos.",
+      "de": "Die Überlebenden der drei Elfenvölker flüchten nach Athel Loren, wo Lileath Malekith und Alarielle vermählt. Malekith wird dort zum Ewigkeitskönig gekrönt. Der Wald muss sofort gegen Tiermenschen, Dämonen aus den Gewölben des Winters und zum Chaos übergelaufene Waldgeister kämpfen."
+    },
+    "ere": "fin-des-temps",
+    "regions": [
+      "athel-loren"
+    ],
+    "lieux": [
+      "athel-loren"
+    ],
+    "factions": [
+      "elfes-sylvains",
+      "hauts-elfes",
+      "elfes-noirs",
+      "chaos"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "Chapitre III du livre Archaon, qui couvre du printemps 2526 à l'automne 2528.",
+      "en": "Chapter III of the Archaon book, which covers spring 2526 to autumn 2528.",
+      "de": "Kapitel III des Bandes Archaon, das Frühjahr 2526 bis Herbst 2528 umfasst."
+    },
+    "sources": [
+      {
+        "titre": "Warhammer: The End Times – Archaon (2015)",
+        "detail": {
+          "fr": "chapitre III « Hope Reborn », p. 98-103",
+          "en": "chapter III \"Hope Reborn\", pp. 98-103",
+          "de": "Kapitel III „Hope Reborn“, S. 98-103"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page The End Times",
+          "en": "Lexicanum, The End Times page",
+          "de": "Lexicanum, Seite The End Times"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/The_End_Times"
+      }
+    ]
+  },
+  {
+    "id": "chute-de-middenheim",
+    "annee": 2527,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Chute de Middenheim",
+      "en": "Fall of Middenheim",
+      "de": "Fall von Middenheim"
+    },
+    "resume": {
+      "fr": "Valten et Gregor Martak conduisent une armée de fortune jusqu'à Middenheim, que Boris Todbringer quitte pour traquer Khazrak et où il trouve la mort. Le jour même, Archaon arrive avec ses démons, ses Hommes-bêtes et des Skavens ralliés. Teclis dérobe la flamme d'Ulric sous la cité, ce qui condamne le dieu et la ville. Valten tombe et Middenheim est livrée au pillage, Archaon faisant du temple d'Ulric sa salle du trône.",
+      "en": "Valten and Gregor Martak lead a makeshift army to Middenheim, which Boris Todbringer leaves to hunt Khazrak and dies doing so. That same day Archaon arrives with his daemons, Beastmen and Skaven who join him. Teclis steals the flame of Ulric beneath the city, dooming both god and city. Valten falls and Middenheim is sacked, with Archaon making the Temple of Ulric his throne room.",
+      "de": "Valten und Gregor Martak führen ein zusammengewürfeltes Heer nach Middenheim, das Boris Todbringer verlässt, um Khazrak zu jagen, wobei er stirbt. Am selben Tag trifft Archaon mit seinen Dämonen, Tiermenschen und übergelaufenen Skaven ein. Teclis stiehlt die Flamme Ulrics unter der Stadt und verdammt damit Gott und Stadt. Valten fällt, Middenheim wird geplündert, und Archaon macht den Tempel des Ulric zu seinem Thronsaal."
+    },
+    "ere": "fin-des-temps",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [
+      "middenheim"
+    ],
+    "factions": [
+      "chaos",
+      "empire",
+      "skavens"
+    ],
+    "importance": 3,
+    "fiabilite": "divergent",
+    "note": {
+      "fr": "Automne 2527 CI d'après Lexicanum, chapitre daté de l'été à l'automne 2527. Contredit la Tempête du Chaos (2522 CI), où Middenheim repousse Archaon et où Valten meurt assassiné à l'issue du siège.",
+      "en": "Autumn 2527 IC according to Lexicanum, in a chapter dated summer to autumn 2527. Contradicts the Storm of Chaos (2522 IC), where Middenheim repels Archaon and Valten is murdered after the siege.",
+      "de": "Laut Lexicanum Herbst 2527 IK, in einem Kapitel von Sommer bis Herbst 2527. Widerspricht dem Sturm des Chaos (2522 IK), in dem Middenheim Archaon zurückschlägt und Valten nach der Belagerung ermordet wird."
+    },
+    "sources": [
+      {
+        "titre": "Warhammer: The End Times – Thanquol (2015)",
+        "detail": {
+          "fr": "chapitre VI « The Battle for Middenheim »",
+          "en": "chapter VI \"The Battle for Middenheim\"",
+          "de": "Kapitel VI „The Battle for Middenheim“"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Middenheim's Last Stand",
+          "en": "Lexicanum, Middenheim's Last Stand page",
+          "de": "Lexicanum, Seite Middenheim's Last Stand"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Middenheim's_Last_Stand"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Middenheim",
+          "en": "Lexicanum, Middenheim page",
+          "de": "Lexicanum, Seite Middenheim"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Middenheim"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Valten",
+          "en": "Lexicanum, Valten page",
+          "de": "Lexicanum, Seite Valten"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Valten"
+      }
+    ]
+  },
+  {
+    "id": "bataille-de-karaz-a-karak",
+    "annee": 2527,
+    "fin": null,
+    "approx": true,
+    "titre": {
+      "fr": "Bataille de Karaz-a-Karak et mort de Thorgrim",
+      "en": "Battle for Karaz-a-Karak and death of Thorgrim",
+      "de": "Schlacht um Karaz-a-Karak und Tod Thorgrims"
+    },
+    "resume": {
+      "fr": "Repoussés toujours plus profond dans leur forteresse, les Nains de Karaz-a-Karak voient une nouvelle armée skaven descendre par le col de la Route d'Argent. Thorgrim Grudgebearer choisit de sortir l'affronter et, aidé d'Ungrim Ironfist, brise l'assaut et tue Queek Headtaker en combat singulier. Peu après la victoire, le Haut Roi est assassiné par le maître de mort Snikch.",
+      "en": "Driven ever deeper into their hold, the Dwarfs of Karaz-a-Karak see a new Skaven army pour down the Silver Road Pass. Thorgrim Grudgebearer chooses to march out and meet it, and with Ungrim Ironfist's help he shatters the assault and kills Queek Headtaker in single combat. Shortly after the victory, the High King is assassinated by Deathmaster Snikch.",
+      "de": "Immer tiefer in ihre Festung zurückgedrängt, sehen die Zwerge von Karaz-a-Karak ein neues Skavenheer den Silberstraßenpass herabströmen. Thorgrim Grollbart beschließt, ihm entgegenzuziehen, zerschlägt mit Ungrim Eisenfausts Hilfe den Angriff und tötet Queek Kopfjäger im Zweikampf. Kurz nach dem Sieg wird der Hochkönig vom Todesmeister Snikch ermordet."
+    },
+    "ere": "fin-des-temps",
+    "regions": [
+      "montagnes"
+    ],
+    "lieux": [
+      "karaz-a-karak"
+    ],
+    "factions": [
+      "nains",
+      "skavens"
+    ],
+    "importance": 2,
+    "fiabilite": "incertain",
+    "note": {
+      "fr": "Fin 2527 CI selon Lexicanum, chapitre « Peak Tide » daté de l'hiver 2525 à l'automne 2527. Lexicanum ne décrit pas la prise finale de la forteresse, sa chute n'a donc pas pu être vérifiée. La page de Thorgrim mentionne l'aide d'Ungrim Ironfist, alors que celle d'Ungrim le place à Averheim après la chute de Karak Kadrin, point à vérifier dans le livre.",
+      "en": "Late 2527 IC according to Lexicanum, in the \"Peak Tide\" chapter dated winter 2525 to autumn 2527. Lexicanum does not describe the final capture of the hold, so its fall could not be verified. Thorgrim's page mentions help from Ungrim Ironfist, while Ungrim's page places him at Averheim after the fall of Karak Kadrin, a point to check in the book.",
+      "de": "Laut Lexicanum Ende 2527 IK, im Kapitel „Peak Tide“ von Winter 2525 bis Herbst 2527. Lexicanum beschreibt die endgültige Einnahme der Festung nicht, ihr Fall ließ sich daher nicht überprüfen. Thorgrims Seite erwähnt die Hilfe Ungrim Eisenfausts, während Ungrims Seite ihn nach dem Fall von Karak Kadrin in Averheim verortet, was im Band zu prüfen ist."
+    },
+    "sources": [
+      {
+        "titre": "Warhammer: The End Times – Thanquol (2015)",
+        "detail": {
+          "fr": "chapitre VII « Peak Tide », « Battle for Karaz-a-Karak »",
+          "en": "chapter VII \"Peak Tide\", \"Battle for Karaz-a-Karak\"",
+          "de": "Kapitel VII „Peak Tide“, „Battle for Karaz-a-Karak“"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Thorgrim Grudgebearer",
+          "en": "Lexicanum, Thorgrim Grudgebearer page",
+          "de": "Lexicanum, Seite Thorgrim Grudgebearer"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Thorgrim_Grudgebearer"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Karaz-a-Karak",
+          "en": "Lexicanum, Karaz-a-Karak page",
+          "de": "Lexicanum, Seite Karaz-a-Karak"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Karaz-a-Karak"
+      }
+    ]
+  },
+  {
+    "id": "siege-final-d-averheim",
+    "annee": 2528,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Siège final d'Averheim",
+      "en": "Final Siege of Averheim",
+      "de": "Letzte Belagerung von Averheim"
+    },
+    "resume": {
+      "fr": "Averheim, dernière grande cité de l'Empire, résiste aux forces de Vilitch le Maudit et des Skavens, puis à la horde d'Archaon. La ville finit submergée et presque tous ses défenseurs périssent, dont Ungrim Ironfist et ses Tueurs. Balthasar Gelt, devenu l'Incarné du Métal, emporte l'Empereur et quelques survivants au dernier moment.",
+      "en": "Averheim, the last great city of the Empire, holds out against Vilitch the Curseling and the Skaven, then against Archaon's horde. The city is finally overrun and almost all its defenders die, Ungrim Ironfist and his Slayers among them. Balthasar Gelt, now the Incarnate of Metal, carries the Emperor and a few survivors away at the last moment.",
+      "de": "Averheim, die letzte große Stadt des Imperiums, trotzt Vilitch dem Verfluchten und den Skaven, dann der Horde Archaons. Schließlich wird die Stadt überrannt, und fast alle Verteidiger sterben, darunter Ungrim Eisenfaust und seine Slayer. Balthasar Gelt, nun Inkarnat des Metalls, bringt den Kaiser und einige Überlebende im letzten Augenblick fort."
+    },
+    "ere": "fin-des-temps",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [
+      "averheim"
+    ],
+    "factions": [
+      "empire",
+      "nains",
+      "chaos",
+      "skavens"
+    ],
+    "importance": 3,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "Chapitre I du livre Archaon, daté du printemps 2528. Le vent d'Aqshy quitte Ungrim à sa mort et cherche un nouvel hôte.",
+      "en": "Chapter I of the Archaon book, dated spring 2528. The Wind of Aqshy leaves Ungrim when he dies and seeks a new host.",
+      "de": "Kapitel I des Bandes Archaon, datiert auf Frühjahr 2528. Der Wind Aqshy verlässt Ungrim bei seinem Tod und sucht einen neuen Wirt."
+    },
+    "sources": [
+      {
+        "titre": "Warhammer: The End Times – Archaon (2015)",
+        "detail": {
+          "fr": "chapitre I « Honour and Death », p. 7-47",
+          "en": "chapter I \"Honour and Death\", pp. 7-47",
+          "de": "Kapitel I „Honour and Death“, S. 7-47"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page The End Times",
+          "en": "Lexicanum, The End Times page",
+          "de": "Lexicanum, Seite The End Times"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/The_End_Times"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Final Siege of Averheim",
+          "en": "Lexicanum, Final Siege of Averheim page",
+          "de": "Lexicanum, Seite Final Siege of Averheim"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Final_Siege_of_Averheim"
+      }
+    ]
+  },
+  {
+    "id": "destruction-de-la-pyramide-noire",
+    "annee": 2528,
+    "fin": null,
+    "approx": true,
+    "titre": {
+      "fr": "Destruction de la Pyramide noire",
+      "en": "Destruction of the Black Pyramid",
+      "de": "Zerstörung der Schwarzen Pyramide"
+    },
+    "resume": {
+      "fr": "Nurgle lance un nouvel assaut sur la Sylvanie, mené par Isabella von Carstein liée à un démon et par le corps possédé de Luthor Huss. Pendant que la bataille fait rage devant la Pyramide noire, Ikit Claw creuse jusqu'à sa base et y fait exploser des bombes de malepierre. La pyramide s'effondre, Nagash est coupé du lac de Shyish qu'il avait créé, puis il confie la Sylvanie à Neferata et marche vers Athel Loren.",
+      "en": "Nurgle launches a new assault on Sylvania, led by Isabella von Carstein, bound to a daemon, and by the possessed body of Luthor Huss. While battle rages before the Black Pyramid, Ikit Claw tunnels to its base and detonates warpstone bombs. The pyramid collapses and Nagash is cut off from the lake of Shyish he had created, after which he hands Sylvania to Neferata and marches on Athel Loren.",
+      "de": "Nurgle startet einen neuen Angriff auf Sylvanien, angeführt von der an einen Dämon gebundenen Isabella von Carstein und vom besessenen Körper Luthor Huss'. Während vor der Schwarzen Pyramide die Schlacht tobt, gräbt sich Ikit Klaue bis zu ihrem Fundament und zündet Warpsteinbomben. Die Pyramide stürzt ein, Nagash wird von dem See aus Shyish getrennt, den er geschaffen hatte, übergibt Sylvanien an Neferata und zieht nach Athel Loren."
+    },
+    "ere": "fin-des-temps",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [
+      "drakenhof"
+    ],
+    "factions": [
+      "vampires",
+      "chaos",
+      "skavens"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "Chapitre II du livre Archaon, daté du printemps à l'été 2528.",
+      "en": "Chapter II of the Archaon book, dated spring to summer 2528.",
+      "de": "Kapitel II des Bandes Archaon, datiert von Frühjahr bis Sommer 2528."
+    },
+    "sources": [
+      {
+        "titre": "Warhammer: The End Times – Archaon (2015)",
+        "detail": {
+          "fr": "chapitre II « The Land of Night », p. 50-95",
+          "en": "chapter II \"The Land of Night\", pp. 50-95",
+          "de": "Kapitel II „The Land of Night“, S. 50-95"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page The End Times",
+          "en": "Lexicanum, The End Times page",
+          "de": "Lexicanum, Seite The End Times"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/The_End_Times"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Siege of the Black Pyramid",
+          "en": "Lexicanum, Siege of the Black Pyramid page",
+          "de": "Lexicanum, Seite Siege of the Black Pyramid"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Siege_of_the_Black_Pyramid"
+      }
+    ]
+  },
+  {
+    "id": "conseil-des-incarnes",
+    "annee": 2528,
+    "fin": null,
+    "approx": true,
+    "titre": {
+      "fr": "Les Incarnés réunis à Athel Loren",
+      "en": "The Incarnates gather in Athel Loren",
+      "de": "Die Inkarnate versammeln sich in Athel Loren"
+    },
+    "resume": {
+      "fr": "Les survivants d'Averheim gagnent Athel Loren, poursuivis par les guerriers de Khorne de Skarr Bloodwrath. Caradryan reçoit le vent du Feu et Tyrion, ramené à la vie dans le Chêne des Âges, devient l'Incarné de la Lumière. Nagash vient parlementer et livre Mannfred, et Be'lakor capturé révèle qu'un artefact enfoui sous Middenheim doit ouvrir une nouvelle faille du Chaos.",
+      "en": "The survivors of Averheim reach Athel Loren, pursued by Skarr Bloodwrath's warriors of Khorne. Caradryan receives the Wind of Fire, and Tyrion, brought back to life within the Oak of Ages, becomes the Incarnate of Light. Nagash comes to parley and hands over Mannfred, and the captured Be'lakor reveals that an artefact buried beneath Middenheim is meant to open a new Chaos rift.",
+      "de": "Die Überlebenden von Averheim erreichen Athel Loren, verfolgt von den Khorne-Kriegern Skarr Blutzorns. Caradryan empfängt den Wind des Feuers, und Tyrion, im Eichbaum der Zeitalter ins Leben zurückgeholt, wird zum Inkarnat des Lichts. Nagash kommt zu Verhandlungen und liefert Mannfred aus, und der gefangene Be'lakor enthüllt, dass ein unter Middenheim vergrabenes Artefakt einen neuen Chaosriss öffnen soll."
+    },
+    "ere": "fin-des-temps",
+    "regions": [
+      "athel-loren"
+    ],
+    "lieux": [
+      "athel-loren"
+    ],
+    "factions": [
+      "elfes-sylvains",
+      "hauts-elfes",
+      "elfes-noirs",
+      "empire",
+      "vampires",
+      "chaos"
+    ],
+    "importance": 2,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "Chapitres III et IV du livre Archaon, de l'été à l'automne 2528.",
+      "en": "Chapters III and IV of the Archaon book, summer to autumn 2528.",
+      "de": "Kapitel III und IV des Bandes Archaon, Sommer bis Herbst 2528."
+    },
+    "sources": [
+      {
+        "titre": "Warhammer: The End Times – Archaon (2015)",
+        "detail": {
+          "fr": "chapitres III et IV, p. 108-155",
+          "en": "chapters III and IV, pp. 108-155",
+          "de": "Kapitel III und IV, S. 108-155"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page The End Times",
+          "en": "Lexicanum, The End Times page",
+          "de": "Lexicanum, Seite The End Times"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/The_End_Times"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Incarnates",
+          "en": "Lexicanum, Incarnates page",
+          "de": "Lexicanum, Seite Incarnates"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Incarnates"
+      }
+    ]
+  },
+  {
+    "id": "fin-du-monde",
+    "annee": 2528,
+    "fin": null,
+    "approx": false,
+    "titre": {
+      "fr": "Bataille des Incarnés et fin du monde",
+      "en": "Battle of the Incarnates and the end of the world",
+      "de": "Schlacht der Inkarnate und das Ende der Welt"
+    },
+    "resume": {
+      "fr": "Lileath se sacrifie pour que Teclis transporte les Incarnés et leurs armées dans les ruines de Middenheim, où Grimgor, Incarné des Bêtes, les rejoint. Sigmar terrasse Archaon et brise son épée, puis les Incarnés tentent de refermer la faille qui se forme. Mannfred von Carstein tue Balthasar Gelt, le rituel échoue, Teclis est consumé et la faille engloutit la réalité. Le monde de Warhammer prend fin.",
+      "en": "Lileath sacrifices herself so that Teclis can carry the Incarnates and their armies into the ruins of Middenheim, where Grimgor, Incarnate of Beasts, joins them. Sigmar defeats Archaon and breaks his sword, and the Incarnates try to close the forming rift. Mannfred von Carstein kills Balthasar Gelt, the ritual fails, Teclis is consumed and the rift devours reality. The Warhammer world comes to an end.",
+      "de": "Lileath opfert sich, damit Teclis die Inkarnate und ihre Heere in die Ruinen von Middenheim bringen kann, wo Grimgor, Inkarnat der Bestien, zu ihnen stößt. Sigmar besiegt Archaon und zerbricht sein Schwert, danach versuchen die Inkarnate, den entstehenden Riss zu schließen. Mannfred von Carstein tötet Balthasar Gelt, das Ritual scheitert, Teclis wird verzehrt und der Riss verschlingt die Wirklichkeit. Die Welt von Warhammer geht unter."
+    },
+    "ere": "fin-des-temps",
+    "regions": [
+      "empire"
+    ],
+    "lieux": [
+      "middenheim"
+    ],
+    "factions": [
+      "chaos",
+      "empire",
+      "hauts-elfes",
+      "elfes-noirs",
+      "elfes-sylvains",
+      "vampires",
+      "peaux-vertes"
+    ],
+    "importance": 3,
+    "fiabilite": "etabli",
+    "note": {
+      "fr": "Chapitre IV du livre Archaon, automne 2528. Fin de l'univers de Warhammer Fantasy Battle, auquel succède Warhammer Age of Sigmar en 2015.",
+      "en": "Chapter IV of the Archaon book, autumn 2528. End of the Warhammer Fantasy Battle setting, succeeded by Warhammer Age of Sigmar in 2015.",
+      "de": "Kapitel IV des Bandes Archaon, Herbst 2528. Ende der Welt von Warhammer Fantasy Battle, auf die 2015 Warhammer Age of Sigmar folgt."
+    },
+    "sources": [
+      {
+        "titre": "Warhammer: The End Times – Archaon (2015)",
+        "detail": {
+          "fr": "chapitre IV « On the Edge of the Abyss », p. 142-181",
+          "en": "chapter IV \"On the Edge of the Abyss\", pp. 142-181",
+          "de": "Kapitel IV „On the Edge of the Abyss“, S. 142-181"
+        },
+        "url": ""
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page The End Times",
+          "en": "Lexicanum, The End Times page",
+          "de": "Lexicanum, Seite The End Times"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/The_End_Times"
+      },
+      {
+        "titre": {
+          "fr": "Lexicanum, page Incarnates",
+          "en": "Lexicanum, Incarnates page",
+          "de": "Lexicanum, Seite Incarnates"
+        },
+        "detail": "",
+        "url": "https://whfb.lexicanum.com/wiki/Incarnates"
+      },
+      {
+        "titre": {
+          "fr": "The Lord of the End Times, roman de Josh Reynolds (2015)",
+          "en": "The Lord of the End Times, novel by Josh Reynolds (2015)",
+          "de": "The Lord of the End Times, Roman von Josh Reynolds (2015)"
+        },
+        "detail": "",
+        "url": ""
+      }
+    ]
+  }
+]
