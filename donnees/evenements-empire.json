@@ -4,11 +4,23 @@
     "annee": 1,
     "fin": null,
     "approx": false,
-    "titre": "Couronnement de Sigmar",
-    "resume": "Après sa victoire sur les Peaux-vertes au col du Feu Noir, Sigmar Heldenhammer est couronné empereur par le grand prêtre d'Ulric. Les tribus humaines unifiées forment l'Empire, et cette année devient l'an 1 du Calendrier Impérial. Les chefs tribaux qui l'ont suivi sont à l'origine des futurs comtes électeurs.",
+    "titre": {
+      "fr": "Couronnement de Sigmar",
+      "en": "Coronation of Sigmar",
+      "de": "Krönung Sigmars"
+    },
+    "resume": {
+      "fr": "Après sa victoire sur les Peaux-vertes au col du Feu Noir, Sigmar Heldenhammer est couronné empereur par le grand prêtre d'Ulric. Les tribus humaines unifiées forment l'Empire, et cette année devient l'an 1 du Calendrier Impérial. Les chefs tribaux qui l'ont suivi sont à l'origine des futurs comtes électeurs.",
+      "en": "After his victory over the Greenskins at Black Fire Pass, Sigmar Heldenhammer is crowned Emperor by the High Priest of Ulric. The unified human tribes form the Empire, and this year becomes year 1 of the Imperial Calendar. The tribal chieftains who followed him are the forebears of the future Elector Counts.",
+      "de": "Nach seinem Sieg über die Grünhäute am Schwarzfeuerpass wird Sigmar Heldenhammer vom Hohepriester des Ulric zum Kaiser gekrönt. Die vereinten Menschenstämme bilden das Imperium, und dieses Jahr wird zum Jahr 1 des Imperialen Kalenders. Die Stammesfürsten, die ihm gefolgt sind, gelten als Vorfahren der späteren Kurfürsten."
+    },
     "ere": "empire-sigmarite",
     "regions": [
       "empire"
+    ],
+    "lieux": [
+      "col-du-feu-noir",
+      "altdorf"
     ],
     "factions": [
       "empire",
@@ -16,20 +28,44 @@
     ],
     "importance": 3,
     "fiabilite": "etabli",
-    "note": "Événement fondateur du calendrier, repris dans tous les livres de l'Empire.",
+    "note": {
+      "fr": "Événement fondateur du calendrier, repris dans tous les livres de l'Empire.",
+      "en": "Founding event of the calendar, repeated in every Empire book.",
+      "de": "Gründungsereignis des Kalenders, das in allen Büchern über das Imperium aufgegriffen wird."
+    },
     "sources": [
       {
-        "titre": "Warhammer Armies: The Empire, 7e édition (2006)",
-        "detail": "section historique",
+        "titre": {
+          "fr": "Warhammer Armies: The Empire, 7e édition (2006)",
+          "en": "Warhammer Armies: The Empire, 7th edition (2006)",
+          "de": "Warhammer Armies: The Empire, 7. Edition (2006)"
+        },
+        "detail": {
+          "fr": "section historique",
+          "en": "historical section",
+          "de": "Geschichtsteil"
+        },
         "url": ""
       },
       {
-        "titre": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2e édition (2005)",
-        "detail": "chapitre sur l'histoire de l'Empire",
+        "titre": {
+          "fr": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2e édition (2005)",
+          "en": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2nd edition (2005)",
+          "de": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2. Edition (2005)"
+        },
+        "detail": {
+          "fr": "chapitre sur l'histoire de l'Empire",
+          "en": "chapter on the history of the Empire",
+          "de": "Kapitel über die Geschichte des Imperiums"
+        },
         "url": ""
       },
       {
-        "titre": "Lexicanum, page Imperial Calendar",
+        "titre": {
+          "fr": "Lexicanum, page Imperial Calendar",
+          "en": "Lexicanum, Imperial Calendar page",
+          "de": "Lexicanum, Seite Imperial Calendar"
+        },
         "detail": "",
         "url": "https://whfb.lexicanum.com/wiki/Imperial_Calendar"
       }
@@ -40,27 +76,54 @@
     "annee": 50,
     "fin": null,
     "approx": false,
-    "titre": "Sigmar quitte son trône",
-    "resume": "Au terme de cinquante ans de règne, Sigmar abandonne la couronne et part vers l'est, au-delà des montagnes, pour ne jamais revenir. Les comtes doivent alors désigner son successeur par élection, ce qui fonde le principe de l'empereur élu. Sa disparition nourrit aussi la croyance en son ascension divine.",
+    "titre": {
+      "fr": "Sigmar quitte son trône",
+      "en": "Sigmar leaves his throne",
+      "de": "Sigmar verlässt seinen Thron"
+    },
+    "resume": {
+      "fr": "Au terme de cinquante ans de règne, Sigmar abandonne la couronne et part vers l'est, au-delà des montagnes, pour ne jamais revenir. Les comtes doivent alors désigner son successeur par élection, ce qui fonde le principe de l'empereur élu. Sa disparition nourrit aussi la croyance en son ascension divine.",
+      "en": "After fifty years of rule, Sigmar gives up the crown and travels east, beyond the mountains, never to return. The counts must then choose his successor by election, which establishes the principle of the elected Emperor. His disappearance also fuels the belief in his divine ascension.",
+      "de": "Nach fünfzig Jahren Herrschaft legt Sigmar die Krone nieder und zieht nach Osten über die Berge, um nie zurückzukehren. Die Grafen müssen seinen Nachfolger daraufhin durch Wahl bestimmen, was das Prinzip des gewählten Kaisers begründet. Sein Verschwinden nährt zudem den Glauben an seinen Aufstieg zum Gott."
+    },
     "ere": "empire-sigmarite",
     "regions": [
       "empire",
       "montagnes"
+    ],
+    "lieux": [
+      "altdorf"
     ],
     "factions": [
       "empire"
     ],
     "importance": 2,
     "fiabilite": "etabli",
-    "note": "Date non revérifiée en ligne pendant la compilation (Lexicanum inaccessible depuis l'outil), mais constante dans les livres d'armée de l'Empire.",
+    "note": {
+      "fr": "Date non revérifiée en ligne pendant la compilation (Lexicanum inaccessible depuis l'outil), mais constante dans les livres d'armée de l'Empire.",
+      "en": "Date not rechecked online during compilation (Lexicanum was unreachable from the tool), but consistent across the Empire army books.",
+      "de": "Datum während der Zusammenstellung nicht online überprüft (Lexicanum war mit dem Werkzeug nicht erreichbar), in den Armeebüchern des Imperiums aber durchgehend gleich."
+    },
     "sources": [
       {
-        "titre": "Warhammer Armies: The Empire, 7e édition (2006)",
-        "detail": "section historique",
+        "titre": {
+          "fr": "Warhammer Armies: The Empire, 7e édition (2006)",
+          "en": "Warhammer Armies: The Empire, 7th edition (2006)",
+          "de": "Warhammer Armies: The Empire, 7. Edition (2006)"
+        },
+        "detail": {
+          "fr": "section historique",
+          "en": "historical section",
+          "de": "Geschichtsteil"
+        },
         "url": ""
       },
       {
-        "titre": "Lexicanum, page Sigmar",
+        "titre": {
+          "fr": "Lexicanum, page Sigmar",
+          "en": "Lexicanum, Sigmar page",
+          "de": "Lexicanum, Seite Sigmar"
+        },
         "detail": "",
         "url": "https://whfb.lexicanum.com/wiki/Sigmar"
       }
@@ -71,26 +134,53 @@
     "annee": 73,
     "fin": null,
     "approx": false,
-    "titre": "Naissance du culte de Sigmar",
-    "resume": "Le prêtre Johann Helsturm affirme avoir vu Sigmar recevoir la divinité des mains d'Ulric et devient le premier Grand Théogoniste. Le culte de Sigmar devient peu à peu la religion dominante de l'Empire. Sa rivalité avec le culte d'Ulric pèsera lourd dans les guerres civiles à venir.",
+    "titre": {
+      "fr": "Naissance du culte de Sigmar",
+      "en": "Birth of the cult of Sigmar",
+      "de": "Entstehung des Sigmarkults"
+    },
+    "resume": {
+      "fr": "Le prêtre Johann Helsturm affirme avoir vu Sigmar recevoir la divinité des mains d'Ulric et devient le premier Grand Théogoniste. Le culte de Sigmar devient peu à peu la religion dominante de l'Empire. Sa rivalité avec le culte d'Ulric pèsera lourd dans les guerres civiles à venir.",
+      "en": "The priest Johann Helsturm claims to have seen Sigmar receive divinity from Ulric and becomes the first Grand Theogonist. The cult of Sigmar gradually becomes the dominant religion of the Empire. Its rivalry with the cult of Ulric will weigh heavily on the civil wars to come.",
+      "de": "Der Priester Johann Helsturm behauptet, gesehen zu haben, wie Sigmar die Göttlichkeit aus den Händen Ulrics empfing, und wird der erste Großtheogonist. Der Sigmarkult wird nach und nach zur vorherrschenden Religion des Imperiums. Seine Rivalität mit dem Ulrickult wird die kommenden Bürgerkriege schwer belasten."
+    },
     "ere": "empire-sigmarite",
     "regions": [
       "empire"
+    ],
+    "lieux": [
+      "altdorf"
     ],
     "factions": [
       "empire"
     ],
     "importance": 2,
     "fiabilite": "incertain",
-    "note": "Date issue des chronologies des livres d'armée, non revérifiée en ligne pendant la compilation. L'orthographe varie (Helstrum ou Helsturm).",
+    "note": {
+      "fr": "Date issue des chronologies des livres d'armée, non revérifiée en ligne pendant la compilation. L'orthographe varie (Helstrum ou Helsturm).",
+      "en": "Date taken from the army book timelines, not rechecked online during compilation. The spelling varies (Helstrum or Helsturm).",
+      "de": "Datum aus den Zeitleisten der Armeebücher, während der Zusammenstellung nicht online überprüft. Die Schreibweise schwankt (Helstrum oder Helsturm)."
+    },
     "sources": [
       {
-        "titre": "Warhammer Armies: The Empire, 6e édition (2000)",
-        "detail": "chronologie",
+        "titre": {
+          "fr": "Warhammer Armies: The Empire, 6e édition (2000)",
+          "en": "Warhammer Armies: The Empire, 6th edition (2000)",
+          "de": "Warhammer Armies: The Empire, 6. Edition (2000)"
+        },
+        "detail": {
+          "fr": "chronologie",
+          "en": "timeline",
+          "de": "Zeitleiste"
+        },
         "url": ""
       },
       {
-        "titre": "Lexicanum, page Cult of Sigmar",
+        "titre": {
+          "fr": "Lexicanum, page Cult of Sigmar",
+          "en": "Lexicanum, Cult of Sigmar page",
+          "de": "Lexicanum, Seite Cult of Sigmar"
+        },
         "detail": "",
         "url": "https://whfb.lexicanum.com/wiki/Cult_of_Sigmar"
       }
@@ -101,11 +191,23 @@
     "annee": 978,
     "fin": null,
     "approx": false,
-    "titre": "Gilles le Breton fonde la Bretonnie",
-    "resume": "Béni par la Dame du Lac, Gilles le Breton unit les tribus bretonni et chasse les Peaux-vertes de l'ouest du Vieux Monde. Couronné premier roi, il fonde un royaume chevaleresque organisé autour du culte de la Dame et de la quête du Graal. Ses compagnons deviennent les premiers ducs de Bretonnie.",
+    "titre": {
+      "fr": "Gilles le Breton fonde la Bretonnie",
+      "en": "Gilles le Breton founds Bretonnia",
+      "de": "Gilles le Breton gründet Bretonia"
+    },
+    "resume": {
+      "fr": "Béni par la Dame du Lac, Gilles le Breton unit les tribus bretonni et chasse les Peaux-vertes de l'ouest du Vieux Monde. Couronné premier roi, il fonde un royaume chevaleresque organisé autour du culte de la Dame et de la quête du Graal. Ses compagnons deviennent les premiers ducs de Bretonnie.",
+      "en": "Blessed by the Lady of the Lake, Gilles le Breton unites the Bretonni tribes and drives the Greenskins out of the western Old World. Crowned as the first king, he founds a chivalric realm built around the cult of the Lady and the Grail quest. His companions become the first dukes of Bretonnia.",
+      "de": "Von der Herrin vom See gesegnet, eint Gilles le Breton die Stämme der Bretonni und vertreibt die Grünhäute aus dem Westen der Alten Welt. Als erster König gekrönt, gründet er ein ritterliches Reich, das sich um den Kult der Herrin und die Gralssuche ordnet. Seine Gefährten werden die ersten Herzöge Bretonias."
+    },
     "ere": "empire-sigmarite",
     "regions": [
       "bretonnie"
+    ],
+    "lieux": [
+      "bastonne",
+      "couronne"
     ],
     "factions": [
       "bretonnie",
@@ -114,20 +216,44 @@
     ],
     "importance": 3,
     "fiabilite": "etabli",
-    "note": "Conversion : l'an 1 du calendrier bretonnien correspond à 978 CI. Les livres datent souvent l'événement directement en calendrier bretonnien.",
+    "note": {
+      "fr": "Conversion : l'an 1 du calendrier bretonnien correspond à 978 CI. Les livres datent souvent l'événement directement en calendrier bretonnien.",
+      "en": "Conversion: year 1 of the Bretonnian calendar corresponds to 978 IC. The books often date the event directly in the Bretonnian calendar.",
+      "de": "Umrechnung: Das Jahr 1 des bretonischen Kalenders entspricht 978 IK. Die Bücher datieren das Ereignis oft direkt nach dem bretonischen Kalender."
+    },
     "sources": [
       {
-        "titre": "Warhammer Armies: Bretonnia, 6e édition (2004)",
-        "detail": "section historique",
+        "titre": {
+          "fr": "Warhammer Armies: Bretonnia, 6e édition (2004)",
+          "en": "Warhammer Armies: Bretonnia, 6th edition (2004)",
+          "de": "Warhammer Armies: Bretonnia, 6. Edition (2004)"
+        },
+        "detail": {
+          "fr": "section historique",
+          "en": "historical section",
+          "de": "Geschichtsteil"
+        },
         "url": ""
       },
       {
-        "titre": "Knights of the Grail, Warhammer Fantasy Roleplay 2e édition (2006)",
-        "detail": "chapitre historique",
+        "titre": {
+          "fr": "Knights of the Grail, Warhammer Fantasy Roleplay 2e édition (2006)",
+          "en": "Knights of the Grail, Warhammer Fantasy Roleplay 2nd edition (2006)",
+          "de": "Knights of the Grail, Warhammer Fantasy Roleplay 2. Edition (2006)"
+        },
+        "detail": {
+          "fr": "chapitre historique",
+          "en": "history chapter",
+          "de": "Geschichtskapitel"
+        },
         "url": ""
       },
       {
-        "titre": "Lexicanum, page Gilles le Breton",
+        "titre": {
+          "fr": "Lexicanum, page Gilles le Breton",
+          "en": "Lexicanum, Gilles le Breton page",
+          "de": "Lexicanum, Seite Gilles le Breton"
+        },
         "detail": "",
         "url": "https://whfb.lexicanum.com/wiki/Gilles_le_Breton"
       }
@@ -138,26 +264,53 @@
     "annee": 1053,
     "fin": null,
     "approx": false,
-    "titre": "Règne de Boris l'Incompétent",
-    "resume": "L'empereur Boris Hohenbach, surnommé Goldgather, pille le trésor impérial et néglige la défense des provinces. Son règne corrompu laisse l'Empire affaibli et désorganisé au moment où les Skavens préparent leur grande offensive. Il est souvent présenté comme l'une des causes indirectes du désastre de la Peste noire.",
+    "titre": {
+      "fr": "Règne de Boris l'Incompétent",
+      "en": "Reign of Boris the Incompetent",
+      "de": "Herrschaft Boris des Unfähigen"
+    },
+    "resume": {
+      "fr": "L'empereur Boris Hohenbach, surnommé Goldgather, pille le trésor impérial et néglige la défense des provinces. Son règne corrompu laisse l'Empire affaibli et désorganisé au moment où les Skavens préparent leur grande offensive. Il est souvent présenté comme l'une des causes indirectes du désastre de la Peste noire.",
+      "en": "Emperor Boris Hohenbach, nicknamed Goldgather, plunders the imperial treasury and neglects the defence of the provinces. His corrupt reign leaves the Empire weakened and disorganised just as the Skaven prepare their great offensive. He is often presented as one of the indirect causes of the Black Plague disaster.",
+      "de": "Kaiser Boris Hohenbach, genannt Goldgather, plündert die kaiserliche Schatzkammer und vernachlässigt die Verteidigung der Provinzen. Seine korrupte Herrschaft hinterlässt ein geschwächtes und zerrüttetes Imperium, gerade als die Skaven ihre große Offensive vorbereiten. Er gilt oft als eine der mittelbaren Ursachen für die Katastrophe der Schwarzen Pest."
+    },
     "ere": "empire-sigmarite",
     "regions": [
       "empire"
+    ],
+    "lieux": [
+      "altdorf"
     ],
     "factions": [
       "empire"
     ],
     "importance": 1,
     "fiabilite": "incertain",
-    "note": "Année d'accession reprise d'une seule chronologie, non revérifiée en ligne. Le personnage est confirmé par les romans de C. L. Werner (Wolf of Sigmar, Blighted Empire).",
+    "note": {
+      "fr": "Année d'accession reprise d'une seule chronologie, non revérifiée en ligne. Le personnage est confirmé par les romans de C. L. Werner (Wolf of Sigmar, Blighted Empire).",
+      "en": "Year of accession taken from a single timeline, not rechecked online. The character is confirmed by C. L. Werner's novels (Wolf of Sigmar, Blighted Empire).",
+      "de": "Jahr der Thronbesteigung aus einer einzigen Zeitleiste übernommen, nicht online überprüft. Die Figur wird durch die Romane von C. L. Werner bestätigt (Wolf of Sigmar, Blighted Empire)."
+    },
     "sources": [
       {
-        "titre": "Warhammer Fantasy Roleplay, 2e édition (2005)",
-        "detail": "chronologie de l'Empire",
+        "titre": {
+          "fr": "Warhammer Fantasy Roleplay, 2e édition (2005)",
+          "en": "Warhammer Fantasy Roleplay, 2nd edition (2005)",
+          "de": "Warhammer Fantasy Roleplay, 2. Edition (2005)"
+        },
+        "detail": {
+          "fr": "chronologie de l'Empire",
+          "en": "timeline of the Empire",
+          "de": "Zeitleiste des Imperiums"
+        },
         "url": ""
       },
       {
-        "titre": "Black Library, présentation du roman Blighted Empire",
+        "titre": {
+          "fr": "Black Library, présentation du roman Blighted Empire",
+          "en": "Black Library, presentation of the novel Blighted Empire",
+          "de": "Black Library, Vorstellung des Romans Blighted Empire"
+        },
         "detail": "",
         "url": "https://blacklibrary.com/authors/CL-Werner/blighted-empire-ebook.html"
       }
@@ -168,11 +321,23 @@
     "annee": 1111,
     "fin": 1115,
     "approx": false,
-    "titre": "La Peste noire",
-    "resume": "Le clan Pestilens répand une épidémie qui tue une grande partie de la population de l'Empire, puis les Skavens surgissent de leurs tunnels pour s'emparer des provinces. C'est la première fois que l'existence des hommes-rats se manifeste à grande échelle, avant d'être effacée des mémoires officielles. La catastrophe affaiblit durablement l'autorité impériale.",
+    "titre": {
+      "fr": "La Peste noire",
+      "en": "The Black Plague",
+      "de": "Die Schwarze Pest"
+    },
+    "resume": {
+      "fr": "Le clan Pestilens répand une épidémie qui tue une grande partie de la population de l'Empire, puis les Skavens surgissent de leurs tunnels pour s'emparer des provinces. C'est la première fois que l'existence des hommes-rats se manifeste à grande échelle, avant d'être effacée des mémoires officielles. La catastrophe affaiblit durablement l'autorité impériale.",
+      "en": "Clan Pestilens spreads an epidemic that kills a large part of the Empire's population, then the Skaven burst out of their tunnels to seize the provinces. It is the first time the ratmen reveal themselves on a large scale, before being erased from official memory. The catastrophe weakens imperial authority for a long time.",
+      "de": "Der Clan Pestilens verbreitet eine Seuche, die einen großen Teil der Bevölkerung des Imperiums tötet, dann brechen die Skaven aus ihren Tunneln hervor, um die Provinzen an sich zu reißen. Zum ersten Mal zeigen sich die Rattenmenschen in großem Ausmaß, bevor sie aus dem offiziellen Gedächtnis getilgt werden. Die Katastrophe schwächt die kaiserliche Autorität auf lange Zeit."
+    },
     "ere": "empire-sigmarite",
     "regions": [
       "empire"
+    ],
+    "lieux": [
+      "skavenblight",
+      "altdorf"
     ],
     "factions": [
       "empire",
@@ -180,21 +345,49 @@
     ],
     "importance": 3,
     "fiabilite": "etabli",
-    "note": "Les dates 1111 à 1115 CI sont reprises par Lexicanum (page Liber Mortis) et par les livres de l'Empire et des Skavens.",
+    "note": {
+      "fr": "Les dates 1111 à 1115 CI sont reprises par Lexicanum (page Liber Mortis) et par les livres de l'Empire et des Skavens.",
+      "en": "The dates 1111 to 1115 IC are given by Lexicanum (Liber Mortis page) and by the Empire and Skaven books.",
+      "de": "Die Jahre 1111 bis 1115 IK werden von Lexicanum (Seite Liber Mortis) sowie von den Büchern zum Imperium und zu den Skaven angegeben."
+    },
     "sources": [
       {
-        "titre": "Warhammer Armies: Skaven, 7e édition (2009)",
-        "detail": "section historique",
+        "titre": {
+          "fr": "Warhammer Armies: Skaven, 7e édition (2009)",
+          "en": "Warhammer Armies: Skaven, 7th edition (2009)",
+          "de": "Warhammer Armies: Skaven, 7. Edition (2009)"
+        },
+        "detail": {
+          "fr": "section historique",
+          "en": "historical section",
+          "de": "Geschichtsteil"
+        },
         "url": ""
       },
       {
-        "titre": "Warhammer Fantasy Roleplay, 2e édition (2005)",
-        "detail": "chronologie de l'Empire",
+        "titre": {
+          "fr": "Warhammer Fantasy Roleplay, 2e édition (2005)",
+          "en": "Warhammer Fantasy Roleplay, 2nd edition (2005)",
+          "de": "Warhammer Fantasy Roleplay, 2. Edition (2005)"
+        },
+        "detail": {
+          "fr": "chronologie de l'Empire",
+          "en": "timeline of the Empire",
+          "de": "Zeitleiste des Imperiums"
+        },
         "url": ""
       },
       {
-        "titre": "Lexicanum, page Liber Mortis",
-        "detail": "mentionne la Peste noire de 1111 à 1115 CI",
+        "titre": {
+          "fr": "Lexicanum, page Liber Mortis",
+          "en": "Lexicanum, Liber Mortis page",
+          "de": "Lexicanum, Seite Liber Mortis"
+        },
+        "detail": {
+          "fr": "mentionne la Peste noire de 1111 à 1115 CI",
+          "en": "mentions the Black Plague of 1111 to 1115 IC",
+          "de": "erwähnt die Schwarze Pest von 1111 bis 1115 IK"
+        },
         "url": "https://whfb.lexicanum.com/wiki/Liber_Mortis"
       }
     ]
@@ -204,11 +397,22 @@
     "annee": 1124,
     "fin": null,
     "approx": false,
-    "titre": "Mandred le Tueur de rats devient empereur",
-    "resume": "Le comte de Middenheim Mandred, qui a mené la reconquête contre les Skavens, est élu empereur. Il repousse les hommes-rats sous terre et rétablit un pouvoir central après des années de chaos. Son règne est l'un des derniers moments d'unité avant les grandes divisions.",
+    "titre": {
+      "fr": "Mandred le Tueur de rats devient empereur",
+      "en": "Mandred Skavenslayer becomes Emperor",
+      "de": "Mandred Rattenschlächter wird Kaiser"
+    },
+    "resume": {
+      "fr": "Le comte de Middenheim Mandred, qui a mené la reconquête contre les Skavens, est élu empereur. Il repousse les hommes-rats sous terre et rétablit un pouvoir central après des années de chaos. Son règne est l'un des derniers moments d'unité avant les grandes divisions.",
+      "en": "Mandred, Count of Middenheim, who led the reconquest against the Skaven, is elected Emperor. He drives the ratmen back underground and restores central power after years of chaos. His reign is one of the last moments of unity before the great divisions.",
+      "de": "Mandred, Graf von Middenheim, der die Rückeroberung gegen die Skaven angeführt hat, wird zum Kaiser gewählt. Er treibt die Rattenmenschen zurück unter die Erde und stellt nach Jahren des Chaos eine Zentralgewalt wieder her. Seine Herrschaft ist einer der letzten Momente der Einheit vor den großen Spaltungen."
+    },
     "ere": "empire-sigmarite",
     "regions": [
       "empire"
+    ],
+    "lieux": [
+      "middenheim"
     ],
     "factions": [
       "empire",
@@ -216,15 +420,31 @@
     ],
     "importance": 2,
     "fiabilite": "etabli",
-    "note": "Date non revérifiée en ligne pendant la compilation, mais constante dans les chronologies officielles.",
+    "note": {
+      "fr": "Date non revérifiée en ligne pendant la compilation, mais constante dans les chronologies officielles.",
+      "en": "Date not rechecked online during compilation, but consistent across the official timelines.",
+      "de": "Datum während der Zusammenstellung nicht online überprüft, in den offiziellen Zeitleisten aber durchgehend gleich."
+    },
     "sources": [
       {
-        "titre": "Warhammer Armies: The Empire, 7e édition (2006)",
-        "detail": "chronologie",
+        "titre": {
+          "fr": "Warhammer Armies: The Empire, 7e édition (2006)",
+          "en": "Warhammer Armies: The Empire, 7th edition (2006)",
+          "de": "Warhammer Armies: The Empire, 7. Edition (2006)"
+        },
+        "detail": {
+          "fr": "chronologie",
+          "en": "timeline",
+          "de": "Zeitleiste"
+        },
         "url": ""
       },
       {
-        "titre": "Lexicanum, page Mandred",
+        "titre": {
+          "fr": "Lexicanum, page Mandred",
+          "en": "Lexicanum, Mandred page",
+          "de": "Lexicanum, Seite Mandred"
+        },
         "detail": "",
         "url": "https://whfb.lexicanum.com/wiki/Mandred"
       }
@@ -235,11 +455,22 @@
     "annee": 1152,
     "fin": null,
     "approx": false,
-    "titre": "Assassinat de Mandred",
-    "resume": "Mandred est tué par un assassin skaven. Les comtes électeurs ne parviennent pas à s'entendre sur un successeur fort, et l'Empire entre dans une longue période de fragmentation. Le titre impérial perd l'essentiel de son autorité réelle.",
+    "titre": {
+      "fr": "Assassinat de Mandred",
+      "en": "Assassination of Mandred",
+      "de": "Ermordung Mandreds"
+    },
+    "resume": {
+      "fr": "Mandred est tué par un assassin skaven. Les comtes électeurs ne parviennent pas à s'entendre sur un successeur fort, et l'Empire entre dans une longue période de fragmentation. Le titre impérial perd l'essentiel de son autorité réelle.",
+      "en": "Mandred is killed by a Skaven assassin. The Elector Counts fail to agree on a strong successor, and the Empire enters a long period of fragmentation. The imperial title loses most of its real authority.",
+      "de": "Mandred wird von einem Skaven-Assassinen getötet. Die Kurfürsten können sich nicht auf einen starken Nachfolger einigen, und das Imperium tritt in eine lange Zeit der Zersplitterung ein. Der Kaisertitel verliert den größten Teil seiner tatsächlichen Macht."
+    },
     "ere": "empire-sigmarite",
     "regions": [
       "empire"
+    ],
+    "lieux": [
+      "middenheim"
     ],
     "factions": [
       "empire",
@@ -247,15 +478,31 @@
     ],
     "importance": 2,
     "fiabilite": "etabli",
-    "note": "Date non revérifiée en ligne pendant la compilation, mais constante dans les chronologies officielles.",
+    "note": {
+      "fr": "Date non revérifiée en ligne pendant la compilation, mais constante dans les chronologies officielles.",
+      "en": "Date not rechecked online during compilation, but consistent across the official timelines.",
+      "de": "Datum während der Zusammenstellung nicht online überprüft, in den offiziellen Zeitleisten aber durchgehend gleich."
+    },
     "sources": [
       {
-        "titre": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2e édition (2005)",
-        "detail": "chapitre historique",
+        "titre": {
+          "fr": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2e édition (2005)",
+          "en": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2nd edition (2005)",
+          "de": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2. Edition (2005)"
+        },
+        "detail": {
+          "fr": "chapitre historique",
+          "en": "history chapter",
+          "de": "Geschichtskapitel"
+        },
         "url": ""
       },
       {
-        "titre": "Lexicanum, page Mandred",
+        "titre": {
+          "fr": "Lexicanum, page Mandred",
+          "en": "Lexicanum, Mandred page",
+          "de": "Lexicanum, Seite Mandred"
+        },
         "detail": "",
         "url": "https://whfb.lexicanum.com/wiki/Mandred"
       }
@@ -266,31 +513,62 @@
     "annee": 1360,
     "fin": null,
     "approx": false,
-    "titre": "Ottilia se proclame impératrice",
-    "resume": "Refusant l'élection du comte de Stirland, la grande-duchesse de Talabecland se proclame impératrice sous le nom d'Ottilia Ire, avec l'appui de l'Ar-Ulric. Elle fonde une lignée héréditaire rivale de l'empereur élu et bat son adversaire à la bataille du Talabec. C'est le début de la longue guerre civile qui mènera au temps des Trois Empereurs.",
+    "titre": {
+      "fr": "Ottilia se proclame impératrice",
+      "en": "Ottilia proclaims herself Empress",
+      "de": "Ottilia ruft sich zur Kaiserin aus"
+    },
+    "resume": {
+      "fr": "Refusant l'élection du comte de Stirland, la grande-duchesse de Talabecland se proclame impératrice sous le nom d'Ottilia Ire, avec l'appui de l'Ar-Ulric. Elle fonde une lignée héréditaire rivale de l'empereur élu et bat son adversaire à la bataille du Talabec. C'est le début de la longue guerre civile qui mènera au temps des Trois Empereurs.",
+      "en": "Refusing the election of the Count of Stirland, the Grand Duchess of Talabecland proclaims herself Empress as Ottilia I, with the backing of the Ar-Ulric. She founds a hereditary line rivalling the elected Emperor and defeats her opponent at the Battle of the Talabec. This marks the start of the long civil war that leads to the Age of Three Emperors.",
+      "de": "Die Großherzogin von Talabecland erkennt die Wahl des Grafen von Stirland nicht an und ruft sich mit Unterstützung des Ar-Ulric als Ottilia I. zur Kaiserin aus. Sie begründet eine erbliche Linie, die mit dem gewählten Kaiser rivalisiert, und schlägt ihren Gegner in der Schlacht am Talabec. Damit beginnt der lange Bürgerkrieg, der in das Zeitalter der Drei Kaiser mündet."
+    },
     "ere": "trois-empereurs",
     "regions": [
       "empire"
+    ],
+    "lieux": [
+      "talabheim"
     ],
     "factions": [
       "empire"
     ],
     "importance": 3,
     "fiabilite": "etabli",
-    "note": "Lexicanum place l'élection contestée du comte de Stirland en 1359 et la proclamation d'Ottilia l'année suivante, en 1360. Les deux dates sont parfois confondues. La lignée ottilienne renonce au trône en 2304 lors de l'élection de Magnus.",
+    "note": {
+      "fr": "Lexicanum place l'élection contestée du comte de Stirland en 1359 et la proclamation d'Ottilia l'année suivante, en 1360. Les deux dates sont parfois confondues. La lignée ottilienne renonce au trône en 2304 lors de l'élection de Magnus.",
+      "en": "Lexicanum places the disputed election of the Count of Stirland in 1359 and Ottilia's proclamation the following year, in 1360. The two dates are sometimes confused. The Ottilian line renounces the throne in 2304 at the election of Magnus.",
+      "de": "Lexicanum setzt die umstrittene Wahl des Grafen von Stirland auf 1359 und die Ausrufung Ottilias auf das folgende Jahr 1360. Die beiden Daten werden manchmal verwechselt. Die ottilianische Linie verzichtet 2304 bei der Wahl Magnus' auf den Thron."
+    },
     "sources": [
       {
-        "titre": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2e édition (2005)",
-        "detail": "chapitre historique",
+        "titre": {
+          "fr": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2e édition (2005)",
+          "en": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2nd edition (2005)",
+          "de": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2. Edition (2005)"
+        },
+        "detail": {
+          "fr": "chapitre historique",
+          "en": "history chapter",
+          "de": "Geschichtskapitel"
+        },
         "url": ""
       },
       {
-        "titre": "Lexicanum, page Ottilian Emperor",
+        "titre": {
+          "fr": "Lexicanum, page Ottilian Emperor",
+          "en": "Lexicanum, Ottilian Emperor page",
+          "de": "Lexicanum, Seite Ottilian Emperor"
+        },
         "detail": "",
         "url": "https://whfb.lexicanum.com/wiki/Ottilian_Empress"
       },
       {
-        "titre": "Lexicanum, page Age of Three Emperors",
+        "titre": {
+          "fr": "Lexicanum, page Age of Three Emperors",
+          "en": "Lexicanum, Age of Three Emperors page",
+          "de": "Lexicanum, Seite Age of Three Emperors"
+        },
         "detail": "",
         "url": "https://whfb.lexicanum.com/wiki/Time_of_Three_Emperors"
       }
@@ -301,12 +579,24 @@
     "annee": 1448,
     "fin": 1451,
     "approx": false,
-    "titre": "Invasion arabienne de l'Estalie et croisade",
-    "resume": "Le sultan Jaffar d'Araby envahit l'Estalie. Le roi de Bretonnie lève une grande armée et, avec des chevaliers de l'Empire, libère la péninsule puis porte la guerre en Araby, où Jaffar est tué. Cette croisade donne naissance à plusieurs ordres de chevalerie et ouvre l'Occident aux richesses du sud.",
+    "titre": {
+      "fr": "Invasion arabienne de l'Estalie et croisade",
+      "en": "Arabyan invasion of Estalia and crusade",
+      "de": "Arabyscher Einfall in Estalia und Kreuzzug"
+    },
+    "resume": {
+      "fr": "Le sultan Jaffar d'Araby envahit l'Estalie. Le roi de Bretonnie lève une grande armée et, avec des chevaliers de l'Empire, libère la péninsule puis porte la guerre en Araby, où Jaffar est tué. Cette croisade donne naissance à plusieurs ordres de chevalerie et ouvre l'Occident aux richesses du sud.",
+      "en": "Sultan Jaffar of Araby invades Estalia. The King of Bretonnia raises a great army and, together with knights of the Empire, frees the peninsula and then carries the war into Araby, where Jaffar is killed. This crusade gives rise to several orders of knighthood and opens the West to the riches of the south.",
+      "de": "Sultan Jaffar von Araby fällt in Estalia ein. Der König von Bretonia stellt ein großes Heer auf, befreit gemeinsam mit Rittern des Imperiums die Halbinsel und trägt den Krieg dann nach Araby, wo Jaffar getötet wird. Aus diesem Kreuzzug gehen mehrere Ritterorden hervor, und er öffnet den Westen für die Reichtümer des Südens."
+    },
     "ere": "trois-empereurs",
     "regions": [
       "tilee-estalie",
       "sud"
+    ],
+    "lieux": [
+      "magritta",
+      "araby"
     ],
     "factions": [
       "humains-autres",
@@ -315,21 +605,45 @@
     ],
     "importance": 2,
     "fiabilite": "etabli",
-    "note": "Date de début 1448 CI confirmée par Lexicanum (page Estalia). La date de fin 1451 CI et la mort de Jaffar ne viennent que du wiki fandom. Le nom du sultan varie entre Jaffar et Jajjar selon les pages.",
+    "note": {
+      "fr": "Date de début 1448 CI confirmée par Lexicanum (page Estalia). La date de fin 1451 CI et la mort de Jaffar ne viennent que du wiki fandom. Le nom du sultan varie entre Jaffar et Jajjar selon les pages.",
+      "en": "Start date 1448 IC confirmed by Lexicanum (Estalia page). The end date 1451 IC and Jaffar's death come only from the fandom wiki. The sultan's name varies between Jaffar and Jajjar depending on the page.",
+      "de": "Das Anfangsjahr 1448 IK wird von Lexicanum bestätigt (Seite Estalia). Das Endjahr 1451 IK und Jaffars Tod stammen nur aus dem Fandom-Wiki. Der Name des Sultans schwankt je nach Seite zwischen Jaffar und Jajjar."
+    },
     "sources": [
       {
-        "titre": "Warhammer Armies: Bretonnia, 6e édition (2004)",
-        "detail": "section historique",
+        "titre": {
+          "fr": "Warhammer Armies: Bretonnia, 6e édition (2004)",
+          "en": "Warhammer Armies: Bretonnia, 6th edition (2004)",
+          "de": "Warhammer Armies: Bretonnia, 6. Edition (2004)"
+        },
+        "detail": {
+          "fr": "section historique",
+          "en": "historical section",
+          "de": "Geschichtsteil"
+        },
         "url": ""
       },
       {
-        "titre": "Lexicanum, page Estalia",
+        "titre": {
+          "fr": "Lexicanum, page Estalia",
+          "en": "Lexicanum, Estalia page",
+          "de": "Lexicanum, Seite Estalia"
+        },
         "detail": "",
         "url": "https://whfb.lexicanum.com/wiki/Estalian"
       },
       {
-        "titre": "Warhammer Wiki (fandom), page Bretonnia",
-        "detail": "dates de la croisade 1448 à 1451",
+        "titre": {
+          "fr": "Warhammer Wiki (fandom), page Bretonnia",
+          "en": "Warhammer Wiki (fandom), Bretonnia page",
+          "de": "Warhammer Wiki (fandom), Seite Bretonnia"
+        },
+        "detail": {
+          "fr": "dates de la croisade 1448 à 1451",
+          "en": "dates of the crusade, 1448 to 1451",
+          "de": "Daten des Kreuzzugs, 1448 bis 1451"
+        },
         "url": "https://warhammerfantasy.fandom.com/wiki/Bretonnia"
       }
     ]
@@ -339,11 +653,22 @@
     "annee": 1492,
     "fin": null,
     "approx": false,
-    "titre": "Marco Colombo revient de Lustrie",
-    "resume": "L'explorateur tiléen Marco Colombo revient d'un voyage au-delà de l'océan avec des récits de cités d'or perdues dans la jungle. Ses récits déclenchent une ruée d'aventuriers et de marchands vers la Lustrie. Le contact avec les Hommes-lézards et leurs temples devient dès lors une source constante de conflits.",
+    "titre": {
+      "fr": "Marco Colombo revient de Lustrie",
+      "en": "Marco Colombo returns from Lustria",
+      "de": "Marco Colombo kehrt aus Lustria zurück"
+    },
+    "resume": {
+      "fr": "L'explorateur tiléen Marco Colombo revient d'un voyage au-delà de l'océan avec des récits de cités d'or perdues dans la jungle. Ses récits déclenchent une ruée d'aventuriers et de marchands vers la Lustrie. Le contact avec les Hommes-lézards et leurs temples devient dès lors une source constante de conflits.",
+      "en": "The Tilean explorer Marco Colombo returns from a voyage beyond the ocean with tales of lost golden cities in the jungle. His stories trigger a rush of adventurers and merchants towards Lustria. From then on, contact with the Lizardmen and their temples becomes a constant source of conflict.",
+      "de": "Der tileanische Entdecker Marco Colombo kehrt von einer Reise über den Ozean zurück und berichtet von verlorenen goldenen Städten im Dschungel. Seine Berichte lösen einen Ansturm von Abenteurern und Händlern auf Lustria aus. Der Kontakt mit den Echsenmenschen und ihren Tempeln wird von da an zu einer ständigen Quelle von Konflikten."
+    },
     "ere": "trois-empereurs",
     "regions": [
       "tilee-estalie",
+      "lustrie"
+    ],
+    "lieux": [
       "lustrie"
     ],
     "factions": [
@@ -352,16 +677,36 @@
     ],
     "importance": 2,
     "fiabilite": "etabli",
-    "note": "Le supplément de campagne Conquest of the New World (2005) se situe explicitement en 1492 CI. Clin d'œil assumé à Christophe Colomb.",
+    "note": {
+      "fr": "Le supplément de campagne Conquest of the New World (2005) se situe explicitement en 1492 CI. Clin d'œil assumé à Christophe Colomb.",
+      "en": "The campaign supplement Conquest of the New World (2005) is explicitly set in 1492 IC. A deliberate nod to Christopher Columbus.",
+      "de": "Der Kampagnenband Conquest of the New World (2005) spielt ausdrücklich im Jahr 1492 IK. Eine bewusste Anspielung auf Christoph Kolumbus."
+    },
     "sources": [
       {
-        "titre": "Conquest of the New World, supplément Warhammer (2005)",
-        "detail": "introduction de la campagne",
+        "titre": {
+          "fr": "Conquest of the New World, supplément Warhammer (2005)",
+          "en": "Conquest of the New World, Warhammer supplement (2005)",
+          "de": "Conquest of the New World, Warhammer-Ergänzungsband (2005)"
+        },
+        "detail": {
+          "fr": "introduction de la campagne",
+          "en": "campaign introduction",
+          "de": "Einleitung der Kampagne"
+        },
         "url": ""
       },
       {
-        "titre": "Warhammer Armies: Lizardmen, 6e édition (2003)",
-        "detail": "section historique",
+        "titre": {
+          "fr": "Warhammer Armies: Lizardmen, 6e édition (2003)",
+          "en": "Warhammer Armies: Lizardmen, 6th edition (2003)",
+          "de": "Warhammer Armies: Lizardmen, 6. Edition (2003)"
+        },
+        "detail": {
+          "fr": "section historique",
+          "en": "historical section",
+          "de": "Geschichtsteil"
+        },
         "url": ""
       }
     ]
@@ -371,10 +716,21 @@
     "annee": 1494,
     "fin": 1524,
     "approx": false,
-    "titre": "Les Gospodars fondent Kislev",
-    "resume": "Venus de l'est sous la conduite de la khan-reine Miska, les Gospodars repoussent les tribus ungols et s'installent au nord de l'Empire. En 1524, sa fille Shoika fonde la cité de Kislev et prend la première le titre de tsarine. Le royaume devient le rempart de l'humanité face aux Désolations du Chaos.",
+    "titre": {
+      "fr": "Les Gospodars fondent Kislev",
+      "en": "The Gospodars found Kislev",
+      "de": "Die Gospodaren gründen Kislev"
+    },
+    "resume": {
+      "fr": "Venus de l'est sous la conduite de la khan-reine Miska, les Gospodars repoussent les tribus ungols et s'installent au nord de l'Empire. En 1524, sa fille Shoika fonde la cité de Kislev et prend la première le titre de tsarine. Le royaume devient le rempart de l'humanité face aux Désolations du Chaos.",
+      "en": "Coming from the east under the leadership of the Khan-Queen Miska, the Gospodars drive back the Ungol tribes and settle north of the Empire. In 1524, her daughter Shoika founds the city of Kislev and is the first to take the title of Tsarina. The kingdom becomes humanity's bulwark against the Chaos Wastes.",
+      "de": "Unter der Führung der Khankönigin Miska kommen die Gospodaren aus dem Osten, drängen die Stämme der Ungol zurück und lassen sich nördlich des Imperiums nieder. Im Jahr 1524 gründet ihre Tochter Shoika die Stadt Kislev und nimmt als Erste den Titel einer Zarin an. Das Königreich wird zum Bollwerk der Menschheit gegen die Chaoswüste."
+    },
     "ere": "trois-empereurs",
     "regions": [
+      "kislev"
+    ],
+    "lieux": [
       "kislev"
     ],
     "factions": [
@@ -382,20 +738,40 @@
     ],
     "importance": 2,
     "fiabilite": "etabli",
-    "note": "Lexicanum date l'arrivée de Miska en 1494 CI et la fondation de la cité par Shoika en 1524 CI. Certaines pages attribuent la fondation à Miska elle-même, de façon plus vague.",
+    "note": {
+      "fr": "Lexicanum date l'arrivée de Miska en 1494 CI et la fondation de la cité par Shoika en 1524 CI. Certaines pages attribuent la fondation à Miska elle-même, de façon plus vague.",
+      "en": "Lexicanum dates Miska's arrival to 1494 IC and Shoika's founding of the city to 1524 IC. Some pages attribute the founding to Miska herself, more vaguely.",
+      "de": "Lexicanum datiert Miskas Ankunft auf 1494 IK und die Gründung der Stadt durch Shoika auf 1524 IK. Manche Seiten schreiben die Gründung etwas ungenauer Miska selbst zu."
+    },
     "sources": [
       {
-        "titre": "Realm of the Ice Queen, Warhammer Fantasy Roleplay 2e édition (2007)",
-        "detail": "chapitre historique",
+        "titre": {
+          "fr": "Realm of the Ice Queen, Warhammer Fantasy Roleplay 2e édition (2007)",
+          "en": "Realm of the Ice Queen, Warhammer Fantasy Roleplay 2nd edition (2007)",
+          "de": "Realm of the Ice Queen, Warhammer Fantasy Roleplay 2. Edition (2007)"
+        },
+        "detail": {
+          "fr": "chapitre historique",
+          "en": "history chapter",
+          "de": "Geschichtskapitel"
+        },
         "url": ""
       },
       {
-        "titre": "Lexicanum, page Gospodar",
+        "titre": {
+          "fr": "Lexicanum, page Gospodar",
+          "en": "Lexicanum, Gospodar page",
+          "de": "Lexicanum, Seite Gospodar"
+        },
         "detail": "",
         "url": "https://whfb.lexicanum.com/wiki/Gospodar"
       },
       {
-        "titre": "Lexicanum, page Miska",
+        "titre": {
+          "fr": "Lexicanum, page Miska",
+          "en": "Lexicanum, Miska page",
+          "de": "Lexicanum, Seite Miska"
+        },
         "detail": "",
         "url": "https://whfb.lexicanum.com/wiki/Miska"
       }
@@ -406,26 +782,53 @@
     "annee": 1547,
     "fin": null,
     "approx": false,
-    "titre": "Le comte du Middenland se proclame empereur",
-    "resume": "Le comte du Middenland revendique à son tour la couronne, ce qui porte à trois le nombre de prétendants simultanés. Ses successeurs, appelés les Empereurs loups, s'appuient sur le culte d'Ulric. La rivalité entre les lignées du Talabecland, du Middenland et les empereurs élus déchire l'Empire pendant des siècles.",
+    "titre": {
+      "fr": "Le comte du Middenland se proclame empereur",
+      "en": "The Count of Middenland proclaims himself Emperor",
+      "de": "Der Graf von Middenland ruft sich zum Kaiser aus"
+    },
+    "resume": {
+      "fr": "Le comte du Middenland revendique à son tour la couronne, ce qui porte à trois le nombre de prétendants simultanés. Ses successeurs, appelés les Empereurs loups, s'appuient sur le culte d'Ulric. La rivalité entre les lignées du Talabecland, du Middenland et les empereurs élus déchire l'Empire pendant des siècles.",
+      "en": "The Count of Middenland in turn lays claim to the crown, bringing the number of simultaneous claimants to three. His successors, known as the Wolf Emperors, rely on the cult of Ulric. The rivalry between the lines of Talabecland and Middenland and the elected Emperors tears the Empire apart for centuries.",
+      "de": "Nun erhebt auch der Graf von Middenland Anspruch auf die Krone, womit es drei gleichzeitige Thronanwärter gibt. Seine Nachfolger, die Wolfskaiser genannt werden, stützen sich auf den Ulrickult. Die Rivalität zwischen den Linien von Talabecland und Middenland und den gewählten Kaisern zerreißt das Imperium über Jahrhunderte."
+    },
     "ere": "trois-empereurs",
     "regions": [
       "empire"
+    ],
+    "lieux": [
+      "middenheim"
     ],
     "factions": [
       "empire"
     ],
     "importance": 3,
     "fiabilite": "divergent",
-    "note": "Lexicanum date la proclamation de 1547 CI mais signale des sources contradictoires sur le premier Empereur loup (Siegfried selon une liste, d'autres noms ailleurs).",
+    "note": {
+      "fr": "Lexicanum date la proclamation de 1547 CI mais signale des sources contradictoires sur le premier Empereur loup (Siegfried selon une liste, d'autres noms ailleurs).",
+      "en": "Lexicanum dates the proclamation to 1547 IC but notes conflicting sources on the first Wolf Emperor (Siegfried according to one list, other names elsewhere).",
+      "de": "Lexicanum datiert die Ausrufung auf 1547 IK, verweist aber auf widersprüchliche Quellen zum ersten Wolfskaiser (Siegfried nach einer Liste, andernorts andere Namen)."
+    },
     "sources": [
       {
-        "titre": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2e édition (2005)",
-        "detail": "chapitre historique",
+        "titre": {
+          "fr": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2e édition (2005)",
+          "en": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2nd edition (2005)",
+          "de": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2. Edition (2005)"
+        },
+        "detail": {
+          "fr": "chapitre historique",
+          "en": "history chapter",
+          "de": "Geschichtskapitel"
+        },
         "url": ""
       },
       {
-        "titre": "Lexicanum, page Elector Count of Middenland",
+        "titre": {
+          "fr": "Lexicanum, page Elector Count of Middenland",
+          "en": "Lexicanum, Elector Count of Middenland page",
+          "de": "Lexicanum, Seite Elector Count of Middenland"
+        },
         "detail": "",
         "url": "https://whfb.lexicanum.com/wiki/Elector_Count_of_Middenland"
       }
@@ -436,12 +839,25 @@
     "annee": 1707,
     "fin": null,
     "approx": false,
-    "titre": "La Waaagh! de Gorbad Griffe-de-Fer",
-    "resume": "Le chef orque Gorbad Griffe-de-Fer franchit les montagnes, ravage le Solland et tue son comte électeur Eldred, emportant son Croc runique. Il assiège ensuite Altdorf, où l'un des prétendants au trône, Sigismund, trouve la mort. Le Solland ne se relève pas et disparaît en tant que province électorale.",
+    "titre": {
+      "fr": "La Waaagh! de Gorbad Griffe-de-Fer",
+      "en": "The Waaagh! of Gorbad Ironclaw",
+      "de": "Der Waaagh! von Gorbad Eisenklaue"
+    },
+    "resume": {
+      "fr": "Le chef orque Gorbad Griffe-de-Fer franchit les montagnes, ravage le Solland et tue son comte électeur Eldred, emportant son Croc runique. Il assiège ensuite Altdorf, où l'un des prétendants au trône, Sigismund, trouve la mort. Le Solland ne se relève pas et disparaît en tant que province électorale.",
+      "en": "The Orc warlord Gorbad Ironclaw crosses the mountains, ravages Solland and kills its Elector Count Eldred, carrying off his Runefang. He then besieges Altdorf, where one of the claimants to the throne, Sigismund, is killed. Solland never recovers and disappears as an electoral province.",
+      "de": "Der Orkboss Gorbad Eisenklaue überquert die Berge, verwüstet Solland, tötet dessen Kurfürsten Eldred und erbeutet seine Runenklinge. Danach belagert er Altdorf, wo einer der Thronanwärter, Sigismund, den Tod findet. Solland erholt sich nie wieder und verschwindet als Kurfürstentum."
+    },
     "ere": "trois-empereurs",
     "regions": [
       "empire",
       "montagnes"
+    ],
+    "lieux": [
+      "col-du-feu-noir",
+      "pfeildorf",
+      "altdorf"
     ],
     "factions": [
       "peaux-vertes",
@@ -449,20 +865,40 @@
     ],
     "importance": 3,
     "fiabilite": "divergent",
-    "note": "La date de 1707 CI fait consensus. Les sources divergent sur la mort de Sigismund : tué par la vouivre de Gorbad selon certains résumés, par son armée en général selon d'autres.",
+    "note": {
+      "fr": "La date de 1707 CI fait consensus. Les sources divergent sur la mort de Sigismund : tué par la vouivre de Gorbad selon certains résumés, par son armée en général selon d'autres.",
+      "en": "The date of 1707 IC is undisputed. Sources differ on Sigismund's death: killed by Gorbad's wyvern according to some summaries, by his army in general according to others.",
+      "de": "Das Jahr 1707 IK ist unumstritten. Über Sigismunds Tod sind sich die Quellen uneinig: Nach manchen Zusammenfassungen tötete ihn Gorbads Lindwurm, nach anderen sein Heer im Allgemeinen."
+    },
     "sources": [
       {
-        "titre": "Warhammer Armies: Orcs & Goblins, 6e édition (2000)",
-        "detail": "section historique",
+        "titre": {
+          "fr": "Warhammer Armies: Orcs & Goblins, 6e édition (2000)",
+          "en": "Warhammer Armies: Orcs & Goblins, 6th edition (2000)",
+          "de": "Warhammer Armies: Orcs & Goblins, 6. Edition (2000)"
+        },
+        "detail": {
+          "fr": "section historique",
+          "en": "historical section",
+          "de": "Geschichtsteil"
+        },
         "url": ""
       },
       {
-        "titre": "Lexicanum, page Solland",
+        "titre": {
+          "fr": "Lexicanum, page Solland",
+          "en": "Lexicanum, Solland page",
+          "de": "Lexicanum, Seite Solland"
+        },
         "detail": "",
         "url": "https://whfb.lexicanum.com/wiki/Solland"
       },
       {
-        "titre": "Lexicanum, page Battle of Solland's Crown",
+        "titre": {
+          "fr": "Lexicanum, page Battle of Solland's Crown",
+          "en": "Lexicanum, Battle of Solland's Crown page",
+          "de": "Lexicanum, Seite Battle of Solland's Crown"
+        },
         "detail": "",
         "url": "https://whfb.lexicanum.com/wiki/Battle_of_Solland%27s_Crown"
       }
@@ -473,11 +909,22 @@
     "annee": 1797,
     "fin": null,
     "approx": false,
-    "titre": "Vlad von Carstein prend la Sylvanie",
-    "resume": "Au chevet du dernier comte von Drak, un noble inconnu nommé Vlad von Carstein épouse sa fille Isabella et hérite du comté. La Sylvanie passe sous la coupe d'une dynastie de vampires qui y règne en secret. C'est le point de départ des guerres des Comtes vampires.",
+    "titre": {
+      "fr": "Vlad von Carstein prend la Sylvanie",
+      "en": "Vlad von Carstein takes Sylvania",
+      "de": "Vlad von Carstein übernimmt Sylvania"
+    },
+    "resume": {
+      "fr": "Au chevet du dernier comte von Drak, un noble inconnu nommé Vlad von Carstein épouse sa fille Isabella et hérite du comté. La Sylvanie passe sous la coupe d'une dynastie de vampires qui y règne en secret. C'est le point de départ des guerres des Comtes vampires.",
+      "en": "At the bedside of the last Count von Drak, an unknown nobleman named Vlad von Carstein marries his daughter Isabella and inherits the county. Sylvania falls under the grip of a dynasty of vampires who rule it in secret. This is the starting point of the Vampire Wars.",
+      "de": "Am Sterbebett des letzten Grafen von Drak heiratet ein unbekannter Adliger namens Vlad von Carstein dessen Tochter Isabella und erbt die Grafschaft. Sylvania gerät unter die Herrschaft einer Vampirdynastie, die dort im Verborgenen regiert. Dies ist der Ausgangspunkt der Vampirkriege."
+    },
     "ere": "trois-empereurs",
     "regions": [
       "empire"
+    ],
+    "lieux": [
+      "drakenhof"
     ],
     "factions": [
       "vampires",
@@ -488,12 +935,24 @@
     "note": "",
     "sources": [
       {
-        "titre": "Warhammer Armies: Vampire Counts, 7e édition (2008)",
-        "detail": "section historique",
+        "titre": {
+          "fr": "Warhammer Armies: Vampire Counts, 7e édition (2008)",
+          "en": "Warhammer Armies: Vampire Counts, 7th edition (2008)",
+          "de": "Warhammer Armies: Vampire Counts, 7. Edition (2008)"
+        },
+        "detail": {
+          "fr": "section historique",
+          "en": "historical section",
+          "de": "Geschichtsteil"
+        },
         "url": ""
       },
       {
-        "titre": "Lexicanum, page Vlad von Carstein",
+        "titre": {
+          "fr": "Lexicanum, page Vlad von Carstein",
+          "en": "Lexicanum, Vlad von Carstein page",
+          "de": "Lexicanum, Seite Vlad von Carstein"
+        },
         "detail": "",
         "url": "https://whfb.lexicanum.com/wiki/Vlad"
       }
@@ -504,31 +963,63 @@
     "annee": 1979,
     "fin": null,
     "approx": false,
-    "titre": "Élection avortée de Magritta",
-    "resume": "Les électeurs, sans doute achetés par les marchands de Marienburg, choisissent la jeune comtesse Magritta. Le Grand Théogoniste refuse de reconnaître ce vote, ce qui met fin de fait à la lignée des empereurs élus. L'Empire bascule dans une anarchie où comtes et cités-États agissent pour leur propre compte.",
+    "titre": {
+      "fr": "Élection avortée de Magritta",
+      "en": "The failed election of Magritta",
+      "de": "Die gescheiterte Wahl Magrittas"
+    },
+    "resume": {
+      "fr": "Les électeurs, sans doute achetés par les marchands de Marienburg, choisissent la jeune comtesse Magritta. Le Grand Théogoniste refuse de reconnaître ce vote, ce qui met fin de fait à la lignée des empereurs élus. L'Empire bascule dans une anarchie où comtes et cités-États agissent pour leur propre compte.",
+      "en": "The electors, probably bribed by the merchants of Marienburg, choose the young Countess Magritta. The Grand Theogonist refuses to recognise this vote, which in effect ends the line of elected Emperors. The Empire falls into anarchy, with counts and city-states acting on their own account.",
+      "de": "Die Kurfürsten, vermutlich von den Kaufleuten Marienburgs bestochen, wählen die junge Gräfin Magritta. Der Großtheogonist erkennt diese Wahl nicht an, womit die Linie der gewählten Kaiser faktisch endet. Das Imperium stürzt in eine Anarchie, in der Grafen und Stadtstaaten auf eigene Rechnung handeln."
+    },
     "ere": "trois-empereurs",
     "regions": [
       "empire"
+    ],
+    "lieux": [
+      "marienburg",
+      "altdorf"
     ],
     "factions": [
       "empire"
     ],
     "importance": 3,
     "fiabilite": "etabli",
-    "note": "Selon les auteurs de The Old World (Arcane Journal: Empire of Man, 2024), l'âge des Trois Empereurs au sens strict s'achève ici et laisse place à l'Anarchie, qui est le cadre du jeu. Le référentiel garde l'ère trois-empereurs jusqu'en 2304.",
+    "note": {
+      "fr": "Selon les auteurs de The Old World (Arcane Journal: Empire of Man, 2024), l'âge des Trois Empereurs au sens strict s'achève ici et laisse place à l'Anarchie, qui est le cadre du jeu. Le référentiel garde l'ère trois-empereurs jusqu'en 2304.",
+      "en": "According to the authors of The Old World (Arcane Journal: Empire of Man, 2024), the Age of Three Emperors in the strict sense ends here and gives way to the Anarchy, which is the setting of the game. This reference keeps the three-emperors era until 2304.",
+      "de": "Nach den Autoren von The Old World (Arcane Journal: Empire of Man, 2024) endet hier das Zeitalter der Drei Kaiser im engeren Sinn und geht in die Anarchie über, die den Rahmen des Spiels bildet. Diese Übersicht führt die Ära der Drei Kaiser bis 2304 weiter."
+    },
     "sources": [
       {
-        "titre": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2e édition (2005)",
-        "detail": "chapitre historique",
+        "titre": {
+          "fr": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2e édition (2005)",
+          "en": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2nd edition (2005)",
+          "de": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2. Edition (2005)"
+        },
+        "detail": {
+          "fr": "chapitre historique",
+          "en": "history chapter",
+          "de": "Geschichtskapitel"
+        },
         "url": ""
       },
       {
         "titre": "Warhammer: The Old World, Arcane Journal: Empire of Man (2024)",
-        "detail": "section historique",
+        "detail": {
+          "fr": "section historique",
+          "en": "historical section",
+          "de": "Geschichtsteil"
+        },
         "url": ""
       },
       {
-        "titre": "Lexicanum, page Elector Count of Marienburg",
+        "titre": {
+          "fr": "Lexicanum, page Elector Count of Marienburg",
+          "en": "Lexicanum, Elector Count of Marienburg page",
+          "de": "Lexicanum, Seite Elector Count of Marienburg"
+        },
         "detail": "",
         "url": "https://whfb.lexicanum.com/wiki/Elector_Count_of_Marienburg"
       },
@@ -544,11 +1035,22 @@
     "annee": 1999,
     "fin": null,
     "approx": false,
-    "titre": "La comète détruit Mordheim",
-    "resume": "Une comète à deux queues s'écrase sur Mordheim, capitale de l'Ostermark, que beaucoup prenaient pour un signe du retour de Sigmar. La ville est anéantie et ses ruines, gorgées de pierre distordante, attirent mercenaires, cultistes et Skavens. L'événement symbolise la décadence d'un Empire sans empereur reconnu.",
+    "titre": {
+      "fr": "La comète détruit Mordheim",
+      "en": "The comet destroys Mordheim",
+      "de": "Der Komet zerstört Mordheim"
+    },
+    "resume": {
+      "fr": "Une comète à deux queues s'écrase sur Mordheim, capitale de l'Ostermark, que beaucoup prenaient pour un signe du retour de Sigmar. La ville est anéantie et ses ruines, gorgées de pierre distordante, attirent mercenaires, cultistes et Skavens. L'événement symbolise la décadence d'un Empire sans empereur reconnu.",
+      "en": "A twin-tailed comet crashes into Mordheim, capital of Ostermark, which many had taken as a sign of Sigmar's return. The city is wiped out, and its ruins, saturated with warpstone, attract mercenaries, cultists and Skaven. The event symbolises the decline of an Empire without a recognised Emperor.",
+      "de": "Ein zweischweifiger Komet schlägt in Mordheim ein, der Hauptstadt des Ostermark, den viele für ein Zeichen der Rückkehr Sigmars gehalten hatten. Die Stadt wird ausgelöscht, und ihre mit Warpstein durchsetzten Ruinen locken Söldner, Kultisten und Skaven an. Das Ereignis steht sinnbildlich für den Niedergang eines Imperiums ohne anerkannten Kaiser."
+    },
     "ere": "trois-empereurs",
     "regions": [
       "empire"
+    ],
+    "lieux": [
+      "mordheim"
     ],
     "factions": [
       "empire",
@@ -557,15 +1059,31 @@
     ],
     "importance": 2,
     "fiabilite": "etabli",
-    "note": "Date donnée par le jeu Mordheim (1999), sorti la même année réelle.",
+    "note": {
+      "fr": "Date donnée par le jeu Mordheim (1999), sorti la même année réelle.",
+      "en": "Date given by the game Mordheim (1999), released in the same real-world year.",
+      "de": "Datum aus dem Spiel Mordheim (1999), das im selben realen Jahr erschien."
+    },
     "sources": [
       {
-        "titre": "Mordheim, livre de règles (1999)",
-        "detail": "introduction historique",
+        "titre": {
+          "fr": "Mordheim, livre de règles (1999)",
+          "en": "Mordheim, rulebook (1999)",
+          "de": "Mordheim, Regelbuch (1999)"
+        },
+        "detail": {
+          "fr": "introduction historique",
+          "en": "historical introduction",
+          "de": "historische Einleitung"
+        },
         "url": ""
       },
       {
-        "titre": "Lexicanum, page Mordheim",
+        "titre": {
+          "fr": "Lexicanum, page Mordheim",
+          "en": "Lexicanum, Mordheim page",
+          "de": "Lexicanum, Seite Mordheim"
+        },
         "detail": "",
         "url": "https://whfb.lexicanum.com/wiki/Mordheim"
       }
@@ -576,11 +1094,23 @@
     "annee": 2010,
     "fin": 2051,
     "approx": false,
-    "titre": "Première guerre des Comtes vampires",
-    "resume": "Vlad von Carstein révèle sa nature et lance ses armées de morts-vivants contre les provinces voisines. Profitant des divisions de l'Empire, il remporte de nombreuses victoires et finit par assiéger Altdorf. Il y est détruit sur les remparts, et sa mort plonge ses héritiers dans les querelles.",
+    "titre": {
+      "fr": "Première guerre des Comtes vampires",
+      "en": "First Vampire War",
+      "de": "Erster Vampirkrieg"
+    },
+    "resume": {
+      "fr": "Vlad von Carstein révèle sa nature et lance ses armées de morts-vivants contre les provinces voisines. Profitant des divisions de l'Empire, il remporte de nombreuses victoires et finit par assiéger Altdorf. Il y est détruit sur les remparts, et sa mort plonge ses héritiers dans les querelles.",
+      "en": "Vlad von Carstein reveals his true nature and sends his undead armies against the neighbouring provinces. Taking advantage of the Empire's divisions, he wins many victories and finally besieges Altdorf. He is destroyed on its walls, and his death plunges his heirs into infighting.",
+      "de": "Vlad von Carstein enthüllt sein wahres Wesen und schickt seine untoten Heere gegen die benachbarten Provinzen. Er nutzt die Spaltung des Imperiums, erringt zahlreiche Siege und belagert schließlich Altdorf. Auf dessen Mauern wird er vernichtet, und sein Tod stürzt seine Erben in Streitigkeiten."
+    },
     "ere": "trois-empereurs",
     "regions": [
       "empire"
+    ],
+    "lieux": [
+      "drakenhof",
+      "altdorf"
     ],
     "factions": [
       "vampires",
@@ -588,20 +1118,40 @@
     ],
     "importance": 3,
     "fiabilite": "divergent",
-    "note": "Les dates 2010 et 2051 CI sont celles des livres d'armée des Comtes vampires. Les sources divergent sur l'auteur de sa destruction : Lexicanum cite Hans Schliffen, le wiki fandom le Grand Théogoniste Wilhelm qui l'empale. Les deux s'accordent sur la mort de Wilhelm dans l'affrontement.",
+    "note": {
+      "fr": "Les dates 2010 et 2051 CI sont celles des livres d'armée des Comtes vampires. Les sources divergent sur l'auteur de sa destruction : Lexicanum cite Hans Schliffen, le wiki fandom le Grand Théogoniste Wilhelm qui l'empale. Les deux s'accordent sur la mort de Wilhelm dans l'affrontement.",
+      "en": "The dates 2010 and 2051 IC are those of the Vampire Counts army books. Sources differ on who destroyed him: Lexicanum names Hans Schliffen, the fandom wiki names Grand Theogonist Wilhelm, who impales him. Both agree that Wilhelm died in the struggle.",
+      "de": "Die Jahre 2010 und 2051 IK stammen aus den Armeebüchern der Vampirfürsten. Wer ihn vernichtete, ist in den Quellen umstritten: Lexicanum nennt Hans Schliffen, das Fandom-Wiki den Großtheogonisten Wilhelm, der ihn pfählt. Beide sind sich einig, dass Wilhelm bei dem Kampf ums Leben kam."
+    },
     "sources": [
       {
-        "titre": "Warhammer Armies: Vampire Counts, 7e édition (2008)",
-        "detail": "section historique",
+        "titre": {
+          "fr": "Warhammer Armies: Vampire Counts, 7e édition (2008)",
+          "en": "Warhammer Armies: Vampire Counts, 7th edition (2008)",
+          "de": "Warhammer Armies: Vampire Counts, 7. Edition (2008)"
+        },
+        "detail": {
+          "fr": "section historique",
+          "en": "historical section",
+          "de": "Geschichtsteil"
+        },
         "url": ""
       },
       {
-        "titre": "Lexicanum, page Vlad von Carstein",
+        "titre": {
+          "fr": "Lexicanum, page Vlad von Carstein",
+          "en": "Lexicanum, Vlad von Carstein page",
+          "de": "Lexicanum, Seite Vlad von Carstein"
+        },
         "detail": "",
         "url": "https://whfb.lexicanum.com/wiki/Vlad"
       },
       {
-        "titre": "Lexicanum, page Von Carstein Dynasty",
+        "titre": {
+          "fr": "Lexicanum, page Von Carstein Dynasty",
+          "en": "Lexicanum, Von Carstein Dynasty page",
+          "de": "Lexicanum, Seite Von Carstein Dynasty"
+        },
         "detail": "",
         "url": "https://whfb.lexicanum.com/wiki/Von_Carstein"
       }
@@ -612,12 +1162,21 @@
     "annee": 2121,
     "fin": null,
     "approx": false,
-    "titre": "Chute de Konrad à Grim Moor",
-    "resume": "Konrad von Carstein, le comte sanglant devenu fou, mène une campagne sanguinaire pour égaler Vlad. Une alliance de Nains et d'humains menée par le comte Helmar de Marienburg l'écrase à la bataille de Grim Moor. Sa mort laisse le champ libre au plus rusé des von Carstein, Mannfred.",
+    "titre": {
+      "fr": "Chute de Konrad à Grim Moor",
+      "en": "Fall of Konrad at Grim Moor",
+      "de": "Konrads Fall bei Grim Moor"
+    },
+    "resume": {
+      "fr": "Konrad von Carstein, le comte sanglant devenu fou, mène une campagne sanguinaire pour égaler Vlad. Une alliance de Nains et d'humains menée par le comte Helmar de Marienburg l'écrase à la bataille de Grim Moor. Sa mort laisse le champ libre au plus rusé des von Carstein, Mannfred.",
+      "en": "Konrad von Carstein, the Bloody Count who has gone mad, wages a murderous campaign to match Vlad. An alliance of Dwarfs and humans led by Count Helmar of Marienburg crushes him at the Battle of Grim Moor. His death leaves the field open to the most cunning of the von Carsteins, Mannfred.",
+      "de": "Konrad von Carstein, der wahnsinnig gewordene Blutgraf, führt einen blutigen Feldzug, um Vlad ebenbürtig zu werden. Ein Bündnis aus Zwergen und Menschen unter Graf Helmar von Marienburg vernichtet ihn in der Schlacht von Grim Moor. Sein Tod macht den Weg frei für den listigsten der von Carsteins, Mannfred."
+    },
     "ere": "trois-empereurs",
     "regions": [
       "empire"
     ],
+    "lieux": [],
     "factions": [
       "vampires",
       "empire",
@@ -628,12 +1187,24 @@
     "note": "",
     "sources": [
       {
-        "titre": "Warhammer Armies: Vampire Counts, 7e édition (2008)",
-        "detail": "section historique",
+        "titre": {
+          "fr": "Warhammer Armies: Vampire Counts, 7e édition (2008)",
+          "en": "Warhammer Armies: Vampire Counts, 7th edition (2008)",
+          "de": "Warhammer Armies: Vampire Counts, 7. Edition (2008)"
+        },
+        "detail": {
+          "fr": "section historique",
+          "en": "historical section",
+          "de": "Geschichtsteil"
+        },
         "url": ""
       },
       {
-        "titre": "Lexicanum, page Konrad von Carstein",
+        "titre": {
+          "fr": "Lexicanum, page Konrad von Carstein",
+          "en": "Lexicanum, Konrad von Carstein page",
+          "de": "Lexicanum, Seite Konrad von Carstein"
+        },
         "detail": "",
         "url": "https://whfb.lexicanum.com/wiki/Konrad"
       }
@@ -644,11 +1215,22 @@
     "annee": 2132,
     "fin": null,
     "approx": false,
-    "titre": "La guerre d'hiver de Mannfred",
-    "resume": "Mannfred von Carstein lance une armée de morts-vivants sur Altdorf au cœur de l'hiver, espérant surprendre une capitale désarmée. Il est repoussé grâce à la magie du Grand Théogoniste, qui l'oblige à battre en retraite. La guerre reprend ensuite pendant plus d'une décennie.",
+    "titre": {
+      "fr": "La guerre d'hiver de Mannfred",
+      "en": "Mannfred's Winter War",
+      "de": "Mannfreds Winterkrieg"
+    },
+    "resume": {
+      "fr": "Mannfred von Carstein lance une armée de morts-vivants sur Altdorf au cœur de l'hiver, espérant surprendre une capitale désarmée. Il est repoussé grâce à la magie du Grand Théogoniste, qui l'oblige à battre en retraite. La guerre reprend ensuite pendant plus d'une décennie.",
+      "en": "Mannfred von Carstein sends an undead army against Altdorf in the depths of winter, hoping to surprise a defenceless capital. He is driven back by the magic of the Grand Theogonist, who forces him to retreat. The war then resumes for more than a decade.",
+      "de": "Mannfred von Carstein schickt mitten im Winter ein untotes Heer gegen Altdorf, in der Hoffnung, eine wehrlose Hauptstadt zu überraschen. Die Magie des Großtheogonisten schlägt ihn zurück und zwingt ihn zum Rückzug. Danach geht der Krieg noch mehr als ein Jahrzehnt weiter."
+    },
     "ere": "trois-empereurs",
     "regions": [
       "empire"
+    ],
+    "lieux": [
+      "altdorf"
     ],
     "factions": [
       "vampires",
@@ -659,12 +1241,24 @@
     "note": "",
     "sources": [
       {
-        "titre": "Warhammer Armies: Vampire Counts, 7e édition (2008)",
-        "detail": "section historique",
+        "titre": {
+          "fr": "Warhammer Armies: Vampire Counts, 7e édition (2008)",
+          "en": "Warhammer Armies: Vampire Counts, 7th edition (2008)",
+          "de": "Warhammer Armies: Vampire Counts, 7. Edition (2008)"
+        },
+        "detail": {
+          "fr": "section historique",
+          "en": "historical section",
+          "de": "Geschichtsteil"
+        },
         "url": ""
       },
       {
-        "titre": "Lexicanum, page Mannfred von Carstein",
+        "titre": {
+          "fr": "Lexicanum, page Mannfred von Carstein",
+          "en": "Lexicanum, Mannfred von Carstein page",
+          "de": "Lexicanum, Seite Mannfred von Carstein"
+        },
         "detail": "",
         "url": "https://whfb.lexicanum.com/wiki/Mannfred"
       }
@@ -675,11 +1269,22 @@
     "annee": 2145,
     "fin": null,
     "approx": false,
-    "titre": "Bataille de Hel Fenn",
-    "resume": "Le comte Martin de Stirland contraint Mannfred à combattre dans les marais de Hel Fenn et l'abat au terme d'une bataille indécise. Son corps disparaît dans la tourbe, ce qui laisse planer le doute sur sa mort. La victoire met fin aux guerres des Comtes vampires et le Stirland annexe la Sylvanie.",
+    "titre": {
+      "fr": "Bataille de Hel Fenn",
+      "en": "Battle of Hel Fenn",
+      "de": "Schlacht von Hel Fenn"
+    },
+    "resume": {
+      "fr": "Le comte Martin de Stirland contraint Mannfred à combattre dans les marais de Hel Fenn et l'abat au terme d'une bataille indécise. Son corps disparaît dans la tourbe, ce qui laisse planer le doute sur sa mort. La victoire met fin aux guerres des Comtes vampires et le Stirland annexe la Sylvanie.",
+      "en": "Count Martin of Stirland forces Mannfred to fight in the marshes of Hel Fenn and strikes him down at the end of an indecisive battle. His body vanishes into the peat, leaving doubt about his death. The victory ends the Vampire Wars, and Stirland annexes Sylvania.",
+      "de": "Graf Martin von Stirland zwingt Mannfred, in den Sümpfen von Hel Fenn zu kämpfen, und streckt ihn am Ende einer unentschiedenen Schlacht nieder. Sein Leichnam verschwindet im Moor, weshalb Zweifel an seinem Tod bleiben. Der Sieg beendet die Vampirkriege, und Stirland gliedert sich Sylvania an."
+    },
     "ere": "trois-empereurs",
     "regions": [
       "empire"
+    ],
+    "lieux": [
+      "hel-fenn"
     ],
     "factions": [
       "vampires",
@@ -690,12 +1295,24 @@
     "note": "",
     "sources": [
       {
-        "titre": "Warhammer Armies: Vampire Counts, 7e édition (2008)",
-        "detail": "section historique",
+        "titre": {
+          "fr": "Warhammer Armies: Vampire Counts, 7e édition (2008)",
+          "en": "Warhammer Armies: Vampire Counts, 7th edition (2008)",
+          "de": "Warhammer Armies: Vampire Counts, 7. Edition (2008)"
+        },
+        "detail": {
+          "fr": "section historique",
+          "en": "historical section",
+          "de": "Geschichtsteil"
+        },
         "url": ""
       },
       {
-        "titre": "Lexicanum, page Mannfred von Carstein",
+        "titre": {
+          "fr": "Lexicanum, page Mannfred von Carstein",
+          "en": "Lexicanum, Mannfred von Carstein page",
+          "de": "Lexicanum, Seite Mannfred von Carstein"
+        },
         "detail": "",
         "url": "https://whfb.lexicanum.com/wiki/Mannfred"
       }
@@ -706,12 +1323,23 @@
     "annee": 2276,
     "fin": null,
     "approx": false,
-    "titre": "Settra envahit les Royaumes frontaliers",
-    "resume": "Settra l'Impérissable, roi des rois de Nehekhara, lance ses légions de squelettes contre les Royaumes frontaliers pour châtier les pillards qui profanent ses terres. C'est l'année retenue par les livres de The Old World pour leur cadre de jeu, quelques décennies avant la Grande Guerre contre le Chaos. Elle offre un instantané d'un Vieux Monde morcelé, sans empereur reconnu.",
+    "titre": {
+      "fr": "Settra envahit les Royaumes frontaliers",
+      "en": "Settra invades the Border Princes",
+      "de": "Settra fällt in die Grenzgrafschaften ein"
+    },
+    "resume": {
+      "fr": "Settra l'Impérissable, roi des rois de Nehekhara, lance ses légions de squelettes contre les Royaumes frontaliers pour châtier les pillards qui profanent ses terres. C'est l'année retenue par les livres de The Old World pour leur cadre de jeu, quelques décennies avant la Grande Guerre contre le Chaos. Elle offre un instantané d'un Vieux Monde morcelé, sans empereur reconnu.",
+      "en": "Settra the Imperishable, King of Kings of Nehekhara, sends his skeleton legions against the Border Princes to punish the raiders who desecrate his lands. This is the year chosen by The Old World books for their game setting, a few decades before the Great War against Chaos. It offers a snapshot of a fragmented Old World with no recognised Emperor.",
+      "de": "Settra der Unvergängliche, König der Könige von Nehekhara, schickt seine Skelettlegionen gegen die Grenzgrafschaften, um die Plünderer zu bestrafen, die sein Land entweihen. Es ist das Jahr, das die Bücher von The Old World für ihren Spielrahmen gewählt haben, einige Jahrzehnte vor dem Großen Krieg gegen das Chaos. Es zeigt eine zersplitterte Alte Welt ohne anerkannten Kaiser."
+    },
     "ere": "trois-empereurs",
     "regions": [
       "royaumes-frontaliers",
       "sud"
+    ],
+    "lieux": [
+      "nehekhara"
     ],
     "factions": [
       "rois-des-tombes",
@@ -719,10 +1347,18 @@
     ],
     "importance": 3,
     "fiabilite": "etabli",
-    "note": "Période du jeu The Old World. Selon la table ronde des concepteurs publiée par Games Workshop, la date figurant dans les livres est 2276 CI, année de l'invasion de Settra. Développé dans l'Arcane Journal The War of Settra's Fury (2025).",
+    "note": {
+      "fr": "Période du jeu The Old World. Selon la table ronde des concepteurs publiée par Games Workshop, la date figurant dans les livres est 2276 CI, année de l'invasion de Settra. Développé dans l'Arcane Journal The War of Settra's Fury (2025).",
+      "en": "Period of the game The Old World. According to the designers' round table published by Games Workshop, the date in the books is 2276 IC, the year of Settra's invasion. Developed in the Arcane Journal The War of Settra's Fury (2025).",
+      "de": "Zeitraum des Spiels The Old World. Nach der von Games Workshop veröffentlichten Gesprächsrunde der Entwickler lautet das Datum in den Büchern 2276 IK, das Jahr von Settras Einfall. Ausgearbeitet im Arcane Journal The War of Settra's Fury (2025)."
+    },
     "sources": [
       {
-        "titre": "Warhammer: The Old World, livre de règles (2024)",
+        "titre": {
+          "fr": "Warhammer: The Old World, livre de règles (2024)",
+          "en": "Warhammer: The Old World, rulebook (2024)",
+          "de": "Warhammer: The Old World, Regelbuch (2024)"
+        },
         "detail": "",
         "url": ""
       },
@@ -743,12 +1379,25 @@
     "annee": 2302,
     "fin": 2303,
     "approx": false,
-    "titre": "Grande Guerre contre le Chaos",
-    "resume": "Les hordes du seigneur du Chaos Asavar Kul déferlent sur Kislev et assiègent Praag, qui est corrompue au point que ses murs se mêlent aux corps de ses habitants. Magnus de Nuln rassemble les provinces divisées et marche au secours de Kislev avec l'aide des Nains et des Hauts Elfes. La victoire devant les portes de Kislev sauve le nord du Vieux Monde.",
+    "titre": {
+      "fr": "Grande Guerre contre le Chaos",
+      "en": "Great War against Chaos",
+      "de": "Großer Krieg gegen das Chaos"
+    },
+    "resume": {
+      "fr": "Les hordes du seigneur du Chaos Asavar Kul déferlent sur Kislev et assiègent Praag, qui est corrompue au point que ses murs se mêlent aux corps de ses habitants. Magnus de Nuln rassemble les provinces divisées et marche au secours de Kislev avec l'aide des Nains et des Hauts Elfes. La victoire devant les portes de Kislev sauve le nord du Vieux Monde.",
+      "en": "The hordes of the Chaos lord Asavar Kul sweep over Kislev and besiege Praag, which is corrupted to the point that its walls merge with the bodies of its inhabitants. Magnus of Nuln rallies the divided provinces and marches to the relief of Kislev with the help of the Dwarfs and the High Elves. The victory before the gates of Kislev saves the north of the Old World.",
+      "de": "Die Horden des Chaosfürsten Asavar Kul überrennen Kislev und belagern Praag, das so verderbt wird, dass seine Mauern mit den Körpern seiner Bewohner verschmelzen. Magnus von Nuln sammelt die zerstrittenen Provinzen und zieht mit Hilfe der Zwerge und der Hochelfen Kislev zu Hilfe. Der Sieg vor den Toren Kislevs rettet den Norden der Alten Welt."
+    },
     "ere": "trois-empereurs",
     "regions": [
       "kislev",
       "empire",
+      "desolations"
+    ],
+    "lieux": [
+      "praag",
+      "kislev",
       "desolations"
     ],
     "factions": [
@@ -760,20 +1409,44 @@
     ],
     "importance": 3,
     "fiabilite": "etabli",
-    "note": "La campagne commence en 2302 CI. La bataille décisive devant Kislev est placée selon les sources en 2302 ou au début de 2303 CI.",
+    "note": {
+      "fr": "La campagne commence en 2302 CI. La bataille décisive devant Kislev est placée selon les sources en 2302 ou au début de 2303 CI.",
+      "en": "The campaign begins in 2302 IC. The decisive battle before Kislev is placed in 2302 or early 2303 IC depending on the source.",
+      "de": "Der Feldzug beginnt 2302 IK. Die Entscheidungsschlacht vor Kislev wird je nach Quelle auf 2302 oder Anfang 2303 IK gelegt."
+    },
     "sources": [
       {
-        "titre": "Warhammer Armies: The Empire, 7e édition (2006)",
-        "detail": "section historique",
+        "titre": {
+          "fr": "Warhammer Armies: The Empire, 7e édition (2006)",
+          "en": "Warhammer Armies: The Empire, 7th edition (2006)",
+          "de": "Warhammer Armies: The Empire, 7. Edition (2006)"
+        },
+        "detail": {
+          "fr": "section historique",
+          "en": "historical section",
+          "de": "Geschichtsteil"
+        },
         "url": ""
       },
       {
-        "titre": "Realm of the Ice Queen, Warhammer Fantasy Roleplay 2e édition (2007)",
-        "detail": "chapitre historique",
+        "titre": {
+          "fr": "Realm of the Ice Queen, Warhammer Fantasy Roleplay 2e édition (2007)",
+          "en": "Realm of the Ice Queen, Warhammer Fantasy Roleplay 2nd edition (2007)",
+          "de": "Realm of the Ice Queen, Warhammer Fantasy Roleplay 2. Edition (2007)"
+        },
+        "detail": {
+          "fr": "chapitre historique",
+          "en": "history chapter",
+          "de": "Geschichtskapitel"
+        },
         "url": ""
       },
       {
-        "titre": "Lexicanum, page Great War Against Chaos",
+        "titre": {
+          "fr": "Lexicanum, page Great War Against Chaos",
+          "en": "Lexicanum, Great War Against Chaos page",
+          "de": "Lexicanum, Seite Great War Against Chaos"
+        },
         "detail": "",
         "url": "https://whfb.lexicanum.com/wiki/Great_War_Against_Chaos"
       }
@@ -784,10 +1457,21 @@
     "annee": 2302,
     "fin": null,
     "approx": false,
-    "titre": "Bataille de la plaine de Finuval",
-    "resume": "Pendant que le Chaos frappe le Vieux Monde, une alliance d'Elfes noirs et de forces du Chaos envahit Ulthuan. Les jumeaux Tyrion et Teclis brisent cette invasion à la bataille de la plaine de Finuval. Teclis peut ensuite partir aider Magnus, ce qui lie le sort d'Ulthuan à celui de l'Empire.",
+    "titre": {
+      "fr": "Bataille de la plaine de Finuval",
+      "en": "Battle of Finuval Plain",
+      "de": "Schlacht auf der Ebene von Finuval"
+    },
+    "resume": {
+      "fr": "Pendant que le Chaos frappe le Vieux Monde, une alliance d'Elfes noirs et de forces du Chaos envahit Ulthuan. Les jumeaux Tyrion et Teclis brisent cette invasion à la bataille de la plaine de Finuval. Teclis peut ensuite partir aider Magnus, ce qui lie le sort d'Ulthuan à celui de l'Empire.",
+      "en": "While Chaos strikes the Old World, an alliance of Dark Elves and Chaos forces invades Ulthuan. The twins Tyrion and Teclis break this invasion at the Battle of Finuval Plain. Teclis is then able to leave to help Magnus, which ties the fate of Ulthuan to that of the Empire.",
+      "de": "Während das Chaos über die Alte Welt hereinbricht, fällt ein Bündnis aus Dunkelelfen und Chaostruppen in Ulthuan ein. Die Zwillinge Tyrion und Teclis zerschlagen diese Invasion in der Schlacht auf der Ebene von Finuval. Teclis kann daraufhin aufbrechen, um Magnus zu helfen, was das Schicksal Ulthuans mit dem des Imperiums verbindet."
+    },
     "ere": "trois-empereurs",
     "regions": [
+      "ulthuan"
+    ],
+    "lieux": [
       "ulthuan"
     ],
     "factions": [
@@ -797,20 +1481,40 @@
     ],
     "importance": 2,
     "fiabilite": "etabli",
-    "note": "Les grandes invasions antérieures d'Ulthuan relèvent de la période précédant l'an 1. C'est la principale invasion elfe noire datée entre 1 et 2522 CI.",
+    "note": {
+      "fr": "Les grandes invasions antérieures d'Ulthuan relèvent de la période précédant l'an 1. C'est la principale invasion elfe noire datée entre 1 et 2522 CI.",
+      "en": "The great earlier invasions of Ulthuan belong to the period before year 1. This is the main dated Dark Elf invasion between 1 and 2522 IC.",
+      "de": "Die großen früheren Invasionen Ulthuans gehören in die Zeit vor dem Jahr 1. Dies ist die wichtigste datierte Invasion der Dunkelelfen zwischen 1 und 2522 IK."
+    },
     "sources": [
       {
-        "titre": "Warhammer Armies: High Elves, 7e édition (2007)",
-        "detail": "section historique",
+        "titre": {
+          "fr": "Warhammer Armies: High Elves, 7e édition (2007)",
+          "en": "Warhammer Armies: High Elves, 7th edition (2007)",
+          "de": "Warhammer Armies: High Elves, 7. Edition (2007)"
+        },
+        "detail": {
+          "fr": "section historique",
+          "en": "historical section",
+          "de": "Geschichtsteil"
+        },
         "url": ""
       },
       {
-        "titre": "Lexicanum, page Great War Against Chaos",
+        "titre": {
+          "fr": "Lexicanum, page Great War Against Chaos",
+          "en": "Lexicanum, Great War Against Chaos page",
+          "de": "Lexicanum, Seite Great War Against Chaos"
+        },
         "detail": "",
         "url": "https://whfb.lexicanum.com/wiki/Great_War_Against_Chaos"
       },
       {
-        "titre": "Warhammer Wiki (fandom), page Battle of Finuval Plain",
+        "titre": {
+          "fr": "Warhammer Wiki (fandom), page Battle of Finuval Plain",
+          "en": "Warhammer Wiki (fandom), Battle of Finuval Plain page",
+          "de": "Warhammer Wiki (fandom), Seite Battle of Finuval Plain"
+        },
         "detail": "",
         "url": "https://warhammerfantasy.fandom.com/wiki/Battle_of_Finuval_Plain"
       }
@@ -821,11 +1525,23 @@
     "annee": 2304,
     "fin": null,
     "approx": false,
-    "titre": "Couronnement de Magnus le Pieux",
-    "resume": "Auréolé de sa victoire, Magnus de Nuln est élu empereur, et la lignée du Talabecland renonce à ses prétentions. L'Empire est réunifié après près d'un millénaire de divisions. Avec l'aide de Teclis, Magnus fonde aussi les Collèges de magie d'Altdorf, qui encadrent désormais les sorciers humains.",
+    "titre": {
+      "fr": "Couronnement de Magnus le Pieux",
+      "en": "Coronation of Magnus the Pious",
+      "de": "Krönung Magnus des Frommen"
+    },
+    "resume": {
+      "fr": "Auréolé de sa victoire, Magnus de Nuln est élu empereur, et la lignée du Talabecland renonce à ses prétentions. L'Empire est réunifié après près d'un millénaire de divisions. Avec l'aide de Teclis, Magnus fonde aussi les Collèges de magie d'Altdorf, qui encadrent désormais les sorciers humains.",
+      "en": "Crowned with the glory of his victory, Magnus of Nuln is elected Emperor, and the Talabecland line renounces its claims. The Empire is reunified after nearly a millennium of division. With the help of Teclis, Magnus also founds the Colleges of Magic in Altdorf, which from then on oversee human wizards.",
+      "de": "Vom Ruhm seines Sieges getragen, wird Magnus von Nuln zum Kaiser gewählt, und die Linie von Talabecland verzichtet auf ihre Ansprüche. Das Imperium ist nach fast einem Jahrtausend der Spaltung wieder vereint. Mit Hilfe von Teclis gründet Magnus außerdem die Magierkollegien in Altdorf, die fortan die menschlichen Zauberer beaufsichtigen."
+    },
     "ere": "empire-reunifie",
     "regions": [
       "empire"
+    ],
+    "lieux": [
+      "altdorf",
+      "nuln"
     ],
     "factions": [
       "empire",
@@ -836,18 +1552,42 @@
     "note": "",
     "sources": [
       {
-        "titre": "Warhammer Armies: The Empire, 7e édition (2006)",
-        "detail": "section historique",
+        "titre": {
+          "fr": "Warhammer Armies: The Empire, 7e édition (2006)",
+          "en": "Warhammer Armies: The Empire, 7th edition (2006)",
+          "de": "Warhammer Armies: The Empire, 7. Edition (2006)"
+        },
+        "detail": {
+          "fr": "section historique",
+          "en": "historical section",
+          "de": "Geschichtsteil"
+        },
         "url": ""
       },
       {
-        "titre": "Realms of Sorcery, Warhammer Fantasy Roleplay 2e édition (2006)",
-        "detail": "chapitre sur les Collèges de magie",
+        "titre": {
+          "fr": "Realms of Sorcery, Warhammer Fantasy Roleplay 2e édition (2006)",
+          "en": "Realms of Sorcery, Warhammer Fantasy Roleplay 2nd edition (2006)",
+          "de": "Realms of Sorcery, Warhammer Fantasy Roleplay 2. Edition (2006)"
+        },
+        "detail": {
+          "fr": "chapitre sur les Collèges de magie",
+          "en": "chapter on the Colleges of Magic",
+          "de": "Kapitel über die Magierkollegien"
+        },
         "url": ""
       },
       {
-        "titre": "Lexicanum, page Ottilian Emperor",
-        "detail": "renonciation de 2304 CI",
+        "titre": {
+          "fr": "Lexicanum, page Ottilian Emperor",
+          "en": "Lexicanum, Ottilian Emperor page",
+          "de": "Lexicanum, Seite Ottilian Emperor"
+        },
+        "detail": {
+          "fr": "renonciation de 2304 CI",
+          "en": "renunciation of 2304 IC",
+          "de": "Verzicht von 2304 IK"
+        },
         "url": "https://whfb.lexicanum.com/wiki/Ottilian_Empress"
       }
     ]
@@ -857,11 +1597,22 @@
     "annee": 2420,
     "fin": 2424,
     "approx": true,
-    "titre": "La Waaagh! de Grom la Panse",
-    "resume": "Le goblin Grom la Panse traverse l'Empire avec sa Waaagh!, puis construit une flotte et accoste en Ulthuan. C'est la seule invasion peau-verte réussie du royaume des Hauts Elfes. Eltharion le Sinistre l'arrête finalement devant les murs de Tor Yvresse.",
+    "titre": {
+      "fr": "La Waaagh! de Grom la Panse",
+      "en": "The Waaagh! of Grom the Paunch",
+      "de": "Der Waaagh! von Grom dem Fetten"
+    },
+    "resume": {
+      "fr": "Le goblin Grom la Panse traverse l'Empire avec sa Waaagh!, puis construit une flotte et accoste en Ulthuan. C'est la seule invasion peau-verte réussie du royaume des Hauts Elfes. Eltharion le Sinistre l'arrête finalement devant les murs de Tor Yvresse.",
+      "en": "The Goblin Grom the Paunch crosses the Empire with his Waaagh!, then builds a fleet and lands in Ulthuan. It is the only successful Greenskin invasion of the High Elf kingdom. Eltharion the Grim finally stops him before the walls of Tor Yvresse.",
+      "de": "Der Goblin Grom der Fette durchquert mit seinem Waaagh! das Imperium, baut dann eine Flotte und landet in Ulthuan. Es ist die einzige erfolgreiche Invasion der Grünhäute im Reich der Hochelfen. Eltharion der Grimmige hält ihn schließlich vor den Mauern von Tor Yvresse auf."
+    },
     "ere": "empire-reunifie",
     "regions": [
       "empire",
+      "ulthuan"
+    ],
+    "lieux": [
       "ulthuan"
     ],
     "factions": [
@@ -871,15 +1622,31 @@
     ],
     "importance": 2,
     "fiabilite": "divergent",
-    "note": "La page Lexicanum Broken Axe Tribe, encore à l'état d'ébauche, donne 2420 CI pour l'entrée dans l'Empire et 2424 CI pour la défaite. D'autres chronologies placent le début de la Waaagh! quelques années plus tôt.",
+    "note": {
+      "fr": "La page Lexicanum Broken Axe Tribe, encore à l'état d'ébauche, donne 2420 CI pour l'entrée dans l'Empire et 2424 CI pour la défaite. D'autres chronologies placent le début de la Waaagh! quelques années plus tôt.",
+      "en": "The Lexicanum page Broken Axe Tribe, still a stub, gives 2420 IC for the entry into the Empire and 2424 IC for the defeat. Other timelines place the start of the Waaagh! a few years earlier.",
+      "de": "Die Lexicanum-Seite Broken Axe Tribe, noch ein Entwurf, nennt 2420 IK für den Einzug ins Imperium und 2424 IK für die Niederlage. Andere Zeitleisten setzen den Beginn des Waaagh! einige Jahre früher an."
+    },
     "sources": [
       {
-        "titre": "Warhammer Armies: Orcs & Goblins, 6e édition (2000)",
-        "detail": "profil de Grom",
+        "titre": {
+          "fr": "Warhammer Armies: Orcs & Goblins, 6e édition (2000)",
+          "en": "Warhammer Armies: Orcs & Goblins, 6th edition (2000)",
+          "de": "Warhammer Armies: Orcs & Goblins, 6. Edition (2000)"
+        },
+        "detail": {
+          "fr": "profil de Grom",
+          "en": "Grom's profile",
+          "de": "Profil von Grom"
+        },
         "url": ""
       },
       {
-        "titre": "Lexicanum, page Broken Axe Tribe",
+        "titre": {
+          "fr": "Lexicanum, page Broken Axe Tribe",
+          "en": "Lexicanum, Broken Axe Tribe page",
+          "de": "Lexicanum, Seite Broken Axe Tribe"
+        },
         "detail": "",
         "url": "https://whfb.lexicanum.com/wiki/Broken_Axe_Tribe"
       }
@@ -890,11 +1657,23 @@
     "annee": 2429,
     "fin": null,
     "approx": false,
-    "titre": "Marienburg fait sécession",
-    "resume": "La riche cité portuaire de Marienburg achète son indépendance à l'empereur Dieter IV et quitte l'Empire avec le Westerland. Le scandale provoque la déposition de Dieter et l'arrivée au pouvoir de la lignée d'Altdorf. L'Empire perd ainsi son principal débouché maritime au profit d'une république marchande.",
+    "titre": {
+      "fr": "Marienburg fait sécession",
+      "en": "Marienburg secedes",
+      "de": "Marienburg spaltet sich ab"
+    },
+    "resume": {
+      "fr": "La riche cité portuaire de Marienburg achète son indépendance à l'empereur Dieter IV et quitte l'Empire avec le Westerland. Le scandale provoque la déposition de Dieter et l'arrivée au pouvoir de la lignée d'Altdorf. L'Empire perd ainsi son principal débouché maritime au profit d'une république marchande.",
+      "en": "The wealthy port city of Marienburg buys its independence from Emperor Dieter IV and leaves the Empire together with the Westerland. The scandal leads to Dieter's deposition and the rise to power of the Altdorf line. The Empire thus loses its main access to the sea to a merchant republic.",
+      "de": "Die reiche Hafenstadt Marienburg kauft Kaiser Dieter IV. ihre Unabhängigkeit ab und verlässt mit dem Westerland das Imperium. Der Skandal führt zur Absetzung Dieters und zur Machtübernahme der Altdorfer Linie. So verliert das Imperium seinen wichtigsten Zugang zum Meer an eine Kaufmannsrepublik."
+    },
     "ere": "empire-reunifie",
     "regions": [
       "empire"
+    ],
+    "lieux": [
+      "marienburg",
+      "altdorf"
     ],
     "factions": [
       "empire",
@@ -902,15 +1681,31 @@
     ],
     "importance": 2,
     "fiabilite": "etabli",
-    "note": "Date non revérifiée en ligne pendant la compilation, mais constante dans les suppléments de jeu de rôle consacrés à Marienburg.",
+    "note": {
+      "fr": "Date non revérifiée en ligne pendant la compilation, mais constante dans les suppléments de jeu de rôle consacrés à Marienburg.",
+      "en": "Date not rechecked online during compilation, but consistent across the roleplaying supplements devoted to Marienburg.",
+      "de": "Datum während der Zusammenstellung nicht online überprüft, in den Rollenspielbänden über Marienburg aber durchgehend gleich."
+    },
     "sources": [
       {
-        "titre": "Marienburg: Sold Down the River, Warhammer Fantasy Roleplay 1re édition (2002)",
-        "detail": "chapitre historique",
+        "titre": {
+          "fr": "Marienburg: Sold Down the River, Warhammer Fantasy Roleplay 1re édition (2002)",
+          "en": "Marienburg: Sold Down the River, Warhammer Fantasy Roleplay 1st edition (2002)",
+          "de": "Marienburg: Sold Down the River, Warhammer Fantasy Roleplay 1. Edition (2002)"
+        },
+        "detail": {
+          "fr": "chapitre historique",
+          "en": "history chapter",
+          "de": "Geschichtskapitel"
+        },
         "url": ""
       },
       {
-        "titre": "Lexicanum, page Marienburg",
+        "titre": {
+          "fr": "Lexicanum, page Marienburg",
+          "en": "Lexicanum, Marienburg page",
+          "de": "Lexicanum, Seite Marienburg"
+        },
         "detail": "",
         "url": "https://whfb.lexicanum.com/wiki/Marienburg"
       }
@@ -921,11 +1716,22 @@
     "annee": 2473,
     "fin": null,
     "approx": false,
-    "titre": "Belegar tente de reprendre Karak Huit Pics",
-    "resume": "Le roi nain Belegar Marteau-de-Fer mène les descendants des clans de Karak Huit Pics à la reconquête de l'ancienne cité, perdue depuis des millénaires face aux Skavens et aux Gobelins. Il parvient à tenir la citadelle, mais reste assiégé de toutes parts. Sa lutte incarne la volonté des Nains de reprendre leurs forteresses perdues.",
+    "titre": {
+      "fr": "Belegar tente de reprendre Karak Huit Pics",
+      "en": "Belegar attempts to retake Karak Eight Peaks",
+      "de": "Belegar versucht, Karak Acht Gipfel zurückzuerobern"
+    },
+    "resume": {
+      "fr": "Le roi nain Belegar Marteau-de-Fer mène les descendants des clans de Karak Huit Pics à la reconquête de l'ancienne cité, perdue depuis des millénaires face aux Skavens et aux Gobelins. Il parvient à tenir la citadelle, mais reste assiégé de toutes parts. Sa lutte incarne la volonté des Nains de reprendre leurs forteresses perdues.",
+      "en": "The Dwarf king Belegar Ironhammer leads the descendants of the clans of Karak Eight Peaks in the reconquest of the ancient city, lost for millennia to the Skaven and the Goblins. He manages to hold the citadel but remains besieged on all sides. His struggle embodies the will of the Dwarfs to reclaim their lost holds.",
+      "de": "Der Zwergenkönig Belegar Eisenhammer führt die Nachfahren der Clans von Karak Acht Gipfel zur Rückeroberung der alten Stadt, die seit Jahrtausenden an die Skaven und die Goblins verloren ist. Es gelingt ihm, die Zitadelle zu halten, doch er bleibt von allen Seiten belagert. Sein Kampf verkörpert den Willen der Zwerge, ihre verlorenen Festungen zurückzugewinnen."
+    },
     "ere": "empire-reunifie",
     "regions": [
       "montagnes"
+    ],
+    "lieux": [
+      "karak-huit-pics"
     ],
     "factions": [
       "nains",
@@ -934,20 +1740,40 @@
     ],
     "importance": 2,
     "fiabilite": "divergent",
-    "note": "La page Lexicanum Karak Eight Peaks date la tentative de 2473 CI, alors que la page Belegar Ironhammer place la reconquête entre 2420 et 2498 CI.",
+    "note": {
+      "fr": "La page Lexicanum Karak Eight Peaks date la tentative de 2473 CI, alors que la page Belegar Ironhammer place la reconquête entre 2420 et 2498 CI.",
+      "en": "The Lexicanum page Karak Eight Peaks dates the attempt to 2473 IC, while the page Belegar Ironhammer places the reconquest between 2420 and 2498 IC.",
+      "de": "Die Lexicanum-Seite Karak Eight Peaks datiert den Versuch auf 2473 IK, die Seite Belegar Ironhammer setzt die Rückeroberung dagegen zwischen 2420 und 2498 IK an."
+    },
     "sources": [
       {
-        "titre": "Warhammer Armies: Dwarfs, 7e édition (2006)",
-        "detail": "profil de Belegar",
+        "titre": {
+          "fr": "Warhammer Armies: Dwarfs, 7e édition (2006)",
+          "en": "Warhammer Armies: Dwarfs, 7th edition (2006)",
+          "de": "Warhammer Armies: Dwarfs, 7. Edition (2006)"
+        },
+        "detail": {
+          "fr": "profil de Belegar",
+          "en": "Belegar's profile",
+          "de": "Profil von Belegar"
+        },
         "url": ""
       },
       {
-        "titre": "Lexicanum, page Karak Eight Peaks",
+        "titre": {
+          "fr": "Lexicanum, page Karak Eight Peaks",
+          "en": "Lexicanum, Karak Eight Peaks page",
+          "de": "Lexicanum, Seite Karak Eight Peaks"
+        },
         "detail": "",
         "url": "https://whfb.lexicanum.com/wiki/Karak_Eight_Peaks"
       },
       {
-        "titre": "Lexicanum, page Belegar Ironhammer",
+        "titre": {
+          "fr": "Lexicanum, page Belegar Ironhammer",
+          "en": "Lexicanum, Belegar Ironhammer page",
+          "de": "Lexicanum, Seite Belegar Ironhammer"
+        },
         "detail": "",
         "url": "https://whfb.lexicanum.com/wiki/Belegar"
       }
@@ -958,11 +1784,22 @@
     "annee": 2502,
     "fin": null,
     "approx": false,
-    "titre": "Élection de Karl Franz",
-    "resume": "Le prince Karl Franz de Reikland est élu empereur à la mort de son père Luitpold. Chef de guerre et diplomate, il mène l'Empire durant les crises de la fin du XXVe siècle. Son règne sert de cadre à la plupart des livres d'armée et du jeu de rôle.",
+    "titre": {
+      "fr": "Élection de Karl Franz",
+      "en": "Election of Karl Franz",
+      "de": "Wahl Karl Franz'"
+    },
+    "resume": {
+      "fr": "Le prince Karl Franz de Reikland est élu empereur à la mort de son père Luitpold. Chef de guerre et diplomate, il mène l'Empire durant les crises de la fin du XXVe siècle. Son règne sert de cadre à la plupart des livres d'armée et du jeu de rôle.",
+      "en": "Prince Karl Franz of Reikland is elected Emperor on the death of his father Luitpold. A war leader and a diplomat, he guides the Empire through the crises of the late twenty-fifth century. His reign is the setting of most army books and of the roleplaying game.",
+      "de": "Prinz Karl Franz von Reikland wird nach dem Tod seines Vaters Luitpold zum Kaiser gewählt. Als Feldherr und Diplomat führt er das Imperium durch die Krisen des späten 25. Jahrhunderts. Seine Herrschaft bildet den Rahmen für die meisten Armeebücher und für das Rollenspiel."
+    },
     "ere": "empire-reunifie",
     "regions": [
       "empire"
+    ],
+    "lieux": [
+      "altdorf"
     ],
     "factions": [
       "empire"
@@ -972,12 +1809,24 @@
     "note": "",
     "sources": [
       {
-        "titre": "Warhammer Armies: The Empire, 7e édition (2006)",
-        "detail": "profil de Karl Franz",
+        "titre": {
+          "fr": "Warhammer Armies: The Empire, 7e édition (2006)",
+          "en": "Warhammer Armies: The Empire, 7th edition (2006)",
+          "de": "Warhammer Armies: The Empire, 7. Edition (2006)"
+        },
+        "detail": {
+          "fr": "profil de Karl Franz",
+          "en": "Karl Franz's profile",
+          "de": "Profil von Karl Franz"
+        },
         "url": ""
       },
       {
-        "titre": "Lexicanum, page Karl Franz",
+        "titre": {
+          "fr": "Lexicanum, page Karl Franz",
+          "en": "Lexicanum, Karl Franz page",
+          "de": "Lexicanum, Seite Karl Franz"
+        },
         "detail": "",
         "url": "https://whfb.lexicanum.com/wiki/Karl_Franz"
       }
@@ -988,11 +1837,24 @@
     "annee": 2522,
     "fin": null,
     "approx": false,
-    "titre": "La Tempête du Chaos",
-    "resume": "Archaon, l'Élu des dieux du Chaos, envahit Kislev et l'Empire à la tête d'une armée colossale. Ses forces assiègent Middenheim, où défenseurs humains, nains et elfes finissent par repousser l'assaut. L'invasion est brisée, mais elle laisse le nord exsangue et annonce les catastrophes suivantes.",
+    "titre": {
+      "fr": "La Tempête du Chaos",
+      "en": "The Storm of Chaos",
+      "de": "Der Sturm des Chaos"
+    },
+    "resume": {
+      "fr": "Archaon, l'Élu des dieux du Chaos, envahit Kislev et l'Empire à la tête d'une armée colossale. Ses forces assiègent Middenheim, où défenseurs humains, nains et elfes finissent par repousser l'assaut. L'invasion est brisée, mais elle laisse le nord exsangue et annonce les catastrophes suivantes.",
+      "en": "Archaon, the Everchosen of the Chaos gods, invades Kislev and the Empire at the head of a colossal army. His forces besiege Middenheim, where human, Dwarf and Elf defenders finally repel the assault. The invasion is broken, but it leaves the north drained and heralds the disasters to come.",
+      "de": "Archaon, der Auserkorene der Chaosgötter, fällt an der Spitze eines gewaltigen Heeres in Kislev und das Imperium ein. Seine Truppen belagern Middenheim, wo menschliche, zwergische und elfische Verteidiger den Angriff schließlich abwehren. Die Invasion wird zerschlagen, doch sie lässt den Norden ausgeblutet zurück und kündigt die folgenden Katastrophen an."
+    },
     "ere": "empire-reunifie",
     "regions": [
       "empire",
+      "kislev",
+      "desolations"
+    ],
+    "lieux": [
+      "middenheim",
       "kislev",
       "desolations"
     ],
@@ -1006,15 +1868,27 @@
     ],
     "importance": 3,
     "fiabilite": "etabli",
-    "note": "Campagne mondiale de 2004 en jeu réel. Les premières incursions sont parfois placées fin 2521 CI, le siège de Middenheim en 2522 CI.",
+    "note": {
+      "fr": "Campagne mondiale de 2004 en jeu réel. Les premières incursions sont parfois placées fin 2521 CI, le siège de Middenheim en 2522 CI.",
+      "en": "Worldwide campaign of 2004 in the real world. The first incursions are sometimes placed at the end of 2521 IC, the siege of Middenheim in 2522 IC.",
+      "de": "Weltweite Kampagne aus dem realen Jahr 2004. Die ersten Vorstöße werden manchmal auf Ende 2521 IK gelegt, die Belagerung Middenheims auf 2522 IK."
+    },
     "sources": [
       {
-        "titre": "Warhammer: Storm of Chaos, supplément de campagne (2004)",
+        "titre": {
+          "fr": "Warhammer: Storm of Chaos, supplément de campagne (2004)",
+          "en": "Warhammer: Storm of Chaos, campaign supplement (2004)",
+          "de": "Warhammer: Storm of Chaos, Kampagnenband (2004)"
+        },
         "detail": "",
         "url": ""
       },
       {
-        "titre": "Lexicanum, page Storm of Chaos",
+        "titre": {
+          "fr": "Lexicanum, page Storm of Chaos",
+          "en": "Lexicanum, Storm of Chaos page",
+          "de": "Lexicanum, Seite Storm of Chaos"
+        },
         "detail": "",
         "url": "https://whfb.lexicanum.com/wiki/Storm_of_Chaos"
       }
