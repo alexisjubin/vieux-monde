@@ -89,7 +89,7 @@ def enregistrer(image, chemin):
 
 def main():
     svg = (RACINE / "carte.svg").read_text(encoding="utf-8")
-    largeur, hauteur = map(float, re.search(r'viewBox="0 0 ([\d.]+) ([\d.]+)"', svg).groups())
+    x0, y0, largeur, hauteur = map(float, re.search(r'viewBox="(-?[\d.]+) (-?[\d.]+) ([\d.]+) ([\d.]+)"', svg).groups())
     if SORTIE.exists():
         shutil.rmtree(SORTIE)
     total = 0
@@ -99,7 +99,7 @@ def main():
         ouvrir(onglet, svg)
 
         px_l, px_h = round(largeur * APERCU), round(hauteur * APERCU)
-        total += enregistrer(grain(rendre(onglet, 0, 0, largeur, hauteur, px_l, px_h), 0, 0), SORTIE / "fond.webp")
+        total += enregistrer(grain(rendre(onglet, x0, y0, largeur, hauteur, px_l, px_h), 0, 0), SORTIE / "fond.webp")
 
         for niveau in NIVEAUX:
             cote = TAILLE / niveau  # côté d'une tuile, en unités de la carte
@@ -107,19 +107,19 @@ def main():
             par_bloc = BLOC // TAILLE
             for bj in range(0, lignes, par_bloc):
                 for bi in range(0, colonnes, par_bloc):
-                    image = grain(rendre(onglet, bi * cote, bj * cote, BLOC / niveau, BLOC / niveau, BLOC, BLOC), bi * TAILLE, bj * TAILLE)
+                    image = grain(rendre(onglet, x0 + bi * cote, y0 + bj * cote, BLOC / niveau, BLOC / niveau, BLOC, BLOC), bi * TAILLE, bj * TAILLE)
                     for j in range(bj, min(bj + par_bloc, lignes)):
                         for i in range(bi, min(bi + par_bloc, colonnes)):
                             # Les tuiles du bord droit et du bas s'arrêtent au bord de la carte.
                             l = min(cote, largeur - i * cote) * niveau
                             h = min(cote, hauteur - j * cote) * niveau
-                            x0, y0 = (i - bi) * TAILLE, (j - bj) * TAILLE
-                            tuile = image.crop((x0, y0, x0 + round(l), y0 + round(h)))
+                            cx, cy = (i - bi) * TAILLE, (j - bj) * TAILLE
+                            tuile = image.crop((cx, cy, cx + round(l), cy + round(h)))
                             total += enregistrer(tuile, SORTIE / str(niveau) / f"{i}-{j}.webp")
             print(f"niveau {niveau} : {colonnes} x {lignes} tuiles")
         navigateur.close()
 
-    manifeste = {"largeur": largeur, "hauteur": hauteur, "taille": TAILLE, "niveaux": NIVEAUX, "apercu": APERCU}
+    manifeste = {"x0": x0, "y0": y0, "largeur": largeur, "hauteur": hauteur, "taille": TAILLE, "niveaux": NIVEAUX, "apercu": APERCU}
     (SORTIE / "tuiles.json").write_text(json.dumps(manifeste) + "\n", encoding="utf-8")
     print(f"{total / 1e6:.1f} Mo au total")
 

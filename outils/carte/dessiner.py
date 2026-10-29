@@ -217,32 +217,34 @@ def dedans(pt, poly):
 def main():
     cotes = json.loads((ICI / "cache" / "cotes.json").read_text(encoding="utf-8"))
     W, H = cotes["largeur"], cotes["hauteur"]
+    O = cotes.get("ouest", 0)  # bande ajoutée à l'ouest de la carte de base : x de -O à W - O
     terres = " ".join(chemin(a["points"]) for a in cotes["anneaux"])
     fichier_plateau = ICI / "cache" / "plateau.json"
     plateau = json.loads(fichier_plateau.read_text(encoding="utf-8")) if fichier_plateau.exists() else []
 
     fichier_elements = ICI / "elements.json"
     elements = json.loads(fichier_elements.read_text(encoding="utf-8")) if fichier_elements.exists() else {}
-    k = W / 1500
+    k = (W - O) / 1500
     fichier_recalages = ICI / "cache" / "recalages.json"
     recalages = json.loads(fichier_recalages.read_text(encoding="utf-8")) if fichier_recalages.exists() else {"cartes": {}, "massifs": []}
     emprises = [[tuple(p) for p in c["emprise"]] for c in recalages["cartes"].values()]
+    emprises += [[tuple(p) for p in e] for e in recalages.get("effaces", [])]
     elements = hors_cartes_detaillees(elements, emprises, k)
     for nom, recalage in recalages["cartes"].items():
         for cle, liste in elements_detailles(nom, recalage["matrice"], k).items():
             elements.setdefault(cle, []).extend(liste)
 
     calques = [
-        f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {H}">',
+        f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="{-O} 0 {W} {H}">',
         "<defs>",
         defs(MONTAGNES),
         f'<path id="trace-terres" d="{terres}" fill-rule="evenodd" clip-rule="evenodd"/>',
         '<clipPath id="terres"><use href="#trace-terres"/></clipPath>',
         "</defs>",
         # Fonds peints par fond.py : mer en dégradé depuis les côtes, terres en parchemin taché.
-        f'<image href="outils/carte/cache/fond-mer.jpg" width="{W}" height="{H}" preserveAspectRatio="none"/>',
+        f'<image href="outils/carte/cache/fond-mer.jpg" x="{-O}" width="{W}" height="{H}" preserveAspectRatio="none"/>',
         f'<path class="plateau" d="{" ".join(chemin(t) for t in plateau)}"/>',
-        f'<g clip-path="url(#terres)"><image href="outils/carte/cache/fond-terre.jpg" width="{W}" height="{H}" preserveAspectRatio="none"/>',
+        f'<g clip-path="url(#terres)"><image href="outils/carte/cache/fond-terre.jpg" x="{-O}" width="{W}" height="{H}" preserveAspectRatio="none"/>',
     ]
     for d in elements.get("deserts", []):
         poly = onduler(d["contour"], k, 8)
@@ -270,7 +272,7 @@ def main():
     calques += [
         "</g>",
         '<use class="cote" href="#trace-terres"/>',
-        f'<rect class="bord" width="{W}" height="{H}"/>',
+        f'<rect class="bord" x="{-O}" width="{W}" height="{H}"/>',
         "</svg>",
     ]
     sortie = RACINE / "carte.svg"

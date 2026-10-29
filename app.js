@@ -18,7 +18,7 @@ const LANGUES = ["fr", "en", "de"];
 
 // À augmenter à chaque publication qui change les données ou la carte, pour
 // que les navigateurs ne gardent pas l'ancienne version en cache.
-const VERSION = 15;
+const VERSION = 17;
 
 const TEXTES = {
   fr: {
@@ -31,6 +31,7 @@ const TEXTES = {
     carte: "Carte du Vieux Monde",
     cadrageMonde: "Monde",
     cadrageVieuxMonde: "Vieux Monde",
+    pleinEcran: ["Plein écran", "Quitter le plein écran"],
     calques: "Calques",
     sectionsCalques: ["Noms et tracés", "Types de lieux"],
     nomsCalques: { lieux: "Lieux de la chronologie", regions: "Noms des régions", mers: "Noms des mers", frontieres: "Frontières des provinces", provinces: "Provinces", colonies: "Colonies" },
@@ -73,6 +74,7 @@ const TEXTES = {
     carte: "Map of the Old World",
     cadrageMonde: "World",
     cadrageVieuxMonde: "Old World",
+    pleinEcran: ["Full screen", "Exit full screen"],
     calques: "Layers",
     sectionsCalques: ["Names and lines", "Place types"],
     nomsCalques: { lieux: "Chronicle places", regions: "Region names", mers: "Sea names", frontieres: "Province borders", provinces: "Provinces", colonies: "Settlements" },
@@ -115,6 +117,7 @@ const TEXTES = {
     carte: "Karte der Alten Welt",
     cadrageMonde: "Welt",
     cadrageVieuxMonde: "Alte Welt",
+    pleinEcran: ["Vollbild", "Vollbild beenden"],
     calques: "Ebenen",
     sectionsCalques: ["Namen und Linien", "Ortsarten"],
     nomsCalques: { lieux: "Orte der Chronik", regions: "Regionsnamen", mers: "Meeresnamen", frontieres: "Provinzgrenzen", provinces: "Provinzen", colonies: "Siedlungen" },
@@ -288,6 +291,7 @@ function traduirePage() {
   document.querySelectorAll("[data-t]").forEach((el) => (el.textContent = textes[el.dataset.t]));
   $("#pied").innerHTML = textes.pied;
   $("#recherche").placeholder = textes.exempleRecherche;
+  libellePleinEcran();
   document.querySelectorAll(".langues button").forEach((b) =>
     b.setAttribute("aria-pressed", String(b.value === etat.langue)),
   );
@@ -390,7 +394,8 @@ function montrer(id, fluide = true) {
 // changeant son viewBox. vue.x, vue.y et vue.l décrivent la portion visible.
 // Le fond est fait de tuiles d'image (outils/carte/tuiles.py), les noms et
 // les lieux sont posés par-dessus en SVG.
-const vue = { x: 0, y: 0, l: 0, largeur: 0, hauteur: 0 };
+// x0 et y0 : coin haut gauche de la carte (x0 est négatif, le monde déborde à l'ouest de la carte du jeu).
+const vue = { x: 0, y: 0, l: 0, x0: 0, y0: 0, largeur: 0, hauteur: 0 };
 const tuiles = { manifeste: null, chargees: new Map(), groupes: new Map() };
 const ZOOM_MAX = 16;
 const CADRAGES = {
@@ -402,9 +407,9 @@ async function chargerFondDeCarte() {
   const reponse = await fetch(`tuiles/tuiles.json?v=${VERSION}`);
   if (!reponse.ok) throw new Error(`tuiles.json : ${reponse.status}`);
   const m = (tuiles.manifeste = await reponse.json());
-  const svg = creerSvg("svg", { viewBox: `0 0 ${m.largeur} ${m.hauteur}`, role: "group", preserveAspectRatio: "xMidYMid meet" });
+  const svg = creerSvg("svg", { viewBox: `${m.x0 ?? 0} ${m.y0 ?? 0} ${m.largeur} ${m.hauteur}`, role: "group", preserveAspectRatio: "xMidYMid meet" });
   const fond = creerSvg("g", { "aria-hidden": "true" });
-  fond.append(image("tuiles/fond.webp", 0, 0, m.largeur, m.hauteur));
+  fond.append(image("tuiles/fond.webp", m.x0 ?? 0, m.y0 ?? 0, m.largeur, m.hauteur));
   for (const niveau of m.niveaux) {
     const groupe = creerSvg("g");
     tuiles.groupes.set(niveau, groupe);
@@ -420,10 +425,11 @@ async function chargerFondDeCarte() {
     creerSvg("g", { id: "lieux-carte" }),
   );
   $("#carte").append(svg);
-  Object.assign(vue, { largeur: m.largeur, hauteur: m.hauteur });
+  Object.assign(vue, { x0: m.x0 ?? 0, y0: m.y0 ?? 0, largeur: m.largeur, hauteur: m.hauteur });
   brancherDeplacements(svg);
   new ResizeObserver(() => {
-    if (vue.l) cadrer(vue.x + vue.l / 2, vue.y + hauteurVisible() / 2, vue.l);
+    if (vue.enAttente) cadrer(...vue.enAttente);
+    else if (vue.l) cadrer(vue.x + vue.l / 2, vue.y + hauteurVisible() / 2, vue.l);
   }).observe($("#carte"));
 }
 
@@ -446,17 +452,17 @@ function majTuiles() {
   const cote = m.taille / niveau;
   const marge = vue.l * 0.25;
   const h = hauteurVisible();
-  const i0 = Math.max(0, Math.floor((vue.x - marge) / cote));
-  const i1 = Math.min(Math.ceil(m.largeur / cote) - 1, Math.floor((vue.x + vue.l + marge) / cote));
-  const j0 = Math.max(0, Math.floor((vue.y - marge) / cote));
-  const j1 = Math.min(Math.ceil(m.hauteur / cote) - 1, Math.floor((vue.y + h + marge) / cote));
+  const i0 = Math.max(0, Math.floor((vue.x - vue.x0 - marge) / cote));
+  const i1 = Math.min(Math.ceil(m.largeur / cote) - 1, Math.floor((vue.x - vue.x0 + vue.l + marge) / cote));
+  const j0 = Math.max(0, Math.floor((vue.y - vue.y0 - marge) / cote));
+  const j1 = Math.min(Math.ceil(m.hauteur / cote) - 1, Math.floor((vue.y - vue.y0 + h + marge) / cote));
   for (let j = j0; j <= j1; j++) {
     for (let i = i0; i <= i1; i++) {
       const cle = `${niveau}/${i}-${j}`;
       if (tuiles.chargees.has(cle)) continue;
-      const x = i * cote;
-      const y = j * cote;
-      const tuile = image(`tuiles/${cle}.webp`, x, y, Math.min(cote, m.largeur - x), Math.min(cote, m.hauteur - y));
+      const x = vue.x0 + i * cote;
+      const y = vue.y0 + j * cote;
+      const tuile = image(`tuiles/${cle}.webp`, x, y, Math.min(cote, m.largeur - i * cote), Math.min(cote, m.hauteur - j * cote));
       tuiles.chargees.set(cle, tuile);
       tuiles.groupes.get(niveau).append(tuile);
     }
@@ -488,12 +494,20 @@ let redessin = null;
 function cadrer(cx, cy, l, pendantUnGeste = false) {
   const svg = $("#carte svg");
   if (!svg) return;
+  // Tant que la carte n'est pas mise en page, on garde la vue demandée pour plus tard.
+  if ($("#carte").clientWidth < 10) {
+    vue.enAttente = [cx, cy, l];
+    vue.l ||= l;
+    return;
+  }
+  vue.enAttente = null;
   vue.l = Math.min(Math.max(l, vue.largeur / ZOOM_MAX), largeurMonde());
   const h = hauteurVisible();
   // Le centre reste dans la carte, et une carte plus petite que le cadre reste centrée.
-  const borne = (c, taille, total) => (taille >= total ? total / 2 : Math.min(Math.max(c, taille / 2), total - taille / 2));
-  vue.x = borne(cx, vue.l, vue.largeur) - vue.l / 2;
-  vue.y = borne(cy, h, vue.hauteur) - h / 2;
+  const borne = (c, taille, debut, total) =>
+    taille >= total ? debut + total / 2 : Math.min(Math.max(c, debut + taille / 2), debut + total - taille / 2);
+  vue.x = borne(cx, vue.l, vue.x0, vue.largeur) - vue.l / 2;
+  vue.y = borne(cy, h, vue.y0, vue.hauteur) - h / 2;
   if (pendantUnGeste && affichee.l) {
     const parPixel = boiteCarte().width / vue.l;
     svg.style.transform = `translate(${(affichee.x - vue.x) * parPixel}px, ${(affichee.y - vue.y) * parPixel}px) scale(${affichee.l / vue.l})`;
@@ -519,7 +533,7 @@ function afficherVue() {
 
 function cadrage(nom) {
   const c = CADRAGES[nom];
-  if (!c) cadrer(vue.largeur / 2, vue.hauteur / 2, largeurMonde());
+  if (!c) cadrer(vue.x0 + vue.largeur / 2, vue.y0 + vue.hauteur / 2, largeurMonde());
   else cadrer(c[0] + c[2] / 2, c[1] + hauteurVisible(c[2]) / 2, c[2]);
 }
 
@@ -601,6 +615,44 @@ function brancherDeplacements(svg) {
     zoomerAutour(b.left + b.width / 2, b.top + b.height / 2, bouton.dataset.zoomCarte === "plus" ? 2 : 0.5);
   }));
   document.querySelectorAll("[data-cadrage]").forEach((bouton) => bouton.addEventListener("click", () => cadrage(bouton.dataset.cadrage)));
+  brancherPleinEcran();
+}
+
+// Plein écran : l'API du navigateur quand elle existe, sinon (iPhone) la carte
+// occupe simplement toute la fenêtre. Dans les deux cas la classe plein-ecran
+// donne sa taille à la carte, et le ResizeObserver recadre la vue.
+function pleinEcranActif() {
+  return $(".cadre-carte").classList.contains("plein-ecran");
+}
+
+function basculerPleinEcran(actif = !pleinEcranActif()) {
+  const cadre = $(".cadre-carte");
+  if (actif) {
+    cadre.requestFullscreen?.().catch(() => {});
+  } else if (document.fullscreenElement) {
+    document.exitFullscreen().catch(() => {});
+  }
+  cadre.classList.toggle("plein-ecran", actif);
+  document.documentElement.classList.toggle("carte-plein-ecran", actif);
+  libellePleinEcran();
+}
+
+function libellePleinEcran() {
+  const bouton = $("#plein-ecran");
+  const [entrer, sortir] = T().pleinEcran;
+  bouton.textContent = pleinEcranActif() ? sortir : entrer;
+  bouton.setAttribute("aria-pressed", String(pleinEcranActif()));
+}
+
+function brancherPleinEcran() {
+  $("#plein-ecran").addEventListener("click", () => basculerPleinEcran());
+  // Sortie par Échap ou par le navigateur.
+  document.addEventListener("fullscreenchange", () => {
+    if (!document.fullscreenElement && pleinEcranActif()) basculerPleinEcran(false);
+  });
+  document.addEventListener("keydown", (e) => {
+    if (e.key === "Escape" && pleinEcranActif() && !document.fullscreenElement) basculerPleinEcran(false);
+  });
 }
 
 const MARQUES = {

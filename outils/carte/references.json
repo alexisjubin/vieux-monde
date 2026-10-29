@@ -1,7 +1,12 @@
 {
   "cadre": {
     "base": "ie-monde",
-    "largeur": 5760
+    "largeur": 5760,
+    "ouest": 850,
+    "effacer": [
+      [-1500, -600, 1320, 1330, 160],
+      [-1500, 1330, 230, 5000, 110]
+    ]
   },
   "references": {
     "ie-monde": {
@@ -215,7 +220,7 @@
     },
     "naggaroth": {
       "fichier": "references/naggaroth-gw.webp",
-      "note": "Carte de Naggaroth de Games Workshop, « La Terre du Grand Froid ». Elle fait foi sur la Naggaroth, du sud des Tours de Guet au nord de la Lustrie.",
+      "note": "Carte de Naggaroth de Games Workshop, « La Terre du Grand Froid ». Elle fait foi sur toute la Naggaroth : posée sans rotation, à l'échelle de la côte d'Ulthuan visible à son bord droit, et non plus calée sur la carte du jeu.",
       "methode": "teinte",
       "seuil_mer": 125,
       "seuil_terre": 129,
@@ -240,38 +245,12 @@
         [798, 472, 962, 512],
         [1208, 452, 1392, 498]
       ],
-      "emprise": [0, 330, 1350, 1660],
-      "fondu": 40,
-      "abords": 70,
-      "points": [
-        [513, 474, 454, 727],
-        [518, 598, 545, 851],
-        [858, 493, 834, 674],
-        [1302, 477, 1103, 809],
-        [152, 433, 66, 731],
-        [138, 545, 95, 873],
-        [387, 345, 170, 595],
-        [244, 477, 226, 725],
-        [295, 622, 233, 949],
-        [488, 795, 296, 1128],
-        [648, 945, 312, 1303],
-        [452, 1195, 164, 1571],
-        [377, 1357, 65, 1744],
-        [909, 1200, 580, 1770],
-        [809, 1410, 529, 1864],
-        [1018, 810, 698, 1179],
-        [1162, 670, 822, 1004],
-        [1188, 580, 899, 911],
-        [1072, 470, 843, 826],
-        [1282, 637, 948, 1001],
-        [1091, 348, 1084, 624],
-        [856, 300, 813, 483],
-        [905, 388, 854, 572],
-        [823, 383, 758, 589],
-        [465, 320, 330, 588],
-        [420, 555, 354, 843],
-        [1100, 860, 827, 1142]
+      "emprise": [0, 0, 1443, 1995],
+      "exclure": [
+        [1372, 900, 1443, 1460]
       ],
+      "pose": [1.0484, -768.9, 550.8],
+      "fondu": 60,
       "aire_min": 150,
       "lieux": [
         [

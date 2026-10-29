@@ -101,12 +101,13 @@ def decouper_provinces(graines, pas=2, portee=240):
     intérieures, sans les côtes, chacune tracée une seule fois.
     """
     terre = cv2.imread(str(ICI / "cache" / "terre.png"), cv2.IMREAD_GRAYSCALE)
+    ouest = json.loads((ICI / "cache" / "cotes.json").read_text(encoding="utf-8")).get("ouest", 0)  # colonne 0 = x -ouest
     terre = cv2.resize(terre, (terre.shape[1] // pas, terre.shape[0] // pas), interpolation=cv2.INTER_AREA) > 127
     noms = sorted({p for _, _, p in graines})
     numero = {n: i + 1 for i, n in enumerate(noms)}
     germes = np.zeros(terre.shape, np.int32)
     for x, y, p in graines:
-        germes[min(int(y / pas), terre.shape[0] - 1), min(int(x / pas), terre.shape[1] - 1)] = numero[p]
+        germes[min(int(y / pas), terre.shape[0] - 1), min(int((x + ouest) / pas), terre.shape[1] - 1)] = numero[p]
     distance, (iy, ix) = ndimage.distance_transform_edt(germes == 0, return_indices=True)
     carte = germes[iy, ix]
     carte[distance > portee / pas] = 0
@@ -126,7 +127,7 @@ def decouper_provinces(graines, pas=2, portee=240):
     carte[~terre] = 0
 
     def points(c):
-        return [[int(round(x * pas)), int(round(y * pas))] for x, y in c]
+        return [[int(round(x * pas - ouest)), int(round(y * pas))] for x, y in c]
 
     zones, frontieres = [], []
     voisins = [(-1, -1), (0, -1), (1, -1), (-1, 0), (1, 0), (-1, 1), (0, 1), (1, 1)]
@@ -199,6 +200,9 @@ def main():
     par_id = {l["id"]: l for l in lieux}
     toutes = list(colonies)
     graines = []  # (x, y, province) des lieux détaillés rattachés à une province du jeu
+    # Les terres effacées de la base (continent déplacé par une carte détaillée) perdent leurs colonies.
+    for efface in json.loads(fichier.read_text(encoding="utf-8")).get("effaces", []) if fichier.exists() else []:
+        colonies = [c for c in colonies if not dedans((c["x"], c["y"]), efface)]
     for nom, recalage in recalages.items():
         m = recalage["matrice"]
         emprise = recalage["emprise"]

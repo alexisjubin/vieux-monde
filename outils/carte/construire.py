@@ -180,11 +180,34 @@ def affiner(m, masque, emprise, base, k):
     return matrice(res.x).astype(np.float64)
 
 
-def poser_details(champ, base, k, W, H):
-    """Fond chaque carte détaillée dans le champ de distance de la base."""
+def poser_details(champ, base, k, W, H, ouest):
+    """Fond chaque carte détaillée dans le champ de distance de la base.
+
+    Le champ couvre aussi la bande ajoutée à l'ouest du cadre : la colonne 0
+    du champ correspond à x = -ouest dans le repère de la carte.
+    """
     recalages, massifs = {}, []
+    decale = np.array([[0, 0, ouest], [0, 0, 0]], np.float64)
+    effaces = []
+    # Terres de la base à effacer : la place qu'occupait un continent qu'une carte
+    # détaillée a déplacé. L'effacement croît doucement depuis le bord du
+    # rectangle sur `fondu` unités, assez pour noyer les terres étroites en
+    # suivant leur relief (pas de coupe droite), puis devient total au-delà.
+    H_, W_ = champ.shape
+    ys, xs = np.mgrid[0:H_, 0:W_].astype(np.float32)
+    xs -= ouest
+    # Un bruit lent déforme le bord des rectangles : là où ils coupent une terre,
+    # la nouvelle côte ondule au lieu de suivre une droite.
+    alea = np.random.default_rng(7)
+    ondulation = cv2.GaussianBlur(alea.standard_normal((H_ // 4, W_ // 4)).astype(np.float32), (0, 0), 20)
+    ondulation = cv2.resize(ondulation / ondulation.std() * 90, (W_, H_), interpolation=cv2.INTER_CUBIC)
+    for x0, y0, x1, y1, fondu in CONFIG["cadre"].get("effacer", []):
+        dedans = np.minimum.reduce([xs - x0, x1 - xs, ys - y0, y1 - ys]) + ondulation
+        champ -= 60 * np.clip(dedans / fondu, 0, 1) + 2000 * np.clip(dedans / fondu - 1, 0, 1)
+        effaces.append([[x0, y0], [x1, y0], [x1, y1], [x0, y1]])
+    del ys, xs
     for nom, ref in CONFIG["references"].items():
-        if "points" not in ref or not ref.get("actif", True) or ref.get("methode") not in METHODES:
+        if not ("points" in ref or "pose" in ref) or not ref.get("actif", True) or ref.get("methode") not in METHODES:
             continue
         masque = nettoyer(METHODES[ref["methode"]](ref), ref.get("aire_min", 40))
         h, w = masque.shape
@@ -196,17 +219,29 @@ def poser_details(champ, base, k, W, H):
             # la mer lointaine d'une carte détaillée ne doit rien effacer.
             r = ref["abords"]
             emprise &= cv2.dilate(masque, cv2.getStructuringElement(cv2.MORPH_ELLIPSE, (2 * r + 1, 2 * r + 1)))
-        m = similitude(ref["points"])
-        m = affiner(m, masque, emprise, base, k)
+        for ex0, ey0, ex1, ey1 in ref.get("exclure", []):
+            emprise[ey0:ey1, ex0:ex1] = 0
+        if "pose" in ref:
+            # Pose imposée, sans rotation : échelle et position du coin haut gauche.
+            e, tx, ty = ref["pose"]
+            m = np.array([[e, 0, tx], [0, e, ty]], np.float64)
+        else:
+            m = similitude(ref["points"])
+            m = affiner(m, masque, emprise, base, k)
         echelle = np.hypot(*m[:, 0])
+        mc = (m + decale).astype(np.float32)  # vers les colonnes du champ
         poids = np.clip(ndimage.distance_transform_edt(emprise) / ref.get("fondu", 60), 0, 1).astype(np.float32)
+        if "fondu_bas" in ref:
+            # Raccord plus long en bas de l'emprise, vers un continent que la carte ne montre qu'en partie.
+            bas = np.clip((y1 - np.arange(h, dtype=np.float32)) / ref["fondu_bas"], 0, 1)[:, None]
+            poids = np.minimum(poids, bas)
         distance = (ndimage.distance_transform_edt(masque) - ndimage.distance_transform_edt(1 - masque)).astype(np.float32)
-        champ_d = cv2.warpAffine(distance * echelle, m.astype(np.float32), (W, H), flags=cv2.INTER_LINEAR)
-        poids = cv2.warpAffine(poids, m.astype(np.float32), (W, H), flags=cv2.INTER_LINEAR)
+        champ_d = cv2.warpAffine(distance * echelle, mc, (W, H), flags=cv2.INTER_LINEAR)
+        poids = cv2.warpAffine(poids, mc, (W, H), flags=cv2.INTER_LINEAR)
         if ref.get("isolee"):
             # Une île entourée de mer : la version de la base est effacée sur
             # toute l'emprise (élargie), pour ne pas laisser de morceaux décalés.
-            zone = cv2.warpAffine(emprise, m.astype(np.float32), (W, H), flags=cv2.INTER_NEAREST)
+            zone = cv2.warpAffine(emprise, mc, (W, H), flags=cv2.INTER_NEAREST)
             zone = cv2.dilate(zone, np.ones((2 * ref["isolee"] + 1,) * 2, np.uint8))
             champ[zone > 0] = np.minimum(champ[zone > 0], -4 * k)
         champ[:] = champ * (1 - poids) + champ_d * poids
@@ -221,7 +256,7 @@ def poser_details(champ, base, k, W, H):
                 if len(c) >= 3:
                     massifs.append(np.round(c @ m[:, :2].T + m[:, 2], 1).tolist())
         print(f"{nom} posée, échelle {echelle:.3f}")
-    (CACHE / "recalages.json").write_text(json.dumps({"cartes": recalages, "massifs": massifs}), encoding="utf-8")
+    (CACHE / "recalages.json").write_text(json.dumps({"cartes": recalages, "massifs": massifs, "effaces": effaces}), encoding="utf-8")
 
 
 def main():
@@ -237,7 +272,11 @@ def main():
     champ = (ndimage.distance_transform_edt(terre) - ndimage.distance_transform_edt(1 - terre)).astype(np.float32)
     champ = cv2.resize(champ, (W, H), interpolation=cv2.INTER_CUBIC)
     champ = cv2.GaussianBlur(champ, (0, 0), k * 0.8)
-    poser_details(champ, terre, k, W, H)
+    # Le cadre peut s'étendre à l'ouest de la carte de base (x négatifs), en mer.
+    ouest = cadre.get("ouest", 0)
+    champ = cv2.copyMakeBorder(champ, 0, 0, ouest, 0, cv2.BORDER_CONSTANT, value=-20.0)
+    W += ouest
+    poser_details(champ, terre, k, W, H, ouest)
     grand = (champ > 0).astype(np.uint8)
     cv2.imwrite(str(CACHE / "terre.png"), grand * 255)
 
@@ -253,9 +292,9 @@ def main():
         simple = cv2.approxPolyDP(c, 1.2, True)[:, 0, :]
         if len(simple) < 4:
             continue
-        lisse = chaikin(simple, 2) - marge
+        lisse = chaikin(simple, 2) - marge - [ouest, 0]
         anneaux.append({"trou": bool(parent != -1), "points": np.round(lisse, 1).tolist()})
-    (CACHE / "cotes.json").write_text(json.dumps({"largeur": W, "hauteur": H, "anneaux": anneaux}), encoding="utf-8")
+    (CACHE / "cotes.json").write_text(json.dumps({"largeur": W, "hauteur": H, "ouest": ouest, "anneaux": anneaux}), encoding="utf-8")
     print(f"Repère {W} x {H}, {len(anneaux)} contours, {sum(len(a['points']) for a in anneaux)} points")
 
 

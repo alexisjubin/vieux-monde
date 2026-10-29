@@ -44,6 +44,7 @@ def melange(a, b, t):
 
 def main(pas=2):
     terre_pleine = cv2.imread(str(CACHE / "terre.png"), cv2.IMREAD_GRAYSCALE)
+    ouest = json.loads((CACHE / "cotes.json").read_text(encoding="utf-8")).get("ouest", 0)  # colonne 0 = x -ouest
     H, W = terre_pleine.shape
     terre = cv2.resize(terre_pleine, (W // pas, H // pas), interpolation=cv2.INTER_AREA) > 127
     forme = terre.shape
@@ -76,7 +77,7 @@ def main(pas=2):
     for c in contours:
         if cv2.arcLength(c, True) < 300 / pas:
             continue
-        c = cv2.approxPolyDP(c, 1.0, True)[:, 0, :] * pas
+        c = cv2.approxPolyDP(c, 1.0, True)[:, 0, :] * pas - [ouest, 0]
         traits.append(np.round(c, 1).tolist())
     (CACHE / "plateau.json").write_text(json.dumps(traits), encoding="utf-8")
     print(f"fonds {W} x {H}, {len(traits)} lignes de plateau")

@@ -394,6 +394,33 @@ h1 {
   display: flex;
 }
 
+/* Sur petit écran, les commandes laissent la place du bouton Calques et passent sur deux lignes. */
+@media (max-width: 40rem) {
+  .commandes-carte {
+    max-width: calc(100% - 7.5rem);
+    flex-wrap: wrap;
+    justify-content: flex-end;
+  }
+}
+
+/* Carte en plein écran (voir basculerPleinEcran dans app.js). */
+.carte-plein-ecran,
+.carte-plein-ecran body {
+  overflow: hidden;
+}
+
+.cadre-carte.plein-ecran {
+  position: fixed;
+  inset: 0;
+  z-index: 50;
+  border: 0;
+}
+
+.cadre-carte.plein-ecran .carte {
+  height: 100vh;
+  height: 100dvh;
+}
+
 .calques {
   position: absolute;
   top: 0.6rem;
