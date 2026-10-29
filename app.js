@@ -18,7 +18,7 @@ const LANGUES = ["fr", "en", "de"];
 
 // À augmenter à chaque publication qui change les données ou la carte, pour
 // que les navigateurs ne gardent pas l'ancienne version en cache.
-const VERSION = 7;
+const VERSION = 8;
 
 const TEXTES = {
   fr: {
@@ -421,7 +421,14 @@ function largeurMonde() {
   return Math.max(vue.largeur, vue.hauteur * (b.width / b.height));
 }
 
-function cadrer(cx, cy, l) {
+// Redessiner des milliers de montagnes à chaque mouvement serait trop lent.
+// Pendant un geste, on se contente de déplacer et d'agrandir l'image déjà
+// rendue (transformation CSS, faite par la carte graphique), puis on redessine
+// la carte nette une seule fois, quand le geste s'arrête.
+const affichee = { x: 0, y: 0, l: 0 };
+let redessin = null;
+
+function cadrer(cx, cy, l, pendantUnGeste = false) {
   const svg = $("#carte svg");
   if (!svg) return;
   vue.l = Math.min(Math.max(l, vue.largeur / ZOOM_MAX), largeurMonde());
@@ -430,10 +437,26 @@ function cadrer(cx, cy, l) {
   const borne = (c, taille, total) => (taille >= total ? total / 2 : Math.min(Math.max(c, taille / 2), total - taille / 2));
   vue.x = borne(cx, vue.l, vue.largeur) - vue.l / 2;
   vue.y = borne(cy, h, vue.hauteur) - h / 2;
+  if (pendantUnGeste && affichee.l) {
+    const parPixel = boiteCarte().width / vue.l;
+    svg.style.transform = `translate(${(affichee.x - vue.x) * parPixel}px, ${(affichee.y - vue.y) * parPixel}px) scale(${affichee.l / vue.l})`;
+    clearTimeout(redessin);
+    redessin = setTimeout(afficherVue, 180);
+  } else {
+    afficherVue();
+  }
+}
+
+function afficherVue() {
+  const svg = $("#carte svg");
+  clearTimeout(redessin);
+  const h = hauteurVisible();
   svg.setAttribute("viewBox", `${vue.x.toFixed(1)} ${vue.y.toFixed(1)} ${vue.l.toFixed(1)} ${h.toFixed(1)}`);
+  svg.style.transform = "";
   svg.style.setProperty("--e", (vue.l / boiteCarte().width).toFixed(4));
   const grossissement = vue.largeur / vue.l;
   svg.dataset.zoom = grossissement < 2 ? 1 : grossissement < 4 ? 2 : grossissement < 8 ? 3 : 4;
+  Object.assign(affichee, { x: vue.x, y: vue.y, l: vue.l });
 }
 
 function cadrage(nom) {
@@ -443,7 +466,7 @@ function cadrage(nom) {
 }
 
 // Zoome d'un facteur en gardant fixe le point de la carte sous (clientX, clientY).
-function zoomerAutour(clientX, clientY, facteur) {
+function zoomerAutour(clientX, clientY, facteur, pendantUnGeste = false) {
   const b = boiteCarte();
   const fx = (clientX - b.left) / b.width;
   const fy = (clientY - b.top) / b.height;
@@ -451,7 +474,7 @@ function zoomerAutour(clientX, clientY, facteur) {
   const py = vue.y + fy * hauteurVisible();
   const l = Math.min(Math.max(vue.l / facteur, vue.largeur / ZOOM_MAX), largeurMonde());
   const h = hauteurVisible(l);
-  cadrer(px - fx * l + l / 2, py - fy * h + h / 2, l);
+  cadrer(px - fx * l + l / 2, py - fy * h + h / 2, l, pendantUnGeste);
 }
 
 function brancherDeplacements(svg) {
@@ -464,7 +487,7 @@ function brancherDeplacements(svg) {
 
   svg.addEventListener("wheel", (e) => {
     e.preventDefault();
-    zoomerAutour(e.clientX, e.clientY, Math.pow(1.0015, -e.deltaY * (e.deltaMode === 1 ? 30 : 1)));
+    zoomerAutour(e.clientX, e.clientY, Math.pow(1.0015, -e.deltaY * (e.deltaMode === 1 ? 30 : 1)), true);
   }, { passive: false });
 
   svg.addEventListener("dblclick", (e) => zoomerAutour(e.clientX, e.clientY, 2));
@@ -487,7 +510,7 @@ function brancherDeplacements(svg) {
       if (!glisse) svg.setPointerCapture(e.pointerId);
       glisse = true;
       const parPixel = depart.l / b.width;
-      cadrer(depart.x - dx * parPixel + depart.l / 2, depart.y - dy * parPixel + hauteurVisible(depart.l) / 2, depart.l);
+      cadrer(depart.x - dx * parPixel + depart.l / 2, depart.y - dy * parPixel + hauteurVisible(depart.l) / 2, depart.l, true);
     } else if (pointeurs.size === 2) {
       // Pincement : l'écart entre les deux doigts règle le zoom, autour de leur milieu de départ.
       const [a0, b0] = [...depart.pointeurs.values()];
@@ -496,7 +519,7 @@ function brancherDeplacements(svg) {
       const ecart1 = Math.hypot(a1[0] - b1[0], a1[1] - b1[1]);
       glisse = true;
       Object.assign(vue, { x: depart.x, y: depart.y, l: depart.l });
-      zoomerAutour((a0[0] + b0[0]) / 2, (a0[1] + b0[1]) / 2, ecart1 / Math.max(ecart0, 1));
+      zoomerAutour((a0[0] + b0[0]) / 2, (a0[1] + b0[1]) / 2, ecart1 / Math.max(ecart0, 1), true);
     }
   });
 

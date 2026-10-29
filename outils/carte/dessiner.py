@@ -15,10 +15,19 @@ from pathlib import Path
 
 import numpy as np
 
+from montagnes import bibliotheque, defs
+
 ICI = Path(__file__).resolve().parent
 RACINE = ICI.parent.parent
 CONFIG = json.loads((ICI / "references.json").read_text(encoding="utf-8"))
 alea = random.Random(2522)
+
+MONTAGNES = bibliotheque()
+PAR_FAMILLE = {}
+for _m in MONTAGNES:
+    PAR_FAMILLE.setdefault(_m[1], []).append(_m)
+# Au nord de cette ligne (repère final), les grands sommets sont enneigés.
+LIMITE_NEIGE = 1250
 
 
 def chemin(points, ferme=True):
@@ -59,66 +68,64 @@ def le_long(points, ecart):
     return sortie
 
 
-def pics(crete, largeur, k):
-    """Petites montagnes à l'encre, semées autour de la crête et dessinées du fond vers l'avant.
+def poser(x, y, centre, sommets):
+    """Choisit une montagne selon sa place dans la chaîne et l'ajoute à la liste à dessiner."""
+    if centre > 0.6:
+        famille = "neige" if y < LIMITE_NEIGE and alea.random() < 0.7 else alea.choice(["pic", "massif", "massif"])
+    elif centre > 0.3:
+        famille = alea.choice(["mont", "mont", "massif"])
+    else:
+        famille = "colline"
+    ident = alea.choice(PAR_FAMILLE[famille])[0]
+    echelle = (0.3 + 0.32 * centre) * alea.uniform(0.85, 1.15)
+    sommets.append((y, ident, x, echelle, alea.random() < 0.5))
 
-    La chaîne s'affine à ses extrémités et sa largeur ondule, les plus hauts
-    sommets sont sur la crête : on évite ainsi l'effet de bande régulière.
+
+def pics(crete, largeur, k, sommets):
+    """Sème les montagnes le long d'une crête : grands sommets au milieu, collines sur les bords.
+
+    La chaîne s'affine à ses extrémités et sa largeur ondule, pour éviter l'effet de bande.
     """
     crete = [(x * k, y * k) for x, y in crete]
     points = le_long(crete, 4)
     if not points:
-        return ""
-    demi = largeur * k
-    longueur = len(points) * 4
+        return
+    demi = largeur * k * 1.4
     phase, frequence = alea.uniform(0, 6.3), alea.uniform(1.5, 3.5)
-    nombre = int(longueur * (2 * demi + 10) / 230)
-    sommets = []
+    nombre = int(len(points) * 4 * (2 * demi + 16) / 380)
     for _ in range(nombre):
         i = alea.randrange(len(points))
         x, y, dx, dy = points[i]
         t = i / max(len(points) - 1, 1)
         profil = math.sin(math.pi * t) ** 0.5 * (0.75 + 0.25 * math.sin(phase + frequence * math.pi * t))
         u = alea.uniform(-1, 1)
-        u = math.copysign(abs(u) ** 1.3, u)
-        ecart = u * (demi * (0.3 + 0.7 * profil) + 5)
-        h = (9 + 15 * (1 - abs(u)) ** 1.6 * (0.45 + 0.55 * profil)) * alea.uniform(0.8, 1.2)
-        sommets.append((x - dy * ecart + alea.uniform(-3, 3), y + dx * ecart + alea.uniform(-3, 3), h))
-    sommets.sort(key=lambda s: s[1])
-    traits = []
-    for x, y, h in sommets:
-        l = h * alea.uniform(0.7, 0.95)
-        pente = alea.uniform(-0.2, 0.2) * l
-        d = f"M{x - l:.0f},{y:.0f}L{x + pente:.0f},{y - h:.0f}L{x + l:.0f},{y:.0f}Z"
-        # Versant à l'ombre : une ou deux hachures, selon la taille du sommet.
-        d += f"M{x + pente:.0f},{y - h:.0f}L{x + l * 0.3:.0f},{y:.0f}"
-        if h > 17:
-            d += f"M{x + pente + l * 0.3:.0f},{y - h * 0.55:.0f}L{x + l * 0.6:.0f},{y:.0f}"
-        traits.append(f'<path d="{d}"/>')
-    return "".join(traits)
+        u = math.copysign(abs(u) ** 1.2, u)
+        ecart = u * (demi * (0.35 + 0.65 * profil) + 8)
+        centre = (1 - abs(u)) ** 1.3 * (0.35 + 0.65 * profil)
+        poser(x - dy * ecart + alea.uniform(-3, 3), y + dx * ecart + alea.uniform(-3, 3), centre, sommets)
 
 
-def massif(contour):
-    """Montagnes semées à l'intérieur d'un contour (massifs relevés sur une carte détaillée)."""
-    sommets = []
+def massif(contour, sommets):
+    """Sème les montagnes dans un massif relevé sur une carte détaillée, plus hautes loin du bord."""
     xs, ys = [p[0] for p in contour], [p[1] for p in contour]
     y = min(ys)
     while y < max(ys):
         x = min(xs)
         while x < max(xs):
-            px, py = x + alea.uniform(-6, 6), y + alea.uniform(-4, 4)
-            if alea.random() > 0.15 and dedans((px, py), contour):
-                sommets.append((px, py, alea.uniform(10, 21)))
-            x += 15
-        y += 11
-    sommets.sort(key=lambda s: s[1])
+            px, py = x + alea.uniform(-8, 8), y + alea.uniform(-5, 5)
+            if alea.random() > 0.2 and dedans((px, py), contour):
+                bord = min(math.hypot(px - qx, py - qy) for qx, qy in contour)
+                poser(px, py, min(1.0, bord / 40) * alea.uniform(0.6, 1.0), sommets)
+            x += 24
+        y += 15
+
+
+def dessiner_montagnes(sommets):
+    """Toutes les montagnes ensemble, du fond (haut) vers l'avant (bas), pour que celles de devant masquent les autres."""
     traits = []
-    for x, y, h in sommets:
-        l = h * alea.uniform(0.7, 0.95)
-        pente = alea.uniform(-0.2, 0.2) * l
-        d = f"M{x - l:.0f},{y:.0f}L{x + pente:.0f},{y - h:.0f}L{x + l:.0f},{y:.0f}ZM{x + pente:.0f},{y - h:.0f}L{x + l * 0.3:.0f},{y:.0f}"
-        traits.append(f'<path d="{d}"/>')
-    return "".join(traits)
+    for y, ident, x, e, miroir in sorted(sommets):
+        traits.append(f'<use href="#{ident}" transform="translate({x:.0f} {y:.0f}) scale({-e if miroir else e:.2f} {e:.2f})"/>')
+    return f'<g class="relief">{"".join(traits)}</g>'
 
 
 def hors_cartes_detaillees(elements, emprises, k):
@@ -201,6 +208,7 @@ def main():
     calques = [
         f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {H}">',
         "<defs>",
+        defs(MONTAGNES),
         f'<path id="trace-terres" d="{terres}" fill-rule="evenodd" clip-rule="evenodd"/>',
         '<clipPath id="terres"><use href="#trace-terres"/></clipPath>',
         '<filter id="grain" x="0" y="0" width="100%" height="100%">'
@@ -230,11 +238,13 @@ def main():
         calques.append(f'<path class="fleuve rang-{r.get("rang", 2)}" d="{courbe([(x * k, y * k) for x, y in r["trace"]])}"/>')
     for l in elements.get("lacs", []):
         calques.append(f'<path class="lac" d="{courbe([(x * k, y * k) for x, y in l["contour"]], True)}"/>')
-    montagnes = sorted(elements.get("montagnes", []), key=lambda m: min(p[1] for p in m["crete"]))
-    for m in montagnes:
-        calques.append(f'<g class="relief">{pics(m["crete"], m.get("largeur", 6), k)}</g>')
+    sommets = []
+    for m in elements.get("montagnes", []):
+        pics(m["crete"], m.get("largeur", 6), k, sommets)
     for contour in recalages["massifs"]:
-        calques.append(f'<g class="relief">{massif([tuple(p) for p in contour])}</g>')
+        massif([tuple(p) for p in contour], sommets)
+    calques.append(dessiner_montagnes(sommets))
+    print(f"{len(sommets)} montagnes posées")
     calques += [
         "</g>",
         '<use class="cote" href="#trace-terres"/>',

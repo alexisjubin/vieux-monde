@@ -10,8 +10,10 @@
   --carte-mer: #a5845b;
   --carte-houle: #8d6d47;
   --carte-terre: #d8b884;
-  --carte-relief: #d2ae78;
-  --carte-encre: #46301b;
+  --carte-relief: #dcbd88;
+  --carte-lavis: #6b4a2a;
+  --carte-neige: #f1e6cc;
+  --carte-encre: #3e2a17;
   --carte-trait: #6a4d2e;
   --carte-foret: #bc9c63;
   --carte-desert: #e2c793;
@@ -374,6 +376,8 @@ h1 {
   height: 100%;
   font-family: var(--outil);
   user-select: none;
+  transform-origin: 0 0;
+  will-change: transform;
 }
 
 .commandes-carte {
@@ -417,7 +421,6 @@ h1 {
 .carte .terre { fill: var(--carte-terre); }
 .carte .grain { opacity: 0.55; }
 .carte .cote { fill: none; stroke: var(--carte-encre); stroke-width: 2.6; stroke-linejoin: round; }
-.carte .relief path { fill: var(--carte-relief); stroke: var(--carte-trait); stroke-width: 1.4; stroke-linejoin: round; stroke-linecap: round; }
 .carte .foret { fill: var(--carte-foret); opacity: 0.45; }
 .carte .arbres { fill: var(--carte-foret); stroke: var(--carte-trait); stroke-width: 1.2; }
 .carte .sable { fill: none; stroke: var(--carte-trait); stroke-width: 2; stroke-linecap: round; opacity: 0.45; }

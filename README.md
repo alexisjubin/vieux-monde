@@ -32,7 +32,7 @@ uv pip install --python .venv/Scripts/python.exe opencv-python-headless scikit-i
 ```
 
 1. `construire.py` extrait le trait de côte de la carte de référence (`references/ie-monde.webp`, la carte du monde de Total War: Warhammer III). Il sépare terre et mer avec des graines de mer posées à la main dans `references.json` et les 617 colonies de la carte interactive (`references/ie-factions.json`) comme graines de terre.
-2. `dessiner.py` dessine `carte.svg` à partir des côtes et des éléments relevés à la main dans `elements.json` (montagnes, forêts, fleuves, lacs, marais, déserts).
+2. `dessiner.py` dessine `carte.svg`. Les montagnes viennent de `montagnes.py`, une bibliothèque de 50 montagnes générées (lavis au pinceau, trait de plume effilé, hachures, neige), semées le long des crêtes : grands sommets au centre, collines sur les bords. `montagnes.py` lancé seul écrit une planche d'essai dans `cache/`. Le reste est tracé à partir des côtes et des éléments relevés à la main dans `elements.json` (montagnes, forêts, fleuves, lacs, marais, déserts).
 3. `lieux.py` place les lieux de `lieux.json` (par le nom de la colonie correspondante ou par une position relevée), ajoute les colonies, les provinces et les grands noms de `etiquettes.json`.
 
 Le dossier `references/` reste en local : il contient des cartes de Games Workshop et de Creative Assembly qui ne doivent pas être publiées. `outils/carte/apercu.html` affiche le fond de carte seul, avec `?vue=x,y,largeur,hauteur` pour zoomer.
