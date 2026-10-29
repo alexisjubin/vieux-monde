@@ -6,6 +6,9 @@
   --filet: #c4bdaf;
   --sang: #7a2320;
   --hachure: rgba(122, 35, 32, 0.12);
+  --mer: #cfd3cc;
+  --houle: #b9bfb6;
+  --fleuve: #6f8a94;
 
   --titre: "IM Fell English", Georgia, serif;
   --texte: "Alegreya", Georgia, serif;
@@ -62,7 +65,135 @@ a:hover {
 
 .entete {
   padding: 1rem 0 2rem;
+}
+
+.entete .chapeau {
   max-width: var(--mesure);
+}
+
+.barre {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+}
+
+.langues {
+  display: flex;
+  font-family: var(--outil);
+  font-size: 0.85rem;
+}
+
+.langues button {
+  font: inherit;
+  letter-spacing: 0.06em;
+  padding: 0.2rem 0.55rem;
+  background: none;
+  border: 1px solid var(--filet);
+  margin-left: -1px;
+  color: var(--gris);
+  cursor: pointer;
+}
+
+.langues button[aria-pressed="true"] {
+  background: var(--encre);
+  border-color: var(--encre);
+  color: var(--velin);
+}
+
+.langues button:hover:not([aria-pressed="true"]) {
+  color: var(--encre);
+  border-color: var(--encre);
+  position: relative;
+}
+
+/* Choix de la langue à la première visite */
+
+.accueil {
+  border: 0;
+  padding: 0;
+  width: 100%;
+  max-width: 100%;
+  height: 100%;
+  max-height: 100%;
+  margin: 0;
+  background: var(--pierre);
+  color: var(--encre);
+}
+
+.accueil[open] {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 2.5rem;
+}
+
+.accueil::backdrop {
+  background: var(--pierre);
+}
+
+.accueil h1 {
+  margin: 0;
+  text-align: center;
+  font-size: clamp(2.4rem, 7vw, 4.2rem);
+}
+
+.accueil h1 span {
+  display: block;
+  font-size: 0.45em;
+  color: var(--gris);
+  margin-top: 0.5rem;
+}
+
+.choix-langues {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  border-top: 1px solid var(--encre);
+  border-bottom: 1px solid var(--encre);
+}
+
+.choix-langues button {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 0.15rem;
+  min-width: 11rem;
+  padding: 1rem 1.4rem;
+  font: inherit;
+  text-align: left;
+  background: none;
+  border: 0;
+  border-left: 1px solid var(--filet);
+  color: var(--encre);
+  cursor: pointer;
+}
+
+.choix-langues button:first-child {
+  border-left: 0;
+}
+
+.choix-langues button:hover,
+.choix-langues button:focus-visible {
+  background: var(--velin);
+  outline: none;
+}
+
+.choix-langues button:focus-visible .nom-langue {
+  text-decoration: underline;
+  text-underline-offset: 0.2em;
+}
+
+.nom-langue {
+  font-family: var(--outil);
+  font-weight: 700;
+  font-size: 1.1rem;
+}
+
+.titre-langue {
+  font-family: var(--titre);
+  color: var(--gris);
 }
 
 .retour {
@@ -191,6 +322,250 @@ h1 {
   font-family: var(--outil);
   font-size: 0.9rem;
   color: var(--gris);
+}
+
+/* Carte */
+
+.vue-carte {
+  margin-bottom: 3rem;
+}
+
+.titre-section {
+  font-family: var(--titre);
+  font-weight: 400;
+  font-size: 1.9rem;
+  line-height: 1.15;
+  margin: 0 0 0.8rem;
+}
+
+.carte-et-legende {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 15rem;
+  gap: 2rem;
+  align-items: start;
+}
+
+.carte svg {
+  display: block;
+  width: 100%;
+  height: auto;
+  font-family: var(--outil);
+}
+
+.carte .mer { fill: var(--mer); }
+.carte .houle { fill: none; stroke: var(--houle); stroke-width: 9; stroke-linejoin: round; }
+.carte .terre { fill: var(--velin); stroke: var(--encre); stroke-width: 1.1; stroke-linejoin: round; }
+.carte .relief path { fill: var(--velin); stroke: var(--gris); stroke-width: 1; stroke-linejoin: round; }
+.carte .relief .ombre { fill: none; stroke-width: 0.8; }
+.carte .foret { fill: #dcdccb; }
+.carte .arbres { fill: none; stroke: #7d8a6a; stroke-width: 0.8; }
+.carte .fleuve { fill: none; stroke: var(--fleuve); stroke-width: 1.4; stroke-linecap: round; }
+.carte .frontiere { fill: none; stroke: var(--gris); stroke-width: 1; stroke-dasharray: 5 4; }
+.carte .bord { fill: none; stroke: var(--encre); stroke-width: 2; }
+
+.carte text {
+  paint-order: stroke;
+  stroke: var(--velin);
+  stroke-width: 3px;
+  stroke-linejoin: round;
+}
+
+.carte .etiquette-region {
+  font-family: var(--titre);
+  font-size: 20px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  text-anchor: middle;
+  fill: var(--gris);
+  stroke-width: 0;
+  opacity: 0.8;
+}
+
+.carte .etiquette-region-petite {
+  font-family: var(--titre);
+  font-size: 14px;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  text-anchor: middle;
+  fill: var(--gris);
+}
+
+.carte .etiquette-relief,
+.carte .etiquette-foret {
+  font-family: var(--texte);
+  font-style: italic;
+  font-size: 12px;
+  text-anchor: middle;
+  fill: var(--gris);
+}
+
+.carte .etiquette-mer {
+  font-family: var(--titre);
+  font-style: italic;
+  font-size: 15px;
+  letter-spacing: 0.08em;
+  text-anchor: middle;
+  fill: #5d6a6c;
+  stroke: var(--mer);
+}
+
+.carte .lieu {
+  font-size: 12.5px;
+  fill: var(--encre);
+}
+
+.carte .lieu .marque {
+  fill: var(--encre);
+  stroke: var(--velin);
+  stroke-width: 1.2;
+}
+
+.carte .lieu-site .marque {
+  fill: var(--velin);
+  stroke: var(--encre);
+  stroke-width: 1.6;
+}
+
+.carte .lieu-lointain {
+  font-style: italic;
+}
+
+.carte .lieu-lointain text {
+  stroke: var(--mer);
+}
+
+.carte .prise {
+  fill: transparent;
+}
+
+.carte .lieu[role="button"] {
+  cursor: pointer;
+}
+
+.carte .lieu.sans-evenement {
+  opacity: 0.45;
+}
+
+.carte .lieu[role="button"]:hover text,
+.carte .lieu[role="button"]:focus-visible text {
+  text-decoration: underline;
+}
+
+.carte .lieu:focus-visible {
+  outline: none;
+}
+
+.carte .lieu:focus-visible .prise {
+  stroke: var(--encre);
+  stroke-width: 1.5;
+}
+
+.carte .lieu.evoque .marque {
+  fill: var(--sang);
+  stroke: var(--velin);
+}
+
+.carte .lieu.evoque text {
+  fill: var(--sang);
+}
+
+.carte .lieu.retenu .marque {
+  fill: var(--sang);
+  stroke: var(--encre);
+  stroke-width: 2;
+}
+
+.carte .lieu.retenu text {
+  fill: var(--sang);
+  font-weight: 700;
+}
+
+.legende-carte {
+  font-family: var(--outil);
+  font-size: 0.92rem;
+  color: var(--gris);
+}
+
+.legende-carte p {
+  margin: 0 0 1rem;
+}
+
+.types-lieux {
+  list-style: none;
+  margin: 0 0 1.2rem;
+  padding: 0;
+}
+
+.types-lieux li {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.1rem 0;
+}
+
+.types-lieux svg {
+  width: 0.95rem;
+  height: 0.95rem;
+}
+
+.types-lieux .marque { fill: var(--encre); }
+.types-lieux .lieu-site .marque { fill: none; stroke: var(--encre); stroke-width: 1.6; }
+
+.lieux-choisis {
+  border-top: 1px solid var(--filet);
+  padding-top: 0.8rem;
+  color: var(--encre);
+}
+
+.lieux-choisis ul {
+  list-style: none;
+  margin: 0 0 0.6rem;
+  padding: 0;
+}
+
+.lieux-choisis li {
+  display: flex;
+  align-items: baseline;
+  gap: 0.4rem;
+  padding: 0.1rem 0;
+}
+
+.lieux-choisis .retirer {
+  margin-left: auto;
+  font: inherit;
+  line-height: 1;
+  padding: 0.1rem 0.4rem;
+  background: none;
+  border: 1px solid var(--filet);
+  color: var(--gris);
+  cursor: pointer;
+}
+
+.lieux-choisis .retirer:hover {
+  border-color: var(--encre);
+  color: var(--encre);
+}
+
+.lieux-choisis .vide {
+  margin: 0;
+}
+
+.lieux-evenement {
+  font-family: var(--outil);
+  font-size: 0.9rem;
+  color: var(--gris);
+}
+
+.lieux-evenement button {
+  font: inherit;
+  padding: 0;
+  background: none;
+  border: 0;
+  color: var(--sang);
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.18em;
+  cursor: pointer;
 }
 
 /* Corps : filtres et chronique */
@@ -425,6 +800,20 @@ legend {
   .evenement {
     grid-template-columns: 1fr;
     gap: 0.3rem;
+  }
+
+  .carte-et-legende {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 1rem;
+  }
+
+  .carte {
+    overflow-x: auto;
+  }
+
+  .carte svg {
+    width: 46rem;
+    max-width: none;
   }
 
   .age-nom {

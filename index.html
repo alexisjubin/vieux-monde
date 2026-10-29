@@ -4,53 +4,73 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Le Vieux Monde, une chronologie</title>
-  <meta name="description" content="Chronologie sourcée du Vieux Monde de Warhammer Fantasy et The Old World, filtrable par région et par faction.">
+  <meta name="description" content="Chronologie sourcée du Vieux Monde de Warhammer Fantasy et The Old World, avec carte, filtrable par région, lieu et faction. En français, anglais et allemand.">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Alegreya:ital,wght@0,400;0,600;1,400&family=Alegreya+Sans:wght@400;500;700&family=IM+Fell+English:ital@0;1&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="style.css?v=3">
+  <link rel="stylesheet" href="style.css?v=4">
 </head>
 <body>
+  <dialog id="accueil" class="accueil" aria-labelledby="titre-accueil">
+    <h1 id="titre-accueil">Le Vieux Monde <span>The Old World</span> <span>Die Alte Welt</span></h1>
+    <div class="choix-langues"></div>
+  </dialog>
+
   <div class="page">
 
     <header class="entete">
-      <a class="retour" href="https://alexisjubin.com/#projets">Alexis Jubin</a>
-      <h1>Le Vieux Monde</h1>
-      <p class="chapeau">Une chronologie de l'univers de Warhammer Fantasy et de The Old World, des Anciens à la Tempête du Chaos. Chaque événement renvoie aux livres et aux pages qui en parlent, et signale quand les sources ne s'accordent pas.</p>
+      <div class="barre">
+        <a class="retour" href="https://alexisjubin.com/#projets">Alexis Jubin</a>
+        <div class="langues" id="langues" role="group" aria-label="Langue / Language / Sprache"></div>
+      </div>
+      <h1 data-t="titre">Le Vieux Monde</h1>
+      <p class="chapeau" data-t="chapeau"></p>
     </header>
 
     <section class="vue" aria-labelledby="titre-vue">
-      <h2 id="titre-vue" class="cache">Vue d'ensemble</h2>
+      <h2 id="titre-vue" class="cache" data-t="vue"></h2>
       <div class="frise" id="frise" role="list"></div>
-      <p class="legende-frise">L'échelle n'est pas linéaire : chaque âge a sa propre largeur, pour que les huit mille ans restent lisibles. La bande hachurée marque l'époque où se déroule The Old World.</p>
+      <p class="legende-frise" data-t="legendeFrise"></p>
+    </section>
+
+    <section class="vue-carte" id="vue-carte" aria-labelledby="titre-carte">
+      <h2 id="titre-carte" class="titre-section" data-t="carte"></h2>
+      <div class="carte-et-legende">
+        <div class="carte" id="carte"></div>
+        <div class="legende-carte">
+          <p data-t="legendeCarte"></p>
+          <ul class="types-lieux" id="types-lieux"></ul>
+          <div class="lieux-choisis" id="lieux-choisis" aria-live="polite"></div>
+        </div>
+      </div>
     </section>
 
     <div class="corps">
       <aside class="filtres" aria-label="Filtres">
         <details open id="panneau-filtres">
-          <summary>Filtrer <span id="compte"></span></summary>
+          <summary><span data-t="filtrer"></span> <span id="compte"></span></summary>
 
           <label class="recherche">
-            <span>Chercher</span>
-            <input type="search" id="recherche" placeholder="Nagash, Altdorf, peste…" autocomplete="off">
+            <span data-t="chercher"></span>
+            <input type="search" id="recherche" autocomplete="off">
           </label>
 
           <fieldset>
-            <legend>Factions</legend>
+            <legend data-t="factions"></legend>
             <div id="filtre-factions" class="choix"></div>
           </fieldset>
 
           <fieldset>
-            <legend>Régions</legend>
+            <legend data-t="regions"></legend>
             <div id="filtre-regions" class="choix"></div>
           </fieldset>
 
           <fieldset>
-            <legend>Fiabilité</legend>
+            <legend data-t="fiabilite"></legend>
             <div id="filtre-fiabilites" class="choix"></div>
           </fieldset>
 
-          <button type="button" id="effacer" class="effacer">Tout afficher</button>
+          <button type="button" id="effacer" class="effacer" data-t="toutAfficher"></button>
         </details>
       </aside>
 
@@ -58,10 +78,10 @@
     </div>
 
     <footer class="pied">
-      <p>Projet personnel d'Alexis Jubin. Warhammer, The Old World et tous les noms associés appartiennent à Games Workshop. Les résumés sont rédigés à partir des livres officiels, de <a href="https://whfb.lexicanum.com/">Lexicanum</a> et de la Bibliothèque Impériale. Une erreur ou une source manquante ? <a href="mailto:aj@alexisjubin.com">Écrivez-moi</a>.</p>
+      <p id="pied"></p>
     </footer>
 
   </div>
-  <script src="app.js?v=3" defer></script>
+  <script src="app.js?v=4" defer></script>
 </body>
 </html>
