@@ -38,7 +38,7 @@ def marqueurs():
         province = re.search(r"Part of the \[\[([^\]|]+)", m["popup"].get("description", ""))
         yield {
             "nom": m["popup"]["title"].strip(),
-            "province": province[1].strip() if province else None,
+            "province": re.sub(r"\s*\(province\)$", "", province[1].strip()) if province else None,
             "x": round((x - x0) * k),
             "y": round((y1 - y) * k),
         }

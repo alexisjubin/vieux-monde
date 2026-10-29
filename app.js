@@ -16,6 +16,10 @@ const FICHIERS = [
 
 const LANGUES = ["fr", "en", "de"];
 
+// À augmenter à chaque publication qui change les données ou la carte, pour
+// que les navigateurs ne gardent pas l'ancienne version en cache.
+const VERSION = 7;
+
 const TEXTES = {
   fr: {
     titreDocument: "Le Vieux Monde, une chronologie",
@@ -380,7 +384,7 @@ const CADRAGES = {
 };
 
 async function chargerFondDeCarte() {
-  const reponse = await fetch("carte.svg?v=5");
+  const reponse = await fetch(`carte.svg?v=${VERSION}`);
   if (!reponse.ok) throw new Error(`carte.svg : ${reponse.status}`);
   const doc = new DOMParser().parseFromString(await reponse.text(), "image/svg+xml");
   const svg = document.importNode(doc.documentElement, true);
@@ -838,7 +842,7 @@ function toutConstruire() {
 }
 
 async function charger() {
-  const lire = (url) => fetch(url).then((r) => {
+  const lire = (url) => fetch(`${url}?v=${VERSION}`).then((r) => {
     if (!r.ok) throw new Error(`${url} : ${r.status}`);
     return r.json();
   });
