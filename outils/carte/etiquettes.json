@@ -98,7 +98,12 @@
    "fr": "Mer Lointaine",
    "en": "The Far Sea",
    "de": "Ferne See"
-  }
+  },
+  "carte": "lustrie",
+  "px": [
+   -150,
+   1300
+  ]
  },
  {
   "type": "mer",
@@ -164,7 +169,12 @@
    "en": "Sea of Squalls",
    "de": "Böenmeer"
   },
-  "angle": -90
+  "angle": -90,
+  "carte": "lustrie",
+  "px": [
+   -90,
+   520
+  ]
  },
  {
   "type": "mer",
@@ -354,7 +364,12 @@
    "en": "Lustria",
    "de": "Lustria"
   },
-  "angle": -35
+  "angle": 58,
+  "carte": "lustrie",
+  "px": [
+   560,
+   1180
+  ]
  },
  {
   "type": "region",
@@ -465,6 +480,57 @@
    "fr": "Colonies orientales",
    "en": "Eastern Colonies",
    "de": "Östliche Kolonien"
+  }
+ },
+ {
+  "type": "mer",
+  "ie_px": [
+   0,
+   0
+  ],
+  "carte": "lustrie",
+  "px": [
+   330,
+   275
+  ],
+  "nom": {
+   "fr": "Golfe de Lustrie",
+   "en": "Gulf of Lustria",
+   "de": "Golf von Lustria"
+  }
+ },
+ {
+  "type": "mer",
+  "ie_px": [
+   0,
+   0
+  ],
+  "carte": "lustrie",
+  "px": [
+   680,
+   425
+  ],
+  "nom": {
+   "fr": "Le Bassin du Monde",
+   "en": "The World Basin",
+   "de": "Das Weltbecken"
+  }
+ },
+ {
+  "type": "region-petite",
+  "ie_px": [
+   0,
+   0
+  ],
+  "carte": "lustrie",
+  "px": [
+   658,
+   935
+  ],
+  "nom": {
+   "fr": "La Grande Jungle",
+   "en": "The Great Jungle",
+   "de": "Der Große Dschungel"
   }
  }
 ]

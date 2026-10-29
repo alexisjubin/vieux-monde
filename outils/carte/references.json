@@ -5,7 +5,8 @@
     "ouest": 850,
     "effacer": [
       [-1500, -600, 1320, 1330, 160],
-      [-1500, 1330, 230, 5000, 110]
+      [-1500, 1330, 230, 5000, 110],
+      [-1500, 2150, 1350, 5000, 160]
     ]
   },
   "references": {
@@ -1555,6 +1556,1574 @@
               [950, 1260],
               [890, 1270],
               [860, 1180]
+            ]
+          }
+        ]
+      }
+    },
+    "lustrie": {
+      "fichier": "references/lustrie-gw.webp",
+      "note": "Carte de la Lustrie de Games Workshop. Elle fait foi sur toute la Lustrie : posée sans rotation, calée sur la carte de Naggaroth qui en montre le nord (Hexoatl, Pahuax, le Visage d'Obsidienne).",
+      "methode": "teinte",
+      "canal": "a",
+      "seuil_mer": 102,
+      "seuil_terre": 110,
+      "decors": [
+        [30, 55, 272, 418],
+        [765, 42, 1392, 668],
+        [42, 1555, 455, 1950],
+        [1222, 1375, 1372, 1795],
+        [1192, 1010, 1325, 1112]
+      ],
+      "emprise": [0, 0, 1426, 2000],
+      "pose": [1.00993, -322.83, 2359.28],
+      "fondu": 60,
+      "aire_min": 150,
+      "trous_min": 300000,
+      "exclure": [
+        [30, 55, 272, 418],
+        [765, 42, 1392, 668],
+        [42, 1555, 455, 1950]
+      ],
+      "lieux": [
+        [
+          {
+            "fr": "Hexoatl",
+            "en": "Hexoatl",
+            "de": "Hexoatl"
+          },
+          "ville",
+          350,
+          42,
+          "hexoatl"
+        ],
+        [
+          {
+            "fr": "Pahuax",
+            "en": "Pahuax",
+            "de": "Pahuax"
+          },
+          "ruine",
+          345,
+          150,
+          "pahuax"
+        ],
+        [
+          {
+            "fr": "Itza",
+            "en": "Itza",
+            "de": "Itza"
+          },
+          "ville",
+          687,
+          1262,
+          "itza"
+        ],
+        [
+          {
+            "fr": "Tlaxtlan",
+            "en": "Tlaxtlan",
+            "de": "Tlaxtlan"
+          },
+          "ville",
+          600,
+          830,
+          "tlaxtlan"
+        ],
+        [
+          {
+            "fr": "Tlanxla",
+            "en": "Tlanxla",
+            "de": "Tlanxla"
+          },
+          "ville",
+          432,
+          830,
+          "tlanxla"
+        ],
+        [
+          {
+            "fr": "Xahutec",
+            "en": "Xahutec",
+            "de": "Xahutec"
+          },
+          "ville",
+          757,
+          830,
+          "xahutec"
+        ],
+        [
+          {
+            "fr": "Xlanhuapec",
+            "en": "Xlanhuapec",
+            "de": "Xlanhuapec"
+          },
+          "ville",
+          835,
+          1068,
+          "xlanhuapec"
+        ],
+        [
+          {
+            "fr": "Axlotl",
+            "en": "Axlotl",
+            "de": "Axlotl"
+          },
+          "ville",
+          830,
+          1262,
+          "axlotl"
+        ],
+        [
+          {
+            "fr": "Chaqua",
+            "en": "Chaqua",
+            "de": "Chaqua"
+          },
+          "ruine",
+          680,
+          1090,
+          "chaqua"
+        ],
+        [
+          {
+            "fr": "Quetza",
+            "en": "Quetza",
+            "de": "Quetza"
+          },
+          "ruine",
+          770,
+          1178,
+          "quetza"
+        ],
+        [
+          {
+            "fr": "Huatl",
+            "en": "Huatl",
+            "de": "Huatl"
+          },
+          "ville",
+          1075,
+          1005,
+          "huatl"
+        ],
+        [
+          {
+            "fr": "Lustrie",
+            "en": "Lustria",
+            "de": "Lustria"
+          },
+          "region",
+          640,
+          1150,
+          "lustrie"
+        ],
+        [
+          {
+            "fr": "Côte des Vampires",
+            "en": "Vampire Coast",
+            "de": "Vampirküste"
+          },
+          "site",
+          1100,
+          1060,
+          "cote-des-vampires"
+        ],
+        [
+          {
+            "fr": "Citadelle du Crépuscule",
+            "en": "Citadel of Dusk",
+            "de": "Zitadelle der Dämmerung"
+          },
+          "forteresse",
+          1276,
+          1925,
+          "citadelle-du-crepuscule"
+        ],
+        [
+          {
+            "fr": "Skeggi",
+            "en": "Skeggi",
+            "de": "Skeggi"
+          },
+          "ville",
+          418,
+          55,
+          "skeggi"
+        ],
+        [
+          {
+            "fr": "Cadavo",
+            "en": "Cadavo",
+            "de": "Cadavo"
+          },
+          "ruine",
+          407,
+          107,
+          "cadavo"
+        ],
+        [
+          {
+            "fr": "Qu'ittax",
+            "en": "Qu'ittax",
+            "de": "Qu'ittax"
+          },
+          "ville",
+          520,
+          912,
+          null
+        ],
+        [
+          {
+            "fr": "Hualotal",
+            "en": "Hualotal",
+            "de": "Hualotal"
+          },
+          "ruine",
+          355,
+          922,
+          null
+        ],
+        [
+          {
+            "fr": "Spektazuma",
+            "en": "Spektazuma",
+            "de": "Spektazuma"
+          },
+          "ruine",
+          362,
+          585,
+          null
+        ],
+        [
+          {
+            "fr": "Zarmuda",
+            "en": "Zarmuda",
+            "de": "Zarmuda"
+          },
+          "ruine",
+          712,
+          520,
+          null
+        ],
+        [
+          {
+            "fr": "Xhotl",
+            "en": "Xhotl",
+            "de": "Xhotl"
+          },
+          "ruine",
+          605,
+          1358,
+          null
+        ],
+        [
+          {
+            "fr": "Tlax",
+            "en": "Tlax",
+            "de": "Tlax"
+          },
+          "ruine",
+          987,
+          905,
+          null
+        ],
+        [
+          {
+            "fr": "Subatuun",
+            "en": "Subatuun",
+            "de": "Subatuun"
+          },
+          "ruine",
+          683,
+          1440,
+          null
+        ],
+        [
+          {
+            "fr": "Oyxl",
+            "en": "Oyxl",
+            "de": "Oyxl"
+          },
+          "ruine",
+          765,
+          1525,
+          null
+        ],
+        [
+          {
+            "fr": "Chupayotl",
+            "en": "Chupayotl",
+            "de": "Chupayotl"
+          },
+          "ruine",
+          1090,
+          1540,
+          null
+        ],
+        [
+          {
+            "fr": "Kaiax",
+            "en": "Kaiax",
+            "de": "Kaiax"
+          },
+          "ruine",
+          950,
+          1888,
+          null
+        ],
+        [
+          {
+            "fr": "Xlanzec",
+            "en": "Xlanzec",
+            "de": "Xlanzec"
+          },
+          "ruine",
+          1092,
+          1893,
+          null
+        ],
+        [
+          {
+            "fr": "Cité des Morts",
+            "en": "City of the Dead",
+            "de": "Stadt der Toten"
+          },
+          "ruine",
+          1080,
+          1170,
+          null
+        ],
+        [
+          {
+            "fr": "Ruines d'Huanabic",
+            "en": "Ruins of Huanabic",
+            "de": "Ruins of Huanabic"
+          },
+          "ruine",
+          758,
+          1008,
+          null
+        ],
+        [
+          {
+            "fr": "La Haute Sentinelle",
+            "en": "The High Sentinel",
+            "de": "The High Sentinel"
+          },
+          "site",
+          520,
+          222,
+          null
+        ],
+        [
+          {
+            "fr": "Le Visage d'Obsidienne",
+            "en": "The Obsidian Face",
+            "de": "The Obsidian Face"
+          },
+          "site",
+          437,
+          238,
+          null
+        ],
+        [
+          {
+            "fr": "La Pyramide Flottante",
+            "en": "The Floating Pyramid",
+            "de": "The Floating Pyramid"
+          },
+          "site",
+          440,
+          318,
+          null
+        ],
+        [
+          {
+            "fr": "Temples engloutis d'Itzabelo",
+            "en": "Sunken Temples of Itzabelo",
+            "de": "Sunken Temples of Itzabelo"
+          },
+          "site",
+          598,
+          318,
+          null
+        ],
+        [
+          {
+            "fr": "La Porte Engloutie",
+            "en": "The Sunken Gate",
+            "de": "The Sunken Gate"
+          },
+          "site",
+          520,
+          402,
+          null
+        ],
+        [
+          {
+            "fr": "Île du Crâne Carmin",
+            "en": "Crimson Skull Isle",
+            "de": "Crimson Skull Isle"
+          },
+          "site",
+          100,
+          460,
+          null
+        ],
+        [
+          {
+            "fr": "Les Cloaques Mordants",
+            "en": "The Biting Cesspools",
+            "de": "The Biting Cesspools"
+          },
+          "site",
+          232,
+          590,
+          null
+        ],
+        [
+          {
+            "fr": "Monument d'Izzatal",
+            "en": "Monument of Izzatal",
+            "de": "Monument of Izzatal"
+          },
+          "site",
+          288,
+          668,
+          null
+        ],
+        [
+          {
+            "fr": "Îles des Dragons",
+            "en": "Dragon Isles",
+            "de": "Dragon Isles"
+          },
+          "site",
+          80,
+          680,
+          null
+        ],
+        [
+          {
+            "fr": "Temple de Kara",
+            "en": "Temple of Kara",
+            "de": "Temple of Kara"
+          },
+          "site",
+          603,
+          658,
+          null
+        ],
+        [
+          {
+            "fr": "Île des Sacrifices",
+            "en": "Isle of Sacrifices",
+            "de": "Isle of Sacrifices"
+          },
+          "site",
+          710,
+          640,
+          null
+        ],
+        [
+          {
+            "fr": "Xocibiki",
+            "en": "Xocibiki",
+            "de": "Xocibiki"
+          },
+          "site",
+          690,
+          686,
+          null
+        ],
+        [
+          {
+            "fr": "Île des Amazones",
+            "en": "Isle of the Amazons",
+            "de": "Isle of the Amazons"
+          },
+          "site",
+          680,
+          712,
+          null
+        ],
+        [
+          {
+            "fr": "Sources de l'Éternité",
+            "en": "Springs of Eternity",
+            "de": "Springs of Eternity"
+          },
+          "site",
+          225,
+          738,
+          null
+        ],
+        [
+          {
+            "fr": "Le Palus Puant",
+            "en": "The Stinking Fen",
+            "de": "The Stinking Fen"
+          },
+          "site",
+          262,
+          773,
+          null
+        ],
+        [
+          {
+            "fr": "Les Piliers des Constellations Cachées",
+            "en": "Pillars of the Hidden Constellations",
+            "de": "Pillars of the Hidden Constellations"
+          },
+          "site",
+          140,
+          812,
+          null
+        ],
+        [
+          {
+            "fr": "Grotte du Mlexigaur",
+            "en": "Cave of the Mlexigaur",
+            "de": "Cave of the Mlexigaur"
+          },
+          "site",
+          258,
+          853,
+          null
+        ],
+        [
+          {
+            "fr": "La Chambre Sanglante",
+            "en": "The Bloody Chamber",
+            "de": "The Bloody Chamber"
+          },
+          "site",
+          75,
+          905,
+          null
+        ],
+        [
+          {
+            "fr": "Marais de Mal'liente",
+            "en": "Mal'liente Marshes",
+            "de": "Mal'liente Marshes"
+          },
+          "site",
+          282,
+          977,
+          null
+        ],
+        [
+          {
+            "fr": "Pics de la Veille Céleste",
+            "en": "Peaks of the Celestial Watch",
+            "de": "Peaks of the Celestial Watch"
+          },
+          "site",
+          300,
+          1040,
+          null
+        ],
+        [
+          {
+            "fr": "Vallée de Gwangee",
+            "en": "Gwangee Valley",
+            "de": "Gwangee Valley"
+          },
+          "site",
+          428,
+          1018,
+          null
+        ],
+        [
+          {
+            "fr": "Ruines du temple de Chiquibol",
+            "en": "Ruins of the Temple of Chiquibol",
+            "de": "Ruins of the Temple of Chiquibol"
+          },
+          "site",
+          360,
+          1100,
+          null
+        ],
+        [
+          {
+            "fr": "La Ziggourat Dorée",
+            "en": "The Golden Ziggurat",
+            "de": "The Golden Ziggurat"
+          },
+          "site",
+          137,
+          1190,
+          null
+        ],
+        [
+          {
+            "fr": "Chambre des Visions",
+            "en": "Chamber of Visions",
+            "de": "Chamber of Visions"
+          },
+          "site",
+          287,
+          1190,
+          null
+        ],
+        [
+          {
+            "fr": "Chambre des Bénis",
+            "en": "Chamber of the Blessed",
+            "de": "Chamber of the Blessed"
+          },
+          "site",
+          447,
+          1190,
+          null
+        ],
+        [
+          {
+            "fr": "Cratère de Gwakmol",
+            "en": "Gwakmol Crater",
+            "de": "Gwakmol Crater"
+          },
+          "site",
+          628,
+          1186,
+          null
+        ],
+        [
+          {
+            "fr": "Les Mares d'Émeraude",
+            "en": "The Emerald Pools",
+            "de": "The Emerald Pools"
+          },
+          "site",
+          683,
+          1185,
+          null
+        ],
+        [
+          {
+            "fr": "Gouffre du Condor",
+            "en": "Condor's Chasm",
+            "de": "Condor's Chasm"
+          },
+          "site",
+          485,
+          1212,
+          null
+        ],
+        [
+          {
+            "fr": "Tour de la Foudre",
+            "en": "Tower of Lightning",
+            "de": "Tower of Lightning"
+          },
+          "site",
+          522,
+          1272,
+          null
+        ],
+        [
+          {
+            "fr": "Les Sentinelles de Xeti",
+            "en": "The Sentinels of Xeti",
+            "de": "The Sentinels of Xeti"
+          },
+          "site",
+          213,
+          1272,
+          null
+        ],
+        [
+          {
+            "fr": "Îles des Tortues",
+            "en": "Turtle Isles",
+            "de": "Turtle Isles"
+          },
+          "site",
+          138,
+          1278,
+          null
+        ],
+        [
+          {
+            "fr": "Grottes de la Chauve-souris",
+            "en": "Bat Caves",
+            "de": "Bat Caves"
+          },
+          "site",
+          422,
+          1287,
+          null
+        ],
+        [
+          {
+            "fr": "Île de la Bête",
+            "en": "Isle of the Beast",
+            "de": "Isle of the Beast"
+          },
+          "site",
+          68,
+          1372,
+          null
+        ],
+        [
+          {
+            "fr": "Mine des Crânes Barbus",
+            "en": "Mine of the Bearded Skulls",
+            "de": "Mine of the Bearded Skulls"
+          },
+          "site",
+          513,
+          1437,
+          null
+        ],
+        [
+          {
+            "fr": "Les Îles Boueuses",
+            "en": "The Mud Isles",
+            "de": "The Mud Isles"
+          },
+          "site",
+          242,
+          1505,
+          null
+        ],
+        [
+          {
+            "fr": "Le Colosse d'Or",
+            "en": "The Golden Colossus",
+            "de": "The Golden Colossus"
+          },
+          "site",
+          373,
+          1488,
+          null
+        ],
+        [
+          {
+            "fr": "Ruines du temple-pyramide de Tlencan",
+            "en": "Ruins of the Temple-Pyramid of Tlencan",
+            "de": "Ruins of the Temple-Pyramid of Tlencan"
+          },
+          "site",
+          837,
+          770,
+          null
+        ],
+        [
+          {
+            "fr": "Le Puits du Temps",
+            "en": "The Well of Time",
+            "de": "The Well of Time"
+          },
+          "site",
+          805,
+          878,
+          null
+        ],
+        [
+          {
+            "fr": "Flèche d'Or de Chotec",
+            "en": "Golden Spire of Chotec",
+            "de": "Golden Spire of Chotec"
+          },
+          "site",
+          930,
+          850,
+          null
+        ],
+        [
+          {
+            "fr": "Marécages des Moustiques",
+            "en": "Mosquito Swamps",
+            "de": "Mosquito Swamps"
+          },
+          "site",
+          812,
+          930,
+          null
+        ],
+        [
+          {
+            "fr": "Marais de la Peste",
+            "en": "Plague Marshes",
+            "de": "Plague Marshes"
+          },
+          "site",
+          1175,
+          962,
+          null
+        ],
+        [
+          {
+            "fr": "L'Île engloutie des Dieux",
+            "en": "Sunken Isle of the Gods",
+            "de": "Sunken Isle of the Gods"
+          },
+          "site",
+          1263,
+          790,
+          null
+        ],
+        [
+          {
+            "fr": "Les Fanges de Sang",
+            "en": "The Blood Mire",
+            "de": "The Blood Mire"
+          },
+          "site",
+          972,
+          1147,
+          null
+        ],
+        [
+          {
+            "fr": "Les Îles Volcaniques",
+            "en": "The Volcanic Isles",
+            "de": "The Volcanic Isles"
+          },
+          "site",
+          1190,
+          1190,
+          null
+        ],
+        [
+          {
+            "fr": "Le Serpent qui Fume",
+            "en": "The Smoking Serpent",
+            "de": "The Smoking Serpent"
+          },
+          "site",
+          1097,
+          1222,
+          null
+        ],
+        [
+          {
+            "fr": "Le Serpent qui Crache",
+            "en": "The Spitting Serpent",
+            "de": "The Spitting Serpent"
+          },
+          "site",
+          1093,
+          1272,
+          null
+        ],
+        [
+          {
+            "fr": "Tour des Étoiles",
+            "en": "Tower of the Stars",
+            "de": "Tower of the Stars"
+          },
+          "site",
+          1080,
+          1290,
+          null
+        ],
+        [
+          {
+            "fr": "Autel du Rat Cornu",
+            "en": "Altar of the Horned Rat",
+            "de": "Altar of the Horned Rat"
+          },
+          "site",
+          985,
+          1330,
+          null
+        ],
+        [
+          {
+            "fr": "Sépulcre de Tzulaqua",
+            "en": "Sepulchre of Tzulaqua",
+            "de": "Sepulchre of Tzulaqua"
+          },
+          "site",
+          760,
+          1360,
+          null
+        ],
+        [
+          {
+            "fr": "Empreintes des Anciens",
+            "en": "Footprints of the Old Ones",
+            "de": "Footprints of the Old Ones"
+          },
+          "site",
+          895,
+          1395,
+          null
+        ],
+        [
+          {
+            "fr": "Routes Célestes",
+            "en": "Celestial Roads",
+            "de": "Celestial Roads"
+          },
+          "site",
+          883,
+          1530,
+          null
+        ],
+        [
+          {
+            "fr": "Le Doigt vers le Ciel",
+            "en": "The Finger to the Sky",
+            "de": "The Finger to the Sky"
+          },
+          "site",
+          652,
+          1560,
+          null
+        ],
+        [
+          {
+            "fr": "La Vallée Perdue",
+            "en": "The Lost Valley",
+            "de": "The Lost Valley"
+          },
+          "site",
+          690,
+          1560,
+          null
+        ],
+        [
+          {
+            "fr": "Vallée des Cratères",
+            "en": "Valley of Craters",
+            "de": "Valley of Craters"
+          },
+          "site",
+          805,
+          1610,
+          null
+        ],
+        [
+          {
+            "fr": "Le Lac de Feu",
+            "en": "The Lake of Fire",
+            "de": "The Lake of Fire"
+          },
+          "site",
+          1023,
+          1590,
+          null
+        ],
+        [
+          {
+            "fr": "Le Pic Trois-fois Maudit",
+            "en": "The Thrice-Cursed Peak",
+            "de": "The Thrice-Cursed Peak"
+          },
+          "site",
+          665,
+          1640,
+          null
+        ],
+        [
+          {
+            "fr": "Le Dieu qui Siffle",
+            "en": "The Whistling God",
+            "de": "The Whistling God"
+          },
+          "site",
+          1087,
+          1690,
+          null
+        ],
+        [
+          {
+            "fr": "La Sentinelle du Temps",
+            "en": "The Sentinel of Time",
+            "de": "The Sentinel of Time"
+          },
+          "site",
+          898,
+          1748,
+          null
+        ],
+        [
+          {
+            "fr": "Les Îles Oubliées",
+            "en": "The Forgotten Isles",
+            "de": "The Forgotten Isles"
+          },
+          "site",
+          548,
+          1795,
+          null
+        ],
+        [
+          {
+            "fr": "La Porte de Poussière",
+            "en": "The Gate of Dust",
+            "de": "The Gate of Dust"
+          },
+          "site",
+          686,
+          1745,
+          null
+        ],
+        [
+          {
+            "fr": "Les Sentinelles Australes",
+            "en": "The Southern Sentinels",
+            "de": "The Southern Sentinels"
+          },
+          "site",
+          1050,
+          1830,
+          null
+        ],
+        [
+          {
+            "fr": "Port des Pillards",
+            "en": "Raiders' Port",
+            "de": "Raiders' Port"
+          },
+          "site",
+          426,
+          104,
+          null
+        ],
+        [
+          {
+            "fr": "Marigobourg",
+            "en": "Marienburg Landing",
+            "de": "Marienburg Landing"
+          },
+          "site",
+          395,
+          120,
+          null
+        ],
+        [
+          {
+            "fr": "Dalmark",
+            "en": "Dalmark",
+            "de": "Dalmark"
+          },
+          "site",
+          406,
+          150,
+          null
+        ],
+        [
+          {
+            "fr": "Monument de la Lune",
+            "en": "Monument of the Moon",
+            "de": "Monument of the Moon"
+          },
+          "site",
+          411,
+          139,
+          null
+        ],
+        [
+          {
+            "fr": "Temple de Huanchi",
+            "en": "Temple of Huanchi",
+            "de": "Temple of Huanchi"
+          },
+          "site",
+          381,
+          176,
+          null
+        ],
+        [
+          {
+            "fr": "Pyramides stellaires des Cieux Australs",
+            "en": "Star Pyramids of the Southern Skies",
+            "de": "Star Pyramids of the Southern Skies"
+          },
+          "site",
+          349,
+          67,
+          null
+        ],
+        [
+          {
+            "fr": "La Ziggourat de l'Aube",
+            "en": "The Ziggurat of Dawn",
+            "de": "The Ziggurat of Dawn"
+          },
+          "site",
+          393,
+          60,
+          null
+        ],
+        [
+          {
+            "fr": "Têtes colossales des Dieux Déchus",
+            "en": "Colossal Heads of the Fallen Gods",
+            "de": "Colossal Heads of the Fallen Gods"
+          },
+          "site",
+          423,
+          89,
+          null
+        ],
+        [
+          {
+            "fr": "Étang Miroir de Tepok",
+            "en": "Mirror Pool of Tepok",
+            "de": "Mirror Pool of Tepok"
+          },
+          "site",
+          370,
+          26,
+          null
+        ],
+        [
+          {
+            "fr": "La Tombe d'Or",
+            "en": "The Golden Tomb",
+            "de": "The Golden Tomb"
+          },
+          "site",
+          322,
+          20,
+          null
+        ],
+        [
+          {
+            "fr": "La Pyramide de Sang",
+            "en": "The Blood Pyramid",
+            "de": "The Blood Pyramid"
+          },
+          "site",
+          324,
+          43,
+          null
+        ],
+        [
+          {
+            "fr": "La Colonne d'Obsidienne",
+            "en": "The Obsidian Column",
+            "de": "The Obsidian Column"
+          },
+          "site",
+          349,
+          95,
+          null
+        ],
+        [
+          {
+            "fr": "Temple des Constellations",
+            "en": "Temple of the Constellations",
+            "de": "Temple of the Constellations"
+          },
+          "site",
+          369,
+          119,
+          null
+        ],
+        [
+          {
+            "fr": "La Lance des Dieux",
+            "en": "The Spear of the Gods",
+            "de": "The Spear of the Gods"
+          },
+          "site",
+          307,
+          95,
+          null
+        ],
+        [
+          {
+            "fr": "Pics du Macu",
+            "en": "Macu Peaks",
+            "de": "Macu Peaks"
+          },
+          "site",
+          325,
+          109,
+          null
+        ],
+        [
+          {
+            "fr": "Mares de Xlaxgor",
+            "en": "Xlaxgor Pools",
+            "de": "Xlaxgor Pools"
+          },
+          "site",
+          287,
+          121,
+          null
+        ],
+        [
+          {
+            "fr": "Le Veilleur",
+            "en": "The Watcher",
+            "de": "The Watcher"
+          },
+          "site",
+          309,
+          151,
+          null
+        ],
+        [
+          {
+            "fr": "Sanctuaire de Sotek",
+            "en": "Shrine of Sotek",
+            "de": "Shrine of Sotek"
+          },
+          "site",
+          278,
+          175,
+          null
+        ]
+      ],
+      "elements": {
+        "montagnes": [
+          {
+            "nom": {
+              "fr": "L'Échine de Sotek",
+              "en": "The Spine of Sotek",
+              "de": "Rückgrat des Sotek"
+            },
+            "crete": [
+              [290, 700],
+              [320, 850],
+              [360, 1000],
+              [420, 1150],
+              [480, 1300],
+              [560, 1450],
+              [640, 1560],
+              [720, 1660],
+              [820, 1760],
+              [900, 1850]
+            ],
+            "largeur": 70
+          },
+          {
+            "nom": {
+              "fr": "Monts du Golfe",
+              "en": "Gulf Heights",
+              "de": "Gulf Heights"
+            },
+            "crete": [
+              [290, 335],
+              [325, 400],
+              [350, 460]
+            ],
+            "largeur": 40
+          },
+          {
+            "nom": {
+              "fr": "Pics de la Veille Céleste",
+              "en": "Peaks of the Celestial Watch",
+              "de": "Peaks of the Celestial Watch"
+            },
+            "crete": [
+              [230, 800],
+              [265, 900],
+              [295, 1000],
+              [325, 1080]
+            ],
+            "largeur": 40
+          },
+          {
+            "nom": {
+              "fr": "Monts australs",
+              "en": "Southern Heights",
+              "de": "Southern Heights"
+            },
+            "crete": [
+              [760, 1700],
+              [880, 1760],
+              [1000, 1830],
+              [1100, 1870]
+            ],
+            "largeur": 50
+          },
+          {
+            "nom": {
+              "fr": "Pics du Macu",
+              "en": "Macu Peaks",
+              "de": "Macu Peaks"
+            },
+            "crete": [
+              [317, 104],
+              [334, 109]
+            ],
+            "largeur": 12
+          }
+        ],
+        "forets": [
+          {
+            "nom": {
+              "fr": "La Grande Jungle",
+              "en": "The Great Jungle",
+              "de": "The Great Jungle"
+            },
+            "contour": [
+              [600, 885],
+              [700, 880],
+              [760, 930],
+              [740, 1000],
+              [640, 1005],
+              [590, 950]
+            ]
+          },
+          {
+            "nom": {
+              "fr": "La Jungle de Toile",
+              "en": "The Web Jungle",
+              "de": "The Web Jungle"
+            },
+            "contour": [
+              [920, 1010],
+              [1000, 1005],
+              [1025, 1050],
+              [990, 1085],
+              [925, 1075]
+            ]
+          },
+          {
+            "nom": {
+              "fr": "La Jungle Maudite",
+              "en": "The Cursed Jungle",
+              "de": "The Cursed Jungle"
+            },
+            "contour": [
+              [130, 1010],
+              [215, 1005],
+              [235, 1050],
+              [200, 1075],
+              [135, 1065]
+            ]
+          },
+          {
+            "nom": {
+              "fr": "La Jungle Interdite",
+              "en": "The Forbidden Jungle",
+              "de": "The Forbidden Jungle"
+            },
+            "contour": [
+              [300, 1360],
+              [395, 1355],
+              [415, 1400],
+              [380, 1425],
+              [305, 1415]
+            ]
+          },
+          {
+            "nom": {
+              "fr": "La Jungle du Chasseur de Têtes",
+              "en": "The Headhunter Jungle",
+              "de": "The Headhunter Jungle"
+            },
+            "contour": [
+              [880, 1460],
+              [990, 1455],
+              [1005, 1510],
+              [960, 1530],
+              [885, 1520]
+            ]
+          },
+          {
+            "nom": {
+              "fr": "La Jungle Rampante",
+              "en": "The Creeping Jungle",
+              "de": "The Creeping Jungle"
+            },
+            "contour": [
+              [345, 450],
+              [430, 445],
+              [450, 500],
+              [410, 520],
+              [350, 510]
+            ]
+          },
+          {
+            "nom": {
+              "fr": "Jungles de la Brume Sinople",
+              "en": "Jungles of the Green Mist",
+              "de": "Jungles of the Green Mist"
+            },
+            "contour": [
+              [170, 650],
+              [250, 645],
+              [265, 700],
+              [225, 720],
+              [175, 710]
+            ]
+          },
+          {
+            "nom": {
+              "fr": "Forêt de la Nuit",
+              "en": "Forest of the Night",
+              "de": "Forest of the Night"
+            },
+            "contour": [
+              [740, 1790],
+              [835, 1785],
+              [850, 1835],
+              [800, 1855],
+              [745, 1845]
+            ]
+          }
+        ],
+        "fleuves": [
+          {
+            "nom": {
+              "fr": "Fleuve Amaxon",
+              "en": "River Amaxon",
+              "de": "River Amaxon"
+            },
+            "trace": [
+              [505, 742],
+              [545, 800],
+              [565, 870],
+              [585, 940],
+              [600, 1010],
+              [615, 1080]
+            ],
+            "rang": 1
+          },
+          {
+            "nom": {
+              "fr": "Fleuve Qurveza",
+              "en": "River Qurveza",
+              "de": "River Qurveza"
+            },
+            "trace": [
+              [1010, 1240],
+              [960, 1265],
+              [905, 1290],
+              [850, 1300],
+              [800, 1310]
+            ],
+            "rang": 2
+          }
+        ],
+        "deserts": [
+          {
+            "nom": {
+              "fr": "Désert de Huahuan",
+              "en": "Huahuan Desert",
+              "de": "Huahuan Desert"
+            },
+            "contour": [
+              [120, 895],
+              [220, 880],
+              [250, 940],
+              [200, 990],
+              [130, 975]
+            ]
+          },
+          {
+            "nom": {
+              "fr": "Désert de Cuivre",
+              "en": "Copper Desert",
+              "de": "Copper Desert"
+            },
+            "contour": [
+              [470, 1480],
+              [560, 1540],
+              [640, 1640],
+              [700, 1720],
+              [680, 1760],
+              [600, 1740],
+              [520, 1660],
+              [450, 1560]
+            ]
+          },
+          {
+            "nom": {
+              "fr": "Plaines de Culchan",
+              "en": "Plains of Culchan",
+              "de": "Plains of Culchan"
+            },
+            "contour": [
+              [850, 1600],
+              [1000, 1610],
+              [1050, 1680],
+              [950, 1720],
+              [860, 1680]
+            ]
+          }
+        ],
+        "marais": [
+          {
+            "nom": {
+              "fr": "Marais des Piranhas",
+              "en": "Piranha Swamps",
+              "de": "Piranha Swamps"
+            },
+            "contour": [
+              [440, 722],
+              [560, 727],
+              [600, 750],
+              [520, 765],
+              [450, 757]
+            ]
+          },
+          {
+            "nom": {
+              "fr": "Marais de Mal'liente",
+              "en": "Mal'liente Marshes",
+              "de": "Mal'liente Marshes"
+            },
+            "contour": [
+              [240, 960],
+              [320, 960],
+              [330, 1000],
+              [260, 1005]
+            ]
+          },
+          {
+            "nom": {
+              "fr": "Les Bourbiers Tourbillonnants",
+              "en": "The Swirling Mires",
+              "de": "The Swirling Mires"
+            },
+            "contour": [
+              [1100, 1730],
+              [1200, 1735],
+              [1210, 1770],
+              [1110, 1775]
+            ]
+          },
+          {
+            "nom": {
+              "fr": "Marécages des Moustiques",
+              "en": "Mosquito Swamps",
+              "de": "Mosquito Swamps"
+            },
+            "contour": [
+              [760, 910],
+              [860, 915],
+              [870, 950],
+              [770, 955]
+            ]
+          },
+          {
+            "nom": {
+              "fr": "Marais de la Peste",
+              "en": "Plague Marshes",
+              "de": "Plague Marshes"
+            },
+            "contour": [
+              [1130, 940],
+              [1200, 945],
+              [1210, 985],
+              [1140, 985]
+            ]
+          },
+          {
+            "nom": {
+              "fr": "Marais d'Aymara",
+              "en": "Aymara Marshes",
+              "de": "Aymara Marshes"
+            },
+            "contour": [
+              [420, 170],
+              [490, 172],
+              [500, 198],
+              [430, 200]
             ]
           }
         ]

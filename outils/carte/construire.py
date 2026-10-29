@@ -80,7 +80,9 @@ def masque_teinte(ref):
     gris = cv2.cvtColor(im, cv2.COLOR_BGR2GRAY).astype(np.float32)
     moy = cv2.blur(gris, (9, 9))
     ecart = np.sqrt(np.maximum(cv2.blur(gris * gris, (9, 9)) - moy * moy, 0))
-    b = cv2.GaussianBlur(lab[..., 2].astype(np.float32), (0, 0), 4)
+    # Composante qui sépare la mer de la terre : b* (jaune-bleu) par défaut,
+    # a* (rouge-vert) pour une mer turquoise comme sur la carte de Lustrie.
+    b = cv2.GaussianBlur(lab[..., {"a": 1, "b": 2}[ref.get("canal", "b")]].astype(np.float32), (0, 0), 4)
     noyau = np.ones((9, 9), np.uint8)
     marques = np.zeros((h, w), np.int32)
     marques[cv2.erode(((b < ref["seuil_mer"]) & (ecart < 7)).astype(np.uint8), noyau) > 0] = 1
@@ -210,6 +212,10 @@ def poser_details(champ, base, k, W, H, ouest):
         if not ("points" in ref or "pose" in ref) or not ref.get("actif", True) or ref.get("methode") not in METHODES:
             continue
         masque = nettoyer(METHODES[ref["methode"]](ref), ref.get("aire_min", 40))
+        if "trous_min" in ref:
+            # Faux lacs : zones de terre d'une autre teinte, entourées de terre.
+            n, etiquettes, stats, _ = cv2.connectedComponentsWithStats((masque == 0).astype(np.uint8), connectivity=4)
+            masque[np.isin(etiquettes, [i for i in range(1, n) if stats[i, cv2.CC_STAT_AREA] < ref["trous_min"]])] = 1
         h, w = masque.shape
         x0, y0, x1, y1 = ref["emprise"]
         emprise = np.zeros((h, w), np.uint8)
