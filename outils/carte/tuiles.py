@@ -17,7 +17,8 @@ import re
 import shutil
 from pathlib import Path
 
-from PIL import Image
+import numpy as np
+from PIL import Image, ImageFilter
 from playwright.sync_api import sync_playwright
 
 RACINE = Path(__file__).resolve().parents[2]
@@ -29,9 +30,18 @@ BLOC = 2048  # rendu par blocs de 4 x 4 tuiles
 QUALITE = 80
 
 
-def page(svg, largeur, hauteur):
+def ouvrir(onglet, svg, css=""):
+    """Charge le SVG dans l'onglet, depuis un fichier : les fonds peints (images) sont lus à côté."""
+    fichier = RACINE / "outils" / "carte" / "cache" / "rendu.html"
+    fichier.write_text(page(svg, BLOC, BLOC, css), encoding="utf-8")
+    onglet.goto(fichier.as_uri())
+    onglet.wait_for_function("[...document.images].every((i) => i.complete) && [...document.querySelectorAll('image')].length > 0")
+    onglet.wait_for_timeout(500)
+
+
+def page(svg, largeur, hauteur, css=""):
     style = (RACINE / "style.css").read_text(encoding="utf-8")
-    return f"""<!doctype html><html><head><meta charset="utf-8"><style>{style}
+    return f"""<!doctype html><html><head><meta charset="utf-8"><base href="{RACINE.as_uri()}/"><style>{style}{css}
 html, body {{ margin: 0; background: transparent; }}
 .carte {{ width: {largeur}px; height: {hauteur}px; overflow: hidden; }}
 .carte svg {{ width: {largeur}px; height: {hauteur}px; will-change: auto; }}
@@ -50,6 +60,27 @@ def rendre(onglet, x, y, l, h, px_l, px_h):
     return Image.open(io.BytesIO(png)).convert("RGB")
 
 
+def grain(image, x0, y0):
+    """Grain de papier, fonction des coordonnées en pixels du niveau : les tuiles voisines se raccordent."""
+    h, w = image.height, image.width
+    y, x = np.mgrid[y0:y0 + h, x0:x0 + w].astype(np.float64)
+
+    def hachage(x, y):
+        return np.modf(np.sin(x * 12.9898 + y * 78.233) * 43758.5453)[0] % 1.0
+
+    fin = hachage(x, y) - 0.5
+    # Fibres un peu plus grosses : valeurs aléatoires sur une grille de 6 pixels, interpolées.
+    gx, gy = x / 6, y / 6
+    ix, iy = np.floor(gx), np.floor(gy)
+    fx, fy = gx - ix, gy - iy
+    fx, fy = fx * fx * (3 - 2 * fx), fy * fy * (3 - 2 * fy)
+    n00, n10, n01, n11 = hachage(ix, iy), hachage(ix + 1, iy), hachage(ix, iy + 1), hachage(ix + 1, iy + 1)
+    fibres = (n00 * (1 - fx) + n10 * fx) * (1 - fy) + (n01 * (1 - fx) + n11 * fx) * fy - 0.5
+    facteur = 1 + 0.07 * fin + 0.08 * fibres
+    pixels = np.asarray(image, np.float64) * facteur[..., None]
+    return Image.fromarray(np.clip(pixels, 0, 255).astype(np.uint8)).filter(ImageFilter.GaussianBlur(0.35))
+
+
 def enregistrer(image, chemin):
     chemin.parent.mkdir(parents=True, exist_ok=True)
     image.save(chemin, "WEBP", quality=QUALITE, method=5)
@@ -65,10 +96,10 @@ def main():
     with sync_playwright() as p:
         navigateur = p.chromium.launch(channel="msedge", headless=True)
         onglet = navigateur.new_page(device_scale_factor=1)
-        onglet.set_content(page(svg, BLOC, BLOC))
+        ouvrir(onglet, svg)
 
         px_l, px_h = round(largeur * APERCU), round(hauteur * APERCU)
-        total += enregistrer(rendre(onglet, 0, 0, largeur, hauteur, px_l, px_h), SORTIE / "fond.webp")
+        total += enregistrer(grain(rendre(onglet, 0, 0, largeur, hauteur, px_l, px_h), 0, 0), SORTIE / "fond.webp")
 
         for niveau in NIVEAUX:
             cote = TAILLE / niveau  # côté d'une tuile, en unités de la carte
@@ -76,7 +107,7 @@ def main():
             par_bloc = BLOC // TAILLE
             for bj in range(0, lignes, par_bloc):
                 for bi in range(0, colonnes, par_bloc):
-                    image = rendre(onglet, bi * cote, bj * cote, BLOC / niveau, BLOC / niveau, BLOC, BLOC)
+                    image = grain(rendre(onglet, bi * cote, bj * cote, BLOC / niveau, BLOC / niveau, BLOC, BLOC), bi * TAILLE, bj * TAILLE)
                     for j in range(bj, min(bj + par_bloc, lignes)):
                         for i in range(bi, min(bi + par_bloc, colonnes)):
                             # Les tuiles du bord droit et du bas s'arrêtent au bord de la carte.

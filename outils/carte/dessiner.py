@@ -218,6 +218,8 @@ def main():
     cotes = json.loads((ICI / "cache" / "cotes.json").read_text(encoding="utf-8"))
     W, H = cotes["largeur"], cotes["hauteur"]
     terres = " ".join(chemin(a["points"]) for a in cotes["anneaux"])
+    fichier_plateau = ICI / "cache" / "plateau.json"
+    plateau = json.loads(fichier_plateau.read_text(encoding="utf-8")) if fichier_plateau.exists() else []
 
     fichier_elements = ICI / "elements.json"
     elements = json.loads(fichier_elements.read_text(encoding="utf-8")) if fichier_elements.exists() else {}
@@ -236,31 +238,11 @@ def main():
         defs(MONTAGNES),
         f'<path id="trace-terres" d="{terres}" fill-rule="evenodd" clip-rule="evenodd"/>',
         '<clipPath id="terres"><use href="#trace-terres"/></clipPath>',
-        '<filter id="grain" x="0" y="0" width="100%" height="100%">'
-        '<feTurbulence type="fractalNoise" baseFrequency="0.012" numOctaves="3" seed="7"/>'
-        '<feColorMatrix values="0 0 0 0 0.35  0 0 0 0 0.24  0 0 0 0 0.12  0 0 0 0.55 -0.12"/>'
-        "</filter>",
-        '<filter id="grain-mer" x="0" y="0" width="100%" height="100%">'
-        '<feTurbulence type="fractalNoise" baseFrequency="0.006" numOctaves="4" seed="3"/>'
-        '<feColorMatrix values="0 0 0 0 0.22  0 0 0 0 0.14  0 0 0 0 0.07  0 0 0 0.9 -0.2"/>'
-        "</filter>",
-        '<filter id="flou" x="-5%" y="-5%" width="110%" height="110%"><feGaussianBlur stdDeviation="14"/></filter>',
         "</defs>",
-        f'<rect class="mer" width="{W}" height="{H}"/>',
-    ]
-    # Lignes d'eau parallèles à la côte, comme sur les cartes anciennes : un trait
-    # large couleur d'encre, recouvert d'un trait à peine plus fin couleur de mer.
-    for largeur in (150, 100, 56):
-        calques.append(f'<use class="onde-trait" href="#trace-terres" style="stroke-width:{largeur}"/>')
-        calques.append(f'<use class="onde-fond" href="#trace-terres" style="stroke-width:{largeur - 3}"/>')
-    calques += [
-        f'<rect class="grain-mer" width="{W}" height="{H}" filter="url(#grain-mer)"/>',
-        '<use class="houle-large" href="#trace-terres"/>',
-        '<use class="houle" href="#trace-terres"/>',
-        '<use class="terre" href="#trace-terres"/>',
-        f'<g clip-path="url(#terres)"><rect class="grain" width="{W}" height="{H}" filter="url(#grain)"/>',
-        # Lavis plus sombre le long des côtes, côté terre.
-        '<use class="lavis-cote" href="#trace-terres" filter="url(#flou)"/>',
+        # Fonds peints par fond.py : mer en dégradé depuis les côtes, terres en parchemin taché.
+        f'<image href="outils/carte/cache/fond-mer.jpg" width="{W}" height="{H}" preserveAspectRatio="none"/>',
+        f'<path class="plateau" d="{" ".join(chemin(t) for t in plateau)}"/>',
+        f'<g clip-path="url(#terres)"><image href="outils/carte/cache/fond-terre.jpg" width="{W}" height="{H}" preserveAspectRatio="none"/>',
     ]
     for d in elements.get("deserts", []):
         poly = onduler(d["contour"], k, 8)

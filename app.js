@@ -18,7 +18,7 @@ const LANGUES = ["fr", "en", "de"];
 
 // À augmenter à chaque publication qui change les données ou la carte, pour
 // que les navigateurs ne gardent pas l'ancienne version en cache.
-const VERSION = 13;
+const VERSION = 15;
 
 const TEXTES = {
   fr: {

@@ -6,23 +6,18 @@
   --filet: #c4bdaf;
   --sang: #7a2320;
   --hachure: rgba(122, 35, 32, 0.12);
-  /* Carte : palette sépia d'une carte ancienne. */
-  --carte-mer: #a5845b;
-  --carte-houle: #8d6d47;
-  --carte-terre: #d8b884;
-  --carte-relief: #dcbd88;
-  --carte-lavis: #6b4a2a;
-  --carte-neige: #f1e6cc;
-  --carte-encre: #3e2a17;
-  --carte-trait: #6a4d2e;
-  --carte-foret: #bc9c63;
-  --carte-desert: #e2c793;
-  --carte-eau: #93744f;
-  /* Effets du fond de carte, réglés par la palette (0 = absent). */
-  --carte-grain-mer: 0;
-  --carte-ondes: 0;
-  --carte-lavis-cote: 0;
-  --carte-grain: 0.55;
+  /* Carte : palette d'une carte ancienne, d'après celle d'Immortal Empires.
+     Les fonds de mer et de terre sont peints par outils/carte/fond.py. */
+  --carte-mer: #6e5034;
+  --carte-terre: #e2c99a;
+  --carte-relief: #dfc493;
+  --carte-lavis: #6b4626;
+  --carte-neige: #f3e7cc;
+  --carte-encre: #2e1c0d;
+  --carte-trait: #5a3c1e;
+  --carte-foret: #b89a62;
+  --carte-desert: #e9d3a4;
+  --carte-eau: #6e5236;
 
   --titre: "IM Fell English", Georgia, serif;
   --texte: "Alegreya", Georgia, serif;
@@ -510,15 +505,7 @@ h1 {
   position: relative;
 }
 
-.carte .mer { fill: var(--carte-mer); }
-.carte .houle-large { fill: none; stroke: var(--carte-houle); stroke-width: 70; stroke-linejoin: round; opacity: 0.22; }
-.carte .houle { fill: none; stroke: var(--carte-houle); stroke-width: 22; stroke-linejoin: round; opacity: 0.45; }
-.carte .terre { fill: var(--carte-terre); }
-.carte .grain { opacity: var(--carte-grain); }
-.carte .grain-mer { opacity: var(--carte-grain-mer); }
-.carte .onde-trait { fill: none; stroke: color-mix(in srgb, var(--carte-encre) calc(var(--carte-ondes) * 100%), var(--carte-mer)); stroke-linejoin: round; }
-.carte .onde-fond { fill: none; stroke: var(--carte-mer); stroke-linejoin: round; }
-.carte .lavis-cote { fill: none; stroke: var(--carte-lavis); stroke-width: 60; opacity: var(--carte-lavis-cote); }
+.carte .plateau { fill: none; stroke: var(--carte-encre); stroke-width: 1.6; stroke-linejoin: round; opacity: 0.45; }
 .carte .cote { fill: none; stroke: var(--carte-encre); stroke-width: 2.6; stroke-linejoin: round; }
 .carte .foret { fill: var(--carte-foret); opacity: 0.45; }
 .carte .arbres { fill: var(--carte-foret); stroke: var(--carte-trait); stroke-width: 1.2; }
@@ -583,9 +570,9 @@ h1 {
   font-size: 46px;
   letter-spacing: 0.1em;
   text-anchor: middle;
-  fill: var(--carte-encre);
+  fill: var(--carte-terre);
   stroke-width: 0;
-  opacity: 0.6;
+  opacity: 0.75;
 }
 
 .carte .province {
