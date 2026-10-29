@@ -57,6 +57,16 @@ def dedans(pt, poly):
     return vrai
 
 
+# Noms des provinces en français et en allemand (outils/carte/provinces.json),
+# l'anglais étant celui du jeu.
+PROVINCES = json.loads((ICI / "provinces.json").read_text(encoding="utf-8")) if (ICI / "provinces.json").exists() else {}
+
+
+def traduire(nom):
+    t = PROVINCES.get(nom)
+    return {"fr": t["fr"], "en": nom, "de": t["de"]} if t else nom
+
+
 def province_du_jeu(nom, x, y, colonies):
     """Province de la colonie du jeu qui porte ce nom (la plus proche s'il y en a plusieurs)."""
     noms = [nom["en"], nom["fr"]] if isinstance(nom, dict) else [nom]
@@ -65,6 +75,21 @@ def province_du_jeu(nom, x, y, colonies):
     if not memes:
         return None
     return min(memes, key=lambda c: (c["x"] - x) ** 2 + (c["y"] - y) ** 2)["province"]
+
+
+def lisser(p, ferme, passes=3):
+    """Arrondit une ligne brisée (Chaikin). Une ligne ouverte garde ses deux extrémités."""
+    p = np.asarray(p, np.float64)
+    for _ in range(passes):
+        if len(p) < 3:
+            break
+        a, b = (p, np.roll(p, -1, axis=0)) if ferme else (p[:-1], p[1:])
+        r = np.empty((len(a) * 2, 2))
+        r[0::2] = 0.75 * a + 0.25 * b
+        r[1::2] = 0.25 * a + 0.75 * b
+        p = r if ferme else np.vstack([p[:1], r[1:-1], p[-1:]])
+    # On retire les points superflus des courbes obtenues.
+    return cv2.approxPolyDP(p.astype(np.float32).reshape(-1, 1, 2), 0.4, ferme)[:, 0, :]
 
 
 def decouper_provinces(graines, pas=2, portee=240):
@@ -84,7 +109,18 @@ def decouper_provinces(graines, pas=2, portee=240):
         germes[min(int(y / pas), terre.shape[0] - 1), min(int(x / pas), terre.shape[1] - 1)] = numero[p]
     distance, (iy, ix) = ndimage.distance_transform_edt(germes == 0, return_indices=True)
     carte = germes[iy, ix]
-    carte[~terre | (distance > portee / pas)] = 0
+    carte[distance > portee / pas] = 0
+    # Les frontières droites du découpage sont déformées par un bruit lent,
+    # pour des tracés souples comme sur une carte dessinée à la main.
+    alea = np.random.default_rng(1)
+    h, w = carte.shape
+    deplacements = []
+    for _ in range(2):
+        bruit = cv2.GaussianBlur(alea.standard_normal((h, w)).astype(np.float32), (0, 0), 70 / pas)
+        deplacements.append(bruit / bruit.std() * (28 / pas))
+    gx, gy = np.meshgrid(np.arange(w, dtype=np.float32), np.arange(h, dtype=np.float32))
+    carte = cv2.remap(carte.astype(np.float32), gx + deplacements[0], gy + deplacements[1], cv2.INTER_NEAREST, borderMode=cv2.BORDER_REPLICATE).astype(np.int32)
+    carte[~terre] = 0
     # Un filtre de mode adoucit les frontières en escalier.
     carte = ndimage.generic_filter(carte, lambda v: np.bincount(v.astype(np.int64)).argmax(), size=5, mode="nearest").astype(np.int32)
     carte[~terre] = 0
@@ -94,7 +130,6 @@ def decouper_provinces(graines, pas=2, portee=240):
 
     zones, frontieres = [], []
     voisins = [(-1, -1), (0, -1), (1, -1), (-1, 0), (1, 0), (-1, 1), (0, 1), (1, 1)]
-    h, w = carte.shape
     for nom in noms:
         n = numero[nom]
         masque = (carte == n).astype(np.uint8)
@@ -103,7 +138,7 @@ def decouper_provinces(graines, pas=2, portee=240):
         for c in contours:
             if cv2.contourArea(c) < 20:
                 continue
-            polygones.append(points(cv2.approxPolyDP(c, 1.2, True)[:, 0, :]))
+            polygones.append(points(lisser(cv2.approxPolyDP(c, 1.5, True)[:, 0, :], ferme=True)))
             # Morceaux du contour qui touchent une province de numéro plus grand :
             # chaque frontière n'est gardée que par une des deux provinces.
             c = c[:, 0, :]
@@ -111,7 +146,9 @@ def decouper_provinces(graines, pas=2, portee=240):
             for x, y in c:
                 autres = {carte[min(max(y + dy, 0), h - 1), min(max(x + dx, 0), w - 1)] for dx, dy in voisins} - {n}
                 garde.append(bool(autres) and 0 not in autres and min(autres) > n)
+            # Un point de plus de chaque côté, pour que les frontières se rejoignent aux carrefours.
             garde = np.array(garde)
+            garde = garde | np.roll(garde, 1) | np.roll(garde, -1)
             if garde.all():
                 morceaux = [c]
             else:
@@ -128,7 +165,7 @@ def decouper_provinces(graines, pas=2, portee=240):
                     morceaux.append(np.array(courant))
             for m in morceaux:
                 if len(m) >= 3:
-                    frontieres.append(points(cv2.approxPolyDP(m.reshape(-1, 1, 2).astype(np.int32), 1.0, False)[:, 0, :]))
+                    frontieres.append(points(lisser(cv2.approxPolyDP(m.reshape(-1, 1, 2).astype(np.int32), 1.5, False)[:, 0, :], ferme=False)))
         if polygones:
             zones.append([nom, polygones])
     return zones, frontieres
@@ -175,7 +212,7 @@ def main():
                 if province:
                     graines.append((fx, fy, province))
             elif not ident:
-                colonies.append({"nom": nom_lieu, "province": province, "x": fx, "y": fy})
+                colonies.append({"nom": nom_lieu, "province": province, "x": fx, "y": fy, "type": type_lieu})
 
     # Une province est étiquetée au barycentre de ses colonies.
     groupes = defaultdict(list)
@@ -193,9 +230,9 @@ def main():
     sortie = {
         "repere": {"largeur": CONFIG["cadre"]["largeur"], "hauteur": int(1167 * k)},
         "lieux": lieux,
-        "colonies": [[c["nom"], c["x"], c["y"]] for c in colonies if "lieu" not in c],
-        "provinces": [[p["nom"], p["x"], p["y"]] for p in provinces],
-        "zones": zones,
+        "colonies": [[c["nom"], c["x"], c["y"]] + ([c["type"]] if c.get("type") else []) for c in colonies if "lieu" not in c],
+        "provinces": [[traduire(p["nom"]), p["x"], p["y"]] for p in provinces],
+        "zones": [[traduire(nom), polygones] for nom, polygones in zones],
         "frontieres": frontieres,
     }
     # Grands noms (mers, continents, royaumes) : outils/carte/etiquettes.json, en pixels de la référence.

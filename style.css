@@ -18,6 +18,11 @@
   --carte-foret: #bc9c63;
   --carte-desert: #e2c793;
   --carte-eau: #93744f;
+  /* Effets du fond de carte, réglés par la palette (0 = absent). */
+  --carte-grain-mer: 0;
+  --carte-ondes: 0;
+  --carte-lavis-cote: 0;
+  --carte-grain: 0.55;
 
   --titre: "IM Fell English", Georgia, serif;
   --texte: "Alegreya", Georgia, serif;
@@ -450,6 +455,35 @@ h1 {
   white-space: nowrap;
 }
 
+.calques .titre-calques {
+  margin: 0.35rem 0 0.15rem;
+  font-size: 0.75rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--gris);
+}
+
+.calques .titre-calques:first-child {
+  margin-top: 0;
+}
+
+.calques label svg {
+  width: 0.8rem;
+  height: 0.8rem;
+  flex: none;
+}
+
+.calques label svg .marque {
+  fill: var(--carte-encre);
+}
+
+.calques label svg.lieu-site .marque,
+.calques label svg .marque.trait {
+  fill: none;
+  stroke: var(--carte-encre);
+  stroke-width: 1.6;
+}
+
 .calques input {
   accent-color: var(--carte-encre);
   margin: 0;
@@ -480,7 +514,11 @@ h1 {
 .carte .houle-large { fill: none; stroke: var(--carte-houle); stroke-width: 70; stroke-linejoin: round; opacity: 0.22; }
 .carte .houle { fill: none; stroke: var(--carte-houle); stroke-width: 22; stroke-linejoin: round; opacity: 0.45; }
 .carte .terre { fill: var(--carte-terre); }
-.carte .grain { opacity: 0.55; }
+.carte .grain { opacity: var(--carte-grain); }
+.carte .grain-mer { opacity: var(--carte-grain-mer); }
+.carte .onde-trait { fill: none; stroke: color-mix(in srgb, var(--carte-encre) calc(var(--carte-ondes) * 100%), var(--carte-mer)); stroke-linejoin: round; }
+.carte .onde-fond { fill: none; stroke: var(--carte-mer); stroke-linejoin: round; }
+.carte .lavis-cote { fill: none; stroke: var(--carte-lavis); stroke-width: 60; opacity: var(--carte-lavis-cote); }
 .carte .cote { fill: none; stroke: var(--carte-encre); stroke-width: 2.6; stroke-linejoin: round; }
 .carte .foret { fill: var(--carte-foret); opacity: 0.45; }
 .carte .arbres { fill: var(--carte-foret); stroke: var(--carte-trait); stroke-width: 1.2; }
@@ -601,6 +639,21 @@ h1 {
 .carte svg[data-masquer~="colonies"] .colonie,
 .carte svg[data-masquer~="frontieres"] #zones-carte,
 .carte svg[data-masquer~="frontieres"] #frontieres-carte {
+  display: none;
+}
+
+.carte svg[data-masquer~="type-capitale"] .lieu-capitale,
+.carte svg[data-masquer~="type-capitale"] .colonie-capitale,
+.carte svg[data-masquer~="type-ville"] .lieu-ville,
+.carte svg[data-masquer~="type-ville"] .colonie-ville,
+.carte svg[data-masquer~="type-forteresse"] .lieu-forteresse,
+.carte svg[data-masquer~="type-forteresse"] .colonie-forteresse,
+.carte svg[data-masquer~="type-site"] .lieu-site,
+.carte svg[data-masquer~="type-site"] .colonie-site,
+.carte svg[data-masquer~="type-ruine"] .lieu-ruine,
+.carte svg[data-masquer~="type-ruine"] .colonie-ruine,
+.carte svg[data-masquer~="type-bataille"] .lieu-bataille,
+.carte svg[data-masquer~="type-bataille"] .colonie-bataille {
   display: none;
 }
 

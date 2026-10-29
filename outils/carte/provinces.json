@@ -1,0 +1,877 @@
+{
+ "Albion": {
+  "fr": "Albion",
+  "de": "Albion",
+  "doute": false
+ },
+ "Ancient Giant Lands": {
+  "fr": "Terres des Anciens Géants",
+  "de": "Land der Uralten Riesen",
+  "doute": true
+ },
+ "Argwylon": {
+  "fr": "Argwylon",
+  "de": "Argwylon",
+  "doute": false
+ },
+ "Ashen Coast": {
+  "fr": "Côte de Cendre",
+  "de": "Aschenküste",
+  "doute": true
+ },
+ "Atalan Mountains": {
+  "fr": "Monts Atalan",
+  "de": "Atalan-Berge",
+  "doute": true
+ },
+ "Avelorn": {
+  "fr": "Avelorn",
+  "de": "Avelorn",
+  "doute": false
+ },
+ "Averland": {
+  "fr": "Averland",
+  "de": "Averland",
+  "doute": false
+ },
+ "Axe Bite Pass": {
+  "fr": "Col de la Morsure de Hache",
+  "de": "Axtbisspass",
+  "doute": true
+ },
+ "Aymara Swamps": {
+  "fr": "Marais d'Aymara",
+  "de": "Aymara-Sümpfe",
+  "doute": true
+ },
+ "Barrows of Cuileux": {
+  "fr": "Tertres de Cuileux",
+  "de": "Hügelgräber von Cuileux",
+  "doute": true
+ },
+ "Bastonne": {
+  "fr": "Bastonne",
+  "de": "Bastonne",
+  "doute": false
+ },
+ "Black Blood Pass": {
+  "fr": "Col du Sang Noir",
+  "de": "Schwarzblutpass",
+  "doute": true
+ },
+ "Black Mountains": {
+  "fr": "Montagnes Noires",
+  "de": "Schwarze Berge",
+  "doute": false
+ },
+ "Black Water": {
+  "fr": "Eaux Noires",
+  "de": "Schwarzwasser",
+  "doute": true
+ },
+ "Blightwater": {
+  "fr": "Eaux Viciées",
+  "de": "Faulwasser",
+  "doute": true
+ },
+ "Blood River Valley": {
+  "fr": "Vallée de la Rivière de Sang",
+  "de": "Blutflusstal",
+  "doute": true
+ },
+ "Bloodfire Falls": {
+  "fr": "Chutes de Feu-Sang",
+  "de": "Blutfeuerfälle",
+  "doute": true
+ },
+ "Bone Road": {
+  "fr": "Route des Os",
+  "de": "Knochenstraße",
+  "doute": true
+ },
+ "Broken Lands of Tian Li": {
+  "fr": "Terres Brisées de Tian Li",
+  "de": "Zerbrochene Lande von Tian Li",
+  "doute": true
+ },
+ "Broken Teeth": {
+  "fr": "Dents Brisées",
+  "de": "Zerbrochene Zähne",
+  "doute": true
+ },
+ "Caledor": {
+  "fr": "Caledor",
+  "de": "Caledor",
+  "doute": false
+ },
+ "Carcassonne": {
+  "fr": "Carcassonne",
+  "de": "Carcassonne",
+  "doute": false
+ },
+ "Cathayan Hinterlands": {
+  "fr": "Arrière-pays cathayen",
+  "de": "Cathayisches Hinterland",
+  "doute": true
+ },
+ "Celestial Lake": {
+  "fr": "Lac Céleste",
+  "de": "Himmlischer See",
+  "doute": true
+ },
+ "Celestial Riverlands": {
+  "fr": "Terres fluviales célestes",
+  "de": "Himmlische Flusslande",
+  "doute": true
+ },
+ "Central Great Bastion": {
+  "fr": "Grand Bastion central",
+  "de": "Zentrale Große Bastion",
+  "doute": true
+ },
+ "Central Jungles": {
+  "fr": "Jungles centrales",
+  "de": "Zentrale Dschungel",
+  "doute": true
+ },
+ "Chimera Plateau": {
+  "fr": "Plateau de la Chimère",
+  "de": "Chimärenplateau",
+  "doute": true
+ },
+ "Chrace": {
+  "fr": "Chrace",
+  "de": "Chrace",
+  "doute": false
+ },
+ "Coast of  Araby": {
+  "fr": "Côte d'Arabie",
+  "de": "Küste von Araby",
+  "doute": true
+ },
+ "Coast of Lyonesse": {
+  "fr": "Côte de Lyonesse",
+  "de": "Küste von Lyonesse",
+  "doute": true
+ },
+ "Copper Desert": {
+  "fr": "Désert de Cuivre",
+  "de": "Kupferwüste",
+  "doute": true
+ },
+ "Cothique": {
+  "fr": "Cothique",
+  "de": "Cothique",
+  "doute": false
+ },
+ "Crater of the Waking Dead": {
+  "fr": "Cratère des Morts Éveillés",
+  "de": "Krater der erwachenden Toten",
+  "doute": true
+ },
+ "Culchan Plains": {
+  "fr": "Plaines de Culchan",
+  "de": "Culchan-Ebenen",
+  "doute": true
+ },
+ "Dawn's Landing": {
+  "fr": "Débarcadère de l'Aube",
+  "de": "Morgenlandung",
+  "doute": true
+ },
+ "Deadrock Gap": {
+  "fr": "Passe du Roc Mort",
+  "de": "Totfelsspalte",
+  "doute": true
+ },
+ "Deadwood": {
+  "fr": "Bois-mort",
+  "de": "Totholz",
+  "doute": true
+ },
+ "Death Pass": {
+  "fr": "Col de la Mort",
+  "de": "Todespass",
+  "doute": true
+ },
+ "Devil's Backbone": {
+  "fr": "Échine du Diable",
+  "de": "Teufelsrücken",
+  "doute": true
+ },
+ "Doom Glades": {
+  "fr": "Clairières Funestes",
+  "de": "Lichtungen des Verderbens",
+  "doute": true
+ },
+ "Eagle Gate": {
+  "fr": "Porte de l'Aigle",
+  "de": "Adlertor",
+  "doute": false
+ },
+ "Eastern Badlands": {
+  "fr": "Terres Arides orientales",
+  "de": "Östliches Ödland",
+  "doute": true
+ },
+ "Eastern Border Princes": {
+  "fr": "Principautés frontalières orientales",
+  "de": "Östliche Grenzgrafschaften",
+  "doute": true
+ },
+ "Eastern Colonies": {
+  "fr": "Colonies orientales",
+  "de": "Östliche Kolonien",
+  "doute": true
+ },
+ "Eastern Great Bastion": {
+  "fr": "Grand Bastion oriental",
+  "de": "Östliche Große Bastion",
+  "doute": true
+ },
+ "Eastern Oblast": {
+  "fr": "Oblast oriental",
+  "de": "Östliches Oblast",
+  "doute": true
+ },
+ "Eastern Steppes": {
+  "fr": "Steppes orientales",
+  "de": "Östliche Steppen",
+  "doute": true
+ },
+ "Eataine": {
+  "fr": "Eataine",
+  "de": "Eataine",
+  "doute": false
+ },
+ "Eight Peaks": {
+  "fr": "Huit Pics",
+  "de": "Acht Gipfel",
+  "doute": false
+ },
+ "Ellyrion": {
+  "fr": "Ellyrion",
+  "de": "Ellyrion",
+  "doute": false
+ },
+ "Estalia": {
+  "fr": "Estalie",
+  "de": "Estalia",
+  "doute": false
+ },
+ "Forest of Arden": {
+  "fr": "Forêt d'Arden",
+  "de": "Wald von Arden",
+  "doute": true
+ },
+ "Forest of Chalons": {
+  "fr": "Forêt de Châlons",
+  "de": "Wald von Chalons",
+  "doute": true
+ },
+ "Forest of Gloom": {
+  "fr": "Forêt des Ténèbres",
+  "de": "Düsterwald",
+  "doute": true
+ },
+ "Forests of the Moon": {
+  "fr": "Forêts de la Lune",
+  "de": "Mondwälder",
+  "doute": true
+ },
+ "Gash Kadrak": {
+  "fr": "Gash Kadrak",
+  "de": "Gash Kadrak",
+  "doute": false
+ },
+ "Gianthome Mountains": {
+  "fr": "Monts du Foyer des Géants",
+  "de": "Riesenheimberge",
+  "doute": true
+ },
+ "Gisoreux Gap": {
+  "fr": "Trouée de Gisoreux",
+  "de": "Gisoreux-Lücke",
+  "doute": true
+ },
+ "Gnoblar Country": {
+  "fr": "Pays des Gnoblars",
+  "de": "Gnoblarland",
+  "doute": true
+ },
+ "Goromadny Mountains": {
+  "fr": "Monts Goromadny",
+  "de": "Goromadny-Berge",
+  "doute": true
+ },
+ "Granite Hills": {
+  "fr": "Collines de Granit",
+  "de": "Granithügel",
+  "doute": true
+ },
+ "Great Desert of Araby": {
+  "fr": "Grand Désert d'Arabie",
+  "de": "Große Wüste von Araby",
+  "doute": true
+ },
+ "Great Mortis Delta": {
+  "fr": "Grand Delta de Mortis",
+  "de": "Großes Mortis-Delta",
+  "doute": true
+ },
+ "Griffon Gate": {
+  "fr": "Porte du Griffon",
+  "de": "Greifentor",
+  "doute": false
+ },
+ "Gryphon Wood": {
+  "fr": "Bois du Griffon",
+  "de": "Greifenwald",
+  "doute": true
+ },
+ "Gunpowder Road": {
+  "fr": "Route de la Poudre",
+  "de": "Schießpulverstraße",
+  "doute": true
+ },
+ "Headhunter's Jungle": {
+  "fr": "Jungle des Chasseurs de Têtes",
+  "de": "Kopfjägerdschungel",
+  "doute": true
+ },
+ "Heart of The Jungle": {
+  "fr": "Cœur de la Jungle",
+  "de": "Herz des Dschungels",
+  "doute": true
+ },
+ "Helspire Mountains": {
+  "fr": "Monts de la Flèche Infernale",
+  "de": "Höllenspitzberge",
+  "doute": true
+ },
+ "Hochland": {
+  "fr": "Hochland",
+  "de": "Hochland",
+  "doute": false
+ },
+ "Ice Tooth Mountains": {
+  "fr": "Monts Dent-de-Glace",
+  "de": "Eiszahnberge",
+  "doute": true
+ },
+ "Imperial Road": {
+  "fr": "Route impériale",
+  "de": "Kaiserstraße",
+  "doute": true
+ },
+ "Iron Coast": {
+  "fr": "Côte de Fer",
+  "de": "Eisenküste",
+  "doute": true
+ },
+ "Iron Foothills": {
+  "fr": "Contreforts de Fer",
+  "de": "Eisenvorgebirge",
+  "doute": true
+ },
+ "Iron Mountains": {
+  "fr": "Montagnes de Fer",
+  "de": "Eisenberge",
+  "doute": true
+ },
+ "Ironfrost Glacier": {
+  "fr": "Glacier de Givrefer",
+  "de": "Eisenfrostgletscher",
+  "doute": true
+ },
+ "Ironsand Desert": {
+  "fr": "Sables de Fer",
+  "de": "Eisensandwüste",
+  "doute": true
+ },
+ "Irrana Mountains": {
+  "fr": "Monts Irrana",
+  "de": "Irrana-Berge",
+  "doute": true
+ },
+ "Isthmus of Lustria": {
+  "fr": "Isthme de Lustrie",
+  "de": "Isthmus von Lustria",
+  "doute": true
+ },
+ "Ivory Road": {
+  "fr": "Route de l'Ivoire",
+  "de": "Elfenbeinstraße",
+  "doute": true
+ },
+ "Jade River Delta": {
+  "fr": "Delta du Fleuve de Jade",
+  "de": "Jadefluss-Delta",
+  "doute": true
+ },
+ "Jungle of Webs": {
+  "fr": "Jungle des Toiles",
+  "de": "Dschungel der Netze",
+  "doute": true
+ },
+ "Jungles of Chi'an": {
+  "fr": "Jungles de Chi'an",
+  "de": "Dschungel von Chi'an",
+  "doute": true
+ },
+ "Jungles of Green Mist": {
+  "fr": "Jungles de la Brume Verte",
+  "de": "Dschungel des Grünen Nebels",
+  "doute": true
+ },
+ "Jungles of Pahualaxa": {
+  "fr": "Jungles de Pahualaxa",
+  "de": "Dschungel von Pahualaxa",
+  "doute": true
+ },
+ "K'datha": {
+  "fr": "K'datha",
+  "de": "K'datha",
+  "doute": false
+ },
+ "Kingdom of Beasts": {
+  "fr": "Royaume des Bêtes",
+  "de": "Königreich der Bestien",
+  "doute": true
+ },
+ "Kraken Coast": {
+  "fr": "Côte du Kraken",
+  "de": "Krakenküste",
+  "doute": true
+ },
+ "Land of Assassins": {
+  "fr": "Terre des Assassins",
+  "de": "Land der Assassinen",
+  "doute": true
+ },
+ "Land of the Dead": {
+  "fr": "Terre des Morts",
+  "de": "Land der Toten",
+  "doute": false
+ },
+ "Land of the Dervishes": {
+  "fr": "Terre des Derviches",
+  "de": "Land der Derwische",
+  "doute": true
+ },
+ "Lands of Stone and Steel": {
+  "fr": "Terres de Pierre et d'Acier",
+  "de": "Lande aus Stein und Stahl",
+  "doute": true
+ },
+ "Laurelorn Forest": {
+  "fr": "Forêt de Laurelorn",
+  "de": "Laurelornwald",
+  "doute": true
+ },
+ "Marches of Couronne": {
+  "fr": "Marches de Couronne",
+  "de": "Marken von Couronne",
+  "doute": true
+ },
+ "Marshes of Madness": {
+  "fr": "Marais de la Folie",
+  "de": "Sümpfe des Wahnsinns",
+  "doute": true
+ },
+ "Middenland": {
+  "fr": "Middenland",
+  "de": "Middenland",
+  "doute": false
+ },
+ "Mootland": {
+  "fr": "Pays du Moot",
+  "de": "Mootland",
+  "doute": true
+ },
+ "Mosquito Swamps": {
+  "fr": "Marais aux Moustiques",
+  "de": "Moskitosümpfe",
+  "doute": true
+ },
+ "Mount Li": {
+  "fr": "Mont Li",
+  "de": "Berg Li",
+  "doute": true
+ },
+ "Mountain's End": {
+  "fr": "Bout-des-Montagnes",
+  "de": "Bergende",
+  "doute": true
+ },
+ "Mountains of Hel": {
+  "fr": "Montagnes de Hel",
+  "de": "Berge von Hel",
+  "doute": true
+ },
+ "Mountains of Mourn": {
+  "fr": "Montagnes du Deuil",
+  "de": "Berge der Trauer",
+  "doute": true
+ },
+ "Mountains of Naglfari": {
+  "fr": "Montagnes de Naglfari",
+  "de": "Berge von Naglfari",
+  "doute": true
+ },
+ "Nagarythe": {
+  "fr": "Nagarythe",
+  "de": "Nagarythe",
+  "doute": false
+ },
+ "Nongchang Basin": {
+  "fr": "Bassin de Nongchang",
+  "de": "Nongchang-Becken",
+  "doute": true
+ },
+ "Nordland": {
+  "fr": "Nordland",
+  "de": "Nordland",
+  "doute": false
+ },
+ "Northern Grey Mountains": {
+  "fr": "Montagnes Grises du Nord",
+  "de": "Nördliche Graue Berge",
+  "doute": true
+ },
+ "Northern Sylvania": {
+  "fr": "Sylvanie du Nord",
+  "de": "Nördliches Sylvanien",
+  "doute": true
+ },
+ "Northern Wastes": {
+  "fr": "Désolations du Nord",
+  "de": "Nördliche Öde",
+  "doute": true
+ },
+ "Northern World's Edge Mountains": {
+  "fr": "Montagnes du Bord du Monde du Nord",
+  "de": "Nördliche Weltrandberge",
+  "doute": true
+ },
+ "Northern Yvresse": {
+  "fr": "Yvresse du Nord",
+  "de": "Nördliches Yvresse",
+  "doute": false
+ },
+ "Obsidian Peaks": {
+  "fr": "Pics d'Obsidienne",
+  "de": "Obsidiangipfel",
+  "doute": true
+ },
+ "Ostermark": {
+  "fr": "Ostermark",
+  "de": "Ostermark",
+  "doute": false
+ },
+ "Ostland": {
+  "fr": "Ostland",
+  "de": "Ostland",
+  "doute": false
+ },
+ "Path to the East": {
+  "fr": "Chemin de l'Est",
+  "de": "Pfad nach Osten",
+  "doute": true
+ },
+ "Peak Pass": {
+  "fr": "Col des Pics",
+  "de": "Gipfelpass",
+  "doute": true
+ },
+ "Phoenix Gate": {
+  "fr": "Porte du Phénix",
+  "de": "Phönixtor",
+  "doute": false
+ },
+ "Piranha Swamps": {
+  "fr": "Marais aux Piranhas",
+  "de": "Piranhasümpfe",
+  "doute": true
+ },
+ "Pirate's Current": {
+  "fr": "Courant des Pirates",
+  "de": "Piratenströmung",
+  "doute": true
+ },
+ "Plain of Illusions": {
+  "fr": "Plaine des Illusions",
+  "de": "Ebene der Illusionen",
+  "doute": true
+ },
+ "Plains of Xen": {
+  "fr": "Plaines de Xen",
+  "de": "Ebenen von Xen",
+  "doute": true
+ },
+ "Red Desert": {
+  "fr": "Désert Rouge",
+  "de": "Rote Wüste",
+  "doute": true
+ },
+ "Reikland": {
+  "fr": "Reikland",
+  "de": "Reikland",
+  "doute": false
+ },
+ "Rib Peaks": {
+  "fr": "Pics des Côtes",
+  "de": "Rippengipfel",
+  "doute": true
+ },
+ "River Brienne": {
+  "fr": "La Brienne",
+  "de": "Fluss Brienne",
+  "doute": true
+ },
+ "River Lynsk": {
+  "fr": "La Lynsk",
+  "de": "Fluss Lynsk",
+  "doute": true
+ },
+ "River Qurveza": {
+  "fr": "La Qurveza",
+  "de": "Fluss Qurveza",
+  "doute": true
+ },
+ "River Urskoy": {
+  "fr": "L'Urskoy",
+  "de": "Fluss Urskoy",
+  "doute": true
+ },
+ "Saphery": {
+  "fr": "Saphery",
+  "de": "Saphery",
+  "doute": false
+ },
+ "Scalded Delta": {
+  "fr": "Delta Ébouillanté",
+  "de": "Verbrühtes Delta",
+  "doute": true
+ },
+ "Serpent Estuary": {
+  "fr": "Estuaire du Serpent",
+  "de": "Schlangenmündung",
+  "doute": true
+ },
+ "Shifting Sands": {
+  "fr": "Sables Mouvants",
+  "de": "Wandernde Sande",
+  "doute": true
+ },
+ "Solland": {
+  "fr": "Solland",
+  "de": "Solland",
+  "doute": false
+ },
+ "Southern Badlands": {
+  "fr": "Terres Arides du Sud",
+  "de": "Südliches Ödland",
+  "doute": true
+ },
+ "Southern Grey Mountains": {
+  "fr": "Montagnes Grises du Sud",
+  "de": "Südliche Graue Berge",
+  "doute": true
+ },
+ "Southern Jungles": {
+  "fr": "Jungles du Sud",
+  "de": "Südliche Dschungel",
+  "doute": true
+ },
+ "Southern Oblast": {
+  "fr": "Oblast du Sud",
+  "de": "Südliches Oblast",
+  "doute": true
+ },
+ "Southern Sylvania": {
+  "fr": "Sylvanie du Sud",
+  "de": "Südliches Sylvanien",
+  "doute": true
+ },
+ "Southern World's Edge Mountains": {
+  "fr": "Montagnes du Bord du Monde du Sud",
+  "de": "Südliche Weltrandberge",
+  "doute": true
+ },
+ "Southern Yvresse": {
+  "fr": "Yvresse du Sud",
+  "de": "Südliches Yvresse",
+  "doute": false
+ },
+ "Southlands World's Edge Mountains": {
+  "fr": "Montagnes du Bord du Monde des Terres du Sud",
+  "de": "Weltrandberge der Südlande",
+  "doute": true
+ },
+ "Spine of Sotek": {
+  "fr": "Échine de Sotek",
+  "de": "Rückgrat von Sotek",
+  "doute": true
+ },
+ "Spiteful Peaks": {
+  "fr": "Pics de la Vindicte",
+  "de": "Gehässige Gipfel",
+  "doute": true
+ },
+ "Stirland": {
+  "fr": "Stirland",
+  "de": "Stirland",
+  "doute": false
+ },
+ "Stonesky Foothills": {
+  "fr": "Contreforts de Ciel-de-Pierre",
+  "de": "Steinhimmel-Vorgebirge",
+  "doute": true
+ },
+ "Talabecland": {
+  "fr": "Talabecland",
+  "de": "Talabecland",
+  "doute": false
+ },
+ "Talsyn": {
+  "fr": "Talsyn",
+  "de": "Talsyn",
+  "doute": false
+ },
+ "The Barrier Idols": {
+  "fr": "Les Idoles de la Barrière",
+  "de": "Die Barrierengötzen",
+  "doute": true
+ },
+ "The Cursed City": {
+  "fr": "La Cité Maudite",
+  "de": "Die Verfluchte Stadt",
+  "doute": true
+ },
+ "The Misty Hills": {
+  "fr": "Les Collines Brumeuses",
+  "de": "Die Nebelhügel",
+  "doute": true
+ },
+ "The Sacred Pools": {
+  "fr": "Les Bassins Sacrés",
+  "de": "Die Heiligen Teiche",
+  "doute": true
+ },
+ "The Vaults": {
+  "fr": "Les Voûtes",
+  "de": "Die Gewölbe",
+  "doute": true
+ },
+ "The Wasteland": {
+  "fr": "Les Terres Désolées",
+  "de": "Das Ödland",
+  "doute": true
+ },
+ "Tilea": {
+  "fr": "Tilée",
+  "de": "Tilea",
+  "doute": false
+ },
+ "Tiranoc": {
+  "fr": "Tiranoc",
+  "de": "Tiranoc",
+  "doute": false
+ },
+ "Titan Peaks": {
+  "fr": "Pics des Titans",
+  "de": "Titanengipfel",
+  "doute": true
+ },
+ "Torgovann": {
+  "fr": "Torgovann",
+  "de": "Torgovann",
+  "doute": false
+ },
+ "Troll Country": {
+  "fr": "Pays des Trolls",
+  "de": "Trollland",
+  "doute": true
+ },
+ "Trollheim Mountains": {
+  "fr": "Monts de Trollheim",
+  "de": "Trollheimberge",
+  "doute": true
+ },
+ "Unicorn Gate": {
+  "fr": "Porte de la Licorne",
+  "de": "Einhorntor",
+  "doute": false
+ },
+ "Vanaheim Mountains": {
+  "fr": "Monts Vanaheim",
+  "de": "Vanaheimberge",
+  "doute": true
+ },
+ "Volcanic Islands": {
+  "fr": "Îles Volcaniques",
+  "de": "Vulkaninseln",
+  "doute": true
+ },
+ "Warpstone Desert": {
+  "fr": "Désert de Malepierre",
+  "de": "Warpsteinwüste",
+  "doute": true
+ },
+ "Wastelands of Jinshen": {
+  "fr": "Désolations de Jinshen",
+  "de": "Ödlande von Jinshen",
+  "doute": true
+ },
+ "Western Badlands": {
+  "fr": "Terres Arides occidentales",
+  "de": "Westliches Ödland",
+  "doute": true
+ },
+ "Western Border Princes": {
+  "fr": "Principautés frontalières occidentales",
+  "de": "Westliche Grenzgrafschaften",
+  "doute": true
+ },
+ "Western Great Bastion": {
+  "fr": "Grand Bastion occidental",
+  "de": "Westliche Große Bastion",
+  "doute": true
+ },
+ "Western Jungles": {
+  "fr": "Jungles occidentales",
+  "de": "Westliche Dschungel",
+  "doute": true
+ },
+ "Western Oblast": {
+  "fr": "Oblast occidental",
+  "de": "Westliches Oblast",
+  "doute": true
+ },
+ "Winter's Teeth Pass": {
+  "fr": "Col des Crocs de l'Hiver",
+  "de": "Winterzahnpass",
+  "doute": true
+ },
+ "Wissenland": {
+  "fr": "Wissenland",
+  "de": "Wissenland",
+  "doute": false
+ },
+ "Wydrioth": {
+  "fr": "Wydrioth",
+  "de": "Wydrioth",
+  "doute": false
+ },
+ "Yn Edri Eternos": {
+  "fr": "Yn Edri Eternos",
+  "de": "Yn Edri Eternos",
+  "doute": false
+ },
+ "Zorn Uzkul": {
+  "fr": "Zorn Uzkul",
+  "de": "Zorn Uzkul",
+  "doute": false
+ }
+}

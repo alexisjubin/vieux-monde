@@ -18,7 +18,7 @@ const LANGUES = ["fr", "en", "de"];
 
 // À augmenter à chaque publication qui change les données ou la carte, pour
 // que les navigateurs ne gardent pas l'ancienne version en cache.
-const VERSION = 12;
+const VERSION = 13;
 
 const TEXTES = {
   fr: {
@@ -32,6 +32,7 @@ const TEXTES = {
     cadrageMonde: "Monde",
     cadrageVieuxMonde: "Vieux Monde",
     calques: "Calques",
+    sectionsCalques: ["Noms et tracés", "Types de lieux"],
     nomsCalques: { lieux: "Lieux de la chronologie", regions: "Noms des régions", mers: "Noms des mers", frontieres: "Frontières des provinces", provinces: "Provinces", colonies: "Colonies" },
     legendeCarte: "Carte redessinée d'après la carte du monde de Total War: Warhammer III et les cartes de Games Workshop. Molette, pincement ou double clic pour zoomer, glisser pour se déplacer. Les colonies et les provinces apparaissent en zoomant. Cliquez sur un lieu pour ne garder que ses événements.",
     aucunLieu: "Aucun lieu choisi.",
@@ -73,6 +74,7 @@ const TEXTES = {
     cadrageMonde: "World",
     cadrageVieuxMonde: "Old World",
     calques: "Layers",
+    sectionsCalques: ["Names and lines", "Place types"],
     nomsCalques: { lieux: "Chronicle places", regions: "Region names", mers: "Sea names", frontieres: "Province borders", provinces: "Provinces", colonies: "Settlements" },
     legendeCarte: "Redrawn after the Total War: Warhammer III world map and the Games Workshop maps. Scroll, pinch or double-click to zoom, drag to move. Settlements and provinces appear as you zoom in. Click a place to keep only its events.",
     aucunLieu: "No place selected.",
@@ -114,6 +116,7 @@ const TEXTES = {
     cadrageMonde: "Welt",
     cadrageVieuxMonde: "Alte Welt",
     calques: "Ebenen",
+    sectionsCalques: ["Namen und Linien", "Ortsarten"],
     nomsCalques: { lieux: "Orte der Chronik", regions: "Regionsnamen", mers: "Meeresnamen", frontieres: "Provinzgrenzen", provinces: "Provinzen", colonies: "Siedlungen" },
     legendeCarte: "Neu gezeichnet nach der Weltkarte von Total War: Warhammer III und den Karten von Games Workshop. Mausrad, Zwei-Finger-Geste oder Doppelklick zum Zoomen, Ziehen zum Verschieben. Siedlungen und Provinzen erscheinen beim Hineinzoomen. Ein Klick auf einen Ort zeigt nur seine Ereignisse.",
     aucunLieu: "Kein Ort ausgewählt.",
@@ -620,15 +623,15 @@ function construireCarte() {
   const trace = (points, ferme) => `M${points.map(([x, y]) => `${x} ${y}`).join("L")}${ferme ? "Z" : ""}`;
   for (const [nom, polygones] of etat.carte.zones ?? []) {
     const zone = creerSvg("path", { class: "zone", d: polygones.map((p) => trace(p, true)).join("") });
-    zone.append(creerSvg("title", {}, nom));
+    zone.append(creerSvg("title", {}, t(nom)));
     $("#zones-carte").append(zone);
   }
   $("#frontieres-carte").append(creerSvg("path", { class: "frontiere-province", d: (etat.carte.frontieres ?? []).map((f) => trace(f, false)).join("") }));
   for (const [nom, x, y] of etat.carte.provinces ?? []) {
-    $("#provinces-carte").append(creerSvg("text", { x, y, class: "province" }, nom));
+    $("#provinces-carte").append(creerSvg("text", { x, y, class: "province" }, t(nom)));
   }
-  for (const [nom, x, y] of etat.carte.colonies ?? []) {
-    const g = creerSvg("g", { class: "colonie", transform: `translate(${x} ${y})` });
+  for (const [nom, x, y, type] of etat.carte.colonies ?? []) {
+    const g = creerSvg("g", { class: `colonie${type ? ` colonie-${type}` : ""}`, transform: `translate(${x} ${y})` });
     g.append(creerSvg("circle", { r: 3 }), creerSvg("text", { x: 6, y: 3 }, t(nom)));
     $("#colonies-carte").append(g);
   }
@@ -722,26 +725,40 @@ function legendeLieux() {
   zone.append(liste, voir);
 }
 
-// Calques de la carte : chaque case affiche ou masque une famille de noms.
-// Le choix est gardé dans l'adresse (?masquer=mers) et dans le navigateur.
+// Calques de la carte : chaque case affiche ou masque une famille de noms,
+// ou un type de lieu (type-ville, type-ruine...). Le choix est gardé dans
+// l'adresse (?masquer=mers&masquer=type-ruine) et dans le navigateur.
 const CALQUES = ["lieux", "regions", "mers", "frontieres", "provinces", "colonies"];
+const CALQUES_TYPES = Object.keys(TEXTES.fr.typesLieux).map((type) => `type-${type}`);
+const calqueValide = (v) => CALQUES.includes(v) || CALQUES_TYPES.includes(v);
 
 function construireCalques() {
   const liste = $("#liste-calques");
   liste.replaceChildren();
-  for (const calque of CALQUES) {
-    const case_ = creer("input", { type: "checkbox", value: calque, checked: !etat.calquesMasques.has(calque) });
-    case_.addEventListener("change", () => {
-      case_.checked ? etat.calquesMasques.delete(calque) : etat.calquesMasques.add(calque);
-      appliquerCalques();
-      ecrireAdresse();
-      try {
-        localStorage.setItem("calques-masques", [...etat.calquesMasques].join(" "));
-      } catch {}
-    });
-    liste.append(creer("label", {}, case_, T().nomsCalques[calque]));
+  const [titreNoms, titreTypes] = T().sectionsCalques;
+  liste.append(creer("p", { className: "titre-calques", textContent: titreNoms }));
+  for (const calque of CALQUES) liste.append(caseCalque(calque, T().nomsCalques[calque]));
+  liste.append(creer("p", { className: "titre-calques", textContent: titreTypes }));
+  for (const calque of CALQUES_TYPES) {
+    const type = calque.slice(5);
+    const icone = creerSvg("svg", { viewBox: "-8 -8 16 16", "aria-hidden": "true", class: `lieu-${type}` });
+    icone.append(MARQUES[type]());
+    liste.append(caseCalque(calque, T().typesLieux[type], icone));
   }
   appliquerCalques();
+}
+
+function caseCalque(calque, nom, icone = null) {
+  const case_ = creer("input", { type: "checkbox", value: calque, checked: !etat.calquesMasques.has(calque) });
+  case_.addEventListener("change", () => {
+    case_.checked ? etat.calquesMasques.delete(calque) : etat.calquesMasques.add(calque);
+    appliquerCalques();
+    ecrireAdresse();
+    try {
+      localStorage.setItem("calques-masques", [...etat.calquesMasques].join(" "));
+    } catch {}
+  });
+  return creer("label", {}, case_, icone, nom);
 }
 
 function appliquerCalques() {
@@ -835,7 +852,7 @@ function lireAdresse() {
       masques = (localStorage.getItem("calques-masques") ?? "").split(" ");
     } catch {}
   }
-  masques.filter((v) => CALQUES.includes(v)).forEach((v) => etat.calquesMasques.add(v));
+  masques.filter(calqueValide).forEach((v) => etat.calquesMasques.add(v));
 }
 
 function ecrireAdresse() {

@@ -240,12 +240,27 @@ def main():
         '<feTurbulence type="fractalNoise" baseFrequency="0.012" numOctaves="3" seed="7"/>'
         '<feColorMatrix values="0 0 0 0 0.35  0 0 0 0 0.24  0 0 0 0 0.12  0 0 0 0.55 -0.12"/>'
         "</filter>",
+        '<filter id="grain-mer" x="0" y="0" width="100%" height="100%">'
+        '<feTurbulence type="fractalNoise" baseFrequency="0.006" numOctaves="4" seed="3"/>'
+        '<feColorMatrix values="0 0 0 0 0.22  0 0 0 0 0.14  0 0 0 0 0.07  0 0 0 0.9 -0.2"/>'
+        "</filter>",
+        '<filter id="flou" x="-5%" y="-5%" width="110%" height="110%"><feGaussianBlur stdDeviation="14"/></filter>',
         "</defs>",
         f'<rect class="mer" width="{W}" height="{H}"/>',
+    ]
+    # Lignes d'eau parallèles à la côte, comme sur les cartes anciennes : un trait
+    # large couleur d'encre, recouvert d'un trait à peine plus fin couleur de mer.
+    for largeur in (150, 100, 56):
+        calques.append(f'<use class="onde-trait" href="#trace-terres" style="stroke-width:{largeur}"/>')
+        calques.append(f'<use class="onde-fond" href="#trace-terres" style="stroke-width:{largeur - 3}"/>')
+    calques += [
+        f'<rect class="grain-mer" width="{W}" height="{H}" filter="url(#grain-mer)"/>',
         '<use class="houle-large" href="#trace-terres"/>',
         '<use class="houle" href="#trace-terres"/>',
         '<use class="terre" href="#trace-terres"/>',
         f'<g clip-path="url(#terres)"><rect class="grain" width="{W}" height="{H}" filter="url(#grain)"/>',
+        # Lavis plus sombre le long des côtes, côté terre.
+        '<use class="lavis-cote" href="#trace-terres" filter="url(#flou)"/>',
     ]
     for d in elements.get("deserts", []):
         poly = onduler(d["contour"], k, 8)
