@@ -493,6 +493,22 @@ h1 {
 .carte .fleuve.rang-1 { stroke-width: 6; }
 .carte .fleuve.rang-2 { stroke-width: 3.5; }
 .carte .fleuve.rang-3 { stroke-width: 2; }
+.carte .zone {
+  fill: var(--carte-encre);
+  fill-opacity: 0;
+  pointer-events: fill;
+}
+.carte .zone:hover { fill-opacity: 0.1; }
+.carte .frontiere-province {
+  fill: none;
+  stroke: var(--carte-encre);
+  stroke-width: 1.2px;
+  stroke-dasharray: 5 3;
+  stroke-linejoin: round;
+  opacity: 0.6;
+  vector-effect: non-scaling-stroke;
+  pointer-events: none;
+}
 .carte .frontiere { fill: none; stroke: var(--carte-trait); stroke-width: 2; stroke-dasharray: 10 8; }
 .carte .bord { fill: none; stroke: var(--carte-encre); stroke-width: 6; }
 
@@ -582,7 +598,9 @@ h1 {
 .carte svg[data-masquer~="regions"] .lieu-region,
 .carte svg[data-masquer~="mers"] .etiquette-mer,
 .carte svg[data-masquer~="provinces"] .province,
-.carte svg[data-masquer~="colonies"] .colonie {
+.carte svg[data-masquer~="colonies"] .colonie,
+.carte svg[data-masquer~="frontieres"] #zones-carte,
+.carte svg[data-masquer~="frontieres"] #frontieres-carte {
   display: none;
 }
 

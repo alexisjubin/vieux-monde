@@ -18,7 +18,7 @@ const LANGUES = ["fr", "en", "de"];
 
 // À augmenter à chaque publication qui change les données ou la carte, pour
 // que les navigateurs ne gardent pas l'ancienne version en cache.
-const VERSION = 11;
+const VERSION = 12;
 
 const TEXTES = {
   fr: {
@@ -32,7 +32,7 @@ const TEXTES = {
     cadrageMonde: "Monde",
     cadrageVieuxMonde: "Vieux Monde",
     calques: "Calques",
-    nomsCalques: { lieux: "Lieux de la chronologie", regions: "Noms des régions", mers: "Noms des mers", provinces: "Provinces", colonies: "Colonies" },
+    nomsCalques: { lieux: "Lieux de la chronologie", regions: "Noms des régions", mers: "Noms des mers", frontieres: "Frontières des provinces", provinces: "Provinces", colonies: "Colonies" },
     legendeCarte: "Carte redessinée d'après la carte du monde de Total War: Warhammer III et les cartes de Games Workshop. Molette, pincement ou double clic pour zoomer, glisser pour se déplacer. Les colonies et les provinces apparaissent en zoomant. Cliquez sur un lieu pour ne garder que ses événements.",
     aucunLieu: "Aucun lieu choisi.",
     evenementsLieu: (n) => (n > 1 ? `${n} événements` : `${n} événement`),
@@ -73,7 +73,7 @@ const TEXTES = {
     cadrageMonde: "World",
     cadrageVieuxMonde: "Old World",
     calques: "Layers",
-    nomsCalques: { lieux: "Chronicle places", regions: "Region names", mers: "Sea names", provinces: "Provinces", colonies: "Settlements" },
+    nomsCalques: { lieux: "Chronicle places", regions: "Region names", mers: "Sea names", frontieres: "Province borders", provinces: "Provinces", colonies: "Settlements" },
     legendeCarte: "Redrawn after the Total War: Warhammer III world map and the Games Workshop maps. Scroll, pinch or double-click to zoom, drag to move. Settlements and provinces appear as you zoom in. Click a place to keep only its events.",
     aucunLieu: "No place selected.",
     evenementsLieu: (n) => (n > 1 ? `${n} events` : `${n} event`),
@@ -114,7 +114,7 @@ const TEXTES = {
     cadrageMonde: "Welt",
     cadrageVieuxMonde: "Alte Welt",
     calques: "Ebenen",
-    nomsCalques: { lieux: "Orte der Chronik", regions: "Regionsnamen", mers: "Meeresnamen", provinces: "Provinzen", colonies: "Siedlungen" },
+    nomsCalques: { lieux: "Orte der Chronik", regions: "Regionsnamen", mers: "Meeresnamen", frontieres: "Provinzgrenzen", provinces: "Provinzen", colonies: "Siedlungen" },
     legendeCarte: "Neu gezeichnet nach der Weltkarte von Total War: Warhammer III und den Karten von Games Workshop. Mausrad, Zwei-Finger-Geste oder Doppelklick zum Zoomen, Ziehen zum Verschieben. Siedlungen und Provinzen erscheinen beim Hineinzoomen. Ein Klick auf einen Ort zeigt nur seine Ereignisse.",
     aucunLieu: "Kein Ort ausgewählt.",
     evenementsLieu: (n) => (n > 1 ? `${n} Ereignisse` : `${n} Ereignis`),
@@ -409,6 +409,8 @@ async function chargerFondDeCarte() {
   }
   svg.append(
     fond,
+    creerSvg("g", { id: "zones-carte" }),
+    creerSvg("g", { id: "frontieres-carte" }),
     creerSvg("g", { id: "provinces-carte" }),
     creerSvg("g", { id: "colonies-carte" }),
     creerSvg("g", { id: "etiquettes-carte" }),
@@ -610,10 +612,18 @@ const MARQUES = {
 function construireCarte() {
   const groupeLieux = $("#lieux-carte");
   if (!groupeLieux) return;
-  for (const id of ["#provinces-carte", "#colonies-carte", "#etiquettes-carte"]) $(id).replaceChildren();
+  for (const id of ["#zones-carte", "#frontieres-carte", "#provinces-carte", "#colonies-carte", "#etiquettes-carte"]) $(id).replaceChildren();
   groupeLieux.replaceChildren();
   $("#carte svg").setAttribute("aria-label", T().carte);
 
+  // Zones des provinces (teintées au survol) et frontières entre elles.
+  const trace = (points, ferme) => `M${points.map(([x, y]) => `${x} ${y}`).join("L")}${ferme ? "Z" : ""}`;
+  for (const [nom, polygones] of etat.carte.zones ?? []) {
+    const zone = creerSvg("path", { class: "zone", d: polygones.map((p) => trace(p, true)).join("") });
+    zone.append(creerSvg("title", {}, nom));
+    $("#zones-carte").append(zone);
+  }
+  $("#frontieres-carte").append(creerSvg("path", { class: "frontiere-province", d: (etat.carte.frontieres ?? []).map((f) => trace(f, false)).join("") }));
   for (const [nom, x, y] of etat.carte.provinces ?? []) {
     $("#provinces-carte").append(creerSvg("text", { x, y, class: "province" }, nom));
   }
@@ -714,7 +724,7 @@ function legendeLieux() {
 
 // Calques de la carte : chaque case affiche ou masque une famille de noms.
 // Le choix est gardé dans l'adresse (?masquer=mers) et dans le navigateur.
-const CALQUES = ["lieux", "regions", "mers", "provinces", "colonies"];
+const CALQUES = ["lieux", "regions", "mers", "frontieres", "provinces", "colonies"];
 
 function construireCalques() {
   const liste = $("#liste-calques");

@@ -15,6 +15,10 @@ import unicodedata
 from collections import defaultdict
 from pathlib import Path
 
+import cv2
+import numpy as np
+from scipy import ndimage
+
 ICI = Path(__file__).resolve().parent
 RACINE = ICI.parent.parent
 CONFIG = json.loads((ICI / "references.json").read_text(encoding="utf-8"))
@@ -53,6 +57,83 @@ def dedans(pt, poly):
     return vrai
 
 
+def province_du_jeu(nom, x, y, colonies):
+    """Province de la colonie du jeu qui porte ce nom (la plus proche s'il y en a plusieurs)."""
+    noms = [nom["en"], nom["fr"]] if isinstance(nom, dict) else [nom]
+    cles = {cle(n) for n in noms} | {cle(n.split("(")[0]) for n in noms}
+    memes = [c for c in colonies if c["province"] and cle(c["nom"]) in cles]
+    if not memes:
+        return None
+    return min(memes, key=lambda c: (c["x"] - x) ** 2 + (c["y"] - y) ** 2)["province"]
+
+
+def decouper_provinces(graines, pas=2, portee=240):
+    """Zones des provinces : chaque point des terres revient à la colonie la plus proche.
+
+    Calcul sur le masque des terres (cache/terre.png) réduit d'un facteur `pas`.
+    Au-delà de `portee` unités de toute colonie, la terre n'appartient à
+    aucune province. Renvoie les contours des zones et les frontières
+    intérieures, sans les côtes, chacune tracée une seule fois.
+    """
+    terre = cv2.imread(str(ICI / "cache" / "terre.png"), cv2.IMREAD_GRAYSCALE)
+    terre = cv2.resize(terre, (terre.shape[1] // pas, terre.shape[0] // pas), interpolation=cv2.INTER_AREA) > 127
+    noms = sorted({p for _, _, p in graines})
+    numero = {n: i + 1 for i, n in enumerate(noms)}
+    germes = np.zeros(terre.shape, np.int32)
+    for x, y, p in graines:
+        germes[min(int(y / pas), terre.shape[0] - 1), min(int(x / pas), terre.shape[1] - 1)] = numero[p]
+    distance, (iy, ix) = ndimage.distance_transform_edt(germes == 0, return_indices=True)
+    carte = germes[iy, ix]
+    carte[~terre | (distance > portee / pas)] = 0
+    # Un filtre de mode adoucit les frontières en escalier.
+    carte = ndimage.generic_filter(carte, lambda v: np.bincount(v.astype(np.int64)).argmax(), size=5, mode="nearest").astype(np.int32)
+    carte[~terre] = 0
+
+    def points(c):
+        return [[int(round(x * pas)), int(round(y * pas))] for x, y in c]
+
+    zones, frontieres = [], []
+    voisins = [(-1, -1), (0, -1), (1, -1), (-1, 0), (1, 0), (-1, 1), (0, 1), (1, 1)]
+    h, w = carte.shape
+    for nom in noms:
+        n = numero[nom]
+        masque = (carte == n).astype(np.uint8)
+        contours, _ = cv2.findContours(masque, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_NONE)
+        polygones = []
+        for c in contours:
+            if cv2.contourArea(c) < 20:
+                continue
+            polygones.append(points(cv2.approxPolyDP(c, 1.2, True)[:, 0, :]))
+            # Morceaux du contour qui touchent une province de numéro plus grand :
+            # chaque frontière n'est gardée que par une des deux provinces.
+            c = c[:, 0, :]
+            garde = []
+            for x, y in c:
+                autres = {carte[min(max(y + dy, 0), h - 1), min(max(x + dx, 0), w - 1)] for dx, dy in voisins} - {n}
+                garde.append(bool(autres) and 0 not in autres and min(autres) > n)
+            garde = np.array(garde)
+            if garde.all():
+                morceaux = [c]
+            else:
+                debut = int(np.argmin(garde))  # on part d'un point non gardé pour ne pas couper un morceau en deux
+                c, garde = np.roll(c, -debut, axis=0), np.roll(garde, -debut)
+                morceaux, courant = [], []
+                for pt, g in zip(c, garde):
+                    if g:
+                        courant.append(pt)
+                    elif courant:
+                        morceaux.append(np.array(courant))
+                        courant = []
+                if courant:
+                    morceaux.append(np.array(courant))
+            for m in morceaux:
+                if len(m) >= 3:
+                    frontieres.append(points(cv2.approxPolyDP(m.reshape(-1, 1, 2).astype(np.int32), 1.0, False)[:, 0, :]))
+        if polygones:
+            zones.append([nom, polygones])
+    return zones, frontieres
+
+
 def main():
     k = CONFIG["cadre"]["largeur"] / LARGEUR_REF
     colonies = list(marqueurs())
@@ -79,6 +160,8 @@ def main():
     fichier = ICI / "cache" / "recalages.json"
     recalages = json.loads(fichier.read_text(encoding="utf-8"))["cartes"] if fichier.exists() else {}
     par_id = {l["id"]: l for l in lieux}
+    toutes = list(colonies)
+    graines = []  # (x, y, province) des lieux détaillés rattachés à une province du jeu
     for nom, recalage in recalages.items():
         m = recalage["matrice"]
         emprise = recalage["emprise"]
@@ -86,10 +169,13 @@ def main():
         for nom_lieu, type_lieu, x, y, ident in CONFIG["references"][nom].get("lieux", []):
             fx = round(m[0][0] * x + m[0][1] * y + m[0][2])
             fy = round(m[1][0] * x + m[1][1] * y + m[1][2])
+            province = province_du_jeu(nom_lieu, fx, fy, toutes)
             if ident and ident in par_id:
                 par_id[ident]["x"], par_id[ident]["y"] = fx, fy
+                if province:
+                    graines.append((fx, fy, province))
             elif not ident:
-                colonies.append({"nom": nom_lieu, "province": None, "x": fx, "y": fy})
+                colonies.append({"nom": nom_lieu, "province": province, "x": fx, "y": fy})
 
     # Une province est étiquetée au barycentre de ses colonies.
     groupes = defaultdict(list)
@@ -101,11 +187,16 @@ def main():
         for nom, cs in sorted(groupes.items())
     ]
 
+    graines += [(c["x"], c["y"], c["province"]) for c in colonies if c["province"]]
+    zones, frontieres = decouper_provinces(graines)
+
     sortie = {
         "repere": {"largeur": CONFIG["cadre"]["largeur"], "hauteur": int(1167 * k)},
         "lieux": lieux,
         "colonies": [[c["nom"], c["x"], c["y"]] for c in colonies if "lieu" not in c],
         "provinces": [[p["nom"], p["x"], p["y"]] for p in provinces],
+        "zones": zones,
+        "frontieres": frontieres,
     }
     # Grands noms (mers, continents, royaumes) : outils/carte/etiquettes.json, en pixels de la référence.
     fichier = ICI / "etiquettes.json"
