@@ -394,6 +394,67 @@ h1 {
   display: flex;
 }
 
+.calques {
+  position: absolute;
+  top: 0.6rem;
+  left: 0.6rem;
+  font-family: var(--outil);
+  font-size: 0.9rem;
+  color: var(--carte-encre);
+}
+
+.calques summary {
+  display: inline-block;
+  padding: 0.3rem 0.7rem;
+  background: var(--velin);
+  border: 1px solid var(--carte-encre);
+  cursor: pointer;
+  list-style: none;
+}
+
+.calques summary::-webkit-details-marker {
+  display: none;
+}
+
+.calques summary::after {
+  content: " ▾";
+}
+
+.calques[open] summary::after {
+  content: " ▴";
+}
+
+.calques summary:hover {
+  background: var(--carte-terre);
+}
+
+.calques summary:focus-visible {
+  outline: 2px solid var(--encre);
+  outline-offset: 1px;
+}
+
+.calques fieldset {
+  margin: -1px 0 0;
+  padding: 0.5rem 0.7rem;
+  min-width: 0;
+  background: var(--velin);
+  border: 1px solid var(--carte-encre);
+}
+
+.calques label {
+  display: flex;
+  align-items: center;
+  gap: 0.45rem;
+  padding: 0.15rem 0;
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+.calques input {
+  accent-color: var(--carte-encre);
+  margin: 0;
+}
+
 .commandes-carte button {
   font: inherit;
   min-width: 2.2rem;
@@ -510,6 +571,18 @@ h1 {
 .carte svg[data-zoom="4"] .etiquette-region,
 .carte svg[data-zoom="4"] .etiquette-region-petite,
 .carte svg[data-zoom="4"] .etiquette-mer {
+  display: none;
+}
+
+/* Calques masqués par le lecteur (voir CALQUES dans app.js). Ces règles
+   viennent après celles du zoom pour l'emporter sur elles. */
+.carte svg[data-masquer~="lieux"] .lieu:not(.lieu-region),
+.carte svg[data-masquer~="regions"] .etiquette-region,
+.carte svg[data-masquer~="regions"] .etiquette-region-petite,
+.carte svg[data-masquer~="regions"] .lieu-region,
+.carte svg[data-masquer~="mers"] .etiquette-mer,
+.carte svg[data-masquer~="provinces"] .province,
+.carte svg[data-masquer~="colonies"] .colonie {
   display: none;
 }
 

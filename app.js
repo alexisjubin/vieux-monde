@@ -18,7 +18,7 @@ const LANGUES = ["fr", "en", "de"];
 
 // À augmenter à chaque publication qui change les données ou la carte, pour
 // que les navigateurs ne gardent pas l'ancienne version en cache.
-const VERSION = 10;
+const VERSION = 11;
 
 const TEXTES = {
   fr: {
@@ -31,6 +31,8 @@ const TEXTES = {
     carte: "Carte du Vieux Monde",
     cadrageMonde: "Monde",
     cadrageVieuxMonde: "Vieux Monde",
+    calques: "Calques",
+    nomsCalques: { lieux: "Lieux de la chronologie", regions: "Noms des régions", mers: "Noms des mers", provinces: "Provinces", colonies: "Colonies" },
     legendeCarte: "Carte redessinée d'après la carte du monde de Total War: Warhammer III et les cartes de Games Workshop. Molette, pincement ou double clic pour zoomer, glisser pour se déplacer. Les colonies et les provinces apparaissent en zoomant. Cliquez sur un lieu pour ne garder que ses événements.",
     aucunLieu: "Aucun lieu choisi.",
     evenementsLieu: (n) => (n > 1 ? `${n} événements` : `${n} événement`),
@@ -70,6 +72,8 @@ const TEXTES = {
     carte: "Map of the Old World",
     cadrageMonde: "World",
     cadrageVieuxMonde: "Old World",
+    calques: "Layers",
+    nomsCalques: { lieux: "Chronicle places", regions: "Region names", mers: "Sea names", provinces: "Provinces", colonies: "Settlements" },
     legendeCarte: "Redrawn after the Total War: Warhammer III world map and the Games Workshop maps. Scroll, pinch or double-click to zoom, drag to move. Settlements and provinces appear as you zoom in. Click a place to keep only its events.",
     aucunLieu: "No place selected.",
     evenementsLieu: (n) => (n > 1 ? `${n} events` : `${n} event`),
@@ -109,6 +113,8 @@ const TEXTES = {
     carte: "Karte der Alten Welt",
     cadrageMonde: "Welt",
     cadrageVieuxMonde: "Alte Welt",
+    calques: "Ebenen",
+    nomsCalques: { lieux: "Orte der Chronik", regions: "Regionsnamen", mers: "Meeresnamen", provinces: "Provinzen", colonies: "Siedlungen" },
     legendeCarte: "Neu gezeichnet nach der Weltkarte von Total War: Warhammer III und den Karten von Games Workshop. Mausrad, Zwei-Finger-Geste oder Doppelklick zum Zoomen, Ziehen zum Verschieben. Siedlungen und Provinzen erscheinen beim Hineinzoomen. Ein Klick auf einen Ort zeigt nur seine Ereignisse.",
     aucunLieu: "Kein Ort ausgewählt.",
     evenementsLieu: (n) => (n > 1 ? `${n} Ereignisse` : `${n} Ereignis`),
@@ -150,6 +156,7 @@ const etat = {
   fiabilites: new Set(),
   importances: new Set(),
   lieux: new Set(),
+  calquesMasques: new Set(),
   texte: "",
 };
 
@@ -705,6 +712,33 @@ function legendeLieux() {
   zone.append(liste, voir);
 }
 
+// Calques de la carte : chaque case affiche ou masque une famille de noms.
+// Le choix est gardé dans l'adresse (?masquer=mers) et dans le navigateur.
+const CALQUES = ["lieux", "regions", "mers", "provinces", "colonies"];
+
+function construireCalques() {
+  const liste = $("#liste-calques");
+  liste.replaceChildren();
+  for (const calque of CALQUES) {
+    const case_ = creer("input", { type: "checkbox", value: calque, checked: !etat.calquesMasques.has(calque) });
+    case_.addEventListener("change", () => {
+      case_.checked ? etat.calquesMasques.delete(calque) : etat.calquesMasques.add(calque);
+      appliquerCalques();
+      ecrireAdresse();
+      try {
+        localStorage.setItem("calques-masques", [...etat.calquesMasques].join(" "));
+      } catch {}
+    });
+    liste.append(creer("label", {}, case_, T().nomsCalques[calque]));
+  }
+  appliquerCalques();
+}
+
+function appliquerCalques() {
+  const svg = $("#carte svg");
+  if (svg) svg.dataset.masquer = [...etat.calquesMasques].join(" ");
+}
+
 function construireLegendeTypes() {
   const zone = $("#types-lieux");
   zone.replaceChildren();
@@ -785,6 +819,13 @@ function lireAdresse() {
   p.getAll("lieu").forEach((v) => etat.lieux.add(v));
   p.getAll("fiabilite").forEach((v) => etat.fiabilites.add(v));
   p.getAll("importance").forEach((v) => etat.importances.add(v));
+  let masques = p.getAll("masquer");
+  if (!p.has("masquer")) {
+    try {
+      masques = (localStorage.getItem("calques-masques") ?? "").split(" ");
+    } catch {}
+  }
+  masques.filter((v) => CALQUES.includes(v)).forEach((v) => etat.calquesMasques.add(v));
 }
 
 function ecrireAdresse() {
@@ -795,6 +836,7 @@ function ecrireAdresse() {
   etat.lieux.forEach((v) => p.append("lieu", v));
   etat.fiabilites.forEach((v) => p.append("fiabilite", v));
   etat.importances.forEach((v) => p.append("importance", v));
+  etat.calquesMasques.forEach((v) => p.append("masquer", v));
   const q = p.toString();
   history.replaceState(null, "", `${location.pathname}${q ? `?${q}` : ""}${location.hash}`);
 }
@@ -929,6 +971,7 @@ function toutConstruire() {
   if (etat.carte) {
     construireCarte();
     construireLegendeTypes();
+    construireCalques();
   }
   construireChronique();
   appliquer();

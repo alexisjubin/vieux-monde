@@ -61,4 +61,4 @@ Les résumés sont rédigés à la main, aucune phrase n'est copiée des sources
 
 ## Filtres partageables
 
-Les filtres sont gardés dans l'adresse : `?faction=nains&region=montagnes&lieu=karaz-a-karak&importance=3` ou `#id-evenement` pour pointer un événement. `?lang=en` force une langue, sinon le site la demande à la première visite et la retient dans le navigateur.
+Les filtres sont gardés dans l'adresse : `?faction=nains&region=montagnes&lieu=karaz-a-karak&importance=3` ou `#id-evenement` pour pointer un événement. `?lang=en` force une langue, sinon le site la demande à la première visite et la retient dans le navigateur. `?masquer=mers&masquer=regions` masque des calques de la carte (`lieux`, `regions`, `mers`, `provinces`, `colonies`), choix aussi retenu dans le navigateur.
