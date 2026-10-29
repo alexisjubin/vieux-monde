@@ -809,6 +809,13 @@ legend {
   padding: 1.1rem 0;
   border-top: 1px solid var(--filet);
   scroll-margin-top: 1rem;
+  /* Les événements hors de l'écran ne sont mis en page qu'à leur arrivée. */
+  content-visibility: auto;
+  contain-intrinsic-size: auto 11rem;
+}
+
+.chronique [hidden] {
+  display: none;
 }
 
 .evenement:target,

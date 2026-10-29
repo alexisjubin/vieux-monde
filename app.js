@@ -18,7 +18,7 @@ const LANGUES = ["fr", "en", "de"];
 
 // À augmenter à chaque publication qui change les données ou la carte, pour
 // que les navigateurs ne gardent pas l'ancienne version en cache.
-const VERSION = 8;
+const VERSION = 9;
 
 const TEXTES = {
   fr: {
@@ -200,11 +200,16 @@ function retenu(ev) {
   if (etat.lieux.size && !(ev.lieux ?? []).some((l) => etat.lieux.has(l))) return false;
   if (etat.fiabilites.size && !etat.fiabilites.has(ev.fiabilite)) return false;
   if (etat.importances.size && !etat.importances.has(String(ev.importance))) return false;
-  if (etat.texte) {
-    const botte = sansAccents(`${t(ev.titre)} ${t(ev.resume)} ${t(ev.note)}`);
-    if (!botte.includes(etat.texte)) return false;
-  }
+  if (etat.texte && !botte(ev).includes(etat.texte)) return false;
   return true;
+}
+
+// Texte de recherche d'un événement, sans accents, calculé une fois par langue.
+const bottes = new Map();
+function botte(ev) {
+  const cle = `${etat.langue}:${ev.id}`;
+  if (!bottes.has(cle)) bottes.set(cle, sansAccents(`${t(ev.titre)} ${t(ev.resume)} ${t(ev.note)}`));
+  return bottes.get(cle);
 }
 
 function sansAccents(s) {
@@ -358,13 +363,10 @@ function construireFrise() {
 }
 
 function montrer(id, fluide = true) {
-  let cible = document.getElementById(id);
-  if (!cible) {
-    // L'événement est masqué par un filtre : on lève les filtres d'abord.
-    effacerFiltres();
-    cible = document.getElementById(id);
-    if (!cible) return;
-  }
+  const cible = chroniqueConstruite.evenements.get(id);
+  if (!cible) return;
+  // L'événement est masqué par un filtre : on lève les filtres d'abord.
+  if (cible.hidden) effacerFiltres();
   document.querySelectorAll(".evenement.choisi").forEach((e) => e.classList.remove("choisi"));
   cible.classList.add("choisi");
   evoquerLieux(etat.evenements.find((ev) => ev.id === id)?.lieux ?? []);
@@ -374,9 +376,12 @@ function montrer(id, fluide = true) {
 
 /* Carte */
 
-// La carte est un grand SVG (repère de donnees/carte.json) qu'on parcourt en
+// La carte est un SVG (repère de donnees/carte.json) qu'on parcourt en
 // changeant son viewBox. vue.x, vue.y et vue.l décrivent la portion visible.
+// Le fond est fait de tuiles d'image (outils/carte/tuiles.py), les noms et
+// les lieux sont posés par-dessus en SVG.
 const vue = { x: 0, y: 0, l: 0, largeur: 0, hauteur: 0 };
+const tuiles = { manifeste: null, chargees: new Map(), groupes: new Map() };
 const ZOOM_MAX = 16;
 const CADRAGES = {
   monde: null,
@@ -384,25 +389,66 @@ const CADRAGES = {
 };
 
 async function chargerFondDeCarte() {
-  const reponse = await fetch(`carte.svg?v=${VERSION}`);
-  if (!reponse.ok) throw new Error(`carte.svg : ${reponse.status}`);
-  const doc = new DOMParser().parseFromString(await reponse.text(), "image/svg+xml");
-  const svg = document.importNode(doc.documentElement, true);
-  svg.setAttribute("role", "group");
-  svg.setAttribute("preserveAspectRatio", "xMidYMid meet");
+  const reponse = await fetch(`tuiles/tuiles.json?v=${VERSION}`);
+  if (!reponse.ok) throw new Error(`tuiles.json : ${reponse.status}`);
+  const m = (tuiles.manifeste = await reponse.json());
+  const svg = creerSvg("svg", { viewBox: `0 0 ${m.largeur} ${m.hauteur}`, role: "group", preserveAspectRatio: "xMidYMid meet" });
+  const fond = creerSvg("g", { "aria-hidden": "true" });
+  fond.append(image("tuiles/fond.webp", 0, 0, m.largeur, m.hauteur));
+  for (const niveau of m.niveaux) {
+    const groupe = creerSvg("g");
+    tuiles.groupes.set(niveau, groupe);
+    fond.append(groupe);
+  }
   svg.append(
+    fond,
     creerSvg("g", { id: "provinces-carte" }),
     creerSvg("g", { id: "colonies-carte" }),
     creerSvg("g", { id: "etiquettes-carte" }),
     creerSvg("g", { id: "lieux-carte" }),
   );
   $("#carte").append(svg);
-  const [, , largeur, hauteur] = svg.getAttribute("viewBox").split(/[\s,]+/).map(Number);
-  Object.assign(vue, { largeur, hauteur });
+  Object.assign(vue, { largeur: m.largeur, hauteur: m.hauteur });
   brancherDeplacements(svg);
   new ResizeObserver(() => {
     if (vue.l) cadrer(vue.x + vue.l / 2, vue.y + hauteurVisible() / 2, vue.l);
   }).observe($("#carte"));
+}
+
+function image(href, x, y, l, h) {
+  return creerSvg("image", { href: `${href}?v=${VERSION}`, x, y, width: l, height: h, preserveAspectRatio: "none" });
+}
+
+// Charge les tuiles du niveau assez fin pour l'écran, sur la zone visible et
+// une marge autour. Les niveaux plus grossiers restent dessous le temps que
+// les tuiles fines arrivent, les niveaux plus fins sont masqués.
+function majTuiles() {
+  const m = tuiles.manifeste;
+  if (!m) return;
+  const pixelsParUnite = (boiteCarte().width * (window.devicePixelRatio || 1)) / vue.l;
+  const niveau = m.niveaux.find((n) => n >= pixelsParUnite * 0.85) ?? m.niveaux.at(-1);
+  const utile = pixelsParUnite > m.apercu * 1.2;
+  for (const [n, groupe] of tuiles.groupes) groupe.style.display = utile && n <= niveau ? "" : "none";
+  if (!utile) return;
+
+  const cote = m.taille / niveau;
+  const marge = vue.l * 0.25;
+  const h = hauteurVisible();
+  const i0 = Math.max(0, Math.floor((vue.x - marge) / cote));
+  const i1 = Math.min(Math.ceil(m.largeur / cote) - 1, Math.floor((vue.x + vue.l + marge) / cote));
+  const j0 = Math.max(0, Math.floor((vue.y - marge) / cote));
+  const j1 = Math.min(Math.ceil(m.hauteur / cote) - 1, Math.floor((vue.y + h + marge) / cote));
+  for (let j = j0; j <= j1; j++) {
+    for (let i = i0; i <= i1; i++) {
+      const cle = `${niveau}/${i}-${j}`;
+      if (tuiles.chargees.has(cle)) continue;
+      const x = i * cote;
+      const y = j * cote;
+      const tuile = image(`tuiles/${cle}.webp`, x, y, Math.min(cote, m.largeur - x), Math.min(cote, m.hauteur - y));
+      tuiles.chargees.set(cle, tuile);
+      tuiles.groupes.get(niveau).append(tuile);
+    }
+  }
 }
 
 function boiteCarte() {
@@ -421,10 +467,9 @@ function largeurMonde() {
   return Math.max(vue.largeur, vue.hauteur * (b.width / b.height));
 }
 
-// Redessiner des milliers de montagnes à chaque mouvement serait trop lent.
 // Pendant un geste, on se contente de déplacer et d'agrandir l'image déjà
 // rendue (transformation CSS, faite par la carte graphique), puis on redessine
-// la carte nette une seule fois, quand le geste s'arrête.
+// la carte nette et on charge les tuiles une seule fois, quand le geste s'arrête.
 const affichee = { x: 0, y: 0, l: 0 };
 let redessin = null;
 
@@ -457,6 +502,7 @@ function afficherVue() {
   const grossissement = vue.largeur / vue.l;
   svg.dataset.zoom = grossissement < 2 ? 1 : grossissement < 4 ? 2 : grossissement < 8 ? 3 : 4;
   Object.assign(affichee, { x: vue.x, y: vue.y, l: vue.l });
+  majTuiles();
 }
 
 function cadrage(nom) {
@@ -705,9 +751,14 @@ function construireFiltres() {
 }
 
 function brancherFiltres() {
+  // On attend une courte pause dans la frappe avant de filtrer.
+  let attente = null;
   $("#recherche").addEventListener("input", (e) => {
-    etat.texte = sansAccents(e.target.value.trim());
-    appliquer();
+    clearTimeout(attente);
+    attente = setTimeout(() => {
+      etat.texte = sansAccents(e.target.value.trim());
+      appliquer();
+    }, 120);
   });
   $("#effacer").addEventListener("click", effacerFiltres);
   if (matchMedia("(max-width: 52rem)").matches) $("#panneau-filtres").open = false;
@@ -818,30 +869,48 @@ function carteEvenement(ev, factions, regions, fiabilites, lieux) {
   return article;
 }
 
-function appliquer() {
+// La chronique est construite une fois par langue. Les filtres se contentent
+// ensuite de masquer ou d'afficher les événements et les titres d'âge.
+const chroniqueConstruite = { evenements: new Map(), eres: new Map(), vide: null };
+
+function construireChronique() {
   const factions = index(etat.ref.factions);
   const regions = index(etat.ref.regions);
   const fiabilites = index(etat.ref.fiabilites);
   const lieux = index(etat.carte?.lieux ?? []);
-  const visibles = etat.evenements.filter(retenu);
-  const ids = new Set(visibles.map((ev) => ev.id));
-
+  const { evenements, eres } = chroniqueConstruite;
+  evenements.clear();
+  eres.clear();
   const chronique = $("#chronique");
   chronique.replaceChildren();
 
   for (const ere of etat.ref.eres) {
-    const dansEre = visibles.filter((ev) => ev.ere === ere.id);
+    const dansEre = etat.evenements.filter((ev) => ev.ere === ere.id);
     if (!dansEre.length) continue;
-    chronique.append(
+    const titres = [
       creer("h2", { textContent: t(ere.nom) }),
       creer("p", { className: "bornes", textContent: `${formaterAnnee(ere.debut)}${T().jusqua}${formaterAnnee(ere.fin)}` }),
-      ...dansEre.map((ev) => carteEvenement(ev, factions, regions, fiabilites, lieux)),
-    );
+    ];
+    eres.set(ere.id, titres);
+    chronique.append(...titres);
+    for (const ev of dansEre) {
+      const article = carteEvenement(ev, factions, regions, fiabilites, lieux);
+      evenements.set(ev.id, article);
+      chronique.append(article);
+    }
   }
+  chroniqueConstruite.vide = creer("p", { className: "vide", textContent: T().vide, hidden: true });
+  chronique.append(chroniqueConstruite.vide);
+}
 
-  if (!visibles.length) {
-    chronique.append(creer("p", { className: "vide", textContent: T().vide }));
-  }
+function appliquer() {
+  const visibles = etat.evenements.filter(retenu);
+  const ids = new Set(visibles.map((ev) => ev.id));
+  const eresVisibles = new Set(visibles.map((ev) => ev.ere));
+
+  for (const [id, article] of chroniqueConstruite.evenements) article.hidden = !ids.has(id);
+  for (const [id, titres] of chroniqueConstruite.eres) titres.forEach((el) => (el.hidden = !eresVisibles.has(id)));
+  chroniqueConstruite.vide.hidden = visibles.length > 0;
 
   document.querySelectorAll(".trait").forEach((tr) => tr.classList.toggle("estompe", !ids.has(tr.dataset.id)));
   document.querySelectorAll(".lieu[data-lieu]").forEach((g) => {
@@ -861,6 +930,7 @@ function toutConstruire() {
     construireCarte();
     construireLegendeTypes();
   }
+  construireChronique();
   appliquer();
 }
 

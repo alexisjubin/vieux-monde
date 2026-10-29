@@ -17,7 +17,8 @@ puis ouvrir http://localhost:8742.
 - `donnees/referentiel.json` : âges, régions, factions et niveaux de fiabilité. Tous les identifiants utilisés dans les événements viennent d'ici. `epoque_tow` délimite la bande hachurée de l'époque The Old World.
 - `donnees/evenements-*.json` : les événements, un objet par entrée.
 - `donnees/carte.json` : généré, ne pas modifier à la main. Les lieux de la chronologie, les colonies et les provinces, dans le repère de `carte.svg` (5760 unités de large).
-- `carte.svg` : le fond de carte, généré. C'est un tracé redessiné dans notre propre style, aucune image de référence n'est publiée.
+- `carte.svg` : le fond de carte, généré. C'est un tracé redessiné dans notre propre style, aucune image de référence n'est publiée. Le site ne l'affiche pas directement, il sert à produire les tuiles.
+- `tuiles/` : le fond de carte découpé en images, généré. `fond.webp` couvre toute la carte, les tuiles de 512 pixels des niveaux 1, 2 et 4 (pixels par unité) sont chargées selon le zoom.
 
 ## Carte
 
@@ -25,15 +26,17 @@ La carte se construit avec les scripts de `outils/carte/`, dans un environnement
 
 ```
 uv venv .venv
-uv pip install --python .venv/Scripts/python.exe opencv-python-headless scikit-image numpy pillow scipy
+uv pip install --python .venv/Scripts/python.exe opencv-python-headless scikit-image numpy pillow scipy playwright
 .venv/Scripts/python.exe outils/carte/construire.py
 .venv/Scripts/python.exe outils/carte/dessiner.py
 .venv/Scripts/python.exe outils/carte/lieux.py
+.venv/Scripts/python.exe outils/carte/tuiles.py
 ```
 
 1. `construire.py` extrait le trait de côte de la carte de référence (`references/ie-monde.webp`, la carte du monde de Total War: Warhammer III). Il sépare terre et mer avec des graines de mer posées à la main dans `references.json` et les 617 colonies de la carte interactive (`references/ie-factions.json`) comme graines de terre.
 2. `dessiner.py` dessine `carte.svg`. Les montagnes viennent de `montagnes.py`, une bibliothèque de 50 montagnes générées (lavis au pinceau, trait de plume effilé, hachures, neige), semées le long des crêtes : grands sommets au centre, collines sur les bords. `montagnes.py` lancé seul écrit une planche d'essai dans `cache/`. Le reste est tracé à partir des côtes et des éléments relevés à la main dans `elements.json` (montagnes, forêts, fleuves, lacs, marais, déserts).
 3. `lieux.py` place les lieux de `lieux.json` (par le nom de la colonie correspondante ou par une position relevée), ajoute les colonies, les provinces et les grands noms de `etiquettes.json`.
+4. `tuiles.py` rend `carte.svg` avec les couleurs de `style.css` dans Edge (Playwright) et le découpe en tuiles WebP, en deux minutes environ. Afficher les 21 000 montagnes en SVG rendait chaque zoom lent : le site n'affiche plus que ces images, avec les noms et les lieux en SVG par-dessus. À relancer après tout changement du fond ou de ses couleurs.
 
 Le dossier `references/` reste en local : il contient des cartes de Games Workshop et de Creative Assembly qui ne doivent pas être publiées. `outils/carte/apercu.html` affiche le fond de carte seul, avec `?vue=x,y,largeur,hauteur` pour zoomer.
 
