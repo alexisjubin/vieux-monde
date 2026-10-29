@@ -119,10 +119,15 @@
    190
   ],
   "nom": {
-   "fr": "Mer de la Malveillance",
+   "fr": "Mer Traîtresse",
    "en": "Sea of Malice",
    "de": "Meer der Bosheit"
-  }
+  },
+  "carte": "naggaroth",
+  "px": [
+   885,
+   640
+  ]
  },
  {
   "type": "mer",
@@ -319,7 +324,12 @@
    "en": "Naggaroth",
    "de": "Naggaroth"
   },
-  "angle": -80
+  "angle": -80,
+  "carte": "naggaroth",
+  "px": [
+   360,
+   900
+  ]
  },
  {
   "type": "region",

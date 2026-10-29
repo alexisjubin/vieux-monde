@@ -109,11 +109,19 @@ def main():
     }
     # Grands noms (mers, continents, royaumes) : outils/carte/etiquettes.json, en pixels de la référence.
     fichier = ICI / "etiquettes.json"
+    # Un nom peut aussi être placé sur une carte détaillée : "carte" et "px".
+    def placer(e):
+        if "carte" in e and e["carte"] in recalages:
+            m = recalages[e["carte"]]["matrice"]
+            x, y = e["px"]
+            return round(m[0][0] * x + m[0][1] * y + m[0][2]), round(m[1][0] * x + m[1][1] * y + m[1][2])
+        return round(e["ie_px"][0] * k), round(e["ie_px"][1] * k)
+
     if fichier.exists():
-        sortie["etiquettes"] = [
-            {**{c: v for c, v in e.items() if c != "ie_px"}, "x": round(e["ie_px"][0] * k), "y": round(e["ie_px"][1] * k)}
-            for e in json.loads(fichier.read_text(encoding="utf-8"))
-        ]
+        sortie["etiquettes"] = []
+        for e in json.loads(fichier.read_text(encoding="utf-8")):
+            x, y = placer(e)
+            sortie["etiquettes"].append({**{c: v for c, v in e.items() if c not in ("ie_px", "carte", "px")}, "x": x, "y": y})
     ancien = RACINE / "donnees" / "carte.json"
     texte = json.dumps(sortie, ensure_ascii=False, separators=(",", ":"))
     texte = texte.replace('{"id"', '\n{"id"').replace('],["', '],\n["')

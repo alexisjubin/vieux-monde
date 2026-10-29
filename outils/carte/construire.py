@@ -89,6 +89,13 @@ def masque_teinte(ref):
         cv2.circle(marques, (x, y), 6, 2, -1)
     for x0, y0, x1, y1 in ref.get("decors", []):
         marques[y0:y1, x0:x1] = 1
+    # Cartouches clairs posés sur la terre (noms de villes) : forcés en terre.
+    for x0, y0, x1, y1 in ref.get("cartouches", []):
+        marques[y0:y1, x0:x1] = 2
+    # Cartouches à cheval sur la côte : sans graine, la terre et la mer qui
+    # les entourent se les partagent.
+    for x0, y0, x1, y1 in ref.get("neutres", []):
+        marques[y0:y1, x0:x1] = 0
     zones = cv2.watershed(lab, marques)
     return (zones == 2).astype(np.uint8)
 
@@ -179,7 +186,7 @@ def poser_details(champ, base, k, W, H):
     for nom, ref in CONFIG["references"].items():
         if "points" not in ref or not ref.get("actif", True) or ref.get("methode") not in METHODES:
             continue
-        masque = nettoyer(METHODES[ref["methode"]](ref), 40)
+        masque = nettoyer(METHODES[ref["methode"]](ref), ref.get("aire_min", 40))
         h, w = masque.shape
         x0, y0, x1, y1 = ref["emprise"]
         emprise = np.zeros((h, w), np.uint8)

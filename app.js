@@ -18,7 +18,7 @@ const LANGUES = ["fr", "en", "de"];
 
 // À augmenter à chaque publication qui change les données ou la carte, pour
 // que les navigateurs ne gardent pas l'ancienne version en cache.
-const VERSION = 9;
+const VERSION = 10;
 
 const TEXTES = {
   fr: {
@@ -612,7 +612,7 @@ function construireCarte() {
   }
   for (const [nom, x, y] of etat.carte.colonies ?? []) {
     const g = creerSvg("g", { class: "colonie", transform: `translate(${x} ${y})` });
-    g.append(creerSvg("circle", { r: 3 }), creerSvg("text", { x: 6, y: 3 }, nom));
+    g.append(creerSvg("circle", { r: 3 }), creerSvg("text", { x: 6, y: 3 }, t(nom)));
     $("#colonies-carte").append(g);
   }
   for (const e of etat.carte.etiquettes ?? []) {

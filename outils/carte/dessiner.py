@@ -139,6 +139,28 @@ def hors_cartes_detaillees(elements, emprises, k):
     }
 
 
+def elements_detailles(nom, matrice, k):
+    """Éléments relevés en pixels d'une carte détaillée (references.json), ramenés au repère des éléments de la base."""
+    ref = json.loads((ICI / "references.json").read_text(encoding="utf-8"))["references"][nom]
+    (a, b, tx), (c, d, ty) = matrice
+    echelle = math.hypot(a, c) / k
+
+    def poser(points):
+        return [((a * x + b * y + tx) / k, (c * x + d * y + ty) / k) for x, y in points]
+
+    sortie = {}
+    for cle, liste in ref.get("elements", {}).items():
+        for e in liste:
+            e = dict(e)
+            for champ in ("crete", "contour", "trace"):
+                if champ in e:
+                    e[champ] = poser(e[champ])
+            if "largeur" in e:
+                e["largeur"] = e["largeur"] * echelle
+            sortie.setdefault(cle, []).append(e)
+    return sortie
+
+
 def onduler(contour, k, amplitude=6):
     """Rend un contour relevé à la main plus irrégulier, comme un tracé à la plume."""
     poly = [(x * k, y * k) for x, y in contour]
@@ -204,6 +226,9 @@ def main():
     recalages = json.loads(fichier_recalages.read_text(encoding="utf-8")) if fichier_recalages.exists() else {"cartes": {}, "massifs": []}
     emprises = [[tuple(p) for p in c["emprise"]] for c in recalages["cartes"].values()]
     elements = hors_cartes_detaillees(elements, emprises, k)
+    for nom, recalage in recalages["cartes"].items():
+        for cle, liste in elements_detailles(nom, recalage["matrice"], k).items():
+            elements.setdefault(cle, []).extend(liste)
 
     calques = [
         f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {H}">',

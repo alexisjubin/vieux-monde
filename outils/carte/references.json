@@ -212,6 +212,1374 @@
         ["Darkstone Chasm", "site", 975, 1190, null],
         ["Ruins of Sardenath", "ruine", 1380, 920, null]
       ]
+    },
+    "naggaroth": {
+      "fichier": "references/naggaroth-gw.webp",
+      "note": "Carte de Naggaroth de Games Workshop, « La Terre du Grand Froid ». Elle fait foi sur la Naggaroth, du sud des Tours de Guet au nord de la Lustrie.",
+      "methode": "teinte",
+      "seuil_mer": 125,
+      "seuil_terre": 129,
+      "decors": [
+        [30, 30, 355, 310],
+        [30, 1670, 455, 1975],
+        [1190, 30, 1443, 230],
+        [1200, 1380, 1330, 1990],
+        [1010, 1330, 1130, 1450],
+        [480, 40, 960, 170],
+        [700, 520, 800, 590],
+        [960, 525, 995, 565]
+      ],
+      "cartouches": [
+        [450, 452, 585, 495],
+        [543, 372, 662, 403],
+        [448, 582, 622, 618],
+        [738, 852, 935, 898],
+        [260, 345, 450, 445]
+      ],
+      "neutres": [
+        [798, 472, 962, 512],
+        [1208, 452, 1392, 498]
+      ],
+      "emprise": [0, 330, 1350, 1660],
+      "fondu": 40,
+      "abords": 70,
+      "points": [
+        [513, 474, 454, 727],
+        [518, 598, 545, 851],
+        [858, 493, 834, 674],
+        [1302, 477, 1103, 809],
+        [152, 433, 66, 731],
+        [138, 545, 95, 873],
+        [387, 345, 170, 595],
+        [244, 477, 226, 725],
+        [295, 622, 233, 949],
+        [488, 795, 296, 1128],
+        [648, 945, 312, 1303],
+        [452, 1195, 164, 1571],
+        [377, 1357, 65, 1744],
+        [909, 1200, 580, 1770],
+        [809, 1410, 529, 1864],
+        [1018, 810, 698, 1179],
+        [1162, 670, 822, 1004],
+        [1188, 580, 899, 911],
+        [1072, 470, 843, 826],
+        [1282, 637, 948, 1001],
+        [1091, 348, 1084, 624],
+        [856, 300, 813, 483],
+        [905, 388, 854, 572],
+        [823, 383, 758, 589],
+        [465, 320, 330, 588],
+        [420, 555, 354, 843],
+        [1100, 860, 827, 1142]
+      ],
+      "aire_min": 150,
+      "lieux": [
+        [
+          {
+            "fr": "Naggarond",
+            "en": "Naggarond",
+            "de": "Naggarond"
+          },
+          "capitale",
+          520,
+          440,
+          "naggarond"
+        ],
+        [
+          {
+            "fr": "Ghrond",
+            "en": "Ghrond",
+            "de": "Ghrond"
+          },
+          "ville",
+          600,
+          355,
+          "ghrond"
+        ],
+        [
+          {
+            "fr": "Hag Graef",
+            "en": "Hag Graef",
+            "de": "Hag Graef"
+          },
+          "ville",
+          515,
+          560,
+          "hag-graef"
+        ],
+        [
+          {
+            "fr": "Har Ganeth",
+            "en": "Har Ganeth",
+            "de": "Har Ganeth"
+          },
+          "ville",
+          860,
+          440,
+          "har-ganeth"
+        ],
+        [
+          {
+            "fr": "Clar Karond",
+            "en": "Clar Karond",
+            "de": "Clar Karond"
+          },
+          "ville",
+          820,
+          830,
+          "clar-karond"
+        ],
+        [
+          {
+            "fr": "Karond Kar",
+            "en": "Karond Kar",
+            "de": "Karond Kar"
+          },
+          "ville",
+          1300,
+          420,
+          "karond-kar"
+        ],
+        [
+          {
+            "fr": "Arnheim",
+            "en": "Arnheim",
+            "de": "Arnheim"
+          },
+          "ville",
+          910,
+          1245,
+          "arnheim"
+        ],
+        [
+          {
+            "fr": "Naggaroth",
+            "en": "Naggaroth",
+            "de": "Naggaroth"
+          },
+          "region",
+          640,
+          880,
+          "naggaroth"
+        ],
+        [
+          {
+            "fr": "Har Kaldra",
+            "en": "Har Kaldra",
+            "de": "Har Kaldra"
+          },
+          "ruine",
+          515,
+          315,
+          null
+        ],
+        [
+          {
+            "fr": "Autel des Ultimes Ténèbres",
+            "en": "Altar of Ultimate Darkness",
+            "de": "Altar der Ultimativen Finsternis"
+          },
+          "site",
+          385,
+          330,
+          null
+        ],
+        [
+          {
+            "fr": "Spire d'Eldar",
+            "en": "Eldar Spire",
+            "de": "Eldar Spire"
+          },
+          "forteresse",
+          155,
+          400,
+          null
+        ],
+        [
+          {
+            "fr": "Flèche de Drackla",
+            "en": "Drackla Spire",
+            "de": "Drackla Spire"
+          },
+          "forteresse",
+          140,
+          520,
+          null
+        ],
+        [
+          {
+            "fr": "Gorge de Rackdo",
+            "en": "Rackdo Gorge",
+            "de": "Rackdo Gorge"
+          },
+          "site",
+          245,
+          480,
+          null
+        ],
+        [
+          {
+            "fr": "Temple d'Ellinill",
+            "en": "Temple of Ellinill",
+            "de": "Temple of Ellinill"
+          },
+          "site",
+          325,
+          435,
+          null
+        ],
+        [
+          {
+            "fr": "Porte des Maléfices",
+            "en": "Gate of Malice",
+            "de": "Gate of Malice"
+          },
+          "site",
+          315,
+          530,
+          null
+        ],
+        [
+          {
+            "fr": "Temple de Khaine",
+            "en": "Temple of Khaine",
+            "de": "Tempel des Khaine"
+          },
+          "site",
+          412,
+          518,
+          null
+        ],
+        [
+          {
+            "fr": "La Grande Arène",
+            "en": "The Great Arena",
+            "de": "Die Große Arena"
+          },
+          "site",
+          668,
+          525,
+          null
+        ],
+        [
+          {
+            "fr": "Mont Shroktak",
+            "en": "Shroktak Mount",
+            "de": "Shroktak Mount"
+          },
+          "site",
+          330,
+          600,
+          null
+        ],
+        [
+          {
+            "fr": "Gouffre de Cragroth",
+            "en": "Cragroth Deep",
+            "de": "Cragroth Deep"
+          },
+          "site",
+          405,
+          635,
+          null
+        ],
+        [
+          {
+            "fr": "Crypte de Keshta",
+            "en": "Crypt of Keshta",
+            "de": "Crypt of Keshta"
+          },
+          "site",
+          590,
+          643,
+          null
+        ],
+        [
+          {
+            "fr": "Île de Maglen",
+            "en": "Maglen Isle",
+            "de": "Maglen Isle"
+          },
+          "site",
+          125,
+          650,
+          null
+        ],
+        [
+          {
+            "fr": "Spire des Eaux Froides",
+            "en": "Coldwater Spire",
+            "de": "Coldwater Spire"
+          },
+          "forteresse",
+          245,
+          650,
+          null
+        ],
+        [
+          {
+            "fr": "Grotte de Sontar",
+            "en": "Sontar's Cave",
+            "de": "Sontar's Cave"
+          },
+          "site",
+          515,
+          680,
+          null
+        ],
+        [
+          {
+            "fr": "La Porte des Cieux",
+            "en": "Gate of the Skies",
+            "de": "Gate of the Skies"
+          },
+          "site",
+          460,
+          720,
+          null
+        ],
+        [
+          {
+            "fr": "Spire de Rothkar",
+            "en": "Rothkar Spire",
+            "de": "Rothkar Spire"
+          },
+          "forteresse",
+          270,
+          725,
+          null
+        ],
+        [
+          {
+            "fr": "Storag Kor",
+            "en": "Storag Kor",
+            "de": "Storag Kor"
+          },
+          "forteresse",
+          488,
+          790,
+          null
+        ],
+        [
+          {
+            "fr": "Aiguille de Glace",
+            "en": "Ice Needle",
+            "de": "Ice Needle"
+          },
+          "site",
+          565,
+          820,
+          null
+        ],
+        [
+          {
+            "fr": "Puits de Zardok",
+            "en": "Zardok's Pit",
+            "de": "Zardok's Pit"
+          },
+          "site",
+          425,
+          815,
+          null
+        ],
+        [
+          {
+            "fr": "Spire de Khymerica",
+            "en": "Khymerica Spire",
+            "de": "Khymerica Spire"
+          },
+          "forteresse",
+          340,
+          805,
+          null
+        ],
+        [
+          {
+            "fr": "Vindicus, l'Éternelle Noirceur",
+            "en": "Vindicus, the Eternal Darkness",
+            "de": "Vindicus, the Eternal Darkness"
+          },
+          "site",
+          420,
+          940,
+          null
+        ],
+        [
+          {
+            "fr": "Spire de Clarak",
+            "en": "Clarak Spire",
+            "de": "Clarak Spire"
+          },
+          "forteresse",
+          330,
+          925,
+          null
+        ],
+        [
+          {
+            "fr": "Porte du Cloaque",
+            "en": "Sewer Gate",
+            "de": "Sewer Gate"
+          },
+          "site",
+          570,
+          950,
+          null
+        ],
+        [
+          {
+            "fr": "Temple d'Addaioth",
+            "en": "Temple of Addaioth",
+            "de": "Temple of Addaioth"
+          },
+          "site",
+          655,
+          915,
+          null
+        ],
+        [
+          {
+            "fr": "Volroth",
+            "en": "Volroth",
+            "de": "Volroth"
+          },
+          "forteresse",
+          735,
+          285,
+          null
+        ],
+        [
+          {
+            "fr": "Atorak",
+            "en": "Atorak",
+            "de": "Atorak"
+          },
+          "forteresse",
+          790,
+          275,
+          null
+        ],
+        [
+          {
+            "fr": "Kauark",
+            "en": "Kauark",
+            "de": "Kauark"
+          },
+          "forteresse",
+          855,
+          275,
+          null
+        ],
+        [
+          {
+            "fr": "Aakon",
+            "en": "Aakon",
+            "de": "Aakon"
+          },
+          "forteresse",
+          900,
+          285,
+          null
+        ],
+        [
+          {
+            "fr": "Kandra",
+            "en": "Kandra",
+            "de": "Kandra"
+          },
+          "forteresse",
+          980,
+          292,
+          null
+        ],
+        [
+          {
+            "fr": "Dargoth",
+            "en": "Dargoth",
+            "de": "Dargoth"
+          },
+          "forteresse",
+          1030,
+          300,
+          null
+        ],
+        [
+          {
+            "fr": "Nagrar",
+            "en": "Nagrar",
+            "de": "Nagrar"
+          },
+          "forteresse",
+          1093,
+          310,
+          null
+        ],
+        [
+          {
+            "fr": "Shagrath",
+            "en": "Shagrath",
+            "de": "Shagrath"
+          },
+          "forteresse",
+          1165,
+          310,
+          null
+        ],
+        [
+          {
+            "fr": "La Cité Gelée",
+            "en": "The Frozen City",
+            "de": "Die Gefrorene Stadt"
+          },
+          "ville",
+          1110,
+          245,
+          null
+        ],
+        [
+          {
+            "fr": "Étendue du Dépit",
+            "en": "Spite Reach",
+            "de": "Spite Reach"
+          },
+          "site",
+          825,
+          380,
+          null
+        ],
+        [
+          {
+            "fr": "Le Pilier Noir",
+            "en": "The Black Pillar",
+            "de": "Die Schwarze Säule"
+          },
+          "site",
+          905,
+          385,
+          null
+        ],
+        [
+          {
+            "fr": "Tour de la Lumière Noire",
+            "en": "Blacklight Tower",
+            "de": "Blacklight Tower"
+          },
+          "forteresse",
+          1065,
+          455,
+          null
+        ],
+        [
+          {
+            "fr": "Temple englouti de Mathlann",
+            "en": "Sunken Temple of Mathlann",
+            "de": "Sunken Temple of Mathlann"
+          },
+          "site",
+          980,
+          535,
+          null
+        ],
+        [
+          {
+            "fr": "Chapelle de Ladrielle",
+            "en": "Shrine of Ladrielle",
+            "de": "Shrine of Ladrielle"
+          },
+          "site",
+          1190,
+          545,
+          null
+        ],
+        [
+          {
+            "fr": "Spire du Chenal Noir",
+            "en": "Black Channel Spire",
+            "de": "Black Channel Spire"
+          },
+          "forteresse",
+          1370,
+          565,
+          null
+        ],
+        [
+          {
+            "fr": "Pointe de l'Esclavagiste",
+            "en": "Slaver's Point",
+            "de": "Slaver's Point"
+          },
+          "site",
+          1280,
+          635,
+          null
+        ],
+        [
+          {
+            "fr": "Les Monolithes",
+            "en": "The Monoliths",
+            "de": "Die Monolithen"
+          },
+          "site",
+          1175,
+          640,
+          null
+        ],
+        [
+          {
+            "fr": "Fosse Navrée",
+            "en": "Grieving Trench",
+            "de": "Grieving Trench"
+          },
+          "site",
+          1335,
+          705,
+          null
+        ],
+        [
+          {
+            "fr": "Antre de Daldrach",
+            "en": "Daldrach's Lair",
+            "de": "Daldrach's Lair"
+          },
+          "site",
+          795,
+          720,
+          null
+        ],
+        [
+          {
+            "fr": "Brisants de Soulshil",
+            "en": "Soulshil Breakers",
+            "de": "Soulshil Breakers"
+          },
+          "site",
+          890,
+          740,
+          null
+        ],
+        [
+          {
+            "fr": "Porte du Destin",
+            "en": "Gate of Doom",
+            "de": "Gate of Doom"
+          },
+          "site",
+          720,
+          800,
+          null
+        ],
+        [
+          {
+            "fr": "Cercle de la Destruction",
+            "en": "Circle of Destruction",
+            "de": "Circle of Destruction"
+          },
+          "site",
+          900,
+          810,
+          null
+        ],
+        [
+          {
+            "fr": "Colonne de Hotek",
+            "en": "Hotek's Column",
+            "de": "Hotek's Column"
+          },
+          "site",
+          1020,
+          775,
+          null
+        ],
+        [
+          {
+            "fr": "La Terre Brisée",
+            "en": "The Broken Land",
+            "de": "The Broken Land"
+          },
+          "site",
+          1198,
+          845,
+          null
+        ],
+        [
+          {
+            "fr": "Falaise de l'Effroi",
+            "en": "Cliff of Dread",
+            "de": "Cliff of Dread"
+          },
+          "site",
+          1262,
+          860,
+          null
+        ],
+        [
+          {
+            "fr": "Clairière du Venin",
+            "en": "Venom Glade",
+            "de": "Venom Glade"
+          },
+          "site",
+          905,
+          930,
+          null
+        ],
+        [
+          {
+            "fr": "La Clairière Pervertie",
+            "en": "The Twisted Glade",
+            "de": "The Twisted Glade"
+          },
+          "site",
+          1180,
+          935,
+          null
+        ],
+        [
+          {
+            "fr": "Gorge du Roc Glacé",
+            "en": "Ice Rock Gorge",
+            "de": "Ice Rock Gorge"
+          },
+          "site",
+          790,
+          995,
+          null
+        ],
+        [
+          {
+            "fr": "Enclume de Vaul",
+            "en": "Vaul's Anvil",
+            "de": "Vaul's Anvil"
+          },
+          "site",
+          900,
+          1025,
+          null
+        ],
+        [
+          {
+            "fr": "Halle de la Matriarche",
+            "en": "Hag Hall",
+            "de": "Hag Hall"
+          },
+          "site",
+          815,
+          1060,
+          null
+        ],
+        [
+          {
+            "fr": "Forteresse du Bastion Désolé",
+            "en": "Bleak Hold Fortress",
+            "de": "Bleak Hold Fortress"
+          },
+          "forteresse",
+          810,
+          1135,
+          null
+        ],
+        [
+          {
+            "fr": "Porte Sorcière",
+            "en": "Witch Gate",
+            "de": "Witch Gate"
+          },
+          "site",
+          578,
+          1075,
+          null
+        ],
+        [
+          {
+            "fr": "Porte de Harkyl",
+            "en": "Harkyl's Gate",
+            "de": "Harkyl's Gate"
+          },
+          "site",
+          660,
+          1115,
+          null
+        ],
+        [
+          {
+            "fr": "Porte de la Colère",
+            "en": "Gate of Wrath",
+            "de": "Gate of Wrath"
+          },
+          "site",
+          680,
+          1210,
+          null
+        ],
+        [
+          {
+            "fr": "Plaine des Chiens",
+            "en": "Plain of Dogs",
+            "de": "Plain of Dogs"
+          },
+          "site",
+          450,
+          1195,
+          null
+        ],
+        [
+          {
+            "fr": "Pic Tyran",
+            "en": "Tyrant Peak",
+            "de": "Tyrant Peak"
+          },
+          "site",
+          530,
+          1270,
+          null
+        ],
+        [
+          {
+            "fr": "L'Antique Cité de Quintex",
+            "en": "The Ancient City of Quintex",
+            "de": "The Ancient City of Quintex"
+          },
+          "ruine",
+          650,
+          1255,
+          null
+        ],
+        [
+          {
+            "fr": "Île aux Grandes Bêtes",
+            "en": "Isle of Great Beasts",
+            "de": "Isle of Great Beasts"
+          },
+          "site",
+          340,
+          1290,
+          null
+        ],
+        [
+          {
+            "fr": "Antre de Scarpel",
+            "en": "Scarpel's Lair",
+            "de": "Scarpel's Lair"
+          },
+          "site",
+          375,
+          1360,
+          null
+        ],
+        [
+          {
+            "fr": "Pic de Fer",
+            "en": "Ironspike",
+            "de": "Ironspike"
+          },
+          "site",
+          610,
+          1390,
+          null
+        ],
+        [
+          {
+            "fr": "L'Éclat de Lune",
+            "en": "The Moon Shard",
+            "de": "The Moon Shard"
+          },
+          "site",
+          810,
+          1405,
+          null
+        ],
+        [
+          {
+            "fr": "Les Terres de la Gorgone",
+            "en": "Lands of the Gorgon",
+            "de": "Lands of the Gorgon"
+          },
+          "site",
+          435,
+          1495,
+          null
+        ],
+        [
+          {
+            "fr": "L'Île Mouvante",
+            "en": "The Shifting Isle",
+            "de": "The Shifting Isle"
+          },
+          "site",
+          490,
+          1615,
+          null
+        ],
+        [
+          {
+            "fr": "Pointe du Roc Gris",
+            "en": "Grey Rock Point",
+            "de": "Grey Rock Point"
+          },
+          "site",
+          930,
+          1560,
+          null
+        ]
+      ],
+      "elements": {
+        "montagnes": [
+          {
+            "nom": {
+              "fr": "Montagnes de Fer",
+              "en": "Iron Mountains",
+              "de": "Eisenberge"
+            },
+            "crete": [
+              [180, 335],
+              [260, 362],
+              [340, 400],
+              [400, 430],
+              [450, 465]
+            ],
+            "largeur": 55
+          },
+          {
+            "nom": {
+              "fr": "Montagnes de Fer",
+              "en": "Iron Mountains",
+              "de": "Eisenberge"
+            },
+            "crete": [
+              [225, 445],
+              [255, 525],
+              [280, 605],
+              [292, 685],
+              [305, 765],
+              [320, 850]
+            ],
+            "largeur": 70
+          },
+          {
+            "nom": {
+              "fr": "Pics de la Vindicte",
+              "en": "Spiteful Peaks",
+              "de": "Spiteful Peaks"
+            },
+            "crete": [
+              [650, 335],
+              [710, 365],
+              [765, 405],
+              [800, 440]
+            ],
+            "largeur": 40
+          },
+          {
+            "nom": {
+              "fr": "Monts de Ghrond",
+              "en": "Ghrond Heights",
+              "de": "Ghrond Heights"
+            },
+            "crete": [
+              [440, 385],
+              [520, 395],
+              [610, 410],
+              [690, 440]
+            ],
+            "largeur": 35
+          },
+          {
+            "nom": {
+              "fr": "L'Échine Noire",
+              "en": "Blackspine Mountains",
+              "de": "Schwarzrückengebirge"
+            },
+            "crete": [
+              [555, 640],
+              [580, 720],
+              [590, 800],
+              [565, 880],
+              [545, 960],
+              [565, 1050]
+            ],
+            "largeur": 75
+          },
+          {
+            "nom": {
+              "fr": "Pics d'Obsidienne",
+              "en": "Obsidian Peaks",
+              "de": "Obsidiangipfel"
+            },
+            "crete": [
+              [565, 1005],
+              [650, 985],
+              [750, 965],
+              [840, 965]
+            ],
+            "largeur": 55
+          },
+          {
+            "nom": {
+              "fr": "Montagnes du sud",
+              "en": "Southern Mountains",
+              "de": "Southern Mountains"
+            },
+            "crete": [
+              [600, 1120],
+              [570, 1240],
+              [565, 1370],
+              [600, 1470],
+              [650, 1540]
+            ],
+            "largeur": 80
+          },
+          {
+            "nom": {
+              "fr": "Montagnes de l'ouest",
+              "en": "Western Mountains",
+              "de": "Western Mountains"
+            },
+            "crete": [
+              [400, 1010],
+              [460, 1060],
+              [510, 1110]
+            ],
+            "largeur": 45
+          },
+          {
+            "nom": {
+              "fr": "Pics des Titans",
+              "en": "Titan Peaks",
+              "de": "Titan Peaks"
+            },
+            "crete": [
+              [520, 1510],
+              [565, 1565],
+              [625, 1585],
+              [700, 1565]
+            ],
+            "largeur": 45
+          },
+          {
+            "nom": {
+              "fr": "Sentinelles Grises",
+              "en": "Grey Sentinels",
+              "de": "Grey Sentinels"
+            },
+            "crete": [
+              [650, 1660],
+              [715, 1630],
+              [780, 1600],
+              [830, 1560]
+            ],
+            "largeur": 40
+          },
+          {
+            "nom": {
+              "fr": "Monts du Roc Gris",
+              "en": "Grey Rock Heights",
+              "de": "Grey Rock Heights"
+            },
+            "crete": [
+              [830, 1490],
+              [880, 1530],
+              [930, 1585]
+            ],
+            "largeur": 35
+          },
+          {
+            "nom": {
+              "fr": "Monts de l'Île aux Grandes Bêtes",
+              "en": "Great Beasts Heights",
+              "de": "Great Beasts Heights"
+            },
+            "crete": [
+              [350, 1255],
+              [378, 1320],
+              [398, 1400],
+              [418, 1470]
+            ],
+            "largeur": 35
+          },
+          {
+            "nom": {
+              "fr": "Collines de Granit",
+              "en": "Granite Hills",
+              "de": "Granithügel"
+            },
+            "crete": [
+              [1065, 820],
+              [1092, 740],
+              [1125, 650],
+              [1165, 575]
+            ],
+            "largeur": 22
+          },
+          {
+            "nom": {
+              "fr": "Monts de Ladrielle",
+              "en": "Ladrielle Heights",
+              "de": "Ladrielle Heights"
+            },
+            "crete": [
+              [1155, 560],
+              [1185, 600],
+              [1215, 640]
+            ],
+            "largeur": 22
+          }
+        ],
+        "forets": [
+          {
+            "nom": {
+              "fr": "Bois de l'Ombre",
+              "en": "Shadow Wood",
+              "de": "Schattenwald"
+            },
+            "contour": [
+              [610, 722],
+              [680, 702],
+              [760, 720],
+              [772, 768],
+              [700, 790],
+              [620, 776]
+            ]
+          },
+          {
+            "nom": {
+              "fr": "Les Forêts Noires",
+              "en": "The Black Forests",
+              "de": "The Black Forests"
+            },
+            "contour": [
+              [1040, 842],
+              [1110, 802],
+              [1180, 830],
+              [1190, 900],
+              [1120, 930],
+              [1050, 912]
+            ]
+          },
+          {
+            "nom": {
+              "fr": "Bois Obscur",
+              "en": "Dark Wood",
+              "de": "Dark Wood"
+            },
+            "contour": [
+              [1030, 672],
+              [1090, 652],
+              [1120, 690],
+              [1100, 732],
+              [1040, 726]
+            ]
+          },
+          {
+            "nom": {
+              "fr": "Forêt d'Arnheim",
+              "en": "Forest of Arnheim",
+              "de": "Forest of Arnheim"
+            },
+            "contour": [
+              [745, 1272],
+              [790, 1252],
+              [830, 1290],
+              [815, 1345],
+              [765, 1340]
+            ]
+          },
+          {
+            "nom": {
+              "fr": "Forêt Pétrifiée",
+              "en": "Petrified Forest",
+              "de": "Petrified Forest"
+            },
+            "contour": [
+              [690, 1370],
+              [740, 1355],
+              [780, 1385],
+              [760, 1415],
+              [700, 1410]
+            ]
+          },
+          {
+            "nom": {
+              "fr": "Bois-mort",
+              "en": "Deadwood",
+              "de": "Deadwood"
+            },
+            "contour": [
+              [1000, 385],
+              [1060, 370],
+              [1100, 395],
+              [1070, 420],
+              [1010, 415]
+            ]
+          }
+        ],
+        "fleuves": [
+          {
+            "nom": {
+              "fr": "Fleuve Sulfureux",
+              "en": "Sulphur River",
+              "de": "Sulphur River"
+            },
+            "trace": [
+              [880, 880],
+              [930, 900],
+              [990, 930],
+              [1040, 968],
+              [1080, 1008],
+              [1120, 1040]
+            ],
+            "rang": 2
+          },
+          {
+            "nom": {
+              "fr": "Le Flot de Poix",
+              "en": "The Pitch Flow",
+              "de": "The Pitch Flow"
+            },
+            "trace": [
+              [420, 1338],
+              [480, 1330],
+              [540, 1322],
+              [600, 1305]
+            ],
+            "rang": 3
+          }
+        ],
+        "lacs": [
+          {
+            "nom": {
+              "fr": "Lacs de l'Abysse",
+              "en": "Abyssal Lakes",
+              "de": "Abyssal Lakes"
+            },
+            "contour": [
+              [575, 690],
+              [605, 688],
+              [612, 705],
+              [590, 712],
+              [572, 705]
+            ]
+          },
+          {
+            "nom": {
+              "fr": "Lac du Kraken",
+              "en": "Kraken Lake",
+              "de": "Kraken Lake"
+            },
+            "contour": [
+              [545, 1175],
+              [590, 1168],
+              [625, 1180],
+              [600, 1195],
+              [555, 1192]
+            ]
+          },
+          {
+            "nom": {
+              "fr": "Lac de la Vouivre",
+              "en": "Wyvern Lake",
+              "de": "Wyvern Lake"
+            },
+            "contour": [
+              [650, 1462],
+              [690, 1458],
+              [700, 1475],
+              [670, 1482],
+              [645, 1475]
+            ]
+          },
+          {
+            "nom": {
+              "fr": "Mer Sorcière",
+              "en": "Witch Sea",
+              "de": "Witch Sea"
+            },
+            "contour": [
+              [480, 1120],
+              [530, 1110],
+              [580, 1118],
+              [560, 1135],
+              [500, 1138]
+            ]
+          }
+        ],
+        "deserts": [
+          {
+            "nom": {
+              "fr": "Désert Rouge",
+              "en": "Red Desert",
+              "de": "Rote Wüste"
+            },
+            "contour": [
+              [340, 720],
+              [400, 705],
+              [430, 745],
+              [415, 795],
+              [355, 790]
+            ]
+          },
+          {
+            "nom": {
+              "fr": "Plaine des Araignées",
+              "en": "Plain of Spiders",
+              "de": "Plain of Spiders"
+            },
+            "contour": [
+              [350, 975],
+              [420, 960],
+              [440, 1020],
+              [420, 1070],
+              [360, 1065]
+            ]
+          },
+          {
+            "nom": {
+              "fr": "Plaine des Chiens",
+              "en": "Plain of Dogs",
+              "de": "Plain of Dogs"
+            },
+            "contour": [
+              [410, 1170],
+              [470, 1160],
+              [490, 1210],
+              [460, 1240],
+              [415, 1225]
+            ]
+          },
+          {
+            "nom": {
+              "fr": "Les Sables de Fer",
+              "en": "The Iron Sands",
+              "de": "The Iron Sands"
+            },
+            "contour": [
+              [500, 1400],
+              [550, 1390],
+              [590, 1440],
+              [580, 1520],
+              [530, 1530],
+              [505, 1470]
+            ]
+          }
+        ],
+        "marais": [
+          {
+            "nom": {
+              "fr": "Marais du Destin",
+              "en": "Marshes of Doom",
+              "de": "Marshes of Doom"
+            },
+            "contour": [
+              [870, 1060],
+              [960, 1050],
+              [1000, 1090],
+              [980, 1180],
+              [950, 1260],
+              [890, 1270],
+              [860, 1180]
+            ]
+          }
+        ]
+      }
     }
   }
 }
