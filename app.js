@@ -583,7 +583,12 @@ function construireCarte() {
     }
     groupeLieux.append(groupe);
   }
-  if (!vue.l) cadrage("vieux-monde");
+  if (!vue.l) {
+    // ?carte=x,y,largeur ouvre la carte sur une vue précise, centrée sur (x, y).
+    const demande = new URLSearchParams(location.search).get("carte")?.split(",").map(Number);
+    if (demande?.length === 3 && demande.every(Number.isFinite)) cadrer(...demande);
+    else cadrage("vieux-monde");
+  }
 }
 
 function nombreParLieu() {

@@ -44,6 +44,15 @@ def marqueurs():
         }
 
 
+def dedans(pt, poly):
+    x, y = pt
+    vrai = False
+    for (x1, y1), (x2, y2) in zip(poly, poly[1:] + poly[:1]):
+        if (y1 > y) != (y2 > y) and x < (x2 - x1) * (y - y1) / (y2 - y1) + x1:
+            vrai = not vrai
+    return vrai
+
+
 def main():
     k = CONFIG["cadre"]["largeur"] / LARGEUR_REF
     colonies = list(marqueurs())
@@ -64,6 +73,23 @@ def main():
         else:
             sans_position.append(l["id"])
         lieux.append(sortie)
+
+    # Les cartes détaillées font foi sur leur emprise : leurs lieux remplacent
+    # les colonies de la base qui s'y trouvent.
+    fichier = ICI / "cache" / "recalages.json"
+    recalages = json.loads(fichier.read_text(encoding="utf-8"))["cartes"] if fichier.exists() else {}
+    par_id = {l["id"]: l for l in lieux}
+    for nom, recalage in recalages.items():
+        m = recalage["matrice"]
+        emprise = recalage["emprise"]
+        colonies = [c for c in colonies if not dedans((c["x"], c["y"]), emprise)]
+        for nom_lieu, type_lieu, x, y, ident in CONFIG["references"][nom].get("lieux", []):
+            fx = round(m[0][0] * x + m[0][1] * y + m[0][2])
+            fy = round(m[1][0] * x + m[1][1] * y + m[1][2])
+            if ident and ident in par_id:
+                par_id[ident]["x"], par_id[ident]["y"] = fx, fy
+            elif not ident:
+                colonies.append({"nom": nom_lieu, "province": None, "x": fx, "y": fy})
 
     # Une province est étiquetée au barycentre de ses colonies.
     groupes = defaultdict(list)

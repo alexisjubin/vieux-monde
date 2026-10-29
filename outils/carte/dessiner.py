@@ -98,6 +98,40 @@ def pics(crete, largeur, k):
     return "".join(traits)
 
 
+def massif(contour):
+    """Montagnes semées à l'intérieur d'un contour (massifs relevés sur une carte détaillée)."""
+    sommets = []
+    xs, ys = [p[0] for p in contour], [p[1] for p in contour]
+    y = min(ys)
+    while y < max(ys):
+        x = min(xs)
+        while x < max(xs):
+            px, py = x + alea.uniform(-6, 6), y + alea.uniform(-4, 4)
+            if alea.random() > 0.15 and dedans((px, py), contour):
+                sommets.append((px, py, alea.uniform(10, 21)))
+            x += 15
+        y += 11
+    sommets.sort(key=lambda s: s[1])
+    traits = []
+    for x, y, h in sommets:
+        l = h * alea.uniform(0.7, 0.95)
+        pente = alea.uniform(-0.2, 0.2) * l
+        d = f"M{x - l:.0f},{y:.0f}L{x + pente:.0f},{y - h:.0f}L{x + l:.0f},{y:.0f}ZM{x + pente:.0f},{y - h:.0f}L{x + l * 0.3:.0f},{y:.0f}"
+        traits.append(f'<path d="{d}"/>')
+    return "".join(traits)
+
+
+def hors_cartes_detaillees(elements, emprises, k):
+    """Écarte les éléments relevés sur la base qui tombent dans l'emprise d'une carte détaillée."""
+    def dans_une(points):
+        pts = [(x * k, y * k) for x, y in points]
+        return any(sum(dedans(p, e) for p in pts) > len(pts) / 2 for e in emprises)
+    return {
+        cle: [e for e in valeurs if not dans_une(e.get("crete") or e.get("contour") or e.get("trace"))]
+        for cle, valeurs in elements.items() if isinstance(valeurs, list)
+    }
+
+
 def onduler(contour, k, amplitude=6):
     """Rend un contour relevé à la main plus irrégulier, comme un tracé à la plume."""
     poly = [(x * k, y * k) for x, y in contour]
@@ -159,6 +193,10 @@ def main():
     fichier_elements = ICI / "elements.json"
     elements = json.loads(fichier_elements.read_text(encoding="utf-8")) if fichier_elements.exists() else {}
     k = W / 1500
+    fichier_recalages = ICI / "cache" / "recalages.json"
+    recalages = json.loads(fichier_recalages.read_text(encoding="utf-8")) if fichier_recalages.exists() else {"cartes": {}, "massifs": []}
+    emprises = [[tuple(p) for p in c["emprise"]] for c in recalages["cartes"].values()]
+    elements = hors_cartes_detaillees(elements, emprises, k)
 
     calques = [
         f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {H}">',
@@ -195,6 +233,8 @@ def main():
     montagnes = sorted(elements.get("montagnes", []), key=lambda m: min(p[1] for p in m["crete"]))
     for m in montagnes:
         calques.append(f'<g class="relief">{pics(m["crete"], m.get("largeur", 6), k)}</g>')
+    for contour in recalages["massifs"]:
+        calques.append(f'<g class="relief">{massif([tuple(p) for p in contour])}</g>')
     calques += [
         "</g>",
         '<use class="cote" href="#trace-terres"/>',
