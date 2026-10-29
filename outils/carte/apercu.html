@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<title>Aperçu du fond de carte</title>
+<link rel="stylesheet" href="../../style.css">
+<style>body{margin:0} .carte svg{display:block;width:100%;height:auto}</style>
+</head>
+<body>
+<!-- Outil de travail : affiche carte.svg avec les styles du site. Paramètre ?vue=x,y,l,h pour zoomer. -->
+<div class="carte" id="carte"></div>
+<script>
+fetch("../../carte.svg?" + Date.now()).then((r) => r.text()).then((t) => {
+  const zone = document.getElementById("carte");
+  zone.innerHTML = t;
+  const vue = new URLSearchParams(location.search).get("vue");
+  if (vue) zone.querySelector("svg").setAttribute("viewBox", vue.split(",").join(" "));
+});
+</script>
+</body>
+</html>

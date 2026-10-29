@@ -1,1 +1,5 @@
 .claude/
+# Cartes de référence (Games Workshop), à ne pas publier
+references/
+.venv/
+outils/carte/cache/

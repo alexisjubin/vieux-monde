@@ -1,0 +1,1573 @@
+{
+ "repere": "ie-monde.webp 1500x1167",
+ "montagnes": [
+  {
+   "nom": {
+    "fr": "Montagnes du Nord",
+    "en": "Northern Mountains",
+    "de": "Nordgebirge"
+   },
+   "crete": [[0,14],[60,16],[120,14],[180,16],[240,14],[300,16],[360,14],[420,12]],
+   "largeur": 12
+  },
+  {
+   "nom": {
+    "fr": "Montagnes du Nord",
+    "en": "Northern Mountains",
+    "de": "Nordgebirge"
+   },
+   "crete": [[0,48],[50,52],[100,50],[150,46],[200,44],[250,42],[300,40],[350,38],[400,30]],
+   "largeur": 12
+  },
+  {
+   "nom": {
+    "fr": "Ironfrost Glacier",
+    "en": "Ironfrost Glacier",
+    "de": "Ironfrost Glacier"
+   },
+   "crete": [[40,142],[55,125],[72,112],[92,118]],
+   "largeur": 11
+  },
+  {
+   "nom": {
+    "fr": "Ironfrost Glacier",
+    "en": "Ironfrost Glacier",
+    "de": "Ironfrost Glacier"
+   },
+   "crete": [[100,145],[112,128],[130,116]],
+   "largeur": 9
+  },
+  {
+   "nom": {
+    "fr": "Route des Crânes",
+    "en": "The Road of Skulls",
+    "de": "Straße der Schädel"
+   },
+   "crete": [[150,140],[172,122],[200,112],[235,104]],
+   "largeur": 14
+  },
+  {
+   "nom": {
+    "fr": "Terres des Éclats",
+    "en": "The Shard Lands",
+    "de": "Splitterlande"
+   },
+   "crete": [[385,70],[410,76],[440,86]],
+   "largeur": 8
+  },
+  {
+   "nom": {
+    "fr": "Deadwood",
+    "en": "Deadwood",
+    "de": "Deadwood"
+   },
+   "crete": [[245,108],[272,100],[300,104]],
+   "largeur": 9
+  },
+  {
+   "nom": {
+    "fr": "Montagnes de Fer",
+    "en": "Iron Mountains",
+    "de": "Eisenberge"
+   },
+   "crete": [[22,196],[45,178],[72,166],[96,172]],
+   "largeur": 14
+  },
+  {
+   "nom": {
+    "fr": "Montagnes de Fer",
+    "en": "Iron Mountains",
+    "de": "Eisenberge"
+   },
+   "crete": [[38,200],[40,225],[42,250]],
+   "largeur": 9
+  },
+  {
+   "nom": {
+    "fr": "Collines du Pied de Fer",
+    "en": "Iron Foot Hills",
+    "de": "Eisenfußhügel"
+   },
+   "crete": [[98,172],[102,195],[108,216]],
+   "largeur": 8
+  },
+  {
+   "nom": {
+    "fr": "Pics d'Obsidienne",
+    "en": "Obsidian Peaks",
+    "de": "Obsidiangipfel"
+   },
+   "crete": [[70,252],[74,290],[80,330],[86,368]],
+   "largeur": 15
+  },
+  {
+   "nom": {
+    "fr": "Pics d'Obsidienne",
+    "en": "Obsidian Peaks",
+    "de": "Obsidiangipfel"
+   },
+   "crete": [[110,250],[116,290],[124,330],[130,360]],
+   "largeur": 14
+  },
+  {
+   "nom": {
+    "fr": "Pics d'Obsidienne",
+    "en": "Obsidian Peaks",
+    "de": "Obsidiangipfel"
+   },
+   "crete": [[148,252],[155,282],[150,310]],
+   "largeur": 9
+  },
+  {
+   "nom": {
+    "fr": "Pics des Titans",
+    "en": "Titan Peaks",
+    "de": "Titanengipfel"
+   },
+   "crete": [[76,396],[76,430],[70,470],[56,510],[46,545]],
+   "largeur": 17
+  },
+  {
+   "nom": {
+    "fr": "Pics des Titans",
+    "en": "Titan Peaks",
+    "de": "Titanengipfel"
+   },
+   "crete": [[34,420],[34,470],[30,520]],
+   "largeur": 9
+  },
+  {
+   "nom": {
+    "fr": "Montagnes de l'Annulii",
+    "en": "Annulii Mountains",
+    "de": "Annulii-Gebirge"
+   },
+   "crete": [[200,450],[220,438],[245,434],[272,438],[300,450],[316,474]],
+   "largeur": 10
+  },
+  {
+   "nom": {
+    "fr": "Montagnes de l'Annulii",
+    "en": "Annulii Mountains",
+    "de": "Annulii-Gebirge"
+   },
+   "crete": [[316,474],[316,502],[306,530],[288,552]],
+   "largeur": 9
+  },
+  {
+   "nom": {
+    "fr": "Montagnes de l'Annulii",
+    "en": "Annulii Mountains",
+    "de": "Annulii-Gebirge"
+   },
+   "crete": [[288,548],[258,553],[230,549],[210,536]],
+   "largeur": 8
+  },
+  {
+   "nom": {
+    "fr": "Montagnes de l'Annulii",
+    "en": "Annulii Mountains",
+    "de": "Annulii-Gebirge"
+   },
+   "crete": [[200,450],[194,480],[196,512],[210,536]],
+   "largeur": 8
+  },
+  {
+   "nom": {
+    "fr": "Montagnes de Helspire",
+    "en": "Helspire Mountains",
+    "de": "Helspire-Berge"
+   },
+   "crete": [[428,192],[448,166],[468,142],[492,130]],
+   "largeur": 14
+  },
+  {
+   "nom": {
+    "fr": "Montagnes de Vanaheim",
+    "en": "Vanaheim Mountains",
+    "de": "Vanaheimberge"
+   },
+   "crete": [[415,250],[445,236],[476,226],[506,215]],
+   "largeur": 14
+  },
+  {
+   "nom": {
+    "fr": "Montagnes de Vanaheim",
+    "en": "Vanaheim Mountains",
+    "de": "Vanaheimberge"
+   },
+   "crete": [[420,206],[450,196],[480,186],[505,176]],
+   "largeur": 12
+  },
+  {
+   "nom": {
+    "fr": "Montagnes de Naglfari",
+    "en": "Mountains of Naglfari",
+    "de": "Naglfari-Berge"
+   },
+   "crete": [[482,165],[520,150],[560,140],[600,134],[640,130]],
+   "largeur": 14
+  },
+  {
+   "nom": {
+    "fr": "Montagnes de Naglfari",
+    "en": "Mountains of Naglfari",
+    "de": "Naglfari-Berge"
+   },
+   "crete": [[520,176],[560,170],[600,164]],
+   "largeur": 8
+  },
+  {
+   "nom": {
+    "fr": "Montagnes de la Dent de Glace",
+    "en": "Ice Tooth Mountains",
+    "de": "Eiszahnberge"
+   },
+   "crete": [[515,236],[545,222],[575,210],[605,200],[630,195]],
+   "largeur": 13
+  },
+  {
+   "nom": {
+    "fr": "Montagnes de Trollheim",
+    "en": "Trollheim Mountains",
+    "de": "Trollheimberge"
+   },
+   "crete": [[612,185],[650,176],[690,170],[730,175]],
+   "largeur": 12
+  },
+  {
+   "nom": {
+    "fr": "Montagnes de Hel",
+    "en": "Mountains of Hel",
+    "de": "Hel-Berge"
+   },
+   "crete": [[650,130],[690,128],[720,134],[742,140]],
+   "largeur": 12
+  },
+  {
+   "nom": {
+    "fr": "Montagnes de Gianthome",
+    "en": "Gianthome Mountains",
+    "de": "Gianthome-Berge"
+   },
+   "crete": [[700,150],[728,164],[750,178],[772,186]],
+   "largeur": 13
+  },
+  {
+   "nom": {
+    "fr": "Montagnes Goromadny",
+    "en": "Goromadny Mountains",
+    "de": "Goromadny-Berge"
+   },
+   "crete": [[790,200],[810,224],[830,245],[856,266]],
+   "largeur": 10
+  },
+  {
+   "nom": {
+    "fr": "Montagnes du Milieu",
+    "en": "Middle Mountains",
+    "de": "Mittelberge"
+   },
+   "crete": [[600,280],[615,284],[630,290]],
+   "largeur": 8
+  },
+  {
+   "nom": {
+    "fr": "Montagnes Grises",
+    "en": "Grey Mountains",
+    "de": "Graue Berge"
+   },
+   "crete": [[440,362],[448,378],[460,395],[475,410],[492,425],[506,438]],
+   "largeur": 10
+  },
+  {
+   "nom": {
+    "fr": "Montagnes Grises",
+    "en": "Grey Mountains",
+    "de": "Graue Berge"
+   },
+   "crete": [[506,438],[520,452],[535,468],[550,485],[565,500],[580,514],[598,524]],
+   "largeur": 12
+  },
+  {
+   "nom": {
+    "fr": "Les Voûtes",
+    "en": "The Vaults",
+    "de": "The Vaults"
+   },
+   "crete": [[476,590],[510,580],[545,574],[580,578],[612,574]],
+   "largeur": 15
+  },
+  {
+   "nom": {
+    "fr": "Les Voûtes",
+    "en": "The Vaults",
+    "de": "The Vaults"
+   },
+   "crete": [[470,560],[500,555],[530,555]],
+   "largeur": 8
+  },
+  {
+   "nom": {
+    "fr": "Montagnes d'Irrana",
+    "en": "Irrana Mountains",
+    "de": "Irrana-Berge"
+   },
+   "crete": [[396,614],[410,600],[430,592],[455,596]],
+   "largeur": 8
+  },
+  {
+   "nom": {
+    "fr": "Monts Apuccini",
+    "en": "Apuccini Mountains",
+    "de": "Apuccini-Berge"
+   },
+   "crete": [[530,605],[544,625],[550,650]],
+   "largeur": 8
+  },
+  {
+   "nom": {
+    "fr": "Tertres de Cuileux",
+    "en": "Barrows of Cuileux",
+    "de": "Hügelgräber von Cuileux"
+   },
+   "crete": [[455,485],[470,480],[485,487]],
+   "largeur": 6
+  },
+  {
+   "nom": {
+    "fr": "Montagnes Noires",
+    "en": "Black Mountains",
+    "de": "Schwarze Berge"
+   },
+   "crete": [[600,512],[630,505],[660,498],[688,494],[705,502]],
+   "largeur": 12
+  },
+  {
+   "nom": {
+    "fr": "Vallée de la Rivière de Sang",
+    "en": "Blood River Valley",
+    "de": "Blutflusstal"
+   },
+   "crete": [[690,520],[705,540],[730,555],[755,560]],
+   "largeur": 10
+  },
+  {
+   "nom": {
+    "fr": "Montagnes du Nord",
+    "en": "Northern Mountains",
+    "de": "Nordgebirge"
+   },
+   "crete": [[420,12],[520,10],[620,12],[700,15],[760,22]],
+   "largeur": 10
+  },
+  {
+   "nom": {
+    "fr": "Montagnes du Nord",
+    "en": "Northern Mountains",
+    "de": "Nordgebirge"
+   },
+   "crete": [[760,22],[860,22],[960,20],[1060,18],[1130,18]],
+   "largeur": 13
+  },
+  {
+   "nom": {
+    "fr": "Montagnes du Nord",
+    "en": "Northern Mountains",
+    "de": "Nordgebirge"
+   },
+   "crete": [[1130,18],[1230,16],[1330,16],[1430,14],[1500,14]],
+   "largeur": 14
+  },
+  {
+   "nom": {
+    "fr": "Montagnes du Nord",
+    "en": "Northern Mountains",
+    "de": "Nordgebirge"
+   },
+   "crete": [[740,55],[820,58],[900,58],[980,60],[1060,58],[1130,56]],
+   "largeur": 13
+  },
+  {
+   "nom": {
+    "fr": "Montagnes du Nord",
+    "en": "Northern Mountains",
+    "de": "Nordgebirge"
+   },
+   "crete": [[1130,56],[1230,56],[1330,54],[1430,52],[1500,52]],
+   "largeur": 15
+  },
+  {
+   "nom": {
+    "fr": "Montagnes du Nord",
+    "en": "Northern Mountains",
+    "de": "Nordgebirge"
+   },
+   "crete": [[980,98],[1060,96],[1140,95],[1230,95],[1330,94],[1430,92],[1500,92]],
+   "largeur": 16
+  },
+  {
+   "nom": {
+    "fr": "Montagnes du Nord",
+    "en": "Northern Mountains",
+    "de": "Nordgebirge"
+   },
+   "crete": [[1000,140],[1080,136],[1160,135],[1250,135],[1340,134],[1430,132],[1500,132]],
+   "largeur": 16
+  },
+  {
+   "nom": {
+    "fr": "Montagnes du Nord",
+    "en": "Northern Mountains",
+    "de": "Nordgebirge"
+   },
+   "crete": [[1100,178],[1180,176],[1260,175],[1340,174],[1420,172],[1500,172]],
+   "largeur": 16
+  },
+  {
+   "nom": {
+    "fr": "Montagnes du Nord",
+    "en": "Northern Mountains",
+    "de": "Nordgebirge"
+   },
+   "crete": [[1030,215],[1100,214],[1180,215],[1260,215],[1340,214],[1420,212],[1500,212]],
+   "largeur": 15
+  },
+  {
+   "nom": {
+    "fr": "Montagnes du Nord",
+    "en": "Northern Mountains",
+    "de": "Nordgebirge"
+   },
+   "crete": [[1120,252],[1200,250],[1280,252],[1360,254],[1440,256],[1500,258]],
+   "largeur": 14
+  },
+  {
+   "nom": {
+    "fr": "Bloodfire Falls",
+    "en": "Bloodfire Falls",
+    "de": "Bloodfire Falls"
+   },
+   "crete": [[790,110],[830,116],[870,120]],
+   "largeur": 9
+  },
+  {
+   "nom": {
+    "fr": "K'datha",
+    "en": "K'datha",
+    "de": "K'datha"
+   },
+   "crete": [[860,150],[895,178],[925,208],[955,238],[985,268]],
+   "largeur": 18
+  },
+  {
+   "nom": {
+    "fr": "K'datha",
+    "en": "K'datha",
+    "de": "K'datha"
+   },
+   "crete": [[905,138],[945,160],[985,172],[1010,190]],
+   "largeur": 12
+  },
+  {
+   "nom": {
+    "fr": "Bout des Montagnes",
+    "en": "Mountain's End",
+    "de": "Bergende"
+   },
+   "crete": [[1300,268],[1360,276],[1430,288],[1500,296]],
+   "largeur": 12
+  },
+  {
+   "nom": {
+    "fr": "Grande Bastion",
+    "en": "Great Bastion",
+    "de": "Große Bastion"
+   },
+   "crete": [[1170,290],[1250,298],[1320,308],[1400,320],[1480,330],[1500,331]],
+   "largeur": 10
+  },
+  {
+   "nom": {
+    "fr": "Grande Bastion",
+    "en": "Great Bastion",
+    "de": "Große Bastion"
+   },
+   "crete": [[1310,330],[1370,338],[1430,345]],
+   "largeur": 10
+  },
+  {
+   "nom": {
+    "fr": "Stonesky Foothills",
+    "en": "Stonesky Foothills",
+    "de": "Stonesky Foothills"
+   },
+   "crete": [[1095,300],[1115,340],[1135,378],[1148,410]],
+   "largeur": 13
+  },
+  {
+   "nom": {
+    "fr": "Terres de Pierre et d'Acier",
+    "en": "Lands of Stone and Steel",
+    "de": "Lande aus Stein und Stahl"
+   },
+   "crete": [[1170,388],[1210,382],[1250,386],[1290,382]],
+   "largeur": 10
+  },
+  {
+   "nom": {
+    "fr": "Montagnes du Nord de Cathay",
+    "en": "Northern Cathay Mountains",
+    "de": "Nordkathaiische Berge"
+   },
+   "crete": [[1450,345],[1460,400],[1466,450],[1470,500],[1472,550]],
+   "largeur": 22
+  },
+  {
+   "nom": {
+    "fr": "Zorn Uzkul",
+    "en": "Zorn Uzkul",
+    "de": "Zorn Uzkul"
+   },
+   "crete": [[900,292],[928,330],[948,368],[968,400]],
+   "largeur": 15
+  },
+  {
+   "nom": {
+    "fr": "Zorn Uzkul",
+    "en": "Zorn Uzkul",
+    "de": "Zorn Uzkul"
+   },
+   "crete": [[850,290],[870,330],[880,360]],
+   "largeur": 10
+  },
+  {
+   "nom": {
+    "fr": "Gash Kadrak",
+    "en": "Gash Kadrak",
+    "de": "Gash Kadrak"
+   },
+   "crete": [[990,330],[1020,350],[1050,368],[1080,390],[1110,396]],
+   "largeur": 15
+  },
+  {
+   "nom": {
+    "fr": "Montagnes du Deuil",
+    "en": "Mountains of Mourn",
+    "de": "Berge der Trauer"
+   },
+   "crete": [[1020,455],[1045,475],[1065,495],[1080,520],[1085,550]],
+   "largeur": 18
+  },
+  {
+   "nom": {
+    "fr": "Montagnes du Deuil",
+    "en": "Mountains of Mourn",
+    "de": "Berge der Trauer"
+   },
+   "crete": [[1030,520],[1040,545],[1045,572],[1040,600]],
+   "largeur": 12
+  },
+  {
+   "nom": {
+    "fr": "Route des Os",
+    "en": "Bone Road",
+    "de": "Knochenstraße"
+   },
+   "crete": [[1040,410],[1060,438],[1080,462]],
+   "largeur": 13
+  },
+  {
+   "nom": {
+    "fr": "Terres des Anciens Géants",
+    "en": "Ancient Giant Lands",
+    "de": "Land der Alten Riesen"
+   },
+   "crete": [[1100,422],[1110,452],[1120,482],[1130,512]],
+   "largeur": 12
+  },
+  {
+   "nom": {
+    "fr": "Montagnes du Bord du Monde",
+    "en": "World's Edge Mountains",
+    "de": "Weltrandgebirge"
+   },
+   "crete": [[772,258],[786,290],[800,320],[812,350],[820,376]],
+   "largeur": 14
+  },
+  {
+   "nom": {
+    "fr": "Montagnes du Bord du Monde",
+    "en": "World's Edge Mountains",
+    "de": "Weltrandgebirge"
+   },
+   "crete": [[840,268],[848,300],[856,330],[862,360]],
+   "largeur": 11
+  },
+  {
+   "nom": {
+    "fr": "Col du Pic",
+    "en": "Peak Pass",
+    "de": "Gipfelpass"
+   },
+   "crete": [[760,372],[790,377],[820,381],[848,386]],
+   "largeur": 10
+  },
+  {
+   "nom": {
+    "fr": "Montagnes du Bord du Monde",
+    "en": "World's Edge Mountains",
+    "de": "Weltrandgebirge"
+   },
+   "crete": [[800,396],[806,420],[812,450],[818,480]],
+   "largeur": 13
+  },
+  {
+   "nom": {
+    "fr": "Montagnes du Bord du Monde",
+    "en": "World's Edge Mountains",
+    "de": "Weltrandgebirge"
+   },
+   "crete": [[755,405],[765,430],[770,460]],
+   "largeur": 10
+  },
+  {
+   "nom": {
+    "fr": "Deadrock Gap",
+    "en": "Deadrock Gap",
+    "de": "Deadrock Gap"
+   },
+   "crete": [[838,470],[854,490],[870,512]],
+   "largeur": 11
+  },
+  {
+   "nom": {
+    "fr": "Montagnes du Bord du Monde",
+    "en": "World's Edge Mountains",
+    "de": "Weltrandgebirge"
+   },
+   "crete": [[845,500],[850,540],[855,580],[858,620],[860,660],[862,700]],
+   "largeur": 15
+  },
+  {
+   "nom": {
+    "fr": "Montagnes du Bord du Monde",
+    "en": "World's Edge Mountains",
+    "de": "Weltrandgebirge"
+   },
+   "crete": [[760,515],[785,535],[805,553],[820,570]],
+   "largeur": 13
+  },
+  {
+   "nom": {
+    "fr": "Montagnes du Bord du Monde méridionales",
+    "en": "Southern World's Edge Mountains",
+    "de": "Südliches Weltrandgebirge"
+   },
+   "crete": [[815,600],[840,610],[870,620]],
+   "largeur": 12
+  },
+  {
+   "nom": {
+    "fr": "Huit Pics",
+    "en": "Eight Peaks",
+    "de": "Acht Gipfel"
+   },
+   "crete": [[745,640],[775,648],[805,652]],
+   "largeur": 10
+  },
+  {
+   "nom": {
+    "fr": "Désolation d'Azgorh",
+    "en": "Desolation of Azgorh",
+    "de": "Verwüstung von Azgorh"
+   },
+   "crete": [[860,535],[890,545],[920,550],[945,556]],
+   "largeur": 9
+  },
+  {
+   "nom": {
+    "fr": "Désolations Hurlantes",
+    "en": "The Howling Wastes",
+    "de": "Heulende Ödnis"
+   },
+   "crete": [[910,590],[935,598],[960,610]],
+   "largeur": 10
+  },
+  {
+   "nom": {
+    "fr": "Mont Li",
+    "en": "Mount Li",
+    "de": "Berg Li"
+   },
+   "crete": [[1350,600],[1380,615],[1410,630],[1435,640]],
+   "largeur": 12
+  },
+  {
+   "nom": {
+    "fr": "Mont Li",
+    "en": "Mount Li",
+    "de": "Berg Li"
+   },
+   "crete": [[1360,650],[1390,675],[1420,700]],
+   "largeur": 10
+  },
+  {
+   "nom": {
+    "fr": "Terres Brisées de Tian Li",
+    "en": "Broken Lands of Tian Li",
+    "de": "Zerbrochene Lande von Tian Li"
+   },
+   "crete": [[1160,640],[1190,670],[1220,700],[1250,730],[1270,755]],
+   "largeur": 18
+  },
+  {
+   "nom": {
+    "fr": "Terres Brisées de Tian Li",
+    "en": "Broken Lands of Tian Li",
+    "de": "Zerbrochene Lande von Tian Li"
+   },
+   "crete": [[1150,690],[1175,720],[1200,750]],
+   "largeur": 14
+  },
+  {
+   "nom": {
+    "fr": "Arrière-pays cathayen",
+    "en": "Cathayan Hinterlands",
+    "de": "Kathaiisches Hinterland"
+   },
+   "crete": [[1240,775],[1280,790],[1320,780],[1360,790],[1400,785]],
+   "largeur": 10
+  },
+  {
+   "nom": {
+    "fr": "Montagnes du Bord du Monde des Terres du Sud",
+    "en": "Southlands World's Edge Mountains",
+    "de": "Weltrandgebirge der Südlande"
+   },
+   "crete": [[775,700],[780,730],[778,760],[770,790],[755,820],[740,850],[728,880],[718,910]],
+   "largeur": 15
+  },
+  {
+   "nom": {
+    "fr": "Montagnes du Bord du Monde des Terres du Sud",
+    "en": "Southlands World's Edge Mountains",
+    "de": "Weltrandgebirge der Südlande"
+   },
+   "crete": [[795,720],[805,750],[810,780]],
+   "largeur": 10
+  },
+  {
+   "nom": {
+    "fr": "Échine du Diable",
+    "en": "Devil's Backbone",
+    "de": "Teufelsrücken"
+   },
+   "crete": [[735,826],[760,816],[790,810],[815,815]],
+   "largeur": 10
+  },
+  {
+   "nom": {
+    "fr": "Montagnes du Bord du Monde des Terres du Sud",
+    "en": "Southlands World's Edge Mountains",
+    "de": "Weltrandgebirge der Südlande"
+   },
+   "crete": [[718,910],[710,935],[702,962],[696,990],[690,1012]],
+   "largeur": 14
+  },
+  {
+   "nom": {
+    "fr": "Jungles des Dieux",
+    "en": "Jungles of the Gods",
+    "de": "Dschungel der Götter"
+   },
+   "crete": [[690,1012],[680,1038],[668,1060]],
+   "largeur": 9
+  },
+  {
+   "nom": {
+    "fr": "Terres Arides du Sud",
+    "en": "Southern Badlands",
+    "de": "Südliche Ödlande"
+   },
+   "crete": [[605,745],[628,727],[650,716]],
+   "largeur": 8
+  },
+  {
+   "nom": {
+    "fr": "Montagnes Atalan",
+    "en": "Atalan Mountains",
+    "de": "Atalan-Berge"
+   },
+   "crete": [[450,830],[470,815],[495,802],[520,796]],
+   "largeur": 8
+  },
+  {
+   "nom": {
+    "fr": "Dents Brisées",
+    "en": "Broken Teeth",
+    "de": "Gebrochene Zähne"
+   },
+   "crete": [[855,680],[875,690],[895,700]],
+   "largeur": 8
+  },
+  {
+   "nom": {
+    "fr": "Épine de Sotek",
+    "en": "Spine of Sotek",
+    "de": "Rückgrat des Sotek"
+   },
+   "crete": [[95,725],[98,750],[90,780],[84,810],[95,845],[110,875],[130,910]],
+   "largeur": 12
+  },
+  {
+   "nom": {
+    "fr": "Épine de Sotek",
+    "en": "Spine of Sotek",
+    "de": "Rückgrat des Sotek"
+   },
+   "crete": [[130,910],[155,945],[180,970],[205,990],[230,1008],[258,1024],[282,1034]],
+   "largeur": 13
+  },
+  {
+   "nom": {
+    "fr": "Épine de Sotek",
+    "en": "Spine of Sotek",
+    "de": "Rückgrat des Sotek"
+   },
+   "crete": [[122,893],[146,928],[170,958],[195,980]],
+   "largeur": 7
+  },
+  {
+   "nom": {
+    "fr": "Épine de Sotek",
+    "en": "Spine of Sotek",
+    "de": "Rückgrat des Sotek"
+   },
+   "crete": [[60,580],[70,600],[75,620]],
+   "largeur": 7
+  },
+  {
+   "nom": {
+    "fr": "Désolations du Sud",
+    "en": "The Southern Wastes",
+    "de": "Südliche Ödnis"
+   },
+   "crete": [[290,1160],[360,1155],[430,1152],[500,1155],[570,1158],[640,1155],[720,1158]],
+   "largeur": 10
+  },
+  {
+   "nom": {
+    "fr": "Désolations du Sud",
+    "en": "The Southern Wastes",
+    "de": "Südliche Ödnis"
+   },
+   "crete": [[440,1100],[480,1095],[520,1098],[560,1102]],
+   "largeur": 8
+  },
+  {
+   "nom": {
+    "fr": "Collines du Daemonium",
+    "en": "Daemonium Hills",
+    "de": "Daemonium-Hügel"
+   },
+   "crete": [[745,1136],[790,1130],[830,1135],[870,1140],[910,1150]],
+   "largeur": 12
+  }
+ ],
+ "forets": [
+  {
+   "nom": {
+    "fr": "Deadwood",
+    "en": "Deadwood",
+    "de": "Deadwood"
+   },
+   "contour": [[230,132],[258,116],[300,116],[320,130],[302,150],[256,160],[232,150]]
+  },
+  {
+   "nom": {
+    "fr": "The Witchwood",
+    "en": "The Witchwood",
+    "de": "The Witchwood"
+   },
+   "contour": [[36,356],[70,350],[110,358],[116,376],[90,390],[50,392],[36,378]]
+  },
+  {
+   "nom": {
+    "fr": "Avelorn",
+    "en": "Avelorn",
+    "de": "Avelorn"
+   },
+   "contour": [[232,440],[268,438],[298,444],[300,458],[270,462],[240,458]]
+  },
+  {
+   "nom": {
+    "fr": "Forêt de Laurelorn",
+    "en": "Laurelorn Forest",
+    "de": "Laurelornwald"
+   },
+   "contour": [[550,280],[580,275],[600,285],[595,300],[565,305],[548,295]]
+  },
+  {
+   "nom": {
+    "fr": "Forêt d'Arden",
+    "en": "Forest of Arden",
+    "de": "Ardenwald"
+   },
+   "contour": [[396,400],[425,397],[450,405],[450,424],[425,430],[400,425]]
+  },
+  {
+   "nom": {
+    "fr": "Forêt de Châlons",
+    "en": "Forest of Chalons",
+    "de": "Wald von Châlons"
+   },
+   "contour": [[468,500],[490,494],[510,498],[525,508],[520,525],[495,530],[470,522]]
+  },
+  {
+   "nom": {
+    "fr": "Athel Loren",
+    "en": "Athel Loren",
+    "de": "Athel Loren"
+   },
+   "contour": [[512,480],[535,478],[555,490],[565,510],[568,540],[555,565],[530,570],[512,555],[505,520]]
+  },
+  {
+   "nom": {
+    "fr": "Bois des Griffons",
+    "en": "Gryphon Wood",
+    "de": "Greifenwald"
+   },
+   "contour": [[692,340],[702,336],[712,342],[712,355],[703,360],[693,356],[688,348]]
+  },
+  {
+   "nom": {
+    "fr": "Forest of Gloom",
+    "en": "Forest of Gloom",
+    "de": "Forest of Gloom"
+   },
+   "contour": [[722,500],[745,498],[765,505],[760,520],[735,522],[720,513]]
+  },
+  {
+   "nom": {
+    "fr": "Jungles centrales",
+    "en": "Central Jungles",
+    "de": "Zentrale Dschungel"
+   },
+   "contour": [[590,930],[640,925],[690,935],[705,965],[690,1000],[640,1000],[600,990],[588,960]]
+  },
+  {
+   "nom": {
+    "fr": "Cœur de la Jungle",
+    "en": "Heart of the Jungle",
+    "de": "Herz des Dschungels"
+   },
+   "contour": [[640,900],[670,895],[692,905],[690,925],[660,930],[640,920]]
+  },
+  {
+   "nom": {
+    "fr": "Jungles du Sud",
+    "en": "Southern Jungles",
+    "de": "Südliche Dschungel"
+   },
+   "contour": [[595,1005],[640,1000],[680,1010],[680,1040],[640,1050],[600,1045]]
+  },
+  {
+   "nom": {
+    "fr": "Jungles des Dieux",
+    "en": "Jungles of the Gods",
+    "de": "Dschungel der Götter"
+   },
+   "contour": [[690,1005],[730,995],[770,1000],[780,1025],[760,1045],[720,1050],[692,1040]]
+  },
+  {
+   "nom": {
+    "fr": "Jungles de l'Ouest",
+    "en": "Western Jungles",
+    "de": "Westliche Dschungel"
+   },
+   "contour": [[510,880],[545,885],[575,900],[600,925],[590,955],[560,960],[530,940],[510,910]]
+  },
+  {
+   "nom": {
+    "fr": "Forêts de la Lune",
+    "en": "Forests of the Moon",
+    "de": "Wälder des Mondes"
+   },
+   "contour": [[1250,455],[1300,450],[1350,460],[1380,475],[1375,500],[1330,505],[1280,500],[1255,485]]
+  },
+  {
+   "nom": {
+    "fr": "Forêt Hantée",
+    "en": "The Haunted Forest",
+    "de": "Spukwald"
+   },
+   "contour": [[1075,655],[1100,652],[1115,665],[1105,680],[1085,678]]
+  },
+  {
+   "nom": {
+    "fr": "Jungles de Pahualaxa",
+    "en": "Jungles of Pahualaxa",
+    "de": "Dschungel von Pahualaxa"
+   },
+   "contour": [[40,615],[100,605],[150,615],[150,650],[100,662],[45,660]]
+  },
+  {
+   "nom": {
+    "fr": "Jungle Rampante",
+    "en": "The Creeping Jungle",
+    "de": "Kriechender Dschungel"
+   },
+   "contour": [[85,720],[130,712],[160,725],[160,755],[120,765],[85,755]]
+  },
+  {
+   "nom": {
+    "fr": "Jungles de la Brume Verte",
+    "en": "Jungles of Green Mist",
+    "de": "Dschungel des Grünen Nebels"
+   },
+   "contour": [[35,745],[70,740],[92,760],[88,790],[55,795],[35,780]]
+  },
+  {
+   "nom": {
+    "fr": "Jungle des Toiles",
+    "en": "Jungle of Webs",
+    "de": "Dschungel der Netze"
+   },
+   "contour": [[252,822],[285,818],[305,835],[295,858],[262,860]]
+  },
+  {
+   "nom": {
+    "fr": "Jungle des Chasseurs de Têtes",
+    "en": "Headhunter's Jungle",
+    "de": "Kopfjägerdschungel"
+   },
+   "contour": [[215,905],[250,895],[270,910],[268,945],[240,952],[218,935]]
+  },
+  {
+   "nom": {
+    "fr": "Forêt de la Nuit",
+    "en": "Night Forest",
+    "de": "Nachtwald"
+   },
+   "contour": [[200,1000],[250,1010],[290,1030],[280,1045],[240,1035],[200,1015]]
+  },
+  {
+   "nom": {
+    "fr": "Jungle de Lustrie",
+    "en": "Lustrian Jungle",
+    "de": "Lustrianischer Dschungel"
+   },
+   "contour": [[120,830],[175,820],[215,840],[215,880],[200,930],[175,950],[140,920],[118,880]]
+  },
+  {
+   "nom": {
+    "fr": "Vallée Perdue",
+    "en": "The Lost Valley",
+    "de": "Verlorenes Tal"
+   },
+   "contour": [[175,945],[210,940],[232,960],[228,990],[200,990],[178,970]]
+  },
+  {
+   "nom": {
+    "fr": "Drakwald",
+    "en": "Drakwald",
+    "de": "Drakwald"
+   },
+   "contour": [[495,338],[530,322],[570,325],[595,335],[590,345],[575,355],[560,370],[540,378],[510,375],[493,358]]
+  },
+  {
+   "nom": {
+    "fr": "Forêt des Ombres",
+    "en": "Forest of Shadows",
+    "de": "Schattenwald"
+   },
+   "contour": [[618,262],[660,255],[700,262],[705,285],[670,300],[630,296]]
+  },
+  {
+   "nom": {
+    "fr": "Grande Forêt",
+    "en": "Great Forest",
+    "de": "Großer Wald"
+   },
+   "contour": [[600,355],[625,340],[660,335],[688,342],[686,362],[700,372],[680,388],[640,392],[605,385]]
+  },
+  {
+   "nom": {
+    "fr": "Reikwald",
+    "en": "Reikwald",
+    "de": "Reikwald"
+   },
+   "contour": [[505,408],[540,405],[565,415],[560,435],[530,442],[505,430]]
+  },
+  {
+   "nom": {
+    "fr": "Taïga de Kislev",
+    "en": "Kislev Taiga",
+    "de": "Kislevitische Taiga"
+   },
+   "contour": [[740,200],[780,195],[800,215],[790,245],[760,250],[740,230]]
+  },
+  {
+   "nom": {
+    "fr": "Bois de la Faim",
+    "en": "Hunger Wood",
+    "de": "Hungerwald"
+   },
+   "contour": [[690,425],[715,420],[728,435],[718,452],[695,450]]
+  },
+  {
+   "nom": {
+    "fr": "Doom Glades",
+    "en": "Doom Glades",
+    "de": "Doom Glades"
+   },
+   "contour": [[120,380],[160,372],[200,378],[195,398],[150,402],[122,395]]
+  }
+ ],
+ "fleuves": [
+  {
+   "nom": {
+    "fr": "Reik",
+    "en": "Reik",
+    "de": "Reik"
+   },
+   "trace": [[598,505],[600,480],[598,458],[592,440],[586,422],[580,405],[575,400],[568,402],[561,403],[556,397],[553,390],[548,388],[540,386],[530,389],[520,391],[510,390],[500,390],[490,388],[482,383],[475,375],[470,365],[463,355],[460,345],[459,336]],
+   "rang": 1
+  },
+  {
+   "nom": {
+    "fr": "Talabec",
+    "en": "Talabec",
+    "de": "Talabec"
+   },
+   "trace": [[642,330],[628,329],[619,331],[616,338],[612,346],[604,349],[594,347],[588,351],[580,358],[575,364],[572,371],[563,377],[555,381],[550,385]],
+   "rang": 1
+  },
+  {
+   "nom": {
+    "fr": "Stir",
+    "en": "Stir",
+    "de": "Stir"
+   },
+   "trace": [[770,372],[752,377],[735,383],[718,389],[702,395],[690,394],[682,384],[672,380],[662,386],[650,392],[635,395],[620,398],[605,400],[590,401],[580,402]],
+   "rang": 1
+  },
+  {
+   "nom": {
+    "fr": "Aver",
+    "en": "Aver",
+    "de": "Aver"
+   },
+   "trace": [[730,484],[715,482],[700,476],[685,472],[670,476],[650,480],[630,478],[612,470],[600,460]],
+   "rang": 1
+  },
+  {
+   "nom": {
+    "fr": "Lynsk",
+    "en": "Lynsk",
+    "de": "Lynsk"
+   },
+   "trace": [[722,256],[710,252],[700,250],[688,248],[675,247],[662,249],[652,246],[645,243]],
+   "rang": 1
+  },
+  {
+   "nom": {
+    "fr": "Urskoy",
+    "en": "Urskoy",
+    "de": "Urskoy"
+   },
+   "trace": [[765,250],[748,264],[736,280],[724,292],[710,300],[698,306],[686,315],[672,322],[656,327],[642,330]],
+   "rang": 1
+  },
+  {
+   "nom": {
+    "fr": "Tobol",
+    "en": "Tobol",
+    "de": "Tobol"
+   },
+   "trace": [[800,330],[780,322],[760,316],[740,308],[722,302],[710,300]],
+   "rang": 2
+  },
+  {
+   "nom": {
+    "fr": "Brienne",
+    "en": "Brienne",
+    "de": "Brienne"
+   },
+   "trace": [[482,470],[455,476],[432,484],[412,490],[396,496]],
+   "rang": 2
+  },
+  {
+   "nom": {
+    "fr": "Grismerie",
+    "en": "Grismerie",
+    "de": "Grismerie"
+   },
+   "trace": [[448,392],[430,390],[412,388],[396,386]],
+   "rang": 2
+  },
+  {
+   "nom": {
+    "fr": "Sannez",
+    "en": "Sannez",
+    "de": "Sannez"
+   },
+   "trace": [[505,500],[480,515],[455,528],[430,540],[410,548]],
+   "rang": 3
+  },
+  {
+   "nom": {
+    "fr": "Rivière du Delta Ébouillanté",
+    "en": "Scalded River",
+    "de": "Fluss des Siedenden Deltas"
+   },
+   "trace": [[1005,488],[1008,510],[1012,530],[1010,546],[1015,562],[1018,580],[1016,600],[1010,615],[1003,626],[996,640]],
+   "rang": 1
+  },
+  {
+   "nom": {
+    "fr": "Rivière de la Lune",
+    "en": "Moon River",
+    "de": "Mondfluss"
+   },
+   "trace": [[1222,465],[1230,477],[1240,485],[1252,488],[1262,493],[1268,502],[1272,512],[1270,522],[1266,532],[1270,542],[1266,550]],
+   "rang": 1
+  },
+  {
+   "nom": {
+    "fr": "Fleuve de Jade",
+    "en": "Jade River",
+    "de": "Jadefluss"
+   },
+   "trace": [[1280,552],[1290,545],[1300,538],[1310,540],[1318,548],[1326,552],[1336,548],[1346,553],[1356,557],[1366,560],[1376,563],[1386,566],[1394,575],[1398,585],[1408,594],[1420,597]],
+   "rang": 1
+  },
+  {
+   "nom": {
+    "fr": "Fleuve Céleste",
+    "en": "Celestial River",
+    "de": "Himmlischer Fluss"
+   },
+   "trace": [[1160,565],[1168,572],[1176,578],[1186,588],[1194,598],[1200,606],[1210,602],[1222,600],[1234,603],[1246,602],[1258,596],[1266,604],[1272,614],[1282,620],[1294,617],[1304,624],[1312,634]],
+   "rang": 1
+  },
+  {
+   "nom": {
+    "fr": "Rivière de Nongchang",
+    "en": "Nongchang River",
+    "de": "Nongchang-Fluss"
+   },
+   "trace": [[1292,574],[1300,580],[1302,590],[1300,602],[1305,612],[1310,622],[1312,634]],
+   "rang": 2
+  },
+  {
+   "nom": {
+    "fr": "Fleuve du Serpent",
+    "en": "Serpent River",
+    "de": "Schlangenfluss"
+   },
+   "trace": [[1312,640],[1322,640],[1332,648],[1340,656],[1336,666],[1346,672],[1358,670],[1362,680],[1370,688],[1378,678],[1384,666],[1395,660],[1406,666],[1414,678],[1424,690],[1436,700],[1448,710]],
+   "rang": 1
+  },
+  {
+   "nom": {
+    "fr": "Grand Canal",
+    "en": "Great Canal",
+    "de": "Großer Kanal"
+   },
+   "trace": [[1312,640],[1308,660],[1300,680],[1292,700],[1285,715],[1280,732],[1278,750]],
+   "rang": 1
+  },
+  {
+   "nom": {
+    "fr": "Rivière des Désolations Rouges",
+    "en": "Red Wastes River",
+    "de": "Fluss der Roten Ödnis"
+   },
+   "trace": [[1328,378],[1340,382],[1350,378],[1358,383],[1363,393],[1370,402],[1380,404],[1386,396],[1394,393],[1402,400],[1408,410],[1416,412]],
+   "rang": 2
+  },
+  {
+   "nom": {
+    "fr": "Mortis",
+    "en": "River Mortis",
+    "de": "Mortis"
+   },
+   "trace": [[720,782],[692,795],[662,808],[634,822],[608,834],[582,842]],
+   "rang": 1
+  },
+  {
+   "nom": {
+    "fr": "Qurveza",
+    "en": "Qurveza",
+    "de": "Qurveza"
+   },
+   "trace": [[110,858],[130,866],[150,872],[170,878],[190,885],[210,892],[232,897],[255,893]],
+   "rang": 1
+  },
+  {
+   "nom": {
+    "fr": "Rivière de Sang",
+    "en": "Blood River",
+    "de": "Blutfluss"
+   },
+   "trace": [[742,540],[724,547],[706,553]],
+   "rang": 2
+  },
+  {
+   "nom": {
+    "fr": "Sol",
+    "en": "Sol",
+    "de": "Sol"
+   },
+   "trace": [[630,505],[622,495],[612,488],[603,479],[600,466]],
+   "rang": 2
+  },
+  {
+   "nom": {
+    "fr": "Teufel",
+    "en": "Teufel",
+    "de": "Teufel"
+   },
+   "trace": [[515,440],[530,428],[545,415],[557,404]],
+   "rang": 2
+  },
+  {
+   "nom": {
+    "fr": "Delb",
+    "en": "Delb",
+    "de": "Delb"
+   },
+   "trace": [[530,335],[535,350],[540,365],[548,380]],
+   "rang": 3
+  },
+  {
+   "nom": {
+    "fr": "Morceaux",
+    "en": "Morceaux",
+    "de": "Morceaux"
+   },
+   "trace": [[495,452],[470,456],[445,459],[420,463],[398,468]],
+   "rang": 3
+  },
+  {
+   "nom": {
+    "fr": "Amaxon",
+    "en": "Amaxon",
+    "de": "Amaxon"
+   },
+   "trace": [[165,950],[185,955],[205,958],[228,958],[248,962]],
+   "rang": 2
+  },
+  {
+   "nom": {
+    "fr": "Fleuve de Jade",
+    "en": "Jade River",
+    "de": "Jadefluss"
+   },
+   "trace": [[1394,562],[1400,548],[1405,535],[1412,522]],
+   "rang": 2
+  },
+  {
+   "nom": {
+    "fr": "Bogen",
+    "en": "Bogen",
+    "de": "Bogen"
+   },
+   "trace": [[492,428],[496,412],[500,400],[504,391]],
+   "rang": 3
+  },
+  {
+   "nom": {
+    "fr": "Salz",
+    "en": "Salz",
+    "de": "Salz"
+   },
+   "trace": [[590,285],[576,273],[562,263],[548,256]],
+   "rang": 3
+  }
+ ],
+ "lacs": [
+  {
+   "nom": {
+    "fr": "Eau Noire",
+    "en": "Black Water",
+    "de": "Schwarzwasser"
+   },
+   "contour": [[730,478],[742,476],[755,477],[763,480],[763,488],[755,490],[745,488],[735,490],[730,486]]
+  },
+  {
+   "nom": {
+    "fr": "Lac Céleste",
+    "en": "Celestial Lake",
+    "de": "Himmlischer See"
+   },
+   "contour": [[1250,553],[1262,548],[1272,550],[1285,560],[1290,568],[1285,575],[1275,573],[1268,580],[1258,578],[1252,568]]
+  }
+ ],
+ "marais": [
+  {
+   "nom": {
+    "fr": "The Blighted Marshes",
+    "en": "The Blighted Marshes",
+    "de": "The Blighted Marshes"
+   },
+   "contour": [[440,600],[470,595],[500,600],[500,625],[470,635],[445,628]]
+  },
+  {
+   "nom": {
+    "fr": "Marais de la Folie",
+    "en": "Marshes of Madness",
+    "de": "Sümpfe des Wahnsinns"
+   },
+   "contour": [[650,705],[690,700],[720,708],[722,740],[690,748],[655,742]]
+  },
+  {
+   "nom": {
+    "fr": "Grand Delta de la Mortis",
+    "en": "Great Mortis Delta",
+    "de": "Großes Mortisdelta"
+   },
+   "contour": [[590,820],[615,815],[638,822],[640,845],[615,852],[592,845]]
+  },
+  {
+   "nom": {
+    "fr": "Marais d'Aymara",
+    "en": "Aymara Swamps",
+    "de": "Aymara-Sümpfe"
+   },
+   "contour": [[78,682],[110,676],[130,690],[125,710],[95,712],[80,700]]
+  },
+  {
+   "nom": {
+    "fr": "Marais aux Piranhas",
+    "en": "Piranha Swamps",
+    "de": "Piranhasümpfe"
+   },
+   "contour": [[165,762],[200,760],[230,775],[230,800],[195,805],[168,790]]
+  },
+  {
+   "nom": {
+    "fr": "Marais aux Moustiques",
+    "en": "Mosquito Swamps",
+    "de": "Moskitosümpfe"
+   },
+   "contour": [[220,830],[250,828],[262,850],[258,885],[235,892],[218,870]]
+  }
+ ],
+ "deserts": [
+  {
+   "nom": {
+    "fr": "Désert Rouge",
+    "en": "Red Desert",
+    "de": "Rote Wüste"
+   },
+   "contour": [[6,290],[30,292],[40,320],[36,360],[20,375],[6,370]]
+  },
+  {
+   "nom": {
+    "fr": "Ironsand Desert",
+    "en": "Ironsand Desert",
+    "de": "Ironsand Desert"
+   },
+   "contour": [[25,396],[55,390],[80,398],[78,415],[50,420],[28,414]]
+  },
+  {
+   "nom": {
+    "fr": "Pays des Morts",
+    "en": "Land of the Dead",
+    "de": "Land der Toten"
+   },
+   "contour": [[585,790],[640,780],[700,790],[740,800],[745,840],[730,860],[680,875],[620,870],[590,850]]
+  },
+  {
+   "nom": {
+    "fr": "Grand Désert d'Araby",
+    "en": "Great Desert of Araby",
+    "de": "Große Wüste von Araby"
+   },
+   "contour": [[450,825],[490,810],[530,815],[555,840],[545,875],[510,885],[470,880],[450,860]]
+  },
+  {
+   "nom": {
+    "fr": "Sables Mouvants",
+    "en": "Shifting Sands",
+    "de": "Wandernde Sande"
+   },
+   "contour": [[610,872],[650,866],[700,868],[738,880],[730,905],[680,908],[625,904]]
+  },
+  {
+   "nom": {
+    "fr": "Terre Craquelée",
+    "en": "The Cracked Land",
+    "de": "Rissiges Land"
+   },
+   "contour": [[530,770],[565,765],[598,778],[595,800],[560,806],[532,795]]
+  },
+  {
+   "nom": {
+    "fr": "Désert de Malepierre",
+    "en": "Warpstone Desert",
+    "de": "Warpsteinwüste"
+   },
+   "contour": [[1165,470],[1210,468],[1240,480],[1245,505],[1200,510],[1165,500]]
+  },
+  {
+   "nom": {
+    "fr": "Désolations de Jinshen",
+    "en": "Wastelands of Jinshen",
+    "de": "Ödlande von Jinshen"
+   },
+   "contour": [[1150,520],[1185,518],[1210,535],[1205,565],[1170,570],[1150,550]]
+  },
+  {
+   "nom": {
+    "fr": "Désolations du Sud",
+    "en": "The Southern Wastes",
+    "de": "Südliche Ödnis"
+   },
+   "contour": [[430,1112],[520,1108],[600,1118],[640,1130],[600,1145],[480,1146],[425,1132]]
+  },
+  {
+   "nom": {
+    "fr": "The Blasted Wastes",
+    "en": "The Blasted Wastes",
+    "de": "The Blasted Wastes"
+   },
+   "contour": [[865,405],[905,400],[945,412],[950,440],[915,462],[875,455]]
+  },
+  {
+   "nom": {
+    "fr": "Désolations Rouges",
+    "en": "The Red Wastes",
+    "de": "Rote Ödnis"
+   },
+   "contour": [[1290,340],[1340,338],[1390,352],[1385,372],[1335,372],[1292,362]]
+  },
+  {
+   "nom": {
+    "fr": "Terres Arides de l'Ouest",
+    "en": "Western Badlands",
+    "de": "Westliche Ödlande"
+   },
+   "contour": [[625,600],[670,595],[715,605],[720,640],[680,655],[635,650]]
+  },
+  {
+   "nom": {
+    "fr": "Terres Arides de l'Est",
+    "en": "Eastern Badlands",
+    "de": "Östliche Ödlande"
+   },
+   "contour": [[700,655],[760,650],[820,660],[815,678],[760,682],[705,676]]
+  },
+  {
+   "nom": {
+    "fr": "Désolations Hurlantes",
+    "en": "The Howling Wastes",
+    "de": "Heulende Ödnis"
+   },
+   "contour": [[900,575],[950,570],[990,585],[985,620],[945,625],[905,610]]
+  }
+ ]
+}

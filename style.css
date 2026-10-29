@@ -6,9 +6,16 @@
   --filet: #c4bdaf;
   --sang: #7a2320;
   --hachure: rgba(122, 35, 32, 0.12);
-  --mer: #cfd3cc;
-  --houle: #b9bfb6;
-  --fleuve: #6f8a94;
+  /* Carte : palette sépia d'une carte ancienne. */
+  --carte-mer: #a5845b;
+  --carte-houle: #8d6d47;
+  --carte-terre: #d8b884;
+  --carte-relief: #d2ae78;
+  --carte-encre: #46301b;
+  --carte-trait: #6a4d2e;
+  --carte-foret: #bc9c63;
+  --carte-desert: #e2c793;
+  --carte-eau: #93744f;
 
   --titre: "IM Fell English", Georgia, serif;
   --texte: "Alegreya", Georgia, serif;
@@ -340,102 +347,208 @@ h1 {
 
 .carte-et-legende {
   display: grid;
-  grid-template-columns: minmax(0, 1fr) 15rem;
-  gap: 2rem;
-  align-items: start;
+  grid-template-columns: minmax(0, 1fr);
+  gap: 1.2rem;
+}
+
+.cadre-carte {
+  position: relative;
+  border: 1px solid var(--carte-encre);
+  background: var(--carte-mer);
+}
+
+.carte {
+  height: clamp(24rem, 72vh, 46rem);
+  overflow: hidden;
+  touch-action: none;
+  cursor: grab;
+}
+
+.carte:active {
+  cursor: grabbing;
 }
 
 .carte svg {
   display: block;
   width: 100%;
-  height: auto;
+  height: 100%;
   font-family: var(--outil);
+  user-select: none;
 }
 
-.carte .mer { fill: var(--mer); }
-.carte .houle { fill: none; stroke: var(--houle); stroke-width: 9; stroke-linejoin: round; }
-.carte .terre { fill: var(--velin); stroke: var(--encre); stroke-width: 1.1; stroke-linejoin: round; }
-.carte .relief path { fill: var(--velin); stroke: var(--gris); stroke-width: 1; stroke-linejoin: round; }
-.carte .relief .ombre { fill: none; stroke-width: 0.8; }
-.carte .foret { fill: #dcdccb; }
-.carte .arbres { fill: none; stroke: #7d8a6a; stroke-width: 0.8; }
-.carte .fleuve { fill: none; stroke: var(--fleuve); stroke-width: 1.4; stroke-linecap: round; }
-.carte .frontiere { fill: none; stroke: var(--gris); stroke-width: 1; stroke-dasharray: 5 4; }
-.carte .bord { fill: none; stroke: var(--encre); stroke-width: 2; }
+.commandes-carte {
+  position: absolute;
+  top: 0.6rem;
+  right: 0.6rem;
+  display: flex;
+  gap: 0.4rem;
+  font-family: var(--outil);
+  font-size: 0.9rem;
+}
+
+.commandes-carte div {
+  display: flex;
+}
+
+.commandes-carte button {
+  font: inherit;
+  min-width: 2.2rem;
+  padding: 0.3rem 0.6rem;
+  background: var(--velin);
+  border: 1px solid var(--carte-encre);
+  margin-left: -1px;
+  color: var(--carte-encre);
+  cursor: pointer;
+}
+
+.commandes-carte button:hover {
+  background: var(--carte-terre);
+}
+
+.commandes-carte button:focus-visible {
+  outline: 2px solid var(--encre);
+  outline-offset: 1px;
+  position: relative;
+}
+
+.carte .mer { fill: var(--carte-mer); }
+.carte .houle-large { fill: none; stroke: var(--carte-houle); stroke-width: 70; stroke-linejoin: round; opacity: 0.22; }
+.carte .houle { fill: none; stroke: var(--carte-houle); stroke-width: 22; stroke-linejoin: round; opacity: 0.45; }
+.carte .terre { fill: var(--carte-terre); }
+.carte .grain { opacity: 0.55; }
+.carte .cote { fill: none; stroke: var(--carte-encre); stroke-width: 2.6; stroke-linejoin: round; }
+.carte .relief path { fill: var(--carte-relief); stroke: var(--carte-trait); stroke-width: 1.4; stroke-linejoin: round; stroke-linecap: round; }
+.carte .foret { fill: var(--carte-foret); opacity: 0.45; }
+.carte .arbres { fill: var(--carte-foret); stroke: var(--carte-trait); stroke-width: 1.2; }
+.carte .sable { fill: none; stroke: var(--carte-trait); stroke-width: 2; stroke-linecap: round; opacity: 0.45; }
+.carte .touffes { fill: none; stroke: var(--carte-trait); stroke-width: 1.2; stroke-linecap: round; opacity: 0.7; }
+.carte .desert { fill: var(--carte-desert); opacity: 0.7; }
+.carte .marais { fill: var(--carte-eau); opacity: 0.25; }
+.carte .lac { fill: var(--carte-mer); stroke: var(--carte-encre); stroke-width: 1.6; }
+.carte .fleuve { fill: none; stroke: var(--carte-eau); stroke-linecap: round; stroke-linejoin: round; }
+.carte .fleuve.rang-1 { stroke-width: 6; }
+.carte .fleuve.rang-2 { stroke-width: 3.5; }
+.carte .fleuve.rang-3 { stroke-width: 2; }
+.carte .frontiere { fill: none; stroke: var(--carte-trait); stroke-width: 2; stroke-dasharray: 10 8; }
+.carte .bord { fill: none; stroke: var(--carte-encre); stroke-width: 6; }
+
+/* Textes posés sur la carte. Les grands noms suivent le zoom comme sur une
+   carte imprimée, les lieux gardent la même taille à l'écran : --e vaut le
+   nombre d'unités de la carte par pixel, mis à jour par app.js. */
 
 .carte text {
   paint-order: stroke;
-  stroke: var(--velin);
-  stroke-width: 3px;
+  stroke: var(--carte-terre);
   stroke-linejoin: round;
+  fill: var(--carte-encre);
 }
 
-.carte .etiquette-region {
+.carte .etiquette-region,
+.carte .etiquette-region-petite {
   font-family: var(--titre);
-  font-size: 20px;
-  letter-spacing: 0.1em;
+  font-size: 56px;
+  letter-spacing: 0.14em;
   text-transform: uppercase;
   text-anchor: middle;
-  fill: var(--gris);
+  fill: var(--carte-trait);
   stroke-width: 0;
-  opacity: 0.8;
+  opacity: 0.85;
 }
 
 .carte .etiquette-region-petite {
-  font-family: var(--titre);
-  font-size: 14px;
-  letter-spacing: 0.12em;
-  text-transform: uppercase;
-  text-anchor: middle;
-  fill: var(--gris);
-}
-
-.carte .etiquette-relief,
-.carte .etiquette-foret {
-  font-family: var(--texte);
-  font-style: italic;
-  font-size: 12px;
-  text-anchor: middle;
-  fill: var(--gris);
+  font-size: 36px;
 }
 
 .carte .etiquette-mer {
   font-family: var(--titre);
   font-style: italic;
-  font-size: 15px;
-  letter-spacing: 0.08em;
+  font-size: 46px;
+  letter-spacing: 0.1em;
   text-anchor: middle;
-  fill: #5d6a6c;
-  stroke: var(--mer);
+  fill: var(--carte-encre);
+  stroke-width: 0;
+  opacity: 0.6;
+}
+
+.carte .province {
+  display: none;
+  font-family: var(--titre);
+  font-style: italic;
+  font-size: 22px;
+  text-anchor: middle;
+  fill: var(--carte-trait);
+  stroke-width: 0;
+}
+
+.carte .colonie {
+  display: none;
+  font-size: 11px;
+}
+
+.carte .colonie circle {
+  fill: var(--carte-terre);
+  stroke: var(--carte-encre);
+  stroke-width: 1.4;
+}
+
+.carte .colonie text {
+  stroke-width: 2.5px;
+}
+
+.carte svg[data-zoom="3"] .province,
+.carte svg[data-zoom="4"] .province {
+  display: inline;
+}
+
+.carte svg[data-zoom="4"] .colonie {
+  display: inline;
+}
+
+.carte svg[data-zoom="4"] .etiquette-region,
+.carte svg[data-zoom="4"] .etiquette-region-petite,
+.carte svg[data-zoom="4"] .etiquette-mer {
+  display: none;
+}
+
+.carte .a-l-echelle {
+  transform: scale(var(--e, 1));
 }
 
 .carte .lieu {
-  font-size: 12.5px;
-  fill: var(--encre);
+  font-size: 13px;
+}
+
+.carte .lieu text {
+  stroke-width: 3px;
+}
+
+.carte svg[data-zoom="1"] .lieu:not(.lieu-capitale):not(.lieu-region):not(.retenu):not(.evoque) text {
+  display: none;
+}
+
+.carte .lieu-region text {
+  font-family: var(--titre);
+  font-style: italic;
+  font-size: 15px;
+  letter-spacing: 0.06em;
 }
 
 .carte .lieu .marque {
-  fill: var(--encre);
-  stroke: var(--velin);
+  fill: var(--carte-encre);
+  stroke: var(--carte-terre);
   stroke-width: 1.2;
 }
 
+.carte .lieu .marque.trait,
 .carte .lieu-site .marque {
-  fill: var(--velin);
-  stroke: var(--encre);
-  stroke-width: 1.6;
-}
-
-.carte .lieu-lointain {
-  font-style: italic;
-}
-
-.carte .lieu-lointain text {
-  stroke: var(--mer);
+  fill: var(--carte-terre);
+  stroke: var(--carte-encre);
+  stroke-width: 1.8;
 }
 
 .carte .prise {
   fill: transparent;
+  stroke: none;
 }
 
 .carte .lieu[role="button"] {
@@ -443,7 +556,7 @@ h1 {
 }
 
 .carte .lieu.sans-evenement {
-  opacity: 0.45;
+  opacity: 0.5;
 }
 
 .carte .lieu[role="button"]:hover text,
@@ -456,31 +569,36 @@ h1 {
 }
 
 .carte .lieu:focus-visible .prise {
-  stroke: var(--encre);
+  stroke: var(--carte-encre);
   stroke-width: 1.5;
 }
 
-.carte .lieu.evoque .marque {
+.carte .lieu.evoque .marque,
+.carte .lieu.retenu .marque {
   fill: var(--sang);
   stroke: var(--velin);
 }
 
-.carte .lieu.evoque text {
-  fill: var(--sang);
+.carte .lieu.evoque .marque.trait,
+.carte .lieu.retenu .marque.trait {
+  fill: var(--velin);
+  stroke: var(--sang);
 }
 
-.carte .lieu.retenu .marque {
+.carte .lieu.evoque text,
+.carte .lieu.retenu text {
   fill: var(--sang);
-  stroke: var(--encre);
-  stroke-width: 2;
 }
 
 .carte .lieu.retenu text {
-  fill: var(--sang);
   font-weight: 700;
 }
 
 .legende-carte {
+  display: grid;
+  grid-template-columns: minmax(0, 1.4fr) minmax(0, 1fr) minmax(0, 1fr);
+  gap: 2rem;
+  align-items: start;
   font-family: var(--outil);
   font-size: 0.92rem;
   color: var(--gris);
@@ -802,18 +920,9 @@ legend {
     gap: 0.3rem;
   }
 
-  .carte-et-legende {
-    grid-template-columns: minmax(0, 1fr);
+  .legende-carte {
+    grid-template-columns: 1fr;
     gap: 1rem;
-  }
-
-  .carte {
-    overflow-x: auto;
-  }
-
-  .carte svg {
-    width: 46rem;
-    max-width: none;
   }
 
   .age-nom {
@@ -827,4 +936,10 @@ legend {
   .trait[data-importance="3"] { height: 3.6rem; }
   .trait[data-importance="2"] { height: 2.6rem; }
   .trait[data-importance="1"] { height: 1.6rem; }
+}
+
+.types-lieux .marque.trait {
+  fill: none;
+  stroke: var(--encre);
+  stroke-width: 1.8;
 }

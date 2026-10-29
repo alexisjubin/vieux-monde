@@ -1,0 +1,460 @@
+[
+ {
+  "type": "mer",
+  "ie_px": [
+   330,
+   250
+  ],
+  "nom": {
+   "fr": "Grand Océan",
+   "en": "The Great Ocean",
+   "de": "Großer Ozean"
+  },
+  "angle": -75
+ },
+ {
+  "type": "mer",
+  "ie_px": [
+   355,
+   770
+  ],
+  "nom": {
+   "fr": "Grand Océan",
+   "en": "The Great Ocean",
+   "de": "Großer Ozean"
+  },
+  "angle": 75
+ },
+ {
+  "type": "mer",
+  "ie_px": [
+   565,
+   238
+  ],
+  "nom": {
+   "fr": "Mer des Griffes",
+   "en": "Sea of Claws",
+   "de": "Meer der Klauen"
+  },
+  "angle": -12
+ },
+ {
+  "type": "mer",
+  "ie_px": [
+   470,
+   92
+  ],
+  "nom": {
+   "fr": "Mer du Chaos",
+   "en": "Sea of Chaos",
+   "de": "Meer des Chaos"
+  },
+  "angle": -10
+ },
+ {
+  "type": "mer",
+  "ie_px": [
+   985,
+   850
+  ],
+  "nom": {
+   "fr": "Mer de l'Effroi",
+   "en": "Sea of Dread",
+   "de": "Meer der Furcht"
+  }
+ },
+ {
+  "type": "mer",
+  "ie_px": [
+   1150,
+   1110
+  ],
+  "nom": {
+   "fr": "Mer de l'Effroi",
+   "en": "Sea of Dread",
+   "de": "Meer der Furcht"
+  }
+ },
+ {
+  "type": "mer",
+  "ie_px": [
+   1470,
+   900
+  ],
+  "nom": {
+   "fr": "Mer de Jade",
+   "en": "The Jade Sea",
+   "de": "Jademeer"
+  },
+  "angle": -90
+ },
+ {
+  "type": "mer",
+  "ie_px": [
+   75,
+   1065
+  ],
+  "nom": {
+   "fr": "Mer Lointaine",
+   "en": "The Far Sea",
+   "de": "Ferne See"
+  }
+ },
+ {
+  "type": "mer",
+  "ie_px": [
+   478,
+   668
+  ],
+  "nom": {
+   "fr": "Mer Tiléenne",
+   "en": "Tilean Sea",
+   "de": "Tileanisches Meer"
+  }
+ },
+ {
+  "type": "mer",
+  "ie_px": [
+   130,
+   190
+  ],
+  "nom": {
+   "fr": "Mer de la Malveillance",
+   "en": "Sea of Malice",
+   "de": "Meer der Bosheit"
+  }
+ },
+ {
+  "type": "mer",
+  "ie_px": [
+   255,
+   505
+  ],
+  "nom": {
+   "fr": "Mer Intérieure",
+   "en": "The Inner Sea",
+   "de": "Inneres Meer"
+  }
+ },
+ {
+  "type": "mer",
+  "ie_px": [
+   995,
+   655
+  ],
+  "nom": {
+   "fr": "Mer des Tempêtes",
+   "en": "Sea of Storms",
+   "de": "Sturmmeer"
+  }
+ },
+ {
+  "type": "mer",
+  "ie_px": [
+   22,
+   620
+  ],
+  "nom": {
+   "fr": "Mer des Bourrasques",
+   "en": "Sea of Squalls",
+   "de": "Böenmeer"
+  },
+  "angle": -90
+ },
+ {
+  "type": "mer",
+  "ie_px": [
+   425,
+   885
+  ],
+  "nom": {
+   "fr": "Golfe de Médès",
+   "en": "Gulf of Medes",
+   "de": "Golf von Medes"
+  }
+ },
+ {
+  "type": "region",
+  "ie_px": [
+   590,
+   372
+  ],
+  "nom": {
+   "fr": "L'Empire",
+   "en": "The Empire",
+   "de": "Das Imperium"
+  }
+ },
+ {
+  "type": "region",
+  "ie_px": [
+   445,
+   455
+  ],
+  "nom": {
+   "fr": "Bretonnie",
+   "en": "Bretonnia",
+   "de": "Bretonia"
+  }
+ },
+ {
+  "type": "region",
+  "ie_px": [
+   705,
+   282
+  ],
+  "nom": {
+   "fr": "Kislev",
+   "en": "Kislev",
+   "de": "Kislev"
+  }
+ },
+ {
+  "type": "region",
+  "ie_px": [
+   560,
+   150
+  ],
+  "nom": {
+   "fr": "Norsca",
+   "en": "Norsca",
+   "de": "Norsca"
+  },
+  "angle": -8
+ },
+ {
+  "type": "region-petite",
+  "ie_px": [
+   420,
+   612
+  ],
+  "nom": {
+   "fr": "Estalie",
+   "en": "Estalia",
+   "de": "Estalia"
+  }
+ },
+ {
+  "type": "region-petite",
+  "ie_px": [
+   538,
+   655
+  ],
+  "nom": {
+   "fr": "Tilée",
+   "en": "Tilea",
+   "de": "Tilea"
+  },
+  "angle": 60
+ },
+ {
+  "type": "region-petite",
+  "ie_px": [
+   625,
+   560
+  ],
+  "nom": {
+   "fr": "Royaumes frontaliers",
+   "en": "Border Princes",
+   "de": "Grenzgrafschaften"
+  },
+  "angle": -30
+ },
+ {
+  "type": "region",
+  "ie_px": [
+   730,
+   640
+  ],
+  "nom": {
+   "fr": "Terres arides",
+   "en": "Badlands",
+   "de": "Ödlande"
+  }
+ },
+ {
+  "type": "region",
+  "ie_px": [
+   905,
+   450
+  ],
+  "nom": {
+   "fr": "Terres sombres",
+   "en": "Dark Lands",
+   "de": "Dunkle Lande"
+  }
+ },
+ {
+  "type": "region-petite",
+  "ie_px": [
+   1010,
+   560
+  ],
+  "nom": {
+   "fr": "Royaumes ogres",
+   "en": "Ogre Kingdoms",
+   "de": "Ogerkönigreiche"
+  }
+ },
+ {
+  "type": "region",
+  "ie_px": [
+   920,
+   110
+  ],
+  "nom": {
+   "fr": "Désolations du Chaos",
+   "en": "Chaos Wastes",
+   "de": "Chaoswüste"
+  }
+ },
+ {
+  "type": "region",
+  "ie_px": [
+   90,
+   290
+  ],
+  "nom": {
+   "fr": "Naggaroth",
+   "en": "Naggaroth",
+   "de": "Naggaroth"
+  },
+  "angle": -80
+ },
+ {
+  "type": "region",
+  "ie_px": [
+   255,
+   605
+  ],
+  "nom": {
+   "fr": "Ulthuan",
+   "en": "Ulthuan",
+   "de": "Ulthuan"
+  }
+ },
+ {
+  "type": "region",
+  "ie_px": [
+   150,
+   820
+  ],
+  "nom": {
+   "fr": "Lustrie",
+   "en": "Lustria",
+   "de": "Lustria"
+  },
+  "angle": -35
+ },
+ {
+  "type": "region",
+  "ie_px": [
+   720,
+   960
+  ],
+  "nom": {
+   "fr": "Terres du Sud",
+   "en": "Southlands",
+   "de": "Südlande"
+  },
+  "angle": -60
+ },
+ {
+  "type": "region",
+  "ie_px": [
+   490,
+   825
+  ],
+  "nom": {
+   "fr": "Araby",
+   "en": "Araby",
+   "de": "Araby"
+  }
+ },
+ {
+  "type": "region",
+  "ie_px": [
+   650,
+   800
+  ],
+  "nom": {
+   "fr": "Nehekhara",
+   "en": "Nehekhara",
+   "de": "Nehekhara"
+  }
+ },
+ {
+  "type": "region",
+  "ie_px": [
+   1330,
+   500
+  ],
+  "nom": {
+   "fr": "Grand Cathay",
+   "en": "Grand Cathay",
+   "de": "Großes Cathay"
+  }
+ },
+ {
+  "type": "region",
+  "ie_px": [
+   1200,
+   800
+  ],
+  "nom": {
+   "fr": "Ind",
+   "en": "Ind",
+   "de": "Ind"
+  },
+  "angle": -70
+ },
+ {
+  "type": "region-petite",
+  "ie_px": [
+   1360,
+   880
+  ],
+  "nom": {
+   "fr": "Khuresh",
+   "en": "Khuresh",
+   "de": "Khuresh"
+  },
+  "angle": -80
+ },
+ {
+  "type": "region-petite",
+  "ie_px": [
+   367,
+   265
+  ],
+  "nom": {
+   "fr": "Albion",
+   "en": "Albion",
+   "de": "Albion"
+  }
+ },
+ {
+  "type": "region",
+  "ie_px": [
+   500,
+   1140
+  ],
+  "nom": {
+   "fr": "Désolations du Sud",
+   "en": "Southern Wastes",
+   "de": "Südliche Ödnis"
+  }
+ },
+ {
+  "type": "region-petite",
+  "ie_px": [
+   1005,
+   1000
+  ],
+  "nom": {
+   "fr": "Colonies orientales",
+   "en": "Eastern Colonies",
+   "de": "Östliche Kolonien"
+  }
+ }
+]

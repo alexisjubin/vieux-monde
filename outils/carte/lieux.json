@@ -1,0 +1,1698 @@
+[
+ {
+  "id": "altdorf",
+  "type": "capitale",
+  "nom": {
+   "fr": "Altdorf",
+   "en": "Altdorf",
+   "de": "Altdorf"
+  }
+ },
+ {
+  "id": "middenheim",
+  "type": "ville",
+  "nom": {
+   "fr": "Middenheim",
+   "en": "Middenheim",
+   "de": "Middenheim"
+  }
+ },
+ {
+  "id": "nuln",
+  "type": "ville",
+  "nom": {
+   "fr": "Nuln",
+   "en": "Nuln",
+   "de": "Nuln"
+  }
+ },
+ {
+  "id": "talabheim",
+  "type": "ville",
+  "nom": {
+   "fr": "Talabheim",
+   "en": "Talabheim",
+   "de": "Talabheim"
+  }
+ },
+ {
+  "id": "wolfenburg",
+  "type": "ville",
+  "nom": {
+   "fr": "Wolfenburg",
+   "en": "Wolfenburg",
+   "de": "Wolfenburg"
+  }
+ },
+ {
+  "id": "averheim",
+  "type": "ville",
+  "nom": {
+   "fr": "Averheim",
+   "en": "Averheim",
+   "de": "Averheim"
+  }
+ },
+ {
+  "id": "wurtbad",
+  "type": "ville",
+  "nom": {
+   "fr": "Wurtbad",
+   "en": "Wurtbad",
+   "de": "Wurtbad"
+  }
+ },
+ {
+  "id": "pfeildorf",
+  "type": "ville",
+  "nom": {
+   "fr": "Pfeildorf",
+   "en": "Pfeildorf",
+   "de": "Pfeildorf"
+  }
+ },
+ {
+  "id": "carroburg",
+  "type": "ville",
+  "nom": {
+   "fr": "Carroburg",
+   "en": "Carroburg",
+   "de": "Carroburg"
+  }
+ },
+ {
+  "id": "bogenhafen",
+  "type": "ville",
+  "nom": {
+   "fr": "Bogenhafen",
+   "en": "Bogenhafen",
+   "de": "Bogenhafen"
+  },
+  "ie_px": [
+   535,
+   402
+  ]
+ },
+ {
+  "id": "ubersreik",
+  "type": "ville",
+  "nom": {
+   "fr": "Ubersreik",
+   "en": "Ubersreik",
+   "de": "Ubersreik"
+  }
+ },
+ {
+  "id": "helmgart",
+  "type": "ville",
+  "nom": {
+   "fr": "Helmgart",
+   "en": "Helmgart",
+   "de": "Helmgart"
+  }
+ },
+ {
+  "id": "kemperbad",
+  "type": "ville",
+  "nom": {
+   "fr": "Kemperbad",
+   "en": "Kemperbad",
+   "de": "Kemperbad"
+  }
+ },
+ {
+  "id": "salzenmund",
+  "type": "ville",
+  "nom": {
+   "fr": "Salzenmund",
+   "en": "Salzenmund",
+   "de": "Salzenmund"
+  }
+ },
+ {
+  "id": "hergig",
+  "type": "ville",
+  "nom": {
+   "fr": "Hergig",
+   "en": "Hergig",
+   "de": "Hergig"
+  }
+ },
+ {
+  "id": "talagrad",
+  "type": "ville",
+  "nom": {
+   "fr": "Talagrad",
+   "en": "Talagrad",
+   "de": "Talagrad"
+  },
+  "ie_px": [
+   622,
+   372
+  ]
+ },
+ {
+  "id": "bechafen",
+  "type": "ville",
+  "nom": {
+   "fr": "Bechafen",
+   "en": "Bechafen",
+   "de": "Bechafen"
+  }
+ },
+ {
+  "id": "mordheim",
+  "type": "ruine",
+  "nom": {
+   "fr": "Mordheim",
+   "en": "Mordheim",
+   "de": "Mordheim"
+  }
+ },
+ {
+  "id": "drakenhof",
+  "type": "site",
+  "nom": {
+   "fr": "Drakenhof",
+   "en": "Drakenhof",
+   "de": "Drakenhof"
+  },
+  "ie": "Castle Drakenhof"
+ },
+ {
+  "id": "castel-sternieste",
+  "type": "site",
+  "nom": {
+   "fr": "Château Sternieste",
+   "en": "Castle Sternieste",
+   "de": "Burg Sternieste"
+  },
+  "ie_px": [
+   712,
+   432
+  ]
+ },
+ {
+  "id": "templehof",
+  "type": "site",
+  "nom": {
+   "fr": "Templehof",
+   "en": "Templehof",
+   "de": "Templehof"
+  },
+  "ie": "Castle Templehof"
+ },
+ {
+  "id": "hel-fenn",
+  "type": "bataille",
+  "nom": {
+   "fr": "Hel Fenn",
+   "en": "Hel Fenn",
+   "de": "Hel Fenn"
+  },
+  "ie_px": [
+   706,
+   452
+  ]
+ },
+ {
+  "id": "grim-moor",
+  "type": "bataille",
+  "nom": {
+   "fr": "Grim Moor",
+   "en": "Grim Moor",
+   "de": "Grim Moor"
+  },
+  "ie_px": [
+   690,
+   362
+  ]
+ },
+ {
+  "id": "col-du-feu-noir",
+  "type": "bataille",
+  "nom": {
+   "fr": "Col du Feu Noir",
+   "en": "Black Fire Pass",
+   "de": "Schwarzfeuerpass"
+  },
+  "ie_px": [
+   690,
+   492
+  ]
+ },
+ {
+  "id": "marienburg",
+  "type": "ville",
+  "nom": {
+   "fr": "Marienburg",
+   "en": "Marienburg",
+   "de": "Marienburg"
+  }
+ },
+ {
+  "id": "couronne",
+  "type": "capitale",
+  "nom": {
+   "fr": "Couronne",
+   "en": "Couronne",
+   "de": "Couronne"
+  }
+ },
+ {
+  "id": "anguille",
+  "type": "ville",
+  "nom": {
+   "fr": "L'Anguille",
+   "en": "L'Anguille",
+   "de": "L'Anguille"
+  }
+ },
+ {
+  "id": "lyonesse",
+  "type": "ville",
+  "nom": {
+   "fr": "Lyonesse",
+   "en": "Lyonesse",
+   "de": "Lyonesse"
+  }
+ },
+ {
+  "id": "mousillon",
+  "type": "ruine",
+  "nom": {
+   "fr": "Mousillon",
+   "en": "Mousillon",
+   "de": "Mousillon"
+  }
+ },
+ {
+  "id": "bastonne",
+  "type": "ville",
+  "nom": {
+   "fr": "Bastonne",
+   "en": "Bastonne",
+   "de": "Bastonne"
+  },
+  "ie": "Castle Bastonne"
+ },
+ {
+  "id": "gisoreux",
+  "type": "ville",
+  "nom": {
+   "fr": "Gisoreux",
+   "en": "Gisoreux",
+   "de": "Gisoreux"
+  }
+ },
+ {
+  "id": "parravon",
+  "type": "ville",
+  "nom": {
+   "fr": "Parravon",
+   "en": "Parravon",
+   "de": "Parravon"
+  }
+ },
+ {
+  "id": "bordeleaux",
+  "type": "ville",
+  "nom": {
+   "fr": "Bordeleaux",
+   "en": "Bordeleaux",
+   "de": "Bordeleaux"
+  }
+ },
+ {
+  "id": "quenelles",
+  "type": "ville",
+  "nom": {
+   "fr": "Quenelles",
+   "en": "Quenelles",
+   "de": "Quenelles"
+  }
+ },
+ {
+  "id": "brionne",
+  "type": "ville",
+  "nom": {
+   "fr": "Brionne",
+   "en": "Brionne",
+   "de": "Brionne"
+  }
+ },
+ {
+  "id": "carcassonne",
+  "type": "ville",
+  "nom": {
+   "fr": "Carcassonne",
+   "en": "Carcassonne",
+   "de": "Carcassonne"
+  },
+  "ie": "Castle Carcassonne"
+ },
+ {
+  "id": "montfort",
+  "type": "ville",
+  "nom": {
+   "fr": "Montfort",
+   "en": "Montfort",
+   "de": "Montfort"
+  }
+ },
+ {
+  "id": "athel-loren",
+  "type": "site",
+  "nom": {
+   "fr": "Athel Loren",
+   "en": "Athel Loren",
+   "de": "Athel Loren"
+  },
+  "ie_px": [
+   528,
+   500
+  ]
+ },
+ {
+  "id": "miragliano",
+  "type": "ville",
+  "nom": {
+   "fr": "Miragliano",
+   "en": "Miragliano",
+   "de": "Miragliano"
+  },
+  "ie_px": [
+   505,
+   628
+  ]
+ },
+ {
+  "id": "remas",
+  "type": "ville",
+  "nom": {
+   "fr": "Remas",
+   "en": "Remas",
+   "de": "Remas"
+  },
+  "ie_px": [
+   530,
+   668
+  ]
+ },
+ {
+  "id": "luccini",
+  "type": "ville",
+  "nom": {
+   "fr": "Luccini",
+   "en": "Luccini",
+   "de": "Luccini"
+  }
+ },
+ {
+  "id": "tobaro",
+  "type": "ville",
+  "nom": {
+   "fr": "Tobaro",
+   "en": "Tobaro",
+   "de": "Tobaro"
+  }
+ },
+ {
+  "id": "trantio",
+  "type": "ville",
+  "nom": {
+   "fr": "Trantio",
+   "en": "Trantio",
+   "de": "Trantio"
+  },
+  "ie_px": [
+   540,
+   642
+  ]
+ },
+ {
+  "id": "pavona",
+  "type": "ville",
+  "nom": {
+   "fr": "Pavona",
+   "en": "Pavona",
+   "de": "Pavona"
+  },
+  "ie_px": [
+   522,
+   652
+  ]
+ },
+ {
+  "id": "sartosa",
+  "type": "ville",
+  "nom": {
+   "fr": "Sartosa",
+   "en": "Sartosa",
+   "de": "Sartosa"
+  }
+ },
+ {
+  "id": "skavenblight",
+  "type": "ruine",
+  "nom": {
+   "fr": "Skavenblight (ruines de Tylos)",
+   "en": "Skavenblight (ruins of Tylos)",
+   "de": "Skavenblight (Ruinen von Tylos)"
+  }
+ },
+ {
+  "id": "magritta",
+  "type": "ville",
+  "nom": {
+   "fr": "Magritta",
+   "en": "Magritta",
+   "de": "Magritta"
+  }
+ },
+ {
+  "id": "bilbali",
+  "type": "ville",
+  "nom": {
+   "fr": "Bilbali",
+   "en": "Bilbali",
+   "de": "Bilbali"
+  }
+ },
+ {
+  "id": "kislev",
+  "type": "capitale",
+  "nom": {
+   "fr": "Kislev",
+   "en": "Kislev",
+   "de": "Kislev"
+  }
+ },
+ {
+  "id": "praag",
+  "type": "ville",
+  "nom": {
+   "fr": "Praag",
+   "en": "Praag",
+   "de": "Praag"
+  }
+ },
+ {
+  "id": "erengrad",
+  "type": "ville",
+  "nom": {
+   "fr": "Erengrad",
+   "en": "Erengrad",
+   "de": "Erengrad"
+  }
+ },
+ {
+  "id": "bolgasgrad",
+  "type": "ville",
+  "nom": {
+   "fr": "Bolgasgrad",
+   "en": "Bolgasgrad",
+   "de": "Bolgasgrad"
+  },
+  "ie_px": [
+   760,
+   300
+  ]
+ },
+ {
+  "id": "kraka-drak",
+  "type": "forteresse",
+  "nom": {
+   "fr": "Kraka Drak",
+   "en": "Kraka Drak",
+   "de": "Kraka Drak"
+  }
+ },
+ {
+  "id": "karaz-a-karak",
+  "type": "forteresse",
+  "nom": {
+   "fr": "Karaz-a-Karak",
+   "en": "Karaz-a-Karak",
+   "de": "Karaz-a-Karak"
+  }
+ },
+ {
+  "id": "karak-kadrin",
+  "type": "forteresse",
+  "nom": {
+   "fr": "Karak Kadrin",
+   "en": "Karak Kadrin",
+   "de": "Karak Kadrin"
+  }
+ },
+ {
+  "id": "zhufbar",
+  "type": "forteresse",
+  "nom": {
+   "fr": "Zhufbar",
+   "en": "Zhufbar",
+   "de": "Zhufbar"
+  }
+ },
+ {
+  "id": "karak-huit-pics",
+  "type": "forteresse",
+  "nom": {
+   "fr": "Karak Huit Pics",
+   "en": "Karak Eight Peaks",
+   "de": "Karak Acht Gipfel"
+  }
+ },
+ {
+  "id": "karak-azgal",
+  "type": "forteresse",
+  "nom": {
+   "fr": "Karak Azgal",
+   "en": "Karak Azgal",
+   "de": "Karak Azgal"
+  }
+ },
+ {
+  "id": "karak-azul",
+  "type": "forteresse",
+  "nom": {
+   "fr": "Karak Azul",
+   "en": "Karak Azul",
+   "de": "Karak Azul"
+  }
+ },
+ {
+  "id": "karak-ungor",
+  "type": "ruine",
+  "nom": {
+   "fr": "Karak Ungor",
+   "en": "Karak Ungor",
+   "de": "Karak Ungor"
+  }
+ },
+ {
+  "id": "karak-varn",
+  "type": "ruine",
+  "nom": {
+   "fr": "Karak Varn",
+   "en": "Karak Varn",
+   "de": "Karak Varn"
+  },
+  "ie_px": [
+   750,
+   474
+  ]
+ },
+ {
+  "id": "mont-gunbad",
+  "type": "ruine",
+  "nom": {
+   "fr": "Mont Gunbad",
+   "en": "Mount Gunbad",
+   "de": "Berg Gunbad"
+  }
+ },
+ {
+  "id": "ekrund",
+  "type": "ruine",
+  "nom": {
+   "fr": "Ekrund",
+   "en": "Ekrund",
+   "de": "Ekrund"
+  }
+ },
+ {
+  "id": "karak-vlag",
+  "type": "ruine",
+  "nom": {
+   "fr": "Karak Vlag",
+   "en": "Karak Vlag",
+   "de": "Karak Vlag"
+  }
+ },
+ {
+  "id": "karak-hirn",
+  "type": "forteresse",
+  "nom": {
+   "fr": "Karak Hirn",
+   "en": "Karak Hirn",
+   "de": "Karak Hirn"
+  }
+ },
+ {
+  "id": "karak-norn",
+  "type": "forteresse",
+  "nom": {
+   "fr": "Karak Norn",
+   "en": "Karak Norn",
+   "de": "Karak Norn"
+  }
+ },
+ {
+  "id": "karak-izor",
+  "type": "forteresse",
+  "nom": {
+   "fr": "Karak Izor",
+   "en": "Karak Izor",
+   "de": "Karak Izor"
+  }
+ },
+ {
+  "id": "karak-ziflin",
+  "type": "forteresse",
+  "nom": {
+   "fr": "Karak Ziflin",
+   "en": "Karak Ziflin",
+   "de": "Karak Ziflin"
+  }
+ },
+ {
+  "id": "barak-varr",
+  "type": "forteresse",
+  "nom": {
+   "fr": "Barak Varr",
+   "en": "Barak Varr",
+   "de": "Barak Varr"
+  }
+ },
+ {
+  "id": "karak-drazh",
+  "type": "forteresse",
+  "nom": {
+   "fr": "Karak Drazh (Pic Noir)",
+   "en": "Karak Drazh (Black Crag)",
+   "de": "Karak Drazh (Schwarzer Zahn)"
+  },
+  "ie": "Black Crag"
+ },
+ {
+  "id": "zharr-naggrund",
+  "type": "capitale",
+  "nom": {
+   "fr": "Zharr-Naggrund",
+   "en": "Zharr-Naggrund",
+   "de": "Zharr-Naggrund"
+  }
+ },
+ {
+  "id": "uzkulak",
+  "type": "ville",
+  "nom": {
+   "fr": "Uzkulak",
+   "en": "Uzkulak",
+   "de": "Uzkulak"
+  }
+ },
+ {
+  "id": "nagashizzar",
+  "type": "ruine",
+  "nom": {
+   "fr": "Nagashizzar",
+   "en": "Nagashizzar",
+   "de": "Nagashizzar"
+  }
+ },
+ {
+  "id": "grande-gueule",
+  "type": "site",
+  "nom": {
+   "fr": "La Grande Gueule",
+   "en": "The Great Maw",
+   "de": "Der Große Schlund"
+  },
+  "ie_px": [
+   1010,
+   500
+  ]
+ },
+ {
+  "id": "lac-noir",
+  "type": "site",
+  "nom": {
+   "fr": "Eaux Noires",
+   "en": "Black Water",
+   "de": "Schwarzwasser"
+  },
+  "ie_px": [
+   745,
+   480
+  ]
+ },
+ {
+  "id": "khemri",
+  "type": "capitale",
+  "nom": {
+   "fr": "Khemri",
+   "en": "Khemri",
+   "de": "Khemri"
+  }
+ },
+ {
+  "id": "pyramide-noire",
+  "type": "ruine",
+  "nom": {
+   "fr": "Pyramide noire de Nagash",
+   "en": "Black Pyramid of Nagash",
+   "de": "Schwarze Pyramide des Nagash"
+  }
+ },
+ {
+  "id": "lahmia",
+  "type": "ruine",
+  "nom": {
+   "fr": "Lahmia",
+   "en": "Lahmia",
+   "de": "Lahmia"
+  }
+ },
+ {
+  "id": "zandri",
+  "type": "ville",
+  "nom": {
+   "fr": "Zandri",
+   "en": "Zandri",
+   "de": "Zandri"
+  }
+ },
+ {
+  "id": "numas",
+  "type": "ville",
+  "nom": {
+   "fr": "Numas",
+   "en": "Numas",
+   "de": "Numas"
+  }
+ },
+ {
+  "id": "quatar",
+  "type": "ville",
+  "nom": {
+   "fr": "Quatar",
+   "en": "Quatar",
+   "de": "Quatar"
+  }
+ },
+ {
+  "id": "bhagar",
+  "type": "ville",
+  "nom": {
+   "fr": "Bhagar",
+   "en": "Bhagar",
+   "de": "Bhagar"
+  }
+ },
+ {
+  "id": "lybaras",
+  "type": "ville",
+  "nom": {
+   "fr": "Lybaras",
+   "en": "Lybaras",
+   "de": "Lybaras"
+  }
+ },
+ {
+  "id": "mahrak",
+  "type": "ville",
+  "nom": {
+   "fr": "Mahrak",
+   "en": "Mahrak",
+   "de": "Mahrak"
+  }
+ },
+ {
+  "id": "rasetra",
+  "type": "ville",
+  "nom": {
+   "fr": "Rasetra",
+   "en": "Rasetra",
+   "de": "Rasetra"
+  }
+ },
+ {
+  "id": "ka-sabar",
+  "type": "ville",
+  "nom": {
+   "fr": "Ka-Sabar",
+   "en": "Ka-Sabar",
+   "de": "Ka-Sabar"
+  }
+ },
+ {
+  "id": "al-haikk",
+  "type": "ville",
+  "nom": {
+   "fr": "Al-Haikk",
+   "en": "Al-Haikk",
+   "de": "Al-Haikk"
+  }
+ },
+ {
+  "id": "copher",
+  "type": "ville",
+  "nom": {
+   "fr": "Copher",
+   "en": "Copher",
+   "de": "Copher"
+  }
+ },
+ {
+  "id": "lashiek",
+  "type": "ville",
+  "nom": {
+   "fr": "Lashiek",
+   "en": "Lashiek",
+   "de": "Lashiek"
+  }
+ },
+ {
+  "id": "el-kalabad",
+  "type": "ville",
+  "nom": {
+   "fr": "El-Kalabad",
+   "en": "El-Kalabad",
+   "de": "El-Kalabad"
+  }
+ },
+ {
+  "id": "forteresse-de-l-aube",
+  "type": "forteresse",
+  "nom": {
+   "fr": "Forteresse de l'Aube",
+   "en": "Fortress of Dawn",
+   "de": "Festung der Morgenröte"
+  }
+ },
+ {
+  "id": "zlatlan",
+  "type": "ruine",
+  "nom": {
+   "fr": "Zlatlan",
+   "en": "Zlatlan",
+   "de": "Zlatlan"
+  }
+ },
+ {
+  "id": "tour-du-soleil",
+  "type": "site",
+  "nom": {
+   "fr": "Tour du Soleil",
+   "en": "Tower of the Sun",
+   "de": "Turm der Sonne"
+  }
+ },
+ {
+  "id": "hexoatl",
+  "type": "ville",
+  "nom": {
+   "fr": "Hexoatl",
+   "en": "Hexoatl",
+   "de": "Hexoatl"
+  }
+ },
+ {
+  "id": "itza",
+  "type": "ville",
+  "nom": {
+   "fr": "Itza",
+   "en": "Itza",
+   "de": "Itza"
+  }
+ },
+ {
+  "id": "xlanhuapec",
+  "type": "ville",
+  "nom": {
+   "fr": "Xlanhuapec",
+   "en": "Xlanhuapec",
+   "de": "Xlanhuapec"
+  }
+ },
+ {
+  "id": "tlaxtlan",
+  "type": "ville",
+  "nom": {
+   "fr": "Tlaxtlan",
+   "en": "Tlaxtlan",
+   "de": "Tlaxtlan"
+  }
+ },
+ {
+  "id": "pahuax",
+  "type": "ruine",
+  "nom": {
+   "fr": "Pahuax",
+   "en": "Pahuax",
+   "de": "Pahuax"
+  }
+ },
+ {
+  "id": "chaqua",
+  "type": "ruine",
+  "nom": {
+   "fr": "Chaqua",
+   "en": "Chaqua",
+   "de": "Chaqua"
+  }
+ },
+ {
+  "id": "quetza",
+  "type": "ruine",
+  "nom": {
+   "fr": "Quetza",
+   "en": "Quetza",
+   "de": "Quetza"
+  }
+ },
+ {
+  "id": "xahutec",
+  "type": "ville",
+  "nom": {
+   "fr": "Xahutec",
+   "en": "Xahutec",
+   "de": "Xahutec"
+  }
+ },
+ {
+  "id": "tlanxla",
+  "type": "ville",
+  "nom": {
+   "fr": "Tlanxla",
+   "en": "Tlanxla",
+   "de": "Tlanxla"
+  }
+ },
+ {
+  "id": "axlotl",
+  "type": "ville",
+  "nom": {
+   "fr": "Axlotl",
+   "en": "Axlotl",
+   "de": "Axlotl"
+  }
+ },
+ {
+  "id": "skeggi",
+  "type": "ville",
+  "nom": {
+   "fr": "Skeggi",
+   "en": "Skeggi",
+   "de": "Skeggi"
+  }
+ },
+ {
+  "id": "citadelle-du-crepuscule",
+  "type": "forteresse",
+  "nom": {
+   "fr": "Citadelle du Crépuscule",
+   "en": "Citadel of Dusk",
+   "de": "Zitadelle der Dämmerung"
+  }
+ },
+ {
+  "id": "cote-des-vampires",
+  "type": "site",
+  "nom": {
+   "fr": "Côte des Vampires",
+   "en": "Vampire Coast",
+   "de": "Vampirküste"
+  },
+  "ie_px": [
+   290,
+   800
+  ]
+ },
+ {
+  "id": "lothern",
+  "type": "capitale",
+  "nom": {
+   "fr": "Lothern",
+   "en": "Lothern",
+   "de": "Lothern"
+  }
+ },
+ {
+  "id": "tor-achare",
+  "type": "ville",
+  "nom": {
+   "fr": "Tor Achare",
+   "en": "Tor Achare",
+   "de": "Tor Achare"
+  }
+ },
+ {
+  "id": "tor-yvresse",
+  "type": "ville",
+  "nom": {
+   "fr": "Tor Yvresse",
+   "en": "Tor Yvresse",
+   "de": "Tor Yvresse"
+  }
+ },
+ {
+  "id": "tor-anroc",
+  "type": "ville",
+  "nom": {
+   "fr": "Tor Anroc",
+   "en": "Tor Anroc",
+   "de": "Tor Anroc"
+  }
+ },
+ {
+  "id": "anlec",
+  "type": "ruine",
+  "nom": {
+   "fr": "Anlec",
+   "en": "Anlec",
+   "de": "Anlec"
+  },
+  "ie": "Tor Anlec"
+ },
+ {
+  "id": "sanctuaire-d-asuryan",
+  "type": "site",
+  "nom": {
+   "fr": "Sanctuaire d'Asuryan",
+   "en": "Shrine of Asuryan",
+   "de": "Schrein des Asuryan"
+  }
+ },
+ {
+  "id": "tour-de-hoeth",
+  "type": "site",
+  "nom": {
+   "fr": "Tour Blanche de Hoeth",
+   "en": "White Tower of Hoeth",
+   "de": "Weißer Turm von Hoeth"
+  }
+ },
+ {
+  "id": "porte-de-l-aigle",
+  "type": "forteresse",
+  "nom": {
+   "fr": "Porte de l'Aigle",
+   "en": "Eagle Gate",
+   "de": "Adlertor"
+  }
+ },
+ {
+  "id": "porte-du-phenix",
+  "type": "forteresse",
+  "nom": {
+   "fr": "Porte du Phénix",
+   "en": "Phoenix Gate",
+   "de": "Phönixtor"
+  }
+ },
+ {
+  "id": "ile-des-morts",
+  "type": "site",
+  "nom": {
+   "fr": "Île des Morts",
+   "en": "Isle of the Dead",
+   "de": "Insel der Toten"
+  },
+  "ie_px": [
+   255,
+   490
+  ]
+ },
+ {
+  "id": "avelorn",
+  "type": "site",
+  "nom": {
+   "fr": "Avelorn",
+   "en": "Avelorn",
+   "de": "Avelorn"
+  },
+  "ie_px": [
+   240,
+   440
+  ]
+ },
+ {
+  "id": "caledor",
+  "type": "site",
+  "nom": {
+   "fr": "Caledor",
+   "en": "Caledor",
+   "de": "Caledor"
+  },
+  "ie_px": [
+   205,
+   525
+  ]
+ },
+ {
+  "id": "naggarond",
+  "type": "capitale",
+  "nom": {
+   "fr": "Naggarond",
+   "en": "Naggarond",
+   "de": "Naggarond"
+  }
+ },
+ {
+  "id": "har-ganeth",
+  "type": "ville",
+  "nom": {
+   "fr": "Har Ganeth",
+   "en": "Har Ganeth",
+   "de": "Har Ganeth"
+  }
+ },
+ {
+  "id": "clar-karond",
+  "type": "ville",
+  "nom": {
+   "fr": "Clar Karond",
+   "en": "Clar Karond",
+   "de": "Clar Karond"
+  }
+ },
+ {
+  "id": "hag-graef",
+  "type": "ville",
+  "nom": {
+   "fr": "Hag Graef",
+   "en": "Hag Graef",
+   "de": "Hag Graef"
+  }
+ },
+ {
+  "id": "ghrond",
+  "type": "ville",
+  "nom": {
+   "fr": "Ghrond",
+   "en": "Ghrond",
+   "de": "Ghrond"
+  }
+ },
+ {
+  "id": "karond-kar",
+  "type": "ville",
+  "nom": {
+   "fr": "Karond Kar",
+   "en": "Karond Kar",
+   "de": "Karond Kar"
+  }
+ },
+ {
+  "id": "ile-fletrie",
+  "type": "site",
+  "nom": {
+   "fr": "Île Flétrie",
+   "en": "Blighted Isle",
+   "de": "Verdorbene Insel"
+  },
+  "ie_px": [
+   215,
+   355
+  ]
+ },
+ {
+  "id": "grand-bastion",
+  "type": "forteresse",
+  "nom": {
+   "fr": "Grand Bastion",
+   "en": "Great Bastion",
+   "de": "Große Bastion"
+  },
+  "ie_px": [
+   1380,
+   360
+  ]
+ },
+ {
+  "id": "wei-jin",
+  "type": "ville",
+  "nom": {
+   "fr": "Wei-Jin",
+   "en": "Wei-Jin",
+   "de": "Wei-Jin"
+  }
+ },
+ {
+  "id": "nan-gau",
+  "type": "ville",
+  "nom": {
+   "fr": "Nan-Gau",
+   "en": "Nan-Gau",
+   "de": "Nan-Gau"
+  }
+ },
+ {
+  "id": "iles-du-dragon",
+  "type": "site",
+  "nom": {
+   "fr": "Îles du Dragon",
+   "en": "Dragon Isles",
+   "de": "Dracheninseln"
+  },
+  "ie_px": [
+   1015,
+   720
+  ]
+ },
+ {
+  "id": "desolations",
+  "type": "region",
+  "nom": {
+   "fr": "Désolations du Chaos",
+   "en": "Chaos Wastes",
+   "de": "Chaoswüste"
+  },
+  "ie_px": [
+   800,
+   60
+  ]
+ },
+ {
+  "id": "ulthuan",
+  "type": "region",
+  "nom": {
+   "fr": "Ulthuan",
+   "en": "Ulthuan",
+   "de": "Ulthuan"
+  },
+  "ie_px": [
+   255,
+   455
+  ]
+ },
+ {
+  "id": "naggaroth",
+  "type": "region",
+  "nom": {
+   "fr": "Naggaroth",
+   "en": "Naggaroth",
+   "de": "Naggaroth"
+  },
+  "ie_px": [
+   100,
+   250
+  ]
+ },
+ {
+  "id": "lustrie",
+  "type": "region",
+  "nom": {
+   "fr": "Lustrie",
+   "en": "Lustria",
+   "de": "Lustria"
+  },
+  "ie_px": [
+   150,
+   850
+  ]
+ },
+ {
+  "id": "nehekhara",
+  "type": "region",
+  "nom": {
+   "fr": "Nehekhara",
+   "en": "Nehekhara",
+   "de": "Nehekhara"
+  },
+  "ie_px": [
+   650,
+   800
+  ]
+ },
+ {
+  "id": "araby",
+  "type": "region",
+  "nom": {
+   "fr": "Araby",
+   "en": "Araby",
+   "de": "Araby"
+  },
+  "ie_px": [
+   500,
+   820
+  ]
+ },
+ {
+  "id": "cathay",
+  "type": "region",
+  "nom": {
+   "fr": "Cathay",
+   "en": "Cathay",
+   "de": "Cathay"
+  },
+  "ie_px": [
+   1350,
+   560
+  ]
+ },
+ {
+  "id": "porte-du-griffon",
+  "type": "forteresse",
+  "nom": {
+   "fr": "Porte du Griffon",
+   "en": "Griffon Gate",
+   "de": "Greifentor"
+  }
+ },
+ {
+  "id": "arnheim",
+  "type": "ville",
+  "nom": {
+   "fr": "Arnheim",
+   "en": "Arnheim",
+   "de": "Arnheim"
+  }
+ },
+ {
+  "id": "chateau-drachenfels",
+  "type": "forteresse",
+  "nom": {
+   "fr": "Château de Drachenfels",
+   "en": "Castle Drachenfels",
+   "de": "Burg Drachenfels"
+  },
+  "ie_px": [
+   533,
+   428
+  ]
+ },
+ {
+  "id": "hollum",
+  "type": "ruine",
+  "nom": {
+   "fr": "Hollum",
+   "en": "Hollum",
+   "de": "Hollum"
+  }
+ },
+ {
+  "id": "aarnau",
+  "type": "ville",
+  "nom": {
+   "fr": "Aarnau",
+   "en": "Aarnau",
+   "de": "Aarnau"
+  }
+ },
+ {
+  "id": "foret-de-drakwald",
+  "type": "site",
+  "nom": {
+   "fr": "Forêt du Drakwald",
+   "en": "Drakwald Forest",
+   "de": "Drakwald"
+  },
+  "ie_px": [
+   540,
+   355
+  ]
+ },
+ {
+  "id": "foret-de-laurelorn",
+  "type": "site",
+  "nom": {
+   "fr": "Forêt de Laurelorn",
+   "en": "Laurelorn Forest",
+   "de": "Laurelorn-Wald"
+  },
+  "ie_px": [
+   505,
+   330
+  ]
+ },
+ {
+  "id": "donjon-d-airain",
+  "type": "forteresse",
+  "nom": {
+   "fr": "Donjon d'Airain",
+   "en": "Brass Keep",
+   "de": "Messingfeste"
+  },
+  "ie": "The Brass Keep"
+ },
+ {
+  "id": "vanhaldenschlosse",
+  "type": "forteresse",
+  "nom": {
+   "fr": "Vanhaldenschlosse",
+   "en": "Vanhaldenschlosse",
+   "de": "Vanhaldenschlosse"
+  },
+  "ie_px": [
+   716,
+   440
+  ]
+ },
+ {
+  "id": "bel-aliad",
+  "type": "ruine",
+  "nom": {
+   "fr": "Bel-Aliad",
+   "en": "Bel-Aliad",
+   "de": "Bel-Aliad"
+  },
+  "ie_px": [
+   480,
+   840
+  ]
+ },
+ {
+  "id": "mourkain",
+  "type": "ruine",
+  "nom": {
+   "fr": "Mourkain",
+   "en": "Mourkain",
+   "de": "Mourkain"
+  },
+  "ie_px": [
+   790,
+   640
+  ]
+ },
+ {
+  "id": "pic-d-argent",
+  "type": "forteresse",
+  "nom": {
+   "fr": "Pic d'argent",
+   "en": "Silver Pinnacle",
+   "de": "Silberzinne"
+  }
+ },
+ {
+  "id": "tour-noire-d-arkhan",
+  "type": "site",
+  "nom": {
+   "fr": "Tour noire d'Arkhan",
+   "en": "Black Tower of Arkhan",
+   "de": "Schwarzer Turm des Arkhan"
+  }
+ },
+ {
+  "id": "forteresse-de-sang",
+  "type": "site",
+  "nom": {
+   "fr": "Forteresse de Sang",
+   "en": "Blood Keep",
+   "de": "Blutfeste"
+  },
+  "ie_px": [
+   652,
+   560
+  ]
+ },
+ {
+  "id": "col-du-chien-fou",
+  "type": "site",
+  "nom": {
+   "fr": "Col du Chien Fou",
+   "en": "Mad Dog Pass",
+   "de": "Mad Dog Pass"
+  },
+  "ie_px": [
+   735,
+   535
+  ]
+ },
+ {
+  "id": "rocher-de-fer",
+  "type": "forteresse",
+  "nom": {
+   "fr": "Rocher de Fer",
+   "en": "Iron Rock",
+   "de": "Iron Rock"
+  }
+ },
+ {
+  "id": "plaine-des-os",
+  "type": "site",
+  "nom": {
+   "fr": "Plaine des Os",
+   "en": "Plain of Bones",
+   "de": "Knochenebene"
+  },
+  "ie_px": [
+   915,
+   635
+  ]
+ },
+ {
+  "id": "forteresse-noire",
+  "type": "forteresse",
+  "nom": {
+   "fr": "Forteresse Noire",
+   "en": "Black Fortress",
+   "de": "Schwarze Festung"
+  }
+ },
+ {
+  "id": "nan-li",
+  "type": "bataille",
+  "nom": {
+   "fr": "Nan-Li",
+   "en": "Nan-Li",
+   "de": "Nan-Li"
+  }
+ },
+ {
+  "id": "beichai",
+  "type": "ville",
+  "nom": {
+   "fr": "Beichai",
+   "en": "Beichai",
+   "de": "Beichai"
+  }
+ },
+ {
+  "id": "volganof",
+  "type": "ruine",
+  "nom": {
+   "fr": "Volganof",
+   "en": "Volganof",
+   "de": "Volganof"
+  }
+ },
+ {
+  "id": "karak-ghulg",
+  "type": "ruine",
+  "nom": {
+   "fr": "Karak Ghulg",
+   "en": "Karak Ghulg",
+   "de": "Karak Ghulg"
+  }
+ },
+ {
+  "id": "aquitaine",
+  "type": "ville",
+  "nom": {
+   "fr": "Aquitaine",
+   "en": "Aquitaine",
+   "de": "Aquitaine"
+  }
+ },
+ {
+  "id": "verezzo",
+  "type": "ville",
+  "nom": {
+   "fr": "Verezzo",
+   "en": "Verezzo",
+   "de": "Verezzo"
+  },
+  "ie_px": [
+   516,
+   640
+  ]
+ },
+ {
+  "id": "ravola",
+  "type": "ville",
+  "nom": {
+   "fr": "Ravola",
+   "en": "Ravola",
+   "de": "Ravola"
+  },
+  "ie_px": [
+   524,
+   660
+  ]
+ },
+ {
+  "id": "la-maisontaal",
+  "type": "site",
+  "nom": {
+   "fr": "Abbaye de La Maisontaal",
+   "en": "La Maisontaal Abbey",
+   "de": "Abtei La Maisontaal"
+  },
+  "ie_px": [
+   497,
+   468
+  ]
+ },
+ {
+  "id": "krinal",
+  "type": "ruine",
+  "nom": {
+   "fr": "Krinal",
+   "en": "Krinal",
+   "de": "Krinal"
+  }
+ },
+ {
+  "id": "kronenbourg",
+  "type": "ruine",
+  "nom": {
+   "fr": "Kronenbourg",
+   "en": "Kronenbourg",
+   "de": "Kronenbourg"
+  }
+ },
+ {
+  "id": "albion",
+  "type": "site",
+  "nom": {
+   "fr": "Albion",
+   "en": "Albion",
+   "de": "Albion"
+  },
+  "ie_px": [
+   365,
+   280
+  ]
+ },
+ {
+  "id": "hell-pit",
+  "type": "forteresse",
+  "nom": {
+   "fr": "Puits de l'Enfer",
+   "en": "Hell Pit",
+   "de": "Höllengrube"
+  }
+ },
+ {
+  "id": "huatl",
+  "type": "ruine",
+  "nom": {
+   "fr": "Huatl",
+   "en": "Huatl",
+   "de": "Huatl"
+  }
+ },
+ {
+  "id": "cadavo",
+  "type": "ruine",
+  "nom": {
+   "fr": "Cadavo",
+   "en": "Cadavo",
+   "de": "Cadavo"
+  }
+ },
+ {
+  "id": "konquata",
+  "type": "site",
+  "nom": {
+   "fr": "Konquata",
+   "en": "Konquata",
+   "de": "Konquata"
+  }
+ }
+]

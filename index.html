@@ -8,7 +8,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Alegreya:ital,wght@0,400;0,600;1,400&family=Alegreya+Sans:wght@400;500;700&family=IM+Fell+English:ital@0;1&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="style.css?v=4">
+  <link rel="stylesheet" href="style.css?v=5">
 </head>
 <body>
   <dialog id="accueil" class="accueil" aria-labelledby="titre-accueil">
@@ -36,7 +36,19 @@
     <section class="vue-carte" id="vue-carte" aria-labelledby="titre-carte">
       <h2 id="titre-carte" class="titre-section" data-t="carte"></h2>
       <div class="carte-et-legende">
-        <div class="carte" id="carte"></div>
+        <div class="cadre-carte">
+          <div class="carte" id="carte"></div>
+          <div class="commandes-carte">
+            <div>
+              <button type="button" data-cadrage="monde" data-t="cadrageMonde"></button>
+              <button type="button" data-cadrage="vieux-monde" data-t="cadrageVieuxMonde"></button>
+            </div>
+            <div>
+              <button type="button" data-zoom-carte="moins" aria-label="-">−</button>
+              <button type="button" data-zoom-carte="plus" aria-label="+">+</button>
+            </div>
+          </div>
+        </div>
         <div class="legende-carte">
           <p data-t="legendeCarte"></p>
           <ul class="types-lieux" id="types-lieux"></ul>
@@ -66,6 +78,11 @@
           </fieldset>
 
           <fieldset>
+            <legend data-t="importance"></legend>
+            <div id="filtre-importances" class="choix"></div>
+          </fieldset>
+
+          <fieldset>
             <legend data-t="fiabilite"></legend>
             <div id="filtre-fiabilites" class="choix"></div>
           </fieldset>
@@ -82,6 +99,6 @@
     </footer>
 
   </div>
-  <script src="app.js?v=4" defer></script>
+  <script src="app.js?v=5" defer></script>
 </body>
 </html>
