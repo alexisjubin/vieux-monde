@@ -1,0 +1,3448 @@
+[
+ {
+  "id": "bhagar-se-revolte-contre-settra",
+  "annee": -2383,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Nekaph tue le roi rebelle de Bhagar",
+   "en": "Nekaph slays the rebel king of Bhagar",
+   "de": "Nekaph tötet den aufständischen König von Bhagar"
+  },
+  "resume": {
+   "fr": "Le roi de Bhagar rejette l'autorité de Settra sur la Grande Terre. Le héraut Nekaph se rend seul dans la cité et l'exécute de sa main, ce qui met fin à la révolte.",
+   "en": "The king of Bhagar rejects Settra's authority over the Great Land. The herald Nekaph travels to the city and executes him personally, ending the revolt.",
+   "de": "Der König von Bhagar lehnt Settras Herrschaft über das Große Land ab. Der Herold Nekaph reist in die Stadt und richtet ihn eigenhändig, womit der Aufstand endet."
+  },
+  "ere": "age-d-or",
+  "regions": [
+   "sud"
+  ],
+  "lieux": [
+   "bhagar",
+   "khemri"
+  ],
+  "factions": [
+   "rois-des-tombes"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Tomb Kings, 8e édition",
+     "en": "Warhammer Armies: Tomb Kings, 8th edition",
+     "de": "Warhammer Armies: Tomb Kings, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 20",
+     "en": "p. 20",
+     "de": "S. 20"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Tomb Kings Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Tomb Kings Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Tomb Kings Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Tomb_Kings_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "naissance-de-nagash",
+  "annee": -2000,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Naissance de Nagash",
+   "en": "Birth of Nagash",
+   "de": "Geburt von Nagash"
+  },
+  "resume": {
+   "fr": "Nagash voit le jour dans la famille royale de Khemri. Fils aîné voué au Culte Mortuaire selon la coutume de Nehekhara, il deviendra hiérophante avant d'inventer la nécromancie.",
+   "en": "Nagash is born into the royal house of Khemri. As an eldest son he is pledged to the Mortuary Cult by Nehekharan custom, and he will rise to hierophant before devising necromancy.",
+   "de": "Nagash wird in das Königshaus von Khemri geboren. Als ältester Sohn ist er nach dem Brauch Nehekharas dem Totenkult geweiht, wird Hierophant und begründet später die Nekromantie."
+  },
+  "ere": "age-d-or",
+  "regions": [
+   "sud"
+  ],
+  "lieux": [
+   "khemri"
+  ],
+  "factions": [
+   "rois-des-tombes"
+  ],
+  "importance": 2,
+  "fiabilite": "etabli",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Tomb Kings, 8e édition",
+     "en": "Warhammer Armies: Tomb Kings, 8th edition",
+     "de": "Warhammer Armies: Tomb Kings, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 20",
+     "en": "p. 20",
+     "de": "S. 20"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Vampire Counts, 8e édition",
+     "en": "Warhammer Armies: Vampire Counts, 8th edition",
+     "de": "Warhammer Armies: Vampire Counts, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 22",
+     "en": "p. 22",
+     "de": "S. 22"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Tomb Kings Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Tomb Kings Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Tomb Kings Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Tomb_Kings_Timeline"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Vampire Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Vampire Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Vampire Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Vampire_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "neferatem-livres-de-nagash",
+  "annee": -1600,
+  "fin": null,
+  "approx": true,
+  "titre": {
+   "fr": "Neferatem s'empare des livres de Nagash",
+   "en": "Neferatem seizes Nagash's books",
+   "de": "Neferatem nimmt Nagashs Bücher an sich"
+  },
+  "resume": {
+   "fr": "Pendant que la confédération des rois abat Nagash, la reine Neferatem de Lahmia met secrètement la main sur ses écrits. Le grand prêtre W'soran l'y pousse. Cette prise rend possible, moins d'un siècle plus tard, l'élixir corrompu d'où naîtront les vampires.",
+   "en": "While the confederation of kings brings Nagash down, Queen Neferatem of Lahmia quietly secures his writings at the urging of the high priest W'soran. Less than a century later this haul makes possible the corrupted elixir from which the Vampires spring.",
+   "de": "Während die Konföderation der Könige Nagash stürzt, sichert sich Königin Neferatem von Lahmia heimlich seine Schriften, wozu der Hohepriester W'soran sie drängt. Keine hundert Jahre später ermöglicht dieser Fund das verdorbene Elixier, aus dem die Vampire hervorgehen."
+  },
+  "ere": "age-d-or",
+  "regions": [
+   "sud"
+  ],
+  "lieux": [
+   "lahmia",
+   "khemri"
+  ],
+  "factions": [
+   "vampires",
+   "rois-des-tombes"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "La source place ce vol entre -1750 et -1600.",
+   "en": "The source places this theft between -1750 and -1600.",
+   "de": "Die Quelle setzt diesen Diebstahl zwischen -1750 und -1600 an."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Vampire Counts, 8e édition",
+     "en": "Warhammer Armies: Vampire Counts, 8th edition",
+     "de": "Warhammer Armies: Vampire Counts, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 22",
+     "en": "p. 22",
+     "de": "S. 22"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Night's Dark Masters, Warhammer Fantasy Roleplay 2e édition",
+     "en": "Night's Dark Masters, Warhammer Fantasy Roleplay 2nd edition",
+     "de": "Night's Dark Masters, Warhammer Fantasy Roleplay 2. Edition"
+    },
+    "detail": {
+     "fr": "p. 33",
+     "en": "p. 33",
+     "de": "S. 33"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Vampire Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Vampire Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Vampire Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Vampire_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "rebellion-de-lahmia-neferata",
+  "annee": -1590,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Rébellion écrasée à Lahmia",
+   "en": "Rebellion crushed in Lahmia",
+   "de": "Aufstand in Lahmia niedergeschlagen"
+  },
+  "resume": {
+   "fr": "Un soulèvement éclate à Lahmia et sa répression est d'une grande brutalité. La reine Neferatem porte désormais le nom de Neferata.",
+   "en": "An uprising in Lahmia is put down with great brutality. Queen Neferatem is known from then on as Neferata.",
+   "de": "Ein Aufstand in Lahmia wird mit großer Brutalität niedergeworfen. Königin Neferatem trägt fortan den Namen Neferata."
+  },
+  "ere": "age-d-or",
+  "regions": [
+   "sud"
+  ],
+  "lieux": [
+   "lahmia"
+  ],
+  "factions": [
+   "vampires"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Night's Dark Masters, Warhammer Fantasy Roleplay 2e édition",
+     "en": "Night's Dark Masters, Warhammer Fantasy Roleplay 2nd edition",
+     "de": "Night's Dark Masters, Warhammer Fantasy Roleplay 2. Edition"
+    },
+    "detail": {
+     "fr": "p. 33",
+     "en": "p. 33",
+     "de": "S. 33"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Vampire Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Vampire Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Vampire Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Vampire_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "apophas-massacre-numas",
+  "annee": -1563,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Le prince Apophas et la malédiction d'Usirian",
+   "en": "Prince Apophas and the curse of Usirian",
+   "de": "Prinz Apophas und der Fluch Usirians"
+  },
+  "resume": {
+   "fr": "Apophas fait assassiner la famille royale de Numas pour prendre le trône, mais la population se soulève et l'exécute. Livré à Usirian, il négocie sa libération contre une âme de même valeur que la sienne. Vers -975, il revient sous la forme d'un spectre, le Seigneur scarabée maudit, condamné à chercher cette âme.",
+   "en": "Apophas has the royal family of Numas murdered to take the throne, but the people rise and put him to death. Handed to Usirian, he bargains for release in exchange for a soul equal to his own. Around -975 he returns as a Wraith, the Cursed Scarab Lord, doomed to seek that soul.",
+   "de": "Apophas lässt die Königsfamilie von Numas ermorden, um den Thron zu erlangen, doch das Volk erhebt sich und richtet ihn hin. Usirian ausgeliefert, handelt er seine Freilassung gegen eine ihm ebenbürtige Seele aus. Um -975 kehrt er als Gespenst zurück, als verfluchter Skarabäenfürst, und muss diese Seele suchen."
+  },
+  "ere": "age-d-or",
+  "regions": [
+   "sud"
+  ],
+  "lieux": [
+   "numas"
+  ],
+  "factions": [
+   "rois-des-tombes"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Tomb Kings, 8e édition",
+     "en": "Warhammer Armies: Tomb Kings, 8th edition",
+     "de": "Warhammer Armies: Tomb Kings, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 20",
+     "en": "p. 20",
+     "de": "S. 20"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Tomb Kings Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Tomb Kings Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Tomb Kings Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Tomb_Kings_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "nagashizzar-et-premieres-goules",
+  "annee": -1500,
+  "fin": -1350,
+  "approx": true,
+  "titre": {
+   "fr": "Nagashizzar creusée, naissance des goules",
+   "en": "Nagashizzar delved, Ghouls appear",
+   "de": "Nagashizzar entsteht, die Ghule erscheinen"
+  },
+  "resume": {
+   "fr": "Des esclaves morts-vivants percent les mines du Pic Estropié et Nagash y établit sa citadelle de Nagashizzar. Des tribus humaines primitives se mettent à l'adorer et dégénèrent en goules, mangeuses de cadavres.",
+   "en": "Undead slaves drive mines beneath Cripple Peak and Nagash raises his citadel of Nagashizzar there. Primitive human tribes begin to worship him and degenerate into corpse-eating Ghouls.",
+   "de": "Untote Sklaven treiben Minen unter den Krüppelgipfel, und Nagash errichtet dort seine Zitadelle Nagashizzar. Primitive Menschenstämme beginnen ihn anzubeten und verkommen zu leichenfressenden Ghulen."
+  },
+  "ere": "age-des-tribus",
+  "regions": [
+   "terres-arides"
+  ],
+  "lieux": [
+   "nagashizzar"
+  ],
+  "factions": [
+   "rois-des-tombes",
+   "vampires"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Vampire Counts, 8e édition",
+     "en": "Warhammer Armies: Vampire Counts, 8th edition",
+     "de": "Warhammer Armies: Vampire Counts, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 22",
+     "en": "p. 22",
+     "de": "S. 22"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Vampire Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Vampire Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Vampire Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Vampire_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "amenemhetum-conquiert-la-tilee",
+  "annee": -1200,
+  "fin": null,
+  "approx": true,
+  "titre": {
+   "fr": "Amenemhetum le Grand conquiert la future Tilée",
+   "en": "Amenemhetum the Great conquers future Tilea",
+   "de": "Amenemhetum der Große erobert das spätere Tilea"
+  },
+  "resume": {
+   "fr": "Le roi-prêtre Amenemhetum le Grand soumet la région qui deviendra la Tilée et l'intègre à l'empire de Nehekhara. La domination de Nehekhara prend ainsi pied dans le Vieux Monde.",
+   "en": "The priest-king Amenemhetum the Great subdues the region that will become Tilea and absorbs it into the Nehekharan empire. Nehekharan rule thereby gains a foothold in the Old World.",
+   "de": "Der Priesterkönig Amenemhetum der Große unterwirft die Region, aus der Tilea werden wird, und gliedert sie dem Reich Nehekhara ein. Damit fasst Nehekharas Herrschaft in der Alten Welt Fuß."
+  },
+  "ere": "age-des-tribus",
+  "regions": [
+   "tilee-estalie",
+   "sud"
+  ],
+  "lieux": [],
+  "factions": [
+   "rois-des-tombes",
+   "humains-autres"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Lure of the Liche Lord, Warhammer Fantasy Roleplay 2e édition",
+     "en": "Lure of the Liche Lord, Warhammer Fantasy Roleplay 2nd edition",
+     "de": "Lure of the Liche Lord, Warhammer Fantasy Roleplay 2. Edition"
+    },
+    "detail": {
+     "fr": "p. 7",
+     "en": "p. 7",
+     "de": "S. 7"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Tomb Kings Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Tomb Kings Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Tomb Kings Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Tomb_Kings_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "w-soran-contre-les-myrmidons",
+  "annee": -1050,
+  "fin": -1017,
+  "approx": true,
+  "titre": {
+   "fr": "W'soran traqué par l'Ordre des Myrmidons",
+   "en": "W'soran hunted by the Order of the Myrmidons",
+   "de": "W'soran vom Orden der Myrmidonen gejagt"
+  },
+  "resume": {
+   "fr": "Parti en quête de savoirs, le vampire W'soran vainc les étrangleurs de l'Oasis noire en Araby et massacre les sorcières corsaires des récifs de Sartosa. L'Ordre des Myrmidons contrarie sa route en Araby et en Tilée et finit par l'abattre au temple de Myrmidia à Magritta.",
+   "en": "In pursuit of knowledge, the Vampire W'soran overcomes the stranglers of the Black Oasis in Araby and slaughters the corsair-witches of the Sartosan reefs. The Order of the Myrmidons dogs his path through Araby and Tilea and at last strikes him down at the temple of Myrmidia in Magritta.",
+   "de": "Auf der Suche nach Wissen bezwingt der Vampir W'soran die Würger der Schwarzen Oase in Araby und metzelt die Korsarenhexen der Riffe von Sartosa nieder. Der Orden der Myrmidonen stellt sich ihm in Araby und Tilea entgegen und streckt ihn schließlich im Myrmidia-Tempel von Magritta nieder."
+  },
+  "ere": "age-des-tribus",
+  "regions": [
+   "sud",
+   "tilee-estalie"
+  ],
+  "lieux": [
+   "araby",
+   "sartosa",
+   "magritta"
+  ],
+  "factions": [
+   "vampires",
+   "humains-autres"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Master of Death (roman de Josh Reynolds)",
+     "en": "Master of Death (novel by Josh Reynolds)",
+     "de": "Master of Death (Roman von Josh Reynolds)"
+    },
+    "detail": {
+     "fr": "chap. 13",
+     "en": "ch. 13",
+     "de": "Kap. 13"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Arabyan Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Arabyan Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Arabyan Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Arabyan_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "intarep-le-fou-ouvre-une-faille",
+  "annee": -1002,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Intarep le Fou ouvre une faille vers le Chaos",
+   "en": "Intarep the Mad tears a rift to Chaos",
+   "de": "Intarep der Wahnsinnige öffnet einen Riss zum Chaos"
+  },
+  "resume": {
+   "fr": "Par maladresse, le grand prêtre liche Intarep ouvre une brèche vers le Royaume du Chaos et des milliers de démons se répandent dans les nécropoles. Settra revient de campagne, défait le Grand Immonde qui les commande et précipite Intarep dans la faille.",
+   "en": "Through blundering, the Liche High Priest Intarep opens a breach to the Realm of Chaos and thousands of Daemons pour through the necropoli. Settra returns from campaign, defeats the Great Unclean One in command and flings Intarep into the rift.",
+   "de": "Durch ein Missgeschick öffnet der Liche-Hohepriester Intarep eine Bresche zum Reich des Chaos, und Tausende Dämonen strömen in die Nekropolen. Settra kehrt vom Feldzug zurück, besiegt den befehlenden Großen Verpester und schleudert Intarep in den Riss."
+  },
+  "ere": "age-des-tribus",
+  "regions": [
+   "sud"
+  ],
+  "lieux": [
+   "nehekhara"
+  ],
+  "factions": [
+   "rois-des-tombes",
+   "chaos"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "La source date l'événement de l'an 150 du règne de Settra. L'année impériale reprend la conversion du wiki.",
+   "en": "The source dates this event to year 150 of Settra's reign. The Imperial year follows the wiki's conversion.",
+   "de": "Die Quelle datiert das Ereignis auf das Jahr 150 von Settras Herrschaft. Das imperiale Jahr folgt der Umrechnung des Wikis."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Daemons of Chaos, 8e édition",
+     "en": "Warhammer Armies: Daemons of Chaos, 8th edition",
+     "de": "Warhammer Armies: Daemons of Chaos, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 17",
+     "en": "p. 17",
+     "de": "S. 17"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Tomb Kings Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Tomb Kings Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Tomb Kings Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Tomb_Kings_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "khalida-chasse-neferata-de-sartosa",
+  "annee": -850,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Khalida chasse Neferata de Sartosa",
+   "en": "Khalida drives Neferata from Sartosa",
+   "de": "Khalida vertreibt Neferata aus Sartosa"
+  },
+  "resume": {
+   "fr": "Les flottes de tombes de Settra frappent Sartosa, où Neferata s'est retirée dans sa villa. La reine Khalida Neferher la défie à nouveau en duel, mais Neferata refuse le combat et quitte la cité pour de bon.",
+   "en": "Settra's tomb-fleets strike Sartosa, where Neferata has withdrawn to her villa. Queen Khalida Neferher challenges her to a second duel, but Neferata refuses the fight and abandons the city for good.",
+   "de": "Settras Grabflotten greifen Sartosa an, wohin sich Neferata in ihre Villa zurückgezogen hat. Königin Khalida Neferher fordert sie erneut zum Duell, doch Neferata verweigert den Kampf und verlässt die Stadt für immer."
+  },
+  "ere": "age-des-tribus",
+  "regions": [
+   "tilee-estalie"
+  ],
+  "lieux": [
+   "sartosa"
+  ],
+  "factions": [
+   "rois-des-tombes",
+   "vampires"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "La source date l'événement de l'an 302 du règne de Settra. L'année impériale reprend la conversion du wiki.",
+   "en": "The source dates this event to year 302 of Settra's reign. The Imperial year follows the wiki's conversion.",
+   "de": "Die Quelle datiert das Ereignis auf das Jahr 302 von Settras Herrschaft. Das imperiale Jahr folgt der Umrechnung des Wikis."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Neferata (roman de Josh Reynolds)",
+     "en": "Neferata (novel by Josh Reynolds)",
+     "de": "Neferata (Roman von Josh Reynolds)"
+    },
+    "detail": {
+     "fr": "chap. 17",
+     "en": "ch. 17",
+     "de": "Kap. 17"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Tomb Kings Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Tomb Kings Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Tomb Kings Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Tomb_Kings_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "apogee-de-strygos",
+  "annee": -250,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Apogée de Strygos et appel d'Ushoran",
+   "en": "Height of Strigos and Ushoran's summons",
+   "de": "Blüte von Strigos und Ushorans Ruf"
+  },
+  "resume": {
+   "fr": "Au sommet de sa puissance, le royaume de Strygos permet à Ushoran d'appeler les vampires du Vieux Monde à le rejoindre. Neferata, attachée au secret, refuse et pousse les peuples voisins à attaquer son royaume.",
+   "en": "At the peak of its power, the kingdom of Strigos allows Ushoran to summon the Vampires of the Old World to his side. Neferata, intent on secrecy, declines and sets the surrounding peoples against his realm.",
+   "de": "Auf dem Höhepunkt der Macht von Strigos ruft Ushoran die Vampire der Alten Welt zu sich. Neferata, der an Geheimhaltung gelegen ist, lehnt ab und hetzt die Nachbarvölker gegen sein Reich auf."
+  },
+  "ere": "age-des-tribus",
+  "regions": [
+   "terres-arides"
+  ],
+  "lieux": [
+   "mourkain"
+  ],
+  "factions": [
+   "vampires",
+   "humains-autres"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Vampire Counts, 8e édition",
+     "en": "Warhammer Armies: Vampire Counts, 8th edition",
+     "de": "Warhammer Armies: Vampire Counts, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 22",
+     "en": "p. 22",
+     "de": "S. 22"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Vampire Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Vampire Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Vampire Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Vampire_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "nagash-renait-en-liche",
+  "annee": -40,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Nagash renaît sous la forme d'une liche",
+   "en": "Nagash reborn as a Liche",
+   "de": "Nagash als Liche wiedergeboren"
+  },
+  "resume": {
+   "fr": "Mille cent onze ans après sa mort, Nagash revient sous la forme d'une liche et exige l'obéissance des Rois des tombes. Sous la conduite de Settra, ils refoulent ses armées vers Nagashizzar. Il y rebâtit son royaume et se tourne vers les tribus humaines du nord.",
+   "en": "Eleven hundred and eleven years after his death, Nagash returns as a Liche and demands the obedience of the Tomb Kings. Led by Settra, they push his armies back to Nagashizzar. There he rebuilds his realm and turns on the human tribes of the north.",
+   "de": "Elfhundertelf Jahre nach seinem Tod kehrt Nagash als Liche zurück und fordert den Gehorsam der Gruftkönige. Unter Settras Führung treiben sie seine Heere nach Nagashizzar zurück. Dort baut er sein Reich neu auf und wendet sich gegen die Menschenstämme des Nordens."
+  },
+  "ere": "age-des-tribus",
+  "regions": [
+   "sud",
+   "terres-arides"
+  ],
+  "lieux": [
+   "nagashizzar",
+   "khemri"
+  ],
+  "factions": [
+   "rois-des-tombes",
+   "vampires"
+  ],
+  "importance": 2,
+  "fiabilite": "etabli",
+  "note": {
+   "fr": "La source date l'événement de l'an 1117 du règne de Settra. L'année impériale reprend la conversion du wiki.",
+   "en": "The source dates this event to year 1117 of Settra's reign. The Imperial year follows the wiki's conversion.",
+   "de": "Die Quelle datiert das Ereignis auf das Jahr 1117 von Settras Herrschaft. Das imperiale Jahr folgt der Umrechnung des Wikis."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Tomb Kings, 8e édition",
+     "en": "Warhammer Armies: Tomb Kings, 8th edition",
+     "de": "Warhammer Armies: Tomb Kings, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 21",
+     "en": "p. 21",
+     "de": "S. 21"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Night's Dark Masters, Warhammer Fantasy Roleplay 2e édition",
+     "en": "Night's Dark Masters, Warhammer Fantasy Roleplay 2nd edition",
+     "de": "Night's Dark Masters, Warhammer Fantasy Roleplay 2. Edition"
+    },
+    "detail": {
+     "fr": "p. 33",
+     "en": "p. 33",
+     "de": "S. 33"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Tomb Kings Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Tomb Kings Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Tomb Kings Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Tomb_Kings_Timeline"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Vampire Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Vampire Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Vampire Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Vampire_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "legion-de-lakhashar-detruite",
+  "annee": 483,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "L'énigme de la légion de Lakhashar",
+   "en": "The riddle of Lakhashar's legion",
+   "de": "Das Rätsel von Lakhashars Legion"
+  },
+  "resume": {
+   "fr": "La légion du roi Lakhashar est anéantie sans explication au retour d'une victoire sur les Gobelins de la Lune Tordue. Le héraut Nekaph retrouve sa dépouille près d'une nécrosphinx immobile au milieu d'une mer d'ossements brisés.",
+   "en": "King Lakhashar's legion is wiped out without explanation on its way home from a victory over the Crooked Moon Goblins. The herald Nekaph finds his remains near a motionless Necrosphinx amid a sea of broken bones.",
+   "de": "Die Legion von König Lakhashar wird auf dem Rückweg von einem Sieg über die Goblins vom Krummen Mond unerklärlich vernichtet. Der Herold Nekaph findet seine Überreste bei einer reglosen Nekrosphinx inmitten eines Meers zerbrochener Knochen."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "sud"
+  ],
+  "lieux": [
+   "nehekhara"
+  ],
+  "factions": [
+   "rois-des-tombes",
+   "peaux-vertes"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "La source date l'événement de l'an 1610 du règne de Settra. L'année impériale reprend la conversion du wiki.",
+   "en": "The source dates this event to year 1610 of Settra's reign. The Imperial year follows the wiki's conversion.",
+   "de": "Die Quelle datiert das Ereignis auf das Jahr 1610 von Settras Herrschaft. Das imperiale Jahr folgt der Umrechnung des Wikis."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Tomb Kings, 8e édition",
+     "en": "Warhammer Armies: Tomb Kings, 8th edition",
+     "de": "Warhammer Armies: Tomb Kings, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 21",
+     "en": "p. 21",
+     "de": "S. 21"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Tomb Kings Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Tomb Kings Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Tomb Kings Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Tomb_Kings_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "araignees-du-mont-arachnos-a-rasetra",
+  "annee": 873,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Les araignées du mont Arachnos à Rasetra",
+   "en": "The spiders of Mount Arachnos at Rasetra",
+   "de": "Die Spinnen des Bergs Arachnos in Rasetra"
+  },
+  "resume": {
+   "fr": "Des araignées de la taille de dragons, descendues du mont Arachnos, attaquent la nécropole de Rasetra. Un étranger mystérieux la sauve par sa magie.",
+   "en": "Spiders the size of Dragons come down from Mount Arachnos and assail the necropolis of Rasetra. A mysterious stranger saves it with his magic.",
+   "de": "Spinnen von der Größe von Drachen steigen vom Berg Arachnos herab und greifen die Nekropole Rasetra an. Ein geheimnisvoller Fremder rettet sie durch seine Magie."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "sud"
+  ],
+  "lieux": [
+   "rasetra"
+  ],
+  "factions": [
+   "rois-des-tombes"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "La source date l'événement de l'an 2000 du règne de Settra. L'année impériale reprend la conversion du wiki.",
+   "en": "The source dates this event to year 2000 of Settra's reign. The Imperial year follows the wiki's conversion.",
+   "de": "Die Quelle datiert das Ereignis auf das Jahr 2000 von Settras Herrschaft. Das imperiale Jahr folgt der Umrechnung des Wikis."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Tomb Kings, 8e édition",
+     "en": "Warhammer Armies: Tomb Kings, 8th edition",
+     "de": "Warhammer Armies: Tomb Kings, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 21",
+     "en": "p. 21",
+     "de": "S. 21"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Tomb Kings Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Tomb Kings Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Tomb Kings Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Tomb_Kings_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "dieter-helsnicht-beeckerhoven",
+  "annee": 1207,
+  "fin": 1244,
+  "approx": false,
+  "titre": {
+   "fr": "Dieter Helsnicht et la bataille de Beeckerhoven",
+   "en": "Dieter Helsnicht and the Battle of Beeckerhoven",
+   "de": "Dieter Helsnicht und die Schlacht von Beeckerhoven"
+  },
+  "resume": {
+   "fr": "Démasqué comme nécromancien, Dieter Helsnicht fuit Middenheim pour la Forêt des Ombres, où il lève une grande armée de morts-vivants. Il écrase l'armée du comte de Nordland près du Lac des Malheurs. Une force coalisée de l'Empire et de Kislev le défait à Beeckerhoven, et sa manticore emporte son corps.",
+   "en": "Exposed as a Necromancer, Dieter Helsnicht flees Middenheim for the Forest of Shadows and raises a great Undead host there. He destroys the Count of Nordland's army by the Lake of Woes. A joint Imperial and Kislevite force beats him at Beeckerhoven, and his Manticore carries off his body.",
+   "de": "Als Nekromant entlarvt, flieht Dieter Helsnicht aus Middenheim in den Schattenwald und stellt dort ein großes Untotenheer auf. Am See des Leids vernichtet er die Armee des Grafen von Nordland. Eine vereinte Streitmacht des Imperiums und Kislevs schlägt ihn bei Beeckerhoven, und sein Mantikor trägt seinen Körper davon."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "middenheim"
+  ],
+  "factions": [
+   "vampires",
+   "empire",
+   "kislev"
+  ],
+  "importance": 2,
+  "fiabilite": "divergent",
+  "note": {
+   "fr": "La chronologie des vampires donne 1207 à 1244, alors que la page du personnage le situe à l'âge des Trois Empereurs.",
+   "en": "The Vampire timeline gives 1207 to 1244, while the character page places him in the Age of Three Emperors.",
+   "de": "Die Vampirchronik nennt 1207 bis 1244, die Figurenseite verortet ihn dagegen im Zeitalter der Drei Kaiser."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Vampire Counts, 8e édition",
+     "en": "Warhammer Armies: Vampire Counts, 8th edition",
+     "de": "Warhammer Armies: Vampire Counts, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 23",
+     "en": "p. 23",
+     "de": "S. 23"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Undead, 4e édition",
+     "en": "Warhammer Armies: Undead, 4th edition",
+     "de": "Warhammer Armies: Undead, 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 45-49",
+     "en": "pp. 45-49",
+     "de": "S. 45-49"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Vampire Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Vampire Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Vampire Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Vampire_Timeline"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Dieter Helsnicht",
+     "en": "Warhammer Fantasy Wiki (fandom), Dieter Helsnicht page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Dieter Helsnicht"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Dieter_Helsnicht"
+   },
+   {
+    "titre": {
+     "fr": "Middenheim: City of the White Wolf, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Middenheim: City of the White Wolf, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Middenheim: City of the White Wolf, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 6-11",
+     "en": "pp. 6-11",
+     "de": "S. 6-11"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Middenheim",
+     "en": "Warhammer Fantasy Wiki (fandom), Middenheim page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Middenheim"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Middenheim"
+   }
+  ]
+ },
+ {
+  "id": "masque-mortuaire-de-kharnut",
+  "annee": 1248,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Le masque mortuaire de Kharnut à Altdorf",
+   "en": "The Death Mask of Kharnut in Altdorf",
+   "de": "Die Totenmaske des Kharnut in Altdorf"
+  },
+  "resume": {
+   "fr": "Le comte Otto von Luitpold expose sa collection au musée d'Altdorf, dont le masque mortuaire d'or de Kharnut. Sa présence réveille une douzaine de Rois des tombes, qui conduisent leurs armées réunies jusqu'au cœur de l'Empire pour le reprendre.",
+   "en": "Count Otto von Luitpold puts his collection on show in the Altdorf museum, including the Golden Death Mask of Kharnut. Its presence wakes a dozen Tomb Kings, who lead their combined armies into the heart of the Empire to take it back.",
+   "de": "Graf Otto von Luitpold zeigt seine Sammlung im Museum von Altdorf, darunter die goldene Totenmaske des Kharnut. Ihre Gegenwart weckt ein Dutzend Gruftkönige, die ihre vereinten Heere bis ins Herz des Imperiums führen, um sie zurückzuholen."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "empire",
+   "sud"
+  ],
+  "lieux": [
+   "altdorf"
+  ],
+  "factions": [
+   "rois-des-tombes",
+   "empire"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "La source date l'événement de l'an 2375 du règne de Settra. L'année impériale reprend la conversion du wiki.",
+   "en": "The source dates this event to year 2375 of Settra's reign. The Imperial year follows the wiki's conversion.",
+   "de": "Die Quelle datiert das Ereignis auf das Jahr 2375 von Settras Herrschaft. Das imperiale Jahr folgt der Umrechnung des Wikis."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Tomb Kings, 8e édition",
+     "en": "Warhammer Armies: Tomb Kings, 8th edition",
+     "de": "Warhammer Armies: Tomb Kings, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 21",
+     "en": "p. 21",
+     "de": "S. 21"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Tomb Kings Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Tomb Kings Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Tomb Kings Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Tomb_Kings_Timeline"
+   },
+   {
+    "titre": {
+     "fr": "Empire in Ruins Companion, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Empire in Ruins Companion, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Empire in Ruins Companion, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 67",
+     "en": "p. 67",
+     "de": "S. 67"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Empire of Man Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Empire of Man Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Empire of Man Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Empire_of_Man_Timeline"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Altdorf",
+     "en": "Warhammer Fantasy Wiki (fandom), Altdorf page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Altdorf"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Altdorf"
+   }
+  ]
+ },
+ {
+  "id": "kerathop-ii-et-theuderic-de-fois",
+  "annee": 1416,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Kerathop II anéantit la quête de Theuderic de Fois",
+   "en": "Kerathop II destroys Theuderic de Fois's quest",
+   "de": "Kerathop II. vernichtet die Queste des Theuderic de Fois"
+  },
+  "resume": {
+   "fr": "Lors de la quatrième quête du duc Theuderic de Fois, le roi Kerathop II de Zandri se réveille et massacre les Bretonniens. Des années plus tard, un descendant du duc fait relever des hiéroglyphes sur l'obélisque au nord de Zandri, et le conservateur Allun Gartner, du musée d'Altdorf, confirme leur sort.",
+   "en": "During the Fourth Quest of Duke Theuderic de Fois, King Kerathop II of Zandri awakes and slaughters the Bretonnians. Years later a descendant of the duke has hieroglyphs copied from the obelisk north of Zandri, and curator Allun Gartner of the Altdorf Museum confirms their fate.",
+   "de": "Während der vierten Queste von Herzog Theuderic de Fois erwacht König Kerathop II. von Zandri und metzelt die Bretonen nieder. Jahre später lässt ein Nachfahre des Herzogs Hieroglyphen vom Obelisken nördlich von Zandri abnehmen, und der Kurator Allun Gartner vom Museum von Altdorf bestätigt ihr Schicksal."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "sud",
+   "bretonnie"
+  ],
+  "lieux": [
+   "zandri"
+  ],
+  "factions": [
+   "rois-des-tombes",
+   "bretonnie"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "La source date l'événement de l'an 2543 du règne de Settra. L'année impériale reprend la conversion du wiki.",
+   "en": "The source dates this event to year 2543 of Settra's reign. The Imperial year follows the wiki's conversion.",
+   "de": "Die Quelle datiert das Ereignis auf das Jahr 2543 von Settras Herrschaft. Das imperiale Jahr folgt der Umrechnung des Wikis."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "White Dwarf 277",
+     "en": "White Dwarf 277",
+     "de": "White Dwarf 277"
+    },
+    "detail": {
+     "fr": "p. 34-53",
+     "en": "pp. 34-53",
+     "de": "S. 34-53"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Tomb Kings Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Tomb Kings Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Tomb Kings Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Tomb_Kings_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "chevaliers-pantheres-en-araby",
+  "annee": 1450,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Les Chevaliers Panthères reviennent d'Araby",
+   "en": "The Knights Panther return from Araby",
+   "de": "Die Pantherritter kehren aus Araby zurück"
+  },
+  "resume": {
+   "fr": "Des chapitres des Chevaliers du Loup blanc et des Chevaliers Panthères s'illustrent dans les déserts d'Araby. À leur retour, un détachement de Panthères entre au service de la famille Todbringer de Middenheim, pour une raison restée secrète.",
+   "en": "Chapters of the Knights of the White Wolf and the Knights Panther win renown in the deserts of Araby. On their return, a detachment of Panthers enters the service of Middenheim's Todbringer family, for reasons that stay secret.",
+   "de": "Kapitel der Ritter des Weißen Wolfs und der Pantherritter erwerben sich in den Wüsten Arabys Ruhm. Nach ihrer Rückkehr tritt eine Abteilung der Pantherritter aus geheim gebliebenen Gründen in den Dienst der Familie Todbringer von Middenheim."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "sud",
+   "empire"
+  ],
+  "lieux": [
+   "araby",
+   "middenheim"
+  ],
+  "factions": [
+   "empire",
+   "humains-autres"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Middenheim: City of the White Wolf, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Middenheim: City of the White Wolf, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Middenheim: City of the White Wolf, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 14",
+     "en": "p. 14",
+     "de": "S. 14"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Arabyan Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Arabyan Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Arabyan Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Arabyan_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "horde-de-fer-a-zandri",
+  "annee": 1476,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Une horde vêtue de fer traverse Nehekhara",
+   "en": "An iron-clad horde crosses Nehekhara",
+   "de": "Eine eisengewandete Horde durchquert Nehekhara"
+  },
+  "resume": {
+   "fr": "Venue des terres d'Araby, une masse de guerriers en fer issus de tribus inconnues combat les Rois des tombes de Zandri sans marcher sur Khemri. Elle disparaît ensuite dans le désert, certains de ses membres emportant de l'or et des parchemins des prêtres liches.",
+   "en": "Coming out of the lands of Araby, a mass of iron-clad warriors from unknown tribes fights the Tomb Kings of Zandri without turning towards Khemri. It then vanishes into the wilderness, some of its number bearing off gold and scrolls of the Liche Priests.",
+   "de": "Aus den Landen von Araby kommend, kämpft eine Masse eisengewandeter Krieger unbekannter Stämme gegen die Gruftkönige von Zandri, ohne sich gegen Khemri zu wenden. Dann verschwindet sie in der Wildnis, und einige tragen Gold und Schriftrollen der Liche-Priester davon."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "sud"
+  ],
+  "lieux": [
+   "zandri"
+  ],
+  "factions": [
+   "rois-des-tombes",
+   "humains-autres"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "La source date l'événement de l'an 2603 du règne de Settra. L'année impériale reprend la conversion du wiki.",
+   "en": "The source dates this event to year 2603 of Settra's reign. The Imperial year follows the wiki's conversion.",
+   "de": "Die Quelle datiert das Ereignis auf das Jahr 2603 von Settras Herrschaft. Das imperiale Jahr folgt der Umrechnung des Wikis."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Tomb Kings, 6e édition",
+     "en": "Warhammer Armies: Tomb Kings, 6th edition",
+     "de": "Warhammer Armies: Tomb Kings, 6. Edition"
+    },
+    "detail": {
+     "fr": "p. 5-8",
+     "en": "pp. 5-8",
+     "de": "S. 5-8"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Tomb Kings Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Tomb Kings Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Tomb Kings Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Tomb_Kings_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "flotte-de-settra-1492",
+  "annee": 1492,
+  "fin": null,
+  "approx": true,
+  "titre": {
+   "fr": "La flotte de Settra reprend la mer",
+   "en": "Settra's fleet puts to sea again",
+   "de": "Settras Flotte sticht wieder in See"
+  },
+  "resume": {
+   "fr": "Pour venger la profanation de Zandri par les sorciers d'Araby, les Rois des tombes relancent leurs flottes funéraires. Un roi marin s'éveille et rassemble la flotte de Settra, au moment où les navires du Vieux Monde se ruent vers la Lustrie.",
+   "en": "To avenge the desecration of Zandri by the sorcerers of Araby, the Tomb Kings launch their tomb-fleets once more. A seafaring king awakes and gathers Settra's fleet just as Old World ships are rushing to Lustria.",
+   "de": "Um die Schändung Zandris durch die Zauberer von Araby zu rächen, setzen die Gruftkönige ihre Grabflotten wieder in Marsch. Ein seefahrender König erwacht und sammelt Settras Flotte, gerade als die Schiffe der Alten Welt nach Lustria drängen."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "sud"
+  ],
+  "lieux": [
+   "zandri"
+  ],
+  "factions": [
+   "rois-des-tombes"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "La source ne date pas ce réveil. Le wiki le rattache à la ruée de 1492 vers la Lustrie.",
+   "en": "The source gives no date for this awakening. The wiki ties it to the rush to Lustria of 1492.",
+   "de": "Die Quelle datiert dieses Erwachen nicht. Das Wiki verbindet es mit dem Ansturm auf Lustria von 1492."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "White Dwarf 305",
+     "en": "White Dwarf 305",
+     "de": "White Dwarf 305"
+    },
+    "detail": {
+     "fr": "p. 22 et 33",
+     "en": "pp. 22 and 33",
+     "de": "S. 22 und 33"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Tomb Kings Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Tomb Kings Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Tomb Kings Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Tomb_Kings_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "derniers-chevaliers-quittent-l-araby",
+  "annee": 1550,
+  "fin": null,
+  "approx": true,
+  "titre": {
+   "fr": "Les derniers chevaliers quittent l'Araby",
+   "en": "The last knights leave Araby",
+   "de": "Die letzten Ritter verlassen Araby"
+  },
+  "resume": {
+   "fr": "Les derniers chevaliers, enrichis par les croisades, s'en vont d'Araby. Leur départ met fin de fait à l'invasion de ces terres du sud.",
+   "en": "The last of the knights, enriched by the crusades, depart from Araby. Their going ends the invasion of the southern land in practice.",
+   "de": "Die letzten, durch die Kreuzzüge reich gewordenen Ritter ziehen aus Araby ab. Damit endet die Invasion des südlichen Landes faktisch."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "sud"
+  ],
+  "lieux": [
+   "araby"
+  ],
+  "factions": [
+   "humains-autres",
+   "empire",
+   "bretonnie"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Core Rulebook, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Core Rulebook, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Core Rulebook, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 274",
+     "en": "p. 274",
+     "de": "S. 274"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Arabyan Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Arabyan Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Arabyan Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Arabyan_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "dodvakt-de-skeggi",
+  "annee": 1681,
+  "fin": null,
+  "approx": true,
+  "titre": {
+   "fr": "La Dodvakt de Skeggi",
+   "en": "The Dodvakt of Skeggi",
+   "de": "Die Dodvakt von Skeggi"
+  },
+  "resume": {
+   "fr": "Renforcés par la Nuit des Morts sans repos, les pirates zombies de Luthor Harkon se répandent sur les mers de Lustrie. La colonie norse de Skeggi se dote d'une marine improvisée, qui porte encore le nom de Dodvakt, les Gardiens de la mort.",
+   "en": "Strengthened by the Night of the Restless Dead, Luthor Harkon's Zombie Pirates spread across the seas of Lustria. The Norse colony of Skeggi raises a makeshift navy, which still bears the name Dodvakt, the Deathkeepers.",
+   "de": "Durch die Nacht der ruhelosen Toten gestärkt, breiten sich Luthor Harkons Zombiepiraten über die Meere Lustrias aus. Die nordische Kolonie Skeggi stellt eine behelfsmäßige Flotte auf, die noch heute Dodvakt heißt, die Totenwächter."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "lustrie"
+  ],
+  "lieux": [
+   "skeggi",
+   "cote-des-vampires"
+  ],
+  "factions": [
+   "vampires",
+   "humains-autres"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Lustria, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Lustria, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Lustria, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 39",
+     "en": "p. 39",
+     "de": "S. 39"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Night of the Restless Dead",
+     "en": "Warhammer Fantasy Wiki (fandom), Night of the Restless Dead page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Night of the Restless Dead"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Night_of_the_Restless_Dead"
+   }
+  ]
+ },
+ {
+  "id": "helsnicht-a-salzenmund",
+  "annee": 1681,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Dieter Helsnicht frappe Salzenmund",
+   "en": "Dieter Helsnicht strikes Salzenmund",
+   "de": "Dieter Helsnicht trifft Salzenmund"
+  },
+  "resume": {
+   "fr": "Gorgé de la puissance de Shyish, Helsnicht apparaît à Salzenmund pendant la Nuit des Morts sans repos pour se venger des Moltke. Au matin, le dernier de la lignée, Einrich Moltke III, gît mort dans le château au milieu des dépouilles de ses ancêtres.",
+   "en": "Swollen with the power of Shyish, Helsnicht appears in Salzenmund during the Night of the Restless Dead to take revenge on the Moltkes. By morning the last of the line, Einrich Moltke III, lies dead in the castle among the bodies of his ancestors.",
+   "de": "Von der Macht Shyishs erfüllt, erscheint Helsnicht in der Nacht der ruhelosen Toten in Salzenmund, um sich an den Moltkes zu rächen. Am Morgen liegt der letzte des Hauses, Einrich Moltke III., tot in der Burg inmitten der Leichen seiner Ahnen."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "salzenmund"
+  ],
+  "factions": [
+   "vampires",
+   "empire"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Salzenmund: City of Salt and Silver, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Salzenmund: City of Salt and Silver, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Salzenmund: City of Salt and Silver, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 13, 71 et 110",
+     "en": "pp. 13, 71, 110",
+     "de": "S. 13, 71 und 110"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Night of the Restless Dead",
+     "en": "Warhammer Fantasy Wiki (fandom), Night of the Restless Dead page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Night of the Restless Dead"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Night_of_the_Restless_Dead"
+   }
+  ]
+ },
+ {
+  "id": "independance-de-la-sylvanie",
+  "annee": 1681,
+  "fin": null,
+  "approx": true,
+  "titre": {
+   "fr": "La Sylvanie achète son indépendance",
+   "en": "Sylvania buys its independence",
+   "de": "Sylvanien erkauft seine Unabhängigkeit"
+  },
+  "resume": {
+   "fr": "Habitués aux morts-vivants, les Sylvaniens traversent la Nuit des Morts sans repos mieux que le Stirland ravagé, certains allant jusqu'à opposer nécromancie à nécromancie. Dans le chaos qui suit, ils monnayent leur aide à la reconstruction contre leur indépendance.",
+   "en": "Used to the Undead, the Sylvanians come through the Night of the Restless Dead better than ravaged Stirland, some even setting necromancy against necromancy. In the chaos that follows, they trade their help in the recovery for independence.",
+   "de": "An Untote gewöhnt, überstehen die Sylvanier die Nacht der ruhelosen Toten besser als das verwüstete Stirland, manche setzen gar Nekromantie gegen Nekromantie. Im folgenden Chaos tauschen sie ihre Hilfe beim Wiederaufbau gegen die Unabhängigkeit ein."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [],
+  "factions": [
+   "empire"
+  ],
+  "importance": 2,
+  "fiabilite": "etabli",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Night's Dark Masters, Warhammer Fantasy Roleplay 2e édition",
+     "en": "Night's Dark Masters, Warhammer Fantasy Roleplay 2nd edition",
+     "de": "Night's Dark Masters, Warhammer Fantasy Roleplay 2. Edition"
+    },
+    "detail": {
+     "fr": "p. 84-85",
+     "en": "pp. 84-85",
+     "de": "S. 84-85"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2e édition",
+     "en": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2nd edition",
+     "de": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2. Edition"
+    },
+    "detail": {
+     "fr": "p. 17",
+     "en": "p. 17",
+     "de": "S. 17"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Night of the Restless Dead",
+     "en": "Warhammer Fantasy Wiki (fandom), Night of the Restless Dead page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Night of the Restless Dead"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Night_of_the_Restless_Dead"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Sylvania",
+     "en": "Warhammer Fantasy Wiki (fandom), Sylvania page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Sylvania"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Sylvania"
+   }
+  ]
+ },
+ {
+  "id": "nuit-des-morts-sans-repos",
+  "annee": 1681,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "La Nuit des Morts sans repos",
+   "en": "The Night of the Restless Dead",
+   "de": "Die Nacht der ruhelosen Toten"
+  },
+  "resume": {
+   "fr": "Mille six cent soixante-six ans après sa défaite face à Sigmar, Nagash revient à la vie et, pendant une nuit, les morts se lèvent dans tout le monde connu. Des milliers de tombes se vident, des villages et des villes tombent et de nombreux vampires sortent de l'ombre pour étendre leurs domaines. Tout cesse à l'aube, sans explication.",
+   "en": "One thousand six hundred and sixty-six years after his defeat by Sigmar, Nagash returns to life, and for one night the dead rise across the Known World. Thousands of graves empty, villages and towns fall, and many Vampires leave hiding to enlarge their domains. It all ends at sunrise, without explanation.",
+   "de": "Eintausendsechshundertsechsundsechzig Jahre nach seiner Niederlage gegen Sigmar kehrt Nagash ins Leben zurück, und eine Nacht lang erheben sich in der ganzen bekannten Welt die Toten. Tausende Gräber leeren sich, Dörfer und Städte fallen, und viele Vampire verlassen ihr Versteck, um ihre Gebiete zu erweitern. Bei Sonnenaufgang endet alles ohne Erklärung."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "empire",
+   "bretonnie",
+   "tilee-estalie"
+  ],
+  "lieux": [
+   "ubersreik",
+   "bogenhafen",
+   "middenheim"
+  ],
+  "factions": [
+   "vampires",
+   "empire",
+   "bretonnie",
+   "humains-autres"
+  ],
+  "importance": 2,
+  "fiabilite": "etabli",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Vampire Counts, 8e édition",
+     "en": "Warhammer Armies: Vampire Counts, 8th edition",
+     "de": "Warhammer Armies: Vampire Counts, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 23",
+     "en": "p. 23",
+     "de": "S. 23"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Bretonnia, 6e édition",
+     "en": "Warhammer Armies: Bretonnia, 6th edition",
+     "de": "Warhammer Armies: Bretonnia, 6. Edition"
+    },
+    "detail": {
+     "fr": "p. 39",
+     "en": "p. 39",
+     "de": "S. 39"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Vampire Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Vampire Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Vampire Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Vampire_Timeline"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Night of the Restless Dead",
+     "en": "Warhammer Fantasy Wiki (fandom), Night of the Restless Dead page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Night of the Restless Dead"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Night_of_the_Restless_Dead"
+   },
+   {
+    "titre": {
+     "fr": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2e édition",
+     "en": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2nd edition",
+     "de": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2. Edition"
+    },
+    "detail": {
+     "fr": "p. 21",
+     "en": "p. 21",
+     "de": "S. 21"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Enemy in Shadows, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Enemy in Shadows, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Enemy in Shadows, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 116-117",
+     "en": "pp. 116-117",
+     "de": "S. 116-117"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Salzenmund: City of Salt and Silver, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Salzenmund: City of Salt and Silver, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Salzenmund: City of Salt and Silver, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 9",
+     "en": "p. 9",
+     "de": "S. 9"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Empire of Man Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Empire of Man Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Empire of Man Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Empire_of_Man_Timeline"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Bögenhafen",
+     "en": "Warhammer Fantasy Wiki (fandom), Bögenhafen page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Bögenhafen"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/B%C3%B6genhafen"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Nordland",
+     "en": "Warhammer Fantasy Wiki (fandom), Nordland page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Nordland"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Nordland"
+   },
+   {
+    "titre": {
+     "fr": "Up in Arms, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Up in Arms, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Up in Arms, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "pp. 57-60",
+     "en": "pp. 57-60",
+     "de": "S. 57-60"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Bretonnian Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Bretonnian Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Bretonnian Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Bretonnian_Timeline"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Tilean Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Tilean Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Tilean Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Tilean_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "duc-rouge-libere-1932",
+  "annee": 1932,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Retour du Duc Rouge en Aquitaine",
+   "en": "The Red Duke returns to Aquitaine",
+   "de": "Rückkehr des Roten Herzogs nach Aquitaine"
+  },
+  "resume": {
+   "fr": "Délivré par ses disciples, le Duc Rouge reprend la guerre contre l'Aquitaine. Il est à nouveau vaincu au champ de Ceren et se réfugie dans la forêt de Châlons.",
+   "en": "Freed by his disciples, the Red Duke takes up war against Aquitaine once more. He is again defeated at Ceren Field and flees to the sanctuary of the Forest of Châlons.",
+   "de": "Von seinen Jüngern befreit, nimmt der Rote Herzog den Krieg gegen Aquitaine wieder auf. Erneut wird er auf dem Feld von Ceren geschlagen und flieht in den Wald von Châlons."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "bretonnie"
+  ],
+  "lieux": [
+   "aquitaine"
+  ],
+  "factions": [
+   "vampires",
+   "bretonnie"
+  ],
+  "importance": 2,
+  "fiabilite": "etabli",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Night's Dark Masters, Warhammer Fantasy Roleplay 2e édition",
+     "en": "Night's Dark Masters, Warhammer Fantasy Roleplay 2nd edition",
+     "de": "Night's Dark Masters, Warhammer Fantasy Roleplay 2. Edition"
+    },
+    "detail": {
+     "fr": "p. 33",
+     "en": "p. 33",
+     "de": "S. 33"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Vampire Counts, 8e édition",
+     "en": "Warhammer Armies: Vampire Counts, 8th edition",
+     "de": "Warhammer Armies: Vampire Counts, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 23",
+     "en": "p. 23",
+     "de": "S. 23"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Vampire Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Vampire Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Vampire Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Vampire_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "vlad-et-la-pierre-distordue-de-mordheim",
+  "annee": 2000,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Vlad récolte la pierre distordante de Mordheim",
+   "en": "Vlad gathers the Warpstone of Mordheim",
+   "de": "Vlad sammelt den Warpstein von Mordheim"
+  },
+  "resume": {
+   "fr": "Après la chute de la météorite sur Mordheim, Vlad von Carstein envoie ses agents dans les ruines pour rassembler des éclats de pierre distordante. Dix ans plus tard, cette réserve nourrit le sortilège par lequel il réveille les morts de Sylvanie.",
+   "en": "After the meteor falls on Mordheim, Vlad von Carstein sends his agents into the ruins to collect shards of Warpstone. Ten years later this hoard feeds the spell with which he wakes the dead of Sylvania.",
+   "de": "Nach dem Meteoriteneinschlag in Mordheim schickt Vlad von Carstein seine Agenten in die Ruinen, um Warpsteinsplitter zu sammeln. Zehn Jahre später speist dieser Vorrat den Zauber, mit dem er die Toten Sylvaniens erweckt."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "mordheim",
+   "drakenhof"
+  ],
+  "factions": [
+   "vampires"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Vampire Counts, 8e édition",
+     "en": "Warhammer Armies: Vampire Counts, 8th edition",
+     "de": "Warhammer Armies: Vampire Counts, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 11 et 23",
+     "en": "pp. 11, 23",
+     "de": "S. 11 und 23"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Vampire Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Vampire Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Vampire Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Vampire_Timeline"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Vampire Wars",
+     "en": "Warhammer Fantasy Wiki (fandom), Vampire Wars page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Vampire Wars"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Vampire_Wars"
+   }
+  ]
+ },
+ {
+  "id": "bataille-du-gue-d-essen",
+  "annee": 2010,
+  "fin": null,
+  "approx": true,
+  "titre": {
+   "fr": "Bataille du gué d'Essen",
+   "en": "Battle of Essen Ford",
+   "de": "Schlacht an der Essener Furt"
+  },
+  "resume": {
+   "fr": "Vlad écrase l'armée de Talabecland d'Ottilia III au gué d'Essen et relève les prisonniers exécutés. Fou de rage, le général Hans Schliffen lui prend son épée et le décapite avant d'être mis en pièces par Konrad. Le soir même, Vlad reparaît et tue le baron Herman Posner, qui avait pris sa place.",
+   "en": "Vlad destroys Ottilia III's Talabecland army at Essen Ford and raises the executed prisoners. In a berserk fury General Hans Schliffen seizes his sword and beheads him before Konrad tears him apart. That same night Vlad reappears and kills Baron Herman Posner, who had taken his place.",
+   "de": "Vlad vernichtet Ottilias III. Armee aus Talabecland an der Essener Furt und erweckt die hingerichteten Gefangenen. In blinder Wut entreißt ihm General Hans Schliffen das Schwert und enthauptet ihn, bevor Konrad den General zerfetzt. Noch in derselben Nacht erscheint Vlad wieder und tötet Baron Herman Posner, der seinen Platz eingenommen hatte."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [],
+  "factions": [
+   "vampires",
+   "empire"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "La source situe la bataille au début de la première guerre des Comtes vampires, sans année propre.",
+   "en": "The source places the battle at the start of the First Vampire War, without a year of its own.",
+   "de": "Die Quelle verortet die Schlacht zu Beginn des Ersten Vampirkriegs, ohne eigenes Jahr."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Vampire Counts, 8e édition",
+     "en": "Warhammer Armies: Vampire Counts, 8th edition",
+     "de": "Warhammer Armies: Vampire Counts, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 12",
+     "en": "p. 12",
+     "de": "S. 12"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Vampire Wars",
+     "en": "Warhammer Fantasy Wiki (fandom), Vampire Wars page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Vampire Wars"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Vampire_Wars"
+   }
+  ]
+ },
+ {
+  "id": "vlad-et-jerek-kruger",
+  "annee": 2014,
+  "fin": 2015,
+  "approx": false,
+  "titre": {
+   "fr": "Vlad tue Jerek Kruger devant Middenheim",
+   "en": "Vlad slays Jerek Kruger before Middenheim",
+   "de": "Vlad tötet Jerek Kruger vor Middenheim"
+  },
+  "resume": {
+   "fr": "À Schwartzhafen, Jerek Kruger, grand maître des Chevaliers du Loup blanc, abat Vlad et son armée est battue. Moins d'un an plus tard, le vampire revient, le corps exsangue de Kruger est retrouvé au pied du piton de Middenheim et ses chevaliers sont massacrés ou dispersés.",
+   "en": "At Schwartzhafen, Jerek Kruger, Grand Master of the Knights of the White Wolf, cuts Vlad down and his army is beaten. Within a year the Vampire is back, Kruger's bloodless body is found at the foot of the Middenheim spire, and his knights are butchered or scattered.",
+   "de": "Bei Schwartzhafen erschlägt Jerek Kruger, Großmeister der Ritter des Weißen Wolfs, Vlad, und sein Heer wird geschlagen. Binnen eines Jahres kehrt der Vampir zurück, Krugers blutleerer Leichnam wird am Fuß des Felsens von Middenheim gefunden, und seine Ritter werden niedergemetzelt oder versprengt."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "middenheim"
+  ],
+  "factions": [
+   "vampires",
+   "empire"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Vampire Counts, 8e édition",
+     "en": "Warhammer Armies: Vampire Counts, 8th edition",
+     "de": "Warhammer Armies: Vampire Counts, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 12 et 23",
+     "en": "pp. 12, 23",
+     "de": "S. 12 und 23"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Vampire Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Vampire Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Vampire Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Vampire_Timeline"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Vampire Wars",
+     "en": "Warhammer Fantasy Wiki (fandom), Vampire Wars page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Vampire Wars"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Vampire_Wars"
+   }
+  ]
+ },
+ {
+  "id": "settra-ecrase-numas-2024",
+  "annee": 2024,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Settra écrase les rebelles de Numas",
+   "en": "Settra crushes the rebels of Numas",
+   "de": "Settra zerschlägt die Rebellen von Numas"
+  },
+  "resume": {
+   "fr": "Settra marche sur Numas avec toute son armée et renverse les Rois des tombes rebelles avant qu'ils ne sortent de leurs caveaux. Il fait rapporter à Khemri les pierres arrachées jadis à sa Grande Pyramide, qui retrouve son état d'origine.",
+   "en": "Settra marches on Numas with his whole army and overthrows the rebel Tomb Kings before they leave their vaults. He has the stones once taken from his Great Pyramid carried back to Khemri, and the monument is fully restored.",
+   "de": "Settra zieht mit seinem ganzen Heer gegen Numas und stürzt die aufständischen Gruftkönige, noch ehe sie ihre Grabkammern verlassen. Die einst aus seiner Großen Pyramide gebrochenen Steine lässt er nach Khemri zurückbringen, und das Bauwerk wird vollständig wiederhergestellt."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "sud"
+  ],
+  "lieux": [
+   "numas",
+   "khemri"
+  ],
+  "factions": [
+   "rois-des-tombes"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "La source date l'événement de l'an 3151 du règne de Settra. L'année impériale reprend la conversion du wiki.",
+   "en": "The source dates this event to year 3151 of Settra's reign. The Imperial year follows the wiki's conversion.",
+   "de": "Die Quelle datiert das Ereignis auf das Jahr 3151 von Settras Herrschaft. Das imperiale Jahr folgt der Umrechnung des Wikis."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Tomb Kings, 6e édition",
+     "en": "Warhammer Armies: Tomb Kings, 6th edition",
+     "de": "Warhammer Armies: Tomb Kings, 6. Edition"
+    },
+    "detail": {
+     "fr": "p. 5-8",
+     "en": "pp. 5-8",
+     "de": "S. 5-8"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Tomb Kings Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Tomb Kings Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Tomb Kings Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Tomb_Kings_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "felix-mann-vole-l-anneau-de-vlad",
+  "annee": 2051,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Felix Mann vole l'Anneau de Vlad",
+   "en": "Felix Mann steals Vlad's ring",
+   "de": "Felix Mann stiehlt Vlads Ring"
+  },
+  "resume": {
+   "fr": "Pendant le siège d'Altdorf, le Grand Théogoniste Wilhelm III charge le voleur Felix Mann de dérober l'anneau de Vlad dans son pavillon. Privé de cet anneau, le vampire ne se relève pas quand Wilhelm l'entraîne du haut des remparts. Isabella se tue ensuite de chagrin sur un pieu.",
+   "en": "During the siege of Altdorf, Grand Theogonist Wilhelm III sets the thief Felix Mann to steal Vlad's ring from his pavilion. Without it the Vampire does not rise again when Wilhelm drags him from the battlements. Isabella then kills herself on a stake in her grief.",
+   "de": "Während der Belagerung von Altdorf beauftragt Großtheogonist Wilhelm III. den Dieb Felix Mann, Vlads Ring aus dessen Zelt zu stehlen. Ohne ihn steht der Vampir nicht wieder auf, als Wilhelm ihn von den Zinnen reißt. Isabella pfählt sich daraufhin aus Gram selbst."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "altdorf"
+  ],
+  "factions": [
+   "vampires",
+   "empire"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Vampire Counts, 8e édition",
+     "en": "Warhammer Armies: Vampire Counts, 8th edition",
+     "de": "Warhammer Armies: Vampire Counts, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 13",
+     "en": "p. 13",
+     "de": "S. 13"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Vampire Wars",
+     "en": "Warhammer Fantasy Wiki (fandom), Vampire Wars page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Vampire Wars"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Vampire_Wars"
+   }
+  ]
+ },
+ {
+  "id": "panique-vampirique-a-nuln",
+  "annee": 2056,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Panique vampirique à Nuln",
+   "en": "Vampire panic in Nuln",
+   "de": "Vampirpanik in Nuln"
+  },
+  "resume": {
+   "fr": "Une série de morts parmi les nobles de Nuln est imputée aux morts-vivants. La panique entraîne la décapitation de plusieurs innocents.",
+   "en": "A string of deaths among the nobles of Nuln is blamed on the Undead. The panic leads to the beheading of several innocents.",
+   "de": "Eine Reihe von Todesfällen unter den Adligen von Nuln wird den Untoten zugeschrieben. Die Panik führt zur Enthauptung mehrerer Unschuldiger."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "nuln"
+  ],
+  "factions": [
+   "empire",
+   "vampires"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Night's Dark Masters, Warhammer Fantasy Roleplay 2e édition",
+     "en": "Night's Dark Masters, Warhammer Fantasy Roleplay 2nd edition",
+     "de": "Night's Dark Masters, Warhammer Fantasy Roleplay 2. Edition"
+    },
+    "detail": {
+     "fr": "p. 33",
+     "en": "p. 33",
+     "de": "S. 33"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Vampire Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Vampire Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Vampire Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Vampire_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "fritz-et-pieter-von-carstein",
+  "annee": 2057,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Fritz et Pieter von Carstein tentent leur chance",
+   "en": "Fritz and Pieter von Carstein make their bid",
+   "de": "Fritz und Pieter von Carstein greifen an"
+  },
+  "resume": {
+   "fr": "Pour s'imposer parmi les héritiers de Vlad, Fritz assiège Middenheim et Pieter assiège Nuln. Une flèche à pointe d'argent met fin à Fritz, tandis que Pieter, plus redoutable, tombe sous les coups de Helmut van Hel, descendant de Vanhel.",
+   "en": "To prove themselves among Vlad's heirs, Fritz besieges Middenheim and Pieter besieges Nuln. A silver-tipped arrow ends Fritz, while the more dangerous Pieter falls to Helmut van Hel, a descendant of Vanhel.",
+   "de": "Um sich unter Vlads Erben zu behaupten, belagert Fritz Middenheim und Pieter Nuln. Ein silberbeschlagener Pfeil beendet Fritz, der gefährlichere Pieter fällt durch Helmut van Hel, einen Nachfahren Vanhels."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "middenheim",
+   "nuln"
+  ],
+  "factions": [
+   "vampires",
+   "empire"
+  ],
+  "importance": 2,
+  "fiabilite": "divergent",
+  "note": {
+   "fr": "Night's Dark Masters tue Pieter pendant sa campagne contre Nuln, le livre d'armée dans son cercueil, de la main du répurgateur Helmut van Hal.",
+   "en": "Night's Dark Masters has Pieter die during his campaign against Nuln, the army book in his coffin, at the hand of the Witch Hunter Helmut van Hal.",
+   "de": "Night's Dark Masters lässt Pieter während seines Feldzugs gegen Nuln sterben, das Armeebuch in seinem Sarg durch den Hexenjäger Helmut van Hal."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Night's Dark Masters, Warhammer Fantasy Roleplay 2e édition",
+     "en": "Night's Dark Masters, Warhammer Fantasy Roleplay 2nd edition",
+     "de": "Night's Dark Masters, Warhammer Fantasy Roleplay 2. Edition"
+    },
+    "detail": {
+     "fr": "p. 33",
+     "en": "p. 33",
+     "de": "S. 33"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Vampire Counts, 8e édition",
+     "en": "Warhammer Armies: Vampire Counts, 8th edition",
+     "de": "Warhammer Armies: Vampire Counts, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 13",
+     "en": "p. 13",
+     "de": "S. 13"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Vampire Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Vampire Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Vampire Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Vampire_Timeline"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Vampire Wars",
+     "en": "Warhammer Fantasy Wiki (fandom), Vampire Wars page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Vampire Wars"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Vampire_Wars"
+   }
+  ]
+ },
+ {
+  "id": "bataille-de-nachthafen",
+  "annee": 2058,
+  "fin": 2121,
+  "approx": true,
+  "titre": {
+   "fr": "Harkon tue le roi de Zhufbar à Nachthafen",
+   "en": "Harkon slays the King of Zhufbar at Nachthafen",
+   "de": "Harkon tötet den König von Zhufbar bei Nachthafen"
+  },
+  "resume": {
+   "fr": "Provoqués par les raids de Konrad, les Nains de Zhufbar entrent en Sylvanie et le rencontrent à Nachthafen. Konrad tue leurs maîtres des runes, puis désigne Walach Harkon pour relever le défi de leur roi. Harkon le tue et les Nains périssent jusqu'au dernier.",
+   "en": "Provoked by Konrad's raids, the Dwarfs of Zhufbar enter Sylvania and meet him at Nachthafen. Konrad kills their Runesmiths, then names Walach Harkon to answer their king's challenge. Harkon slays him and the Dwarfs perish to the last.",
+   "de": "Durch Konrads Überfälle gereizt, ziehen die Zwerge von Zhufbar nach Sylvanien und stellen ihn bei Nachthafen. Konrad tötet ihre Runenschmiede und benennt dann Walach Harkon, um die Forderung ihres Königs anzunehmen. Harkon erschlägt ihn, und die Zwerge fallen bis auf den letzten Mann."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "zhufbar"
+  ],
+  "factions": [
+   "vampires",
+   "nains"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "La source place la bataille dans la deuxième guerre des Comtes vampires, de 2058 à 2121, sans année propre.",
+   "en": "The source places the battle in the Second Vampire War, 2058 to 2121, without a year of its own.",
+   "de": "Die Quelle verortet die Schlacht im Zweiten Vampirkrieg von 2058 bis 2121, ohne eigenes Jahr."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Vampire Counts, 8e édition",
+     "en": "Warhammer Armies: Vampire Counts, 8th edition",
+     "de": "Warhammer Armies: Vampire Counts, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 14",
+     "en": "p. 14",
+     "de": "S. 14"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Vampire Wars",
+     "en": "Warhammer Fantasy Wiki (fandom), Vampire Wars page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Vampire Wars"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Vampire_Wars"
+   }
+  ]
+ },
+ {
+  "id": "konrad-dans-le-moot-hans-a-drakenhof",
+  "annee": 2058,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Konrad contre Hans von Carstein",
+   "en": "Konrad against Hans von Carstein",
+   "de": "Konrad gegen Hans von Carstein"
+  },
+  "resume": {
+   "fr": "Konrad von Carstein ravage plusieurs villages du Moot à la tête d'une armée de revenants. Il rentre en hâte quand Hans s'installe à Drakenhof et revendique la Sylvanie, puis le provoque en querelle, le tue et le découpe.",
+   "en": "Konrad von Carstein ravages several villages of the Moot at the head of an army of Wights. He hurries home when Hans settles in Drakenhof and claims Sylvania, then picks a quarrel with him, kills him and cuts him to pieces.",
+   "de": "Konrad von Carstein verwüstet an der Spitze eines Heeres von Grabunholden mehrere Dörfer im Mootland. Als Hans in Drakenhof einzieht und Sylvanien beansprucht, eilt er zurück, beginnt einen Streit, tötet ihn und zerstückelt ihn."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "drakenhof"
+  ],
+  "factions": [
+   "vampires",
+   "empire"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "La source date de 2058 le retour de Konrad. Le meurtre de Hans n'a pas de date propre, son rattachement à cette année est une déduction.",
+   "en": "The source dates Konrad's return to 2058. Hans's murder has no date of its own, and placing it in this year is a deduction.",
+   "de": "Die Quelle datiert Konrads Rückkehr auf 2058. Der Mord an Hans hat kein eigenes Datum, seine Einordnung in dieses Jahr ist eine Schlussfolgerung."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Vampire Counts, 8e édition",
+     "en": "Warhammer Armies: Vampire Counts, 8th edition",
+     "de": "Warhammer Armies: Vampire Counts, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 13 et 23",
+     "en": "pp. 13, 23",
+     "de": "S. 13 und 23"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Vampire Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Vampire Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Vampire Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Vampire_Timeline"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Vampire Wars",
+     "en": "Warhammer Fantasy Wiki (fandom), Vampire Wars page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Vampire Wars"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Vampire_Wars"
+   }
+  ]
+ },
+ {
+  "id": "mannfred-quitte-la-sylvanie",
+  "annee": 2094,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Mannfred disparaît, Konrad règne",
+   "en": "Mannfred vanishes, Konrad rules",
+   "de": "Mannfred verschwindet, Konrad herrscht"
+  },
+  "resume": {
+   "fr": "Mannfred von Carstein quitte la Sylvanie pour le sud et laisse Konrad seul maître du comté. Pendant ce sanglant règne, il se rend en Terre des Morts pour y étudier la nécromancie et en rapporte une bibliothèque occulte.",
+   "en": "Mannfred von Carstein leaves Sylvania for the south and abandons the county to Konrad alone. During that bloody reign he journeys to the Land of the Dead to study necromancy and brings back a library of dark lore.",
+   "de": "Mannfred von Carstein verlässt Sylvanien gen Süden und überlässt die Grafschaft Konrad allein. Während dessen blutiger Herrschaft reist er ins Land der Toten, studiert die Nekromantie und bringt eine Bibliothek dunklen Wissens zurück."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "empire",
+   "sud"
+  ],
+  "lieux": [
+   "drakenhof",
+   "nehekhara"
+  ],
+  "factions": [
+   "vampires"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Vampire Counts, 8e édition",
+     "en": "Warhammer Armies: Vampire Counts, 8th edition",
+     "de": "Warhammer Armies: Vampire Counts, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 14 et 23",
+     "en": "pp. 14, 23",
+     "de": "S. 14 und 23"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Vampire Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Vampire Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Vampire Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Vampire_Timeline"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Vampire Wars",
+     "en": "Warhammer Fantasy Wiki (fandom), Vampire Wars page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Vampire Wars"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Vampire_Wars"
+   }
+  ]
+ },
+ {
+  "id": "bataille-des-quatre-armees",
+  "annee": 2100,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Bataille des Quatre Armées et faux candidat zombie",
+   "en": "Battle of Four Armies and the Zombie candidate",
+   "de": "Schlacht der Vier Heere und der Zombie-Kandidat"
+  },
+  "resume": {
+   "fr": "Unis contre Konrad, les prétendants livrent devant Middenheim une bataille indécise, où Lutwik et Ottilia IV se font assassiner mutuellement. Le conclave d'Averheim allait élire Helmut de Marienburg quand sa peau se détache sous les yeux des comtes. C'est un zombie aux ordres de Konrad, qui se venge en mettant à sac le pays jusqu'aux Collines hurlantes.",
+   "en": "United against Konrad, the claimants fight an inconclusive battle outside Middenheim, in which Lutwik and Ottilia IV have each other assassinated. The conclave at Averheim is about to elect Helmut of Marienburg when his skin peels away before the counts. He is a Zombie under Konrad's control, who takes revenge by ravaging the land as far as the Howling Hills.",
+   "de": "Gegen Konrad vereint, schlagen die Thronanwärter vor Middenheim eine unentschiedene Schlacht, in der Lutwik und Ottilia IV. einander ermorden lassen. Das Konklave von Averheim will gerade Helmut von Marienburg wählen, als sich vor den Augen der Grafen seine Haut löst. Er ist ein Zombie unter Konrads Befehl, der sich rächt und das Land bis zu den Heulenden Hügeln verwüstet."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "middenheim",
+   "averheim"
+  ],
+  "factions": [
+   "vampires",
+   "empire"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Vampire Counts, 8e édition",
+     "en": "Warhammer Armies: Vampire Counts, 8th edition",
+     "de": "Warhammer Armies: Vampire Counts, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 14 et 23",
+     "en": "pp. 14, 23",
+     "de": "S. 14 und 23"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Vampire Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Vampire Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Vampire Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Vampire_Timeline"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Vampire Wars",
+     "en": "Warhammer Fantasy Wiki (fandom), Vampire Wars page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Vampire Wars"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Vampire_Wars"
+   },
+   {
+    "titre": {
+     "fr": "Core Rulebook, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Core Rulebook, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Core Rulebook, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 274",
+     "en": "p. 274",
+     "de": "S. 274"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Empire of Man Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Empire of Man Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Empire of Man Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Empire_of_Man_Timeline"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Emperor",
+     "en": "Warhammer Fantasy Wiki (fandom), Emperor page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Emperor"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Emperor"
+   }
+  ]
+ },
+ {
+  "id": "mannfred-seul-maitre-de-sylvanie",
+  "annee": 2122,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Mannfred, seul maître de Sylvanie",
+   "en": "Mannfred, sole master of Sylvania",
+   "de": "Mannfred, alleiniger Herr von Sylvanien"
+  },
+  "resume": {
+   "fr": "Mannfred rentre en Sylvanie et s'impose sans partage aux von Carstein. Il prend son temps et noue des alliances avec des vampires étrangers, dont la Sororité du Pic d'argent.",
+   "en": "Mannfred returns to Sylvania and takes undisputed rule over the von Carsteins. He bides his time and builds alliances with foreign Vampires, including the Sisterhood of Silver Pinnacle.",
+   "de": "Mannfred kehrt nach Sylvanien zurück und herrscht unangefochten über die von Carsteins. Er wartet ab und schmiedet Bündnisse mit fremden Vampiren, darunter die Schwesternschaft der Silberspitze."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "drakenhof",
+   "pic-d-argent"
+  ],
+  "factions": [
+   "vampires"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Vampire Counts, 8e édition",
+     "en": "Warhammer Armies: Vampire Counts, 8th edition",
+     "de": "Warhammer Armies: Vampire Counts, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 23",
+     "en": "p. 23",
+     "de": "S. 23"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Vampire Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Vampire Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Vampire Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Vampire_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "horstenbad-et-felph",
+  "annee": 2132,
+  "fin": 2145,
+  "approx": true,
+  "titre": {
+   "fr": "Le jeu du chat et de la souris, de Horstenbad à Felph",
+   "en": "Cat and mouse from Horstenbad to Felph",
+   "de": "Katz und Maus von Horstenbad bis Felph"
+  },
+  "resume": {
+   "fr": "L'armée d'Ostermark encercle Mannfred à Horstenbad et détruit près de la moitié de ses forces, mais il s'échappe et lève une nouvelle armée à Felph. Assiégé, il y déchaîne une tempête magique dont les victimes se relèvent contre leurs camarades. Il se replie ensuite en Sylvanie, où il écrase à Bylorhof les armées d'Averland et de Stirland.",
+   "en": "The army of Ostermark surrounds Mannfred at Horstenbad and destroys nearly half his force, but he escapes and raises a new army at Felph. Besieged there, he unleashes a magical storm whose victims rise against their comrades. He then falls back on Sylvania and smashes the armies of Averland and Stirland at Bylorhof.",
+   "de": "Das Heer von Ostermark kesselt Mannfred bei Horstenbad ein und vernichtet fast die Hälfte seiner Streitmacht, doch er entkommt und stellt bei Felph ein neues Heer auf. Dort belagert, entfesselt er einen magischen Sturm, dessen Opfer sich gegen ihre Kameraden erheben. Anschließend weicht er nach Sylvanien aus und zerschlägt bei Bylorhof die Heere von Averland und Stirland."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [],
+  "factions": [
+   "vampires",
+   "empire"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "La source raconte cette campagne entre 2132 et 2145 sans donner d'année précise.",
+   "en": "The source recounts this campaign between 2132 and 2145 without giving precise years.",
+   "de": "Die Quelle schildert diesen Feldzug zwischen 2132 und 2145 ohne genaue Jahreszahlen."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Vampire Counts, 8e édition",
+     "en": "Warhammer Armies: Vampire Counts, 8th edition",
+     "de": "Warhammer Armies: Vampire Counts, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 15",
+     "en": "p. 15",
+     "de": "S. 15"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Vampire Wars",
+     "en": "Warhammer Fantasy Wiki (fandom), Vampire Wars page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Vampire Wars"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Vampire_Wars"
+   }
+  ]
+ },
+ {
+  "id": "mannfred-devant-marienburg",
+  "annee": 2132,
+  "fin": null,
+  "approx": true,
+  "titre": {
+   "fr": "Mannfred devant Marienburg",
+   "en": "Mannfred before Marienburg",
+   "de": "Mannfred vor Marienburg"
+  },
+  "resume": {
+   "fr": "Repoussé d'Altdorf, Mannfred descend la Reik et s'empare de navires qu'il arme de leurs équipages relevés d'entre les morts. Il assiège Marienburg, mais l'approche d'une armée venue d'Altdorf l'oblige à lever le camp.",
+   "en": "Repulsed from Altdorf, Mannfred follows the Reik and seizes vessels, manning them with their reanimated crews. He besieges Marienburg, but the approach of an army from Altdorf forces him to withdraw.",
+   "de": "Vor Altdorf zurückgeschlagen, zieht Mannfred die Reik hinab und kapert Schiffe, die er mit ihren wiederbelebten Besatzungen bemannt. Er belagert Marienburg, doch das Nahen eines Heeres aus Altdorf zwingt ihn zum Abzug."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "marienburg"
+  ],
+  "factions": [
+   "vampires",
+   "empire"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Vampire Counts, 8e édition",
+     "en": "Warhammer Armies: Vampire Counts, 8th edition",
+     "de": "Warhammer Armies: Vampire Counts, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 14-15",
+     "en": "pp. 14-15",
+     "de": "S. 14-15"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Vampire Wars",
+     "en": "Warhammer Fantasy Wiki (fandom), Vampire Wars page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Vampire Wars"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Vampire_Wars"
+   }
+  ]
+ },
+ {
+  "id": "purification-de-la-sylvanie",
+  "annee": 2158,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "La Purification de la Sylvanie",
+   "en": "The Cleansing of Sylvania",
+   "de": "Die Säuberung Sylvaniens"
+  },
+  "resume": {
+   "fr": "Gottlieb le Sévère conduit des répurgateurs à travers la Sylvanie pour empêcher tout retour des von Carstein. Ils éliminent quantité de collaborateurs présumés, ce qui ancre chez les Sylvaniens le ressentiment envers l'Empire.",
+   "en": "Gottlieb the Stern leads Witch Hunters across Sylvania to prevent any return of the von Carsteins. They wipe out many supposed collaborators, which roots the Sylvanians' resentment of the Empire.",
+   "de": "Gottlieb der Strenge führt Hexenjäger durch Sylvanien, um jede Rückkehr der von Carsteins zu verhindern. Sie merzen viele vermeintliche Kollaborateure aus, was den Groll der Sylvanier gegen das Imperium festigt."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [],
+  "factions": [
+   "empire",
+   "vampires"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Night's Dark Masters, Warhammer Fantasy Roleplay 2e édition",
+     "en": "Night's Dark Masters, Warhammer Fantasy Roleplay 2nd edition",
+     "de": "Night's Dark Masters, Warhammer Fantasy Roleplay 2. Edition"
+    },
+    "detail": {
+     "fr": "p. 84-91",
+     "en": "pp. 84-91",
+     "de": "S. 84-91"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Vampire Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Vampire Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Vampire Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Vampire_Timeline"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Sylvania",
+     "en": "Warhammer Fantasy Wiki (fandom), Sylvania page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Sylvania"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Sylvania"
+   }
+  ]
+ },
+ {
+  "id": "croisade-de-carrard-septhah",
+  "annee": 2276,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "La croisade du baron Carrard contre Septhah",
+   "en": "Baron Carrard's crusade against Septhah",
+   "de": "Der Kreuzzug von Baron Carrard gegen Septhah"
+  },
+  "resume": {
+   "fr": "Le baron Cyricus Carrard de Quenelles conduit ses chevaliers au cœur de la Terre des Morts pour détruire le roi Septhah l'Amarantin, qui le tue. Refoulés dans les Terres arides, les survivants abattent Septhah sur les hauteurs dominant le Golfe Noir. Cette perte et le pillage de ses terres décident Settra à conquérir les Royaumes frontaliers.",
+   "en": "Baron Cyricus Carrard of Quenelles leads his knights into the heart of the Land of the Dead to destroy King Septhah the Amaranthine, who strikes him down. Driven back into the Badlands, the survivors slay Septhah on the heights above the Black Gulf. This loss and the plunder of his lands decide Settra to conquer the Border Princes.",
+   "de": "Baron Cyricus Carrard von Quenelles führt seine Ritter ins Herz des Landes der Toten, um König Septhah den Amaranthinen zu vernichten, der ihn erschlägt. In die Ödlande zurückgedrängt, töten die Überlebenden Septhah auf den Höhen über dem Schwarzen Golf. Dieser Verlust und die Plünderung seines Landes bewegen Settra zur Eroberung der Grenzfürstentümer."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "sud",
+   "terres-arides",
+   "bretonnie"
+  ],
+  "lieux": [
+   "quenelles"
+  ],
+  "factions": [
+   "bretonnie",
+   "rois-des-tombes"
+  ],
+  "importance": 2,
+  "fiabilite": "etabli",
+  "note": {
+   "fr": "La source date l'événement de l'an 3403 du règne de Settra. L'année impériale reprend la conversion du wiki.",
+   "en": "The source dates this event to year 3403 of Settra's reign. The Imperial year follows the wiki's conversion.",
+   "de": "Die Quelle datiert das Ereignis auf das Jahr 3403 von Settras Herrschaft. Das imperiale Jahr folgt der Umrechnung des Wikis."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer: The Old World, Arcane Journal: Kingdom of Bretonnia",
+     "en": "Warhammer: The Old World, Arcane Journal: Kingdom of Bretonnia",
+     "de": "Warhammer: The Old World, Arcane Journal: Kingdom of Bretonnia"
+    },
+    "detail": {
+     "fr": "p. 14-20",
+     "en": "pp. 14-20",
+     "de": "S. 14-20"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Warhammer: The Old World, Arcane Journal: The War of Settra's Fury",
+     "en": "Warhammer: The Old World, Arcane Journal: The War of Settra's Fury",
+     "de": "Warhammer: The Old World, Arcane Journal: The War of Settra's Fury"
+    },
+    "detail": {
+     "fr": "p. 2 et 12-17",
+     "en": "pp. 2, 12-17",
+     "de": "S. 2 und 12-17"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Tomb Kings Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Tomb Kings Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Tomb Kings Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Tomb_Kings_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "siege-de-louen-keep",
+  "annee": 2276,
+  "fin": null,
+  "approx": true,
+  "titre": {
+   "fr": "Cecil Gastonne tient Louen Keep face à Settra",
+   "en": "Cecil Gastonne holds Louen Keep against Settra",
+   "de": "Cecil Gastonne hält Louen Keep gegen Settra"
+  },
+  "resume": {
+   "fr": "Le chevalier exilé Cecil Gastonne, dit le Tueur de wyrm, cède Matorea et se replie dans sa forteresse de Louen Keep. Renforcé par le duc de Brionne, vainqueur du prince Ptolethor à la citadelle Bouelia, il retarde Settra de longs mois. Cela n'arrête pas les morts-vivants, dont les lieutenants poursuivent vers le nord pendant que les défenseurs des Royaumes frontaliers et les Nains se regroupent.",
+   "en": "The exiled knight Cecil Gastonne, called the Wyrm Slayer, gives up Matorea and falls back on his fortress of Louen Keep. Reinforced by the Duke of Brionne, who has beaten Prince Ptolethor at the Citadelle Bouelia, he stalls Settra for many months. This does not halt the Undead, whose lieutenants press north while the defenders of the Border Princes and the Dwarfs regroup.",
+   "de": "Der verbannte Ritter Cecil Gastonne, genannt der Wyrmtöter, gibt Matorea auf und zieht sich auf seine Festung Louen Keep zurück. Verstärkt durch den Herzog von Brionne, der Prinz Ptolethor bei der Citadelle Bouelia besiegt hat, hält er Settra viele Monate auf. Das stoppt die Untoten nicht. Seine Unterführer rücken nach Norden vor, während sich die Verteidiger der Grenzfürstentümer und die Zwerge neu sammeln."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "royaumes-frontaliers"
+  ],
+  "lieux": [],
+  "factions": [
+   "rois-des-tombes",
+   "bretonnie",
+   "humains-autres",
+   "nains"
+  ],
+  "importance": 2,
+  "fiabilite": "etabli",
+  "note": {
+   "fr": "La source date l'événement de l'an 3403 du règne de Settra. L'année impériale reprend la conversion du wiki.",
+   "en": "The source dates this event to year 3403 of Settra's reign. The Imperial year follows the wiki's conversion.",
+   "de": "Die Quelle datiert das Ereignis auf das Jahr 3403 von Settras Herrschaft. Das imperiale Jahr folgt der Umrechnung des Wikis."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer: The Old World, Arcane Journal: Kingdom of Bretonnia",
+     "en": "Warhammer: The Old World, Arcane Journal: Kingdom of Bretonnia",
+     "de": "Warhammer: The Old World, Arcane Journal: Kingdom of Bretonnia"
+    },
+    "detail": {
+     "fr": "p. 14-20",
+     "en": "pp. 14-20",
+     "de": "S. 14-20"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Warhammer: The Old World, Arcane Journal: The War of Settra's Fury",
+     "en": "Warhammer: The Old World, Arcane Journal: The War of Settra's Fury",
+     "de": "Warhammer: The Old World, Arcane Journal: The War of Settra's Fury"
+    },
+    "detail": {
+     "fr": "p. 2 et 12-17",
+     "en": "pp. 2, 12-17",
+     "de": "S. 2 und 12-17"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Tomb Kings Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Tomb Kings Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Tomb Kings Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Tomb_Kings_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "waldakir-rahtep-et-stefan-von-kessel",
+  "annee": 2304,
+  "fin": 2305,
+  "approx": false,
+  "titre": {
+   "fr": "Stefan von Kessel contre Waldakir Rahtep",
+   "en": "Stefan von Kessel against Waldakir Rahtep",
+   "de": "Stefan von Kessel gegen Waldakir Rahtep"
+  },
+  "resume": {
+   "fr": "Les forces d'Ostermark livrent plusieurs batailles aux hordes du nécrarque Waldakir Rahtep, engendré par W'soran. Le capitaine Stefan von Kessel et le frère Gunther, qui convoitent son épée tueuse de démons contre le comte corrompu Otto von Gruber, détruisent ses sarcophages enchantés et l'abattent dans son repaire.",
+   "en": "The forces of Ostermark fight several battles against the hordes of the Necrarch Waldakir Rahtep, a get of W'soran. Captain Stefan von Kessel and Brother Gunther, who want his Daemon-slaying sword against the corrupt Count Otto von Gruber, destroy his enchanted sarcophagi and kill him in his lair.",
+   "de": "Die Truppen von Ostermark liefern den Horden des von W'soran gezeugten Necrarchen Waldakir Rahtep mehrere Schlachten. Hauptmann Stefan von Kessel und Bruder Gunther, die sein dämonentötendes Schwert gegen den verderbten Grafen Otto von Gruber brauchen, zerstören seine verzauberten Sarkophage und erschlagen ihn in seinem Unterschlupf."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [],
+  "factions": [
+   "vampires",
+   "empire"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Vampire Counts, 8e édition",
+     "en": "Warhammer Armies: Vampire Counts, 8th edition",
+     "de": "Warhammer Armies: Vampire Counts, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 23",
+     "en": "p. 23",
+     "de": "S. 23"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Warhammer: Mark of Chaos (jeu vidéo)",
+     "en": "Warhammer: Mark of Chaos (PC game)",
+     "de": "Warhammer: Mark of Chaos (PC-Spiel)"
+    },
+    "detail": "",
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Vampire Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Vampire Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Vampire Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Vampire_Timeline"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Waldakir Rahtep",
+     "en": "Warhammer Fantasy Wiki (fandom), Waldakir Rahtep page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Waldakir Rahtep"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Waldakir_Rahtep"
+   }
+  ]
+ },
+ {
+  "id": "cargaison-de-grain-d-araby-disparue",
+  "annee": 2393,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Le grain d'Araby n'arrive pas en Tilée",
+   "en": "Araby's grain fails to reach Tilea",
+   "de": "Das Getreide aus Araby erreicht Tilea nicht"
+  },
+  "resume": {
+   "fr": "Un énorme chargement de grain parti d'Araby vers la Tilée ne parvient jamais à destination. On soupçonne une marine skaven, sans preuve.",
+   "en": "A huge shipment of grain bound from Araby to Tilea never reaches port. A Skaven navy is suspected, without proof.",
+   "de": "Eine gewaltige Getreideladung von Araby nach Tilea erreicht nie ihr Ziel. Man verdächtigt eine Skaven-Flotte, ohne Beweise."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "sud",
+   "tilee-estalie"
+  ],
+  "lieux": [
+   "araby"
+  ],
+  "factions": [
+   "humains-autres",
+   "skavens"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Skaven, 4e édition",
+     "en": "Warhammer Armies: Skaven, 4th edition",
+     "de": "Warhammer Armies: Skaven, 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 23",
+     "en": "p. 23",
+     "de": "S. 23"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Arabyan Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Arabyan Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Arabyan Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Arabyan_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "rumeurs-d-un-prophete-en-araby",
+  "annee": 2411,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Rumeurs d'un nouveau prophète en Araby",
+   "en": "Rumours of a new prophet in Araby",
+   "de": "Gerüchte über einen neuen Propheten in Araby"
+  },
+  "resume": {
+   "fr": "Le bruit d'un nouveau prophète arabien se répand dans le Vieux Monde. L'annonce d'une nouvelle guerre sainte enflamme de nombreux mercenaires tiléens.",
+   "en": "Word of a new Arabyan prophet spreads through the Old World. The prospect of another holy war fires many Tilean mercenaries.",
+   "de": "Die Kunde von einem neuen arabischen Propheten verbreitet sich in der Alten Welt. Die Aussicht auf einen weiteren heiligen Krieg begeistert viele tileanische Söldner."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "sud",
+   "tilee-estalie"
+  ],
+  "lieux": [
+   "araby"
+  ],
+  "factions": [
+   "humains-autres"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Up in Arms, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Up in Arms, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Up in Arms, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 57-60",
+     "en": "pp. 57-60",
+     "de": "S. 57-60"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Arabyan Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Arabyan Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Arabyan Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Arabyan_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "yuleh-prend-ras-karim",
+  "annee": 2500,
+  "fin": null,
+  "approx": true,
+  "titre": {
+   "fr": "La princesse Yuleh prend Ras Karim",
+   "en": "Princess Yuleh seizes Ras Karim",
+   "de": "Prinzessin Yuleh ergreift die Macht in Ras Karim"
+  },
+  "resume": {
+   "fr": "Yuleh it Toorissi et son amant Halim it Saredi, chef des rebelles, renversent à Ras Karim son cousin tyrannique Falhedar it Toorissi. Elle se proclame princesse régnante, avec le concours des aventuriers Gotrek et Felix.",
+   "en": "Yuleh it Toorissi and her lover Halim it Saredi, leader of the rebels, overthrow her tyrannical cousin Falhedar it Toorissi in Ras Karim. She proclaims herself ruling princess, with the help of the adventurers Gotrek and Felix.",
+   "de": "Yuleh it Toorissi und ihr Geliebter Halim it Saredi, Anführer der Rebellen, stürzen in Ras Karim ihren tyrannischen Vetter Falhedar it Toorissi. Mit Hilfe der Abenteurer Gotrek und Felix ruft sie sich zur regierenden Fürstin aus."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "sud"
+  ],
+  "lieux": [
+   "araby"
+  ],
+  "factions": [
+   "humains-autres"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Two Crowns of Ras Karim (roman de Nathan Long)",
+     "en": "Two Crowns of Ras Karim (novel by Nathan Long)",
+     "de": "Two Crowns of Ras Karim (Roman von Nathan Long)"
+    },
+    "detail": "",
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Arabyan Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Arabyan Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Arabyan Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Arabyan_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "sultan-de-copher-espionne-magritta",
+  "annee": 2502,
+  "fin": null,
+  "approx": true,
+  "titre": {
+   "fr": "Le sultan de Copher espionne les Chevaliers de Magritta",
+   "en": "The Sultan of Copher spies on the Knights of Magritta",
+   "de": "Der Sultan von Copher bespitzelt die Ritter von Magritta"
+  },
+  "resume": {
+   "fr": "Après la perte de plusieurs navires de sa flotte, le sultan de Copher fait surveiller les Chevaliers de Magritta. Le sorcier Shihab Ibn Alim dirige ses espions.",
+   "en": "After losing several ships of his fleet, the Sultan of Copher has the Knights of Magritta watched. The sorcerer Shihab Ibn Alim leads his spies.",
+   "de": "Nach dem Verlust mehrerer Schiffe seiner Flotte lässt der Sultan von Copher die Ritter von Magritta überwachen. Der Zauberer Shihab Ibn Alim führt seine Spione."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "sud",
+   "tilee-estalie"
+  ],
+  "lieux": [
+   "copher",
+   "magritta"
+  ],
+  "factions": [
+   "humains-autres"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Shades of the Empire, Warhammer Fantasy Roleplay 2e édition",
+     "en": "Shades of the Empire, Warhammer Fantasy Roleplay 2nd edition",
+     "de": "Shades of the Empire, Warhammer Fantasy Roleplay 2. Edition"
+    },
+    "detail": {
+     "fr": "p. 89-94",
+     "en": "pp. 89-94",
+     "de": "S. 89-94"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Arabyan Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Arabyan Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Arabyan Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Arabyan_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "tileens-pillent-zandri-2506",
+  "annee": 2506,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Des Tiléens pillent les tombes de Zandri",
+   "en": "Tileans raid the tombs of Zandri",
+   "de": "Tileaner plündern die Gräber von Zandri"
+  },
+  "resume": {
+   "fr": "Des aventuriers tiléens débarquent en quête d'or et forcent les tombes de la nécropole de Zandri. Les rois Behedesh et Memnesh IV les harcèlent sans relâche tant qu'ils restent sur la Terre des Morts.",
+   "en": "Tilean adventurers land in search of gold and break into the tombs of the necropolis of Zandri. Kings Behedesh and Memnesh IV harry them without pause for as long as they remain in the Land of the Dead.",
+   "de": "Tileanische Abenteurer landen auf der Suche nach Gold und brechen in die Gräber der Nekropole Zandri ein. Die Könige Behedesh und Memnesh IV. bedrängen sie unablässig, solange sie im Land der Toten bleiben."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "sud"
+  ],
+  "lieux": [
+   "zandri"
+  ],
+  "factions": [
+   "rois-des-tombes",
+   "humains-autres"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Le wiki associe 2506 à l'an 3656 de Settra et 2522 à l'an 3649, deux dates incohérentes entre elles.",
+   "en": "The wiki pairs 2506 with year 3656 of Settra and 2522 with year 3649, two dates that do not fit each other.",
+   "de": "Das Wiki setzt 2506 mit dem Jahr 3656 Settras und 2522 mit dem Jahr 3649 gleich, zwei Angaben, die nicht zusammenpassen."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Tomb Kings, 8e édition",
+     "en": "Warhammer Armies: Tomb Kings, 8th edition",
+     "de": "Warhammer Armies: Tomb Kings, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 21",
+     "en": "p. 21",
+     "de": "S. 21"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Tomb Kings Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Tomb Kings Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Tomb Kings Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Tomb_Kings_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "essaims-de-goules-au-stirland",
+  "annee": 2512,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Essaims de goules au Stirland",
+   "en": "Ghoul Swarms in Stirland",
+   "de": "Ghulschwärme in Stirland"
+  },
+  "resume": {
+   "fr": "Des essaims de goules s'abattent sur le Stirland et y répandent le fléau.",
+   "en": "Swarms of Ghouls descend on Stirland and blight the province.",
+   "de": "Ghulschwärme fallen über Stirland her und suchen die Provinz heim."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [],
+  "factions": [
+   "vampires",
+   "empire"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Vampire Counts, 8e édition",
+     "en": "Warhammer Armies: Vampire Counts, 8th edition",
+     "de": "Warhammer Armies: Vampire Counts, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 23",
+     "en": "p. 23",
+     "de": "S. 23"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Vampire Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Vampire Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Vampire Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Vampire_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "araby-assiegee-skavens-rois-des-tombes",
+  "annee": 2520,
+  "fin": 2523,
+  "approx": false,
+  "titre": {
+   "fr": "Araby prise entre Skavens et Rois des tombes",
+   "en": "Araby caught between Skaven and Tomb Kings",
+   "de": "Araby zwischen Skaven und Gruftkönigen"
+  },
+  "resume": {
+   "fr": "Après la Tilée et l'Estalie, les Skavens du Grand Soulèvement jaillissent de leurs tunnels et submergent des provinces entières d'Araby. Dans le même temps, les chars des Rois des tombes roulent vers les califats pour reprendre leurs anciens territoires. Araby reste ainsi assiégée jusqu'à la fin du monde.",
+   "en": "After Tilea and Estalia, the Skaven of the Great Uprising burst from their tunnels and overrun whole provinces of Araby. At the same time the chariots of the Tomb Kings roll towards the caliphates to reclaim their old territories. Araby stays under this double siege until the end of the world.",
+   "de": "Nach Tilea und Estalia brechen die Skaven des Großen Aufstands aus ihren Tunneln und überrennen ganze Provinzen Arabys. Zugleich rollen die Streitwagen der Gruftkönige auf die Kalifate zu, um ihre alten Gebiete zurückzufordern. So bleibt Araby bis zum Ende der Welt belagert."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "sud"
+  ],
+  "lieux": [
+   "araby"
+  ],
+  "factions": [
+   "skavens",
+   "rois-des-tombes",
+   "humains-autres"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "The Return of Nagash (roman de Josh Reynolds)",
+     "en": "The Return of Nagash (novel by Josh Reynolds)",
+     "de": "The Return of Nagash (Roman von Josh Reynolds)"
+    },
+    "detail": {
+     "fr": "prologue, chap. 4 et 11",
+     "en": "prologue, ch. 4 and 11",
+     "de": "Prolog, Kap. 4 und 11"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Arabyan Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Arabyan Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Arabyan Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Arabyan_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "gunther-stahlberg-disparait-a-drakenhof",
+  "annee": 2520,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Gunther Stahlberg disparaît à Drakenhof",
+   "en": "Gunther Stahlberg vanishes at Drakenhof",
+   "de": "Gunther Stahlberg verschwindet in Drakenhof"
+  },
+  "resume": {
+   "fr": "Alerté par des rumeurs d'activité au château de Drakenhof, le Grand Théogoniste Volkmar y dépêche le répurgateur Gunther Stahlberg. On n'entend plus jamais parler de lui.",
+   "en": "Alerted by rumours of activity at Drakenhof Castle, Grand Theogonist Volkmar sends the Witch Hunter Gunther Stahlberg to look into it. He is never heard from again.",
+   "de": "Durch Gerüchte über Umtriebe auf Burg Drakenhof gewarnt, entsendet Großtheogonist Volkmar den Hexenjäger Gunther Stahlberg. Man hört nie wieder von ihm."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "drakenhof"
+  ],
+  "factions": [
+   "vampires",
+   "empire"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Vampire Counts, 8e édition",
+     "en": "Warhammer Armies: Vampire Counts, 8th edition",
+     "de": "Warhammer Armies: Vampire Counts, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 23",
+     "en": "p. 23",
+     "de": "S. 23"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Vampire Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Vampire Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Vampire Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Vampire_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "grande-purge-de-settra",
+  "annee": 2522,
+  "fin": 2528,
+  "approx": false,
+  "titre": {
+   "fr": "La grande purge de Settra",
+   "en": "Settra's great purge",
+   "de": "Settras große Säuberung"
+  },
+  "resume": {
+   "fr": "Settra l'Impérissable lance sa grande purge et prépare une nouvelle ère de conquêtes, avec l'ambition d'étendre son royaume au monde connu tout entier. Les légions de Nehekhara se massent derrière lui, mais le retour de Nagash, préparé par Arkhan, ruine ce projet.",
+   "en": "Settra the Imperishable launches his great purge and prepares a new age of conquest, aiming to extend his realm over the whole Known World. The legions of Nehekhara mass behind him, but the return of Nagash, engineered by Arkhan, wrecks the plan.",
+   "de": "Settra der Unvergängliche beginnt seine große Säuberung und bereitet ein neues Zeitalter der Eroberung vor, um sein Reich über die gesamte bekannte Welt auszudehnen. Die Legionen Nehekharas sammeln sich hinter ihm, doch die von Arkhan betriebene Rückkehr Nagashs macht den Plan zunichte."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "sud"
+  ],
+  "lieux": [
+   "khemri"
+  ],
+  "factions": [
+   "rois-des-tombes"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "La source date l'événement de l'an 3649 du règne de Settra. L'année impériale reprend la conversion du wiki.",
+   "en": "The source dates this event to year 3649 of Settra's reign. The Imperial year follows the wiki's conversion.",
+   "de": "Die Quelle datiert das Ereignis auf das Jahr 3649 von Settras Herrschaft. Das imperiale Jahr folgt der Umrechnung des Wikis."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Tomb Kings, 8e édition",
+     "en": "Warhammer Armies: Tomb Kings, 8th edition",
+     "de": "Warhammer Armies: Tomb Kings, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 21",
+     "en": "p. 21",
+     "de": "S. 21"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Tomb Kings Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Tomb Kings Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Tomb Kings Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Tomb_Kings_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "jaego-roth-pille-zandri",
+  "annee": 2522,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Jaego Roth pille Zandri",
+   "en": "Jaego Roth raids Zandri",
+   "de": "Jaego Roth plündert Zandri"
+  },
+  "resume": {
+   "fr": "Le pirate sartosan Jaego Roth pille Zandri, puis gagne El-Khabbath en Araby, où cet or finance la Grande Alliance contre le comte Noctilus. Résolu à reprendre son trésor, le roi Amanhotep l'Intolérant le poursuit et va jusqu'à s'allier à la Flotte maudite.",
+   "en": "The Sartosan pirate Jaego Roth raids Zandri, then sails to El-Khabbath in Araby, where the gold pays for the Grand Alliance against Count Noctilus. Set on recovering his treasure, King Amanhotep the Intolerant pursues him and even allies with the Dreadfleet.",
+   "de": "Der sartosanische Pirat Jaego Roth plündert Zandri und segelt dann nach El-Khabbath in Araby, wo das Gold die Große Allianz gegen Graf Noctilus finanziert. Um seinen Schatz zurückzuerlangen, verfolgt ihn König Amanhotep der Unduldsame und verbündet sich sogar mit der Verfluchten Flotte."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "sud"
+  ],
+  "lieux": [
+   "zandri",
+   "araby",
+   "sartosa"
+  ],
+  "factions": [
+   "humains-autres",
+   "rois-des-tombes",
+   "vampires"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Le wiki associe 2522 à l'an 3649 de Settra, soit avant l'an 3656 qu'il donne pour 2506.",
+   "en": "The wiki pairs 2522 with year 3649 of Settra, earlier than the year 3656 it gives for 2506.",
+   "de": "Das Wiki setzt 2522 mit dem Jahr 3649 Settras gleich, also früher als das für 2506 genannte Jahr 3656."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Dreadfleet (roman de Phil Kelly)",
+     "en": "Dreadfleet (novel by Phil Kelly)",
+     "de": "Dreadfleet (Roman von Phil Kelly)"
+    },
+    "detail": {
+     "fr": "chap. 5",
+     "en": "ch. 5",
+     "de": "Kap. 5"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Tomb Kings Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Tomb Kings Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Tomb Kings Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Tomb_Kings_Timeline"
+   }
+  ]
+ }
+]

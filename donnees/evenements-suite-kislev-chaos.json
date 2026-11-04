@@ -1,0 +1,2339 @@
+[
+ {
+  "id": "avant-poste-elfe-sur-le-site-d-erengrad",
+  "annee": -3476,
+  "fin": null,
+  "approx": true,
+  "titre": {
+   "fr": "Un avant-poste elfe sur le site d'Erengrad",
+   "en": "An Elven outpost on the site of Erengrad",
+   "de": "Ein Elfenposten am Ort von Erengrad"
+  },
+  "resume": {
+   "fr": "La colonisation elfe du Vieux Monde atteint l'embouchure où s'élèvera Erengrad. Les Hauts Elfes ne s'installeront jamais plus loin au nord et à l'est, et il ne reste presque rien de ce comptoir.",
+   "en": "Elven colonisation of the Old World reaches the estuary where Erengrad will later stand. The High Elves never settle further north and east, and almost nothing of this post survives.",
+   "de": "Die elfische Besiedlung der Alten Welt erreicht die Mündung, an der später Erengrad liegen wird. Weiter nach Norden und Osten kommen die Hochelfen nie, und von diesem Posten ist fast nichts erhalten."
+  },
+  "ere": "grande-catastrophe",
+  "regions": [
+   "kislev"
+  ],
+  "lieux": [
+   "erengrad"
+  ],
+  "factions": [
+   "hauts-elfes"
+  ],
+  "importance": 1,
+  "fiabilite": "etabli",
+  "note": {
+   "fr": "Date de la source en calendrier gospodarin (-5000), convertie par elle en -3476 du Calendrier Impérial.",
+   "en": "The source dates this in the Gospodarin Calendar (-5000) and converts it to -3476 in the Imperial Calendar.",
+   "de": "Die Quelle datiert dies nach dem Gospodarin-Kalender (-5000) und rechnet es selbst in das Jahr -3476 des Imperialen Kalenders um."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Realm of the Ice Queen, Warhammer Fantasy Roleplay 2e édition (2007)",
+     "en": "Realm of the Ice Queen, Warhammer Fantasy Roleplay 2nd edition (2007)",
+     "de": "Realm of the Ice Queen, Warhammer Fantasy Roleplay 2. Edition (2007)"
+    },
+    "detail": {
+     "fr": "p. 18",
+     "en": "p. 18",
+     "de": "S. 18"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Something Rotten in Kislev, Warhammer Fantasy Roleplay 1re édition",
+     "en": "Something Rotten in Kislev, Warhammer Fantasy Roleplay 1st edition",
+     "de": "Something Rotten in Kislev, Warhammer Fantasy Roleplay 1. Edition"
+    },
+    "detail": {
+     "fr": "pp. 12-13",
+     "en": "pp. 12-13",
+     "de": "S. 12-13"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Kislev Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Kislev Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Kislev Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Kislev_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "gobelins-entre-lynsk-et-talabec",
+  "annee": -543,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Des Gobelins s'installent entre la Lynsk et le Haut-Talabec",
+   "en": "Goblins settle between the Lynsk and the Upper Talabec",
+   "de": "Goblins siedeln zwischen Lynsk und Oberem Talabec"
+  },
+  "resume": {
+   "fr": "Des tribus gobelines prennent pied dans les forêts qui séparent la Lynsk du Haut-Talabec, au sud du futur Kislev.",
+   "en": "Goblin tribes take hold of the forests that separate the Lynsk from the Upper Talabec, south of the future Kislev.",
+   "de": "Goblinstämme setzen sich in den Wäldern fest, die Lynsk und Oberen Talabec trennen, südlich des späteren Kislev."
+  },
+  "ere": "age-des-tribus",
+  "regions": [
+   "kislev"
+  ],
+  "lieux": [],
+  "factions": [
+   "peaux-vertes"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Date de la source en calendrier gospodarin (-2067), convertie par elle en -543 du Calendrier Impérial.",
+   "en": "The source dates this in the Gospodarin Calendar (-2067) and converts it to -543 in the Imperial Calendar.",
+   "de": "Die Quelle datiert dies nach dem Gospodarin-Kalender (-2067) und rechnet es selbst in das Jahr -543 des Imperialen Kalenders um."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Realm of the Ice Queen, Warhammer Fantasy Roleplay 2e édition (2007)",
+     "en": "Realm of the Ice Queen, Warhammer Fantasy Roleplay 2nd edition (2007)",
+     "de": "Realm of the Ice Queen, Warhammer Fantasy Roleplay 2. Edition (2007)"
+    },
+    "detail": {
+     "fr": "p. 18",
+     "en": "p. 18",
+     "de": "S. 18"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Kislev Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Kislev Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Kislev Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Kislev_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "ghular-festerhand-ravage-athel-loren",
+  "annee": -122,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Ghular Festerhand ravage Athel Loren",
+   "en": "Ghular Festerhand ravages Athel Loren",
+   "de": "Ghular Festerhand verwüstet Athel Loren"
+  },
+  "resume": {
+   "fr": "Le champion Ghular Festerhand dévaste la forêt d'Athel Loren. Les essaims de mouches qui précèdent son armée gênent le tir des archers elfes.",
+   "en": "The champion Ghular Festerhand lays waste to the forest of Athel Loren. The swarms of flies ahead of his army hamper the Elven archers.",
+   "de": "Der Champion Ghular Festerhand verwüstet den Wald von Athel Loren. Die Fliegenschwärme vor seinem Heer behindern die elfischen Bogenschützen."
+  },
+  "ere": "age-des-tribus",
+  "regions": [
+   "athel-loren"
+  ],
+  "lieux": [
+   "athel-loren"
+  ],
+  "factions": [
+   "chaos",
+   "elfes-sylvains"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Warriors of Chaos (8e édition)",
+     "en": "Warhammer Armies: Warriors of Chaos (8th edition)",
+     "de": "Warhammer Armies: Warriors of Chaos (8. Edition)"
+    },
+    "detail": {
+     "fr": "p. 14",
+     "en": "p. 14",
+     "de": "S. 14"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Warriors of Chaos Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Warriors of Chaos Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Warriors of Chaos Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Warriors_of_Chaos_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "ungols-et-roppsmenn-au-nord-de-l-urskoy",
+  "annee": -76,
+  "fin": null,
+  "approx": true,
+  "titre": {
+   "fr": "Ungols et Roppsmenn au nord de l'Urskoy",
+   "en": "Ungols and Roppsmenn north of the Urskoy",
+   "de": "Ungolen und Roppsmenn nördlich des Urskoy"
+  },
+  "resume": {
+   "fr": "Les nomades ungols et roppsmenn peuplent désormais les terres au nord de l'Urskoy. Avec les Teutogens, leurs voisins de l'ouest, on ne connaît guère que des raids de frontière et une paix de fait.",
+   "en": "The nomadic Ungols and Roppsmenn now people the lands north of the Urskoy. With the Teutogens, their western neighbours, relations amount to border raids and a de facto peace.",
+   "de": "Die nomadischen Ungolen und Roppsmenn bevölkern nun das Land nördlich des Urskoy. Mit den Teutogen, ihren westlichen Nachbarn, kommt es kaum zu mehr als Grenzüberfällen, sonst herrscht Frieden."
+  },
+  "ere": "age-des-tribus",
+  "regions": [
+   "kislev"
+  ],
+  "lieux": [],
+  "factions": [
+   "kislev",
+   "humains-autres"
+  ],
+  "importance": 2,
+  "fiabilite": "etabli",
+  "note": {
+   "fr": "Date de la source en calendrier gospodarin (-1600), convertie par elle en -76 du Calendrier Impérial.",
+   "en": "The source dates this in the Gospodarin Calendar (-1600) and converts it to -76 in the Imperial Calendar.",
+   "de": "Die Quelle datiert dies nach dem Gospodarin-Kalender (-1600) und rechnet es selbst in das Jahr -76 des Imperialen Kalenders um."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Realm of the Ice Queen, Warhammer Fantasy Roleplay 2e édition (2007)",
+     "en": "Realm of the Ice Queen, Warhammer Fantasy Roleplay 2nd edition (2007)",
+     "de": "Realm of the Ice Queen, Warhammer Fantasy Roleplay 2. Edition (2007)"
+    },
+    "detail": {
+     "fr": "p. 18",
+     "en": "p. 18",
+     "de": "S. 18"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Warhammer Chronicles 2004 (6e édition)",
+     "en": "Warhammer Chronicles 2004 (6th edition)",
+     "de": "Warhammer Chronicles 2004 (6. Edition)"
+    },
+    "detail": {
+     "fr": "p. 16",
+     "en": "p. 16",
+     "de": "S. 16"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Kislev Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Kislev Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Kislev Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Kislev_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "paix-entre-sigmar-et-les-ungols",
+  "annee": 1,
+  "fin": null,
+  "approx": true,
+  "titre": {
+   "fr": "La paix entre l'Empire naissant et les Ungols",
+   "en": "Peace between the newborn Empire and the Ungols",
+   "de": "Frieden zwischen dem jungen Imperium und den Ungolen"
+  },
+  "resume": {
+   "fr": "Sigmar soutient les Ungols contre les Orques des Montagnes du Bord du Monde, et les deux peuples combattent côte à côte au col du Feu Noir. Cette fraternité d'armes fonde la paix entre eux, qui ne cessera qu'à l'arrivée des Gospodars.",
+   "en": "Sigmar backs the Ungols against the Orcs of the Worlds Edge Mountains, and the two peoples fight side by side at Black Fire Pass. This comradeship founds a peace between them that lasts until the Gospodars arrive.",
+   "de": "Sigmar unterstützt die Ungolen gegen die Orks des Weltrandgebirges, und beide Völker kämpfen Seite an Seite am Schwarzfeuerpass. Diese Waffenbrüderschaft begründet einen Frieden, der bis zur Ankunft der Gospodaren hält."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "kislev",
+   "montagnes"
+  ],
+  "lieux": [
+   "col-du-feu-noir"
+  ],
+  "factions": [
+   "kislev",
+   "empire",
+   "peaux-vertes"
+  ],
+  "importance": 2,
+  "fiabilite": "etabli",
+  "note": {
+   "fr": "Date de la source en calendrier gospodarin (-1524), convertie par elle en 1 du Calendrier Impérial.",
+   "en": "The source dates this in the Gospodarin Calendar (-1524) and converts it to 1 in the Imperial Calendar.",
+   "de": "Die Quelle datiert dies nach dem Gospodarin-Kalender (-1524) und rechnet es selbst in das Jahr 1 des Imperialen Kalenders um."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Realm of the Ice Queen, Warhammer Fantasy Roleplay 2e édition (2007)",
+     "en": "Realm of the Ice Queen, Warhammer Fantasy Roleplay 2nd edition (2007)",
+     "de": "Realm of the Ice Queen, Warhammer Fantasy Roleplay 2. Edition (2007)"
+    },
+    "detail": {
+     "fr": "p. 18",
+     "en": "p. 18",
+     "de": "S. 18"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Warhammer Chronicles 2004 (6e édition)",
+     "en": "Warhammer Chronicles 2004 (6th edition)",
+     "de": "Warhammer Chronicles 2004 (6. Edition)"
+    },
+    "detail": {
+     "fr": "p. 16",
+     "en": "p. 16",
+     "de": "S. 16"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Kislev Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Kislev Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Kislev Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Kislev_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "raids-norses-sur-la-tilee",
+  "annee": 800,
+  "fin": null,
+  "approx": true,
+  "titre": {
+   "fr": "Les premiers drakkars norses en mer Tiléenne",
+   "en": "The first Norscan longships in the Tilean Sea",
+   "de": "Die ersten norsischen Langschiffe im Tileanischen Meer"
+  },
+  "resume": {
+   "fr": "Dès les années 800, les Norses pillent les côtes de Tilée, d'Estalie et d'Araby. Les Tiléens emploient comme mercenaires les bandes qu'ils encerclent, et un commerce naît, les chefs norses recherchant surtout les armes runiques naines. Les marchands tiléens achètent aussi leurs cartes, écrites sur peau de phoque et de morse.",
+   "en": "From the 800s, Norscans raid the coasts of Tilea, Estalia and Araby. The Tileans hire as mercenaries the bands they surround, and a trade grows up, with Norscan chiefs prizing Dwarf rune weapons above all. Tilean merchants also buy their maps, written on sealskin and walrus hide.",
+   "de": "Ab den 800er Jahren plündern Norsen die Küsten von Tilea, Estalia und Araby. Die Tileaner werben eingekesselte Banden als Söldner an, und es entsteht ein Handel, bei dem norsische Häuptlinge vor allem zwergische Runenwaffen begehren. Tileanische Kaufleute erwerben auch ihre Karten auf Robben- und Walrosshaut."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "tilee-estalie",
+   "norsca"
+  ],
+  "lieux": [],
+  "factions": [
+   "humains-autres"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Dogs of War (5e édition)",
+     "en": "Warhammer Armies: Dogs of War (5th edition)",
+     "de": "Warhammer Armies: Dogs of War (5. Edition)"
+    },
+    "detail": {
+     "fr": "pp. 84-88",
+     "en": "pp. 84-88",
+     "de": "S. 84-88"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Norsca",
+     "en": "Warhammer Fantasy Wiki (fandom), Norsca page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Norsca"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Norsca"
+   }
+  ]
+ },
+ {
+  "id": "bretons-du-nord-isoles-par-les-norses",
+  "annee": 947,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Les tribus bretonni du nord submergées",
+   "en": "The northern Bretonni tribes overrun",
+   "de": "Die nördlichen Bretonnistämme werden überrannt"
+  },
+  "resume": {
+   "fr": "Le nord de la future Bretonnie est envahi par les Peaux-vertes et par les hommes-bêtes sortis de la forêt d'Arden. Les raids norses commencent alors sur la côte, isolent les tribus bretonni les unes des autres et ruinent leurs terres.",
+   "en": "The north of the future Bretonnia is overrun by Greenskins and by Beastmen from the Forest of Arden. Norscan raids then begin on the coast, cutting the Bretonni tribes off from each other and ruining their lands.",
+   "de": "Der Norden des späteren Bretonia wird von Grünhäuten und von Tiermenschen aus dem Wald von Arden überrannt. An der Küste beginnen zugleich norsische Raubzüge, die die Bretonnistämme voneinander abschneiden und ihr Land verwüsten."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "bretonnie"
+  ],
+  "lieux": [],
+  "factions": [
+   "bretonnie",
+   "chaos",
+   "peaux-vertes",
+   "humains-autres"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Bretonnia (6e édition)",
+     "en": "Warhammer Armies: Bretonnia (6th edition)",
+     "de": "Warhammer Armies: Bretonnia (6. Edition)"
+    },
+    "detail": {
+     "fr": "p. 38",
+     "en": "p. 38",
+     "de": "S. 38"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Beastmen Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Beastmen Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Beastmen Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Beastmen_Timeline"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Norsca",
+     "en": "Warhammer Fantasy Wiki (fandom), Norsca page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Norsca"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Norsca"
+   }
+  ]
+ },
+ {
+  "id": "bataille-de-la-lande-d-ostwald",
+  "annee": 955,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "La bataille de la lande d'Ostwald",
+   "en": "The Battle of Ostwald Moor",
+   "de": "Die Schlacht im Ostwald-Moor"
+  },
+  "resume": {
+   "fr": "Une armée du Chaos d'une taille inédite affronte les forces réunies de l'Ostland, du Nordland et du Hochland. L'invasion est arrêtée, mais les pertes sont telles que des tertres d'ossements percent encore la lande.",
+   "en": "A Chaos army of unprecedented size meets the combined forces of Ostland, Nordland and Hochland. The invasion is stopped, but the losses are such that mounds of bone still jut from the moor.",
+   "de": "Ein Chaosheer von nie gesehener Größe trifft auf die vereinten Kräfte von Ostland, Nordland und Hochland. Die Invasion wird aufgehalten, doch die Verluste sind so hoch, dass noch heute Knochenhügel aus dem Moor ragen."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [],
+  "factions": [
+   "chaos",
+   "empire"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Warriors of Chaos (7e édition)",
+     "en": "Warhammer Armies: Warriors of Chaos (7th edition)",
+     "de": "Warhammer Armies: Warriors of Chaos (7. Edition)"
+    },
+    "detail": {
+     "fr": "p. 39",
+     "en": "p. 39",
+     "de": "S. 39"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Warriors of Chaos Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Warriors of Chaos Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Warriors of Chaos Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Warriors_of_Chaos_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "citadelles-d-infernius-et-black-rock",
+  "annee": 1000,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Les citadelles d'Infernius et de Black Rock",
+   "en": "The citadels of Infernius and Black Rock",
+   "de": "Die Zitadellen von Infernius und Black Rock"
+  },
+  "resume": {
+   "fr": "Deux grandes citadelles du Chaos, Infernius et Black Rock, sont élevées dans les Désolations.",
+   "en": "Two great Chaos citadels, Infernius and Black Rock, are raised in the Chaos Wastes.",
+   "de": "Zwei große Chaoszitadellen, Infernius und Black Rock, werden in der Chaoswüste errichtet."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "desolations"
+  ],
+  "lieux": [],
+  "factions": [
+   "chaos"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Warriors of Chaos (8e édition)",
+     "en": "Warhammer Armies: Warriors of Chaos (8th edition)",
+     "de": "Warhammer Armies: Warriors of Chaos (8. Edition)"
+    },
+    "detail": {
+     "fr": "p. 14",
+     "en": "p. 14",
+     "de": "S. 14"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Warriors of Chaos Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Warriors of Chaos Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Warriors of Chaos Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Warriors_of_Chaos_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "norses-quittent-marienburg-peste-noire",
+  "annee": 1111,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "La Peste noire chasse les Norses de Marienburg",
+   "en": "The Black Plague drives the Norscans from Marienburg",
+   "de": "Der Schwarze Tod vertreibt die Norsen aus Marienburg"
+  },
+  "resume": {
+   "fr": "La Peste noire frappe Marienburg occupée. Devant un ennemi qu'ils ne peuvent pas tuer, les Norses de la ville abandonnent leur conquête et rentrent chez eux.",
+   "en": "The Black Plague strikes occupied Marienburg. Faced with an enemy they cannot kill, the city's Norscans abandon their conquest and sail home.",
+   "de": "Der Schwarze Tod trifft das besetzte Marienburg. Gegen diesen Feind, den sie nicht töten können, geben die Norsen der Stadt ihre Eroberung auf und segeln heim."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "empire",
+   "norsca"
+  ],
+  "lieux": [
+   "marienburg"
+  ],
+  "factions": [
+   "humains-autres",
+   "empire"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Norsca",
+     "en": "Warhammer Fantasy Wiki (fandom), Norsca page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Norsca"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Norsca"
+   }
+  ]
+ },
+ {
+  "id": "gharad-le-boeuf-a-maulwurfbad",
+  "annee": 1119,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Gharad le Bœuf à Maulwurfbad",
+   "en": "Gharad the Ox at Maulwurfbad",
+   "de": "Gharad der Ochse in Maulwurfbad"
+  },
+  "resume": {
+   "fr": "Le champion Gharad le Bœuf tue en duel le comte électeur Wulfgang von Greihardt à Maulwurfbad et fait de son crâne une coupe. Étonné d'avoir été acclamé par les femmes de la ville, il repart sans la détruire.",
+   "en": "The champion Gharad the Ox kills Elector Count Wulfgang von Greihardt in a duel at Maulwurfbad and makes his skull a drinking cup. Puzzled and pleased to have been cheered by the town's women, he leaves it standing.",
+   "de": "Der Champion Gharad der Ochse tötet Kurfürst Wulfgang von Greihardt in Maulwurfbad im Duell und macht dessen Schädel zum Trinkgefäß. Verwundert, dass ihm die Frauen der Stadt zujubelten, zieht er ab, ohne sie zu zerstören."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [],
+  "factions": [
+   "chaos",
+   "empire"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Warriors of Chaos (7e édition)",
+     "en": "Warhammer Armies: Warriors of Chaos (7th edition)",
+     "de": "Warhammer Armies: Warriors of Chaos (7. Edition)"
+    },
+    "detail": {
+     "fr": "p. 39",
+     "en": "p. 39",
+     "de": "S. 39"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Warriors of Chaos Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Warriors of Chaos Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Warriors of Chaos Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Warriors_of_Chaos_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "kartok-ecrase-le-comte-faulk",
+  "annee": 1265,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Kartok Grande-Corne écrase le comte Faulk",
+   "en": "Kartok Great-horn crushes Count Faulk",
+   "de": "Kartok Großhorn vernichtet Graf Faulk"
+  },
+  "resume": {
+   "fr": "Le comte électeur Faulk du Middenland tente de reprendre le Drakwald pour rallier des soutiens. Le seigneur des bêtes Kartok Grande-Corne unit plus de trente hardes et anéantit son armée dès la quatrième semaine, sans un survivant. Kartok est plus tard tué en duel par Urgorgoth, qui lui prend sa harde.",
+   "en": "Elector Count Faulk of Middenland tries to retake the Drakwald to rally support. Beastlord Kartok Great-horn unites over thirty warherds and wipes out his army in its fourth week, leaving no survivors. Kartok is later killed in a challenge by Urgorgoth, who takes his herd.",
+   "de": "Kurfürst Faulk von Middenland will den Drakwald zurückerobern, um Anhänger zu gewinnen. Der Tierfürst Kartok Großhorn vereint über dreißig Kriegsherden und vernichtet sein Heer in der vierten Woche bis auf den letzten Mann. Später tötet Urgorgoth Kartok im Zweikampf und übernimmt die Herde."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "foret-de-drakwald"
+  ],
+  "factions": [
+   "chaos",
+   "empire"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Beastmen (6e édition)",
+     "en": "Warhammer Armies: Beastmen (6th edition)",
+     "de": "Warhammer Armies: Beastmen (6. Edition)"
+    },
+    "detail": {
+     "fr": "p. 11",
+     "en": "p. 11",
+     "de": "S. 11"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Beastmen Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Beastmen Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Beastmen Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Beastmen_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "ku-gath-et-u-zhul-en-bretonnie",
+  "annee": 1401,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Ku'gath et U'Zhul en Bretonnie",
+   "en": "Ku'gath and U'Zhul in Bretonnia",
+   "de": "Ku'gath und U'Zhul in Bretonia"
+  },
+  "resume": {
+   "fr": "Le Grand Immonde Ku'gath Plaguefather s'allie à U'Zhul, héraut de Khorne, et ravage le cœur de la Bretonnie. Sire Gryff d'Everbyl lève les paysans de cinquante villages et renvoie les Démons dans le royaume du Chaos.",
+   "en": "The Great Unclean One Ku'gath Plaguefather joins U'Zhul, Herald of Khorne, and devastates the Bretonnian heartland. Sir Gryff of Everbyl raises the peasants of fifty villages and banishes the Daemons to the Realm of Chaos.",
+   "de": "Der Große Verpester Ku'gath Plaguefather verbündet sich mit U'Zhul, dem Herold des Khorne, und verwüstet das bretonische Kernland. Sir Gryff von Everbyl bietet die Bauern von fünfzig Dörfern auf und verbannt die Dämonen ins Reich des Chaos."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "bretonnie"
+  ],
+  "lieux": [],
+  "factions": [
+   "chaos",
+   "bretonnie"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Daemons of Chaos (7e édition)",
+     "en": "Warhammer Armies: Daemons of Chaos (7th edition)",
+     "de": "Warhammer Armies: Daemons of Chaos (7. Edition)"
+    },
+    "detail": {
+     "fr": "pp. 27-29",
+     "en": "pp. 27-29",
+     "de": "S. 27-29"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Daemons of Chaos Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Daemons of Chaos Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Daemons of Chaos Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Daemons_of_Chaos_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "vygo-et-le-clan-mors-a-vogelstraushof",
+  "annee": 1412,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Vygo et le clan Mors à Vogelstraushof",
+   "en": "Vygo and Clan Mors at Vogelstraushof",
+   "de": "Vygo und der Klan Mors in Vogelstraushof"
+  },
+  "resume": {
+   "fr": "Le clan Mors et le champion Vygo Trois-Fois-Souillé s'unissent pour piller Vogelstraushof. La moitié de la ville s'effondre dans les tunnels skavens, et les hommes-rats se retournent alors contre leurs alliés pour garder la cité.",
+   "en": "Clan Mors and the champion Vygo Thrice-Tainted join forces to sack Vogelstraushof. Half the city collapses into the Skaven tunnels, and the ratmen then turn on their allies and keep the city.",
+   "de": "Der Klan Mors und der Champion Vygo der Dreifach Verderbte plündern gemeinsam Vogelstraushof. Die halbe Stadt stürzt in die Skaventunnel, worauf die Rattenmenschen über ihre Verbündeten herfallen und die Stadt behalten."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [],
+  "factions": [
+   "chaos",
+   "skavens",
+   "empire"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Warriors of Chaos (7e édition)",
+     "en": "Warhammer Armies: Warriors of Chaos (7th edition)",
+     "de": "Warhammer Armies: Warriors of Chaos (7. Edition)"
+    },
+    "detail": {
+     "fr": "p. 40",
+     "en": "p. 40",
+     "de": "S. 40"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Warriors of Chaos Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Warriors of Chaos Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Warriors of Chaos Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Warriors_of_Chaos_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "calendrier-gospodarin",
+  "annee": 1524,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Shoika instaure le calendrier gospodarin",
+   "en": "Shoika establishes the Gospodarin Calendar",
+   "de": "Shoika führt den Gospodarin-Kalender ein"
+  },
+  "resume": {
+   "fr": "La tsarine Shoika fait compter les années à partir de la naissance du nouveau royaume. L'an 1 de ce calendrier gospodarin correspond à 1524 du Calendrier Impérial.",
+   "en": "Tzarina Shoika has the years counted from the birth of the new kingdom. Year 1 of this Gospodarin Calendar matches 1524 in the Imperial Calendar.",
+   "de": "Zarin Shoika lässt die Jahre ab der Geburt des neuen Königreichs zählen. Jahr 1 dieses Gospodarin-Kalenders entspricht 1524 des Imperialen Kalenders."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "kislev"
+  ],
+  "lieux": [
+   "kislev"
+  ],
+  "factions": [
+   "kislev"
+  ],
+  "importance": 2,
+  "fiabilite": "divergent",
+  "note": {
+   "fr": "La chronologie du wiki fait coïncider l'an 1 avec 1524, tandis que sa page Kislev date de 1527 le début de la capitale et le titre de tsarine. La date retenue est celle de la chronologie.",
+   "en": "The wiki's chronology makes year 1 match 1524, while its Kislev page dates the start of the capital and the title of Tzarina to 1527. The date used is the chronology's.",
+   "de": "Die Chronologie des Wikis setzt Jahr 1 mit 1524 gleich, seine Seite Kislev datiert den Baubeginn der Hauptstadt und den Zarinnentitel dagegen auf 1527. Verwendet wird das Datum der Chronologie."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Realm of the Ice Queen, Warhammer Fantasy Roleplay 2e édition (2007)",
+     "en": "Realm of the Ice Queen, Warhammer Fantasy Roleplay 2nd edition (2007)",
+     "de": "Realm of the Ice Queen, Warhammer Fantasy Roleplay 2. Edition (2007)"
+    },
+    "detail": {
+     "fr": "pp. 16-21",
+     "en": "pp. 16-21",
+     "de": "S. 16-21"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Kislev",
+     "en": "Warhammer Fantasy Wiki (fandom), Kislev page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Kislev"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Kislev"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Kislev Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Kislev Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Kislev Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Kislev_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "miska-disparait-vers-le-nord",
+  "annee": 1524,
+  "fin": null,
+  "approx": true,
+  "titre": {
+   "fr": "Miska disparaît dans le nord",
+   "en": "Miska vanishes into the north",
+   "de": "Miska verschwindet im Norden"
+  },
+  "resume": {
+   "fr": "Disant avoir vu un avenir où son peuple aurait de nouveau besoin d'elle, la khan-reine Miska confie son épée Fearfrost à sa fille Shoika. Elle part vers le nord avec ses guerriers les plus sûrs et ne revient jamais.",
+   "en": "Claiming a vision of a future in which her people would need her again, Khan-Queen Miska hands her sword Fearfrost to her daughter Shoika. She rides north with her most trusted warriors and never returns.",
+   "de": "Khan-Königin Miska berichtet von einer Vision, in der ihr Volk sie wieder brauchen wird, und übergibt ihr Schwert Fearfrost ihrer Tochter Shoika. Mit ihren treuesten Kriegern reitet sie nach Norden und kehrt nie zurück."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "kislev"
+  ],
+  "lieux": [],
+  "factions": [
+   "kislev"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Départ sans date dans la source. Il précède forcément l'année 1524, où la chronologie montre Shoika au pouvoir.",
+   "en": "The source gives no date for the departure. It must precede 1524, when the chronology shows Shoika in power.",
+   "de": "Die Quelle nennt kein Datum für den Aufbruch. Er muss vor 1524 liegen, denn für dieses Jahr zeigt die Chronologie Shoika an der Macht."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Realm of the Ice Queen, Warhammer Fantasy Roleplay 2e édition (2007)",
+     "en": "Realm of the Ice Queen, Warhammer Fantasy Roleplay 2nd edition (2007)",
+     "de": "Realm of the Ice Queen, Warhammer Fantasy Roleplay 2. Edition (2007)"
+    },
+    "detail": {
+     "fr": "pp. 16-21",
+     "en": "pp. 16-21",
+     "de": "S. 16-21"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Kislev",
+     "en": "Warhammer Fantasy Wiki (fandom), Kislev page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Kislev"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Kislev"
+   }
+  ]
+ },
+ {
+  "id": "gospodars-en-ostland-et-ostermark",
+  "annee": 1525,
+  "fin": null,
+  "approx": true,
+  "titre": {
+   "fr": "Les Gospodars mordent sur l'Ostland et l'Ostermark",
+   "en": "The Gospodars push into Ostland and Ostermark",
+   "de": "Die Gospodaren dringen nach Ostland und Ostermark vor"
+  },
+  "resume": {
+   "fr": "Poussant vers l'ouest, les cavaliers gospodars profitent des guerres de l'âge des Trois Empereurs et prennent une grande partie du nord de l'Ostland. Ils ne s'arrêtent qu'à la lisière de la forêt des Ombres. L'Empire reprend ensuite ces terres, mais doit admettre l'existence d'un royaume gospodar.",
+   "en": "Pressing westwards, the Gospodar horsemen exploit the wars of the Age of Three Emperors and take much of northern Ostland. They halt only at the edge of the Forest of Shadows. The Empire later regains these lands but has to accept that a Gospodar kingdom exists.",
+   "de": "Die gospodarischen Reiter drängen nach Westen, nutzen die Kriege des Zeitalters der Drei Kaiser und nehmen einen großen Teil des nördlichen Ostland ein. Erst am Rand des Schattenwaldes machen sie halt. Das Imperium gewinnt dieses Land zurück, muss aber ein gospodarisches Königreich anerkennen."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "kislev",
+   "empire"
+  ],
+  "lieux": [],
+  "factions": [
+   "kislev",
+   "empire"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "La page place ces faits sans date précise dans sa section consacrée à la période 1525 à 2301, juste après la conquête. L'année retenue est celle du début de cette section.",
+   "en": "The page gives no exact date and places this in its section on 1525 to 2301, just after the conquest. The year used is the start of that section.",
+   "de": "Die Seite nennt kein genaues Datum und führt dies im Abschnitt über 1525 bis 2301 direkt nach der Eroberung auf. Verwendet wird das Anfangsjahr dieses Abschnitts."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Realm of the Ice Queen, Warhammer Fantasy Roleplay 2e édition (2007)",
+     "en": "Realm of the Ice Queen, Warhammer Fantasy Roleplay 2nd edition (2007)",
+     "de": "Realm of the Ice Queen, Warhammer Fantasy Roleplay 2. Edition (2007)"
+    },
+    "detail": {
+     "fr": "pp. 16-21",
+     "en": "pp. 16-21",
+     "de": "S. 16-21"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Kislev",
+     "en": "Warhammer Fantasy Wiki (fandom), Kislev page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Kislev"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Kislev"
+   }
+  ]
+ },
+ {
+  "id": "gospodars-deviennent-kislevites",
+  "annee": 1527,
+  "fin": null,
+  "approx": true,
+  "titre": {
+   "fr": "Les Gospodars prennent le nom de Kislévites",
+   "en": "The Gospodars take the name of Kislevites",
+   "de": "Die Gospodaren nennen sich Kisleviten"
+  },
+  "resume": {
+   "fr": "La conquête achevée, les Gospodars abandonnent leur ancien nom pour celui de leur royaume et de sa capitale. Les Ungols survivants, traqués vers le nord, finissent par se soumettre et se fondre dans la société nouvelle, tandis que Praag et Erengrad se relèvent en quelques années.",
+   "en": "With the conquest complete, the Gospodars give up their old name for that of their kingdom and its capital. The surviving Ungols, hunted northwards, finally submit and merge into the new society, while Praag and Erengrad recover within a few years.",
+   "de": "Nach Abschluss der Eroberung geben die Gospodaren ihren alten Namen auf und nennen sich nach ihrem Reich und dessen Hauptstadt. Die überlebenden Ungolen, nach Norden gejagt, unterwerfen sich schließlich und gehen in der neuen Gesellschaft auf, während Praag und Erengrad binnen weniger Jahre wiedererstehen."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "kislev"
+  ],
+  "lieux": [
+   "kislev",
+   "praag",
+   "erengrad"
+  ],
+  "factions": [
+   "kislev"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Realm of the Ice Queen, Warhammer Fantasy Roleplay 2e édition (2007)",
+     "en": "Realm of the Ice Queen, Warhammer Fantasy Roleplay 2nd edition (2007)",
+     "de": "Realm of the Ice Queen, Warhammer Fantasy Roleplay 2. Edition (2007)"
+    },
+    "detail": {
+     "fr": "pp. 16-21",
+     "en": "pp. 16-21",
+     "de": "S. 16-21"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Kislev",
+     "en": "Warhammer Fantasy Wiki (fandom), Kislev page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Kislev"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Kislev"
+   }
+  ]
+ },
+ {
+  "id": "njevski-repousse-les-peaux-vertes",
+  "annee": 1605,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Alexandr Njevski repousse les Peaux-vertes",
+   "en": "Alexandr Njevski throws back the Greenskins",
+   "de": "Alexandr Njevski schlägt die Grünhäute zurück"
+  },
+  "resume": {
+   "fr": "Soutenu par un contingent impérial, le tsar Alexandr Njevski rejette hors du Kislev une immense armée de Peaux-vertes lors d'une bataille rangée.",
+   "en": "Backed by an Imperial contingent, Tzar Alexandr Njevski drives a huge Greenskin army out of Kislev in a pitched battle.",
+   "de": "Mit Unterstützung eines imperialen Kontingents treibt Zar Alexandr Njevski in offener Feldschlacht ein riesiges Grünhautheer aus Kislev hinaus."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "kislev"
+  ],
+  "lieux": [],
+  "factions": [
+   "kislev",
+   "empire",
+   "peaux-vertes"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Citadel Journal 14, Kislev: The Claws of the Great Bear",
+     "en": "Citadel Journal 14, Kislev: The Claws of the Great Bear",
+     "de": "Citadel Journal 14, Kislev: The Claws of the Great Bear"
+    },
+    "detail": {
+     "fr": "p. 12",
+     "en": "p. 12",
+     "de": "S. 12"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Kislev Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Kislev Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Kislev Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Kislev_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "garde-du-tsar",
+  "annee": 2120,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Création de la Garde du tsar",
+   "en": "The Tzar Guard is formed",
+   "de": "Gründung der Zarengarde"
+  },
+  "resume": {
+   "fr": "La Garde du tsar est constituée pour protéger le souverain et son palais dans la ville de Kislev.",
+   "en": "The Tzar Guard is formed to protect the monarch and the palace in Kislev City.",
+   "de": "Die Zarengarde wird aufgestellt, um den Herrscher und seinen Palast in der Stadt Kislev zu schützen."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "kislev"
+  ],
+  "lieux": [
+   "kislev"
+  ],
+  "factions": [
+   "kislev"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Citadel Journal 14, Kislev: The Claws of the Great Bear",
+     "en": "Citadel Journal 14, Kislev: The Claws of the Great Bear",
+     "de": "Citadel Journal 14, Kislev: The Claws of the Great Bear"
+    },
+    "detail": {
+     "fr": "p. 12",
+     "en": "p. 12",
+     "de": "S. 12"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Kislev Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Kislev Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Kislev Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Kislev_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "hans-grunsson-devore-par-un-troll",
+  "annee": 2211,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "La mission de Hans Grunsson",
+   "en": "The mission of Hans Grunsson",
+   "de": "Die Mission des Hans Grunsson"
+  },
+  "resume": {
+   "fr": "Hans Grunsson, le plus grand prédicateur du Vieux Monde, part vers le nord convertir les tribus au culte de Sigmar. Il finit dévoré par un Troll du Chaos.",
+   "en": "Hans Grunsson, the greatest preacher in the Old World, travels north to convert the tribes to the faith of Sigmar. He ends up eaten by a Chaos Troll.",
+   "de": "Hans Grunsson, der größte Prediger der Alten Welt, reist nach Norden, um die Stämme zum Glauben an Sigmar zu bekehren. Er endet im Magen eines Chaostrolls."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "norsca"
+  ],
+  "lieux": [],
+  "factions": [
+   "empire",
+   "chaos"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Warriors of Chaos (7e édition)",
+     "en": "Warhammer Armies: Warriors of Chaos (7th edition)",
+     "de": "Warhammer Armies: Warriors of Chaos (7. Edition)"
+    },
+    "detail": {
+     "fr": "p. 40",
+     "en": "p. 40",
+     "de": "S. 40"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Warriors of Chaos Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Warriors of Chaos Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Warriors of Chaos Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Warriors_of_Chaos_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "saga-de-werner-thunderfist",
+  "annee": 2240,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "La saga de Werner Thunderfist",
+   "en": "The saga of Werner Thunderfist",
+   "de": "Die Saga des Werner Thunderfist"
+  },
+  "resume": {
+   "fr": "Des érudits déchiffrent la saga de Werner Thunderfist, champion de Tzeentch devenu prince démon. Prononcer son vrai nom attire son attention, et un feu magique réduit en cendres la ville impériale de Tzindlerstadt.",
+   "en": "Scholars decipher the saga of Werner Thunderfist, a Champion of Tzeentch who became a Daemon Prince. Speaking his true name draws his attention, and magical fire burns the Imperial town of Tzindlerstadt to the ground.",
+   "de": "Gelehrte entziffern die Saga des Werner Thunderfist, eines Champions des Tzeentch, der zum Dämonenprinzen aufstieg. Das Aussprechen seines wahren Namens zieht seine Aufmerksamkeit auf sich, und magisches Feuer brennt die imperiale Stadt Tzindlerstadt nieder."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [],
+  "factions": [
+   "chaos",
+   "empire"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Warriors of Chaos (7e édition)",
+     "en": "Warhammer Armies: Warriors of Chaos (7th edition)",
+     "de": "Warhammer Armies: Warriors of Chaos (7. Edition)"
+    },
+    "detail": {
+     "fr": "p. 40",
+     "en": "p. 40",
+     "de": "S. 40"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Warriors of Chaos Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Warriors of Chaos Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Warriors of Chaos Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Warriors_of_Chaos_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "armee-alliee-ecrasee-pres-de-praag",
+  "annee": 2301,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "L'armée alliée écrasée au nord de Praag",
+   "en": "The allied army crushed north of Praag",
+   "de": "Das verbündete Heer wird nördlich von Praag vernichtet"
+  },
+  "resume": {
+   "fr": "Kislévites et Impériaux, dont l'armée du comte électeur d'Ostland, affrontent Asavar Kul entre Murmagrad et Chazask. Sous-estimant le nombre de l'ennemi, ils sont encerclés et massacrés. La horde enlève ensuite le dernier pont de la Lynsk et marche sur Praag.",
+   "en": "Kislevites and Imperials, including the army of the Elector Count of Ostland, meet Asavar Kul between Murmagrad and Chazask. Underestimating the enemy's numbers, they are surrounded and massacred. The horde then takes the last bridge on the Lynsk and marches on Praag.",
+   "de": "Kisleviten und Imperiale, darunter das Heer des Kurfürsten von Ostland, stellen Asavar Kul zwischen Murmagrad und Chazask. Sie unterschätzen die Zahl der Feinde, werden eingekreist und niedergemetzelt. Die Horde nimmt dann die letzte Brücke über die Lynsk und zieht gegen Praag."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "kislev"
+  ],
+  "lieux": [
+   "praag"
+  ],
+  "factions": [
+   "kislev",
+   "empire",
+   "chaos"
+  ],
+  "importance": 2,
+  "fiabilite": "divergent",
+  "note": {
+   "fr": "La page Kislev place l'invasion et le siège de Praag en 2301, la chronologie de Kislev en 778 du calendrier gospodarin, soit 2302.",
+   "en": "The Kislev page places the invasion and the siege of Praag in 2301, the Kislev chronology in 778 of the Gospodarin Calendar, which is 2302.",
+   "de": "Die Seite Kislev setzt die Invasion und die Belagerung von Praag auf 2301, die Chronologie Kislevs auf 778 des Gospodarin-Kalenders, also 2302."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Realm of the Ice Queen, Warhammer Fantasy Roleplay 2e édition (2007)",
+     "en": "Realm of the Ice Queen, Warhammer Fantasy Roleplay 2nd edition (2007)",
+     "de": "Realm of the Ice Queen, Warhammer Fantasy Roleplay 2. Edition (2007)"
+    },
+    "detail": {
+     "fr": "pp. 16-21",
+     "en": "pp. 16-21",
+     "de": "S. 16-21"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Kislev",
+     "en": "Warhammer Fantasy Wiki (fandom), Kislev page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Kislev"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Kislev"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Kislev Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Kislev Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Kislev Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Kislev_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "hommes-betes-assiegent-middenheim",
+  "annee": 2301,
+  "fin": 2304,
+  "approx": true,
+  "titre": {
+   "fr": "Les hommes-bêtes devant Middenheim",
+   "en": "Beastmen before Middenheim",
+   "de": "Tiermenschen vor Middenheim"
+  },
+  "resume": {
+   "fr": "Pendant la Grande Guerre contre le Chaos, l'Ar-Ulric Kriestov conduit une armée impériale au secours du Kislev. Des hardes d'hommes-bêtes profitent de son absence pour assiéger Middenheim, et le siège ne cesse qu'à son retour, au début de l'hiver.",
+   "en": "During the Great War Against Chaos, the Ar-Ulric Kriestov leads an Imperial army to the relief of Kislev. Beastmen warherds exploit his absence to besiege Middenheim, and the siege ends only on his return at the onset of winter.",
+   "de": "Im Großen Krieg gegen das Chaos führt der Ar-Ulric Kriestov ein imperiales Heer zum Entsatz Kislevs. Tiermenschenherden nutzen seine Abwesenheit, um Middenheim zu belagern, und erst seine Rückkehr zu Winterbeginn beendet die Belagerung."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "middenheim"
+  ],
+  "factions": [
+   "chaos",
+   "empire"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Beastmen (6e édition)",
+     "en": "Warhammer Armies: Beastmen (6th edition)",
+     "de": "Warhammer Armies: Beastmen (6. Edition)"
+    },
+    "detail": {
+     "fr": "p. 11",
+     "en": "p. 11",
+     "de": "S. 11"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Beastmen Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Beastmen Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Beastmen Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Beastmen_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "bolgasgrad-abandonnee-par-ses-habitants",
+  "annee": 2302,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Bolgasgrad et la Lynsk désertées",
+   "en": "Bolgasgrad and the Lynsk abandoned",
+   "de": "Bolgasgrad und die Lynsk werden verlassen"
+  },
+  "resume": {
+   "fr": "Craignant le sort de Praag, les habitants de Bolgasgrad et des autres établissements de la Lynsk abandonnent leurs foyers devant la horde d'Asavar Kul.",
+   "en": "Fearing the fate of Praag, the people of Bolgasgrad and other settlements on the Lynsk abandon their homes before the horde of Asavar Kul.",
+   "de": "Aus Angst vor dem Schicksal Praags verlassen die Bewohner von Bolgasgrad und anderer Siedlungen an der Lynsk ihre Heimat vor der Horde des Asavar Kul."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "kislev"
+  ],
+  "lieux": [
+   "bolgasgrad"
+  ],
+  "factions": [
+   "kislev",
+   "chaos"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Date de la source en calendrier gospodarin (778), convertie par elle en 2302 du Calendrier Impérial.",
+   "en": "The source dates this in the Gospodarin Calendar (778) and converts it to 2302 in the Imperial Calendar.",
+   "de": "Die Quelle datiert dies nach dem Gospodarin-Kalender (778) und rechnet es selbst in das Jahr 2302 des Imperialen Kalenders um."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Realm of the Ice Queen, Warhammer Fantasy Roleplay 2e édition (2007)",
+     "en": "Realm of the Ice Queen, Warhammer Fantasy Roleplay 2nd edition (2007)",
+     "de": "Realm of the Ice Queen, Warhammer Fantasy Roleplay 2. Edition (2007)"
+    },
+    "detail": {
+     "fr": "p. 18",
+     "en": "p. 18",
+     "de": "S. 18"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Kislev Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Kislev Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Kislev Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Kislev_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "temps-de-la-reconstruction-kislev",
+  "annee": 2304,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Le temps de la Reconstruction au Kislev",
+   "en": "The Time of Re-building in Kislev",
+   "de": "Die Zeit des Wiederaufbaus in Kislev"
+  },
+  "resume": {
+   "fr": "Après la Grande Guerre contre le Chaos commence le temps de la Reconstruction. Les Kislévites entament un travail de plusieurs siècles pour relever leurs villes et purifier leurs terres souillées.",
+   "en": "After the Great War Against Chaos the Time of Re-building begins. The Kislevites start the work of centuries to raise their cities again and purify their tainted lands.",
+   "de": "Nach dem Großen Krieg gegen das Chaos beginnt die Zeit des Wiederaufbaus. Die Kisleviten nehmen die jahrhundertelange Arbeit auf, ihre Städte neu zu errichten und ihr verseuchtes Land zu läutern."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "kislev"
+  ],
+  "lieux": [],
+  "factions": [
+   "kislev"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Date de la source en calendrier gospodarin (780), convertie par elle en 2304 du Calendrier Impérial.",
+   "en": "The source dates this in the Gospodarin Calendar (780) and converts it to 2304 in the Imperial Calendar.",
+   "de": "Die Quelle datiert dies nach dem Gospodarin-Kalender (780) und rechnet es selbst in das Jahr 2304 des Imperialen Kalenders um."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Citadel Journal 14, Kislev: The Claws of the Great Bear",
+     "en": "Citadel Journal 14, Kislev: The Claws of the Great Bear",
+     "de": "Citadel Journal 14, Kislev: The Claws of the Great Bear"
+    },
+    "detail": {
+     "fr": "p. 12",
+     "en": "p. 12",
+     "de": "S. 12"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Kislev Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Kislev Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Kislev Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Kislev_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "boydinov-poudre-noire-au-kislev",
+  "annee": 2359,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Boydinov introduit la poudre noire au Kislev",
+   "en": "Boydinov brings blackpowder to Kislev",
+   "de": "Boydinov bringt das Schwarzpulver nach Kislev"
+  },
+  "resume": {
+   "fr": "Le prince ungol Boydinov d'Erengrad fait venir de l'Empire arquebuses et poudre noire pour équiper les armées du Kislev.",
+   "en": "The Ungol Prince Boydinov of Erengrad brings handguns and blackpowder from the Empire to equip the armies of Kislev.",
+   "de": "Der ungolische Fürst Boydinov von Erengrad holt Handfeuerwaffen und Schwarzpulver aus dem Imperium, um die Heere Kislevs auszurüsten."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "kislev"
+  ],
+  "lieux": [
+   "erengrad"
+  ],
+  "factions": [
+   "kislev",
+   "empire"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Citadel Journal 14, Kislev: The Claws of the Great Bear",
+     "en": "Citadel Journal 14, Kislev: The Claws of the Great Bear",
+     "de": "Citadel Journal 14, Kislev: The Claws of the Great Bear"
+    },
+    "detail": {
+     "fr": "p. 12",
+     "en": "p. 12",
+     "de": "S. 12"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Kislev Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Kislev Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Kislev Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Kislev_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "rossokovski-sauve-l-empereur-paulus",
+  "annee": 2367,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Rossokovski sauve l'empereur Paulus",
+   "en": "Rossokovski saves Emperor Paulus",
+   "de": "Rossokovski rettet Kaiser Paulus"
+  },
+  "resume": {
+   "fr": "Le capitaine Rossokovski conduit les chevaliers de la Légion du Griffon aux côtés de l'Empire dans une campagne contre les Bretonniens. Sa bravoure et le sauvetage de l'empereur Paulus lui valent de hautes distinctions impériales.",
+   "en": "Captain Rossokovski leads the knights of the Gryphon Legion beside the Empire in a campaign against the Bretonnians. His bravery and his rescue of Emperor Paulus earn him high Imperial honours.",
+   "de": "Hauptmann Rossokovski führt die Ritter der Greifenlegion an der Seite des Imperiums in einen Feldzug gegen die Bretonen. Seine Tapferkeit und die Rettung von Kaiser Paulus bringen ihm hohe imperiale Ehren ein."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "kislev",
+   "bretonnie"
+  ],
+  "lieux": [],
+  "factions": [
+   "kislev",
+   "empire",
+   "bretonnie"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Citadel Journal 14, Kislev: The Claws of the Great Bear",
+     "en": "Citadel Journal 14, Kislev: The Claws of the Great Bear",
+     "de": "Citadel Journal 14, Kislev: The Claws of the Great Bear"
+    },
+    "detail": {
+     "fr": "p. 12",
+     "en": "p. 12",
+     "de": "S. 12"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Kislev Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Kislev Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Kislev Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Kislev_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "siege-de-couronne-2384",
+  "annee": 2384,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Le siège de Couronne et le prince Imrik",
+   "en": "The Siege of Couronne and Prince Imrik",
+   "de": "Die Belagerung von Couronne und Prinz Imrik"
+  },
+  "resume": {
+   "fr": "Une grande harde d'hommes-bêtes assiège Couronne quand une armée de Hauts Elfes menée par Imrik de Caledor arrive à l'improviste, venue protéger les pierres levées enfouies sous le château. Imrik et le roi Charlen combattent ensemble et brisent la harde. Les bardes bretonniens en tirent gloire, tandis qu'Imrik ne pardonne pas à Charlen les ennemis qu'il lui a volés.",
+   "en": "A great warherd of Beastmen is besieging Couronne when a High Elf army under Imrik of Caledor arrives unlooked for, come to guard the waystones buried beneath the castle. Imrik and King Charlen fight together and break the herd. Bretonnian bards celebrate it, while Imrik never forgives Charlen for stealing his kills.",
+   "de": "Eine große Tiermenschenherde belagert Couronne, als unerwartet ein Hochelfenheer unter Imrik von Caledor erscheint, das die unter der Burg vergrabenen Wegsteine schützen will. Imrik und König Charlen kämpfen gemeinsam und zerschlagen die Herde. Bretonische Barden feiern dies, doch Imrik verzeiht Charlen nie die gestohlenen Gegner."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "bretonnie"
+  ],
+  "lieux": [
+   "couronne"
+  ],
+  "factions": [
+   "bretonnie",
+   "hauts-elfes",
+   "chaos"
+  ],
+  "importance": 2,
+  "fiabilite": "etabli",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Bretonnia (6e édition)",
+     "en": "Warhammer Armies: Bretonnia (6th edition)",
+     "de": "Warhammer Armies: Bretonnia (6. Edition)"
+    },
+    "detail": {
+     "fr": "p. 38",
+     "en": "p. 38",
+     "de": "S. 38"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Warhammer Armies: High Elves (8e édition)",
+     "en": "Warhammer Armies: High Elves (8th edition)",
+     "de": "Warhammer Armies: High Elves (8. Edition)"
+    },
+    "detail": {
+     "fr": "p. 32",
+     "en": "p. 32",
+     "de": "S. 32"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Beastmen Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Beastmen Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Beastmen Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Beastmen_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "valkia-ravage-le-nordland",
+  "annee": 2398,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Valkia ravage le Nordland",
+   "en": "Valkia ravages Nordland",
+   "de": "Valkia verwüstet Nordland"
+  },
+  "resume": {
+   "fr": "La princesse démon Valkia lance les tribus norses sur le Nordland, que Salzenmund ne défend pas. Le pêcheur Harold Dreizacker arme une flottille, que Valkia brise devant Dietershafn d'un seul jet de lance, et seul un cuirassé nain chasse les pillards. Dreizacker disparaît en allant demander de l'aide, et seuls les plus robustes survivent à l'hiver.",
+   "en": "The Daemon Princess Valkia hurls the Norscan tribes on Nordland, which Salzenmund does not defend. The fisherman Harold Dreizacker arms a small fleet, which Valkia smashes off Dietershafn with a single spear throw, and only a Dwarf ironclad drives the raiders off. Dreizacker vanishes on his way to seek aid, and only the hardiest survive the winter.",
+   "de": "Die Dämonenprinzessin Valkia hetzt die norsischen Stämme auf Nordland, das Salzenmund nicht verteidigt. Der Fischer Harold Dreizacker stellt eine kleine Flotte auf, die Valkia vor Dietershafn mit einem einzigen Speerwurf zerschmettert, und erst ein zwergisches Panzerschiff vertreibt die Plünderer. Dreizacker verschwindet auf dem Weg nach Hilfe, und nur die Zähesten überstehen den Winter."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "empire",
+   "norsca"
+  ],
+  "lieux": [
+   "salzenmund"
+  ],
+  "factions": [
+   "chaos",
+   "humains-autres",
+   "empire",
+   "nains"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Omens of War, Warhammer Fantasy Roleplay 3e édition",
+     "en": "Omens of War, Warhammer Fantasy Roleplay 3rd edition",
+     "de": "Omens of War, Warhammer Fantasy Roleplay 3. Edition"
+    },
+    "detail": {
+     "fr": "p. 12",
+     "en": "p. 12",
+     "de": "S. 12"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Norsca",
+     "en": "Warhammer Fantasy Wiki (fandom), Norsca page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Norsca"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Norsca"
+   }
+  ]
+ },
+ {
+  "id": "romanoff-assoient-leur-pouvoir",
+  "annee": 2400,
+  "fin": null,
+  "approx": true,
+  "titre": {
+   "fr": "Les Romanoff assoient leur pouvoir",
+   "en": "The Romanoffs cement their power",
+   "de": "Die Romanoffs festigen ihre Macht"
+  },
+  "resume": {
+   "fr": "Vers 2400, la dynastie tsariste des Romanoff consolide son emprise sur le Kislev.",
+   "en": "Around 2400 the Romanoff dynasty of Tzars tightens its hold on Kislev.",
+   "de": "Um 2400 festigt die Zarendynastie der Romanoffs ihre Herrschaft über Kislev."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "kislev"
+  ],
+  "lieux": [
+   "kislev"
+  ],
+  "factions": [
+   "kislev"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Citadel Journal 14, Kislev: The Claws of the Great Bear",
+     "en": "Citadel Journal 14, Kislev: The Claws of the Great Bear",
+     "de": "Citadel Journal 14, Kislev: The Claws of the Great Bear"
+    },
+    "detail": {
+     "fr": "p. 12",
+     "en": "p. 12",
+     "de": "S. 12"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Kislev Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Kislev Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Kislev Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Kislev_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "ul-ruk-le-rouge-rejoint-mortkin",
+  "annee": 2512,
+  "fin": 2515,
+  "approx": true,
+  "titre": {
+   "fr": "Ul-Ruk le Rouge rejoint Mortkin",
+   "en": "Ul-Ruk the Red joins Mortkin",
+   "de": "Ul-Ruk der Rote schließt sich Mortkin an"
+  },
+  "resume": {
+   "fr": "Dans la forêt des Ombres, Ul-Ruk le Rouge et sa harde s'allient au seigneur du Chaos Mortkin, qui leur promet un grand carnage en Ostland.",
+   "en": "In the Forest of Shadows, Ul-Ruk the Red and his warherd join the Chaos Lord Mortkin on the promise of great slaughter in Ostland.",
+   "de": "Im Schattenwald schließen sich Ul-Ruk der Rote und seine Kriegsherde dem Chaos-Fürsten Mortkin an, der ihnen ein großes Gemetzel in Ostland verspricht."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [],
+  "factions": [
+   "chaos"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Fantasy Battle Rulebook (8e édition)",
+     "en": "Warhammer Fantasy Battle Rulebook (8th edition)",
+     "de": "Warhammer Fantasy Battle Rulebook (8. Edition)"
+    },
+    "detail": {
+     "fr": "p. 455",
+     "en": "p. 455",
+     "de": "S. 455"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Beastmen Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Beastmen Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Beastmen Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Beastmen_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "stepan-rasin-a-dobryion",
+  "annee": 2513,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Stepan Rasin, seul survivant de Dobryion",
+   "en": "Stepan Rasin, sole survivor of Dobryion",
+   "de": "Stepan Rasin, einziger Überlebender von Dobryion"
+  },
+  "resume": {
+   "fr": "À la bataille des champs de Dobryion, les deux armées, qui comptaient plus de 2 000 hommes, sont anéanties. Le chef cosaque Stepan Rasin est l'unique survivant.",
+   "en": "At the Battle of the Dobryion Fields both armies, which numbered over 2,000 men, are wiped out. The Cossack chief Stepan Rasin is the only survivor.",
+   "de": "In der Schlacht auf den Feldern von Dobryion werden beide Heere mit zusammen über 2000 Mann ausgelöscht. Der Kosakenführer Stepan Rasin überlebt als Einziger."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "kislev"
+  ],
+  "lieux": [],
+  "factions": [
+   "kislev"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Date de la source en calendrier gospodarin (989), convertie par elle en 2513 du Calendrier Impérial.",
+   "en": "The source dates this in the Gospodarin Calendar (989) and converts it to 2513 in the Imperial Calendar.",
+   "de": "Die Quelle datiert dies nach dem Gospodarin-Kalender (989) und rechnet es selbst in das Jahr 2513 des Imperialen Kalenders um."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Citadel Journal 14, Kislev: The Claws of the Great Bear",
+     "en": "Citadel Journal 14, Kislev: The Claws of the Great Bear",
+     "de": "Citadel Journal 14, Kislev: The Claws of the Great Bear"
+    },
+    "detail": {
+     "fr": "p. 12",
+     "en": "p. 12",
+     "de": "S. 12"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Kislev Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Kislev Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Kislev Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Kislev_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "stepan-rasin-falaise-de-la-mort",
+  "annee": 2514,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Stepan Rasin gravit la falaise de la Mort",
+   "en": "Stepan Rasin climbs the Cliff of Death",
+   "de": "Stepan Rasin erklimmt die Klippe des Todes"
+  },
+  "resume": {
+   "fr": "Stepan Rasin escalade la falaise de la Mort, dressée au milieu de l'Urskoy. Il reste le seul homme à y être parvenu.",
+   "en": "Stepan Rasin scales the Cliff of Death, which rises in the middle of the Urskoy. He remains the only man to have done it.",
+   "de": "Stepan Rasin ersteigt die Klippe des Todes, die sich mitten im Urskoy erhebt. Er bleibt der einzige Mensch, dem das je gelang."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "kislev"
+  ],
+  "lieux": [],
+  "factions": [
+   "kislev"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Date de la source en calendrier gospodarin (990), convertie par elle en 2514 du Calendrier Impérial.",
+   "en": "The source dates this in the Gospodarin Calendar (990) and converts it to 2514 in the Imperial Calendar.",
+   "de": "Die Quelle datiert dies nach dem Gospodarin-Kalender (990) und rechnet es selbst in das Jahr 2514 des Imperialen Kalenders um."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Citadel Journal 14, Kislev: The Claws of the Great Bear",
+     "en": "Citadel Journal 14, Kislev: The Claws of the Great Bear",
+     "de": "Citadel Journal 14, Kislev: The Claws of the Great Bear"
+    },
+    "detail": {
+     "fr": "p. 12",
+     "en": "p. 12",
+     "de": "S. 12"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Kislev Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Kislev Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Kislev Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Kislev_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "graktar-battu-a-helmgart",
+  "annee": 2515,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Graktar battu à Helmgart",
+   "en": "Graktar defeated at Helmgart",
+   "de": "Graktar wird bei Helmgart geschlagen"
+  },
+  "resume": {
+   "fr": "Le seigneur des bêtes Graktar détruit les villages impériaux de Gorstburg et Leitenbad, puis est vaincu à la bataille de Helmgart. Il doit ensuite repousser une série de défis pour garder sa harde.",
+   "en": "Beastlord Graktar destroys the Imperial villages of Gorstburg and Leitenbad, then loses the Battle of Helmgart. He must then fight off a series of challenges to keep his herd.",
+   "de": "Der Tierfürst Graktar zerstört die imperialen Dörfer Gorstburg und Leitenbad und unterliegt dann in der Schlacht von Helmgart. Danach muss er eine Reihe von Herausforderungen bestehen, um seine Herde zu behalten."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "helmgart"
+  ],
+  "factions": [
+   "chaos",
+   "empire"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Beastmen (6e édition)",
+     "en": "Warhammer Armies: Beastmen (6th edition)",
+     "de": "Warhammer Armies: Beastmen (6. Edition)"
+    },
+    "detail": {
+     "fr": "p. 11",
+     "en": "p. 11",
+     "de": "S. 11"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Beastmen Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Beastmen Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Beastmen Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Beastmen_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "oleg-von-raukov-defait-sur-la-lynsk",
+  "annee": 2515,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Oleg von Raukov défait sur la Lynsk",
+   "en": "Oleg von Raukov defeated on the Lynsk",
+   "de": "Oleg von Raukov wird an der Lynsk geschlagen"
+  },
+  "resume": {
+   "fr": "Après avoir taillé en pièces les tribus ungoles, l'avant-garde de Mortkin écrase Oleg von Raukov et le kovnik Piotr Sergayev sur les rives de la Lynsk. La horde efface ensuite Bohsenfels, Zundap et Kludburgh et rase le château von Raukov, pendant qu'Oleg fuit vers Volganof.",
+   "en": "After cutting the Ungol tribes to pieces, Mortkin's spearhead crushes Oleg von Raukov and the kovnik Piotr Sergayev on the banks of the Lynsk. The horde then wipes out Bohsenfels, Zundap and Kludburgh and razes Castle von Raukov, while Oleg flees to Volganof.",
+   "de": "Nachdem Mortkins Vorhut die ungolischen Stämme aufgerieben hat, zerschlägt sie Oleg von Raukov und den Kovnik Piotr Sergayev am Ufer der Lynsk. Die Horde löscht danach Bohsenfels, Zundap und Kludburgh aus und schleift Burg von Raukov, während Oleg nach Volganof flieht."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "kislev",
+   "empire"
+  ],
+  "lieux": [
+   "volganof"
+  ],
+  "factions": [
+   "chaos",
+   "empire",
+   "kislev"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Fantasy Battle Rulebook (8e édition)",
+     "en": "Warhammer Fantasy Battle Rulebook (8th edition)",
+     "de": "Warhammer Fantasy Battle Rulebook (8. Edition)"
+    },
+    "detail": {
+     "fr": "pp. 452-467",
+     "en": "pp. 452-467",
+     "de": "S. 452-467"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Norsca",
+     "en": "Warhammer Fantasy Wiki (fandom), Norsca page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Norsca"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Norsca"
+   }
+  ]
+ },
+ {
+  "id": "sigvald-arrete-au-temple-des-cranes",
+  "annee": 2515,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Sigvald arrêté au Temple des Crânes",
+   "en": "Sigvald halted at the Temple of Skulls",
+   "de": "Sigvald wird am Schädeltempel aufgehalten"
+  },
+  "resume": {
+   "fr": "Avant-garde de l'invasion de Mortkin, l'armée du prince Sigvald le Magnifique dévaste le Kislev et l'Ostland pendant trois mois. À l'appel d'Oleg von Raukov, une coalition impériale monte vers le nord et la brise enfin au Temple des Crânes.",
+   "en": "Ahead of Mortkin's invasion, the army of Prince Sigvald the Magnificent rampages through Kislev and Ostland for three months. At Oleg von Raukov's call, an Imperial coalition marches north and finally blunts it at the Temple of Skulls.",
+   "de": "Als Vorhut von Mortkins Invasion wütet das Heer von Prinz Sigvald dem Prächtigen drei Monate lang in Kislev und Ostland. Auf den Ruf Oleg von Raukovs zieht eine imperiale Koalition nach Norden und bringt es am Schädeltempel endlich zum Stehen."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "kislev",
+   "empire"
+  ],
+  "lieux": [],
+  "factions": [
+   "chaos",
+   "empire",
+   "kislev"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Fantasy Battle Rulebook (8e édition)",
+     "en": "Warhammer Fantasy Battle Rulebook (8th edition)",
+     "de": "Warhammer Fantasy Battle Rulebook (8. Edition)"
+    },
+    "detail": {
+     "fr": "pp. 452-467",
+     "en": "pp. 452-467",
+     "de": "S. 452-467"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Norsca",
+     "en": "Warhammer Fantasy Wiki (fandom), Norsca page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Norsca"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Norsca"
+   }
+  ]
+ },
+ {
+  "id": "khazrak-usurpe-la-harde-de-graktar",
+  "annee": 2516,
+  "fin": 2517,
+  "approx": false,
+  "titre": {
+   "fr": "Khazrak usurpe la harde de Graktar",
+   "en": "Khazrak usurps Graktar's herd",
+   "de": "Khazrak reißt Graktars Herde an sich"
+  },
+  "resume": {
+   "fr": "Khazrak bat Graktar en duel et prend la tête de sa harde. Il mène une suite d'attaques sanglantes dans le Drakwald, saccage Jagerhausen, Immelscheld et Arenburg, et rase le château du graf Sternhauer près de Grimminhagen.",
+   "en": "Khazrak beats Graktar in a challenge and takes over his herd. He leads a run of bloody attacks across the Drakwald, sacking Jagerhausen, Immelscheld and Arenburg and razing the castle of Graf Sternhauer near Grimminhagen.",
+   "de": "Khazrak besiegt Graktar im Zweikampf und übernimmt dessen Herde. In einer Reihe blutiger Angriffe im Drakwald plündert er Jagerhausen, Immelscheld und Arenburg und schleift die Burg des Grafen Sternhauer bei Grimminhagen."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "foret-de-drakwald"
+  ],
+  "factions": [
+   "chaos",
+   "empire"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Beastmen (6e édition)",
+     "en": "Warhammer Armies: Beastmen (6th edition)",
+     "de": "Warhammer Armies: Beastmen (6. Edition)"
+    },
+    "detail": {
+     "fr": "p. 11",
+     "en": "p. 11",
+     "de": "S. 11"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Beastmen Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Beastmen Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Beastmen Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Beastmen_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "bataille-d-elsterweld",
+  "annee": 2518,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Todbringer prend l'œil de Khazrak",
+   "en": "Todbringer takes Khazrak's eye",
+   "de": "Todbringer nimmt Khazrak ein Auge"
+  },
+  "resume": {
+   "fr": "Boris Todbringer lance une grande purge de la forêt du Drakwald. À la bataille d'Elsterweld, il crève lui-même un œil à Khazrak, qui devient Khazrak le Borgne.",
+   "en": "Boris Todbringer launches a great purge of the Drakwald Forest. At the Battle of Elsterweld he personally puts out one of Khazrak's eyes, and the Beastlord becomes known as Khazrak One-Eye.",
+   "de": "Boris Todbringer beginnt eine große Säuberung des Drakwald. In der Schlacht von Elsterweld sticht er Khazrak eigenhändig ein Auge aus, und der Tierfürst heißt fortan Khazrak Einauge."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "foret-de-drakwald"
+  ],
+  "factions": [
+   "empire",
+   "chaos"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Beastmen (6e édition)",
+     "en": "Warhammer Armies: Beastmen (6th edition)",
+     "de": "Warhammer Armies: Beastmen (6. Edition)"
+    },
+    "detail": {
+     "fr": "p. 11",
+     "en": "p. 11",
+     "de": "S. 11"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Beastmen Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Beastmen Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Beastmen Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Beastmen_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "embuscade-de-norderingen",
+  "annee": 2519,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "L'embuscade de Norderingen",
+   "en": "The ambush at Norderingen",
+   "de": "Der Hinterhalt bei Norderingen"
+  },
+  "resume": {
+   "fr": "Khazrak le Borgne prend sa revanche en tendant une embuscade à l'armée du Middenland près de Norderingen et en crevant l'œil droit de Boris Todbringer. Le comte met sa tête à prix pour 10 000 couronnes.",
+   "en": "Khazrak One-Eye takes his revenge by ambushing the Middenland army near Norderingen and putting out Boris Todbringer's right eye. The count sets a bounty of 10,000 crowns on his head.",
+   "de": "Khazrak Einauge rächt sich, indem er dem Heer von Middenland bei Norderingen auflauert und Boris Todbringer das rechte Auge aussticht. Der Graf setzt 10.000 Kronen auf seinen Kopf aus."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [],
+  "factions": [
+   "chaos",
+   "empire"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Beastmen (6e édition)",
+     "en": "Warhammer Armies: Beastmen (6th edition)",
+     "de": "Warhammer Armies: Beastmen (6. Edition)"
+    },
+    "detail": {
+     "fr": "p. 11",
+     "en": "p. 11",
+     "de": "S. 11"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Beastmen Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Beastmen Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Beastmen Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Beastmen_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "hommes-betes-monuments-de-pahuax",
+  "annee": 2521,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Les monuments de l'isthme de Pahuax",
+   "en": "The monuments of the Isthmus of Pahuax",
+   "de": "Die Monumente auf der Landenge von Pahuax"
+  },
+  "resume": {
+   "fr": "Les forces du Chaos s'en prennent aux sites de la Grande Protection. Sur l'isthme de Pahuax, une armée d'hommes-bêtes détruit le Monument de la Lune, et le Monument du Soleil est profané.",
+   "en": "Chaos forces strike at the sites of the Great Warding. On the Isthmus of Pahuax a Beastmen army destroys the Monument of the Moon, and the Monument of the Sun is desecrated.",
+   "de": "Chaostruppen greifen die Stätten der Großen Schutzwehr an. Auf der Landenge von Pahuax zerstört ein Tiermenschenheer das Monument des Mondes, und das Monument der Sonne wird geschändet."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "lustrie"
+  ],
+  "lieux": [
+   "pahuax"
+  ],
+  "factions": [
+   "chaos",
+   "hommes-lezards"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Lizardmen (8e édition)",
+     "en": "Warhammer Armies: Lizardmen (8th edition)",
+     "de": "Warhammer Armies: Lizardmen (8. Edition)"
+    },
+    "detail": {
+     "fr": "p. 27",
+     "en": "p. 27",
+     "de": "S. 27"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Beastmen Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Beastmen Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Beastmen Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Beastmen_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "norses-en-lyonesse-et-couronne-2521",
+  "annee": 2521,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Raids norses en Lyonesse et à Couronne",
+   "en": "Norscan raids in Lyonesse and Couronne",
+   "de": "Norsische Raubzüge in Lyonesse und Couronne"
+  },
+  "resume": {
+   "fr": "Les drakkars norses reviennent sur le nord de la Bretonnie et incendient d'innombrables villages en Lyonesse et à Couronne.",
+   "en": "Norscan longships return to northern Bretonnia and burn countless villages in Lyonesse and Couronne.",
+   "de": "Norsische Langschiffe kehren nach Nordbretonia zurück und brennen unzählige Dörfer in Lyonesse und Couronne nieder."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "bretonnie"
+  ],
+  "lieux": [
+   "lyonesse",
+   "couronne"
+  ],
+  "factions": [
+   "humains-autres",
+   "bretonnie"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Norsca",
+     "en": "Warhammer Fantasy Wiki (fandom), Norsca page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Norsca"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Norsca"
+   }
+  ]
+ }
+]

@@ -1,6 +1,6 @@
 # Le Vieux Monde, une chronologie
 
-Chronologie sourcée de l'univers de Warhammer Fantasy et de The Old World, des Anciens à la Fin des Temps, avec une carte du monde zoomable. Plus de 500 événements, filtrables par faction, région, lieu, importance et fiabilité, en français, anglais et allemand. Site statique sans dépendance ni étape de build, publié sur `alexisjubin.com/vieux-monde/`.
+Chronologie sourcée de l'univers de Warhammer Fantasy et de The Old World, des Anciens à la Fin des Temps, avec une carte du monde zoomable. Près de 1000 événements, filtrables par faction, région, lieu, importance et fiabilité, en français, anglais et allemand. Site statique sans dépendance ni étape de build, publié sur `alexisjubin.com/vieux-monde/`.
 
 ## Lancer en local
 
@@ -15,7 +15,7 @@ puis ouvrir http://localhost:8742.
 ## Données
 
 - `donnees/referentiel.json` : âges, régions, factions et niveaux de fiabilité. Tous les identifiants utilisés dans les événements viennent d'ici. `epoque_tow` délimite la bande hachurée de l'époque The Old World.
-- `donnees/evenements-*.json` : les événements, un objet par entrée.
+- `donnees/evenements-*.json` : les événements, un objet par entrée. `python outils/verifier_donnees.py` contrôle leur format et les identifiants.
 - `donnees/carte.json` : généré, ne pas modifier à la main. Les lieux de la chronologie, les colonies et les provinces, dans le repère de `carte.svg` (5760 unités de large).
 - `carte.svg` : le fond de carte, généré. C'est un tracé redessiné dans notre propre style, aucune image de référence n'est publiée. Le site ne l'affiche pas directement, il sert à produire les tuiles.
 - `tuiles/` : le fond de carte découpé en images, généré. `fond.webp` couvre toute la carte, les tuiles de 512 pixels des niveaux 1, 2 et 4 (pixels par unité) sont chargées selon le zoom.

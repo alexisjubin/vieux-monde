@@ -1,0 +1,3760 @@
+[
+ {
+  "id": "achevement-temple-ulric-middenheim",
+  "annee": 113,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Achèvement du grand temple d'Ulric à Middenheim",
+   "en": "Great temple of Ulric completed at Middenheim",
+   "de": "Vollendung des großen Ulrictempels in Middenheim"
+  },
+  "resume": {
+   "fr": "Le grand temple d'Ulric, élevé sur l'Ulricsberg autour de la Flamme sacrée, est terminé. Les routes devenues plus sûres et le commerce en plein essor font de Middenheim un carrefour majeur de l'Empire.",
+   "en": "The great temple of Ulric, raised on the Ulricsberg around the Sacred Flame, is finished. Safer roads and booming trade turn Middenheim into a major crossroads of the Empire.",
+   "de": "Der große Ulrictempel auf dem Ulricsberg, errichtet um die Heilige Flamme, wird vollendet. Sicherere Straßen und wachsender Handel machen Middenheim zu einem wichtigen Knotenpunkt des Imperiums."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "middenheim"
+  ],
+  "factions": [
+   "empire"
+  ],
+  "importance": 1,
+  "fiabilite": "etabli",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2e édition",
+     "en": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2nd edition",
+     "de": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2. Edition"
+    },
+    "detail": {
+     "fr": "p. 20",
+     "en": "p. 20",
+     "de": "S. 20"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Middenheim: City of the White Wolf, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Middenheim: City of the White Wolf, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Middenheim: City of the White Wolf, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 6-11",
+     "en": "pp. 6-11",
+     "de": "S. 6-11"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Empire of Man Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Empire of Man Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Empire of Man Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Empire_of_Man_Timeline"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Middenheim",
+     "en": "Warhammer Fantasy Wiki (fandom), Middenheim page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Middenheim"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Middenheim"
+   }
+  ]
+ },
+ {
+  "id": "graf-erich-protege-les-magiciens",
+  "annee": 113,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Le graf Erich protège les magiciens",
+   "en": "Graf Erich protects magic users",
+   "de": "Graf Erich schützt die Magieanwender"
+  },
+  "resume": {
+   "fr": "Le graf Erich de Middenheim accorde une protection légale aux utilisateurs de magie, plus de deux millénaires avant Magnus le Pieux. Les sorciers de la ville rappellent encore ce précédent, et sa statue se dresse devant leur guilde.",
+   "en": "Graf Erich of Middenheim grants legal protection to users of magic, more than two millennia before Magnus the Pious. The city's wizards still cite this precedent, and his statue stands before their guild.",
+   "de": "Graf Erich von Middenheim gewährt Magieanwendern rechtlichen Schutz, mehr als zwei Jahrtausende vor Magnus dem Frommen. Die Zauberer der Stadt berufen sich noch immer darauf, und seine Statue steht vor ihrer Gilde."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "middenheim"
+  ],
+  "factions": [
+   "empire"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Middenheim: City of the White Wolf, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Middenheim: City of the White Wolf, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Middenheim: City of the White Wolf, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 40-60",
+     "en": "pp. 40-60",
+     "de": "S. 40-60"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Middenheim",
+     "en": "Warhammer Fantasy Wiki (fandom), Middenheim page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Middenheim"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Middenheim"
+   }
+  ]
+ },
+ {
+  "id": "premier-temple-sigmar-bogenhafen",
+  "annee": 131,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Premier temple de Sigmar à Bögenhafen",
+   "en": "First temple of Sigmar at Bögenhafen",
+   "de": "Erster Sigmartempel in Bögenhafen"
+  },
+  "resume": {
+   "fr": "Un premier temple de Sigmar est bâti à Bögenhafen, à l'emplacement de l'actuel Haut Temple de la ville.",
+   "en": "A first temple of Sigmar is built at Bögenhafen, on the spot now occupied by the town's High Temple.",
+   "de": "In Bögenhafen entsteht ein erster Sigmartempel an der Stelle des heutigen Hochtempels der Stadt."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "bogenhafen"
+  ],
+  "factions": [
+   "empire"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Enemy in Shadows, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Enemy in Shadows, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Enemy in Shadows, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 116-117",
+     "en": "pp. 116-117",
+     "de": "S. 116-117"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Bögenhafen",
+     "en": "Warhammer Fantasy Wiki (fandom), Bögenhafen page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Bögenhafen"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/B%C3%B6genhafen"
+   }
+  ]
+ },
+ {
+  "id": "bataille-de-glencurst",
+  "annee": 231,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Démons sous Middenheim et bataille de Glencurst",
+   "en": "Daemons beneath Middenheim and the Battle of Glencurst",
+   "de": "Dämonen unter Middenheim und die Schlacht von Glencurst"
+  },
+  "resume": {
+   "fr": "Des Démonettes et des Horreurs roses surgissent des cavernes sous Middenheim, ravagent la cité et dévastent l'ouest du Drakwald. Le comte Reiner von Mechle les écrase à Glencurst, mais des cauchemars le poursuivent jusqu'à la fin de ses jours. Quinze ans jour pour jour après sa victoire, il disparaît d'une pièce fermée à clé.",
+   "en": "Daemonettes and Pink Horrors break out of the caverns under Middenheim, wreck the city and lay waste to the western Drakwald. Count Reiner von Mechle crushes them at Glencurst, but nightmares haunt him for the rest of his days. Fifteen years to the day after his victory, he vanishes from a locked room.",
+   "de": "Dämonetten und Rosa Horrors brechen aus den Höhlen unter Middenheim hervor, verwüsten die Stadt und den westlichen Drakwald. Graf Reiner von Mechle schlägt sie bei Glencurst, doch Albträume quälen ihn bis ans Lebensende. Genau fünfzehn Jahre nach seinem Sieg verschwindet er aus einem verschlossenen Raum."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "middenheim",
+   "foret-de-drakwald"
+  ],
+  "factions": [
+   "empire",
+   "chaos"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Daemons of Chaos, 8e édition",
+     "en": "Warhammer Armies: Daemons of Chaos, 8th edition",
+     "de": "Warhammer Armies: Daemons of Chaos, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 17",
+     "en": "p. 17",
+     "de": "S. 17"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Empire of Man Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Empire of Man Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Empire of Man Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Empire_of_Man_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "reikdorf-ceint-de-murailles",
+  "annee": 300,
+  "fin": null,
+  "approx": true,
+  "titre": {
+   "fr": "Reikdorf s'entoure de murailles",
+   "en": "Reikdorf raises its walls",
+   "de": "Reikdorf erhält Mauern"
+  },
+  "resume": {
+   "fr": "Querelles internes, mauvaise récolte et raids gobelins plongent Reikdorf dans le marasme. La ville se dote de murailles, qui attirent à leur tour de nouveaux habitants en quête de protection.",
+   "en": "Infighting, a failed harvest and Goblin raids drag Reikdorf into a slump. The town builds walls, and these in turn draw new residents seeking shelter.",
+   "de": "Innere Fehden, eine Missernte und Goblinüberfälle stürzen Reikdorf in eine Krise. Die Stadt baut Mauern, die ihrerseits neue Bewohner auf der Suche nach Schutz anziehen."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "altdorf"
+  ],
+  "factions": [
+   "empire",
+   "peaux-vertes"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Spires of Altdorf, Warhammer Fantasy Roleplay 2e édition",
+     "en": "Spires of Altdorf, Warhammer Fantasy Roleplay 2nd edition",
+     "de": "Spires of Altdorf, Warhammer Fantasy Roleplay 2. Edition"
+    },
+    "detail": {
+     "fr": "p. 5",
+     "en": "p. 5",
+     "de": "S. 5"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Altdorf",
+     "en": "Warhammer Fantasy Wiki (fandom), Altdorf page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Altdorf"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Altdorf"
+   }
+  ]
+ },
+ {
+  "id": "marche-vers-les-frontieres",
+  "annee": 400,
+  "fin": 900,
+  "approx": true,
+  "titre": {
+   "fr": "La marche vers les frontières",
+   "en": "The Drive to the Frontiers",
+   "de": "Der Vorstoß zu den Grenzen"
+  },
+  "resume": {
+   "fr": "Les historiens impériaux nomment ainsi cinq siècles de conquêtes et de prospérité, dont Sigismund II le Conquérant reste la figure la plus célèbre. Vers 500 CI, les communautés halflings se fondent dans l'Empire à mesure que ses frontières s'étendent.",
+   "en": "Imperial historians use this name for five centuries of conquest and prosperity, with Sigismund II the Conqueror as their most famous figure. Around 500 IC, Halfling communities merge into the Empire as its borders spread.",
+   "de": "So nennen imperiale Historiker fünf Jahrhunderte der Eroberung und des Wohlstands, deren berühmteste Gestalt Sigismund II. der Eroberer ist. Um 500 IK gehen die Halblingsgemeinden im wachsenden Imperium auf."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [],
+  "factions": [
+   "empire"
+  ],
+  "importance": 2,
+  "fiabilite": "etabli",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2e édition",
+     "en": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2nd edition",
+     "de": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2. Edition"
+    },
+    "detail": {
+     "fr": "p. 20",
+     "en": "p. 20",
+     "de": "S. 20"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Archives of the Empire Vol. I, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Archives of the Empire Vol. I, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Archives of the Empire Vol. I, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 33-35",
+     "en": "pp. 33-35",
+     "de": "S. 33-35"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Empire of Man Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Empire of Man Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Empire of Man Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Empire_of_Man_Timeline"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Halfling",
+     "en": "Warhammer Fantasy Wiki (fandom), Halfling page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Halfling"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Halfling"
+   }
+  ]
+ },
+ {
+  "id": "guerre-de-la-tourte",
+  "annee": 421,
+  "fin": 444,
+  "approx": false,
+  "titre": {
+   "fr": "La guerre de la Tourte",
+   "en": "The Pie War",
+   "de": "Der Pastetenkrieg"
+  },
+  "resume": {
+   "fr": "En 420 CI, le Halfling Hanselstorf Kuekenmeister met au point une pâte feuilletée, et son épouse Mostworthy propose d'en garnir aussi le dessous du plat. La guerre de la Tourte commence l'année suivante et se termine en 444 CI par une trêve, sans réconcilier le couple.",
+   "en": "In 420 IC the Halfling Hanselstorf Kuekenmeister devises flaky pastry, and his wife Mostworthy suggests lining the dish with it too. The Pie War begins the next year and ends in a truce in 444 IC, though the couple stay apart.",
+   "de": "420 IK erfindet der Halbling Hanselstorf Kuekenmeister den Blätterteig, und seine Frau Mostworthy schlägt vor, auch den Boden damit auszukleiden. Im Jahr darauf beginnt der Pastetenkrieg, der 444 IK mit einem Waffenstillstand endet, das Paar bleibt jedoch getrennt."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [],
+  "factions": [
+   "empire"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Archives of the Empire Vol. I, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Archives of the Empire Vol. I, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Archives of the Empire Vol. I, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 33-35",
+     "en": "pp. 33-35",
+     "de": "S. 33-35"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Halfling",
+     "en": "Warhammer Fantasy Wiki (fandom), Halfling page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Halfling"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Halfling"
+   }
+  ]
+ },
+ {
+  "id": "remparts-blancs-d-altdorf",
+  "annee": 534,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Les remparts blancs d'Altdorf",
+   "en": "The white walls of Altdorf",
+   "de": "Die weißen Mauern Altdorfs"
+  },
+  "resume": {
+   "fr": "Instruit de la facilité avec laquelle une ville mal défendue tombe, Sigismund le Conquérant fait élever les grands remparts d'Altdorf, de conception naine. Hauts par endroits de cent pieds, ils sont parés de pierre blanche et de tuiles rouges.",
+   "en": "Knowing how easily a poorly defended city falls, Sigismund the Conqueror orders Altdorf's great walls, of Dwarf design. Up to a hundred feet high in places, they are faced with white stone and red tile.",
+   "de": "Im Wissen, wie leicht eine schlecht verteidigte Stadt fällt, lässt Sigismund der Eroberer die großen Mauern Altdorfs nach zwergischem Entwurf errichten. Stellenweise hundert Fuß hoch, sind sie mit weißem Stein und roten Ziegeln verkleidet."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "altdorf"
+  ],
+  "factions": [
+   "empire",
+   "nains"
+  ],
+  "importance": 1,
+  "fiabilite": "divergent",
+  "note": {
+   "fr": "La même page date aussi de 522 CI le renforcement des murs en pierre blanche par Sigismund, et du vers 300 CI une première enceinte.",
+   "en": "The same page also dates Sigismund's refortification in white stone to 522 IC, and a first circuit of walls to around 300 IC.",
+   "de": "Dieselbe Seite datiert Sigismunds Verstärkung mit weißem Stein auch auf 522 IK und einen ersten Mauerring auf etwa 300 IK."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Altdorf: Crown of the Empire, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Altdorf: Crown of the Empire, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Altdorf: Crown of the Empire, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 50",
+     "en": "p. 50",
+     "de": "S. 50"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Altdorf",
+     "en": "Warhammer Fantasy Wiki (fandom), Altdorf page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Altdorf"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Altdorf"
+   }
+  ]
+ },
+ {
+  "id": "charte-des-droits-imperiaux",
+  "annee": 572,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "La Charte des droits impériaux",
+   "en": "The Charter of Imperial Rights",
+   "de": "Die Charta der imperialen Rechte"
+  },
+  "resume": {
+   "fr": "La Charte des droits impériaux est rédigée et reconnaît aux Halflings la qualité de citoyens de l'Empire.",
+   "en": "The Charter of Imperial Rights is drawn up and recognises Halflings as citizens of the Empire.",
+   "de": "Die Charta der imperialen Rechte wird verfasst und erkennt Halblinge als Bürger des Imperiums an."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [],
+  "factions": [
+   "empire"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Archives of the Empire Vol. I, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Archives of the Empire Vol. I, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Archives of the Empire Vol. I, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 33-35",
+     "en": "pp. 33-35",
+     "de": "S. 33-35"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Halfling",
+     "en": "Warhammer Fantasy Wiki (fandom), Halfling page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Halfling"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Halfling"
+   }
+  ]
+ },
+ {
+  "id": "seconde-guerre-de-la-tourte",
+  "annee": 701,
+  "fin": 719,
+  "approx": false,
+  "titre": {
+   "fr": "La seconde guerre de la Tourte",
+   "en": "The Second Pie War",
+   "de": "Der Zweite Pastetenkrieg"
+  },
+  "resume": {
+   "fr": "Tartlytongue Burdenblouse invente la tourte sans couvercle, la tarte, et déclenche une nouvelle guerre. Pour y mettre fin, l'ancien Leopold Ramsitthome crée en 719 CI une instance chargée de trancher les litiges de pâtisserie. Il se laisse si facilement acheter qu'on la surnomme la Pay Leo Diet.",
+   "en": "Tartlytongue Burdenblouse invents the topless pie, or tart, and sets off a new war. To end it, Elder Leopold Ramsitthome creates a body in 719 IC to settle pastry disputes. He is so easily bought that it becomes known as the Pay Leo Diet.",
+   "de": "Tartlytongue Burdenblouse erfindet die Pastete ohne Deckel, die Tarte, und löst einen neuen Krieg aus. Um ihn zu beenden, schafft der Älteste Leopold Ramsitthome 719 IK ein Gremium für Gebäckstreitigkeiten. Er ist so leicht zu bestechen, dass es Pay Leo Diet genannt wird."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [],
+  "factions": [
+   "empire"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Archives of the Empire Vol. I, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Archives of the Empire Vol. I, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Archives of the Empire Vol. I, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 33-35",
+     "en": "pp. 33-35",
+     "de": "S. 33-35"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Halfling",
+     "en": "Warhammer Fantasy Wiki (fandom), Halfling page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Halfling"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Halfling"
+   }
+  ]
+ },
+ {
+  "id": "traite-de-la-feuille",
+  "annee": 738,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Le traité de la Feuille",
+   "en": "The Treaty of the Leaf",
+   "de": "Der Vertrag des Blattes"
+  },
+  "resume": {
+   "fr": "Les ancêtres de la famille Nikse négocient avec les Eonir le premier pacte autorisant des Humains à s'installer dans les futures terres du Nordland.",
+   "en": "Ancestors of the Nikse family negotiate with the Eonir the first pact allowing Humans to settle in what will become the Nordland.",
+   "de": "Die Vorfahren der Familie Nikse handeln mit den Eonir den ersten Pakt aus, der Menschen die Ansiedlung im späteren Nordland erlaubt."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "foret-de-laurelorn"
+  ],
+  "factions": [
+   "empire",
+   "elfes-sylvains"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Salzenmund: City of Salt and Silver, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Salzenmund: City of Salt and Silver, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Salzenmund: City of Salt and Silver, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 18-24",
+     "en": "pp. 18-24",
+     "de": "S. 18-24"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Salzenmund",
+     "en": "Warhammer Fantasy Wiki (fandom), Salzenmund page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Salzenmund"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Salzenmund"
+   }
+  ]
+ },
+ {
+  "id": "wilhelm-bullshanks-nordland",
+  "annee": 767,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Wilhelm Bullshanks conquiert le Nordland",
+   "en": "Wilhelm Bullshanks conquers the Nordland",
+   "de": "Wilhelm Bullshanks erobert das Nordland"
+  },
+  "resume": {
+   "fr": "Attiré par la richesse des Jutones du nord, Wilhelm Bullshanks, cadet de l'électeur de Middenheim, s'empare de Salzenmund et chasse de la forteresse de Zinnentor le dernier des Rois d'argent. Leur royaume devient la baronnie de Nordland, intégrée à l'Empire et vassale du Middenland.",
+   "en": "Drawn by the wealth of the northern Jutones, Wilhelm Bullshanks, second son of the Elector of Middenheim, takes Salzenmund and drives the last of the Silver Kings from the Zinnentor fortress. Their realm becomes the Barony of Nordland, part of the Empire and vassal to Middenland.",
+   "de": "Vom Reichtum der nördlichen Jutonen angelockt, nimmt Wilhelm Bullshanks, zweiter Sohn des Kurfürsten von Middenheim, Salzenmund ein und vertreibt den letzten Silberkönig aus der Festung Zinnentor. Ihr Reich wird zur Baronie Nordland, Teil des Imperiums und Vasall des Middenlands."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "salzenmund"
+  ],
+  "factions": [
+   "empire"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Salzenmund: City of Salt and Silver, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Salzenmund: City of Salt and Silver, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Salzenmund: City of Salt and Silver, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 7",
+     "en": "p. 7",
+     "de": "S. 7"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Nordland",
+     "en": "Warhammer Fantasy Wiki (fandom), Nordland page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Nordland"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Nordland"
+   }
+  ]
+ },
+ {
+  "id": "le-fardeau-du-petit-homme",
+  "annee": 833,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Le Fardeau du petit homme",
+   "en": "The Short Man's Burden",
+   "de": "Die Bürde des kleinen Mannes"
+  },
+  "resume": {
+   "fr": "Le poète halfling Forthright Firstforemostly déclame The Short Man's Burden, qui invite les siens à entrer en service pour gagner du pouvoir en s'en tenant au plus près.",
+   "en": "The Halfling poet Forthright Firstforemostly performs The Short Man's Burden, urging his people to enter service and gain power by standing close to it.",
+   "de": "Der Halblingsdichter Forthright Firstforemostly trägt The Short Man's Burden vor und fordert die Seinen auf, in Dienst zu treten, um durch Nähe zur Macht selbst Einfluss zu gewinnen."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [],
+  "factions": [
+   "empire"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Archives of the Empire Vol. I, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Archives of the Empire Vol. I, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Archives of the Empire Vol. I, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 33-35",
+     "en": "pp. 33-35",
+     "de": "S. 33-35"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Halfling",
+     "en": "Warhammer Fantasy Wiki (fandom), Halfling page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Halfling"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Halfling"
+   }
+  ]
+ },
+ {
+  "id": "la-poussee-grise",
+  "annee": 850,
+  "fin": null,
+  "approx": true,
+  "titre": {
+   "fr": "La poussée grise au-delà des Montagnes Grises",
+   "en": "The Grey Driving beyond the Grey Mountains",
+   "de": "Der Graue Vorstoß über das Graue Gebirge"
+  },
+  "resume": {
+   "fr": "L'empereur Sigismund IV envahit les terres situées au-delà des Montagnes Grises. Des milliers de soldats traversent Bögenhafen, dont la population dépasse alors 5 000 habitants.",
+   "en": "Emperor Sigismund IV invades the lands beyond the Grey Mountains. Thousands of soldiers pass through Bögenhafen, whose population then rises above 5,000.",
+   "de": "Kaiser Sigismund IV. fällt in die Länder jenseits des Grauen Gebirges ein. Tausende Soldaten ziehen durch Bögenhafen, dessen Einwohnerzahl nun 5.000 übersteigt."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "empire",
+   "bretonnie"
+  ],
+  "lieux": [
+   "bogenhafen"
+  ],
+  "factions": [
+   "empire",
+   "bretonnie"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Enemy in Shadows, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Enemy in Shadows, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Enemy in Shadows, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 116-117",
+     "en": "pp. 116-117",
+     "de": "S. 116-117"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Bögenhafen",
+     "en": "Warhammer Fantasy Wiki (fandom), Bögenhafen page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Bögenhafen"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/B%C3%B6genhafen"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Emperor",
+     "en": "Warhammer Fantasy Wiki (fandom), Emperor page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Emperor"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Emperor"
+   }
+  ]
+ },
+ {
+  "id": "griffe-septique-a-altdorf",
+  "annee": 924,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "L'Ordre de la Griffe septique à Altdorf",
+   "en": "The Order of the Septic Claw in Altdorf",
+   "de": "Der Orden der Septischen Klaue in Altdorf"
+  },
+  "resume": {
+   "fr": "Une secte de Nurgle, l'Ordre de la Griffe septique, répand à Altdorf une épidémie de Crumbling Ague. Alors que le culte de Shallya touche au remède, les sectateurs invoquent une nuée sans fin de Nurglings. Ceux-ci s'entassent sur le temple de Shallya jusqu'à l'effondrer sur ses occupants, puis disparaissent.",
+   "en": "A cult of Nurgle, the Order of the Septic Claw, strikes Altdorf with an epidemic of Crumbling Ague. As the Cult of Shallya nears a cure, the cultists summon an endless swarm of Nurglings. These pile onto the temple of Shallya until it collapses on those within, then vanish.",
+   "de": "Ein Kult des Nurgle, der Orden der Septischen Klaue, sucht Altdorf mit einer Seuche namens Crumbling Ague heim. Als der Kult der Shallya kurz vor einem Heilmittel steht, beschwören die Kultisten einen endlosen Schwarm von Nurglingen. Diese türmen sich auf dem Shallyatempel, bis er über den Menschen darin einstürzt, und verschwinden."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "altdorf"
+  ],
+  "factions": [
+   "empire",
+   "chaos"
+  ],
+  "importance": 2,
+  "fiabilite": "etabli",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Liber Infectus, Warhammer Fantasy Roleplay 3e édition",
+     "en": "Liber Infectus, Warhammer Fantasy Roleplay 3rd edition",
+     "de": "Liber Infectus, Warhammer Fantasy Roleplay 3. Edition"
+    },
+    "detail": {
+     "fr": "p. 8",
+     "en": "p. 8",
+     "de": "S. 8"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Altdorf: Crown of the Empire, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Altdorf: Crown of the Empire, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Altdorf: Crown of the Empire, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 14-16",
+     "en": "pp. 14-16",
+     "de": "S. 14-16"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Altdorf",
+     "en": "Warhammer Fantasy Wiki (fandom), Altdorf page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Altdorf"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Altdorf"
+   }
+  ]
+ },
+ {
+  "id": "premiere-guerre-de-montfort",
+  "annee": 955,
+  "fin": 970,
+  "approx": false,
+  "titre": {
+   "fr": "La première guerre de Montfort",
+   "en": "The First Montfort War",
+   "de": "Der Erste Montfort-Krieg"
+  },
+  "resume": {
+   "fr": "Les tribus bretonni se soulèvent contre le Grauesland impérial et repoussent les troupes de l'Empire de l'autre côté des Montagnes Grises. Les réfugiés portent la population de Bögenhafen au delà de 10 000 habitants.",
+   "en": "The Bretonni tribes rise against Imperial Grauesland and drive the Empire's troops back across the Grey Mountains. Refugees lift Bögenhafen's population past 10,000.",
+   "de": "Die Bretonni-Stämme erheben sich gegen das imperiale Grauesland und treiben die Truppen des Imperiums über das Graue Gebirge zurück. Flüchtlinge lassen die Einwohnerzahl Bögenhafens auf über 10.000 steigen."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "empire",
+   "bretonnie"
+  ],
+  "lieux": [
+   "bogenhafen",
+   "montfort"
+  ],
+  "factions": [
+   "empire",
+   "bretonnie"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Enemy in Shadows, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Enemy in Shadows, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Enemy in Shadows, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 116-117",
+     "en": "pp. 116-117",
+     "de": "S. 116-117"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Bögenhafen",
+     "en": "Warhammer Fantasy Wiki (fandom), Bögenhafen page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Bögenhafen"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/B%C3%B6genhafen"
+   }
+  ]
+ },
+ {
+  "id": "nains-de-karak-ziflin-a-bogenhafen",
+  "annee": 998,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Les Nains de Karak Ziflin à Bögenhafen",
+   "en": "Dwarfs of Karak Ziflin at Bögenhafen",
+   "de": "Die Zwerge von Karak Ziflin in Bögenhafen"
+  },
+  "resume": {
+   "fr": "Des Nains de Karak Ziflin arrivent à Bögenhafen et nouent des relations diplomatiques avec la ville impériale en pleine croissance.",
+   "en": "Dwarfs from Karak Ziflin reach Bögenhafen and open diplomatic relations with the fast-growing Imperial town.",
+   "de": "Zwerge aus Karak Ziflin erreichen Bögenhafen und nehmen diplomatische Beziehungen zu der rasch wachsenden imperialen Stadt auf."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "bogenhafen",
+   "karak-ziflin"
+  ],
+  "factions": [
+   "empire",
+   "nains"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Enemy in Shadows, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Enemy in Shadows, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Enemy in Shadows, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 116-117",
+     "en": "pp. 116-117",
+     "de": "S. 116-117"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Bögenhafen",
+     "en": "Warhammer Fantasy Wiki (fandom), Bögenhafen page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Bögenhafen"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/B%C3%B6genhafen"
+   }
+  ]
+ },
+ {
+  "id": "trudy-talltree-premiere-electrice",
+  "annee": 1010,
+  "fin": null,
+  "approx": true,
+  "titre": {
+   "fr": "Trudy Talltree, première électrice du Moot",
+   "en": "Trudy Talltree, first Elector of the Moot",
+   "de": "Trudy Talltree, erste Kurfürstin des Moots"
+  },
+  "resume": {
+   "fr": "Ludwig le Gros exige que l'électeur du Moot soit né sur son sol, pensant que les Halflings ne pourront présenter de nouveau-né à temps et perdront leur siège. Ils relèvent le défi et produisent trois mois plus tard Pulchritudinous Talltree, dite Trudy, plus jeune électrice de l'histoire, conseillée par sa famille.",
+   "en": "Ludwig the Fat requires that the Moot's Elector be born on its soil, assuming the Halflings cannot produce a newborn in time and will forfeit their seat. They call his bluff and three months later present Pulchritudinous 'Trudy' Talltree, the youngest Elector ever, guided by her family.",
+   "de": "Ludwig der Dicke verlangt, dass der Kurfürst des Moots dort geboren sein muss, in der Annahme, die Halblinge könnten nicht rechtzeitig einen Säugling vorweisen und verlören ihren Sitz. Sie nehmen die Herausforderung an und präsentieren drei Monate später Pulchritudinous Talltree, genannt Trudy, die jüngste Kurfürstin aller Zeiten, beraten von ihrer Familie."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [],
+  "factions": [
+   "empire"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Archives of the Empire Vol. I, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Archives of the Empire Vol. I, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Archives of the Empire Vol. I, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 33-35",
+     "en": "pp. 33-35",
+     "de": "S. 33-35"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Halfling",
+     "en": "Warhammer Fantasy Wiki (fandom), Halfling page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Halfling"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Halfling"
+   }
+  ]
+ },
+ {
+  "id": "les-greenleafs-rattaches-au-moot",
+  "annee": 1035,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Les Greenleafs rattachés au Moot",
+   "en": "The Greenleafs join the Moot",
+   "de": "Die Greenleafs kommen zum Moot"
+  },
+  "resume": {
+   "fr": "Le territoire du Moot s'agrandit avec l'ajout des Greenleafs.",
+   "en": "The Moot's territory grows with the addition of the Greenleafs.",
+   "de": "Das Gebiet des Moots wächst um die Greenleafs."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [],
+  "factions": [
+   "empire"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Archives of the Empire Vol. I, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Archives of the Empire Vol. I, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Archives of the Empire Vol. I, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 33-35",
+     "en": "pp. 33-35",
+     "de": "S. 33-35"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Halfling",
+     "en": "Warhammer Fantasy Wiki (fandom), Halfling page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Halfling"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Halfling"
+   }
+  ]
+ },
+ {
+  "id": "boris-emprisonne-les-moltke",
+  "annee": 1070,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Boris Goldgather évince les Moltke",
+   "en": "Boris Goldgather ousts the Moltkes",
+   "de": "Boris Goldgather entmachtet die Moltkes"
+  },
+  "resume": {
+   "fr": "L'empereur Boris fait enfermer les Moltke à Altdorf et cède Salzenmund et le Nordland à son protégé, le duc Voltimand Salzwedel, qui paie en argent le territoire et une voix électorale.",
+   "en": "Emperor Boris has the Moltkes locked up in Altdorf and hands Salzenmund and the Nordland to his creature, Duke Voltimand Salzwedel, who pays silver for the land and an Electoral vote.",
+   "de": "Kaiser Boris lässt die Moltkes in Altdorf einsperren und übergibt Salzenmund und das Nordland seinem Günstling, Herzog Voltimand Salzwedel, der Land und Kurstimme mit Silber bezahlt."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "salzenmund",
+   "altdorf"
+  ],
+  "factions": [
+   "empire"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Salzenmund: City of Salt and Silver, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Salzenmund: City of Salt and Silver, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Salzenmund: City of Salt and Silver, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 8",
+     "en": "p. 8",
+     "de": "S. 8"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Nordland",
+     "en": "Warhammer Fantasy Wiki (fandom), Nordland page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Nordland"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Nordland"
+   }
+  ]
+ },
+ {
+  "id": "le-moot-alerte-boris-des-skavens",
+  "annee": 1105,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Le Moot avertit Boris de la menace skaven",
+   "en": "The Moot warns Boris of the Skaven",
+   "de": "Das Moot warnt Boris vor den Skaven"
+  },
+  "resume": {
+   "fr": "Des gardes-champêtres halflings se rendent à Altdorf pour signaler à l'empereur les soulèvements skavens qu'ils ont repérés. Boris l'Incompétent, pour qui les hommes-rats n'existent pas, déclare toute mention d'eux coupable de trahison. Six ans plus tard éclate la Peste noire.",
+   "en": "Halfling Fieldwardens travel to Altdorf to warn the Emperor of the Skaven uprisings they have detected. Boris the Incompetent, who holds that the ratmen do not exist, declares any mention of them treason. The Black Plague breaks out six years later.",
+   "de": "Halblings-Feldwächter reisen nach Altdorf, um den Kaiser vor den von ihnen entdeckten Skavenerhebungen zu warnen. Boris der Unfähige, für den es die Rattenmenschen nicht gibt, erklärt jede Erwähnung zum Hochverrat. Sechs Jahre später bricht die Schwarze Pest aus."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "altdorf"
+  ],
+  "factions": [
+   "empire",
+   "skavens"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Archives of the Empire Vol. I, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Archives of the Empire Vol. I, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Archives of the Empire Vol. I, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 33-35",
+     "en": "pp. 33-35",
+     "de": "S. 33-35"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Halfling",
+     "en": "Warhammer Fantasy Wiki (fandom), Halfling page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Halfling"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Halfling"
+   }
+  ]
+ },
+ {
+  "id": "marche-du-pain",
+  "annee": 1111,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "La marche du Pain",
+   "en": "The Bread March",
+   "de": "Der Brotmarsch"
+  },
+  "resume": {
+   "fr": "Boris supprime l'exemption d'impôt des Diensleute, guerriers de basse naissance. Des centaines de soldats sans emploi marchent sur Altdorf derrière Wilhelm Engel et sont réprimés dans le sang. Une tentative de coup d'État aristocratique échoue quelques mois plus tard.",
+   "en": "Boris abolishes the tax exemption of the Diensleute, lowborn warriors. Hundreds of unemployed soldiers march on Altdorf behind Wilhelm Engel and are bloodily put down. An aristocratic coup attempt fails some months later.",
+   "de": "Boris streicht die Steuerbefreiung der Diensleute, niedrig geborener Krieger. Hunderte arbeitslose Soldaten ziehen unter Wilhelm Engel nach Altdorf und werden blutig niedergeschlagen. Ein Putschversuch des Adels scheitert einige Monate später."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "altdorf"
+  ],
+  "factions": [
+   "empire"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Dead Winter, roman de C.L. Werner",
+     "en": "Dead Winter, novel by C.L. Werner",
+     "de": "Dead Winter, Roman von C.L. Werner"
+    },
+    "detail": {
+     "fr": "chap. 1",
+     "en": "ch. 1",
+     "de": "Kap. 1"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Empire of Man Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Empire of Man Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Empire of Man Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Empire_of_Man_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "kreyssig-protecteur-de-l-empire",
+  "annee": 1114,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Adolf Kreyssig, Protecteur de l'Empire",
+   "en": "Adolf Kreyssig, Protector of the Empire",
+   "de": "Adolf Kreyssig, Protektor des Imperiums"
+  },
+  "resume": {
+   "fr": "Fuyant la peste, Boris se retire dans son château ancestral de Carroburg et nomme Protecteur de l'Empire le chef de sa police secrète, Adolf Kreyssig. Celui-ci agite la menace d'une campagne contre Talabheim pour masquer la reconstitution de l'armée impériale.",
+   "en": "Fleeing the plague, Boris withdraws to his ancestral castle at Carroburg and names his secret police chief, Adolf Kreyssig, Protector of the Empire. Kreyssig talks of a campaign against Talabheim to mask the rebuilding of the Imperial army.",
+   "de": "Auf der Flucht vor der Pest zieht sich Boris auf seine Stammburg in Carroburg zurück und ernennt seinen Geheimpolizeichef Adolf Kreyssig zum Protektor des Imperiums. Dieser droht mit einem Feldzug gegen Talabheim, um den Wiederaufbau des kaiserlichen Heeres zu verschleiern."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "carroburg",
+   "talabheim"
+  ],
+  "factions": [
+   "empire"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Blighted Empire, roman de C.L. Werner",
+     "en": "Blighted Empire, novel by C.L. Werner",
+     "de": "Blighted Empire, Roman von C.L. Werner"
+    },
+    "detail": {
+     "fr": "chap. 2",
+     "en": "ch. 2",
+     "de": "Kap. 2"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Blighted Empire, roman de C.L. Werner",
+     "en": "Blighted Empire, novel by C.L. Werner",
+     "de": "Blighted Empire, Roman von C.L. Werner"
+    },
+    "detail": {
+     "fr": "chap. 15",
+     "en": "ch. 15",
+     "de": "Kap. 15"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Empire of Man Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Empire of Man Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Empire of Man Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Empire_of_Man_Timeline"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Talabheim",
+     "en": "Warhammer Fantasy Wiki (fandom), Talabheim page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Talabheim"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Talabheim"
+   }
+  ]
+ },
+ {
+  "id": "norses-et-salzenmundois-contre-les-skavens",
+  "annee": 1114,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Norses et gens de Salzenmund contre les Skavens",
+   "en": "Norse and Salzenmunders against the Skaven",
+   "de": "Norsen und Salzenmunder gegen die Skaven"
+  },
+  "resume": {
+   "fr": "Le Skaeling Harald le Rugissant tient la ville de Salzenmund tandis que les héritiers Salzwedel défendent le château quand les Skavens frappent en force. Assiégeants et assiégés s'allient pour les rejeter dans les collines.",
+   "en": "The Skaeling Harald the Roarer holds the town of Salzenmund and the Salzwedel heirs the castle when the Skaven strike in force. Besiegers and besieged join to drive them into the hills.",
+   "de": "Der Skaeling Harald der Brüller hält die Stadt Salzenmund und die Salzwedel-Erben die Burg, als die Skaven mit voller Macht angreifen. Belagerer und Belagerte verbünden sich und treiben sie in die Hügel."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "salzenmund"
+  ],
+  "factions": [
+   "empire",
+   "humains-autres",
+   "skavens"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Salzenmund: City of Salt and Silver, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Salzenmund: City of Salt and Silver, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Salzenmund: City of Salt and Silver, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 8",
+     "en": "p. 8",
+     "de": "S. 8"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Nordland",
+     "en": "Warhammer Fantasy Wiki (fandom), Nordland page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Nordland"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Nordland"
+   }
+  ]
+ },
+ {
+  "id": "le-moot-abandonne",
+  "annee": 1115,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Le Moot abandonné",
+   "en": "The Moot abandoned",
+   "de": "Das Moot wird aufgegeben"
+  },
+  "resume": {
+   "fr": "Tandis que les clans skavens se répandent, le Stirland et l'Averland laissent le Moot à son sort. Les Halflings trouvent refuge dans les forteresses naines.",
+   "en": "As the Skaven clans spread, Stirland and Averland leave the Moot to its fate. The Halflings take shelter in Dwarf holds.",
+   "de": "Während sich die Skavenklans ausbreiten, überlassen Stirland und Averland das Moot seinem Schicksal. Die Halblinge suchen Zuflucht in den Zwergenfestungen."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [],
+  "factions": [
+   "empire",
+   "skavens",
+   "nains"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Archives of the Empire Vol. I, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Archives of the Empire Vol. I, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Archives of the Empire Vol. I, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 33-35",
+     "en": "pp. 33-35",
+     "de": "S. 33-35"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Halfling",
+     "en": "Warhammer Fantasy Wiki (fandom), Halfling page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Halfling"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Halfling"
+   }
+  ]
+ },
+ {
+  "id": "les-halflings-prennent-saurapfel",
+  "annee": 1124,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Les Halflings prennent Saurapfel",
+   "en": "The Halflings claim Saurapfel",
+   "de": "Die Halblinge nehmen Saurapfel"
+  },
+  "resume": {
+   "fr": "Mandred Tueur de rats ayant chassé les Skavens, les Halflings sont le plus souvent les premiers à regagner les bourgs et à les rebâtir. Ils en profitent pour enlever Saurapfel à l'Averland.",
+   "en": "Once Mandred Skavenslayer has driven out the Skaven, Halflings are usually the first to return to the towns and rebuild them. They use the moment to claim Saurapfel from Averland.",
+   "de": "Nachdem Mandred die Skaven vertrieben hat, kehren die Halblinge meist als Erste in die Städte zurück und bauen sie wieder auf. Dabei nehmen sie dem Averland Saurapfel ab."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [],
+  "factions": [
+   "empire"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Archives of the Empire Vol. I, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Archives of the Empire Vol. I, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Archives of the Empire Vol. I, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 33-35",
+     "en": "pp. 33-35",
+     "de": "S. 33-35"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Halfling",
+     "en": "Warhammer Fantasy Wiki (fandom), Halfling page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Halfling"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Halfling"
+   }
+  ]
+ },
+ {
+  "id": "declin-des-villages-du-drakwald",
+  "annee": 1153,
+  "fin": 1200,
+  "approx": true,
+  "titre": {
+   "fr": "Déclin des villages du Drakwald",
+   "en": "Decline of the Drakwald villages",
+   "de": "Niedergang der Drakwalddörfer"
+  },
+  "resume": {
+   "fr": "La forêt reprend ses droits sur les terres du Drakwald, dont les villages tombent peu à peu aux mains des bêtes du Chaos et des Gobelins.",
+   "en": "The woods reclaim the Drakwald's farmland, and its villages fall one after another to Chaos beasts and Goblins.",
+   "de": "Der Wald erobert das Land des Drakwalds zurück, und seine Dörfer fallen nach und nach an Chaosbestien und Goblins."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "foret-de-drakwald"
+  ],
+  "factions": [
+   "empire",
+   "chaos",
+   "peaux-vertes"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2e édition",
+     "en": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2nd edition",
+     "de": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2. Edition"
+    },
+    "detail": {
+     "fr": "p. 21",
+     "en": "p. 21",
+     "de": "S. 21"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Empire of Man Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Empire of Man Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Empire of Man Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Empire_of_Man_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "bataille-de-beeckerhoven",
+  "annee": 1244,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Bataille de Beeckerhoven",
+   "en": "Battle of Beeckerhoven",
+   "de": "Schlacht von Beeckerhoven"
+  },
+  "resume": {
+   "fr": "Le comte Einrich Moltke de Nordland bat plusieurs armées d'Orques et d'Hommes-bêtes, puis affronte Dieter Helsnicht. Son armée est presque anéantie dans une embuscade au bord du lac des Malheurs, mais il tient Beeckerhoven jusqu'à l'arrivée des renforts. Le nécromancien s'échappe sur sa manticore, et le comte se vante qu'il ait fallu un Nordlander pour régler un problème de Middenheim.",
+   "en": "Count Einrich Moltke of Nordland defeats several armies of Orcs and Beastmen, then faces Dieter Helsnicht. His army is all but destroyed in an ambush by the Lake of Woes, but he holds Beeckerhoven until reinforcements arrive. The necromancer escapes on his manticore, and the count boasts that it took a Nordlander to deal with a Middenheim problem.",
+   "de": "Graf Einrich Moltke vom Nordland schlägt mehrere Heere von Orks und Tiermenschen und stellt sich dann Dieter Helsnicht. Sein Heer wird am See des Leids aus dem Hinterhalt fast vernichtet, doch er hält Beeckerhoven bis zum Eintreffen der Verstärkung. Der Nekromant entkommt auf seinem Mantikor, und der Graf prahlt, es habe einen Nordländer gebraucht, um ein Problem Middenheims zu lösen."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [],
+  "factions": [
+   "empire",
+   "vampires",
+   "peaux-vertes",
+   "chaos"
+  ],
+  "importance": 2,
+  "fiabilite": "etabli",
+  "note": {
+   "fr": "Faction vampires retenue faute de faction nécromant.",
+   "en": "Vampire faction used for lack of a necromancer faction.",
+   "de": "Fraktion Vampire mangels einer Nekromanten-Fraktion."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Salzenmund: City of Salt and Silver, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Salzenmund: City of Salt and Silver, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Salzenmund: City of Salt and Silver, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 8",
+     "en": "p. 8",
+     "de": "S. 8"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Middenheim: City of the White Wolf, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Middenheim: City of the White Wolf, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Middenheim: City of the White Wolf, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 6-11",
+     "en": "pp. 6-11",
+     "de": "S. 6-11"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Undead, 4e édition",
+     "en": "Warhammer Armies: Undead, 4th edition",
+     "de": "Warhammer Armies: Undead, 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 45-49",
+     "en": "pp. 45-49",
+     "de": "S. 45-49"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Nordland",
+     "en": "Warhammer Fantasy Wiki (fandom), Nordland page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Nordland"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Nordland"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Dieter Helsnicht",
+     "en": "Warhammer Fantasy Wiki (fandom), Dieter Helsnicht page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Dieter Helsnicht"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Dieter_Helsnicht"
+   }
+  ]
+ },
+ {
+  "id": "gottfried-moltke-et-l-arche-noire",
+  "annee": 1267,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Gottfried Moltke repousse une Arche noire",
+   "en": "Gottfried Moltke repels a Black Ark",
+   "de": "Gottfried Moltke schlägt eine Schwarze Arche zurück"
+  },
+  "resume": {
+   "fr": "Les corsaires de l'Arche noire Ecstasy of Pain, chargés de captifs bretonniens après avoir anéanti l'armée du duc Philippe de Lyonesse, débarquent au Nordland. Le comte Gottfried Moltke les rejette à la mer. Un bloc arraché à l'arche par l'un de ses sorciers sert de fondation au nouveau mur ouest du château de Salzenmund.",
+   "en": "Corsairs of the Black Ark Ecstasy of Pain, laden with Bretonnian captives after destroying the army of Duke Phillipe of Lyonesse, land in the Nordland. Count Gottfried Moltke throws them back into the sea. A block torn from the ark by one of his warlocks becomes the foundation of Castle Salzenmund's new west wall.",
+   "de": "Korsaren der Schwarzen Arche Ecstasy of Pain, beladen mit bretonischen Gefangenen, nachdem sie das Heer Herzog Philippes von Lyonesse vernichtet haben, landen im Nordland. Graf Gottfried Moltke wirft sie ins Meer zurück. Ein von seinem Hexer aus der Arche gerissener Block dient als Fundament der neuen Westmauer von Burg Salzenmund."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "salzenmund"
+  ],
+  "factions": [
+   "empire",
+   "elfes-noirs",
+   "bretonnie"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Salzenmund: City of Salt and Silver, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Salzenmund: City of Salt and Silver, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Salzenmund: City of Salt and Silver, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 8",
+     "en": "p. 8",
+     "de": "S. 8"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Nordland",
+     "en": "Warhammer Fantasy Wiki (fandom), Nordland page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Nordland"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Nordland"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Salzenmund",
+     "en": "Warhammer Fantasy Wiki (fandom), Salzenmund page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Salzenmund"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Salzenmund"
+   }
+  ]
+ },
+ {
+  "id": "le-norscan-de-buttermilk-condlywurst",
+  "annee": 1360,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Le « Norscan » de Buttermilk Condlywurst",
+   "en": "Buttermilk Condlywurst's 'Norscan'",
+   "de": "Der 'Norscan' von Buttermilk Condlywurst"
+  },
+  "resume": {
+   "fr": "Revenu des Désolations du Chaos, le Halfling Buttermilk Condlywurst rapporte l'idée du Norscan, une pâtisserie légère garnie de fruits et de crème.",
+   "en": "Back from the Chaos Wastes, the Halfling Buttermilk Condlywurst brings the idea of the Norscan, a fluffy pastry with fruit and custard.",
+   "de": "Aus der Chaoswüste zurückgekehrt, bringt der Halbling Buttermilk Condlywurst die Idee des Norscan mit, eines lockeren Gebäcks mit Früchten und Vanillecreme."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [],
+  "factions": [
+   "empire"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Archives of the Empire Vol. I, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Archives of the Empire Vol. I, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Archives of the Empire Vol. I, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 33-35",
+     "en": "pp. 33-35",
+     "de": "S. 33-35"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Halfling",
+     "en": "Warhammer Fantasy Wiki (fandom), Halfling page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Halfling"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Halfling"
+   }
+  ]
+ },
+ {
+  "id": "college-de-bataille-de-talabheim",
+  "annee": 1361,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Le Collège de bataille de Talabheim",
+   "en": "The Talabheim Battle College",
+   "de": "Das Kampfkolleg von Talabheim"
+  },
+  "resume": {
+   "fr": "Libre du dogme sigmarite, l'impératrice Ottilia autorise la fondation d'un Collège de bataille pour former des sorciers de guerre à son service. Sa fondatrice, la sorcière de village Frieda Grünwald, reste une héroïne populaire à Talabheim.",
+   "en": "Free of Sigmarite dogma, Empress Ottilia approves a Battle College to train war wizards for her cause. Its founder, the hedge wizard Frieda Grünwald, remains a folk hero in Talabheim.",
+   "de": "Frei vom sigmaritischen Dogma genehmigt Kaiserin Ottilia ein Kampfkolleg, das Kriegszauberer für sie ausbildet. Seine Gründerin, die Heckenzauberin Frieda Grünwald, ist in Talabheim eine Volksheldin."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "talabheim"
+  ],
+  "factions": [
+   "empire"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Realms of Sorcery, Warhammer Fantasy Roleplay 1e édition",
+     "en": "Realms of Sorcery, Warhammer Fantasy Roleplay 1st edition",
+     "de": "Realms of Sorcery, Warhammer Fantasy Roleplay 1. Edition"
+    },
+    "detail": {
+     "fr": "p. 37",
+     "en": "p. 37",
+     "de": "S. 37"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Talabheim",
+     "en": "Warhammer Fantasy Wiki (fandom), Talabheim page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Talabheim"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Talabheim"
+   }
+  ]
+ },
+ {
+  "id": "mercenaires-tileens-dans-la-guerre-civile",
+  "annee": 1366,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Mercenaires tiléens dans la guerre civile",
+   "en": "Tilean mercenaries in the civil wars",
+   "de": "Tileanische Söldner in den Bürgerkriegen"
+  },
+  "resume": {
+   "fr": "Des mercenaires tiléens commencent à combattre dans les deux camps des guerres civiles qui ravagent l'Empire.",
+   "en": "Tilean mercenaries begin to fight on both sides of the civil wars ravaging the Empire.",
+   "de": "Tileanische Söldner kämpfen fortan auf beiden Seiten der Bürgerkriege, die das Imperium verwüsten."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [],
+  "factions": [
+   "empire",
+   "humains-autres"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2e édition",
+     "en": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2nd edition",
+     "de": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2. Edition"
+    },
+    "detail": {
+     "fr": "p. 21",
+     "en": "p. 21",
+     "de": "S. 21"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Empire of Man Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Empire of Man Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Empire of Man Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Empire_of_Man_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "hjalmar-de-hargen",
+  "annee": 1401,
+  "fin": 1420,
+  "approx": true,
+  "titre": {
+   "fr": "Hjalmar de Hargen, l'empereur tyrannique",
+   "en": "Hjalmar of Hargen, the tyrant emperor",
+   "de": "Hjalmar von Hargen, der tyrannische Kaiser"
+  },
+  "resume": {
+   "fr": "Après le massacre de 1375, le duc Hjalmar de Hargen écrase ses rivaux, réunifie le Nordland vers 1401 et fixe sa cour à Dietershafen, faisant de Salzenmund un camp de prisonniers. Il parvient à régner six ans comme empereur, jusqu'à son assassinat. Les électeurs retirent alors au Nordland son statut de province électorale.",
+   "en": "After the massacre of 1375, Duke Hjalmar of Hargen crushes his rivals, reunifies the Nordland by 1401 and sets up his court at Dietershafen, turning Salzenmund into a prison camp. He manages to reign six years as Emperor until his assassination. The Electors then strip the Nordland of its Electoral status.",
+   "de": "Nach dem Massaker von 1375 vernichtet Herzog Hjalmar von Hargen seine Rivalen, vereint das Nordland bis 1401 und hält in Dietershafen Hof, während er Salzenmund zum Gefangenenlager macht. Sechs Jahre herrscht er als Kaiser, bis er ermordet wird. Die Kurfürsten entziehen dem Nordland daraufhin die Kurwürde."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "salzenmund"
+  ],
+  "factions": [
+   "empire"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "La page Emperor date son règne impérial de 1414 à 1420 CI, sans note de bas de page.",
+   "en": "The Emperor page dates his Imperial reign to 1414-1420 IC, without a footnote.",
+   "de": "Die Seite Emperor datiert seine Kaiserherrschaft auf 1414 bis 1420 IK, ohne Fußnote."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Salzenmund: City of Salt and Silver, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Salzenmund: City of Salt and Silver, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Salzenmund: City of Salt and Silver, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 7-11",
+     "en": "pp. 7-11",
+     "de": "S. 7-11"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Salzenmund",
+     "en": "Warhammer Fantasy Wiki (fandom), Salzenmund page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Salzenmund"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Salzenmund"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Nordland",
+     "en": "Warhammer Fantasy Wiki (fandom), Nordland page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Nordland"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Nordland"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Emperor",
+     "en": "Warhammer Fantasy Wiki (fandom), Emperor page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Emperor"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Emperor"
+   }
+  ]
+ },
+ {
+  "id": "ludger-moltke-et-le-jarl-asvaldr",
+  "annee": 1420,
+  "fin": null,
+  "approx": true,
+  "titre": {
+   "fr": "Ludger Moltke et le jarl Asvaldr",
+   "en": "Ludger Moltke and Jarl Asvaldr",
+   "de": "Ludger Moltke und Jarl Asvaldr"
+  },
+  "resume": {
+   "fr": "Le comte Brakh Metalmane descend des Montagnes du Milieu à la tête d'une armée du Chaos et attaque Beeckerhoven et Salzenmund. Le prince Ludger Moltke, qui ne règne plus que sur des ruines, reçoit l'aide du Norse Asvaldr, maître de plusieurs ports du Nordland. Ils repoussent l'ennemi et Ludger épouse Unni, la fille du jarl.",
+   "en": "Count Brakh Metalmane comes down from the Middle Mountains with a Chaos host and attacks Beeckerhoven and Salzenmund. Prince Ludger Moltke, ruler of little more than ruins, gets help from the Norscan Asvaldr, lord of several Nordland coastal settlements. They defeat the invaders and Ludger marries Unni, the Jarl's daughter.",
+   "de": "Graf Brakh Metalmane steigt mit einem Chaosheer aus dem Mittelgebirge herab und greift Beeckerhoven und Salzenmund an. Fürst Ludger Moltke, der kaum mehr als Ruinen beherrscht, erhält Hilfe vom Norsen Asvaldr, dem Herrn mehrerer Küstensiedlungen des Nordlands. Sie schlagen die Angreifer, und Ludger heiratet Unni, die Tochter des Jarls."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "salzenmund"
+  ],
+  "factions": [
+   "empire",
+   "chaos",
+   "humains-autres"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Salzenmund: City of Salt and Silver, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Salzenmund: City of Salt and Silver, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Salzenmund: City of Salt and Silver, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 9",
+     "en": "p. 9",
+     "de": "S. 9"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Nordland",
+     "en": "Warhammer Fantasy Wiki (fandom), Nordland page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Nordland"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Nordland"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Salzenmund",
+     "en": "Warhammer Fantasy Wiki (fandom), Salzenmund page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Salzenmund"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Salzenmund"
+   }
+  ]
+ },
+ {
+  "id": "soleil-flamboyant-contre-ulric",
+  "annee": 1470,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Le Soleil Flamboyant contre l'Église d'Ulric",
+   "en": "The Blazing Sun against the Church of Ulric",
+   "de": "Die Flammende Sonne gegen die Kirche Ulrics"
+  },
+  "resume": {
+   "fr": "L'ordre du Soleil Flamboyant entre en guerre contre l'Église d'Ulric, et des chevaliers s'affrontent dans les rues de Middenheim. Les pressions politiques mettent fin à la querelle, mais l'ordre n'a toujours pas de commanderie dans la Cité du Loup Blanc.",
+   "en": "The Order of the Blazing Sun goes to war with the Church of Ulric, and knights clash in the streets of Middenheim. Political pressure ends the feud, but the order still has no komturie in the City of the White Wolf.",
+   "de": "Der Orden der Flammenden Sonne zieht gegen die Kirche Ulrics in den Krieg, und Ritter kämpfen in den Straßen Middenheims. Politischer Druck beendet die Fehde, doch der Orden hat bis heute keine Komturei in der Stadt des Weißen Wolfs."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "middenheim"
+  ],
+  "factions": [
+   "empire"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Knight of the Blazing Sun, roman de Josh Reynolds",
+     "en": "Knight of the Blazing Sun, novel by Josh Reynolds",
+     "de": "Knight of the Blazing Sun, Roman von Josh Reynolds"
+    },
+    "detail": {
+     "fr": "chap. 2",
+     "en": "ch. 2",
+     "de": "Kap. 2"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Empire of Man Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Empire of Man Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Empire of Man Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Empire_of_Man_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "marine-du-reikland-et-ponts-d-altdorf",
+  "annee": 1489,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "La marine du Reikland et les ponts bas d'Altdorf",
+   "en": "The Reikland navy and Altdorf's low bridges",
+   "de": "Die Reikland-Marine und Altdorfs niedrige Brücken"
+  },
+  "resume": {
+   "fr": "Le prince de Reikland crée officiellement une marine d'État. Vers la même époque, des ponts bas sont jetés à Altdorf pour limiter l'influence des navires de Talabheim, de Carroburg, de Nuln et de Marienburg.",
+   "en": "The Prince of Reikland formally commissions a state navy. Around this time, low bridges are built in Altdorf to curb the influence of ships from Talabheim, Carroburg, Nuln and Marienburg.",
+   "de": "Der Fürst von Reikland gründet offiziell eine Staatsmarine. Etwa zur selben Zeit entstehen in Altdorf niedrige Brücken, die den Einfluss der Schiffe aus Talabheim, Carroburg, Nuln und Marienburg begrenzen sollen."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "altdorf"
+  ],
+  "factions": [
+   "empire"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Core Rulebook, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Core Rulebook, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Core Rulebook, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 273",
+     "en": "p. 273",
+     "de": "S. 273"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Empire of Man Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Empire of Man Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Empire of Man Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Empire_of_Man_Timeline"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Altdorf",
+     "en": "Warhammer Fantasy Wiki (fandom), Altdorf page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Altdorf"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Altdorf"
+   }
+  ]
+ },
+ {
+  "id": "neutralite-du-moot",
+  "annee": 1550,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "La neutralité du Moot",
+   "en": "The neutrality of the Moot",
+   "de": "Die Neutralität des Moots"
+  },
+  "resume": {
+   "fr": "Alors que trois empereurs se disputent le titre, le Moot se déclare neutre et ne reconnaît d'autre empereur que Sigmar tant qu'un conseil juste et égal n'aura pas été réuni. Cette décision fonde une tradition durable. Les Mootlanders se tiennent désormais à l'écart de la politique des grandes gens.",
+   "en": "As three Emperors contest the title, the Moot declares itself neutral, recognising no Emperor but Sigmar until a fair and equal Council is called. The decision founds a lasting tradition. From then on Mootlanders keep out of bigfooter politics.",
+   "de": "Während drei Kaiser um den Titel streiten, erklärt sich das Moot für neutral und erkennt keinen Kaiser außer Sigmar an, bis ein gerechter und gleicher Rat einberufen wird. Die Entscheidung begründet eine dauerhafte Tradition. Fortan halten sich die Mootländer aus der Politik der Großen heraus."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [],
+  "factions": [
+   "empire"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Archives of the Empire Vol. I, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Archives of the Empire Vol. I, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Archives of the Empire Vol. I, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 33-35",
+     "en": "pp. 33-35",
+     "de": "S. 33-35"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Halfling",
+     "en": "Warhammer Fantasy Wiki (fandom), Halfling page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Halfling"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Halfling"
+   }
+  ]
+ },
+ {
+  "id": "edit-de-la-milice-de-middenheim",
+  "annee": 1555,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "L'édit de la milice de Middenheim",
+   "en": "The Middenheim militia edict",
+   "de": "Das Milizedikt von Middenheim"
+  },
+  "resume": {
+   "fr": "Pour éviter le coût d'une grande armée permanente, le graf Siegfried le Significatif impose à tout Humain de 16 à 50 ans de posséder un arc, une arbalète ou une épée et de s'entraîner deux heures par semaine.",
+   "en": "To avoid the cost of a large standing army, Graf Siegfried the Significant requires every Human aged 16 to 50 to own a bow, crossbow or sword and to train two hours a week.",
+   "de": "Um die Kosten eines großen stehenden Heeres zu vermeiden, verpflichtet Graf Siegfried der Bedeutende jeden Menschen zwischen 16 und 50 Jahren zum Besitz von Bogen, Armbrust oder Schwert und zu zwei Stunden Übung pro Woche."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "middenheim"
+  ],
+  "factions": [
+   "empire"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Middenheim: City of the White Wolf, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Middenheim: City of the White Wolf, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Middenheim: City of the White Wolf, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 21-29",
+     "en": "pp. 21-29",
+     "de": "S. 21-29"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Middenheim",
+     "en": "Warhammer Fantasy Wiki (fandom), Middenheim page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Middenheim"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Middenheim"
+   }
+  ]
+ },
+ {
+  "id": "annees-souterraines-du-moot",
+  "annee": 1680,
+  "fin": 1889,
+  "approx": true,
+  "titre": {
+   "fr": "Les Années souterraines du Moot",
+   "en": "The Under Years of the Moot",
+   "de": "Die Unterjahre des Moots"
+  },
+  "resume": {
+   "fr": "Les morts relevés puis la horde de Peaux-vertes poussent les Mootlanders à se réfugier surtout sous terre. Ce repli leur vaut une réputation de lâcheté qui rejaillit sur tous les Halflings de l'Empire. Il creuse un profond fossé entre ceux-ci et les gens du Moot.",
+   "en": "The risen dead and then the Greenskin horde send Mootlanders into hiding, mainly underground. The retreat earns them a reputation for cowardice that spreads to all Halflings in the Empire. It opens a deep rift between those Halflings and the people of the Moot.",
+   "de": "Die erhobenen Toten und dann die Grünhäute-Horde zwingen die Mootländer, sich vor allem unter der Erde zu verbergen. Der Rückzug bringt ihnen den Ruf der Feigheit ein, der auf alle Halblinge des Imperiums abfärbt. Er reißt einen tiefen Graben zwischen diesen und den Leuten aus dem Moot auf."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [],
+  "factions": [
+   "empire",
+   "peaux-vertes",
+   "vampires"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "La source donne « 1680s-1880s », rendu ici par 1680 à 1889.",
+   "en": "The source gives '1680s-1880s', rendered here as 1680 to 1889.",
+   "de": "Die Quelle nennt '1680s-1880s', hier als 1680 bis 1889 wiedergegeben."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Archives of the Empire Vol. I, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Archives of the Empire Vol. I, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Archives of the Empire Vol. I, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 33-35",
+     "en": "pp. 33-35",
+     "de": "S. 33-35"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Halfling",
+     "en": "Warhammer Fantasy Wiki (fandom), Halfling page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Halfling"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Halfling"
+   }
+  ]
+ },
+ {
+  "id": "fin-de-la-lignee-moltke",
+  "annee": 1681,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Fin de la lignée Moltke",
+   "en": "End of the Moltke line",
+   "de": "Das Ende der Moltkes"
+  },
+  "resume": {
+   "fr": "Durant la même nuit, des ossements remontent du lac Ormsdeep et forment des monstres qui entraînent les habitants de Salzenmund sous les eaux. Einrich Moltke III est retrouvé mort et glacé au milieu des corps de ses ancêtres, sans héritier. Dieter Helsnicht, aperçu en plusieurs points de la ville à la fois, tient ainsi sa vengeance.",
+   "en": "During that same night, bones rise from the Ormsdeep and form monsters that drag the people of Salzenmund under the water. Einrich Moltke III is found frozen in death among the bodies of his ancestors, with no heir. Dieter Helsnicht, seen in several parts of town at once, thus has his revenge.",
+   "de": "In derselben Nacht steigen Knochen aus dem Ormsdeep auf und formen Ungeheuer, die die Bewohner Salzenmunds ins Wasser zerren. Einrich Moltke III. wird erstarrt und tot zwischen den Leichen seiner Ahnen gefunden, ohne Erben. Dieter Helsnicht, zugleich an mehreren Orten der Stadt gesehen, hat damit seine Rache."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "salzenmund"
+  ],
+  "factions": [
+   "empire",
+   "vampires"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Salzenmund: City of Salt and Silver, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Salzenmund: City of Salt and Silver, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Salzenmund: City of Salt and Silver, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 9",
+     "en": "p. 9",
+     "de": "S. 9"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Nordland",
+     "en": "Warhammer Fantasy Wiki (fandom), Nordland page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Nordland"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Nordland"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Salzenmund",
+     "en": "Warhammer Fantasy Wiki (fandom), Salzenmund page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Salzenmund"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Salzenmund"
+   }
+  ]
+ },
+ {
+  "id": "nuln-renonce-a-miragliano",
+  "annee": 1711,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Nuln renonce à Miragliano",
+   "en": "Nuln gives up Miragliano",
+   "de": "Nuln verzichtet auf Miragliano"
+  },
+  "resume": {
+   "fr": "Le grand comte Maximilian III von Hochkirsche, comte électeur de Nuln, mène une expédition en Tilée pour dominer Miragliano. Sa défaite finale face aux mercenaires de la cité met fin à ses prétentions sur la principauté.",
+   "en": "Grand Count Maximilian III von Hochkirsche, Elector Count of Nuln, leads an expedition into Tilea to dominate Miragliano. His final defeat by the city's mercenaries ends his claim to the principality.",
+   "de": "Großgraf Maximilian III. von Hochkirsche, Kurfürst von Nuln, führt ein Heer nach Tilea, um Miragliano zu beherrschen. Seine endgültige Niederlage gegen die Söldner der Stadt beendet seinen Anspruch auf das Fürstentum."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "empire",
+   "tilee-estalie"
+  ],
+  "lieux": [
+   "nuln",
+   "miragliano"
+  ],
+  "factions": [
+   "empire",
+   "humains-autres"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Up in Arms, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Up in Arms, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Up in Arms, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 49",
+     "en": "p. 49",
+     "de": "S. 49"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Empire of Man Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Empire of Man Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Empire of Man Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Empire_of_Man_Timeline"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Nuln",
+     "en": "Warhammer Fantasy Wiki (fandom), Nuln page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Nuln"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Nuln"
+   }
+  ]
+ },
+ {
+  "id": "collegium-theologica-de-middenheim",
+  "annee": 1762,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Fondation du Collegium Theologica",
+   "en": "Founding of the Collegium Theologica",
+   "de": "Gründung des Collegium Theologica"
+  },
+  "resume": {
+   "fr": "Le Collegium Theologica est fondé à Middenheim pour former les jeunes prêtres d'Ulric et diffuser les écrits du culte. Faute de charte impériale, il n'a pas le titre d'université mais se juge l'égal de celles d'Altdorf et de Nuln.",
+   "en": "The Collegium Theologica is founded in Middenheim to train young priests of Ulric and spread the cult's writings. Without an Imperial charter it is no university in name, yet it counts itself the equal of those of Altdorf and Nuln.",
+   "de": "Das Collegium Theologica wird in Middenheim gegründet, um junge Ulricpriester auszubilden und die Schriften des Kults zu verbreiten. Ohne kaiserliche Charta ist es dem Namen nach keine Universität, sieht sich aber denen von Altdorf und Nuln gleichgestellt."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "middenheim"
+  ],
+  "factions": [
+   "empire"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Middenheim: City of the White Wolf, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Middenheim: City of the White Wolf, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Middenheim: City of the White Wolf, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 40-60",
+     "en": "pp. 40-60",
+     "de": "S. 40-60"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Middenheim",
+     "en": "Warhammer Fantasy Wiki (fandom), Middenheim page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Middenheim"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Middenheim"
+   }
+  ]
+ },
+ {
+  "id": "peste-rouge-a-altdorf",
+  "annee": 1786,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "La Peste rouge à Altdorf",
+   "en": "The Red Plague in Altdorf",
+   "de": "Die Rote Pest in Altdorf"
+  },
+  "resume": {
+   "fr": "La Peste rouge décime Altdorf. Des milliers de morts sont ensevelis dans des fosses sans nom, à l'endroit appelé depuis le Cimetière hanté d'Altdorf.",
+   "en": "The Red Plague decimates Altdorf. Thousands are laid in unmarked graves, in what is now called the Haunted Cemetery of Altdorf.",
+   "de": "Die Rote Pest dezimiert Altdorf. Tausende werden in namenlosen Gräbern bestattet, am heute Spukfriedhof von Altdorf genannten Ort."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "altdorf"
+  ],
+  "factions": [
+   "empire"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Signs of Faith, Warhammer Fantasy Roleplay 3e édition",
+     "en": "Signs of Faith, Warhammer Fantasy Roleplay 3rd edition",
+     "de": "Signs of Faith, Warhammer Fantasy Roleplay 3. Edition"
+    },
+    "detail": {
+     "fr": "p. 10",
+     "en": "p. 10",
+     "de": "S. 10"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Altdorf",
+     "en": "Warhammer Fantasy Wiki (fandom), Altdorf page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Altdorf"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Altdorf"
+   }
+  ]
+ },
+ {
+  "id": "invention-du-friand-a-la-saucisse",
+  "annee": 1787,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Invention du friand à la saucisse",
+   "en": "Invention of the sausage roll",
+   "de": "Erfindung der Wurströllchen"
+  },
+  "resume": {
+   "fr": "Le manque de viande pour les tourtes conduit les Halflings à inventer le friand à la saucisse, resté un symbole décrié des temps de disette.",
+   "en": "A lack of pie meat leads Halflings to invent the sausage roll, which remains a much-maligned symbol of lean times.",
+   "de": "Fleischmangel für Pasteten bringt die Halblinge dazu, das Wurströllchen zu erfinden, das ein oft geschmähtes Sinnbild magerer Zeiten bleibt."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [],
+  "factions": [
+   "empire"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Archives of the Empire Vol. I, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Archives of the Empire Vol. I, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Archives of the Empire Vol. I, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 33-35",
+     "en": "pp. 33-35",
+     "de": "S. 33-35"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Halfling",
+     "en": "Warhammer Fantasy Wiki (fandom), Halfling page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Halfling"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Halfling"
+   }
+  ]
+ },
+ {
+  "id": "longue-nuit-du-chaos",
+  "annee": 1851,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "La Longue Nuit du Chaos",
+   "en": "The Long Night of Chaos",
+   "de": "Die Lange Nacht des Chaos"
+  },
+  "resume": {
+   "fr": "La nuit de Geheimnisnacht, les démons déferlent sur l'Empire. Des Hellflayers et des Chiens de Khorne se disputent les rues désertes d'Altdorf pour trancher un pari de leurs maîtres. À Talabheim, la foudre rose anime le grand temple de Shallya, qui se traîne à travers la ville et assaille le palais de l'empereur ottilien.",
+   "en": "On Geheimnisnacht, Daemons flood the Empire. Hellflayers and Flesh Hounds race through the deserted streets of Altdorf to settle a wager between their masters. In Talabheim, pink lightning brings the great temple of Shallya to life, and it drags itself across the city to attack the Ottilian Emperor's palace.",
+   "de": "In der Geheimnisnacht überfluten Dämonen das Imperium. Hellflayer und Fleischhunde jagen durch die leeren Straßen Altdorfs, um eine Wette ihrer Herren zu entscheiden. In Talabheim erweckt rosa Blitz den großen Shallyatempel zum Leben, der sich durch die Stadt schleppt und den Palast des ottilianischen Kaisers angreift."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "altdorf",
+   "talabheim"
+  ],
+  "factions": [
+   "empire",
+   "chaos"
+  ],
+  "importance": 2,
+  "fiabilite": "divergent",
+  "note": {
+   "fr": "La page Altdorf date l'événement de 1851 CI, la page Talabheim de 1861 CI, en citant toutes deux Daemons of Chaos p. 19. Le livre n'a pas été consulté.",
+   "en": "The Altdorf page dates the event to 1851 IC and the Talabheim page to 1861 IC, both citing Daemons of Chaos p. 19. The book itself was not consulted.",
+   "de": "Die Seite Altdorf datiert das Ereignis auf 1851 IK, die Seite Talabheim auf 1861 IK, beide mit Verweis auf Daemons of Chaos S. 19. Das Buch selbst wurde nicht eingesehen."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Daemons of Chaos, 8e édition",
+     "en": "Warhammer Armies: Daemons of Chaos, 8th edition",
+     "de": "Warhammer Armies: Daemons of Chaos, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 19",
+     "en": "p. 19",
+     "de": "S. 19"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Altdorf",
+     "en": "Warhammer Fantasy Wiki (fandom), Altdorf page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Altdorf"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Altdorf"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Talabheim",
+     "en": "Warhammer Fantasy Wiki (fandom), Talabheim page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Talabheim"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Talabheim"
+   }
+  ]
+ },
+ {
+  "id": "siege-de-carroburg-1865",
+  "annee": 1865,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Siège de Carroburg",
+   "en": "Siege of Carroburg",
+   "de": "Belagerung von Carroburg"
+  },
+  "resume": {
+   "fr": "Le comte de Middenland assiège son rival dans Carroburg, qui subit un siège sanglant.",
+   "en": "The Count of Middenland besieges his rival in Carroburg, which endures a bloody siege.",
+   "de": "Der Graf von Middenland belagert seinen Rivalen in Carroburg, das eine blutige Belagerung erleidet."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "carroburg"
+  ],
+  "factions": [
+   "empire"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "The Player's Guide, Warhammer Fantasy Roleplay 3e édition",
+     "en": "The Player's Guide, Warhammer Fantasy Roleplay 3rd edition",
+     "de": "The Player's Guide, Warhammer Fantasy Roleplay 3. Edition"
+    },
+    "detail": {
+     "fr": "p. 152",
+     "en": "p. 152",
+     "de": "S. 152"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Empire of Man Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Empire of Man Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Empire of Man Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Empire_of_Man_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "premiere-guerre-du-vorbergland",
+  "annee": 1941,
+  "fin": 1950,
+  "approx": false,
+  "titre": {
+   "fr": "Première guerre du Vorbergland",
+   "en": "First Vorbergland War",
+   "de": "Erster Vorberglandkrieg"
+  },
+  "resume": {
+   "fr": "Le Festin empoisonné ayant décimé la noblesse du Reikland, des prétendants rivaux se disputent la succession de Bögenhafen. Le traité de Hohenwand confirme finalement les droits des Stürmdunkel.",
+   "en": "With the Poisoned Feast having gutted the Reikland nobility, rival claimants fight over the succession of Bögenhafen. The Treaty of Hohenwand finally confirms the Stürmdunkel claim.",
+   "de": "Nachdem das Vergiftete Festmahl den Adel des Reiklands dezimiert hat, kämpfen rivalisierende Anwärter um die Nachfolge in Bögenhafen. Der Vertrag von Hohenwand bestätigt schließlich den Anspruch der Stürmdunkel."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "bogenhafen"
+  ],
+  "factions": [
+   "empire"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Enemy in Shadows, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Enemy in Shadows, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Enemy in Shadows, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 116-117",
+     "en": "pp. 116-117",
+     "de": "S. 116-117"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Bögenhafen",
+     "en": "Warhammer Fantasy Wiki (fandom), Bögenhafen page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Bögenhafen"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/B%C3%B6genhafen"
+   }
+  ]
+ },
+ {
+  "id": "guerre-des-sorciers-de-middenheim",
+  "annee": 1979,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "La guerre des Sorciers de Middenheim",
+   "en": "The Wizards' War of Middenheim",
+   "de": "Der Zaubererkrieg von Middenheim"
+  },
+  "resume": {
+   "fr": "Accusés par les répurgateurs de complaisance, les sorciers de Middenheim entreprennent de prouver que leur ville est saine et découvrent qu'elle abrite bel et bien nécromanciens et sorciers du Chaos. Le conflit reste limité à des combats clandestins, et la plupart des coupables préfèrent fuir. Morts-vivants et démons infestent toutefois ruelles et caves.",
+   "en": "Accused of laxity by witch hunters, Middenheim's wizards set out to prove the city clean and find that it does indeed harbour necromancers and Chaos sorcerers. The conflict stays confined to clandestine skirmishes, and most of the guilty prefer to flee. Even so, undead and daemons plague alleys and cellars.",
+   "de": "Von Hexenjägern der Nachlässigkeit beschuldigt, wollen die Zauberer Middenheims die Reinheit ihrer Stadt beweisen und entdecken, dass sie tatsächlich Nekromanten und Chaoshexer beherbergt. Der Konflikt bleibt auf verdeckte Gefechte beschränkt, und die meisten Schuldigen ziehen die Flucht vor. Dennoch plagen Untote und Dämonen Gassen und Keller."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "middenheim"
+  ],
+  "factions": [
+   "empire",
+   "chaos"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Middenheim: City of the White Wolf, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Middenheim: City of the White Wolf, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Middenheim: City of the White Wolf, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 6-11",
+     "en": "pp. 6-11",
+     "de": "S. 6-11"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Middenheim",
+     "en": "Warhammer Fantasy Wiki (fandom), Middenheim page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Middenheim"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Middenheim"
+   }
+  ]
+ },
+ {
+  "id": "massacre-de-debneitz",
+  "annee": 1988,
+  "fin": null,
+  "approx": true,
+  "titre": {
+   "fr": "Le massacre de Debneitz",
+   "en": "The massacre of Debneitz",
+   "de": "Das Massaker von Debneitz"
+  },
+  "resume": {
+   "fr": "Des corsaires elfes noirs attaquent la ville côtière fortifiée de Debneitz. Le comte électeur de Nordland Alfrich Gausser arrive avec une armée de secours pour trouver la place en ruine et toute sa population écorchée, clouée aux falaises voisines.",
+   "en": "Dark Elf Corsairs attack the fortified coastal town of Debneitz. The Elector Count of Nordland, Alfrich Gausser, arrives with a relief army to find the place in ruins and its entire populace flayed and nailed to the nearby cliffs.",
+   "de": "Dunkelelfenkorsaren greifen die befestigte Küstenstadt Debneitz an. Der Kurfürst des Nordlands, Alfrich Gausser, trifft mit einem Entsatzheer ein und findet den Ort in Trümmern, die gesamte Bevölkerung gehäutet und an die nahen Klippen genagelt."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [],
+  "factions": [
+   "empire",
+   "elfes-noirs"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: The Empire, 8e édition",
+     "en": "Warhammer Armies: The Empire, 8th edition",
+     "de": "Warhammer Armies: The Empire, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 16",
+     "en": "p. 16",
+     "de": "S. 16"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Empire of Man Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Empire of Man Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Empire of Man Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Empire_of_Man_Timeline"
+   },
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Dark Elves, 7e édition",
+     "en": "Warhammer Armies: Dark Elves, 7th edition",
+     "de": "Warhammer Armies: Dark Elves, 7. Edition"
+    },
+    "detail": {
+     "fr": "p. 33",
+     "en": "p. 33",
+     "de": "S. 33"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Dark Elf Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Dark Elf Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Dark Elf Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Dark_Elf_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "halflings-sur-les-ruines-de-la-comete",
+  "annee": 1999,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Les Halflings et la pierre de la comète",
+   "en": "The Halflings and the comet's stone",
+   "de": "Die Halblinge und der Kometenstein"
+  },
+  "resume": {
+   "fr": "Après la chute de la comète de malepierre, les Halflings montent de nombreuses expéditions sur le site. Bien des familles du Moot conservent depuis un éclat sur leur cheminée, ce que seule leur résistance naturelle à la corruption rend sans danger.",
+   "en": "After the warpstone comet falls, Halflings mount many expeditions to the site. Many Moot families have since kept a sliver on the mantelpiece, something only their natural resistance to corruption makes safe.",
+   "de": "Nach dem Einschlag des Warpsteinkometen unternehmen Halblinge zahlreiche Expeditionen zum Ort. Viele Familien im Moot bewahren seither einen Splitter auf dem Kaminsims auf, was nur ihre natürliche Widerstandskraft gegen Verderbnis gefahrlos macht."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "mordheim"
+  ],
+  "factions": [
+   "empire"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Archives of the Empire Vol. I, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Archives of the Empire Vol. I, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Archives of the Empire Vol. I, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 33-35",
+     "en": "pp. 33-35",
+     "de": "S. 33-35"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Halfling",
+     "en": "Warhammer Fantasy Wiki (fandom), Halfling page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Halfling"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Halfling"
+   }
+  ]
+ },
+ {
+  "id": "doctrine-moonrow",
+  "annee": 2000,
+  "fin": 2145,
+  "approx": true,
+  "titre": {
+   "fr": "La doctrine Moonrow",
+   "en": "The Moonrow Doctrine",
+   "de": "Die Moonrow-Doktrin"
+  },
+  "resume": {
+   "fr": "Pendant les guerres des Comtes vampires, la comtesse électrice Ellaminamanda Moonrow rompt avec la neutralité. Toute menace contre une partie de l'Empire devient une menace pour les Halflings, et le Moot répondra en force. Les vampires se tournent vers le nord, et l'Averland n'oubliera pas la protection reçue du Moot.",
+   "en": "During the wars of the Vampire Counts, Elector Count Ellaminamanda Moonrow breaks with neutrality. A threat to any part of the Empire becomes a threat to Halflings, and the Moot will respond in force. The vampires turn north, and Averlanders never forget the Moot's protection.",
+   "de": "Während der Vampirkriege bricht die Kurfürstin Ellaminamanda Moonrow mit der Neutralität. Jede Bedrohung eines Teils des Imperiums gilt nun als Bedrohung der Halblinge, und das Moot wird mit Macht antworten. Die Vampire wenden sich nach Norden, und das Averland vergisst den Schutz durch das Moot nicht."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [],
+  "factions": [
+   "empire",
+   "vampires"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Archives of the Empire Vol. I, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Archives of the Empire Vol. I, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Archives of the Empire Vol. I, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 33-35",
+     "en": "pp. 33-35",
+     "de": "S. 33-35"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Halfling",
+     "en": "Warhammer Fantasy Wiki (fandom), Halfling page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Halfling"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Halfling"
+   }
+  ]
+ },
+ {
+  "id": "seconde-guerre-du-vorbergland",
+  "annee": 2010,
+  "fin": 2037,
+  "approx": false,
+  "titre": {
+   "fr": "Seconde guerre du Vorbergland",
+   "en": "Second Vorbergland War",
+   "de": "Zweiter Vorberglandkrieg"
+  },
+  "resume": {
+   "fr": "Plusieurs maisons nobles se révoltent contre l'autorité du Reikland. Le grand prince d'Altdorf perd l'ouest et le sud de sa province, partagés entre les royaumes indépendants de Westen Vorbergland, de Suden Vorbergland et de Mittle Vorbergland.",
+   "en": "Several noble houses rebel against Reikland's authority. The Grand Prince of Altdorf loses the west and south of his province, divided among the independent kingdoms of Westen Vorbergland, Suden Vorbergland and Mittle Vorbergland.",
+   "de": "Mehrere Adelshäuser erheben sich gegen die Autorität des Reiklands. Der Großfürst von Altdorf verliert den Westen und Süden seiner Provinz, die sich in die unabhängigen Königreiche Westen Vorbergland, Suden Vorbergland und Mittle Vorbergland teilt."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "bogenhafen",
+   "altdorf"
+  ],
+  "factions": [
+   "empire"
+  ],
+  "importance": 2,
+  "fiabilite": "etabli",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Enemy in Shadows, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Enemy in Shadows, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Enemy in Shadows, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 116-117",
+     "en": "pp. 116-117",
+     "de": "S. 116-117"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Bögenhafen",
+     "en": "Warhammer Fantasy Wiki (fandom), Bögenhafen page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Bögenhafen"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/B%C3%B6genhafen"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Altdorf",
+     "en": "Warhammer Fantasy Wiki (fandom), Altdorf page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Altdorf"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Altdorf"
+   }
+  ]
+ },
+ {
+  "id": "talius-l-exalte",
+  "annee": 2020,
+  "fin": 2103,
+  "approx": false,
+  "titre": {
+   "fr": "Talius l'Exalté et les comtes magisters",
+   "en": "Talius the Exalted and the Magister Counts",
+   "de": "Talius der Erhabene und die Magistergrafen"
+  },
+  "resume": {
+   "fr": "Par ses illusions et avec l'appui de notables ensorcelés, un sorcier inconnu prend le pouvoir à Salzenmund sous le nom de Talius l'Exalté. Il rend au Nordland son statut électoral, puis disparaît en 2050 en cédant son titre à Ludmilla Gausser, le Masque de saphir. Des sorciers se transmettent la charge jusqu'en 2103.",
+   "en": "Using illusions and the backing of bewitched notables, an unknown wizard takes power in Salzenmund as Talius the Exalted. He restores the Nordland's Electoral status, then disappears in 2050, passing his title to Ludmilla Gausser, the Sapphire Mask. Wizards hand down the office until 2103.",
+   "de": "Mit Illusionen und der Hilfe verzauberter Würdenträger übernimmt ein unbekannter Zauberer als Talius der Erhabene die Macht in Salzenmund. Er gibt dem Nordland die Kurwürde zurück und verschwindet 2050, wobei er seinen Titel Ludmilla Gausser, der Saphirmaske, überlässt. Zauberer reichen das Amt bis 2103 weiter."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "salzenmund"
+  ],
+  "factions": [
+   "empire"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Salzenmund: City of Salt and Silver, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Salzenmund: City of Salt and Silver, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Salzenmund: City of Salt and Silver, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 7-11 et 25-27",
+     "en": "pp. 7-11, 25-27",
+     "de": "S. 7-11 und 25-27"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Salzenmund",
+     "en": "Warhammer Fantasy Wiki (fandom), Salzenmund page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Salzenmund"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Salzenmund"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Nordland",
+     "en": "Warhammer Fantasy Wiki (fandom), Nordland page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Nordland"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Nordland"
+   }
+  ]
+ },
+ {
+  "id": "sac-de-bogenhafen-par-vlad",
+  "annee": 2050,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Vlad von Carstein saccage Bögenhafen",
+   "en": "Vlad von Carstein sacks Bögenhafen",
+   "de": "Vlad von Carstein plündert Bögenhafen"
+  },
+  "resume": {
+   "fr": "Le roi Oberadal de Suden Vorbergland implore en 2049 une aide que ses voisins lui refusent. L'année suivante, les armées de Vlad von Carstein mettent à sac Bögenhafen et la détruisent en grande partie.",
+   "en": "In 2049 King Oberadal of Suden Vorbergland begs for aid that his neighbours deny him. The next year, the armies of Vlad von Carstein sack Bögenhafen and largely destroy it.",
+   "de": "König Oberadal von Suden Vorbergland bittet 2049 um Hilfe, die ihm die Nachbarn verweigern. Im Jahr darauf plündern die Heere Vlad von Carsteins Bögenhafen und zerstören es weitgehend."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "bogenhafen"
+  ],
+  "factions": [
+   "empire",
+   "vampires"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Enemy in Shadows, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Enemy in Shadows, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Enemy in Shadows, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 116-117",
+     "en": "pp. 116-117",
+     "de": "S. 116-117"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Bögenhafen",
+     "en": "Warhammer Fantasy Wiki (fandom), Bögenhafen page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Bögenhafen"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/B%C3%B6genhafen"
+   }
+  ]
+ },
+ {
+  "id": "schisme-flagellant",
+  "annee": 2051,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Le schisme flagellant",
+   "en": "The Flagellant Schism",
+   "de": "Das Flagellantenschisma"
+  },
+  "resume": {
+   "fr": "Une guerre de religion éclate parmi les fidèles de Sigmar. Le prophète sigmarite Gunther von Linten en aurait donné le signal bien malgré lui, en mettant le feu à sa barbe alors qu'il allumait sa pipe.",
+   "en": "A religious war breaks out among the faithful of Sigmar. The Sigmarite prophet Gunther von Linten is said to have set it off by accident, setting fire to his beard while lighting his pipe.",
+   "de": "Unter den Gläubigen Sigmars bricht ein Religionskrieg aus. Der sigmaritische Prophet Gunther von Linten soll ihn unabsichtlich ausgelöst haben, als er sich beim Anzünden seiner Pfeife den Bart in Brand setzte."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [],
+  "factions": [
+   "empire"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer: Rulebook, 8e édition",
+     "en": "Warhammer: Rulebook, 8th edition",
+     "de": "Warhammer: Rulebook, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 177",
+     "en": "p. 177",
+     "de": "S. 177"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Empire of Man Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Empire of Man Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Empire of Man Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Empire_of_Man_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "siege-de-sorn-ghoulskin",
+  "annee": 2121,
+  "fin": 2123,
+  "approx": false,
+  "titre": {
+   "fr": "Le siège de Sorn Ghoulskin",
+   "en": "The siege of Sorn Ghoulskin",
+   "de": "Die Belagerung durch Sorn Ghoulskin"
+  },
+  "resume": {
+   "fr": "Le chaman norse Sorn Ghoulskin, venu chercher les secrets de la nécromancie au Nordland, assiège Salzenmund pendant deux ans en relevant ses esclaves morts. Il bâtit un Colosse nécrofex à partir de l'épave de la prison flottante Iron Fetter. Le baron Jorgen Nikse et des troupes de Middenheim brisent le siège.",
+   "en": "The Norscan shaman Sorn Ghoulskin, who has come to the Nordland seeking the secrets of necromancy, besieges Salzenmund for two years, raising his dead thralls. He builds a Necrofex Colossus from the wreck of the prison hulk Iron Fetter. Baron Jorgen Nikse and Middenheim troops break the siege.",
+   "de": "Der norsische Schamane Sorn Ghoulskin, der im Nordland die Geheimnisse der Nekromantie sucht, belagert Salzenmund zwei Jahre lang und erhebt seine toten Sklaven. Aus dem Wrack des Gefängnisschiffs Iron Fetter baut er einen Nekrofex-Koloss. Baron Jorgen Nikse und Truppen aus Middenheim brechen die Belagerung."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "salzenmund",
+   "middenheim"
+  ],
+  "factions": [
+   "empire",
+   "chaos"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Salzenmund: City of Salt and Silver, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Salzenmund: City of Salt and Silver, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Salzenmund: City of Salt and Silver, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 7-11",
+     "en": "pp. 7-11",
+     "de": "S. 7-11"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Salzenmund",
+     "en": "Warhammer Fantasy Wiki (fandom), Salzenmund page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Salzenmund"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Salzenmund"
+   }
+  ]
+ },
+ {
+  "id": "hagiarque-stefnir-nymus",
+  "annee": 2123,
+  "fin": 2138,
+  "approx": true,
+  "titre": {
+   "fr": "Stefnir Nymus, hagiarque de Salzenmund",
+   "en": "Stefnir Nymus, hagiarch of Salzenmund",
+   "de": "Stefnir Nymus, Hagiarch von Salzenmund"
+  },
+  "resume": {
+   "fr": "Après le siège, le prêtre d'Ulric Stefnir Nymus proclame la ville sous l'autorité du Loup Blanc et bannit la noblesse. Au bout de quinze ans de règne austère, les nobles exilés reviennent avec le désaveu de l'Ar-Ulric, et la foule exécute Nymus.",
+   "en": "After the siege, the priest of Ulric Stefnir Nymus declares the town under the rule of the White Wolf and banishes the nobility. After fifteen austere years, the exiled nobles return with the Ar-Ulric's denunciation, and the mob executes Nymus.",
+   "de": "Nach der Belagerung stellt der Ulricpriester Stefnir Nymus die Stadt unter die Herrschaft des Weißen Wolfs und verbannt den Adel. Nach fünfzehn strengen Jahren kehren die Verbannten mit der Verurteilung durch den Ar-Ulric zurück, und der Pöbel richtet Nymus hin."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "salzenmund"
+  ],
+  "factions": [
+   "empire"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Dates déduites de la page : quinze ans après le siège de 2121-2123 CI.",
+   "en": "Dates inferred from the page: fifteen years after the siege of 2121-2123 IC.",
+   "de": "Daten aus der Seite abgeleitet: fünfzehn Jahre nach der Belagerung von 2121 bis 2123 IK."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Salzenmund: City of Salt and Silver, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Salzenmund: City of Salt and Silver, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Salzenmund: City of Salt and Silver, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 7-11",
+     "en": "pp. 7-11",
+     "de": "S. 7-11"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Salzenmund",
+     "en": "Warhammer Fantasy Wiki (fandom), Salzenmund page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Salzenmund"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Salzenmund"
+   }
+  ]
+ },
+ {
+  "id": "les-eonir-marchent-sur-salzenmund",
+  "annee": 2168,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Les Eonir marchent sur Salzenmund",
+   "en": "The Eonir march on Salzenmund",
+   "de": "Die Eonir ziehen gegen Salzenmund"
+  },
+  "resume": {
+   "fr": "Lassés des coupes de bois sur les rives de la Demst, les Eonir de la Laurelorn fondent sur Salzenmund avec des Hommes-arbres et des esprits de la forêt. Le comte Algar II se rend à la haute-née Vatheleir, qui accepte ses excuses puis le décapite. L'armée elfe disparaît dans l'heure.",
+   "en": "Tired of logging along the River Demst, the Eonir of the Laurelorn fall on Salzenmund with Treemen and Branchwraiths. Count Algar II surrenders to the Highborn Vatheleir, who accepts his apology and beheads him. The Elven host is gone within the hour.",
+   "de": "Die Eonir aus dem Laurelorn, der Holzfällerei am Fluss Demst überdrüssig, fallen mit Baummenschen und Astwesen über Salzenmund her. Graf Algar II. ergibt sich der Hochgeborenen Vatheleir, die seine Entschuldigung annimmt und ihn enthauptet. Binnen einer Stunde ist das Elfenheer verschwunden."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "salzenmund",
+   "foret-de-laurelorn"
+  ],
+  "factions": [
+   "empire",
+   "elfes-sylvains"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Salzenmund: City of Salt and Silver, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Salzenmund: City of Salt and Silver, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Salzenmund: City of Salt and Silver, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 7-11",
+     "en": "pp. 7-11",
+     "de": "S. 7-11"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Salzenmund",
+     "en": "Warhammer Fantasy Wiki (fandom), Salzenmund page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Salzenmund"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Salzenmund"
+   }
+  ]
+ },
+ {
+  "id": "charte-de-salzenmund",
+  "annee": 2190,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "La charte de Salzenmund",
+   "en": "The charter of Salzenmund",
+   "de": "Die Charta von Salzenmund"
+  },
+  "resume": {
+   "fr": "Le haut roi Helvar Ironaxe remonte la Salz, mais les habitants, menés par les Chevaliers de l'Étoile du Nord, tiennent les Norses à distance tandis que le comte Gunter Ostrein se cache dans sa cave. Pressé par les marchands, Gunter signe une charte de ville libre et le premier conseil est confié au bourgmestre Dankmar Hasel.",
+   "en": "High King Helvar Ironaxe sails up the Salz, but the townsfolk, led by the Knights of the North Star, keep the Norscans at bay while Count Gunter Ostrein hides in his cellar. Pressed by the merchants, Gunter signs a free-town charter, and the first council goes to Burgomeister Dankmar Hasel.",
+   "de": "Hochkönig Helvar Ironaxe segelt die Salz hinauf, doch die Bürger halten unter den Rittern des Nordsterns die Norsen fern, während sich Graf Gunter Ostrein in seinem Keller versteckt. Von den Kaufleuten bedrängt, unterzeichnet Gunter eine Charta der freien Stadt, und den ersten Rat führt Bürgermeister Dankmar Hasel."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "salzenmund"
+  ],
+  "factions": [
+   "empire",
+   "humains-autres"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Salzenmund: City of Salt and Silver, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Salzenmund: City of Salt and Silver, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Salzenmund: City of Salt and Silver, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 7-11",
+     "en": "pp. 7-11",
+     "de": "S. 7-11"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Salzenmund",
+     "en": "Warhammer Fantasy Wiki (fandom), Salzenmund page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Salzenmund"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Salzenmund"
+   }
+  ]
+ },
+ {
+  "id": "marche-de-la-runtwater",
+  "annee": 2211,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "La marche de la runtwater",
+   "en": "The runtwater march",
+   "de": "Der Runtwater-Marsch"
+  },
+  "resume": {
+   "fr": "Au cours d'une querelle sur les droits miniers, les Nains des Montagnes Grises barrent les rivières qui irriguent le Vorbergland. Les paysans lésés marchent sur Altdorf, et électeurs et empereurs veillent depuis à ménager ces Nains.",
+   "en": "During a dispute over mining rights, the Dwarfs of the Grey Mountains dam the rivers that water the Vorbergland. The affected peasants march on Altdorf, and Electors and Emperors have taken care to keep those Dwarfs happy ever since.",
+   "de": "In einem Streit um Schürfrechte stauen die Zwerge des Grauen Gebirges die Flüsse, die das Vorbergland bewässern. Die betroffenen Bauern ziehen nach Altdorf, und seither achten Kurfürsten und Kaiser darauf, diese Zwerge bei Laune zu halten."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "altdorf"
+  ],
+  "factions": [
+   "empire",
+   "nains"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2e édition",
+     "en": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2nd edition",
+     "de": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2. Edition"
+    },
+    "detail": {
+     "fr": "p. 77-85",
+     "en": "pp. 77-85",
+     "de": "S. 77-85"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Reikland",
+     "en": "Warhammer Fantasy Wiki (fandom), Reikland page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Reikland"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Reikland"
+   }
+  ]
+ },
+ {
+  "id": "le-flan-interdit",
+  "annee": 2231,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Le flan interdit",
+   "en": "The flan banned",
+   "de": "Das Flan-Verbot"
+  },
+  "resume": {
+   "fr": "Le flan est déclaré illégal chez les Halflings, ce qui n'empêche pas sa cuisson clandestine de se poursuivre.",
+   "en": "The flan is made illegal among Halflings, though unlawful baking carries on.",
+   "de": "Der Flan wird bei den Halblingen verboten, doch das heimliche Backen geht weiter."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [],
+  "factions": [
+   "empire"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Archives of the Empire Vol. I, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Archives of the Empire Vol. I, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Archives of the Empire Vol. I, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 33-35",
+     "en": "pp. 33-35",
+     "de": "S. 33-35"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Halfling",
+     "en": "Warhammer Fantasy Wiki (fandom), Halfling page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Halfling"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Halfling"
+   }
+  ]
+ },
+ {
+  "id": "etat-libre-du-sudenland",
+  "annee": 2272,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "L'État libre du Sudenland",
+   "en": "The Free State of Sudenland",
+   "de": "Der Freistaat Sudenland"
+  },
+  "resume": {
+   "fr": "Des nobles se réclamant de l'ancien siège électoral du Solland proclament l'indépendance du Sudenland face au Wissenland. Malgré une défense acharnée de ses frontières, l'État libre finit réintégré au Wissenland avant la Grande Guerre contre le Chaos.",
+   "en": "Nobles claiming a link to the old Electoral seat of Solland declare Sudenland independent of Wissenland. Despite a fierce defence of its borders, the Free State is reabsorbed into Wissenland before the Great War against Chaos.",
+   "de": "Adlige, die sich auf den alten Kursitz von Solland berufen, erklären Sudenland für unabhängig von Wissenland. Trotz erbitterter Verteidigung seiner Grenzen fällt der Freistaat noch vor dem Großen Krieg gegen das Chaos an Wissenland zurück."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [],
+  "factions": [
+   "empire"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer: The Old World, site officiel, carte interactive",
+     "en": "Warhammer: The Old World website, Interactive Map",
+     "de": "Warhammer: The Old World, Webseite, interaktive Karte"
+    },
+    "detail": "",
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Solland",
+     "en": "Warhammer Fantasy Wiki (fandom), Solland page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Solland"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Solland"
+   }
+  ]
+ },
+ {
+  "id": "le-moot-debat-de-la-secession",
+  "annee": 2429,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Le Moot débat de la sécession",
+   "en": "The Moot debates secession",
+   "de": "Das Moot erörtert die Abspaltung"
+  },
+  "resume": {
+   "fr": "La sécession officielle de Marienburg ouvre dans tout le Moot une discussion sur l'opportunité de suivre son exemple.",
+   "en": "Marienburg's formal secession opens a debate across the Moot about following suit.",
+   "de": "Marienburgs förmliche Abspaltung löst im ganzen Moot eine Debatte darüber aus, ob man dem Beispiel folgen soll."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [],
+  "factions": [
+   "empire"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Archives of the Empire Vol. I, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Archives of the Empire Vol. I, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Archives of the Empire Vol. I, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 33-35",
+     "en": "pp. 33-35",
+     "de": "S. 33-35"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Halfling",
+     "en": "Warhammer Fantasy Wiki (fandom), Halfling page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Halfling"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Halfling"
+   }
+  ]
+ },
+ {
+  "id": "semaine-de-la-tourte-a-altdorf",
+  "annee": 2431,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "La Semaine de la tourte gagne Altdorf",
+   "en": "Pie Week reaches Altdorf",
+   "de": "Die Pastetenwoche erreicht Altdorf"
+  },
+  "resume": {
+   "fr": "Après le grand incendie d'Altdorf, les tourtes halflings sont l'une des rares choses à manger en ville. La Semaine de la tourte, née un siècle plus tôt à Saurapfel, triomphe dans la capitale et se répand au delà.",
+   "en": "After the Great Fire of Altdorf, Halfling pies are among the few things left to eat. Pie Week, born a century earlier in Saurapfel, becomes a hit in the capital and spreads from there.",
+   "de": "Nach dem Großen Brand von Altdorf gehören Halblingspasteten zu dem wenigen, was noch zu essen ist. Die ein Jahrhundert zuvor in Saurapfel entstandene Pastetenwoche wird in der Hauptstadt zum Erfolg und breitet sich aus."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "altdorf"
+  ],
+  "factions": [
+   "empire"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Archives of the Empire Vol. I, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Archives of the Empire Vol. I, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Archives of the Empire Vol. I, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 33-35",
+     "en": "pp. 33-35",
+     "de": "S. 33-35"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Halfling",
+     "en": "Warhammer Fantasy Wiki (fandom), Halfling page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Halfling"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Halfling"
+   }
+  ]
+ },
+ {
+  "id": "rebellion-halfling",
+  "annee": 2502,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "La rébellion halfling",
+   "en": "The Halfling Rebellion",
+   "de": "Die Halblingsrebellion"
+  },
+  "resume": {
+   "fr": "Marius Leitdorf réprime sans pitié la tristement célèbre rébellion halfling.",
+   "en": "Marius Leitdorf ruthlessly suppresses the infamous Halfling Rebellion.",
+   "de": "Marius Leitdorf schlägt die berüchtigte Halblingsrebellion rücksichtslos nieder."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [],
+  "factions": [
+   "empire"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: The Empire, 8e édition",
+     "en": "Warhammer Armies: The Empire, 8th edition",
+     "de": "Warhammer Armies: The Empire, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 15",
+     "en": "p. 15",
+     "de": "S. 15"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Halfling",
+     "en": "Warhammer Fantasy Wiki (fandom), Halfling page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Halfling"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Halfling"
+   }
+  ]
+ },
+ {
+  "id": "commission-du-moot-a-ubersreik",
+  "annee": 2512,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Une commission du Moot à Ubersreik",
+   "en": "A Moot committee in Ubersreik",
+   "de": "Ein Ausschuss des Moots in Ubersreik"
+  },
+  "resume": {
+   "fr": "Apprenant qu'Ubersreik se gouverne désormais elle-même, le Moot y envoie une commission exploratoire semi-officielle, premier pas possible vers une sécession.",
+   "en": "Hearing that Ubersreik has become self-governing, the Moot sends a semi-official exploratory committee there, perhaps a first step towards secession.",
+   "de": "Als das Moot erfährt, dass sich Ubersreik nun selbst regiert, entsendet es einen halbamtlichen Erkundungsausschuss, vielleicht ein erster Schritt zur Abspaltung."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "ubersreik"
+  ],
+  "factions": [
+   "empire"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Archives of the Empire Vol. I, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Archives of the Empire Vol. I, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Archives of the Empire Vol. I, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 33-35",
+     "en": "pp. 33-35",
+     "de": "S. 33-35"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Halfling",
+     "en": "Warhammer Fantasy Wiki (fandom), Halfling page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Halfling"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Halfling"
+   }
+  ]
+ }
+]

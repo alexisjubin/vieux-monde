@@ -1,0 +1,3597 @@
+[
+ {
+  "id": "bergers-tileens-dans-les-ruines-elfes",
+  "annee": -700,
+  "fin": null,
+  "approx": true,
+  "titre": {
+   "fr": "Des bergers parmi les ruines elfiques",
+   "en": "Shepherds among the Elven ruins",
+   "de": "Hirten in den elfischen Ruinen"
+  },
+  "resume": {
+   "fr": "Des Elfes de la mer rapportent que des bergers tiléens font paître leurs troupeaux entre les colonnades écroulées des anciennes cités hautes-elfes.",
+   "en": "Sea Elves report that Tilean shepherds are grazing their flocks among the fallen colonnades of the old High Elf cities.",
+   "de": "Seeelfen berichten, dass tileanische Hirten ihre Herden zwischen den eingestürzten Säulengängen der alten hochelfischen Städte weiden."
+  },
+  "ere": "age-des-tribus",
+  "regions": [
+   "tilee-estalie"
+  ],
+  "lieux": [],
+  "factions": [
+   "humains-autres",
+   "hauts-elfes"
+  ],
+  "importance": 1,
+  "fiabilite": "etabli",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Dogs of War, 5e édition",
+     "en": "Warhammer Armies: Dogs of War, 5th edition",
+     "de": "Warhammer Armies: Dogs of War, 5. Edition"
+    },
+    "detail": {
+     "fr": "pp. 85-88",
+     "en": "pp. 85-88",
+     "de": "S. 85-88"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Up in Arms, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Up in Arms, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Up in Arms, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "pp. 57-60",
+     "en": "pp. 57-60",
+     "de": "S. 57-60"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Tilean Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Tilean Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Tilean Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Tilean_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "cites-humaines-et-barak-varr",
+  "annee": -500,
+  "fin": null,
+  "approx": true,
+  "titre": {
+   "fr": "Barak Varr commerce avec les premières cités humaines",
+   "en": "Barak Varr trades with the first Human cities",
+   "de": "Barak Varr handelt mit den ersten Menschenstädten"
+  },
+  "resume": {
+   "fr": "Les Nains de Barak Varr signalent l'apparition de cités humaines autour de l'extrémité sud des monts Apuccini. Ils commencent peu à peu à commercer avec elles.",
+   "en": "The Dwarfs of Barak Varr report Human cities rising around the southern end of the Apuccini Mountains. Little by little they begin to trade with them.",
+   "de": "Die Zwerge von Barak Varr berichten von Menschenstädten, die rund um das Südende der Apuccini-Berge entstehen. Nach und nach nehmen sie Handel mit ihnen auf."
+  },
+  "ere": "age-des-tribus",
+  "regions": [
+   "tilee-estalie"
+  ],
+  "lieux": [
+   "barak-varr"
+  ],
+  "factions": [
+   "humains-autres",
+   "nains"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Stone and Steel, Warhammer Fantasy Roleplay 1re édition",
+     "en": "Stone and Steel, Warhammer Fantasy Roleplay 1st edition",
+     "de": "Stone and Steel, Warhammer Fantasy Roleplay 1. Edition"
+    },
+    "detail": {
+     "fr": "pp. 106-108",
+     "en": "pp. 106-108",
+     "de": "S. 106-108"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Tilean Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Tilean Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Tilean Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Tilean_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "myrmidia-mortelle",
+  "annee": 20,
+  "fin": 60,
+  "approx": true,
+  "titre": {
+   "fr": "Myrmidia et l'empire de Remas",
+   "en": "Myrmidia and the empire of Remas",
+   "de": "Myrmidia und das Reich von Remas"
+  },
+  "resume": {
+   "fr": "Selon certaines écoles de son culte, la déesse Myrmidia prend forme de femme mortelle et conduit une armée à travers la Tilée et l'Estalie. Son empire, centré sur Remas, s'étend jusqu'aux futurs Royaumes frontaliers et au sud de la Bretonnie au prix de douze grandes batailles. Le jour de son couronnement, une fléchette empoisonnée la frappe, et la guerre civile qui suit donne naissance aux cités tiléennes et aux royaumes d'Estalie.",
+   "en": "According to some schools of her cult, the goddess Myrmidia takes the form of a mortal woman and leads an army across Tilea and Estalia. Her empire, centred on Remas, reaches the future Border Princes and southern Bretonnia after twelve great battles. On the day of her crowning a poisoned dart strikes her down, and the civil war that follows gives rise to the Tilean cities and the kingdoms of Estalia.",
+   "de": "Einigen Schulen ihres Kultes zufolge nimmt die Göttin Myrmidia die Gestalt einer sterblichen Frau an und führt ein Heer durch Tilea und Estalia. Ihr Reich mit dem Mittelpunkt Remas erstreckt sich nach zwölf großen Schlachten bis zu den späteren Grenzgrafschaften und ins südliche Bretonia. Am Tag ihrer Krönung trifft sie ein vergifteter Pfeil, und aus dem folgenden Bürgerkrieg gehen die tileanischen Städte und die Königreiche Estalias hervor."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "tilee-estalie",
+   "royaumes-frontaliers",
+   "bretonnie"
+  ],
+  "lieux": [
+   "remas"
+  ],
+  "factions": [
+   "humains-autres"
+  ],
+  "importance": 3,
+  "fiabilite": "divergent",
+  "note": {
+   "fr": "Les Rémasiens tiennent ces faits pour historiques, tandis que les Magrittois n'y voient qu'une allégorie et attribuent les campagnes à des généraux inspirés par la déesse.",
+   "en": "The Remans hold these events to be historical, while the Magrittans see only allegory and credit the campaigns to generals inspired by the goddess.",
+   "de": "Die Remaner halten diese Ereignisse für historisch, die Magritter sehen darin nur eine Allegorie und schreiben die Feldzüge von der Göttin inspirierten Generälen zu."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Up in Arms, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Up in Arms, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Up in Arms, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "pp. 57-60",
+     "en": "pp. 57-60",
+     "de": "S. 57-60"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Up in Arms, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Up in Arms, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Up in Arms, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "pp. 61-65",
+     "en": "pp. 61-65",
+     "de": "S. 61-65"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Tome of Salvation, Warhammer Fantasy Roleplay 2e édition",
+     "en": "Tome of Salvation, Warhammer Fantasy Roleplay 2nd edition",
+     "de": "Tome of Salvation, Warhammer Fantasy Roleplay 2. Edition"
+    },
+    "detail": {
+     "fr": "p. 17",
+     "en": "p. 17",
+     "de": "S. 17"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Tilean Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Tilean Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Tilean Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Tilean_Timeline"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Estalian Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Estalian Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Estalian Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Estalian_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "massacre-des-trois-gorges",
+  "annee": 30,
+  "fin": null,
+  "approx": true,
+  "titre": {
+   "fr": "Le massacre des Trois Gorges",
+   "en": "The Massacre of the Three Gorges",
+   "de": "Das Massaker der Drei Schluchten"
+  },
+  "resume": {
+   "fr": "Sauvée par Myrmidia, Nahmud, la Vierge noire, l'avertit d'une embuscade. La déesse fait contourner les assaillants par ses troupes et les anéantit.",
+   "en": "Rescued by Myrmidia, Nahmud the Dark Maiden warns her of an ambush ahead. The goddess has her forces flank the attackers and destroys them.",
+   "de": "Von Myrmidia gerettet, warnt Nahmud, die Dunkle Jungfrau, sie vor einem Hinterhalt. Die Göttin lässt ihre Truppen die Angreifer umgehen und vernichtet sie."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "tilee-estalie"
+  ],
+  "lieux": [],
+  "factions": [
+   "humains-autres"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Up in Arms, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Up in Arms, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Up in Arms, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "pp. 66-68",
+     "en": "pp. 66-68",
+     "de": "S. 66-68"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Tilean Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Tilean Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Tilean Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Tilean_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "peste-ardente-en-royaumes-frontaliers",
+  "annee": 35,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "La Vérole ardente vide une forteresse naine",
+   "en": "The Burning Pox empties a Dwarf hold",
+   "de": "Die Brennende Pocke entvölkert eine Zwergenfeste"
+  },
+  "resume": {
+   "fr": "Une épidémie de Vérole ardente détruit une forteresse naine et balaie toute la région. Ses environs restent presque déserts pendant un siècle.",
+   "en": "An outbreak of the Burning Pox destroys a Dwarf hold and sweeps the whole region. Its surroundings stay all but empty for a century.",
+   "de": "Ein Ausbruch der Brennenden Pocke vernichtet eine Zwergenfeste und erfasst die ganze Gegend. Deren Umland bleibt ein Jahrhundert lang nahezu menschenleer."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "royaumes-frontaliers"
+  ],
+  "lieux": [],
+  "factions": [
+   "nains"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Renegade Crowns, Warhammer Fantasy Roleplay 2e édition",
+     "en": "Renegade Crowns, Warhammer Fantasy Roleplay 2nd edition",
+     "de": "Renegade Crowns, Warhammer Fantasy Roleplay 2. Edition"
+    },
+    "detail": {
+     "fr": "p. 18",
+     "en": "p. 18",
+     "de": "S. 18"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Border Princes Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Border Princes Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Border Princes Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Border_Princes_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "colonie-chaotique-de-masserschloss",
+  "annee": 522,
+  "fin": 900,
+  "approx": true,
+  "titre": {
+   "fr": "Une colonie du Chaos à Masserschloss",
+   "en": "A Chaos colony in Masserschloss",
+   "de": "Eine Chaoskolonie in Masserschloss"
+  },
+  "resume": {
+   "fr": "Des cultistes chassés de Tilée s'installent dans les collines de Masserschloss. Pendant près de quatre siècles, ils y grossissent leurs rangs de fugitifs et de mutants, razzient les environs et finissent par s'en prendre aux caravanes naines.",
+   "en": "Cultists driven from Tilea settle in the hills of Masserschloss. Over nearly four centuries they swell their ranks with fugitives and mutants, raid the country around and end up attacking Dwarf caravans.",
+   "de": "Aus Tilea geflohene Kultisten lassen sich in den Hügeln von Masserschloss nieder. In fast vier Jahrhunderten mehren sie ihre Zahl durch Flüchtige und Mutanten, plündern die Umgebung und überfallen schließlich zwergische Karawanen."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "royaumes-frontaliers",
+   "tilee-estalie"
+  ],
+  "lieux": [],
+  "factions": [
+   "humains-autres",
+   "chaos",
+   "nains"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Renegade Crowns, Warhammer Fantasy Roleplay 2e édition",
+     "en": "Renegade Crowns, Warhammer Fantasy Roleplay 2nd edition",
+     "de": "Renegade Crowns, Warhammer Fantasy Roleplay 2. Edition"
+    },
+    "detail": {
+     "fr": "pp. 117-118",
+     "en": "pp. 117-118",
+     "de": "S. 117-118"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Border Princes Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Border Princes Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Border Princes Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Border_Princes_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "gilles-tue-smearghus",
+  "annee": 934,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Gilles de Bastonne tue le dragon Smearghus",
+   "en": "Gilles d'Bastonne slays the dragon Smearghus",
+   "de": "Gilles d'Bastonne erschlägt den Drachen Smearghus"
+  },
+  "resume": {
+   "fr": "Dans la forêt de Châlons, le jeune Gilles de Bastonne abat le dragon rouge Smearghus et rentre grièvement blessé, traînant la tête du monstre jusqu'au château de Bastonne. Elle pend encore au-dessus de la porte qui porte son nom. Il se taille un manteau dans la peau de la bête et fait du dragon son emblème.",
+   "en": "In the Forest of Châlons the young Gilles d'Bastonne kills the red dragon Smearghus and, badly hurt, hauls its head home to Castle Bastonne. It still hangs over the gate named after him. He makes a cloak from the hide and takes the dragon as his badge.",
+   "de": "Im Wald von Châlons tötet der junge Gilles d'Bastonne den roten Drachen Smearghus und schleppt dessen Kopf schwer verwundet zur Burg Bastonne. Dort hängt er bis heute über dem nach ihm benannten Tor. Aus der Haut lässt er sich einen Umhang fertigen, und der Drache wird sein Wappentier."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "bretonnie"
+  ],
+  "lieux": [
+   "bastonne"
+  ],
+  "factions": [
+   "bretonnie"
+  ],
+  "importance": 2,
+  "fiabilite": "etabli",
+  "note": {
+   "fr": "La source date ce fait de l'an -44 du calendrier bretonnien, soit 934 CI selon sa propre conversion.",
+   "en": "The source dates this to year -44 of the Bretonnian calendar, which it converts to 934 IC.",
+   "de": "Die Quelle datiert dies auf das Jahr -44 des bretonischen Kalenders, was sie mit 934 IK gleichsetzt."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Bretonnia, 6e édition",
+     "en": "Warhammer Armies: Bretonnia, 6th edition",
+     "de": "Warhammer Armies: Bretonnia, 6. Edition"
+    },
+    "detail": {
+     "fr": "p. 38",
+     "en": "p. 38",
+     "de": "S. 38"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Knights of the Grail, Warhammer Fantasy Roleplay 2e édition",
+     "en": "Knights of the Grail, Warhammer Fantasy Roleplay 2nd edition",
+     "de": "Knights of the Grail, Warhammer Fantasy Roleplay 2. Edition"
+    },
+    "detail": {
+     "fr": "p. 15",
+     "en": "p. 15",
+     "de": "S. 15"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Bretonnian Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Bretonnian Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Bretonnian Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Bretonnian_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "alliance-bastonne-lyonesse",
+  "annee": 950,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Mariage de Thierulf et de Rosalind",
+   "en": "The marriage of Thierulf and Rosalind",
+   "de": "Die Hochzeit von Thierulf und Rosalind"
+  },
+  "resume": {
+   "fr": "Le seigneur Thierulf de Lyonesse épouse Rosalind, sœur de Gilles de Bastonne, et scelle ainsi l'alliance des deux pays. Thierulf et l'héritier de Bastonne deviennent amis intimes.",
+   "en": "Lord Thierulf of Lyonesse marries Rosalind, sister of Gilles d'Bastonne, sealing an alliance between the two lands. Thierulf and the heir of Bastonne become close friends.",
+   "de": "Fürst Thierulf von Lyonesse heiratet Rosalind, die Schwester des Gilles d'Bastonne, und besiegelt damit ein Bündnis beider Länder. Thierulf und der Erbe von Bastonne werden enge Freunde."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "bretonnie"
+  ],
+  "lieux": [
+   "bastonne",
+   "lyonesse"
+  ],
+  "factions": [
+   "bretonnie"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "La source date ce fait de l'an -28 du calendrier bretonnien, soit 950 CI selon sa propre conversion.",
+   "en": "The source dates this to year -28 of the Bretonnian calendar, which it converts to 950 IC.",
+   "de": "Die Quelle datiert dies auf das Jahr -28 des bretonischen Kalenders, was sie mit 950 IK gleichsetzt."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Bretonnia, 6e édition",
+     "en": "Warhammer Armies: Bretonnia, 6th edition",
+     "de": "Warhammer Armies: Bretonnia, 6. Edition"
+    },
+    "detail": {
+     "fr": "p. 38",
+     "en": "p. 38",
+     "de": "S. 38"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Bretonnian Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Bretonnian Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Bretonnian Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Bretonnian_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "gilles-seigneur-de-bastonne",
+  "annee": 975,
+  "fin": 976,
+  "approx": true,
+  "titre": {
+   "fr": "Gilles hérite de Bastonne et reçoit la bénédiction de la Dame",
+   "en": "Gilles inherits Bastonne and is blessed by the Lady",
+   "de": "Gilles erbt Bastonne und empfängt den Segen der Herrin"
+  },
+  "resume": {
+   "fr": "Le seigneur de Bastonne meurt en repoussant les Orques et son fils Gilles lui succède. Landuin de Mousillon et Thierulf de Lyonesse le rejoignent contre les Peaux-vertes. L'année suivante, alors qu'il se repose dans la forêt de Châlons, la Dame du Lac le bénit, et les deux seigneurs deviennent les premiers Compagnons du Graal.",
+   "en": "The Lord of Bastonne dies fighting off the Orcs and his son Gilles takes his place. Landuin d'Mousillon and Thierulf d'Lyonesse join him against the Greenskins. A year later, while he rests in the Forest of Châlons, the Lady of the Lake blesses him, and the two lords become the first Grail Companions.",
+   "de": "Der Fürst von Bastonne fällt im Kampf gegen die Orks, und sein Sohn Gilles folgt ihm nach. Landuin d'Mousillon und Thierulf d'Lyonesse schließen sich ihm gegen die Grünhäute an. Ein Jahr später segnet ihn die Herrin vom See, als er im Wald von Châlons rastet, und die beiden Fürsten werden die ersten Gralsgefährten."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "bretonnie"
+  ],
+  "lieux": [
+   "bastonne",
+   "mousillon",
+   "lyonesse"
+  ],
+  "factions": [
+   "bretonnie",
+   "peaux-vertes"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "La source date ces faits des ans -3 et -2 du calendrier bretonnien, soit 975 et 976 CI selon sa propre conversion.",
+   "en": "The source dates these events to years -3 and -2 of the Bretonnian calendar, which it converts to 975 and 976 IC.",
+   "de": "Die Quelle datiert diese Ereignisse auf die Jahre -3 und -2 des bretonischen Kalenders, was sie mit 975 und 976 IK gleichsetzt."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Knights of the Grail, Warhammer Fantasy Roleplay 2e édition",
+     "en": "Knights of the Grail, Warhammer Fantasy Roleplay 2nd edition",
+     "de": "Knights of the Grail, Warhammer Fantasy Roleplay 2. Edition"
+    },
+    "detail": {
+     "fr": "p. 15",
+     "en": "p. 15",
+     "de": "S. 15"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Barony of the Damned, Warhammer Fantasy Roleplay 2e édition",
+     "en": "Barony of the Damned, Warhammer Fantasy Roleplay 2nd edition",
+     "de": "Barony of the Damned, Warhammer Fantasy Roleplay 2. Edition"
+    },
+    "detail": {
+     "fr": "p. 10",
+     "en": "p. 10",
+     "de": "S. 10"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Bretonnian Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Bretonnian Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Bretonnian Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Bretonnian_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "victoire-de-landuin",
+  "annee": 978,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "La victoire de Landuin",
+   "en": "The Victory of Landuin",
+   "de": "Der Sieg Landuins"
+  },
+  "resume": {
+   "fr": "Neuvième des douze grandes batailles de Gilles, ce combat oppose ses Compagnons à une armée de morts-vivants entrée en Mousillon. Landuin charge seul au cœur de la horde et tue le nécromancien qui l'a levée, puis les autres Compagnons achèvent de la détruire.",
+   "en": "The ninth of Gilles' twelve great battles pits his Companions against an Undead host that has entered Mousillon. Landuin rides alone into its midst and kills the necromancer behind it, and the other Companions then finish the horde off.",
+   "de": "In der neunten der zwölf großen Schlachten des Gilles treten seine Gefährten einem Untotenheer entgegen, das in Mousillon eingefallen ist. Landuin reitet allein mitten hinein und tötet den Nekromanten, der es erweckt hat, worauf die übrigen Gefährten die Horde vernichten."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "bretonnie"
+  ],
+  "lieux": [
+   "mousillon"
+  ],
+  "factions": [
+   "bretonnie",
+   "vampires"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "La source date ce fait de l'an 0 du calendrier bretonnien, soit 978 CI selon sa propre conversion.",
+   "en": "The source dates this to year 0 of the Bretonnian calendar, which it converts to 978 IC.",
+   "de": "Die Quelle datiert dies auf das Jahr 0 des bretonischen Kalenders, was sie mit 978 IK gleichsetzt."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Barony of the Damned, Warhammer Fantasy Roleplay 2e édition",
+     "en": "Barony of the Damned, Warhammer Fantasy Roleplay 2nd edition",
+     "de": "Barony of the Damned, Warhammer Fantasy Roleplay 2. Edition"
+    },
+    "detail": {
+     "fr": "p. 10",
+     "en": "p. 10",
+     "de": "S. 10"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Bretonnian Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Bretonnian Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Bretonnian Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Bretonnian_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "assemblee-d-artois",
+  "annee": 979,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "L'assemblée d'Artois crée les duchés",
+   "en": "The assembly at Artois creates the dukedoms",
+   "de": "Die Versammlung in Artois schafft die Herzogtümer"
+  },
+  "resume": {
+   "fr": "Une fois le pays sécurisé, les seigneurs se réunissent chez Folgar d'Artois. Les duchés y prennent leur forme officielle, chaque Compagnon du Graal reçoit le titre de duc et jure fidélité au nouveau royaume. Le calendrier bretonnien est instauré à cette occasion.",
+   "en": "With the land secured, the lords gather at the home of Folgar d'Artois. The dukedoms take formal shape there, each Grail Companion is made a duke and swears loyalty to the new kingdom. The Bretonnian calendar is introduced on the same occasion.",
+   "de": "Nachdem das Land gesichert ist, kommen die Fürsten bei Folgar d'Artois zusammen. Dort erhalten die Herzogtümer ihre förmliche Gestalt, jeder Gralsgefährte wird Herzog und schwört dem neuen Königreich die Treue. Zugleich wird der bretonische Kalender eingeführt."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "bretonnie"
+  ],
+  "lieux": [],
+  "factions": [
+   "bretonnie"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "La source date ce fait de l'an 1 du calendrier bretonnien, soit 979 CI selon sa propre conversion.",
+   "en": "The source dates this to year 1 of the Bretonnian calendar, which it converts to 979 IC.",
+   "de": "Die Quelle datiert dies auf das Jahr 1 des bretonischen Kalenders, was sie mit 979 IK gleichsetzt."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Barony of the Damned, Warhammer Fantasy Roleplay 2e édition",
+     "en": "Barony of the Damned, Warhammer Fantasy Roleplay 2nd edition",
+     "de": "Barony of the Damned, Warhammer Fantasy Roleplay 2. Edition"
+    },
+    "detail": {
+     "fr": "p. 10",
+     "en": "p. 10",
+     "de": "S. 10"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Bretonnian Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Bretonnian Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Bretonnian Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Bretonnian_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "duel-de-landuin-et-thierulf",
+  "annee": 1003,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Le duel de Landuin et de Thierulf",
+   "en": "The duel of Landuin and Thierulf",
+   "de": "Das Duell zwischen Landuin und Thierulf"
+  },
+  "resume": {
+   "fr": "Les deux Compagnons s'affrontent pour une raison dont nul ne se souvient plus. Landuin blesse Thierulf et ne reparaît plus jamais à la cour des Compagnons.",
+   "en": "The two Companions fight over a cause nobody now remembers. Landuin wounds Thierulf and never appears at the courts of the Companions again.",
+   "de": "Die beiden Gefährten kämpfen aus einem Grund gegeneinander, an den sich niemand mehr erinnert. Landuin verwundet Thierulf und zeigt sich nie wieder an den Höfen der Gefährten."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "bretonnie"
+  ],
+  "lieux": [],
+  "factions": [
+   "bretonnie"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "La source date ce fait de l'an 25 du calendrier bretonnien, soit 1003 CI selon sa propre conversion.",
+   "en": "The source dates this to year 25 of the Bretonnian calendar, which it converts to 1003 IC.",
+   "de": "Die Quelle datiert dies auf das Jahr 25 des bretonischen Kalenders, was sie mit 1003 IK gleichsetzt."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Barony of the Damned, Warhammer Fantasy Roleplay 2e édition",
+     "en": "Barony of the Damned, Warhammer Fantasy Roleplay 2nd edition",
+     "de": "Barony of the Damned, Warhammer Fantasy Roleplay 2. Edition"
+    },
+    "detail": {
+     "fr": "p. 10",
+     "en": "p. 10",
+     "de": "S. 10"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Bretonnian Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Bretonnian Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Bretonnian Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Bretonnian_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "nobles-bretonniens-en-exil",
+  "annee": 1022,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Des nobles bretonniens fuient vers les Royaumes frontaliers",
+   "en": "Bretonnian nobles flee to the Border Princes",
+   "de": "Bretonische Adlige fliehen in die Grenzgrafschaften"
+  },
+  "resume": {
+   "fr": "Pour échapper aux troupes du roi, des nobles de Bretonnie et leurs suites se taillent de petits domaines dans les Royaumes frontaliers. Ils nouent des liens commerciaux avec les Nains de Barak Varr.",
+   "en": "To escape the king's forces, some Bretonnian nobles and their followers carve out small realms in the Border Princes. They open trade with the Dwarfs of Barak Varr.",
+   "de": "Um den Truppen des Königs zu entgehen, errichten bretonische Adlige mit ihrem Gefolge kleine Herrschaften in den Grenzgrafschaften. Sie knüpfen Handelsbeziehungen zu den Zwergen von Barak Varr."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "royaumes-frontaliers",
+   "bretonnie"
+  ],
+  "lieux": [
+   "barak-varr"
+  ],
+  "factions": [
+   "bretonnie",
+   "nains"
+  ],
+  "importance": 2,
+  "fiabilite": "divergent",
+  "note": {
+   "fr": "La source date ce fait de l'an 44 du calendrier bretonnien, soit 1022 CI selon sa propre conversion. D'autres sources font naître les fiefs des Royaumes frontaliers en 1452 CI, avec les chevaliers errants du fleuve de Sang.",
+   "en": "The source dates this to year 44 of the Bretonnian calendar, which it converts to 1022 IC. Other sources place the birth of the Border Princes' fiefdoms in 1452 IC, with the Knights Errant of the Blood River.",
+   "de": "Die Quelle datiert dies auf das Jahr 44 des bretonischen Kalenders, was sie mit 1022 IK gleichsetzt. Andere Quellen setzen die Entstehung der Lehen der Grenzgrafschaften erst 1452 IK an, mit den fahrenden Rittern am Blutfluss."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Stone and Steel, Warhammer Fantasy Roleplay 1re édition",
+     "en": "Stone and Steel, Warhammer Fantasy Roleplay 1st edition",
+     "de": "Stone and Steel, Warhammer Fantasy Roleplay 1. Edition"
+    },
+    "detail": {
+     "fr": "p. 106",
+     "en": "p. 106",
+     "de": "S. 106"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Bretonnian Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Bretonnian Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Bretonnian Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Bretonnian_Timeline"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Border Princes Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Border Princes Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Border Princes Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Border_Princes_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "mort-d-agilgar-de-parravon",
+  "annee": 1024,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Mort d'Agilgar de Parravon",
+   "en": "Death of Agilgar of Parravon",
+   "de": "Tod des Agilgar von Parravon"
+  },
+  "resume": {
+   "fr": "Au-dessus des Montagnes Grises, deux vouivres tuent Glorfinial, le pégase du duc Agilgar de Parravon. Le duc s'écrase avec sa monture.",
+   "en": "Above the Grey Mountains two wyverns kill Glorfinial, the pegasus of Duke Agilgar of Parravon. The duke falls to his death.",
+   "de": "Über dem Grauen Gebirge töten zwei Wyvern Glorfinial, den Pegasus des Herzogs Agilgar von Parravon. Der Herzog stürzt in den Tod."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "bretonnie"
+  ],
+  "lieux": [
+   "parravon"
+  ],
+  "factions": [
+   "bretonnie"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "La source date ce fait de l'an 46 du calendrier bretonnien, soit 1024 CI selon sa propre conversion.",
+   "en": "The source dates this to year 46 of the Bretonnian calendar, which it converts to 1024 IC.",
+   "de": "Die Quelle datiert dies auf das Jahr 46 des bretonischen Kalenders, was sie mit 1024 IK gleichsetzt."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Bretonnia, 6e édition",
+     "en": "Warhammer Armies: Bretonnia, 6th edition",
+     "de": "Warhammer Armies: Bretonnia, 6. Edition"
+    },
+    "detail": {
+     "fr": "p. 38",
+     "en": "p. 38",
+     "de": "S. 38"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Bretonnian Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Bretonnian Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Bretonnian Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Bretonnian_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "mort-de-landuin",
+  "annee": 1045,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Mort de Landuin",
+   "en": "Death of Landuin",
+   "de": "Tod Landuins"
+  },
+  "resume": {
+   "fr": "Landuin, tenu pour le meilleur des Compagnons, est trouvé mort dans son lit. Toute la Bretonnie porte son deuil.",
+   "en": "Landuin, held to be the finest of the Companions, is found dead in his bed. All Bretonnia mourns him.",
+   "de": "Landuin, der als Bester der Gefährten gilt, wird tot in seinem Bett aufgefunden. Ganz Bretonia trauert um ihn."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "bretonnie"
+  ],
+  "lieux": [],
+  "factions": [
+   "bretonnie"
+  ],
+  "importance": 1,
+  "fiabilite": "etabli",
+  "note": {
+   "fr": "La source date ce fait de l'an 67 du calendrier bretonnien, soit 1045 CI selon sa propre conversion.",
+   "en": "The source dates this to year 67 of the Bretonnian calendar, which it converts to 1045 IC.",
+   "de": "Die Quelle datiert dies auf das Jahr 67 des bretonischen Kalenders, was sie mit 1045 IK gleichsetzt."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Barony of the Damned, Warhammer Fantasy Roleplay 2e édition",
+     "en": "Barony of the Damned, Warhammer Fantasy Roleplay 2nd edition",
+     "de": "Barony of the Damned, Warhammer Fantasy Roleplay 2. Edition"
+    },
+    "detail": {
+     "fr": "p. 10",
+     "en": "p. 10",
+     "de": "S. 10"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Bretonnia, 6e édition",
+     "en": "Warhammer Armies: Bretonnia, 6th edition",
+     "de": "Warhammer Armies: Bretonnia, 6. Edition"
+    },
+    "detail": {
+     "fr": "p. 38",
+     "en": "p. 38",
+     "de": "S. 38"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Bretonnian Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Bretonnian Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Bretonnian Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Bretonnian_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "porte-demoniaque-de-masserschloss",
+  "annee": 1109,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "La porte démoniaque de Masserschloss",
+   "en": "The daemon gate of Masserschloss",
+   "de": "Das Dämonentor von Masserschloss"
+  },
+  "resume": {
+   "fr": "Après deux siècles de guerre larvée contre les Nains, les cultistes de Masserschloss ouvrent enfin leur porte, mais les démons qu'ils libèrent les massacrent. La porte s'effondre dans une explosion qui ensevelit le temple et toute sa communauté, et la région sombre dans ses Années noires.",
+   "en": "After two centuries of sporadic war with the Dwarfs, the cultists of Masserschloss finally open their gate, but the daemons they release slaughter them. The gate collapses in an explosion that buries the temple and its whole community, and the region enters its Dark Years.",
+   "de": "Nach zwei Jahrhunderten sporadischer Kämpfe gegen die Zwerge öffnen die Kultisten von Masserschloss endlich ihr Tor, doch die entfesselten Dämonen metzeln sie nieder. Das Tor stürzt in einer Explosion zusammen, die den Tempel samt seiner Gemeinde begräbt, und die Region versinkt in ihren Dunklen Jahren."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "royaumes-frontaliers"
+  ],
+  "lieux": [],
+  "factions": [
+   "chaos",
+   "nains"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Renegade Crowns, Warhammer Fantasy Roleplay 2e édition",
+     "en": "Renegade Crowns, Warhammer Fantasy Roleplay 2nd edition",
+     "de": "Renegade Crowns, Warhammer Fantasy Roleplay 2. Edition"
+    },
+    "detail": {
+     "fr": "pp. 117-118",
+     "en": "pp. 117-118",
+     "de": "S. 117-118"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Border Princes Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Border Princes Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Border Princes Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Border_Princes_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "baudoin-tue-mergaste",
+  "annee": 1245,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Le roi Baudoin tue le dragon Mergaste",
+   "en": "King Baudoin slays the dragon Mergaste",
+   "de": "König Baudoin erschlägt den Drachen Mergaste"
+  },
+  "resume": {
+   "fr": "Le roi Baudoin de Bretonnie abat le dragon Mergaste, l'un des rares hauts faits que les chroniques retiennent de ce siècle.",
+   "en": "King Baudoin of Bretonnia kills the dragon Mergaste, one of the few deeds the chronicles record for this century.",
+   "de": "König Baudoin von Bretonia tötet den Drachen Mergaste, eine der wenigen Taten, die die Chroniken aus diesem Jahrhundert festhalten."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "bretonnie"
+  ],
+  "lieux": [],
+  "factions": [
+   "bretonnie"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "La source date ce fait de l'an 267 du calendrier bretonnien, soit 1245 CI selon sa propre conversion.",
+   "en": "The source dates this to year 267 of the Bretonnian calendar, which it converts to 1245 IC.",
+   "de": "Die Quelle datiert dies auf das Jahr 267 des bretonischen Kalenders, was sie mit 1245 IK gleichsetzt."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Bretonnia, 6e édition",
+     "en": "Warhammer Armies: Bretonnia, 6th edition",
+     "de": "Warhammer Armies: Bretonnia, 6. Edition"
+    },
+    "detail": {
+     "fr": "p. 39",
+     "en": "p. 39",
+     "de": "S. 39"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Bretonnian Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Bretonnian Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Bretonnian Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Bretonnian_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "disparition-de-melmon-de-quenelles",
+  "annee": 1336,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Le duc Melmon de Quenelles disparaît",
+   "en": "Duke Melmon of Quenelles vanishes",
+   "de": "Herzog Melmon von Quenelles verschwindet"
+  },
+  "resume": {
+   "fr": "Le duc de Quenelles disparaît à l'équinoxe de printemps, enlevé selon les uns par la Grande Chasse fantôme, attiré selon les autres dans la forêt de Loren par des lueurs féeriques. Mille ans plus tard, un homme sort de la forêt en se disant Melmon, vieillit en quelques heures et meurt le jour même.",
+   "en": "The Duke of Quenelles vanishes on the night of the spring equinox. Some say the ghostly Great Hunt took him, others that fey lights drew him into the Forest of Loren. A thousand years later a man leaves the forest claiming to be Melmon, ages within hours and dies the same day.",
+   "de": "Der Herzog von Quenelles verschwindet in der Nacht der Frühlings-Tagundnachtgleiche. Manche sagen, die geisterhafte Große Jagd habe ihn geholt, andere, Feenlichter hätten ihn in den Wald von Loren gelockt. Tausend Jahre später tritt ein Mann aus dem Wald, nennt sich Melmon, altert binnen Stunden und stirbt noch am selben Tag."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "bretonnie",
+   "athel-loren"
+  ],
+  "lieux": [
+   "quenelles",
+   "athel-loren"
+  ],
+  "factions": [
+   "bretonnie",
+   "elfes-sylvains"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "La source date ces faits des ans 358 et 1358 du calendrier bretonnien, soit 1336 et 2336 CI selon sa propre conversion.",
+   "en": "The source dates these events to years 358 and 1358 of the Bretonnian calendar, which it converts to 1336 and 2336 IC.",
+   "de": "Die Quelle datiert diese Ereignisse auf die Jahre 358 und 1358 des bretonischen Kalenders, was sie mit 1336 und 2336 IK gleichsetzt."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Bretonnia, 6e édition",
+     "en": "Warhammer Armies: Bretonnia, 6th edition",
+     "de": "Warhammer Armies: Bretonnia, 6. Edition"
+    },
+    "detail": {
+     "fr": "p. 39",
+     "en": "p. 39",
+     "de": "S. 39"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Bretonnian Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Bretonnian Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Bretonnian Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Bretonnian_Timeline"
+   },
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Wood Elves, 6e édition",
+     "en": "Warhammer Armies: Wood Elves, 6th edition",
+     "de": "Warhammer Armies: Wood Elves, 6. Edition"
+    },
+    "detail": {
+     "fr": "p. 17",
+     "en": "p. 17",
+     "de": "S. 17"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Wood Elf Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Wood Elf Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Wood Elf Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Wood_Elf_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "quartier-tileen-de-copher",
+  "annee": 1448,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Les Tiléens à Copher et les flottes contre Tobaro",
+   "en": "The Tileans in Copher and the attacks on Tobaro",
+   "de": "Die Tileaner in Copher und die Angriffe auf Tobaro"
+  },
+  "resume": {
+   "fr": "Les mercenaires tiléens prennent part à la reconquête de l'Estalie et à la croisade d'Araby pour des motifs moins pieux que les autres. Ils y gagnent un quartier à Copher et une route commerciale permanente. Le sultan Jaffar lance plusieurs flottes contre Tobaro, toutes repoussées.",
+   "en": "Tilean mercenaries join the reconquest of Estalia and the Arabyan crusade for less pious reasons than most. They come away with a quarter in Copher and a lasting trade route. Sultan Jaffar sends several fleets against Tobaro, and each is driven off.",
+   "de": "Tileanische Söldner nehmen aus weniger frommen Gründen als die meisten an der Rückeroberung Estalias und am Kreuzzug gegen Araby teil. Sie gewinnen ein Viertel in Copher und einen dauerhaften Handelsweg. Sultan Jaffar schickt mehrere Flotten gegen Tobaro, die allesamt zurückgeschlagen werden."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "tilee-estalie",
+   "sud"
+  ],
+  "lieux": [
+   "copher",
+   "tobaro"
+  ],
+  "factions": [
+   "humains-autres"
+  ],
+  "importance": 2,
+  "fiabilite": "etabli",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Dogs of War, 5e édition",
+     "en": "Warhammer Armies: Dogs of War, 5th edition",
+     "de": "Warhammer Armies: Dogs of War, 5. Edition"
+    },
+    "detail": {
+     "fr": "pp. 85-88",
+     "en": "pp. 85-88",
+     "de": "S. 85-88"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Up in Arms, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Up in Arms, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Up in Arms, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "pp. 57-60",
+     "en": "pp. 57-60",
+     "de": "S. 57-60"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Tilean Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Tilean Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Tilean Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Tilean_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "marco-colombo-prince-de-trantio",
+  "annee": 1493,
+  "fin": null,
+  "approx": true,
+  "titre": {
+   "fr": "Marco Colombo, prince de Trantio",
+   "en": "Marco Colombo, Prince of Trantio",
+   "de": "Marco Colombo, Fürst von Trantio"
+  },
+  "resume": {
+   "fr": "De retour de Lustrie, Marco Colombo prend la tête des hommes d'Orlando, prince exilé de Trantio, et s'empare de la ville. Il épouse la fille et unique héritière d'Orlando, rétablit la principauté à son profit et accapare le commerce avec la Lustrie. Trantio y gagne de longues années de prospérité.",
+   "en": "Back from Lustria, Marco Colombo takes command of the men of Orlando, the exiled prince of Trantio, and captures the city. He marries Orlando's daughter and sole heir, restores the principality for himself and corners the Lustrian trade. Trantio enjoys many prosperous years as a result.",
+   "de": "Aus Lustria zurückgekehrt, übernimmt Marco Colombo das Kommando über die Männer Orlandos, des verbannten Fürsten von Trantio, und erobert die Stadt. Er heiratet Orlandos Tochter und einzige Erbin, stellt das Fürstentum für sich selbst wieder her und reißt den Lustriahandel an sich. Trantio erlebt darauf viele Jahre des Wohlstands."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "tilee-estalie"
+  ],
+  "lieux": [
+   "trantio"
+  ],
+  "factions": [
+   "humains-autres"
+  ],
+  "importance": 2,
+  "fiabilite": "etabli",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Dogs of War, 5e édition",
+     "en": "Warhammer Armies: Dogs of War, 5th edition",
+     "de": "Warhammer Armies: Dogs of War, 5. Edition"
+    },
+    "detail": {
+     "fr": "pp. 85-88",
+     "en": "pp. 85-88",
+     "de": "S. 85-88"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Up in Arms, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Up in Arms, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Up in Arms, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "pp. 57-60",
+     "en": "pp. 57-60",
+     "de": "S. 57-60"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Tilean Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Tilean Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Tilean Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Tilean_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "depart-des-chevaliers-de-magritta",
+  "annee": 1556,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Les Chevaliers de Magritta prennent la mer",
+   "en": "The Knights of Magritta sail away",
+   "de": "Die Ritter von Magritta stechen in See"
+  },
+  "resume": {
+   "fr": "Frappé par un impôt sur son ordre, le grand maître des Chevaliers de Magritta décide de partir. Toute la flotte quitte le port avec l'ensemble des membres, laissant derrière elle des domaines vidés de leurs biens et aucun indice sur sa destination. Personne ne les revoit.",
+   "en": "After his order is taxed, the Grand Master of the Knights of Magritta resolves to leave. The whole fleet sails with every member aboard, abandoning holdings stripped of valuables and leaving no hint of its destination. They are never seen again.",
+   "de": "Nachdem sein Orden besteuert wurde, beschließt der Großmeister der Ritter von Magritta den Aufbruch. Die gesamte Flotte läuft mit allen Mitgliedern aus und lässt ausgeräumte Besitzungen ohne jeden Hinweis auf ihr Ziel zurück. Man sieht sie nie wieder."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "tilee-estalie"
+  ],
+  "lieux": [
+   "magritta"
+  ],
+  "factions": [
+   "humains-autres"
+  ],
+  "importance": 2,
+  "fiabilite": "divergent",
+  "note": {
+   "fr": "La chronologie tiléenne du wiki attribue pourtant à cet ordre une académie à Luccini en 1720 CI et cite encore l'un de ses maîtres vers 2502 CI, d'après Shades of Empire, p. 92.",
+   "en": "The wiki's Tilean timeline nevertheless credits the order with an academy in Luccini in 1720 IC and still names one of its masters around 2502 IC, citing Shades of Empire, p. 92.",
+   "de": "Die tileanische Chronik des Wikis schreibt dem Orden dennoch 1720 IK eine Akademie in Luccini zu und nennt um 2502 IK noch einen seiner Meister, gestützt auf Shades of Empire, S. 92."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Shades of Empire, Warhammer Fantasy Roleplay 2e édition",
+     "en": "Shades of Empire, Warhammer Fantasy Roleplay 2nd edition",
+     "de": "Shades of Empire, Warhammer Fantasy Roleplay 2. Edition"
+    },
+    "detail": {
+     "fr": "p. 89",
+     "en": "p. 89",
+     "de": "S. 89"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Estalian Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Estalian Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Estalian Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Estalian_Timeline"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Tilean Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Tilean Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Tilean Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Tilean_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "necrodomo-a-remas",
+  "annee": 1586,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Le procès de Necrodomo à Remas",
+   "en": "The trial of Necrodomo in Remas",
+   "de": "Der Prozess gegen Necrodomo in Remas"
+  },
+  "resume": {
+   "fr": "Lors de l'Année de la Lumière et de la Loi, les inquisiteurs de Solkan jugent Battista Gaspar Necrodomo à Remas comme hérétique et faux prophète. Le démon Be'lakor le sauve au dernier moment.",
+   "en": "In the Year of Light and Law the inquisitors of Solkan try Battista Gaspar Necrodomo in Remas as a heretic and false prophet. The Daemon Be'lakor saves him at the last moment.",
+   "de": "Im Jahr des Lichts und des Gesetzes stellen die Inquisitoren Solkans Battista Gaspar Necrodomo in Remas als Ketzer und falschen Propheten vor Gericht. Im letzten Augenblick rettet ihn der Dämon Be'lakor."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "tilee-estalie"
+  ],
+  "lieux": [
+   "remas"
+  ],
+  "factions": [
+   "humains-autres",
+   "chaos"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Archaon: Everchosen, roman de Rob Sanders",
+     "en": "Archaon: Everchosen, novel by Rob Sanders",
+     "de": "Archaon: Everchosen, Roman von Rob Sanders"
+    },
+    "detail": {
+     "fr": "prologue",
+     "en": "prologue",
+     "de": "Prolog"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Tilean Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Tilean Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Tilean Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Tilean_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "sac-de-zorastra",
+  "annee": 1722,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Le sac de Zorastra",
+   "en": "The sack of Zorastra",
+   "de": "Die Plünderung von Zorastra"
+  },
+  "resume": {
+   "fr": "La flotte de la peste d'Egarl Bloodhard ne parvient pas à forcer les défenses maritimes de Zorastra. Ses chamans nourrissent alors de viande contaminée les oiseaux de mer de la ville, et la maladie s'y répand. En fuyant, des réfugiés ouvrent les chaînes du port, et la cité tombe en moins d'une heure.",
+   "en": "Egarl Bloodhard's plague fleet cannot force the sea defences of Zorastra, so his shamans feed tainted meat to the town's seabirds and disease takes hold. Fleeing refugees undo the harbour chains, and the town falls within the hour.",
+   "de": "Egarl Bloodhards Seuchenflotte kommt nicht durch die Seebefestigungen von Zorastra, also füttern seine Schamanen die Seevögel der Stadt mit verseuchtem Fleisch, und die Krankheit breitet sich aus. Fliehende lösen die Hafenketten, und die Stadt fällt binnen einer Stunde."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "tilee-estalie"
+  ],
+  "lieux": [],
+  "factions": [
+   "chaos",
+   "humains-autres"
+  ],
+  "importance": 2,
+  "fiabilite": "etabli",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Warriors of Chaos, 7e édition",
+     "en": "Warhammer Armies: Warriors of Chaos, 7th edition",
+     "de": "Warhammer Armies: Warriors of Chaos, 7. Edition"
+    },
+    "detail": {
+     "fr": "p. 40",
+     "en": "p. 40",
+     "de": "S. 40"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Up in Arms, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Up in Arms, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Up in Arms, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "pp. 57-60",
+     "en": "pp. 57-60",
+     "de": "S. 57-60"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Tilean Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Tilean Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Tilean Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Tilean_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "ordre-de-la-paix-de-nahmud",
+  "annee": 1772,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "L'ordre de la Paix de Nahmud",
+   "en": "The Hermitic Order of Nahmud's Peace",
+   "de": "Der Einsiedlerorden von Nahmuds Frieden"
+  },
+  "resume": {
+   "fr": "Le frère myrmidien Leoric Monpelitti découvre dans les monts Apuccini des rouleaux qu'il croit être un testament perdu de Nahmud. Autorisé par le grand temple de Remas, il fonde l'Eremitaggio di Nahmud pour les traduire, mais la langue résiste aux érudits qu'il y attire.",
+   "en": "The Myrmidian friar Leoric Monpelitti finds scrolls in the Apuccini Mountains that he takes for a lost testament of Nahmud. With leave from the High Temple in Remas he founds the Eremitaggio di Nahmud to translate them, but the language defeats the scholars he gathers.",
+   "de": "Der myrmidianische Bruder Leoric Monpelitti findet in den Apuccini-Bergen Schriftrollen, die er für ein verschollenes Testament Nahmuds hält. Mit Erlaubnis des Hochtempels in Remas gründet er das Eremitaggio di Nahmud, um sie zu übersetzen, doch die Sprache widersteht den Gelehrten, die er um sich schart."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "tilee-estalie"
+  ],
+  "lieux": [],
+  "factions": [
+   "humains-autres"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Tome of Salvation, Warhammer Fantasy Roleplay 2e édition",
+     "en": "Tome of Salvation, Warhammer Fantasy Roleplay 2nd edition",
+     "de": "Tome of Salvation, Warhammer Fantasy Roleplay 2. Edition"
+    },
+    "detail": {
+     "fr": "pp. 160-161",
+     "en": "pp. 160-161",
+     "de": "S. 160-161"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Tilean Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Tilean Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Tilean Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Tilean_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "fondation-de-port-reaver",
+  "annee": 1801,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Fondation de Port des Pillards",
+   "en": "Founding of Port Reaver",
+   "de": "Gründung von Port Reaver"
+  },
+  "resume": {
+   "fr": "Chassé de Sartosa, le prince pirate Lucciano Soprania fonde Port des Pillards en Lustrie. Malgré les attaques répétées des Hommes-lézards, le comptoir prospère et attire coupe-jarrets, pillards et chasseurs de trésors.",
+   "en": "Ousted from Sartosa, the Pirate Prince Lucciano Soprania founds Port Reaver in Lustria. Despite repeated Lizardmen attacks the settlement thrives, drawing cutthroats, raiders and treasure seekers.",
+   "de": "Aus Sartosa vertrieben, gründet der Piratenfürst Lucciano Soprania Port Reaver in Lustria. Trotz wiederholter Angriffe der Echsenmenschen gedeiht die Niederlassung und zieht Halsabschneider, Plünderer und Schatzsucher an."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "tilee-estalie",
+   "lustrie"
+  ],
+  "lieux": [
+   "sartosa",
+   "lustrie"
+  ],
+  "factions": [
+   "humains-autres",
+   "hommes-lezards"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Lizardmen, 6e édition",
+     "en": "Warhammer Armies: Lizardmen, 6th edition",
+     "de": "Warhammer Armies: Lizardmen, 6. Edition"
+    },
+    "detail": {
+     "fr": "p. 9",
+     "en": "p. 9",
+     "de": "S. 9"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Tilean Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Tilean Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Tilean Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Tilean_Timeline"
+   },
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Lizardmen (6e édition, 2003)",
+     "en": "Warhammer Armies: Lizardmen (6th edition, 2003)",
+     "de": "Warhammer Armies: Lizardmen (6. Edition, 2003)"
+    },
+    "detail": {
+     "fr": "p. 9",
+     "en": "p. 9",
+     "de": "S. 9"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Warhammer Fantasy Roleplay 4e édition, Lustria (2023)",
+     "en": "Warhammer Fantasy Roleplay 4th edition, Lustria (2023)",
+     "de": "Warhammer Fantasy Roleplay 4. Edition, Lustria (2023)"
+    },
+    "detail": {
+     "fr": "p. 16",
+     "en": "p. 16",
+     "de": "S. 16"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Lizardmen Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Lizardmen Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Lizardmen Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Lizardmen_Timeline"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Port Reaver",
+     "en": "Warhammer Fantasy Wiki (fandom), Port Reaver page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Port Reaver"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Port_Reaver"
+   },
+   {
+    "titre": {
+     "fr": "Bibliothèque Impériale, page Chronique des Hommes-Lézards",
+     "en": "Bibliothèque Impériale, Chronique des Hommes-Lézards page",
+     "de": "Bibliothèque Impériale, Seite Chronique des Hommes-Lézards"
+    },
+    "detail": "",
+    "url": "https://www.bibliotheque-imperiale.com/index.php/Chronique_des_Hommes-Lézards"
+   }
+  ]
+ },
+ {
+  "id": "amiral-dandola",
+  "annee": 1823,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Les victoires de l'amiral Dandola",
+   "en": "The victories of Admiral Dandola",
+   "de": "Die Siege des Admirals Dandola"
+  },
+  "resume": {
+   "fr": "L'amiral rémasien Ludovico Dandola coule une flottille des navires de guerre de Settra et défait de nombreux pirates autour de Sartosa.",
+   "en": "The Reman admiral Ludovico Dandola sinks a flotilla of Settra's war fleet and beats numerous pirates around Sartosa.",
+   "de": "Der remanische Admiral Ludovico Dandola versenkt eine Flottille aus Settras Kriegsflotte und besiegt zahlreiche Piraten rund um Sartosa."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "tilee-estalie"
+  ],
+  "lieux": [
+   "remas",
+   "sartosa"
+  ],
+  "factions": [
+   "humains-autres",
+   "rois-des-tombes"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Sea of Claws, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Sea of Claws, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Sea of Claws, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "pp. 81-82",
+     "en": "pp. 81-82",
+     "de": "S. 81-82"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Tilean Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Tilean Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Tilean Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Tilean_Timeline"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Tomb Kings Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Tomb Kings Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Tomb Kings Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Tomb_Kings_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "seconde-bataille-de-ceren",
+  "annee": 1932,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Seconde bataille de Ceren",
+   "en": "Second Battle of Ceren",
+   "de": "Zweite Schlacht von Ceren"
+  },
+  "resume": {
+   "fr": "Le Duc Rouge reparaît et tue le duc Gilon d'Aquitaine à la seconde bataille de Ceren. Vaincu à son tour, le vampire se réfugie dans la forêt de Châlons, et personne ne sait s'il s'y cache encore.",
+   "en": "The Red Duke returns and kills Duke Gilon d'Aquitaine at the Second Battle of Ceren. Beaten once more, the vampire escapes into the Forest of Châlons, and no one knows whether he still lurks there.",
+   "de": "Der Rote Herzog kehrt zurück und tötet Herzog Gilon d'Aquitaine in der zweiten Schlacht von Ceren. Abermals besiegt, flieht der Vampir in den Wald von Châlons, und niemand weiß, ob er sich noch dort verbirgt."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "bretonnie"
+  ],
+  "lieux": [
+   "aquitaine"
+  ],
+  "factions": [
+   "bretonnie",
+   "vampires"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "La source date ce fait de l'an 954 du calendrier bretonnien, soit 1932 CI selon sa propre conversion.",
+   "en": "The source dates this to year 954 of the Bretonnian calendar, which it converts to 1932 IC.",
+   "de": "Die Quelle datiert dies auf das Jahr 954 des bretonischen Kalenders, was sie mit 1932 IK gleichsetzt."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Night's Dark Masters, Warhammer Fantasy Roleplay 2e édition",
+     "en": "Night's Dark Masters, Warhammer Fantasy Roleplay 2nd edition",
+     "de": "Night's Dark Masters, Warhammer Fantasy Roleplay 2. Edition"
+    },
+    "detail": {
+     "fr": "p. 33",
+     "en": "p. 33",
+     "de": "S. 33"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Bretonnian Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Bretonnian Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Bretonnian Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Bretonnian_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "morten-fonde-mortensholm",
+  "annee": 1992,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Morten le Borgne fonde Mortensholm",
+   "en": "Morten One-Eye founds Mortensholm",
+   "de": "Morten Einauge gründet Mortensholm"
+  },
+  "resume": {
+   "fr": "Le colon et pillard norse Morten le Borgne établit Mortensholm, comptoir fortifié à la frontière nord des Royaumes frontaliers.",
+   "en": "The Norscan settler and raider Morten One-Eye establishes Mortensholm, a fortified trading post on the northern frontier of the Border Princes.",
+   "de": "Der norsische Siedler und Plünderer Morten Einauge gründet Mortensholm, einen befestigten Handelsposten an der Nordgrenze der Grenzgrafschaften."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "royaumes-frontaliers"
+  ],
+  "lieux": [],
+  "factions": [
+   "humains-autres"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Death's Dark Shadow, Warhammer Fantasy Roleplay 1re édition",
+     "en": "Death's Dark Shadow, Warhammer Fantasy Roleplay 1st edition",
+     "de": "Death's Dark Shadow, Warhammer Fantasy Roleplay 1. Edition"
+    },
+    "detail": {
+     "fr": "p. 11",
+     "en": "p. 11",
+     "de": "S. 11"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Border Princes Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Border Princes Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Border Princes Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Border_Princes_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "cinquieme-guerre-remas-luccini",
+  "annee": 2000,
+  "fin": 2300,
+  "approx": true,
+  "titre": {
+   "fr": "La cinquième guerre entre Remas et Luccini",
+   "en": "The Fifth Remas-Luccini War",
+   "de": "Der Fünfte Krieg zwischen Remas und Luccini"
+  },
+  "resume": {
+   "fr": "Un conflit de près de trois siècles oppose Remas et Luccini. Le comte di Argentisso de Scozzese y met fin, puis il meurt de la Peste rouge qui frappe sa cité, et sa lignée s'éteint avec lui.",
+   "en": "A conflict of nearly three centuries sets Remas against Luccini. Count di Argentisso of Scozzese brings it to an end, then dies of the Red Pox that strikes his city, and his line dies with him.",
+   "de": "Ein fast drei Jahrhunderte währender Konflikt entzweit Remas und Luccini. Graf di Argentisso von Scozzese beendet ihn, stirbt dann an der Roten Pest, die seine Stadt heimsucht, und mit ihm erlischt seine Linie."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "tilee-estalie"
+  ],
+  "lieux": [
+   "remas",
+   "luccini"
+  ],
+  "factions": [
+   "humains-autres"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Zavant, roman de Josh Reynolds",
+     "en": "Zavant, novel by Josh Reynolds",
+     "de": "Zavant, Roman von Josh Reynolds"
+    },
+    "detail": "",
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Tilean Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Tilean Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Tilean Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Tilean_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "siege-skaven-de-miragliano-2004",
+  "annee": 2004,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Les Skavens assiègent Miragliano",
+   "en": "The Skaven besiege Miragliano",
+   "de": "Die Skaven belagern Miragliano"
+  },
+  "resume": {
+   "fr": "Les Skavens mettent le siège devant Miragliano et sont repoussés. Leonardo de Miragliano prend part aux combats et en profite pour étudier leurs machines, dont la Cloche hurlante.",
+   "en": "The Skaven besiege Miragliano and are driven back. Leonardo da Miragliano takes part in the fighting and uses the occasion to study their machines, among them the Screaming Bell.",
+   "de": "Die Skaven belagern Miragliano und werden zurückgeschlagen. Leonardo von Miragliano nimmt an den Kämpfen teil und untersucht bei dieser Gelegenheit ihre Maschinen, darunter die Kreischende Glocke."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "tilee-estalie"
+  ],
+  "lieux": [
+   "miragliano"
+  ],
+  "factions": [
+   "humains-autres",
+   "skavens"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "The Loathsome Ratmen and All Their Vile Kin",
+     "en": "The Loathsome Ratmen and All Their Vile Kin",
+     "de": "The Loathsome Ratmen and All Their Vile Kin"
+    },
+    "detail": {
+     "fr": "pp. 81-85",
+     "en": "pp. 81-85",
+     "de": "S. 81-85"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Tilean Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Tilean Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Tilean Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Tilean_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "colisee-de-remas",
+  "annee": 2006,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Leonardo reconstruit le Colisée de Remas",
+   "en": "Leonardo rebuilds the Coliseum of Remas",
+   "de": "Leonardo baut das Kolosseum von Remas neu"
+  },
+  "resume": {
+   "fr": "Leonardo de Miragliano dirige la reconstruction du Grand Colisée de Remas. Il y intègre des dizaines de mécanismes nés de ses entretiens avec le célèbre gladiateur ogre Brognal Bullsmiter.",
+   "en": "Leonardo da Miragliano directs the rebuilding of the Grand Coliseum of Remas. He fits it with dozens of devices inspired by his talks with the famed Ogre gladiator Brognal Bullsmiter.",
+   "de": "Leonardo von Miragliano leitet den Neubau des Großen Kolosseums von Remas. Er stattet es mit Dutzenden Vorrichtungen aus, zu denen ihn Gespräche mit dem berühmten Ogergladiator Brognal Bullsmiter anregten."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "tilee-estalie"
+  ],
+  "lieux": [
+   "remas"
+  ],
+  "factions": [
+   "humains-autres",
+   "ogres"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Archives of the Empire Vol. II, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Archives of the Empire Vol. II, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Archives of the Empire Vol. II, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "pp. 9-12",
+     "en": "pp. 9-12",
+     "de": "S. 9-12"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Tilean Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Tilean Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Tilean Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Tilean_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "testament-de-la-vierge-noire",
+  "annee": 2132,
+  "fin": 2139,
+  "approx": true,
+  "titre": {
+   "fr": "Le Testament de la Vierge noire traduit",
+   "en": "The Dark Maiden's Testament translated",
+   "de": "Das Testament der Dunklen Jungfrau wird übersetzt"
+  },
+  "resume": {
+   "fr": "Une rôdeuse haute-elfe mourante, recueillie par les Léoriciens, traduit pour eux en un mois les rouleaux de Nahmud. L'ordre abandonne son isolement, fonde sept monastères en autant d'années et envoie précepteurs et conférenciers dans toutes les cités tiléennes.",
+   "en": "A dying High Elf ranger taken in by the Leoricans translates Nahmud's scrolls for them within a month. The order gives up its isolation, founds seven monasteries in as many years and sends tutors and lecturers to every Tilean city.",
+   "de": "Eine sterbende hochelfische Waldläuferin, die von den Leoricanern aufgenommen wurde, übersetzt ihnen binnen eines Monats die Schriftrollen Nahmuds. Der Orden gibt seine Abgeschiedenheit auf, gründet in sieben Jahren sieben Klöster und schickt Lehrer und Dozenten in alle tileanischen Städte."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "tilee-estalie"
+  ],
+  "lieux": [],
+  "factions": [
+   "humains-autres",
+   "hauts-elfes"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Tome of Salvation, Warhammer Fantasy Roleplay 2e édition",
+     "en": "Tome of Salvation, Warhammer Fantasy Roleplay 2nd edition",
+     "de": "Tome of Salvation, Warhammer Fantasy Roleplay 2. Edition"
+    },
+    "detail": {
+     "fr": "pp. 160-161",
+     "en": "pp. 160-161",
+     "de": "S. 160-161"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Tilean Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Tilean Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Tilean Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Tilean_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "offensive-d-alfonzo-marais-putrides",
+  "annee": 2192,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "L'offensive du duc Alfonzo dans les Marais Putrides",
+   "en": "Duke Alfonzo's offensive in the Blighted Marshes",
+   "de": "Herzog Alfonzos Offensive in den Pestsümpfen"
+  },
+  "resume": {
+   "fr": "Le duc Alfonzo de Miragliano lance une vaste attaque dans les marais et, au prix de lourdes pertes, refoule les Skavens loin de la cité. Miragliano peut ainsi s'étendre sur des terres jusque-là inhabitables.",
+   "en": "Duke Alfonzo of Miragliano launches a great attack into the marshes in what is called the Battle of the Blight and, at heavy cost, pushes the Skaven back from the city. Miragliano can then expand onto land that was uninhabitable until now.",
+   "de": "Herzog Alfonzo von Miragliano führt einen großen Angriff in die Sümpfe und drängt die Skaven unter schweren Verlusten von der Stadt zurück. So kann sich Miragliano auf bisher unbewohnbares Land ausdehnen."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "tilee-estalie"
+  ],
+  "lieux": [
+   "miragliano"
+  ],
+  "factions": [
+   "humains-autres",
+   "skavens"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Death's Dark Shadow, Warhammer Fantasy Roleplay 1re édition",
+     "en": "Death's Dark Shadow, Warhammer Fantasy Roleplay 1st edition",
+     "de": "Death's Dark Shadow, Warhammer Fantasy Roleplay 1. Edition"
+    },
+    "detail": "",
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Up in Arms, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Up in Arms, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Up in Arms, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "pp. 57-60",
+     "en": "pp. 57-60",
+     "de": "S. 57-60"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Tilean Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Tilean Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Tilean Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Tilean_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "pasolini-riviere-des-echos",
+  "annee": 2235,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Guido Pasolini et la Rivière des Échos",
+   "en": "Guido Pasolini and the River of Echoes",
+   "de": "Guido Pasolini und der Fluss der Echos"
+  },
+  "resume": {
+   "fr": "L'explorateur Guido Pasolini remonte le Cristallo jusqu'à sa source et confirme la vieille légende de la Rivière des Échos, qui relie le nord de la Tilée au Wissenland. Miragliano et Remas ouvrent des comptoirs à Nuln et Pfeildorf pour contourner Marienburg et les cols enneigés.",
+   "en": "The explorer Guido Pasolini follows the Cristallo to its source and proves the old legend of the River of Echoes, which links northern Tilea with Wissenland. Miragliano and Remas open trading offices in Nuln and Pfeildorf to bypass Marienburg and the snowbound passes.",
+   "de": "Der Entdecker Guido Pasolini folgt dem Cristallo bis zur Quelle und bestätigt die alte Sage vom Fluss der Echos, der das nördliche Tilea mit Wissenland verbindet. Miragliano und Remas eröffnen Kontore in Nuln und Pfeildorf, um Marienburg und die verschneiten Pässe zu umgehen."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "tilee-estalie",
+   "empire"
+  ],
+  "lieux": [
+   "miragliano",
+   "remas",
+   "nuln",
+   "pfeildorf"
+  ],
+  "factions": [
+   "humains-autres",
+   "empire"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Death's Dark Shadow, Warhammer Fantasy Roleplay 1re édition",
+     "en": "Death's Dark Shadow, Warhammer Fantasy Roleplay 1st edition",
+     "de": "Death's Dark Shadow, Warhammer Fantasy Roleplay 1. Edition"
+    },
+    "detail": {
+     "fr": "p. 26",
+     "en": "p. 26",
+     "de": "S. 26"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Tilean Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Tilean Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Tilean Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Tilean_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "fulma-ortegeta-don-de-la-riviere-rouge",
+  "annee": 2273,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Fulma Ortegeta, le Don de la Rivière rouge",
+   "en": "Fulma Ortegeta, Don of the Red River",
+   "de": "Fulma Ortegeta, der Don vom Roten Fluss"
+  },
+  "resume": {
+   "fr": "Fuyant l'Estalie à cause de ses crimes, Fulma Ortegeta devient prince dans les Royaumes frontaliers sous le nom de Don de la Rivière rouge. Son règne dépasse soixante ans, longévité remarquable dans ces contrées.",
+   "en": "Fleeing Estalia for his crimes, Fulma Ortegeta becomes a Border Prince known as the Don of the Red River. His rule lasts over sixty years, a rare span in those lands.",
+   "de": "Wegen seiner Verbrechen aus Estalia geflohen, wird Fulma Ortegeta als Don vom Roten Fluss zum Fürsten in den Grenzgrafschaften. Seine Herrschaft dauert über sechzig Jahre, was dort selten vorkommt."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "royaumes-frontaliers",
+   "tilee-estalie"
+  ],
+  "lieux": [],
+  "factions": [
+   "humains-autres"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer: The Old World, site officiel, carte interactive Explore the Old World",
+     "en": "Warhammer: The Old World website, Explore the Old World interactive map",
+     "de": "Warhammer: The Old World, offizielle Website, interaktive Karte Explore the Old World"
+    },
+    "detail": "",
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Border Princes Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Border Princes Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Border Princes Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Border_Princes_Timeline"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Estalian Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Estalian Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Estalian Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Estalian_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "bretonnie-sur-deux-fronts-2276",
+  "annee": 2276,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "La Bretonnie sur deux fronts",
+   "en": "Bretonnia on two fronts",
+   "de": "Bretonia an zwei Fronten"
+  },
+  "resume": {
+   "fr": "Une Waaagh! orque descend des Sœurs Pâles et ravage les marches de Couronne, retenant au nord le roi et les ducs de Gisoreux, d'Artois et de Couronne. Dans le même temps, une armée bretonnienne traverse le nord de la Tilée pour secourir les Royaumes frontaliers contre les rois des tombes. Sire Cecil Gastonne et d'autres chevaliers exilés lèvent des mercenaires et marchent sur la principauté de Matorea.",
+   "en": "An Orc Waaagh! pours from the Pale Sisters and ravages the Marches of Couronne, pinning the king and the dukes of Gisoreux, Artois and Couronne in the north. Meanwhile a Bretonnian army crosses northern Tilea to help the Border Princes against the Tomb Kings. Sir Cecil Gastonne and other exiled knights raise mercenaries and march on the Principality of Matorea.",
+   "de": "Eine Ork-Waaagh! bricht aus den Bleichen Schwestern hervor und verheert die Marken von Couronne, was den König und die Herzöge von Gisoreux, Artois und Couronne im Norden bindet. Zugleich durchquert ein bretonisches Heer das nördliche Tilea, um den Grenzgrafschaften gegen die Gruftkönige beizustehen. Sir Cecil Gastonne und andere verbannte Ritter werben Söldner an und ziehen zum Fürstentum Matorea."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "bretonnie",
+   "royaumes-frontaliers"
+  ],
+  "lieux": [
+   "couronne",
+   "gisoreux"
+  ],
+  "factions": [
+   "bretonnie",
+   "peaux-vertes",
+   "rois-des-tombes"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer: The Old World, Arcane Journal",
+     "en": "Warhammer: The Old World, Arcane Journal",
+     "de": "Warhammer: The Old World, Arcane Journal"
+    },
+    "detail": {
+     "fr": "pp. 14-20",
+     "en": "pp. 14-20",
+     "de": "S. 14-20"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Bretonnian Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Bretonnian Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Bretonnian Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Bretonnian_Timeline"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Border Princes Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Border Princes Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Border Princes Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Border_Princes_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "fredo-tordorno-en-exil",
+  "annee": 2276,
+  "fin": null,
+  "approx": true,
+  "titre": {
+   "fr": "L'exil de Fredo Tordorno",
+   "en": "The exile of Fredo Tordorno",
+   "de": "Das Exil des Fredo Tordorno"
+  },
+  "resume": {
+   "fr": "Fredo Tordorno, prince marchand autrefois populaire en Tilée, s'enfuit vers les Royaumes frontaliers. Il s'y taille une principauté où il se cache de ses nombreux ennemis.",
+   "en": "Fredo Tordorno, once a popular merchant prince in Tilea, flees to the Border Princes. There he carves out a principality in which to hide from his many enemies.",
+   "de": "Fredo Tordorno, einst ein beliebter Handelsfürst in Tilea, flieht in die Grenzgrafschaften. Dort errichtet er ein Fürstentum, in dem er sich vor seinen zahlreichen Feinden verbirgt."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "royaumes-frontaliers",
+   "tilee-estalie"
+  ],
+  "lieux": [],
+  "factions": [
+   "humains-autres"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer: The Old World, site officiel, carte interactive Explore the Old World",
+     "en": "Warhammer: The Old World website, Explore the Old World interactive map",
+     "de": "Warhammer: The Old World, offizielle Website, interaktive Karte Explore the Old World"
+    },
+    "detail": "",
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Border Princes Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Border Princes Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Border Princes Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Border_Princes_Timeline"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Tilean Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Tilean Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Tilean Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Tilean_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "fiancee-spectrale-d-udolpho",
+  "annee": 2283,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "La Fiancée spectrale d'Udolpho",
+   "en": "The Spectre Bride of Udolpho",
+   "de": "Die Geisterbraut von Udolpho"
+  },
+  "resume": {
+   "fr": "Smarra Udolpho reçoit la maison d'Isabelle di Lumbrusco pour célébrer leurs noces, mais le frère jaloux de la jeune femme la tue la veille de la cérémonie. Elle revient hanter le domaine fondé par le pirate Black Cygnet.",
+   "en": "Smarra Udolpho hosts the household of Isabelle di Lumbrusco to celebrate their wedding, but her jealous brother kills her on the eve of the ceremony. She returns to haunt the estate founded by the pirate Black Cygnet.",
+   "de": "Smarra Udolpho empfängt den Haushalt der Isabelle di Lumbrusco zur Hochzeitsfeier, doch ihr eifersüchtiger Bruder ermordet sie am Vorabend. Sie kehrt zurück und spukt auf dem Anwesen, das der Pirat Black Cygnet gegründet hat."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "tilee-estalie"
+  ],
+  "lieux": [],
+  "factions": [
+   "humains-autres",
+   "vampires"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Up in Arms, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Up in Arms, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Up in Arms, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "pp. 57-60",
+     "en": "pp. 57-60",
+     "de": "S. 57-60"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Tilean Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Tilean Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Tilean Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Tilean_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "asarnil-aux-rochers-des-sirenes",
+  "annee": 2302,
+  "fin": null,
+  "approx": true,
+  "titre": {
+   "fr": "Asarnil aux Rochers des Sirènes",
+   "en": "Asarnil at the Siren's Rocks",
+   "de": "Asarnil an den Sirenenfelsen"
+  },
+  "resume": {
+   "fr": "Exilé après la bataille de la plaine de Finuval, Asarnil s'installe à Remas avec son dragon Deathfang et entre au service de la cité contre Miragliano. À la bataille navale des Rochers des Sirènes, ils détruisent toute la flotte miraglianaise et mettent fin à sa suprématie sur mer.",
+   "en": "Exiled after the Battle of Finuval Plain, Asarnil settles in Remas with his dragon Deathfang and enters the city's service against Miragliano. In the sea battle of the Siren's Rocks they destroy the entire Miraglianese fleet and end its supremacy afloat.",
+   "de": "Nach der Schlacht auf der Ebene von Finuval im Exil, lässt sich Asarnil mit seinem Drachen Deathfang in Remas nieder und tritt in den Dienst der Stadt gegen Miragliano. In der Seeschlacht an den Sirenenfelsen vernichten sie die gesamte Flotte Miraglianos und beenden deren Vorherrschaft zur See."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "tilee-estalie"
+  ],
+  "lieux": [
+   "remas",
+   "miragliano"
+  ],
+  "factions": [
+   "humains-autres",
+   "hauts-elfes"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Dogs of War, 5e édition",
+     "en": "Warhammer Armies: Dogs of War, 5th edition",
+     "de": "Warhammer Armies: Dogs of War, 5. Edition"
+    },
+    "detail": {
+     "fr": "p. 42",
+     "en": "p. 42",
+     "de": "S. 42"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Tilean Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Tilean Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Tilean Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Tilean_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "terreur-en-tilee",
+  "annee": 2302,
+  "fin": 2320,
+  "approx": true,
+  "titre": {
+   "fr": "La Terreur en Tilée",
+   "en": "Terror in Tilea",
+   "de": "Der Schrecken in Tilea"
+  },
+  "resume": {
+   "fr": "Dans les années qui suivent la Grande Convocation de Skavenblight, les Skavens multiplient les attaques contre les cités tiléennes. De nombreuses bourgades proches des Marais Putrides sont rasées ou disparaissent sans laisser de trace.",
+   "en": "In the years after the Great Summoning in Skavenblight, the Skaven strike repeatedly at the Tilean cities. Many small towns near the Blighted Marshes are razed or simply vanish.",
+   "de": "In den Jahren nach der Großen Beschwörung in Skavenblight greifen die Skaven wiederholt die tileanischen Städte an. Viele kleine Orte nahe den Pestsümpfen werden niedergebrannt oder verschwinden spurlos."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "tilee-estalie"
+  ],
+  "lieux": [
+   "skavenblight"
+  ],
+  "factions": [
+   "humains-autres",
+   "skavens"
+  ],
+  "importance": 2,
+  "fiabilite": "etabli",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Skaven, 7e édition",
+     "en": "Warhammer Armies: Skaven, 7th edition",
+     "de": "Warhammer Armies: Skaven, 7. Edition"
+    },
+    "detail": {
+     "fr": "p. 31",
+     "en": "p. 31",
+     "de": "S. 31"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "The Horned Rat Companion, Warhammer Fantasy Roleplay 4e édition",
+     "en": "The Horned Rat Companion, Warhammer Fantasy Roleplay 4th edition",
+     "de": "The Horned Rat Companion, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 7",
+     "en": "p. 7",
+     "de": "S. 7"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Up in Arms, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Up in Arms, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Up in Arms, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "pp. 57-60",
+     "en": "pp. 57-60",
+     "de": "S. 57-60"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Tilean Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Tilean Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Tilean Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Tilean_Timeline"
+   },
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Skaven (7e édition, 2009)",
+     "en": "Warhammer Armies: Skaven (7th edition, 2009)",
+     "de": "Warhammer Armies: Skaven (7. Edition, 2009)"
+    },
+    "detail": {
+     "fr": "p. 31",
+     "en": "p. 31",
+     "de": "S. 31"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Skaven Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Skaven Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Skaven Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Skaven_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "raids-skavens-sur-les-ports-de-l-ouest",
+  "annee": 2320,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Raids skavens sur les ports de l'ouest",
+   "en": "Skaven raids on the western ports",
+   "de": "Skavenangriffe auf die Westhäfen"
+  },
+  "resume": {
+   "fr": "Des Skavens attaquent les ports de la côte ouest de la Bretonnie. Le roi ordonne de renforcer les flottes ducales et finance la construction de meilleurs navires.",
+   "en": "Skaven attack the ports of Bretonnia's western coast. The king orders the ducal fleets strengthened and pays for better ships.",
+   "de": "Skaven greifen die Häfen an Bretonias Westküste an. Der König lässt die herzoglichen Flotten verstärken und finanziert den Bau besserer Schiffe."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "bretonnie"
+  ],
+  "lieux": [],
+  "factions": [
+   "bretonnie",
+   "skavens"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "La source date ce fait de l'an 1342 du calendrier bretonnien, soit 2320 CI selon sa propre conversion.",
+   "en": "The source dates this to year 1342 of the Bretonnian calendar, which it converts to 2320 IC.",
+   "de": "Die Quelle datiert dies auf das Jahr 1342 des bretonischen Kalenders, was sie mit 2320 IK gleichsetzt."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Bretonnia, 6e édition",
+     "en": "Warhammer Armies: Bretonnia, 6th edition",
+     "de": "Warhammer Armies: Bretonnia, 6. Edition"
+    },
+    "detail": {
+     "fr": "p. 39",
+     "en": "p. 39",
+     "de": "S. 39"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Bretonnian Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Bretonnian Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Bretonnian Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Bretonnian_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "famines-et-republiques-tileennes",
+  "annee": 2321,
+  "fin": 2399,
+  "approx": true,
+  "titre": {
+   "fr": "Famines et républiques en Tilée",
+   "en": "Famine and republics in Tilea",
+   "de": "Hungersnöte und Republiken in Tilea"
+  },
+  "resume": {
+   "fr": "Des nuées de souris dévorent le grain et la famine gagne la péninsule. À Remas, des marchands lèvent la Garde républicaine, tuent le tyran Omilo Mondo et instaurent un conseil de cinquante d'où sort un triumvirat. Verezzo renverse à son tour son prince accapareur, et Vedenza se libère de Tobaro pour former sa Seconde République.",
+   "en": "Swarms of mice devour the grain and famine spreads across the peninsula. In Remas merchants raise the Republican Guard, kill the tyrant Omilo Mondo and set up a council of fifty from which a triumvirate is drawn. Verezzo in turn topples its hoarding prince, and Vedenza breaks from Tobaro to form its Second Republic.",
+   "de": "Mäuseschwärme fressen das Getreide, und der Hunger breitet sich auf der Halbinsel aus. In Remas stellen Kaufleute die Republikanische Garde auf, töten den Tyrannen Omilo Mondo und errichten einen Rat der Fünfzig, aus dem ein Triumvirat hervorgeht. Verezzo stürzt seinerseits seinen wuchernden Fürsten, und Vedenza löst sich von Tobaro und bildet seine Zweite Republik."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "tilee-estalie"
+  ],
+  "lieux": [
+   "remas",
+   "verezzo",
+   "tobaro"
+  ],
+  "factions": [
+   "humains-autres"
+  ],
+  "importance": 2,
+  "fiabilite": "etabli",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Dogs of War, 5e édition",
+     "en": "Warhammer Armies: Dogs of War, 5th edition",
+     "de": "Warhammer Armies: Dogs of War, 5. Edition"
+    },
+    "detail": {
+     "fr": "pp. 85-88",
+     "en": "pp. 85-88",
+     "de": "S. 85-88"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Up in Arms, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Up in Arms, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Up in Arms, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "pp. 57-60",
+     "en": "pp. 57-60",
+     "de": "S. 57-60"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Tilean Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Tilean Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Tilean Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Tilean_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "disparition-de-diego-estragon",
+  "annee": 2348,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "La disparition de Diego Estragon",
+   "en": "The disappearance of Diego Estragon",
+   "de": "Das Verschwinden des Diego Estragon"
+  },
+  "resume": {
+   "fr": "Le marchand et explorateur Diego Estragon part avec une grande flotte chargée de marchandises pour faire le tour du monde. Ni lui ni aucun de ses navires ne reviennent, bien que des marins prétendent avoir aperçu l'île où il aurait abordé.",
+   "en": "The merchant and explorer Diego Estragon sets out with a great fleet full of trade goods to sail around the world. Neither he nor any of his ships returns, though sailors claim to have sighted the island where he landed.",
+   "de": "Der Kaufmann und Entdecker Diego Estragon bricht mit einer großen, voll beladenen Flotte zu einer Weltumsegelung auf. Weder er noch eines seiner Schiffe kehren zurück, doch Seeleute wollen die Insel gesehen haben, auf der er landete."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "tilee-estalie"
+  ],
+  "lieux": [],
+  "factions": [
+   "humains-autres"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Games Workshop, Estragon's Island: A Warhammer Games mastered campaign, page archivée",
+     "en": "Games Workshop, Estragon's Island: A Warhammer Games mastered campaign, archived page",
+     "de": "Games Workshop, Estragon's Island: A Warhammer Games mastered campaign, archivierte Seite"
+    },
+    "detail": "",
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Estalian Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Estalian Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Estalian Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Estalian_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "siege-de-monte-castello",
+  "annee": 2401,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Le siège de Monte Castello",
+   "en": "The siege of Monte Castello",
+   "de": "Die Belagerung von Monte Castello"
+  },
+  "resume": {
+   "fr": "Cinq cents mercenaires tiennent Monte Castello contre dix mille Orques. À la mort du général Galeazzo, sa fille Monna Lissa revêt son armure et jure de se battre jusqu'au bout pour empêcher les Orques de barbouiller les fresques du château.",
+   "en": "Five hundred mercenaries hold Monte Castello against ten thousand Orcs. When General Galeazzo dies, his daughter Monna Lissa dons his armour and vows to fight on rather than let the Orcs scrawl over the castle's frescos.",
+   "de": "Fünfhundert Söldner halten Monte Castello gegen zehntausend Orks. Als General Galeazzo fällt, legt seine Tochter Monna Lissa dessen Rüstung an und schwört, bis zum Ende zu kämpfen, damit die Orks die Fresken der Burg nicht beschmieren."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "tilee-estalie"
+  ],
+  "lieux": [],
+  "factions": [
+   "humains-autres",
+   "peaux-vertes"
+  ],
+  "importance": 2,
+  "fiabilite": "etabli",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Dogs of War, 5e édition",
+     "en": "Warhammer Armies: Dogs of War, 5th edition",
+     "de": "Warhammer Armies: Dogs of War, 5. Edition"
+    },
+    "detail": {
+     "fr": "pp. 85-88",
+     "en": "pp. 85-88",
+     "de": "S. 85-88"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Up in Arms, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Up in Arms, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Up in Arms, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "pp. 57-60",
+     "en": "pp. 57-60",
+     "de": "S. 57-60"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Tilean Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Tilean Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Tilean Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Tilean_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "mortensholm-relevee",
+  "annee": 2423,
+  "fin": 2430,
+  "approx": true,
+  "titre": {
+   "fr": "Mortensholm relevée",
+   "en": "Mortensholm rebuilt",
+   "de": "Mortensholms Wiederaufbau"
+  },
+  "resume": {
+   "fr": "Mortensholm, détruite par une grande invasion gobeline, est reconstruite. Sept ans plus tard, le grand maréchal Hetzer y envoie des troupes impériales pour protéger les caravanes des routes du nord.",
+   "en": "Mortensholm, destroyed by a great Goblin invasion, is rebuilt. Seven years later Grand Marshal Hetzer sends Imperial troops there to protect the caravans on the northern roads.",
+   "de": "Das von einer großen Goblininvasion zerstörte Mortensholm wird wieder aufgebaut. Sieben Jahre später entsendet Großmarschall Hetzer imperiale Truppen dorthin, um die Karawanen auf den nördlichen Straßen zu schützen."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "royaumes-frontaliers"
+  ],
+  "lieux": [],
+  "factions": [
+   "humains-autres",
+   "empire",
+   "peaux-vertes"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Death's Dark Shadow, Warhammer Fantasy Roleplay 1re édition",
+     "en": "Death's Dark Shadow, Warhammer Fantasy Roleplay 1st edition",
+     "de": "Death's Dark Shadow, Warhammer Fantasy Roleplay 1. Edition"
+    },
+    "detail": {
+     "fr": "p. 11",
+     "en": "p. 11",
+     "de": "S. 11"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Border Princes Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Border Princes Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Border Princes Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Border_Princes_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "chapelle-de-pied-a-cochon",
+  "annee": 2450,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Le siège de la chapelle de Pied a'Cochon",
+   "en": "The siege of the Pied a'Cochon chapel",
+   "de": "Die Belagerung der Kapelle von Pied a'Cochon"
+  },
+  "resume": {
+   "fr": "La plus grande chapelle du Graal subsistant en Mousillon est assiégée par une immense horde de morts-vivants. Quand celle-ci se disperse, il ne reste aucune Damoiselle du Graal, et l'édifice n'est jamais relevé.",
+   "en": "The largest Grail Chapel left in Mousillon is besieged by a huge Undead horde. When it disperses no Grail Damsel remains, and the building is never restored.",
+   "de": "Die größte noch verbliebene Gralskapelle in Mousillon wird von einer gewaltigen Untotenhorde belagert. Als sich diese zerstreut, ist keine Gralsmaid mehr übrig, und das Bauwerk wird nie wieder aufgebaut."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "bretonnie"
+  ],
+  "lieux": [
+   "mousillon"
+  ],
+  "factions": [
+   "bretonnie",
+   "vampires"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "La source date ce fait de l'an 1472 du calendrier bretonnien, soit 2450 CI selon sa propre conversion.",
+   "en": "The source dates this to year 1472 of the Bretonnian calendar, which it converts to 2450 IC.",
+   "de": "Die Quelle datiert dies auf das Jahr 1472 des bretonischen Kalenders, was sie mit 2450 IK gleichsetzt."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Barony of the Damned, Warhammer Fantasy Roleplay 2e édition",
+     "en": "Barony of the Damned, Warhammer Fantasy Roleplay 2nd edition",
+     "de": "Barony of the Damned, Warhammer Fantasy Roleplay 2. Edition"
+    },
+    "detail": {
+     "fr": "p. 10",
+     "en": "p. 10",
+     "de": "S. 10"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Bretonnian Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Bretonnian Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Bretonnian Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Bretonnian_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "bataille-des-marees",
+  "annee": 2458,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Bataille des Marées",
+   "en": "Battle of the Tides",
+   "de": "Schlacht der Gezeiten"
+  },
+  "resume": {
+   "fr": "Pourchassés par une rare campagne de la marine estalienne, de nombreux pirates se regroupent et remontent vers le nord. Des marées anormales jettent leur flotte sur la côte de Mousillon, où la marine bretonnienne la bloque et la coule. Il s'agit du plus grand combat naval jamais livré dans ces eaux.",
+   "en": "Driven off by a rare Estalian naval campaign, a large body of pirates bands together and sails north. Freak tides throw their fleet onto the coast of Mousillon, where the Bretonnian navy traps and sinks it. It is the largest sea fight ever seen in those waters.",
+   "de": "Von einem seltenen Feldzug der estalischen Flotte vertrieben, schließen sich zahlreiche Piraten zusammen und segeln nach Norden. Ungewöhnliche Gezeiten werfen ihre Flotte an die Küste von Mousillon, wo die bretonische Marine sie einschließt und versenkt. Es ist das größte Seegefecht, das diese Gewässer je gesehen haben."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "bretonnie",
+   "tilee-estalie"
+  ],
+  "lieux": [
+   "mousillon"
+  ],
+  "factions": [
+   "bretonnie",
+   "humains-autres"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "La source date ce fait de l'an 1480 du calendrier bretonnien, soit 2458 CI selon sa propre conversion.",
+   "en": "The source dates this to year 1480 of the Bretonnian calendar, which it converts to 2458 IC.",
+   "de": "Die Quelle datiert dies auf das Jahr 1480 des bretonischen Kalenders, was sie mit 2458 IK gleichsetzt."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Barony of the Damned, Warhammer Fantasy Roleplay 2e édition",
+     "en": "Barony of the Damned, Warhammer Fantasy Roleplay 2nd edition",
+     "de": "Barony of the Damned, Warhammer Fantasy Roleplay 2. Edition"
+    },
+    "detail": {
+     "fr": "p. 10",
+     "en": "p. 10",
+     "de": "S. 10"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Warhammer: The Old World, site officiel, carte interactive Explore the Old World",
+     "en": "Warhammer: The Old World website, Explore the Old World interactive map",
+     "de": "Warhammer: The Old World, offizielle Website, interaktive Karte Explore the Old World"
+    },
+    "detail": "",
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Bretonnian Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Bretonnian Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Bretonnian Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Bretonnian_Timeline"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Estalian Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Estalian Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Estalian Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Estalian_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "bragthorn-a-masserschloss",
+  "annee": 2471,
+  "fin": 2521,
+  "approx": true,
+  "titre": {
+   "fr": "Le règne de Bragthorn le Nécromancien",
+   "en": "The reign of Bragthorn the Necromancer",
+   "de": "Die Herrschaft Bragthorns des Nekromanten"
+  },
+  "resume": {
+   "fr": "Pendant cinquante ans, le nécromancien Bragthorn fait régner la terreur sur la région de Masserschloss.",
+   "en": "For fifty years the necromancer Bragthorn holds the region of Masserschloss in terror.",
+   "de": "Fünfzig Jahre lang versetzt der Nekromant Bragthorn die Region Masserschloss in Angst und Schrecken."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "royaumes-frontaliers"
+  ],
+  "lieux": [],
+  "factions": [
+   "humains-autres",
+   "vampires"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Renegade Crowns, Warhammer Fantasy Roleplay 2e édition",
+     "en": "Renegade Crowns, Warhammer Fantasy Roleplay 2nd edition",
+     "de": "Renegade Crowns, Warhammer Fantasy Roleplay 2. Edition"
+    },
+    "detail": {
+     "fr": "pp. 117-118",
+     "en": "pp. 117-118",
+     "de": "S. 117-118"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Border Princes Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Border Princes Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Border Princes Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Border_Princes_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "nicolete-d-oisement",
+  "annee": 2479,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Le procès de Nicolete d'Oisement",
+   "en": "The trial of Nicolete d'Oisement",
+   "de": "Der Prozess gegen Nicolete d'Oisement"
+  },
+  "resume": {
+   "fr": "Après la disparition d'une fille du duc de Lyonesse, Nicolete d'Oisement est reconnue coupable de sorcellerie et de meurtre. Elle est condamnée à être emmurée dans sa demeure de l'est de la Mousillon.",
+   "en": "After a daughter of the Duke of Lyonesse goes missing, Nicolete d'Oisement is found guilty of witchcraft and murder. She is sentenced to be walled up in her house in eastern Mousillon.",
+   "de": "Nach dem Verschwinden einer Tochter des Herzogs von Lyonesse wird Nicolete d'Oisement der Hexerei und des Mordes für schuldig befunden. Man verurteilt sie dazu, in ihrem Haus im Osten von Mousillon eingemauert zu werden."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "bretonnie"
+  ],
+  "lieux": [
+   "mousillon"
+  ],
+  "factions": [
+   "bretonnie"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "La source date ce fait de l'an 1501 du calendrier bretonnien, soit 2479 CI selon sa propre conversion.",
+   "en": "The source dates this to year 1501 of the Bretonnian calendar, which it converts to 2479 IC.",
+   "de": "Die Quelle datiert dies auf das Jahr 1501 des bretonischen Kalenders, was sie mit 2479 IK gleichsetzt."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Barony of the Damned, Warhammer Fantasy Roleplay 2e édition",
+     "en": "Barony of the Damned, Warhammer Fantasy Roleplay 2nd edition",
+     "de": "Barony of the Damned, Warhammer Fantasy Roleplay 2. Edition"
+    },
+    "detail": {
+     "fr": "p. 10",
+     "en": "p. 10",
+     "de": "S. 10"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Bretonnian Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Bretonnian Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Bretonnian Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Bretonnian_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "guerre-des-betes-de-vedenza",
+  "annee": 2500,
+  "fin": null,
+  "approx": true,
+  "titre": {
+   "fr": "La guerre des Bêtes de Vedenza",
+   "en": "The War of Beasts at Vedenza",
+   "de": "Der Krieg der Bestien von Vedenza"
+  },
+  "resume": {
+   "fr": "Lors d'une tempête de magie, en l'an 104 de sa Seconde République, Vedenza se libère des petits royaumes estaliens de Larhgoz et de Geulata. Le conflit a été provoqué par les Skavens, qui voulaient affaiblir la cité pour assiéger de nouveau Tobaro.",
+   "en": "During a Storm of Magic, in the 104th year of its Second Republic, Vedenza frees itself from the petty Estalian kingdoms of Larhgoz and Geulata. The Skaven engineered the war to weaken the city so they could besiege Tobaro once more.",
+   "de": "Während eines Magiesturms im 104. Jahr seiner Zweiten Republik befreit sich Vedenza von den estalischen Kleinkönigreichen Larhgoz und Geulata. Die Skaven haben den Krieg angezettelt, um die Stadt zu schwächen und erneut Tobaro belagern zu können."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "tilee-estalie"
+  ],
+  "lieux": [
+   "tobaro"
+  ],
+  "factions": [
+   "humains-autres",
+   "skavens"
+  ],
+  "importance": 1,
+  "fiabilite": "etabli",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "The Horned Rat Companion, Warhammer Fantasy Roleplay 4e édition",
+     "en": "The Horned Rat Companion, Warhammer Fantasy Roleplay 4th edition",
+     "de": "The Horned Rat Companion, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 81",
+     "en": "p. 81",
+     "de": "S. 81"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "The Imperial Zoo, Warhammer Fantasy Roleplay 4e édition",
+     "en": "The Imperial Zoo, Warhammer Fantasy Roleplay 4th edition",
+     "de": "The Imperial Zoo, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 88",
+     "en": "p. 88",
+     "de": "S. 88"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Up in Arms, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Up in Arms, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Up in Arms, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 54",
+     "en": "p. 54",
+     "de": "S. 54"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Tilean Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Tilean Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Tilean Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Tilean_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "succession-de-luccini-2505",
+  "annee": 2505,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "La succession de Luccini",
+   "en": "The Luccini succession",
+   "de": "Die Thronfolge von Luccini"
+  },
+  "resume": {
+   "fr": "Leopold di Lucano et Lorenzo Lupo se disputent Luccini. Après une vision annonçant la victoire de Lorenzo, les prêtres du temple de Lucan et Luccina changent de camp, et la garde du temple, fidèle à Leopold, les jette à la mer. Leopold accepte finalement l'amnistie, pille l'acropole et quitte la ville, et Lorenzo devient prince.",
+   "en": "Leopold di Lucano and Lorenzo Lupo fight over Luccini. After a vision promises victory to Lorenzo, the priests of the Temple of Lucan and Luccina change sides, and the temple guard, loyal to Leopold, throws them into the sea. Leopold finally takes an amnesty, loots the acropolis and departs, and Lorenzo becomes prince.",
+   "de": "Leopold di Lucano und Lorenzo Lupo streiten um Luccini. Nachdem eine Vision Lorenzo den Sieg verheißt, wechseln die Priester des Tempels von Lucan und Luccina die Seite, und die Leopold treue Tempelwache wirft sie ins Meer. Leopold nimmt schließlich eine Amnestie an, plündert die Akropolis und zieht ab, und Lorenzo wird Fürst."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "tilee-estalie"
+  ],
+  "lieux": [
+   "luccini"
+  ],
+  "factions": [
+   "humains-autres"
+  ],
+  "importance": 2,
+  "fiabilite": "etabli",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Dogs of War, 5e édition",
+     "en": "Warhammer Armies: Dogs of War, 5th edition",
+     "de": "Warhammer Armies: Dogs of War, 5. Edition"
+    },
+    "detail": {
+     "fr": "pp. 85-88",
+     "en": "pp. 85-88",
+     "de": "S. 85-88"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Up in Arms, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Up in Arms, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Up in Arms, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "pp. 57-60",
+     "en": "pp. 57-60",
+     "de": "S. 57-60"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Tilean Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Tilean Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Tilean Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Tilean_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "skavens-a-sartosa-2510",
+  "annee": 2510,
+  "fin": null,
+  "approx": true,
+  "titre": {
+   "fr": "L'assaut skaven sur Sartosa",
+   "en": "The Skaven assault on Sartosa",
+   "de": "Der Skavenangriff auf Sartosa"
+  },
+  "resume": {
+   "fr": "Thanquol lâche des Orques sur la Tilée pour attirer ses combattants dans les Terres arides. Pendant ce temps, Lesskreep mène les Skavens de Sartosa souterraine contre la cité à la recherche d'un talisman. Ils sont repoussés, notamment grâce à Gotrek et Felix.",
+   "en": "Thanquol sets Orcs on Tilea to draw its fighters out into the Badlands. Meanwhile Lesskreep leads the Skaven of Under-Sartosa against the city in search of a talisman. They are driven off, thanks in part to Gotrek and Felix.",
+   "de": "Thanquol hetzt Orks auf Tilea, um dessen Kämpfer in die Ödlande zu locken. Unterdessen führt Lesskreep die Skaven aus Unter-Sartosa gegen die Stadt, um einen Talisman zu suchen. Sie werden zurückgeschlagen, nicht zuletzt dank Gotrek und Felix."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "tilee-estalie"
+  ],
+  "lieux": [
+   "sartosa"
+  ],
+  "factions": [
+   "humains-autres",
+   "skavens",
+   "peaux-vertes"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "The Tilean's Talisman, nouvelle de David Guymer",
+     "en": "The Tilean's Talisman, short story by David Guymer",
+     "de": "The Tilean's Talisman, Kurzgeschichte von David Guymer"
+    },
+    "detail": "",
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Tilean Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Tilean Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Tilean Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Tilean_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "archaon-dans-le-sud-2518",
+  "annee": 2518,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Archaon ravage le sud du Vieux Monde",
+   "en": "Archaon ravages the southern Old World",
+   "de": "Archaon verheert den Süden der Alten Welt"
+  },
+  "resume": {
+   "fr": "La flotte d'Archaon force le Golfe Noir malgré les cuirassés de Barak Varr, détruit les pirates de Sartosa et pille les bibliothèques tiléennes en quête de réponses. Elle brûle ensuite une armada estalienne au mouillage à Magritta, avant que des tempêtes ne la brisent sur les côtes de Bretonnie.",
+   "en": "Archaon's fleet forces the Black Gulf despite the ironclads of Barak Varr, destroys the pirates of Sartosa and loots Tilean libraries in search of answers. It then burns an Estalian armada at anchor at Magritta, before storms smash it against the shores of Bretonnia.",
+   "de": "Archaons Flotte erzwingt trotz der Panzerschiffe von Barak Varr die Durchfahrt durch den Schwarzen Golf, vernichtet die Piraten von Sartosa und plündert tileanische Bibliotheken auf der Suche nach Antworten. Dann verbrennt sie eine estalische Armada vor Anker in Magritta, ehe Stürme sie an den Küsten Bretonias zerschlagen."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "tilee-estalie",
+   "royaumes-frontaliers",
+   "bretonnie"
+  ],
+  "lieux": [
+   "barak-varr",
+   "sartosa",
+   "magritta"
+  ],
+  "factions": [
+   "chaos",
+   "humains-autres",
+   "nains"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Archaon: Lord of Chaos, roman de Rob Sanders",
+     "en": "Archaon: Lord of Chaos, novel by Rob Sanders",
+     "de": "Archaon: Lord of Chaos, Roman von Rob Sanders"
+    },
+    "detail": {
+     "fr": "chap. 14",
+     "en": "ch. 14",
+     "de": "Kap. 14"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Tilean Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Tilean Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Tilean Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Tilean_Timeline"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Estalian Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Estalian Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Estalian Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Estalian_Timeline"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Border Princes Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Border Princes Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Border Princes Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Border_Princes_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "reveil-de-karitamen",
+  "annee": 2518,
+  "fin": null,
+  "approx": true,
+  "titre": {
+   "fr": "Le réveil de Karitamen",
+   "en": "The awakening of Karitamen",
+   "de": "Das Erwachen Karitamens"
+  },
+  "resume": {
+   "fr": "Le seigneur liche Karitamen sort de son antique tombeau et entreprend de cartographier les principautés. Il prépare ainsi la reconquête de son ancien royaume.",
+   "en": "The Liche Lord Karitamen wakes in his ancient tomb and starts mapping the principalities. He is planning the reconquest of his old realm.",
+   "de": "Der Lichefürst Karitamen erwacht in seinem uralten Grab und beginnt, die Fürstentümer zu kartieren. So bereitet er die Rückeroberung seines einstigen Reiches vor."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "royaumes-frontaliers"
+  ],
+  "lieux": [],
+  "factions": [
+   "rois-des-tombes",
+   "humains-autres"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Lure of the Liche Lord, Warhammer Fantasy Roleplay 2e édition",
+     "en": "Lure of the Liche Lord, Warhammer Fantasy Roleplay 2nd edition",
+     "de": "Lure of the Liche Lord, Warhammer Fantasy Roleplay 2. Edition"
+    },
+    "detail": {
+     "fr": "p. 27",
+     "en": "p. 27",
+     "de": "S. 27"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Border Princes Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Border Princes Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Border Princes Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Border_Princes_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "sigvald-rase-chamburg",
+  "annee": 2518,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Sigvald rase Chamburg",
+   "en": "Sigvald razes Chamburg",
+   "de": "Sigvald macht Chamburg dem Erdboden gleich"
+  },
+  "resume": {
+   "fr": "Le prince Sigvald le Magnifique fait détruire la bourgade bretonnienne de Chamburg, dont le vin n'est pas à son goût.",
+   "en": "Prince Sigvald the Magnificent has the Bretonnian township of Chamburg destroyed because its wine does not please him.",
+   "de": "Prinz Sigvald der Prächtige lässt die bretonische Ortschaft Chamburg zerstören, weil ihm ihr Wein nicht schmeckt."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "bretonnie"
+  ],
+  "lieux": [],
+  "factions": [
+   "bretonnie",
+   "chaos"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "La source date ce fait de l'an 1540 du calendrier bretonnien, soit 2518 CI selon sa propre conversion.",
+   "en": "The source dates this to year 1540 of the Bretonnian calendar, which it converts to 2518 IC.",
+   "de": "Die Quelle datiert dies auf das Jahr 1540 des bretonischen Kalenders, was sie mit 2518 IK gleichsetzt."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Warriors of Chaos, 8e édition",
+     "en": "Warhammer Armies: Warriors of Chaos, 8th edition",
+     "de": "Warhammer Armies: Warriors of Chaos, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 15",
+     "en": "p. 15",
+     "de": "S. 15"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Bretonnian Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Bretonnian Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Bretonnian Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Bretonnian_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "chevaliers-au-serpent-d-or",
+  "annee": 2521,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Les chevaliers au serpent d'or",
+   "en": "The knights of the gold snake",
+   "de": "Die Ritter der goldenen Schlange"
+  },
+  "resume": {
+   "fr": "Près de L'Anguille, des chevaliers que nul n'a convoqués rejoignent une bataille contre des pillards norses, sous une bannière noire au serpent d'or. Ils se retirent en plein combat sans explication, et de nombreux chevaliers tombent sous les coups des berserkers.",
+   "en": "Near L'Anguille a group of knights nobody summoned arrives at a battle against Norscan raiders, under a black standard with a gold snake. They leave in mid-battle without a word, and many knights die to the berserkers as a result.",
+   "de": "Bei L'Anguille erscheinen ungerufene Ritter unter einem schwarzen Banner mit goldener Schlange in einer Schlacht gegen norsische Plünderer. Mitten im Kampf ziehen sie wortlos ab, und viele Ritter fallen daraufhin den Berserkern zum Opfer."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "bretonnie"
+  ],
+  "lieux": [
+   "anguille"
+  ],
+  "factions": [
+   "bretonnie",
+   "chaos"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "La source date ce fait de l'an 1543 du calendrier bretonnien, soit 2521 CI selon sa propre conversion.",
+   "en": "The source dates this to year 1543 of the Bretonnian calendar, which it converts to 2521 IC.",
+   "de": "Die Quelle datiert dies auf das Jahr 1543 des bretonischen Kalenders, was sie mit 2521 IK gleichsetzt."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Barony of the Damned, Warhammer Fantasy Roleplay 2e édition",
+     "en": "Barony of the Damned, Warhammer Fantasy Roleplay 2nd edition",
+     "de": "Barony of the Damned, Warhammer Fantasy Roleplay 2. Edition"
+    },
+    "detail": {
+     "fr": "p. 10",
+     "en": "p. 10",
+     "de": "S. 10"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Bretonnian Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Bretonnian Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Bretonnian Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Bretonnian_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "clan-mortkin-royaumes-frontaliers",
+  "annee": 2522,
+  "fin": 2523,
+  "approx": true,
+  "titre": {
+   "fr": "Le clan Mortkin dépeuple les Royaumes frontaliers",
+   "en": "Clan Mortkin empties the Border Princes",
+   "de": "Der Klan Mortkin entvölkert die Grenzgrafschaften"
+  },
+  "resume": {
+   "fr": "Entre l'automne 2522 et le printemps 2523 CI, alors que Mannfred von Carstein parcourt la région, les Skavens détruisent d'innombrables forts et villages des Royaumes frontaliers. Le clan Mortkin se distingue dans ce pillage, et les habitants sont emmenés en esclavage dans l'Empire souterrain.",
+   "en": "Between autumn 2522 and spring 2523 IC, while Mannfred von Carstein travels the region, the Skaven destroy countless forts and villages of the Border Princes. Clan Mortkin stands out in this work, and the inhabitants are led off as slaves into the Under-Empire.",
+   "de": "Zwischen Herbst 2522 und Frühjahr 2523 IK, während Mannfred von Carstein die Region bereist, zerstören die Skaven unzählige Festungen und Dörfer der Grenzgrafschaften. Besonders der Klan Mortkin tut sich dabei hervor, und die Bewohner werden als Sklaven ins Unterimperium verschleppt."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "royaumes-frontaliers"
+  ],
+  "lieux": [],
+  "factions": [
+   "skavens",
+   "humains-autres",
+   "vampires"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "The End Times: The Return of Nagash, roman de Josh Reynolds",
+     "en": "The End Times: The Return of Nagash, novel by Josh Reynolds",
+     "de": "The End Times: The Return of Nagash, Roman von Josh Reynolds"
+    },
+    "detail": {
+     "fr": "chap. 4",
+     "en": "ch. 4",
+     "de": "Kap. 4"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "The End Times: The Return of Nagash, roman de Josh Reynolds",
+     "en": "The End Times: The Return of Nagash, novel by Josh Reynolds",
+     "de": "The End Times: The Return of Nagash, Roman von Josh Reynolds"
+    },
+    "detail": {
+     "fr": "chap. 10",
+     "en": "ch. 10",
+     "de": "Kap. 10"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Border Princes Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Border Princes Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Border Princes Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Border_Princes_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "dieter-usurpe-masserschloss",
+  "annee": 2522,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Dieter von Masserschloss usurpe le pouvoir",
+   "en": "Dieter von Masserschloss seizes power",
+   "de": "Dieter von Masserschloss reißt die Macht an sich"
+  },
+  "resume": {
+   "fr": "Dieter von Masserschloss s'empare de la principauté et prétend, faussement, avoir vaincu le nécromancien Bragthorn pour asseoir sa légitimité.",
+   "en": "Dieter von Masserschloss usurps the principality and falsely claims to have beaten the necromancer Bragthorn to shore up his right to rule.",
+   "de": "Dieter von Masserschloss reißt das Fürstentum an sich und behauptet fälschlich, den Nekromanten Bragthorn besiegt zu haben, um seine Herrschaft zu rechtfertigen."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "royaumes-frontaliers"
+  ],
+  "lieux": [],
+  "factions": [
+   "humains-autres"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Renegade Crowns, Warhammer Fantasy Roleplay 2e édition",
+     "en": "Renegade Crowns, Warhammer Fantasy Roleplay 2nd edition",
+     "de": "Renegade Crowns, Warhammer Fantasy Roleplay 2. Edition"
+    },
+    "detail": {
+     "fr": "pp. 117-118",
+     "en": "pp. 117-118",
+     "de": "S. 117-118"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Renegade Crowns, Warhammer Fantasy Roleplay 2e édition",
+     "en": "Renegade Crowns, Warhammer Fantasy Roleplay 2nd edition",
+     "de": "Renegade Crowns, Warhammer Fantasy Roleplay 2. Edition"
+    },
+    "detail": {
+     "fr": "p. 68",
+     "en": "p. 68",
+     "de": "S. 68"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Border Princes Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Border Princes Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Border Princes Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Border_Princes_Timeline"
+   }
+  ]
+ }
+]

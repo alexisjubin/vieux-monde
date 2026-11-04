@@ -12,13 +12,21 @@ const FICHIERS = [
   "morts-vivants",
   "skavens-et-lustrie",
   "fin-des-temps",
+  "suite-empire",
+  "suite-kislev-chaos",
+  "suite-ouest",
+  "suite-nains-orques-ogres",
+  "suite-elfes",
+  "suite-morts-vivants-sud",
+  "suite-skavens-lezards",
+  "suite-general-orient",
 ].map((nom) => `donnees/evenements-${nom}.json`);
 
 const LANGUES = ["fr", "en", "de"];
 
 // À augmenter à chaque publication qui change les données ou la carte, pour
 // que les navigateurs ne gardent pas l'ancienne version en cache.
-const VERSION = 18;
+const VERSION = 19;
 
 const TEXTES = {
   fr: {

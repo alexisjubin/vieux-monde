@@ -1451,7 +1451,7 @@
       "de": "Der Necrarch Melkhior, ein Schüler W'sorans, wendet sich gegen seinen Meister und vernichtet ihn. Er nimmt das Buch des Nagash an sich, das W'soran aus Nagashizzar mitgenommen hatte. Melkhior wird einer der ältesten und gefürchtetsten Necrarchen der Alten Welt."
     },
     "ere": "age-des-tribus",
-    "regions": [],
+    "regions": ["montagnes"],
     "lieux": [],
     "factions": [
       "vampires"

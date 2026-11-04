@@ -1,0 +1,3473 @@
+[
+ {
+  "id": "ogres-crees-par-les-anciens",
+  "annee": -5700,
+  "fin": null,
+  "approx": true,
+  "titre": {
+   "fr": "Les Anciens créent les Ogres",
+   "en": "The Old Ones create the Ogres",
+   "de": "Die Alten erschaffen die Oger"
+  },
+  "resume": {
+   "fr": "Selon une estimation de lettrés elfes, les Anciens façonnent les Ogres à cette époque. Cette nouvelle espèce devait aider à contenir l'avancée du Chaos.",
+   "en": "According to an estimate by Elven scholars, the Old Ones fashion the Ogres around this time. The new species was meant to help hold back the advance of Chaos.",
+   "de": "Nach einer Schätzung elfischer Gelehrter formen die Alten um diese Zeit die Oger. Die neue Art sollte helfen, das Vordringen des Chaos aufzuhalten."
+  },
+  "ere": "anciens",
+  "regions": [
+   "orient"
+  ],
+  "lieux": [],
+  "factions": [
+   "ogres"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Ogre Kingdoms, 8e édition",
+     "en": "Warhammer Armies: Ogre Kingdoms, 8th edition",
+     "de": "Warhammer Armies: Ogre Kingdoms, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 22",
+     "en": "p. 22",
+     "de": "S. 22"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Ogre Kingdoms Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Ogre Kingdoms Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Ogre Kingdoms Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Ogre_Kingdoms_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "naissance-du-maelstrom-occidental",
+  "annee": -2748,
+  "fin": null,
+  "approx": true,
+  "titre": {
+   "fr": "La comète de la Grande Gueule crée le Maelström",
+   "en": "The Great Maw comet creates the Maelstrom",
+   "de": "Der Komet des Großen Schlunds erschafft den Mahlstrom"
+  },
+  "resume": {
+   "fr": "Deux ans après sa chute, la comète de distorsion qui a apporté la Grande Gueule achève de traverser la croûte du monde. Elle ressort dans l'hémisphère opposé, fait bouillir l'océan et y ouvre le Maelström, une zone de l'océan occidental dont peu de témoins reviennent.",
+   "en": "Two years after its fall, the warpstone comet that carried the Great Maw finishes boring through the crust of the world. It bursts out in the opposite hemisphere, boils the ocean there and opens the Maelstrom, a stretch of the western ocean from which few witnesses return.",
+   "de": "Zwei Jahre nach seinem Einschlag hat sich der Warpsteinkomet, der den Großen Schlund brachte, durch die Weltkruste gefressen. Er tritt auf der anderen Halbkugel aus, lässt dort das Meer kochen und öffnet den Mahlstrom, einen Teil des westlichen Ozeans, aus dem kaum ein Zeuge zurückkehrt."
+  },
+  "ere": "grande-catastrophe",
+  "regions": [
+   "orient"
+  ],
+  "lieux": [
+   "grande-gueule"
+  ],
+  "factions": [
+   "ogres"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Ogre Kingdoms, 8e édition",
+     "en": "Warhammer Armies: Ogre Kingdoms, 8th edition",
+     "de": "Warhammer Armies: Ogre Kingdoms, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 22",
+     "en": "p. 22",
+     "de": "S. 22"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Ogre Kingdoms Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Ogre Kingdoms Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Ogre Kingdoms Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Ogre_Kingdoms_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "premiers-yhetees",
+  "annee": -2600,
+  "fin": null,
+  "approx": true,
+  "titre": {
+   "fr": "Premières apparitions des Yhetees",
+   "en": "First sightings of the Yhetees",
+   "de": "Erste Sichtungen der Yhetees"
+  },
+  "resume": {
+   "fr": "Les Yhetees sont aperçus pour la première fois. Ce sont les descendants des Ogres restés dans les Terres des Géants anciens, transformés par les énergies qui y règnent.",
+   "en": "The Yhetees are seen for the first time. They descend from the Ogres who stayed behind in the Ancient Giant Lands and were transformed by the energies of that place.",
+   "de": "Die Yhetees werden zum ersten Mal gesichtet. Sie stammen von den Ogern ab, die in den Alten Riesenlanden blieben und von den dortigen Energien verwandelt wurden."
+  },
+  "ere": "age-d-or",
+  "regions": [
+   "orient"
+  ],
+  "lieux": [],
+  "factions": [
+   "ogres"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Ogre Kingdoms, 8e édition",
+     "en": "Warhammer Armies: Ogre Kingdoms, 8th edition",
+     "de": "Warhammer Armies: Ogre Kingdoms, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 22",
+     "en": "p. 22",
+     "de": "S. 22"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Ogre Kingdoms Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Ogre Kingdoms Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Ogre Kingdoms Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Ogre_Kingdoms_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "bulg-devore-la-horde-de-gholg",
+  "annee": -2523,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Bulg Legeater dévore la horde de Gholg",
+   "en": "Bulg Legeater devours Gholg's horde",
+   "de": "Bulg Legeater verschlingt Gholgs Horde"
+  },
+  "resume": {
+   "fr": "Ayant entendu dire que la chair de hobgobelin rappelle un peu le bœuf, le Tyran Bulg Legeater lance sa tribu sur la horde gobeline de Gholg Slitthroat. Les Ogres la traquent et la dévorent entièrement.",
+   "en": "Having heard that Hobgoblin flesh is a little like beef, Tyrant Bulg Legeater sets his tribe on the Goblin horde of Gholg Slitthroat. The Ogres hunt it down and eat all of it.",
+   "de": "Tyrann Bulg Legeater hat gehört, Hobgoblinfleisch erinnere ein wenig an Rind, und hetzt seinen Stamm auf die Goblinhorde von Gholg Slitthroat. Die Oger jagen sie und fressen sie restlos auf."
+  },
+  "ere": "age-d-or",
+  "regions": [
+   "orient"
+  ],
+  "lieux": [],
+  "factions": [
+   "ogres",
+   "peaux-vertes"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Fantasy Battles, livre de règles, 8e édition",
+     "en": "Warhammer Fantasy Battles, core rulebook, 8th edition",
+     "de": "Warhammer Fantasy Battles, Regelbuch, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 175",
+     "en": "p. 175",
+     "de": "S. 175"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Ogre Kingdoms Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Ogre Kingdoms Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Ogre Kingdoms Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Ogre_Kingdoms_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "guerres-des-ogres-dragons",
+  "annee": -2400,
+  "fin": null,
+  "approx": true,
+  "titre": {
+   "fr": "Les guerres des Ogres-dragons",
+   "en": "The Dragon Ogre Wars",
+   "de": "Die Drachenoger-Kriege"
+  },
+  "resume": {
+   "fr": "Dans les pics des Montagnes des Lamentations, les Ogres se heurtent aux antiques Ogres-dragons. Les combats sont si violents que des montagnes s'écroulent, et les Ogres-dragons finissent repoussés vers le nord, dans les Désolations du Chaos.",
+   "en": "Among the peaks of the Mountains of Mourn, the Ogres clash with the ancient Dragon Ogres. The fighting is violent enough to bring mountains down, and the Dragon Ogres are finally pushed north into the Chaos Wastes.",
+   "de": "In den Gipfeln der Berge der Trauer stoßen die Oger auf die uralten Drachenoger. Die Kämpfe sind so heftig, dass Berge einstürzen, und schließlich werden die Drachenoger nach Norden in die Chaoswüste getrieben."
+  },
+  "ere": "age-d-or",
+  "regions": [
+   "orient",
+   "desolations"
+  ],
+  "lieux": [],
+  "factions": [
+   "ogres",
+   "chaos"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Ogre Kingdoms, 8e édition",
+     "en": "Warhammer Armies: Ogre Kingdoms, 8th edition",
+     "de": "Warhammer Armies: Ogre Kingdoms, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 22",
+     "en": "p. 22",
+     "de": "S. 22"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Ogre Kingdoms Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Ogre Kingdoms Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Ogre Kingdoms Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Ogre_Kingdoms_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "grand-roti-de-la-foret-hantee",
+  "annee": -2300,
+  "fin": null,
+  "approx": true,
+  "titre": {
+   "fr": "Les Ogres contre les hommes-bêtes de la Forêt Hantée",
+   "en": "The Ogres against the Beastmen of the Haunted Forest",
+   "de": "Die Oger gegen die Tiermenschen des Spukwalds"
+  },
+  "resume": {
+   "fr": "De grandes batailles opposent les Ogres aux hommes-bêtes de la Forêt Hantée. Elles s'achèvent par le plus grand rôti de taureau jamais organisé.",
+   "en": "Great battles pit the Ogres against the Beastmen of the Haunted Forest. They end in the largest Bull Roast ever held.",
+   "de": "Große Schlachten stellen die Oger gegen die Tiermenschen des Spukwalds. Sie enden im größten Bullenbraten, der je veranstaltet wurde."
+  },
+  "ere": "age-d-or",
+  "regions": [
+   "orient"
+  ],
+  "lieux": [],
+  "factions": [
+   "ogres",
+   "chaos"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Ogre Kingdoms, 8e édition",
+     "en": "Warhammer Armies: Ogre Kingdoms, 8th edition",
+     "de": "Warhammer Armies: Ogre Kingdoms, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 22",
+     "en": "p. 22",
+     "de": "S. 22"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Ogre Kingdoms Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Ogre Kingdoms Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Ogre Kingdoms Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Ogre_Kingdoms_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "glacier-qui-marchait",
+  "annee": -2100,
+  "fin": null,
+  "approx": true,
+  "titre": {
+   "fr": "Le Glacier qui marchait",
+   "en": "The Glacier That Walked",
+   "de": "Der Gletscher, der ging"
+  },
+  "resume": {
+   "fr": "La légende ogre raconte qu'un glacier du nord se dressa et tua de nombreux Ogres. Certains affirment qu'il reviendra le jour où les terres gèleront de nouveau.",
+   "en": "Ogre legend tells of a northern glacier that stood up and killed many of their kind. Some claim it will return when the lands freeze again.",
+   "de": "Die Legende der Oger berichtet von einem nördlichen Gletscher, der sich erhob und viele von ihnen tötete. Manche behaupten, er werde wiederkehren, wenn das Land erneut gefriert."
+  },
+  "ere": "age-d-or",
+  "regions": [
+   "orient"
+  ],
+  "lieux": [],
+  "factions": [
+   "ogres"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Récit légendaire transmis par les Ogres.",
+   "en": "Legendary tale passed down by the Ogres.",
+   "de": "Legendäre Überlieferung der Oger."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Ogre Kingdoms, 8e édition",
+     "en": "Warhammer Armies: Ogre Kingdoms, 8th edition",
+     "de": "Warhammer Armies: Ogre Kingdoms, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 22",
+     "en": "p. 22",
+     "de": "S. 22"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Ogre Kingdoms Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Ogre Kingdoms Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Ogre Kingdoms Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Ogre_Kingdoms_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "nains-comprennent-les-pillards-ogres",
+  "annee": -1957,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Les Nains découvrent ce que veulent les pillards ogres",
+   "en": "The Dwarfs learn what Ogre raiders want",
+   "de": "Die Zwerge erfahren, was die Ogerplünderer wollen"
+  },
+  "resume": {
+   "fr": "Les forteresses du Karaz Ankor comprennent avec stupeur que les Ogres qui les attaquent se moquent de l'or et des joyaux. Ils viennent pour la bière, les vivres et la chair des Nains eux-mêmes.",
+   "en": "The holds of the Karaz Ankor realise to their astonishment that the Ogres raiding them care nothing for gold or gems. They come for ale, provisions and the flesh of the Dwarfs themselves.",
+   "de": "Die Festungen des Karaz Ankor stellen verblüfft fest, dass die angreifenden Oger weder Gold noch Edelsteine wollen. Sie kommen wegen des Biers, der Vorräte und des Fleisches der Zwerge selbst."
+  },
+  "ere": "age-d-or",
+  "regions": [
+   "montagnes"
+  ],
+  "lieux": [],
+  "factions": [
+   "ogres",
+   "nains"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Archives of the Empire Vol. II, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Archives of the Empire Vol. II, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Archives of the Empire Vol. II, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 10",
+     "en": "p. 10",
+     "de": "S. 10"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Ogre Kingdoms Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Ogre Kingdoms Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Ogre Kingdoms Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Ogre_Kingdoms_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "montagne-d-or-des-larmes",
+  "annee": -1955,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Les Nains entendent parler de la montagne d'or",
+   "en": "The Dwarfs hear of the mountain of gold",
+   "de": "Die Zwerge hören vom Berg aus Gold"
+  },
+  "resume": {
+   "fr": "Les annales des rois nains consignent de grands raids ogres dans leurs mines des Montagnes du Bord du Monde. C'est aussi l'époque où circulent les premiers récits d'une montagne d'or pur dans les Montagnes des Lamentations, et des expéditions partent à sa recherche.",
+   "en": "The annals of the Dwarf kings record major Ogre raids on their mines in the Worlds Edge Mountains. Around the same time the first stories spread of a mountain of pure gold in the Mountains of Mourn, and expeditions set out to find it.",
+   "de": "Die Annalen der Zwergenkönige verzeichnen große Ogerüberfälle auf ihre Minen im Weltrandgebirge. Zur selben Zeit kommen die ersten Geschichten von einem Berg aus reinem Gold in den Bergen der Trauer auf, und Expeditionen brechen dorthin auf."
+  },
+  "ere": "age-d-or",
+  "regions": [
+   "montagnes",
+   "orient"
+  ],
+  "lieux": [],
+  "factions": [
+   "nains",
+   "ogres"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Ogre Kingdoms, 8e édition",
+     "en": "Warhammer Armies: Ogre Kingdoms, 8th edition",
+     "de": "Warhammer Armies: Ogre Kingdoms, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 22",
+     "en": "p. 22",
+     "de": "S. 22"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Ogre Kingdoms Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Ogre Kingdoms Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Ogre Kingdoms Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Ogre_Kingdoms_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "dernier-skytitan",
+  "annee": -1700,
+  "fin": null,
+  "approx": true,
+  "titre": {
+   "fr": "Le dernier Skytitan",
+   "en": "The Last Skytitan",
+   "de": "Der letzte Skytitan"
+  },
+  "resume": {
+   "fr": "Un Skytitan solitaire est repéré dans les Royaumes ogres. Buluk Knifefinger le traque et l'abat, et sa tribu festoie un mois durant sur sa dépouille.",
+   "en": "A lone Skytitan is spotted wandering the Ogre Kingdoms. Buluk Knifefinger tracks it down and kills it, and his tribe feeds on the carcass for a month.",
+   "de": "Ein einsamer Skytitan wird in den Ogerkönigreichen entdeckt. Buluk Knifefinger spürt ihn auf und erschlägt ihn, und sein Stamm zehrt einen Monat lang von dem Kadaver."
+  },
+  "ere": "age-d-or",
+  "regions": [
+   "orient"
+  ],
+  "lieux": [],
+  "factions": [
+   "ogres"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Ogre Kingdoms, 8e édition",
+     "en": "Warhammer Armies: Ogre Kingdoms, 8th edition",
+     "de": "Warhammer Armies: Ogre Kingdoms, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 22",
+     "en": "p. 22",
+     "de": "S. 22"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Ogre Kingdoms Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Ogre Kingdoms Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Ogre Kingdoms Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Ogre_Kingdoms_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "lotus-noir-chez-les-black-guff",
+  "annee": -1578,
+  "fin": null,
+  "approx": true,
+  "titre": {
+   "fr": "Les Enfants du Lotus Noir chez les Black Guff",
+   "en": "The Children of the Black Lotus among the Black Guff",
+   "de": "Die Kinder des Schwarzen Lotus bei den Black Guff"
+  },
+  "resume": {
+   "fr": "Une troupe de négriers elfes noirs s'abat sur la tribu de Gobelins de la nuit des Black Guff. Acculés, les Gobelins versent toute leur récolte de champignons fous dans les enclos à squigs, et les bêtes enragées mettent les Elfes en fuite avant de se retourner contre leurs maîtres.",
+   "en": "A host of Dark Elf slavers descends on the Black Guff tribe of Night Goblins. Cornered, the Goblins pour their entire harvest of Mad Cap Mushrooms into the Squig pens, and the frenzied beasts rout the Elves before turning on their masters.",
+   "de": "Ein Heer dunkelelfischer Sklavenjäger fällt über den Nachtgoblinstamm der Black Guff her. In die Enge getrieben, kippen die Goblins ihre gesamte Pilzernte in die Squiggehege, und die rasenden Tiere schlagen die Elfen in die Flucht, ehe sie sich gegen ihre Herren wenden."
+  },
+  "ere": "age-d-or",
+  "regions": [
+   "montagnes"
+  ],
+  "lieux": [],
+  "factions": [
+   "peaux-vertes",
+   "elfes-noirs"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Fantasy Battles, livre de règles, 8e édition",
+     "en": "Warhammer Fantasy Battles, core rulebook, 8th edition",
+     "de": "Warhammer Fantasy Battles, Regelbuch, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 175",
+     "en": "p. 175",
+     "de": "S. 175"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Greenskin Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Greenskin Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Greenskin Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Greenskin_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "abandon-de-la-lynsk-et-de-l-urskoy",
+  "annee": -1476,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Les Nains abandonnent la Lynsk et l'Urskoy",
+   "en": "The Dwarfs abandon the Lynsk and the Urskoy",
+   "de": "Die Zwerge geben Lynsk und Urskoy auf"
+  },
+  "resume": {
+   "fr": "Sous la pression des peaux-vertes, les Nains renoncent à leurs établissements le long des fleuves Lynsk et Urskoy.",
+   "en": "Under Greenskin attack, the Dwarfs give up their settlements along the Rivers Lynsk and Urskoy.",
+   "de": "Unter dem Druck der Grünhäute geben die Zwerge ihre Siedlungen an den Flüssen Lynsk und Urskoy auf."
+  },
+  "ere": "age-des-tribus",
+  "regions": [
+   "kislev"
+  ],
+  "lieux": [],
+  "factions": [
+   "nains",
+   "peaux-vertes"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Realm of the Ice Queen, Warhammer Fantasy Roleplay 2e édition",
+     "en": "Realm of the Ice Queen, Warhammer Fantasy Roleplay 2nd edition",
+     "de": "Realm of the Ice Queen, Warhammer Fantasy Roleplay 2. Edition"
+    },
+    "detail": {
+     "fr": "p. 18",
+     "en": "p. 18",
+     "de": "S. 18"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Dwarf Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Dwarf Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Dwarf Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Dwarf_Timeline"
+   },
+   {
+    "titre": {
+     "fr": "Realm of the Ice Queen, Warhammer Fantasy Roleplay 2e édition (2007)",
+     "en": "Realm of the Ice Queen, Warhammer Fantasy Roleplay 2nd edition (2007)",
+     "de": "Realm of the Ice Queen, Warhammer Fantasy Roleplay 2. Edition (2007)"
+    },
+    "detail": {
+     "fr": "p. 18",
+     "en": "p. 18",
+     "de": "S. 18"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Something Rotten in Kislev, Warhammer Fantasy Roleplay 1re édition",
+     "en": "Something Rotten in Kislev, Warhammer Fantasy Roleplay 1st edition",
+     "de": "Something Rotten in Kislev, Warhammer Fantasy Roleplay 1. Edition"
+    },
+    "detail": {
+     "fr": "pp. 12-13",
+     "en": "pp. 12-13",
+     "de": "S. 12-13"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Kislev Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Kislev Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Kislev Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Kislev_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "guerre-des-demons-et-plateau-des-os",
+  "annee": -1400,
+  "fin": null,
+  "approx": true,
+  "titre": {
+   "fr": "La guerre des Démons et le plateau des Os",
+   "en": "The Daemon War and the Plateau of Bones",
+   "de": "Der Dämonenkrieg und das Knochenplateau"
+  },
+  "resume": {
+   "fr": "Une faille vers le Royaume du Chaos s'ouvre dans les terres ogres et vomit des démons sans nombre. De nombreuses tribus s'unissent et combattent plus d'un an avant de la refermer. Il ne reste du champ de bataille qu'un plateau couvert d'ossements.",
+   "en": "A rift into the Realm of Chaos opens in Ogre lands and pours out Daemons without number. Many tribes join forces and fight for over a year before sealing it. All that remains of the battlefield is a plateau of bones.",
+   "de": "Im Land der Oger öffnet sich ein Riss ins Reich des Chaos und speit zahllose Dämonen aus. Viele Stämme verbünden sich und kämpfen über ein Jahr, bis er versiegelt ist. Vom Schlachtfeld bleibt nur ein Plateau aus Knochen."
+  },
+  "ere": "age-des-tribus",
+  "regions": [
+   "orient"
+  ],
+  "lieux": [],
+  "factions": [
+   "ogres",
+   "chaos"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Ogre Kingdoms, 8e édition",
+     "en": "Warhammer Armies: Ogre Kingdoms, 8th edition",
+     "de": "Warhammer Armies: Ogre Kingdoms, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 22",
+     "en": "p. 22",
+     "de": "S. 22"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Ogre Kingdoms Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Ogre Kingdoms Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Ogre Kingdoms Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Ogre_Kingdoms_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "peaux-vertes-fuient-le-puits-maudit",
+  "annee": -1200,
+  "fin": null,
+  "approx": true,
+  "titre": {
+   "fr": "Les peaux-vertes fuient la nécromancie de Nagash",
+   "en": "The Greenskins flee Nagash's necromancy",
+   "de": "Die Grünhäute fliehen vor Nagashs Totenbeschwörung"
+  },
+  "resume": {
+   "fr": "Pendant que Nagash creuse le Puits maudit, Orques et Gobelins fuient vers l'ouest pour échapper à la nécromancie qui gagne le sud. Beaucoup périssent malgré tout.",
+   "en": "As Nagash excavates the Cursed Pit, Orcs and Goblins flee west to escape the necromancy spreading through the south. Many die all the same.",
+   "de": "Während Nagash die Verfluchte Grube ausheben lässt, fliehen Orks und Goblins nach Westen vor der Nekromantie, die sich im Süden ausbreitet. Viele kommen dennoch um."
+  },
+  "ere": "age-des-tribus",
+  "regions": [
+   "terres-arides"
+  ],
+  "lieux": [
+   "nagashizzar"
+  ],
+  "factions": [
+   "peaux-vertes",
+   "rois-des-tombes"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Orcs & Goblins, 8e édition",
+     "en": "Warhammer Armies: Orcs & Goblins, 8th edition",
+     "de": "Warhammer Armies: Orcs & Goblins, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 28",
+     "en": "p. 28",
+     "de": "S. 28"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Greenskin Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Greenskin Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Greenskin Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Greenskin_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "kadon-chasse-les-gobelins",
+  "annee": -1175,
+  "fin": null,
+  "approx": true,
+  "titre": {
+   "fr": "Kadon et Strygos chassent les peaux-vertes des futures Terres arides",
+   "en": "Kadon and Strygos drive the Greenskins from the future Badlands",
+   "de": "Kadon und Strygos vertreiben die Grünhäute aus den späteren Ödlanden"
+  },
+  "resume": {
+   "fr": "Les humains de Strygos disputent aux peaux-vertes les futures Terres arides. Le nécromancien Kadon, détenteur de la Couronne de Nagash, les aide à repousser les gobelinoïdes vers les Terres sombres, puis les vainqueurs bâtissent de nombreuses cités et des nécropoles.",
+   "en": "The humans of Strygos fight the Greenskins for the future Badlands. The Necromancer Kadon, holder of the Crown of Nagash, helps them drive the goblinoids into the Dark Lands, after which the victors raise many cities and burial grounds.",
+   "de": "Die Menschen von Strygos ringen mit den Grünhäuten um die späteren Ödlande. Der Nekromant Kadon, Träger der Krone Nagashs, hilft ihnen, die Goblinoiden in die Dunklen Lande zu treiben, worauf die Sieger viele Städte und Grabstätten errichten."
+  },
+  "ere": "age-des-tribus",
+  "regions": [
+   "terres-arides"
+  ],
+  "lieux": [],
+  "factions": [
+   "peaux-vertes",
+   "humains-autres"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Orcs & Goblins, 8e édition",
+     "en": "Warhammer Armies: Orcs & Goblins, 8th edition",
+     "de": "Warhammer Armies: Orcs & Goblins, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 28",
+     "en": "p. 28",
+     "de": "S. 28"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Greenskin Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Greenskin Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Greenskin Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Greenskin_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "apparition-des-gnoblars",
+  "annee": -1000,
+  "fin": null,
+  "approx": true,
+  "titre": {
+   "fr": "Les Gnoblars se répandent au sud des Montagnes des Lamentations",
+   "en": "Gnoblars spread south of the Mountains of Mourn",
+   "de": "Gnoblars breiten sich südlich der Berge der Trauer aus"
+  },
+  "resume": {
+   "fr": "Les Gnoblars, nouvelle variété de gobelins adaptée au climat de haute montagne, deviennent courants au sud des Montagnes des Lamentations.",
+   "en": "Gnoblars, a new breed of Goblin suited to the high mountain climate, become common south of the Mountains of Mourn.",
+   "de": "Gnoblars, eine neue, an das Hochgebirgsklima angepasste Goblinart, werden südlich der Berge der Trauer häufig."
+  },
+  "ere": "age-des-tribus",
+  "regions": [
+   "orient"
+  ],
+  "lieux": [],
+  "factions": [
+   "ogres",
+   "peaux-vertes"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Ogre Kingdoms, 8e édition",
+     "en": "Warhammer Armies: Ogre Kingdoms, 8th edition",
+     "de": "Warhammer Armies: Ogre Kingdoms, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 22",
+     "en": "p. 22",
+     "de": "S. 22"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Ogre Kingdoms Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Ogre Kingdoms Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Ogre Kingdoms Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Ogre_Kingdoms_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "gnoblars-serviteurs-des-ogres",
+  "annee": -800,
+  "fin": null,
+  "approx": true,
+  "titre": {
+   "fr": "Les Gnoblars deviennent les serviteurs des Ogres",
+   "en": "The Gnoblars become servants of the Ogres",
+   "de": "Die Gnoblars werden Diener der Oger"
+  },
+  "resume": {
+   "fr": "Pour ne pas finir esclaves des Nains du Chaos, les tribus gnoblars rôdent délibérément autour des Ogres. Le calcul se révèle bon, car ceux-ci les jugent plus utiles comme domestiques que comme nourriture.",
+   "en": "To avoid slavery under the Chaos Dwarfs, the Gnoblar tribes deliberately keep close to the Ogres. The gamble pays off, as the Ogres judge them more useful as servants than as food.",
+   "de": "Um der Sklaverei bei den Chaoszwergen zu entgehen, halten sich die Gnoblarstämme bewusst in der Nähe der Oger auf. Die Rechnung geht auf, denn die Oger finden sie als Diener nützlicher denn als Nahrung."
+  },
+  "ere": "age-des-tribus",
+  "regions": [
+   "orient",
+   "terres-arides"
+  ],
+  "lieux": [],
+  "factions": [
+   "ogres",
+   "peaux-vertes",
+   "chaos"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Ogre Kingdoms, 8e édition",
+     "en": "Warhammer Armies: Ogre Kingdoms, 8th edition",
+     "de": "Warhammer Armies: Ogre Kingdoms, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 22",
+     "en": "p. 22",
+     "de": "S. 22"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Ogre Kingdoms Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Ogre Kingdoms Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Ogre Kingdoms Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Ogre_Kingdoms_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "ogres-loues-par-les-tribus-de-l-averland",
+  "annee": -300,
+  "fin": null,
+  "approx": true,
+  "titre": {
+   "fr": "Les tribus du futur Averland louent des Ogres",
+   "en": "The tribes of future Averland hire Ogres",
+   "de": "Die Stämme des späteren Averlands werben Oger an"
+  },
+  "resume": {
+   "fr": "Les tribus humaines du futur Averland apprennent à payer les Ogres errants en bétail et en droit de première prise sur les corps du champ de bataille. Ces combattants font leurs preuves mais coûtent trop cher pour être gardés longtemps.",
+   "en": "The human tribes of future Averland learn to pay wandering Ogres with cattle and first pick of the corpses on the field. These fighters prove their worth but cost too much to keep for long.",
+   "de": "Die Menschenstämme des späteren Averlands lernen, umherziehende Oger mit Vieh und dem ersten Zugriff auf die Gefallenen zu bezahlen. Diese Kämpfer bewähren sich, sind aber zu teuer, um sie lange zu halten."
+  },
+  "ere": "age-des-tribus",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [],
+  "factions": [
+   "ogres",
+   "humains-autres"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Archives of the Empire Vol. II, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Archives of the Empire Vol. II, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Archives of the Empire Vol. II, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 10",
+     "en": "p. 10",
+     "de": "S. 10"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Ogre Kingdoms Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Ogre Kingdoms Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Ogre Kingdoms Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Ogre_Kingdoms_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "nains-commerce-avec-les-hommes",
+  "annee": -250,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Les Nains intensifient le commerce avec les Hommes",
+   "en": "The Dwarfs step up trade with Men",
+   "de": "Die Zwerge verstärken den Handel mit den Menschen"
+  },
+  "resume": {
+   "fr": "Sous l'impulsion de ceux qui se sont établis dans les Montagnes Grises, les Nains développent leurs échanges avec les tribus humaines.",
+   "en": "Led by those settled in the Grey Mountains, the Dwarfs expand their trade with the tribes of Men.",
+   "de": "Angeführt von den Siedlern im Grauen Gebirge bauen die Zwerge ihren Handel mit den Menschenstämmen aus."
+  },
+  "ere": "age-des-tribus",
+  "regions": [
+   "montagnes"
+  ],
+  "lieux": [],
+  "factions": [
+   "nains",
+   "humains-autres"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Dwarfs, 8e édition",
+     "en": "Warhammer Armies: Dwarfs, 8th edition",
+     "de": "Warhammer Armies: Dwarfs, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 21",
+     "en": "p. 21",
+     "de": "S. 21"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Dwarf Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Dwarf Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Dwarf Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Dwarf_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "revolte-des-orques-noirs",
+  "annee": -100,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Les Orques noirs se révoltent à Zharr-Naggrund",
+   "en": "The Black Orcs rebel at Zharr-Naggrund",
+   "de": "Die Schwarzorks erheben sich in Zharr-Naggrund"
+  },
+  "resume": {
+   "fr": "Les Orques noirs se soulèvent contre les Nains du Chaos qui les ont créés et finissent chassés de Zharr-Naggrund. Une grande partie d'entre eux s'installe dans les Montagnes des Lamentations, où débute une longue suite de combats contre les Ogres.",
+   "en": "The Black Orcs rise against the Chaos Dwarfs who created them and are eventually driven out of Zharr-Naggrund. Many of them settle in the Mountains of Mourn, where a long series of fights with the Ogres begins.",
+   "de": "Die Schwarzorks erheben sich gegen die Chaoszwerge, die sie erschaffen haben, und werden schließlich aus Zharr-Naggrund vertrieben. Viele von ihnen lassen sich in den Bergen der Trauer nieder, wo eine lange Reihe von Kämpfen gegen die Oger beginnt."
+  },
+  "ere": "age-des-tribus",
+  "regions": [
+   "terres-arides",
+   "orient"
+  ],
+  "lieux": [
+   "zharr-naggrund"
+  ],
+  "factions": [
+   "peaux-vertes",
+   "chaos",
+   "ogres"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Ogre Kingdoms, 8e édition",
+     "en": "Warhammer Armies: Ogre Kingdoms, 8th edition",
+     "de": "Warhammer Armies: Ogre Kingdoms, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 22",
+     "en": "p. 22",
+     "de": "S. 22"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Ogre Kingdoms Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Ogre Kingdoms Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Ogre Kingdoms Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Ogre_Kingdoms_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "sigmar-solde-des-ogres",
+  "annee": 1,
+  "fin": 30,
+  "approx": false,
+  "titre": {
+   "fr": "Les mercenaires ogres de Sigmar",
+   "en": "Sigmar's Ogre mercenaries",
+   "de": "Sigmars Ogersöldner"
+  },
+  "resume": {
+   "fr": "Durant les trente premières années de l'Empire, Sigmar apprécie la bonne humeur belliqueuse des mercenaires ogres, qui deviennent un pilier de ses armées. Les Ogres le lui rendent en vantant sa table, le plus grand compliment qu'ils adressent à un employeur humain.",
+   "en": "During the first thirty years of the Empire, Sigmar values the cheerful belligerence of Ogre mercenaries, who become a mainstay of his forces. The Ogres repay him by praising his table, their highest compliment to a human employer.",
+   "de": "In den ersten dreißig Jahren des Imperiums schätzt Sigmar die fröhliche Streitlust der Ogersöldner, die zu einer festen Größe seiner Heere werden. Die Oger danken es ihm, indem sie seine Tafel rühmen, ihr höchstes Lob für einen menschlichen Dienstherrn."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [],
+  "factions": [
+   "ogres",
+   "empire"
+  ],
+  "importance": 1,
+  "fiabilite": "divergent",
+  "note": {
+   "fr": "Archives of the Empire Vol. I date l'arrivée des Ogres dans le Vieux Monde de 200 CI environ, soit après ces mercenaires décrits par le Vol. II.",
+   "en": "Archives of the Empire Vol. I dates the arrival of the Ogres in the Old World to about 200 IC, later than the mercenaries described by Vol. II.",
+   "de": "Archives of the Empire Vol. I datiert die Ankunft der Oger in der Alten Welt auf etwa 200 IK, also nach den in Vol. II beschriebenen Söldnern."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Archives of the Empire Vol. II, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Archives of the Empire Vol. II, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Archives of the Empire Vol. II, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 10",
+     "en": "p. 10",
+     "de": "S. 10"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Archives of the Empire Vol. I, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Archives of the Empire Vol. I, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Archives of the Empire Vol. I, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 35",
+     "en": "p. 35",
+     "de": "S. 35"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Ogre Kingdoms Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Ogre Kingdoms Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Ogre Kingdoms Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Ogre_Kingdoms_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "siege-de-ku-gath-a-karaz-a-karak",
+  "annee": 111,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Ku'gath assiège Karaz-a-Karak",
+   "en": "Ku'gath besieges Karaz-a-Karak",
+   "de": "Ku'gath belagert Karaz-a-Karak"
+  },
+  "resume": {
+   "fr": "Une immense horde démoniaque franchit les Montagnes du Bord du Monde, et Ku'gath Plaguefather conduit l'assaut contre la capitale naine. Il y répand toutes les contagions connues et perce trois des sept lignes de défense. Le Haut Roi Stromni Axehand lève finalement le siège et bannit lui-même le Grand Immonde.",
+   "en": "A vast Daemonic horde crosses the Worlds Edge Mountains, and Ku'gath Plaguefather leads the assault on the Dwarf capital. He spreads every known contagion through it and breaks three of its seven lines of defence. High King Stromni Axehand finally lifts the siege and banishes the Great Unclean One himself.",
+   "de": "Eine gewaltige Dämonenhorde zieht über das Weltrandgebirge, und Ku'gath Plaguefather führt den Angriff auf die Zwergenhauptstadt. Er verbreitet dort jede bekannte Seuche und durchbricht drei der sieben Verteidigungslinien. Hochkönig Stromni Axehand beendet schließlich die Belagerung und bannt den Großen Verpester eigenhändig."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "montagnes"
+  ],
+  "lieux": [
+   "karaz-a-karak"
+  ],
+  "factions": [
+   "nains",
+   "chaos"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Daemons of Chaos, 8e édition",
+     "en": "Warhammer Armies: Daemons of Chaos, 8th edition",
+     "de": "Warhammer Armies: Daemons of Chaos, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 17",
+     "en": "p. 17",
+     "de": "S. 17"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page High King",
+     "en": "Warhammer Fantasy Wiki (fandom), High King page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite High King"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/High_King"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Ku'gath Plaguefather",
+     "en": "Warhammer Fantasy Wiki (fandom), Ku'gath Plaguefather page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Ku'gath Plaguefather"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Ku%27gath_Plaguefather"
+   }
+  ]
+ },
+ {
+  "id": "desastre-du-bloodpeak",
+  "annee": 121,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Le désastre du Bloodpeak",
+   "en": "The Bloodpeak disaster",
+   "de": "Das Desaster am Bloodpeak"
+  },
+  "resume": {
+   "fr": "Les Ogres tentent de nettoyer le Bloodpeak, un massif infesté de monstres. L'entreprise tourne au carnage et plusieurs tribus y disparaissent, tandis que des bêtes de très grande taille y prospèrent encore.",
+   "en": "The Ogres try to clear the monster-infested Bloodpeak. The attempt turns into a slaughter that wipes out several tribes, and unusually large beasts still thrive there.",
+   "de": "Die Oger versuchen, den von Ungeheuern verseuchten Bloodpeak zu säubern. Das Unternehmen endet im Gemetzel, mehrere Stämme gehen unter, und besonders große Bestien gedeihen dort bis heute."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "orient"
+  ],
+  "lieux": [],
+  "factions": [
+   "ogres"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Ogre Kingdoms, 8e édition",
+     "en": "Warhammer Armies: Ogre Kingdoms, 8th edition",
+     "de": "Warhammer Armies: Ogre Kingdoms, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 22",
+     "en": "p. 22",
+     "de": "S. 22"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Ogre Kingdoms Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Ogre Kingdoms Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Ogre Kingdoms Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Ogre_Kingdoms_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "bataille-du-daemons-stump",
+  "annee": 223,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Bataille du Daemon's Stump",
+   "en": "Battle of Daemon's Stump",
+   "de": "Schlacht um den Daemon's Stump"
+  },
+  "resume": {
+   "fr": "Nains du Chaos et démons disputent aux Ogres la possession du Daemon's Stump. Vaincus, les Ogres sont taillés en pièces alors qu'ils cherchent à franchir la rivière Ruin, dont les eaux restent rouges une semaine.",
+   "en": "Chaos Dwarfs and Daemons contest the Daemon's Stump with the Ogres. Beaten, the Ogres are cut down as they try to cross the River Ruin, whose waters stay red for a week.",
+   "de": "Chaoszwerge und Dämonen machen den Ogern den Daemon's Stump streitig. Die geschlagenen Oger werden beim Versuch, den Fluss Ruin zu überqueren, niedergemacht, und sein Wasser bleibt eine Woche lang rot."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "orient",
+   "terres-arides"
+  ],
+  "lieux": [],
+  "factions": [
+   "ogres",
+   "chaos"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Ogre Kingdoms, 8e édition",
+     "en": "Warhammer Armies: Ogre Kingdoms, 8th edition",
+     "de": "Warhammer Armies: Ogre Kingdoms, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 23",
+     "en": "p. 23",
+     "de": "S. 23"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Ogre Kingdoms Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Ogre Kingdoms Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Ogre Kingdoms Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Ogre_Kingdoms_Timeline"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Daemon's Stump",
+     "en": "Warhammer Fantasy Wiki (fandom), Daemon's Stump page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Daemon's Stump"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Daemon%27s_Stump"
+   }
+  ]
+ },
+ {
+  "id": "nid-du-dragon-mordrak",
+  "annee": 287,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Découverte du nid du dragon Mordrak",
+   "en": "Discovery of the nest of the dragon Mordrak",
+   "de": "Entdeckung des Horsts des Drachen Mordrak"
+  },
+  "resume": {
+   "fr": "Des mineurs nains tombent sur le repaire du dragon Mordrak, dans les montagnes au sud de Karak Azul.",
+   "en": "Dwarf miners stumble on the lair of the dragon Mordrak in the mountains south of Karak Azul.",
+   "de": "Zwergische Bergleute stoßen in den Bergen südlich von Karak Azul auf den Horst des Drachen Mordrak."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "montagnes"
+  ],
+  "lieux": [
+   "karak-azul"
+  ],
+  "factions": [
+   "nains"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Dwarfs, 6e édition",
+     "en": "Warhammer Armies: Dwarfs, 6th edition",
+     "de": "Warhammer Armies: Dwarfs, 6. Edition"
+    },
+    "detail": {
+     "fr": "p. 18",
+     "en": "p. 18",
+     "de": "S. 18"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Dwarf Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Dwarf Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Dwarf Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Dwarf_Timeline"
+   },
+   {
+    "titre": {
+     "fr": "Bibliothèque Impériale, page Chronologie Naine",
+     "en": "Bibliothèque Impériale, Chronologie Naine page",
+     "de": "Bibliothèque Impériale, Seite Chronologie Naine"
+    },
+    "detail": "",
+    "url": "https://www.bibliotheque-imperiale.com/index.php/Chronologie_Naine"
+   }
+  ]
+ },
+ {
+  "id": "nains-rencontrent-athel-loren",
+  "annee": 380,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "La rencontre désastreuse avec les Elfes d'Athel Loren",
+   "en": "The disastrous encounter with the Elves of Athel Loren",
+   "de": "Die verhängnisvolle Begegnung mit den Elfen von Athel Loren"
+  },
+  "resume": {
+   "fr": "Les Nains découvrent les Elfes sylvains d'Athel Loren et la rencontre tourne mal pour eux.",
+   "en": "The Dwarfs come across the Wood Elves of Athel Loren and the encounter goes badly for them.",
+   "de": "Die Zwerge stoßen auf die Waldelfen von Athel Loren, und die Begegnung endet schlecht für sie."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "athel-loren"
+  ],
+  "lieux": [
+   "athel-loren"
+  ],
+  "factions": [
+   "nains",
+   "elfes-sylvains"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Dwarfs, 8e édition",
+     "en": "Warhammer Armies: Dwarfs, 8th edition",
+     "de": "Warhammer Armies: Dwarfs, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 21",
+     "en": "p. 21",
+     "de": "S. 21"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Dwarf Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Dwarf Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Dwarf Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Dwarf_Timeline"
+   },
+   {
+    "titre": {
+     "fr": "Bibliothèque Impériale, page Chronologie Naine",
+     "en": "Bibliothèque Impériale, Chronologie Naine page",
+     "de": "Bibliothèque Impériale, Seite Chronologie Naine"
+    },
+    "detail": "",
+    "url": "https://www.bibliotheque-imperiale.com/index.php/Chronologie_Naine"
+   }
+  ]
+ },
+ {
+  "id": "bataille-du-lac-noir-455",
+  "annee": 455,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Bataille du Lac Noir",
+   "en": "Battle of Black Water",
+   "de": "Schlacht am Schwarzen Wasser"
+  },
+  "resume": {
+   "fr": "Une colonne naine qui longe le lac gelé est surprise et battue par une armée du Chaos. Le roi tombe lorsque des Déchus surgissent de la glace.",
+   "en": "A Dwarf column following the road along the frozen lake is surprised and beaten by a Chaos army. The king falls when Fallen emerge from the ice.",
+   "de": "Eine Zwergenkolonne auf der Straße am zugefrorenen See wird von einem Chaosheer überrascht und geschlagen. Der König fällt, als Gefallene aus dem Eis hervorbrechen."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "montagnes"
+  ],
+  "lieux": [
+   "lac-noir"
+  ],
+  "factions": [
+   "nains",
+   "chaos"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Entrée propre à la Bibliothèque Impériale, absente de la page Dwarf Timeline. Le nom du roi n'y est pas donné.",
+   "en": "Entry found only on the Bibliothèque Impériale, absent from the Dwarf Timeline page. The king is not named there.",
+   "de": "Eintrag nur in der Bibliothèque Impériale, nicht auf der Seite Dwarf Timeline. Der Name des Königs wird dort nicht genannt."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Bibliothèque Impériale, page Chronologie Naine",
+     "en": "Bibliothèque Impériale, Chronologie Naine page",
+     "de": "Bibliothèque Impériale, Seite Chronologie Naine"
+    },
+    "detail": "",
+    "url": "https://www.bibliotheque-imperiale.com/index.php/Chronologie_Naine"
+   }
+  ]
+ },
+ {
+  "id": "bataille-de-pugno",
+  "annee": 475,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Les mercenaires ogres à la bataille de Pugno",
+   "en": "Ogre mercenaries at the Battle of Pugno",
+   "de": "Ogersöldner in der Schlacht von Pugno"
+  },
+  "resume": {
+   "fr": "Sans armée permanente face à une horde de peaux-vertes venue des Royaumes frontaliers, les Tiléens recrutent à la hâte des mercenaires, dont de nombreuses bandes d'Ogres. Leur victoire à Pugno change la Tilée, qui confie désormais sa défense à ceux qu'elle nomme les Chiens de Guerre.",
+   "en": "With no standing army to face a Greenskin horde coming from the Border Princes, the Tileans hastily hire mercenaries, among them many Ogre bands. Their victory at Pugno transforms Tilea, which from then on entrusts its defence to the men it calls the Dogs of War.",
+   "de": "Ohne stehendes Heer gegen eine Grünhäutehorde aus den Grenzgrafschaften werben die Tileaner eilig Söldner an, darunter viele Ogerbanden. Ihr Sieg bei Pugno verändert Tilea, das seine Verteidigung fortan den sogenannten Dogs of War anvertraut."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "tilee-estalie"
+  ],
+  "lieux": [],
+  "factions": [
+   "ogres",
+   "humains-autres",
+   "peaux-vertes"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Archives of the Empire Vol. II, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Archives of the Empire Vol. II, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Archives of the Empire Vol. II, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 10",
+     "en": "p. 10",
+     "de": "S. 10"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Ogre Kingdoms Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Ogre Kingdoms Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Ogre Kingdoms Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Ogre_Kingdoms_Timeline"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Battle of Pugno",
+     "en": "Warhammer Fantasy Wiki (fandom), Battle of Pugno page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Battle of Pugno"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Battle_of_Pugno"
+   }
+  ]
+ },
+ {
+  "id": "marn-the-mangler-invente-la-fosse",
+  "annee": 542,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Marn the Mangler réinvente les combats de fosse",
+   "en": "Marn the Mangler reinvents pit fighting",
+   "de": "Marn the Mangler erfindet den Grubenkampf neu"
+  },
+  "resume": {
+   "fr": "Au sommet de sa centième victoire, le combattant ogre Marn the Mangler comprend qu'il n'est pas obligé de manger son adversaire et qu'on pourrait jeter toutes sortes de créatures dans la fosse. Moqué d'abord, il finit par changer la pratique chez les Ogres comme chez les Humains.",
+   "en": "At the height of his hundredth win, the Ogre pit fighter Marn the Mangler realises he need not eat his opponent and that all manner of creatures could be thrown into the pit. Mocked at first, he ends up changing the sport among Ogres and Humans alike.",
+   "de": "Auf dem Höhepunkt seines hundertsten Siegs begreift der Ogerkämpfer Marn the Mangler, dass er seinen Gegner nicht essen muss und dass man allerlei Kreaturen in die Grube werfen könnte. Zunächst verspottet, verändert er am Ende den Grubenkampf bei Ogern wie bei Menschen."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "orient"
+  ],
+  "lieux": [],
+  "factions": [
+   "ogres"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Archives of the Empire Vol. II, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Archives of the Empire Vol. II, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Archives of the Empire Vol. II, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 10",
+     "en": "p. 10",
+     "de": "S. 10"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Ogre Kingdoms Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Ogre Kingdoms Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Ogre Kingdoms Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Ogre_Kingdoms_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "incursion-peaux-vertes-chez-les-bretonni-577",
+  "annee": 577,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Les Bretonni refusent le tribut aux chefs orques",
+   "en": "The Bretonni refuse tribute to the Orc warlords",
+   "de": "Die Bretonni verweigern den Orkhäuptlingen den Tribut"
+  },
+  "resume": {
+   "fr": "Une grande invasion de peaux-vertes descend des Montagnes Grises et des Monts Apuccini vers les terres des Bretonni. Les chefs orques exigent un tribut, que les tribus refusent. Quatre siècles de guerre contre les hordes orques s'ouvrent alors.",
+   "en": "A great Greenskin incursion comes down from the Grey and Apuccini Mountains into Bretonni lands. The Orc warlords demand tribute, which the tribes refuse. Four centuries of war against the Orc hordes follow.",
+   "de": "Ein großer Grünhäute-Einfall kommt aus dem Grauen Gebirge und dem Apuccini-Gebirge in das Land der Bretonni. Die Orkhäuptlinge fordern Tribut, den die Stämme verweigern. Darauf folgen vier Jahrhunderte Krieg gegen die Orkhorden."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "bretonnie"
+  ],
+  "lieux": [],
+  "factions": [
+   "peaux-vertes",
+   "bretonnie"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Orcs & Goblins, 8e édition",
+     "en": "Warhammer Armies: Orcs & Goblins, 8th edition",
+     "de": "Warhammer Armies: Orcs & Goblins, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 28",
+     "en": "p. 28",
+     "de": "S. 28"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Greenskin Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Greenskin Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Greenskin Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Greenskin_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "thori-gundrikson-decouvre-le-gromril",
+  "annee": 657,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Thori Gundrikson découvre du gromril",
+   "en": "Thori Gundrikson discovers gromril",
+   "de": "Thori Gundrikson entdeckt Gromril"
+  },
+  "resume": {
+   "fr": "L'expédition de Thori Gundrikson trouve du gromril dans les cavernes à l'ouest du Lac Noir et repousse les peaux-vertes de la région. Les Nains exploitent le filon pendant des années, jusqu'à ce que des intrus skavens découvrent et détruisent les mines.",
+   "en": "Thori Gundrikson's expedition finds gromril in the caves west of Black Water and fends off the local Greenskins. The Dwarfs work the vein for years, until Skaven intruders find and wreck the mines.",
+   "de": "Thori Gundriksons Expedition findet in den Höhlen westlich des Schwarzen Wassers Gromril und schlägt die dortigen Grünhäute zurück. Die Zwerge bauen die Ader jahrelang ab, bis Skaven die Minen entdecken und zerstören."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "montagnes"
+  ],
+  "lieux": [
+   "lac-noir"
+  ],
+  "factions": [
+   "nains",
+   "peaux-vertes",
+   "skavens"
+  ],
+  "importance": 2,
+  "fiabilite": "etabli",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Dwarfs, 8e édition",
+     "en": "Warhammer Armies: Dwarfs, 8th edition",
+     "de": "Warhammer Armies: Dwarfs, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 21",
+     "en": "p. 21",
+     "de": "S. 21"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Dwarfs, 7e édition",
+     "en": "Warhammer Armies: Dwarfs, 7th edition",
+     "de": "Warhammer Armies: Dwarfs, 7. Edition"
+    },
+    "detail": {
+     "fr": "p. 18",
+     "en": "p. 18",
+     "de": "S. 18"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Dwarf Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Dwarf Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Dwarf Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Dwarf_Timeline"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Dorin Heldour",
+     "en": "Warhammer Fantasy Wiki (fandom), Dorin Heldour page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Dorin Heldour"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Dorin_Heldour"
+   }
+  ]
+ },
+ {
+  "id": "dargo-grindolsson-vapeur",
+  "annee": 700,
+  "fin": 799,
+  "approx": true,
+  "titre": {
+   "fr": "Dargo Grindolsson et les jouets à vapeur",
+   "en": "Dargo Grindolsson and the steam toys",
+   "de": "Dargo Grindolsson und das Dampfspielzeug"
+  },
+  "resume": {
+   "fr": "Selon les registres de la Guilde des Ingénieurs, la première machine à vapeur naît dans l'atelier de Dargo Grindolsson, fabricant de jouets de Karaz-a-Karak. Le Haut Roi passe outre l'hostilité de son conseil et lui ordonne de poursuivre, puis fait partager le secret avec toutes les forteresses, ce qui lui vaut les protestations de Dargo, bientôt banni de sa présence.",
+   "en": "According to the records of the Engineers Guild, the first steam engine comes from the workshop of Dargo Grindolsson, a toymaker of Karaz-a-Karak. The High King overrides his hostile council and orders him to continue, then has the secret shared with every hold, drawing protests from Dargo, who is soon barred from his presence.",
+   "de": "Laut den Aufzeichnungen der Ingenieursgilde entsteht die erste Dampfmaschine in der Werkstatt von Dargo Grindolsson, einem Spielzeugmacher aus Karaz-a-Karak. Der Hochkönig setzt sich über seinen ablehnenden Rat hinweg und befiehlt ihm weiterzumachen, lässt das Geheimnis dann aber mit allen Festungen teilen. Dargo protestiert und wird bald vom Hof verbannt."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "montagnes"
+  ],
+  "lieux": [
+   "karaz-a-karak"
+  ],
+  "factions": [
+   "nains"
+  ],
+  "importance": 2,
+  "fiabilite": "divergent",
+  "note": {
+   "fr": "Le Dwarf Player's Guide situe l'invention au VIIIe siècle CI, alors que la page Dwarf Timeline, d'après Stone and Steel, attribue la machine à vapeur aux ingénieurs de Karaz-a-Karak en 1022 CI.",
+   "en": "The Dwarf Player's Guide places the invention in the 8th century IC, while the Dwarf Timeline page, citing Stone and Steel, credits Karaz-a-Karak's engineers with the steam engine in 1022 IC.",
+   "de": "Der Dwarf Player's Guide setzt die Erfindung ins 8. Jahrhundert IK, während die Seite Dwarf Timeline nach Stone and Steel die Dampfmaschine den Ingenieuren von Karaz-a-Karak im Jahr 1022 IK zuschreibt."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Dwarf Player's Guide, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Dwarf Player's Guide, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Dwarf Player's Guide, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 104-106",
+     "en": "pp. 104-106",
+     "de": "S. 104-106"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Stone and Steel, Warhammer Fantasy Roleplay 1re édition",
+     "en": "Stone and Steel, Warhammer Fantasy Roleplay 1st edition",
+     "de": "Stone and Steel, Warhammer Fantasy Roleplay 1. Edition"
+    },
+    "detail": {
+     "fr": "p. 106",
+     "en": "p. 106",
+     "de": "S. 106"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Dargo Grindolsson",
+     "en": "Warhammer Fantasy Wiki (fandom), Dargo Grindolsson page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Dargo Grindolsson"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Dargo_Grindolsson"
+   }
+  ]
+ },
+ {
+  "id": "kragg-premiere-rune-de-pierre",
+  "annee": 892,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Kragg le Sévère forge sa première Rune de Pierre",
+   "en": "Kragg the Grim forges his first Rune of Stone",
+   "de": "Kragg der Grimmige schmiedet seine erste Rune des Steins"
+  },
+  "resume": {
+   "fr": "Jeune apprenti de Morek Furrowbrow à Karaz-a-Karak, Kragg forge sa première Rune de Pierre sous l'œil de son maître. Il deviendra le plus grand maître des runes de son époque, et celui dont la vie durera le plus longtemps.",
+   "en": "As a young pupil of Morek Furrowbrow at Karaz-a-Karak, Kragg forges his first Rune of Stone under his master's gaze. He will become the greatest Runesmith of his age and the longest lived.",
+   "de": "Als junger Schüler von Morek Furrowbrow in Karaz-a-Karak schmiedet Kragg unter den Augen seines Meisters seine erste Rune des Steins. Er wird der größte und langlebigste Runenschmied seines Zeitalters."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "montagnes"
+  ],
+  "lieux": [
+   "karaz-a-karak"
+  ],
+  "factions": [
+   "nains"
+  ],
+  "importance": 1,
+  "fiabilite": "etabli",
+  "note": {
+   "fr": "La Bibliothèque Impériale nomme le maître Mordrek l'Ancien, les sources anglaises Morek Furrowbrow.",
+   "en": "The Bibliothèque Impériale calls the master Mordrek l'Ancien, English sources Morek Furrowbrow.",
+   "de": "Die Bibliothèque Impériale nennt den Meister Mordrek l'Ancien, englische Quellen Morek Furrowbrow."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Dwarfs, 8e édition",
+     "en": "Warhammer Armies: Dwarfs, 8th edition",
+     "de": "Warhammer Armies: Dwarfs, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 21",
+     "en": "p. 21",
+     "de": "S. 21"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Dwarfs, 4e édition",
+     "en": "Warhammer Armies: Dwarfs, 4th edition",
+     "de": "Warhammer Armies: Dwarfs, 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 21",
+     "en": "p. 21",
+     "de": "S. 21"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Dwarf Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Dwarf Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Dwarf Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Dwarf_Timeline"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Kragg the Grim",
+     "en": "Warhammer Fantasy Wiki (fandom), Kragg the Grim page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Kragg the Grim"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Kragg_the_Grim"
+   }
+  ]
+ },
+ {
+  "id": "guerres-des-rats-ogres",
+  "annee": 920,
+  "fin": 940,
+  "approx": true,
+  "titre": {
+   "fr": "Les guerres des Rats dans les Montagnes des Lamentations",
+   "en": "The Rat Wars in the Mountains of Mourn",
+   "de": "Die Rattenkriege in den Bergen der Trauer"
+  },
+  "resume": {
+   "fr": "Des colonies skavens apparaissent sur le versant ouest des Montagnes des Lamentations. Les Ogres les détruisent presque toutes, après avoir découvert que leurs Sabretusks flairent très bien les entrées de tunnels.",
+   "en": "Skaven infestations appear along the western edge of the Mountains of Mourn. The Ogres destroy nearly all of them, having found that their Sabretusks are very good at sniffing out tunnel entrances.",
+   "de": "Am Westrand der Berge der Trauer tauchen Skavennester auf. Die Oger vernichten fast alle, nachdem sie entdeckt haben, dass ihre Sabretusks Tunneleingänge sehr gut aufspüren."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "orient"
+  ],
+  "lieux": [],
+  "factions": [
+   "ogres",
+   "skavens"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Ogre Kingdoms, 8e édition",
+     "en": "Warhammer Armies: Ogre Kingdoms, 8th edition",
+     "de": "Warhammer Armies: Ogre Kingdoms, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 23",
+     "en": "p. 23",
+     "de": "S. 23"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Ogre Kingdoms Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Ogre Kingdoms Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Ogre Kingdoms Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Ogre_Kingdoms_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "baldrin-de-brionne-chez-les-ogres",
+  "annee": 1001,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Sire Baldrin de Brionne dans les Royaumes ogres",
+   "en": "Sir Baldrin of Brionne in the Ogre Kingdoms",
+   "de": "Sir Baldrin von Brionne in den Ogerkönigreichen"
+  },
+  "resume": {
+   "fr": "Parti en quête de monstres, Sire Baldrin de Brionne, l'un des premiers chevaliers de la Quête, en trouve beaucoup dans les Royaumes ogres. Sa fin atroce inspire aux ménestrels impériaux la parodie Quest's End, dont les Bretonniens refusent de parler.",
+   "en": "Seeking monsters, Sir Baldrin of Brionne, one of the first Questing Knights, finds plenty of them in the Ogre Kingdoms. His gruesome end inspires the Imperial minstrels' parody Quest's End, which Bretonnians refuse to discuss.",
+   "de": "Auf der Suche nach Ungeheuern findet Sir Baldrin von Brionne, einer der ersten Questritter, in den Ogerkönigreichen mehr als genug davon. Sein grausiges Ende inspiriert imperiale Spielleute zur Parodie Quest's End, über die Bretonen nicht sprechen."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "orient"
+  ],
+  "lieux": [],
+  "factions": [
+   "ogres",
+   "bretonnie"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Ogre Kingdoms, 8e édition",
+     "en": "Warhammer Armies: Ogre Kingdoms, 8th edition",
+     "de": "Warhammer Armies: Ogre Kingdoms, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 23",
+     "en": "p. 23",
+     "de": "S. 23"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Ogre Kingdoms Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Ogre Kingdoms Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Ogre Kingdoms Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Ogre_Kingdoms_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "querelle-du-soufflet-de-barak-varr",
+  "annee": 1098,
+  "fin": 2499,
+  "approx": false,
+  "titre": {
+   "fr": "La querelle du soufflet de forge de Barak Varr",
+   "en": "The forge bellows feud of Barak Varr",
+   "de": "Die Blasebalg-Fehde von Barak Varr"
+  },
+  "resume": {
+   "fr": "À Barak Varr, le thane Grimbul refuse de rendre au thane Drakki un soufflet de forge emprunté par son grand-père, et les deux clans entrent en conflit. Il faut attendre 2499 CI et la restitution de l'objet pour que la querelle prenne fin.",
+   "en": "At Barak Varr, Thane Grimbul refuses to return to Thane Drakki a forge bellows borrowed by his grandfather, and the two clans fall out. The feud ends only in 2499 IC, when the bellows are handed back.",
+   "de": "In Barak Varr weigert sich Than Grimbul, Than Drakki einen von seinem Großvater geliehenen Blasebalg zurückzugeben, und die beiden Clans entzweien sich. Erst 2499 IK endet die Fehde mit der Rückgabe des Blasebalgs."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "montagnes"
+  ],
+  "lieux": [
+   "barak-varr"
+  ],
+  "factions": [
+   "nains"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Dwarfs, 6e édition",
+     "en": "Warhammer Armies: Dwarfs, 6th edition",
+     "de": "Warhammer Armies: Dwarfs, 6. Edition"
+    },
+    "detail": {
+     "fr": "p. 68",
+     "en": "p. 68",
+     "de": "S. 68"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Smakki Brightaxe",
+     "en": "Warhammer Fantasy Wiki (fandom), Smakki Brightaxe page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Smakki Brightaxe"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Smakki_Brightaxe"
+   }
+  ]
+ },
+ {
+  "id": "nains-murent-leurs-forteresses-1111",
+  "annee": 1111,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Les Nains murent leurs forteresses face à la Peste noire",
+   "en": "The Dwarfs seal their holds against the Black Plague",
+   "de": "Die Zwerge versiegeln ihre Festungen gegen den Schwarzen Tod"
+  },
+  "resume": {
+   "fr": "Pendant que la Peste noire ravage le Vieux Monde, les Nains ferment leurs forteresses. Ils repoussent les assauts skavens, mais au prix de nombreuses pertes.",
+   "en": "While the Black Plague ravages the Old World, the Dwarfs close up their holds. They beat off Skaven assaults, though at the cost of heavy casualties.",
+   "de": "Während der Schwarze Tod die Alte Welt verwüstet, verschließen die Zwerge ihre Festungen. Sie schlagen die Angriffe der Skaven zurück, erleiden dabei aber schwere Verluste."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "montagnes"
+  ],
+  "lieux": [],
+  "factions": [
+   "nains",
+   "skavens"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Dwarfs, 8e édition",
+     "en": "Warhammer Armies: Dwarfs, 8th edition",
+     "de": "Warhammer Armies: Dwarfs, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 21",
+     "en": "p. 21",
+     "de": "S. 21"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Dwarf Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Dwarf Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Dwarf Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Dwarf_Timeline"
+   },
+   {
+    "titre": {
+     "fr": "Bibliothèque Impériale, page Chronologie Naine",
+     "en": "Bibliothèque Impériale, Chronologie Naine page",
+     "de": "Bibliothèque Impériale, Seite Chronologie Naine"
+    },
+    "detail": "",
+    "url": "https://www.bibliotheque-imperiale.com/index.php/Chronologie_Naine"
+   }
+  ]
+ },
+ {
+  "id": "mandred-engage-des-ogres",
+  "annee": 1123,
+  "fin": 1124,
+  "approx": false,
+  "titre": {
+   "fr": "Mandred engage des Ogres contre les Skavens",
+   "en": "Mandred hires Ogres against the Skaven",
+   "de": "Mandred wirbt Oger gegen die Skaven an"
+  },
+  "resume": {
+   "fr": "Épuisé par des années de lutte, le comte électeur Mandred du Middenland recrute des bandes d'Ogres, qui massacrent les Skavens et se nourrissent sur le champ de bataille. Après le dernier combat, le capitaine Nogrud Neverfull, lassé du rat, réclame comme solde du bétail et des chevaux.",
+   "en": "Worn down by years of struggle, Elector Count Mandred of Middenland recruits Ogre bands, who slaughter the Skaven and feed on the battlefield. After the last fight, Captain Nogrud Neverfull, tired of rat, asks for cattle and horses as his pay.",
+   "de": "Von jahrelangem Kampf ausgezehrt, wirbt Kurfürst Mandred von Middenland Ogerbanden an, die die Skaven niedermetzeln und sich auf dem Schlachtfeld satt essen. Nach dem letzten Gefecht verlangt Hauptmann Nogrud Neverfull, der Ratten überdrüssig, Vieh und Pferde als Sold."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [],
+  "factions": [
+   "ogres",
+   "empire",
+   "skavens"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Archives of the Empire Vol. II, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Archives of the Empire Vol. II, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Archives of the Empire Vol. II, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 10",
+     "en": "p. 10",
+     "de": "S. 10"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Ogre Kingdoms Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Ogre Kingdoms Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Ogre Kingdoms Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Ogre_Kingdoms_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "bataille-de-la-banniere-brulee",
+  "annee": 1214,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Bataille de la Bannière brûlée à Tol Ista",
+   "en": "Battle of the Burned Banner at Tol Ista",
+   "de": "Schlacht um das Verbrannte Banner bei Tol Ista"
+  },
+  "resume": {
+   "fr": "Bruza da Big, à la tête de tribus chassées de Bretonnie, assiège le comptoir elfe de Tol Ista en Estalie et s'empare de sa bannière. Il la brûle et la plante sur une hauteur pour provoquer le prince Ethwar, dont la charge de secours se brise sur ses positions. Les Elfes évacuent le port de nuit, et Bruza le met à sac le lendemain.",
+   "en": "Leading tribes driven out of Bretonnia, Bruza da Big besieges the Elven port of Tol Ista in Estalia and seizes its banner. He burns it and plants it on high ground to goad Prince Ethwar, whose relief charge breaks on his lines. The Elves evacuate the port by night and Bruza sacks it the next day.",
+   "de": "An der Spitze von aus Bretonia vertriebenen Stämmen belagert Bruza da Big den Elfenhafen Tol Ista in Estalia und erbeutet dessen Banner. Er verbrennt es und pflanzt es auf einer Anhöhe auf, um Prinz Ethwar zu reizen, dessen Entsatzangriff an seinen Stellungen zerbricht. Die Elfen räumen den Hafen bei Nacht, und Bruza plündert ihn am nächsten Tag."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "tilee-estalie"
+  ],
+  "lieux": [],
+  "factions": [
+   "peaux-vertes",
+   "hauts-elfes"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "La source donne aussi la datation elfe (IX, 93).",
+   "en": "The source also gives the Elven date (IX, 93).",
+   "de": "Die Quelle nennt auch die elfische Datierung (IX, 93)."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Fantasy Battle, livre de règles, 6e édition",
+     "en": "Warhammer Fantasy Battle, core rulebook, 6th edition",
+     "de": "Warhammer Fantasy Battle, Regelbuch, 6. Edition"
+    },
+    "detail": {
+     "fr": "p. 205",
+     "en": "p. 205",
+     "de": "S. 205"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Battle of the Burned Banner",
+     "en": "Warhammer Fantasy Wiki (fandom), Battle of the Burned Banner page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Battle of the Burned Banner"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Battle_of_the_Burned_Banner"
+   },
+   {
+    "titre": {
+     "fr": "Warhammer Fantasy Battle: Rulebook, 6e édition",
+     "en": "Warhammer Fantasy Battle: Rulebook, 6th edition",
+     "de": "Warhammer Fantasy Battle: Rulebook, 6. Edition"
+    },
+    "detail": {
+     "fr": "p. 205",
+     "en": "p. 205",
+     "de": "S. 205"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page High Elf Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), High Elf Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite High Elf Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/High_Elf_Timeline"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Estalian Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Estalian Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Estalian Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Estalian_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "trois-forteresses-perdues-1316",
+  "annee": 1316,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Karak Mar, Karak Nol et Dok Duraz tombent aux mains des démons",
+   "en": "Karak Mar, Karak Nol and Dok Duraz fall to Daemons",
+   "de": "Karak Mar, Karak Nol und Dok Duraz fallen an die Dämonen"
+  },
+  "resume": {
+   "fr": "Trois forteresses naines sont perdues face à des démons déchaînés. Zhufbar n'échappe au même sort que grâce à la ténacité de sa garnison, à ses machines de guerre en batterie et à l'arrivée d'une armée de secours de Karak Kadrin.",
+   "en": "Three Dwarf holds are lost to rampaging Daemons. Zhufbar escapes the same fate only through the tenacity of its garrison, its emplaced war engines and the arrival of a relief army from Karak Kadrin.",
+   "de": "Drei Zwergenfestungen gehen an wütende Dämonen verloren. Zhufbar entgeht diesem Schicksal nur dank der Zähigkeit seiner Besatzung, seiner fest aufgestellten Kriegsmaschinen und eines Entsatzheers aus Karak Kadrin."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "montagnes"
+  ],
+  "lieux": [
+   "zhufbar",
+   "karak-kadrin"
+  ],
+  "factions": [
+   "nains",
+   "chaos"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Le wiki s'appuie ici sur un entretien publié sur le blog Total War, et non sur un livre de règles.",
+   "en": "The wiki relies here on an interview published on the Total War blog, not on a rulebook.",
+   "de": "Das Wiki stützt sich hier auf ein Interview im Total-War-Blog, nicht auf ein Regelbuch."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Ku'gath Plaguefather",
+     "en": "Warhammer Fantasy Wiki (fandom), Ku'gath Plaguefather page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Ku'gath Plaguefather"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Ku%27gath_Plaguefather"
+   }
+  ]
+ },
+ {
+  "id": "bataille-de-kurgels-gulch",
+  "annee": 1401,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Kurgel's Gulch et le premier Scraplauncher",
+   "en": "Kurgel's Gulch and the first Scraplauncher",
+   "de": "Kurgel's Gulch und der erste Scraplauncher"
+  },
+  "resume": {
+   "fr": "Après le massacre de tribu sur tribu de Gnoblars par les machines de guerre naines, le ferrailleur Ma the Grub décide de construire la sienne. Le premier Scraplauncher sort de ses mains la même année, et des versions ultérieures seront tractées par des rhinox.",
+   "en": "After Dwarf war machines slaughter tribe after tribe of Gnoblars, the scrap-lord Ma the Grub sets out to build one of his own. The first Scraplauncher appears the same year, and later versions are hauled into battle by rhinoxen.",
+   "de": "Nachdem zwergische Kriegsmaschinen Stamm um Stamm der Gnoblars niedergemacht haben, beschließt der Schrottherr Ma the Grub, selbst eine zu bauen. Noch im selben Jahr entsteht der erste Scraplauncher, und spätere Ausführungen werden von Rhinoxen in die Schlacht gezogen."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "orient"
+  ],
+  "lieux": [],
+  "factions": [
+   "ogres",
+   "nains"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Ogre Kingdoms, 8e édition",
+     "en": "Warhammer Armies: Ogre Kingdoms, 8th edition",
+     "de": "Warhammer Armies: Ogre Kingdoms, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 23",
+     "en": "p. 23",
+     "de": "S. 23"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Ogre Kingdoms Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Ogre Kingdoms Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Ogre Kingdoms Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Ogre_Kingdoms_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "retour-de-skaladrak-1420",
+  "annee": 1420,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Le retour de Skaladrak l'Incarnadin",
+   "en": "The return of Skaladrak Incarnadine",
+   "de": "Die Rückkehr von Skaladrak dem Inkarnadinroten"
+  },
+  "resume": {
+   "fr": "Des caravanes et des patrouilles disparaissent autour de Karak Kadrin, et le Livre des Rancunes désigne vite le seul dragon capable d'une telle chose. Skaladrak l'Incarnadin ravage de nouveau la région, et Nains et Tueurs de Dragons s'unissent en une grande armée pour le traquer jusqu'à son repaire.",
+   "en": "Caravans and patrols vanish around Karak Kadrin, and the Book of Grudges soon points to the only dragon capable of it. Skaladrak Incarnadine is ravaging the region again, and Dwarf warriors and Dragon Slayers band together in a great army to hunt him to his lair.",
+   "de": "Rund um Karak Kadrin verschwinden Karawanen und Patrouillen, und das Buch des Grolls weist bald auf den einzigen Drachen, der dazu fähig ist. Skaladrak verwüstet die Gegend erneut, und Zwergenkrieger und Drachenslayer vereinen sich zu einem großen Heer, um ihn bis in seinen Hort zu jagen."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "montagnes"
+  ],
+  "lieux": [
+   "karak-kadrin"
+  ],
+  "factions": [
+   "nains"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Les livres cités disent seulement que Skaladrak ravage les terres autour de Karak Kadrin. Le récit des caravanes et de l'armée vient de On the Trail of a Dragon, d'après les notes du wiki.",
+   "en": "The cited books only say that Skaladrak ravages the lands around Karak Kadrin. The account of the caravans and the army comes from On the Trail of a Dragon, according to the wiki's notes.",
+   "de": "Die genannten Bücher sagen nur, dass Skaladrak das Land um Karak Kadrin verwüstet. Der Bericht über Karawanen und Heer stammt laut den Anmerkungen des Wikis aus On the Trail of a Dragon."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Dwarfs, 8e édition",
+     "en": "Warhammer Armies: Dwarfs, 8th edition",
+     "de": "Warhammer Armies: Dwarfs, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 21",
+     "en": "p. 21",
+     "de": "S. 21"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Dwarfs, 4e édition",
+     "en": "Warhammer Armies: Dwarfs, 4th edition",
+     "de": "Warhammer Armies: Dwarfs, 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 20",
+     "en": "p. 20",
+     "de": "S. 20"
+    },
+    "url": ""
+   },
+   {
+    "titre": "Games Workshop, On the Trail of a Dragon",
+    "detail": "",
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Skaladrak Incarnadine",
+     "en": "Warhammer Fantasy Wiki (fandom), Skaladrak Incarnadine page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Skaladrak Incarnadine"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Skaladrak_Incarnadine"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Dwarf Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Dwarf Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Dwarf Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Dwarf_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "chefs-orques-en-lustrie-1492",
+  "annee": 1492,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Des chefs orques voient en la Lustrie un terrain d'épreuve",
+   "en": "Orc warlords see Lustria as a proving ground",
+   "de": "Orkhäuptlinge sehen Lustria als Bewährungsprobe"
+  },
+  "resume": {
+   "fr": "Les guerres intestines de l'Empire ont amolli les peaux-vertes, et plusieurs chefs se lèvent pour les ramener à la tradition orque. Ils voient dans la Lustrie un moyen de prouver leur force, entre captifs à faire et proies écailleuses à chasser.",
+   "en": "The Empire's civil wars have made the Greenskins fat and idle, and several warlords rise to bring them back to Orcish ways. They see Lustria as a chance to prove their strength, with prisoners to take and scaly prey to hunt.",
+   "de": "Die inneren Kriege des Imperiums haben die Grünhäute träge gemacht, und mehrere Häuptlinge erheben sich, um sie zur Orktradition zurückzuführen. Sie sehen in Lustria eine Gelegenheit, ihre Stärke zu beweisen, mit Gefangenen und schuppiger Beute."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "lustrie"
+  ],
+  "lieux": [
+   "lustrie"
+  ],
+  "factions": [
+   "peaux-vertes"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "White Dwarf 305",
+     "en": "White Dwarf 305",
+     "de": "White Dwarf 305"
+    },
+    "detail": {
+     "fr": "p. 22 et 32",
+     "en": "pp. 22 and 32",
+     "de": "S. 22 und 32"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Greenskin Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Greenskin Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Greenskin Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Greenskin_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "jeunes-nains-en-lustrie-1492",
+  "annee": 1492,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "De jeunes Nains partent pour la Lustrie",
+   "en": "Young Dwarfs set out for Lustria",
+   "de": "Junge Zwerge brechen nach Lustria auf"
+  },
+  "resume": {
+   "fr": "Sans menace immédiate sur leurs forteresses, de nombreux jeunes Nains partent explorer le monde. L'or de la Lustrie les attire, malgré les mises en garde de leurs aînés.",
+   "en": "With no immediate threat to their holds, many young Dwarfs set out to explore the world. The gold of Lustria draws them, despite their elders' warnings.",
+   "de": "Da ihren Festungen keine unmittelbare Gefahr droht, ziehen viele junge Zwerge in die Welt hinaus. Das Gold Lustrias lockt sie, trotz der Warnungen ihrer Ältesten."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "montagnes",
+   "lustrie"
+  ],
+  "lieux": [
+   "lustrie"
+  ],
+  "factions": [
+   "nains"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "White Dwarf 305",
+     "en": "White Dwarf 305",
+     "de": "White Dwarf 305"
+    },
+    "detail": {
+     "fr": "p. 22 et 32-33",
+     "en": "pp. 22 and 32-33",
+     "de": "S. 22 und 32-33"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Dwarf Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Dwarf Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Dwarf Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Dwarf_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "ogres-en-lustrie-1492",
+  "annee": 1492,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Les Maneaters embauchés pour la Lustrie",
+   "en": "Maneaters hired for Lustria",
+   "de": "Maneaters für Lustria angeworben"
+  },
+  "resume": {
+   "fr": "La ruée vers le Nouveau Monde qui suit le retour de Marco Colombo fait monter la demande de mercenaires ogres. De petites bandes gagnent la Lustrie, et de riches explorateurs humains vont jusqu'à embaucher des tribus entières.",
+   "en": "The rush to the New World after Marco Colombo's return drives up demand for Ogre mercenaries. Small warbands reach Lustria, and wealthy human explorers go as far as hiring whole tribes.",
+   "de": "Der Ansturm auf die Neue Welt nach Marco Colombos Rückkehr lässt die Nachfrage nach Ogersöldnern steigen. Kleine Kriegsbanden erreichen Lustria, und reiche menschliche Entdecker werben sogar ganze Stämme an."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "lustrie"
+  ],
+  "lieux": [
+   "lustrie"
+  ],
+  "factions": [
+   "ogres"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "White Dwarf 305",
+     "en": "White Dwarf 305",
+     "de": "White Dwarf 305"
+    },
+    "detail": {
+     "fr": "p. 22 et 33",
+     "en": "pp. 22 and 33",
+     "de": "S. 22 und 33"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Ogre Kingdoms Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Ogre Kingdoms Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Ogre Kingdoms Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Ogre_Kingdoms_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "chasseurs-ogres-foret-des-ombres",
+  "annee": 1525,
+  "fin": 1528,
+  "approx": false,
+  "titre": {
+   "fr": "Des chasseurs ogres nettoient la forêt des Ombres",
+   "en": "Ogre Hunters clear the Forest of Shadows",
+   "de": "Ogerjäger säubern den Schattenwald"
+  },
+  "resume": {
+   "fr": "Des années après la défaite de Gorthor, ses bêtes hantent encore la forêt des Ombres et peu de chasseurs osent répondre à l'appel, malgré des primes croissantes. Une importante bande de chasseurs ogres s'y aventure et revient plusieurs années de suite avec des centaines de crânes rongés à échanger contre la récompense.",
+   "en": "Years after Gorthor's defeat his beasts still haunt the Forest of Shadows, and few dare answer the call despite rising bounties. A large band of Ogre Hunters goes in and returns for several years with hundreds of gnawed skulls to exchange for the reward.",
+   "de": "Jahre nach Gorthors Niederlage streifen seine Bestien noch immer durch den Schattenwald, und trotz steigender Prämien wagen sich nur wenige hinein. Eine große Bande von Ogerjägern folgt dem Ruf und kehrt mehrere Jahre lang mit Hunderten abgenagter Schädel zurück, um die Belohnung einzustreichen."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [],
+  "factions": [
+   "ogres",
+   "empire",
+   "chaos"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Archives of the Empire Vol. II, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Archives of the Empire Vol. II, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Archives of the Empire Vol. II, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 10",
+     "en": "p. 10",
+     "de": "S. 10"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Ogre Kingdoms Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Ogre Kingdoms Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Ogre Kingdoms Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Ogre_Kingdoms_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "igdrol-ironstump-a-altdorf",
+  "annee": 1712,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Igdrol Ironstump au siège d'Altdorf",
+   "en": "Igdrol Ironstump at the siege of Altdorf",
+   "de": "Igdrol Ironstump bei der Belagerung von Altdorf"
+  },
+  "resume": {
+   "fr": "Pendant que la Waaagh! de Gorbad s'épuise devant Altdorf, le combattant de fosse ogre Igdrol Ironstump abat seul deux des six vouivres lâchées par le chef orque, puis les mange. Les archives impériales voient dans ce fait d'armes un élément décisif de la survie de la capitale.",
+   "en": "As Gorbad's Waaagh! exhausts itself before Altdorf, the Ogre pit fighter Igdrol Ironstump single-handedly brings down two of the six Wyverns unleashed by the Orc warboss, then eats them. Imperial records treat this feat as decisive for the capital's survival.",
+   "de": "Während sich Gorbads Waaagh! vor Altdorf erschöpft, bringt der Ogerkämpfer Igdrol Ironstump allein zwei der sechs Lindwürmer des Orkbosses zu Fall und verspeist sie. Die imperialen Archive sehen in dieser Tat einen entscheidenden Beitrag zur Rettung der Hauptstadt."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "altdorf"
+  ],
+  "factions": [
+   "ogres",
+   "empire",
+   "peaux-vertes"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Archives of the Empire Vol. II, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Archives of the Empire Vol. II, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Archives of the Empire Vol. II, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 10",
+     "en": "p. 10",
+     "de": "S. 10"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Ogre Kingdoms Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Ogre Kingdoms Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Ogre Kingdoms Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Ogre_Kingdoms_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "ogres-garde-de-la-tour-naggaroth",
+  "annee": 1877,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Des mercenaires ogres dans la garde de la Tour",
+   "en": "Ogre mercenaries in the Tower Guard",
+   "de": "Ogersöldner in der Turmwache"
+  },
+  "resume": {
+   "fr": "Des mercenaires ogres parvenus en Naggaroth sont capturés par les Elfes noirs. Leurs geôliers sont si impressionnés qu'ils renoncent à la torture habituelle et les enrôlent dans la garde de la Tour.",
+   "en": "Ogre mercenaries who reach Naggaroth are captured by the Dark Elves. Their captors are so impressed that they forgo the usual torture and enlist them in the Tower Guard.",
+   "de": "Ogersöldner, die Naggaroth erreichen, werden von den Dunkelelfen gefangen genommen. Ihre Häscher sind so beeindruckt, dass sie auf die übliche Folter verzichten und sie in die Turmwache aufnehmen."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "naggaroth"
+  ],
+  "lieux": [
+   "naggaroth"
+  ],
+  "factions": [
+   "ogres",
+   "elfes-noirs"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Ogre Kingdoms, 8e édition",
+     "en": "Warhammer Armies: Ogre Kingdoms, 8th edition",
+     "de": "Warhammer Armies: Ogre Kingdoms, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 23",
+     "en": "p. 23",
+     "de": "S. 23"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Ogre Kingdoms Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Ogre Kingdoms Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Ogre Kingdoms Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Ogre_Kingdoms_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "brognal-bullsmiter-grand-colisee-de-remas",
+  "annee": 2006,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Brognal Bullsmiter et le Grand Colisée de Remas",
+   "en": "Brognal Bullsmiter and the Grand Coliseum of Remas",
+   "de": "Brognal Bullsmiter und das Große Kolosseum von Remas"
+  },
+  "resume": {
+   "fr": "Leonardo de Miragliano dirige la reconstruction du Grand Colisée de Remas. Il y intègre des dizaines de mécanismes nouveaux, inspirés de ses entretiens avec le légendaire gladiateur ogre Brognal Bullsmiter.",
+   "en": "Leonardo da Miragliano leads the rebuilding of the Grand Coliseum of Remas. He fits it with dozens of new devices inspired by his talks with the legendary Ogre gladiator Brognal Bullsmiter.",
+   "de": "Leonardo von Miragliano leitet den Wiederaufbau des Großen Kolosseums von Remas. Er baut Dutzende neuartiger Mechanismen ein, angeregt durch Gespräche mit dem legendären Ogergladiator Brognal Bullsmiter."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "tilee-estalie"
+  ],
+  "lieux": [
+   "remas"
+  ],
+  "factions": [
+   "ogres",
+   "humains-autres"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Archives of the Empire Vol. II, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Archives of the Empire Vol. II, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Archives of the Empire Vol. II, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 10",
+     "en": "p. 10",
+     "de": "S. 10"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Ogre Kingdoms Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Ogre Kingdoms Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Ogre Kingdoms Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Ogre_Kingdoms_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "bois-de-la-famine-siege-de-templehof",
+  "annee": 2010,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Bataille des Bois de la Famine et siège nocturne de Templehof",
+   "en": "Battle of Hunger Wood and the Night Siege of Templehof",
+   "de": "Schlacht am Hungerwald und Nachtbelagerung von Templehof"
+  },
+  "resume": {
+   "fr": "Les Nains combattent aux côtés de l'Empire pendant les guerres des Comtes vampires. Ils participent au siège nocturne de Templehof, où la comtesse Emmanuelle von Carstein est vaincue après des mois de lutte dans l'obscurité. Ils posent ensuite sur place des marques runiques contre la magie noire.",
+   "en": "The Dwarfs fight alongside the Empire in the Wars of the Vampire Counts. They take part in the Night Siege of Templehof, where Countess Emmanuelle von Carstein is defeated after months of struggle in the dark. They then set runic markers on the site against dark magic.",
+   "de": "Die Zwerge kämpfen in den Vampirkriegen an der Seite des Imperiums. Sie nehmen an der Nachtbelagerung von Templehof teil, wo Gräfin Emmanuelle von Carstein nach monatelangem Kampf im Dunkeln besiegt wird. Danach setzen sie dort Runenmale gegen die dunkle Magie."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "templehof"
+  ],
+  "factions": [
+   "nains",
+   "empire",
+   "vampires"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Dwarfs, 6e édition",
+     "en": "Warhammer Armies: Dwarfs, 6th edition",
+     "de": "Warhammer Armies: Dwarfs, 6. Edition"
+    },
+    "detail": {
+     "fr": "p. 18",
+     "en": "p. 18",
+     "de": "S. 18"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Vampire Counts, 8e édition",
+     "en": "Warhammer Armies: Vampire Counts, 8th edition",
+     "de": "Warhammer Armies: Vampire Counts, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 21",
+     "en": "p. 21",
+     "de": "S. 21"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Dwarf Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Dwarf Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Dwarf Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Dwarf_Timeline"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Hunger Wood",
+     "en": "Warhammer Fantasy Wiki (fandom), Hunger Wood page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Hunger Wood"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Hunger_Wood"
+   },
+   {
+    "titre": {
+     "fr": "Bibliothèque Impériale, page Chronologie Naine",
+     "en": "Bibliothèque Impériale, Chronologie Naine page",
+     "de": "Bibliothèque Impériale, Seite Chronologie Naine"
+    },
+    "detail": "",
+    "url": "https://www.bibliotheque-imperiale.com/index.php/Chronologie_Naine"
+   }
+  ]
+ },
+ {
+  "id": "grande-purge-des-gnoblars-ironblaster",
+  "annee": 2211,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "La Grande Purge des Gnoblars et les premiers Ironblasters",
+   "en": "The Great Gnoblar Purge and the first Ironblasters",
+   "de": "Die Große Gnoblar-Säuberung und die ersten Ironblaster"
+  },
+  "resume": {
+   "fr": "La tribu Ironskin, célèbre pour ses Leadbelchers, organise un concours de destruction lors de la Grande Purge des Gnoblars. Les Ogres remettent alors en service des canons bâtis par les Skytitans plus de quatre mille ans plus tôt, qui deviennent les canons Ironblaster.",
+   "en": "The Ironskin Tribe, famous for its Leadbelchers, holds a contest of destruction during the Great Gnoblar Purge. The Ogres then salvage cannons built by the Skytitans over four thousand years earlier, which become the Ironblaster Cannons.",
+   "de": "Der für seine Leadbelcher berühmte Stamm Ironskin veranstaltet während der Großen Gnoblar-Säuberung einen Zerstörungswettbewerb. Die Oger bergen dabei Kanonen, die die Skytitanen über viertausend Jahre zuvor gebaut hatten, und machen daraus die Ironblaster-Kanonen."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "orient"
+  ],
+  "lieux": [],
+  "factions": [
+   "ogres",
+   "peaux-vertes"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Ogre Kingdoms, 8e édition",
+     "en": "Warhammer Armies: Ogre Kingdoms, 8th edition",
+     "de": "Warhammer Armies: Ogre Kingdoms, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 50-51",
+     "en": "pp. 50-51",
+     "de": "S. 50-51"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Ironblaster",
+     "en": "Warhammer Fantasy Wiki (fandom), Ironblaster page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Ironblaster"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Ironblaster"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Gunpowder",
+     "en": "Warhammer Fantasy Wiki (fandom), Gunpowder page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Gunpowder"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Gunpowder"
+   }
+  ]
+ },
+ {
+  "id": "ogres-grande-guerre-du-nord",
+  "annee": 2302,
+  "fin": 2304,
+  "approx": false,
+  "titre": {
+   "fr": "Les Ogres dans la Grande Guerre du Nord",
+   "en": "The Ogres in the Great War in the North",
+   "de": "Die Oger im Großen Krieg im Norden"
+  },
+  "resume": {
+   "fr": "Pour la première fois, des tribus ogres entières se font mercenaires et franchissent les Montagnes du Bord du Monde pour servir les deux camps de la Grande Guerre contre le Chaos. Certaines ne repartent jamais et s'établissent dans l'Empire ou plus loin, gonflant fortement la population d'Ogres impériaux.",
+   "en": "For the first time, whole Ogre tribes turn mercenary and cross the Worlds Edge Mountains to serve both sides of the Great War Against Chaos. Some never go back and settle in the Empire or beyond, greatly swelling the population of Imperial Ogres.",
+   "de": "Zum ersten Mal werden ganze Ogerstämme zu Söldnern und ziehen über das Weltrandgebirge, um beiden Seiten im Großen Krieg gegen das Chaos zu dienen. Manche kehren nie zurück und siedeln im Imperium oder darüber hinaus, wodurch die Zahl der imperialen Oger stark wächst."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "kislev",
+   "empire",
+   "orient"
+  ],
+  "lieux": [],
+  "factions": [
+   "ogres",
+   "chaos",
+   "empire",
+   "kislev"
+  ],
+  "importance": 2,
+  "fiabilite": "etabli",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Ogre Kingdoms, 8e édition",
+     "en": "Warhammer Armies: Ogre Kingdoms, 8th edition",
+     "de": "Warhammer Armies: Ogre Kingdoms, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 23",
+     "en": "p. 23",
+     "de": "S. 23"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Archives of the Empire Vol. II, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Archives of the Empire Vol. II, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Archives of the Empire Vol. II, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 10",
+     "en": "p. 10",
+     "de": "S. 10"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Ogre Kingdoms Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Ogre Kingdoms Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Ogre Kingdoms Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Ogre_Kingdoms_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "peaux-vertes-du-nord-grande-guerre",
+  "annee": 2302,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Les peaux-vertes du nord dans la Grande Guerre contre le Chaos",
+   "en": "The northern Greenskins in the Great War Against Chaos",
+   "de": "Die nördlichen Grünhäute im Großen Krieg gegen das Chaos"
+  },
+  "resume": {
+   "fr": "La marche du Chaos chasse de leurs terres de nombreuses tribus du nord. Certaines se joignent aux envahisseurs, mais la plupart préfèrent attaquer leurs armées au passage.",
+   "en": "The march of Chaos drives many northern tribes from their lands. Some join the invaders, but most prefer to fall on their armies as they pass.",
+   "de": "Der Vormarsch des Chaos vertreibt viele nördliche Stämme aus ihren Gebieten. Einige schließen sich den Eindringlingen an, die meisten fallen jedoch lieber über deren Heere her, wenn sie vorbeiziehen."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "kislev",
+   "montagnes"
+  ],
+  "lieux": [],
+  "factions": [
+   "peaux-vertes",
+   "chaos"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Orcs & Goblins, 8e édition",
+     "en": "Warhammer Armies: Orcs & Goblins, 8th edition",
+     "de": "Warhammer Armies: Orcs & Goblins, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 29",
+     "en": "p. 29",
+     "de": "S. 29"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Greenskin Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Greenskin Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Greenskin Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Greenskin_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "anneaux-de-parente-thorgard-cromson",
+  "annee": 2304,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Thorgard Cromson et Thorgrim échangent des anneaux de parenté",
+   "en": "Thorgard Cromson and Thorgrim exchange rings of kinship",
+   "de": "Thorgard Cromson und Thorgrim tauschen Sippenringe"
+  },
+  "resume": {
+   "fr": "Après le couronnement de Thorgrim Garde-Rancune, Thorgard Cromson, Grand Roi des Nains de Norsca, échange avec lui des anneaux de parenté.",
+   "en": "After Thorgrim Grudgebearer's coronation, Thorgard Cromson, Great King of the Norse Dwarfs, exchanges rings of kinship with him.",
+   "de": "Nach der Krönung von Thorgrim Grudgebearer tauscht Thorgard Cromson, Großkönig der Norse-Zwerge, Sippenringe mit ihm."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "norsca",
+   "montagnes"
+  ],
+  "lieux": [
+   "kraka-drak",
+   "karaz-a-karak"
+  ],
+  "factions": [
+   "nains"
+  ],
+  "importance": 1,
+  "fiabilite": "divergent",
+  "note": {
+   "fr": "Warriors of Chaos 8e édition fait au contraire de Kraka Drak, à partir de 2302 CI, une forteresse ensevelie et assiégée de l'intérieur pendant des décennies, ce que le wiki juge difficile à concilier avec ces relations.",
+   "en": "Warriors of Chaos 8th edition instead makes Kraka Drak, from 2302 IC on, a buried hold besieged from within for decades, which the wiki finds hard to reconcile with these relations.",
+   "de": "Warriors of Chaos 8. Edition macht Kraka Drak dagegen ab 2302 IK zu einer verschütteten, jahrzehntelang von innen belagerten Festung, was das Wiki mit diesen Beziehungen kaum vereinbar findet."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Dwarfs, 8e édition",
+     "en": "Warhammer Armies: Dwarfs, 8th edition",
+     "de": "Warhammer Armies: Dwarfs, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 21 et 25",
+     "en": "pp. 21 and 25",
+     "de": "S. 21 und 25"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Warriors of Chaos, 8e édition",
+     "en": "Warhammer Armies: Warriors of Chaos, 8th edition",
+     "de": "Warhammer Armies: Warriors of Chaos, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 15",
+     "en": "p. 15",
+     "de": "S. 15"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Kraka Drak",
+     "en": "Warhammer Fantasy Wiki (fandom), Kraka Drak page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Kraka Drak"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Kraka_Drak"
+   }
+  ]
+ },
+ {
+  "id": "haldebrand-poing-ogre-parravon",
+  "annee": 2309,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Le « poing émoussé » du graf Haldebrand",
+   "en": "Graf Haldebrand's \"blunt fist\"",
+   "de": "Die \"stumpfe Faust\" des Grafen Haldebrand"
+  },
+  "resume": {
+   "fr": "Pendant la troisième guerre de Parravon, le graf Haldebrand de la maison Jungfreud engage une forte troupe d'Ogres de la vallée de Gristle pour briser la cavalerie lourde bretonnienne. Les mercenaires repoussent les chevaliers à plusieurs reprises et l'aident à assiéger Parravon.",
+   "en": "During the Third Parravon War, Graf Haldebrand of House Jungfreud hires a strong force of Ogres from Gristle Valley to break the heavy Bretonnian cavalry. The mercenaries repeatedly drive back the knights and help him besiege Parravon.",
+   "de": "Im Dritten Parravon-Krieg wirbt Graf Haldebrand aus dem Haus Jungfreud eine starke Ogertruppe aus dem Gristle-Tal an, um die schwere bretonische Reiterei zu brechen. Die Söldner werfen die Ritter mehrfach zurück und helfen ihm, Parravon zu belagern."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "empire",
+   "bretonnie"
+  ],
+  "lieux": [
+   "parravon"
+  ],
+  "factions": [
+   "ogres",
+   "empire",
+   "bretonnie"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Archives of the Empire Vol. II, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Archives of the Empire Vol. II, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Archives of the Empire Vol. II, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 10",
+     "en": "p. 10",
+     "de": "S. 10"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Ogre Kingdoms Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Ogre Kingdoms Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Ogre Kingdoms Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Ogre_Kingdoms_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "duc-amoux-et-ses-destriers",
+  "annee": 2342,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Le duc Amoux et les destriers dévorés",
+   "en": "Duc Amoux and the eaten warhorses",
+   "de": "Herzog Amoux und die verspeisten Schlachtrösser"
+  },
+  "resume": {
+   "fr": "Le jeune duc Amoux de Parravon recrute des Ogres contre un rival, mais ceux-ci mangent dix-neuf de ses destriers en fêtant la victoire. L'affaire fait le tour de la Bretonnie, dont les nobles cessent d'embaucher des Ogres, alors que ses marchands commencent à les prendre comme gardes du corps.",
+   "en": "The young Duc Amoux of Parravon hires Ogres against a rival, but they eat nineteen of his warhorses while celebrating the victory. The story spreads across Bretonnia, whose nobles stop hiring Ogres just as its merchants start taking them on as bodyguards.",
+   "de": "Der junge Herzog Amoux von Parravon wirbt Oger gegen einen Rivalen an, doch sie verspeisen bei der Siegesfeier neunzehn seiner Schlachtrösser. Die Geschichte macht in Bretonia die Runde, dessen Adel fortan keine Oger mehr anheuert, während seine Kaufleute sie als Leibwächter entdecken."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "bretonnie"
+  ],
+  "lieux": [
+   "parravon"
+  ],
+  "factions": [
+   "ogres",
+   "bretonnie"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Archives of the Empire Vol. II, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Archives of the Empire Vol. II, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Archives of the Empire Vol. II, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 10",
+     "en": "p. 10",
+     "de": "S. 10"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Ogre Kingdoms Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Ogre Kingdoms Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Ogre Kingdoms Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Ogre_Kingdoms_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "premiers-leadbelchers",
+  "annee": 2420,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Les premiers Leadbelchers",
+   "en": "The first Leadbelchers",
+   "de": "Die ersten Leadbelcher"
+  },
+  "resume": {
+   "fr": "La tribu ogre Loose Tooth s'empare de six grands canons d'un convoi d'artillerie parti de Nuln et apprend à les porter au combat comme de grosses armes de poing. Malgré de lourdes pertes à l'entraînement, ces essais donnent naissance aux Leadbelchers, qui achèteront plus tard des pièces spéciales aux Nains du Chaos.",
+   "en": "The Loose Tooth Ogre tribe seizes six great cannons from an artillery train out of Nuln and learns to carry them into battle like oversized handguns. Despite heavy losses in the learning, this gives rise to the Leadbelchers, who later buy purpose-built pieces from the Chaos Dwarfs.",
+   "de": "Der Ogerstamm Loose Tooth erbeutet sechs Große Kanonen aus einem Artillerietross von Nuln und lernt, sie wie übergroße Handfeuerwaffen in die Schlacht zu tragen. Trotz schwerer Verluste beim Üben entstehen so die Leadbelcher, die später eigens gefertigte Geschütze von den Chaoszwergen kaufen."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "empire",
+   "orient"
+  ],
+  "lieux": [],
+  "factions": [
+   "ogres",
+   "empire",
+   "chaos"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Ogre Kingdoms, 8e édition",
+     "en": "Warhammer Armies: Ogre Kingdoms, 8th edition",
+     "de": "Warhammer Armies: Ogre Kingdoms, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 23",
+     "en": "p. 23",
+     "de": "S. 23"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Ogre Kingdoms Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Ogre Kingdoms Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Ogre Kingdoms Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Ogre_Kingdoms_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "blaut-maitre-du-festin",
+  "annee": 2480,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Blaut Granitetooth devient le Maître du Festin",
+   "en": "Blaut Granitetooth becomes the Feastmaster",
+   "de": "Blaut Granitetooth wird zum Feastmaster"
+  },
+  "resume": {
+   "fr": "Le Tyran Blaut Granitetooth capture une colonne entière de Halflings et leur impose le rôle des Gnoblars dans son royaume. Il se fait désormais appeler Blaut Feastmaster, et sa tribu obèse devient légendaire pour la qualité de sa table.",
+   "en": "Tyrant Blaut Granitetooth captures an entire string of Halflings and forces them to replace the Gnoblars in his realm. He takes the name Blaut Feastmaster, and his corpulent tribe becomes legendary for the quality of its food.",
+   "de": "Tyrann Blaut Granitetooth nimmt eine ganze Kolonne Halblinge gefangen und zwingt sie, in seinem Reich die Rolle der Gnoblars zu übernehmen. Er nennt sich fortan Blaut Feastmaster, und sein beleibter Stamm wird für die Qualität seiner Küche legendär."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "orient"
+  ],
+  "lieux": [],
+  "factions": [
+   "ogres"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Ogre Kingdoms, 8e édition",
+     "en": "Warhammer Armies: Ogre Kingdoms, 8th edition",
+     "de": "Warhammer Armies: Ogre Kingdoms, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 23",
+     "en": "p. 23",
+     "de": "S. 23"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Ogre Kingdoms Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Ogre Kingdoms Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Ogre Kingdoms Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Ogre_Kingdoms_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "hrothyogg-a-nuln-2499",
+  "annee": 2499,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Hrothyogg défend Nuln contre les Skavens",
+   "en": "Hrothyogg defends Nuln against the Skaven",
+   "de": "Hrothyogg verteidigt Nuln gegen die Skaven"
+  },
+  "resume": {
+   "fr": "Des masses de Skavens jaillissent des égouts de Nuln. Des héros improbables et des mercenaires, dont la bande du capitaine ogre Hrothyogg, évitent la ruine de la ville, et Hrothyogg se fait payer en poudre noire plutôt qu'en vivres.",
+   "en": "Masses of Skaven burst from the sewers of Nuln. Unlikely heroes and mercenaries, including the band of the Ogre captain Hrothyogg, spare the city from ruin, and Hrothyogg takes his pay in blackpowder rather than food.",
+   "de": "Massen von Skaven brechen aus der Kanalisation von Nuln hervor. Unwahrscheinliche Helden und Söldner, darunter die Bande des Ogerhauptmanns Hrothyogg, bewahren die Stadt vor dem Untergang, und Hrothyogg lässt sich in Schwarzpulver statt in Vorräten bezahlen."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "nuln"
+  ],
+  "factions": [
+   "ogres",
+   "empire",
+   "skavens"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Archives of the Empire Vol. II, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Archives of the Empire Vol. II, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Archives of the Empire Vol. II, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 10",
+     "en": "p. 10",
+     "de": "S. 10"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Ogre Kingdoms Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Ogre Kingdoms Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Ogre Kingdoms Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Ogre_Kingdoms_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "tous-les-mercenaires-se-disent-maneaters",
+  "annee": 2518,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Tous les mercenaires ogres se disent Maneaters",
+   "en": "Every Ogre mercenary calls himself a Maneater",
+   "de": "Alle Ogersöldner nennen sich Maneater"
+  },
+  "resume": {
+   "fr": "La réputation de Golgfag Maneater est telle que tous les mercenaires ogres adoptent ce surnom, qui leur vaut plus de contrats. De faux Golgfag apparaissent un peu partout dans le monde connu.",
+   "en": "Golgfag Maneater's fame is such that all Ogre mercenaries adopt the name, which brings them more contracts. False Golgfags turn up across the Known World.",
+   "de": "Golgfag Maneaters Ruf ist so groß, dass alle Ogersöldner den Beinamen annehmen, weil er ihnen mehr Aufträge bringt. Überall in der bekannten Welt tauchen falsche Golgfags auf."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "orient",
+   "empire"
+  ],
+  "lieux": [],
+  "factions": [
+   "ogres"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Ogre Kingdoms, 8e édition",
+     "en": "Warhammer Armies: Ogre Kingdoms, 8th edition",
+     "de": "Warhammer Armies: Ogre Kingdoms, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 23",
+     "en": "p. 23",
+     "de": "S. 23"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Ogre Kingdoms Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Ogre Kingdoms Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Ogre Kingdoms Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Ogre_Kingdoms_Timeline"
+   }
+  ]
+ }
+]

@@ -1,0 +1,2382 @@
+[
+ {
+  "id": "humains-en-extreme-orient",
+  "annee": -5800,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Les Humains gagnent l'Extrême-Orient",
+   "en": "Humans reach the Far East",
+   "de": "Menschen erreichen den Fernen Osten"
+  },
+  "resume": {
+   "fr": "De grandes tribus humaines se répandent sur le monde et s'installent sur les terres de chasse du Dragon Céleste Xen Yang. D'abord méfiant, il les juge inoffensives et se met à les observer.",
+   "en": "Great human tribes spread across the world and settle on the hunting grounds of the Celestial Dragon Xen Yang. Wary at first, he judges them harmless and begins to study them.",
+   "de": "Große Menschenstämme verbreiten sich über die Welt und siedeln in den Jagdgründen des Himmelsdrachen Xen Yang. Zunächst misstrauisch, hält er sie für harmlos und beginnt sie zu beobachten."
+  },
+  "ere": "anciens",
+  "regions": [
+   "orient"
+  ],
+  "lieux": [
+   "cathay"
+  ],
+  "factions": [
+   "humains-autres"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": "Warhammer: The Old World, Arcane Journal: Breaching of the Great Bastion",
+    "detail": {
+     "fr": "p. 6-9",
+     "en": "pp. 6-9",
+     "de": "S. 6-9"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Grand Cathay",
+     "en": "Warhammer Fantasy Wiki (fandom), Grand Cathay page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Grand Cathay"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Grand_Cathay"
+   }
+  ]
+ },
+ {
+  "id": "xen-yang-et-quai-yin",
+  "annee": -5700,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Xen Yang s'unit à Quai Yin, naissance de Shiyama",
+   "en": "Xen Yang takes Quai Yin as mate, birth of Shiyama",
+   "de": "Xen Yang nimmt Quai Yin zur Gefährtin, Geburt Shiyamas"
+  },
+  "resume": {
+   "fr": "Le Dragon Céleste prend pour compagne Quai Yin, le Dragon de la Lune venu d'ailleurs, qui lui enseigne à revêtir forme humaine. Le couple veille dès lors sur les tribus d'Orient. Shiyama naît alors, la première de leurs neuf enfants dragons.",
+   "en": "The Celestial Dragon takes as his mate Quai Yin, the otherworldly Moon Dragon, who teaches him to assume human shape. From then on the pair watch over the tribes of the East. Shiyama is born at this time, the first of their nine dragon children.",
+   "de": "Der Himmelsdrache nimmt Quai Yin, den fremdartigen Monddrachen, zur Gefährtin, die ihn lehrt, Menschengestalt anzunehmen. Fortan wacht das Paar über die Stämme des Ostens. Damals wird Shiyama geboren, das erste ihrer neun Drachenkinder."
+  },
+  "ere": "anciens",
+  "regions": [
+   "orient"
+  ],
+  "lieux": [
+   "cathay"
+  ],
+  "factions": [
+   "humains-autres"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": "Warhammer: The Old World, Arcane Journal: Breaching of the Great Bastion",
+    "detail": {
+     "fr": "p. 6-9",
+     "en": "pp. 6-9",
+     "de": "S. 6-9"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Grand Cathay",
+     "en": "Warhammer Fantasy Wiki (fandom), Grand Cathay page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Grand Cathay"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Grand_Cathay"
+   }
+  ]
+ },
+ {
+  "id": "xen-yang-grande-catastrophe",
+  "annee": -5600,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Xen Yang contre les démons de la Grande Catastrophe",
+   "en": "Xen Yang against the daemons of the Great Catastrophe",
+   "de": "Xen Yang gegen die Dämonen der Großen Katastrophe"
+  },
+  "resume": {
+   "fr": "Quand les portails polaires s'effondrent et que les légions démoniaques déferlent sur le monde, le Dragon Céleste leur oppose sa magie et son feu en Orient. Il se bat pendant que Slanns et mages elfes plient ailleurs.",
+   "en": "When the polar gates collapse and daemonic legions sweep across the world, the Celestial Dragon meets them with magic and fire in the East. He fights on while Slann and Elven mages give ground elsewhere.",
+   "de": "Als die Polartore einstürzen und dämonische Legionen über die Welt herfallen, tritt ihnen der Himmelsdrache im Osten mit Magie und Feuer entgegen. Er kämpft weiter, während Slann und elfische Magier anderswo zurückweichen."
+  },
+  "ere": "grande-catastrophe",
+  "regions": [
+   "orient"
+  ],
+  "lieux": [
+   "cathay"
+  ],
+  "factions": [
+   "chaos",
+   "humains-autres"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": "Warhammer: The Old World, Arcane Journal: Breaching of the Great Bastion",
+    "detail": {
+     "fr": "p. 6-9",
+     "en": "pp. 6-9",
+     "de": "S. 6-9"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Grand Cathay",
+     "en": "Warhammer Fantasy Wiki (fandom), Grand Cathay page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Grand Cathay"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Grand_Cathay"
+   }
+  ]
+ },
+ {
+  "id": "vents-elementaires-transmis",
+  "annee": -5000,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Les Dragons transmettent les Vents élémentaires",
+   "en": "The Dragons pass on the Elemental Winds",
+   "de": "Die Drachen geben die Elementaren Winde weiter"
+  },
+  "resume": {
+   "fr": "En pleine guerre contre le Chaos, les Dragons de Cathay apprennent aux Humains d'Orient à manier les Vents de Magie, qu'ils nomment Vents élémentaires. Cet enseignement fondé sur la discipline et la recherche de l'équilibre doit protéger ses adeptes de la corruption.",
+   "en": "In the midst of the war against Chaos, the Cathayan Dragons teach the Humans of the East to wield the Winds of Magic, which they call the Elemental Winds. This teaching, built on discipline and the search for balance, is meant to shield its adepts from corruption.",
+   "de": "Mitten im Krieg gegen das Chaos lehren die Drachen Cathays die Menschen des Ostens, die Winde der Magie zu nutzen, die sie Elementare Winde nennen. Diese auf Disziplin und Suche nach Gleichgewicht beruhende Lehre soll ihre Anhänger vor der Verderbnis schützen."
+  },
+  "ere": "grande-catastrophe",
+  "regions": [
+   "orient"
+  ],
+  "lieux": [
+   "cathay"
+  ],
+  "factions": [
+   "humains-autres",
+   "chaos"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": "Warhammer: The Old World, Arcane Journal: Breaching of the Great Bastion",
+    "detail": {
+     "fr": "p. 6-9",
+     "en": "pp. 6-9",
+     "de": "S. 6-9"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Grand Cathay",
+     "en": "Warhammer Fantasy Wiki (fandom), Grand Cathay page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Grand Cathay"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Grand_Cathay"
+   }
+  ]
+ },
+ {
+  "id": "mort-de-shiyama",
+  "annee": -4502,
+  "fin": -4500,
+  "approx": false,
+  "titre": {
+   "fr": "Shiyama, le Dragon Esprit, tuée par les siens",
+   "en": "Shiyama the Spirit Dragon slain by her own",
+   "de": "Shiyama, der Geisterdrache, von den Ihren getötet"
+  },
+  "resume": {
+   "fr": "Trop fière, Shiyama conduit une armée vers les Désolations pour sceller la faille du Chaos, mais Chi'an Chi retourne ses soldats les uns contre les autres. Quand elle revient brisée, une illusion la fait passer pour un démon et les défenseurs de Nan-Gau, menés par sa sœur Miao Ying, l'abattent. Xen Yang lie son esprit à Cathay et Quai Yin efface le souvenir du drame.",
+   "en": "Overproud, Shiyama leads an army into the Wastes to seal the rift of Chaos, but Chi'an Chi turns her soldiers against one another. When she returns broken, an illusion makes her appear a daemon and the defenders of Nan-Gau, led by her sister Miao Ying, strike her down. Xen Yang binds her spirit to Cathay and Quai Yin erases the memory of the tragedy.",
+   "de": "Aus Stolz führt Shiyama ein Heer in die Chaoswüste, um den Riss des Chaos zu versiegeln, doch Chi'an Chi hetzt ihre Soldaten gegeneinander auf. Als sie gebrochen zurückkehrt, lässt sie eine Illusion als Dämon erscheinen, und die Verteidiger von Nan-Gau unter ihrer Schwester Miao Ying strecken sie nieder. Xen Yang bindet ihren Geist an Cathay, und Quai Yin löscht die Erinnerung an das Unglück."
+  },
+  "ere": "grande-catastrophe",
+  "regions": [
+   "orient",
+   "desolations"
+  ],
+  "lieux": [
+   "nan-gau",
+   "desolations"
+  ],
+  "factions": [
+   "humains-autres",
+   "chaos"
+  ],
+  "importance": 2,
+  "fiabilite": "etabli",
+  "note": "",
+  "sources": [
+   {
+    "titre": "Warhammer: The Old World, Arcane Journal: Armies of Grand Cathay",
+    "detail": {
+     "fr": "p. 8-9",
+     "en": "pp. 8-9",
+     "de": "S. 8-9"
+    },
+    "url": ""
+   },
+   {
+    "titre": "Warhammer: The Old World, Arcane Journal: Breaching of the Great Bastion",
+    "detail": {
+     "fr": "p. 6-9",
+     "en": "pp. 6-9",
+     "de": "S. 6-9"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Grand Cathay",
+     "en": "Warhammer Fantasy Wiki (fandom), Grand Cathay page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Grand Cathay"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Grand_Cathay"
+   }
+  ]
+ },
+ {
+  "id": "xen-yang-vainc-les-grands-demons",
+  "annee": -4420,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Xen Yang abat une douzaine de Grands Démons",
+   "en": "Xen Yang fells a dozen Greater Daemons",
+   "de": "Xen Yang fällt ein Dutzend Große Dämonen"
+  },
+  "resume": {
+   "fr": "Pour venger Shiyama, Xen Yang emmène ses enfants et l'armée de Cathay vers le portail polaire brisé. Assailli par une douzaine de Grands Démons, il les détruit un à un et ses forces défont la horde, alors même que la création du Grand Vortex disperse les légions du Chaos. Les démons sont chassés d'Orient.",
+   "en": "To avenge Shiyama, Xen Yang leads his children and the army of Cathay towards the shattered polar gate. Set upon by a dozen Greater Daemons, he destroys them one by one and his forces rout the horde, even as the making of the Great Vortex scatters the legions of Chaos. The daemons are driven from the East.",
+   "de": "Um Shiyama zu rächen, führt Xen Yang seine Kinder und das Heer Cathays zum zerstörten Polartor. Von einem Dutzend Großer Dämonen angegriffen, vernichtet er sie einen nach dem anderen, und seine Truppen zerschlagen die Horde, während die Erschaffung des Großen Vortex die Legionen des Chaos zerstreut. Die Dämonen werden aus dem Osten vertrieben."
+  },
+  "ere": "grande-catastrophe",
+  "regions": [
+   "orient",
+   "desolations"
+  ],
+  "lieux": [
+   "desolations"
+  ],
+  "factions": [
+   "humains-autres",
+   "chaos"
+  ],
+  "importance": 2,
+  "fiabilite": "etabli",
+  "note": "",
+  "sources": [
+   {
+    "titre": "Warhammer: The Old World, Arcane Journal: Armies of Grand Cathay",
+    "detail": {
+     "fr": "p. 8-9",
+     "en": "pp. 8-9",
+     "de": "S. 8-9"
+    },
+    "url": ""
+   },
+   {
+    "titre": "Warhammer: The Old World, Arcane Journal: Breaching of the Great Bastion",
+    "detail": {
+     "fr": "p. 6-9",
+     "en": "pp. 6-9",
+     "de": "S. 6-9"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Grand Cathay",
+     "en": "Warhammer Fantasy Wiki (fandom), Grand Cathay page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Grand Cathay"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Grand_Cathay"
+   }
+  ]
+ },
+ {
+  "id": "purification-de-l-orient",
+  "annee": -4419,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "La purification des terres d'Orient",
+   "en": "The cleansing of the Eastern lands",
+   "de": "Die Reinigung der Länder des Ostens"
+  },
+  "resume": {
+   "fr": "La paix revenue, Xen Yang et ses enfants s'attaquent à la souillure laissée par le Chaos dans les terres d'Orient. Ils en réparent une grande part, mais toute leur puissance ne suffit pas à l'effacer.",
+   "en": "With peace restored, Xen Yang and his children turn on the taint Chaos has left in the Eastern lands. They mend much of it, yet all their power cannot wipe it away.",
+   "de": "Nach der Rückkehr des Friedens gehen Xen Yang und seine Kinder gegen den Makel vor, den das Chaos in den Ländern des Ostens hinterlassen hat. Sie heilen vieles, doch all ihre Macht reicht nicht aus, ihn zu tilgen."
+  },
+  "ere": "grande-catastrophe",
+  "regions": [
+   "orient"
+  ],
+  "lieux": [
+   "cathay"
+  ],
+  "factions": [
+   "humains-autres",
+   "chaos"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": "Warhammer: The Old World, Arcane Journal: Breaching of the Great Bastion",
+    "detail": {
+     "fr": "p. 6-9",
+     "en": "pp. 6-9",
+     "de": "S. 6-9"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Grand Cathay",
+     "en": "Warhammer Fantasy Wiki (fandom), Grand Cathay page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Grand Cathay"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Grand_Cathay"
+   }
+  ]
+ },
+ {
+  "id": "xen-yang-empereur-dragon",
+  "annee": -3000,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Xen Yang devient l'Empereur Dragon",
+   "en": "Xen Yang becomes the Dragon Emperor",
+   "de": "Xen Yang wird Drachenkaiser"
+  },
+  "resume": {
+   "fr": "Xen Yang accepte officiellement le titre d'Empereur Dragon, ou Empereur de l'Orient, et donne à ses terres le nom de Grand Cathay. Il règne depuis la capitale Wei-Jin et protège ses sujets du Chaos au nord et des tribus ogres à l'ouest.",
+   "en": "Xen Yang formally accepts the title of Dragon Emperor, or Emperor of the East, and names his lands Grand Cathay. He rules from the capital Wei-Jin, shielding his subjects from Chaos in the north and the Ogre tribes in the west.",
+   "de": "Xen Yang nimmt offiziell den Titel Drachenkaiser oder Kaiser des Ostens an und nennt sein Land Groß-Cathay. Von der Hauptstadt Wei-Jin aus herrscht er und schützt seine Untertanen vor dem Chaos im Norden und den Ogerstämmen im Westen."
+  },
+  "ere": "grande-catastrophe",
+  "regions": [
+   "orient"
+  ],
+  "lieux": [
+   "wei-jin",
+   "cathay"
+  ],
+  "factions": [
+   "humains-autres"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": "Warhammer: The Old World, Arcane Journal: Breaching of the Great Bastion",
+    "detail": {
+     "fr": "p. 6-9",
+     "en": "pp. 6-9",
+     "de": "S. 6-9"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Grand Cathay",
+     "en": "Warhammer Fantasy Wiki (fandom), Grand Cathay page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Grand Cathay"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Grand_Cathay"
+   }
+  ]
+ },
+ {
+  "id": "skytitans-poudre-noire",
+  "annee": -2800,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "L'Empereur Dragon offre la poudre noire aux Skytitans",
+   "en": "The Dragon Emperor gives blackpowder to the Skytitans",
+   "de": "Der Drachenkaiser gibt den Skytitanen das Schwarzpulver"
+  },
+  "resume": {
+   "fr": "Anciens adversaires, l'Empereur Dragon et les Skytitans des Montagnes des Lamentations s'entendent pour sauver ce qui reste du monde d'avant les Anciens. Il leur livre le secret de la poudre noire et de canons à leur taille contre les Ogres qui migrent vers l'ouest.",
+   "en": "Once foes, the Dragon Emperor and the Skytitans of the Mountains of Mourn agree to preserve what is left of the world before the Old Ones. He hands them the secret of blackpowder and of giant-sized cannon to use against the westward-migrating Ogres.",
+   "de": "Einst Gegner, einigen sich der Drachenkaiser und die Skytitanen des Gebirges der Trauer darauf, zu bewahren, was von der Welt vor den Alten geblieben ist. Er verrät ihnen das Geheimnis des Schwarzpulvers und riesiger Kanonen gegen die nach Westen ziehenden Oger."
+  },
+  "ere": "grande-catastrophe",
+  "regions": [
+   "orient"
+  ],
+  "lieux": [],
+  "factions": [
+   "humains-autres",
+   "ogres"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": "Warhammer: The Old World, Arcane Journal: Breaching of the Great Bastion",
+    "detail": {
+     "fr": "p. 6-9",
+     "en": "pp. 6-9",
+     "de": "S. 6-9"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Grand Cathay",
+     "en": "Warhammer Fantasy Wiki (fandom), Grand Cathay page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Grand Cathay"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Grand_Cathay"
+   }
+  ]
+ },
+ {
+  "id": "mercenaires-ogres-sur-les-navires-de-cathay",
+  "annee": -1357,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Des Ogres sur les navires marchands de Cathay",
+   "en": "Ogres aboard the merchant ships of Cathay",
+   "de": "Oger auf den Handelsschiffen Cathays"
+  },
+  "resume": {
+   "fr": "Face à la multiplication des pirates sur ses côtes orientales, la marine marchande de Cathay engage en masse des mercenaires ogres dans ses équipages.",
+   "en": "With pirates multiplying off its eastern coasts, the merchant fleet of Cathay hires Ogre mercenaries into its crews in great numbers.",
+   "de": "Da sich die Piraten vor seinen Ostküsten vermehren, heuert die Handelsflotte Cathays in großer Zahl Ogersöldner für ihre Besatzungen an."
+  },
+  "ere": "age-des-tribus",
+  "regions": [
+   "orient"
+  ],
+  "lieux": [
+   "cathay"
+  ],
+  "factions": [
+   "humains-autres",
+   "ogres"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": "Warhammer: The Old World, Arcane Journal: Breaching of the Great Bastion",
+    "detail": {
+     "fr": "p. 6-9",
+     "en": "pp. 6-9",
+     "de": "S. 6-9"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Grand Cathay",
+     "en": "Warhammer Fantasy Wiki (fandom), Grand Cathay page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Grand Cathay"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Grand_Cathay"
+   }
+  ]
+ },
+ {
+  "id": "harakhte-en-cathay",
+  "annee": -1152,
+  "fin": null,
+  "approx": true,
+  "titre": {
+   "fr": "Le vampire Harakhte aborde en Cathay",
+   "en": "The Vampire Harakhte lands in Cathay",
+   "de": "Der Vampir Harakhte landet in Cathay"
+  },
+  "resume": {
+   "fr": "Échappé de l'emprise de Nagash, Harakhte, ancien vizir de la cour de Neferata, fuit le Pic Dolent et débarque en Cathay. Il longe la côte orientale de nuit et y répand le vampirisme.",
+   "en": "Free of Nagash's control, Harakhte, former vizier at Neferata's court, flees Cripple Peak and lands in Cathay. He travels the eastern coast by night, spreading vampirism in his wake.",
+   "de": "Von Nagashs Herrschaft befreit, flieht Harakhte, einst Wesir an Neferatas Hof, vom Krüppelgipfel und landet in Cathay. Bei Nacht zieht er die Ostküste entlang und verbreitet den Vampirismus."
+  },
+  "ere": "age-des-tribus",
+  "regions": [
+   "orient"
+  ],
+  "lieux": [
+   "cathay"
+  ],
+  "factions": [
+   "vampires",
+   "humains-autres"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Le wiki situe cette fuite dans l'intervalle -1163 à -1152 CI, sans année précise.",
+   "en": "The wiki places this flight between -1163 and -1152 IC, without an exact year.",
+   "de": "Das Wiki setzt diese Flucht zwischen -1163 und -1152 IK an, ohne genaues Jahr."
+  },
+  "sources": [
+   {
+    "titre": "Warhammer: The Old World, Arcane Journal: Breaching of the Great Bastion",
+    "detail": {
+     "fr": "p. 8",
+     "en": "p. 8",
+     "de": "S. 8"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Harakhte",
+     "en": "Warhammer Fantasy Wiki (fandom), Harakhte page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Harakhte"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Harakhte"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Grand Cathay",
+     "en": "Warhammer Fantasy Wiki (fandom), Grand Cathay page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Grand Cathay"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Grand_Cathay"
+   }
+  ]
+ },
+ {
+  "id": "hobgobelins-et-la-sentinelle",
+  "annee": -1085,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Des Hobgobelins réveillent une Sentinelle",
+   "en": "Hobgoblins awaken a Sentinel",
+   "de": "Hobgoblins wecken einen Wächter"
+  },
+  "resume": {
+   "fr": "Une tribu hobgobeline du nord des steppes de l'Est tente d'escalader le Grand Bastion pour piller Cathay. Elle tire de son sommeil une Sentinelle de terre cuite adossée au mur, et l'ascension s'arrête net.",
+   "en": "A Hobgoblin tribe from the northern Eastern Steppes tries to climb the Great Bastion to raid Cathay. It stirs a terracotta Sentinel slumbering against the wall, and the climb ends abruptly.",
+   "de": "Ein Hobgoblinstamm aus dem Norden der östlichen Steppen versucht, die Große Bastion zu erklettern, um Cathay zu plündern. Er weckt einen an der Mauer schlummernden Terrakotta-Wächter, und der Aufstieg endet jäh."
+  },
+  "ere": "age-des-tribus",
+  "regions": [
+   "orient"
+  ],
+  "lieux": [
+   "grand-bastion"
+  ],
+  "factions": [
+   "peaux-vertes",
+   "humains-autres"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": "Warhammer: The Old World, Arcane Journal: Breaching of the Great Bastion",
+    "detail": {
+     "fr": "p. 6-9",
+     "en": "pp. 6-9",
+     "de": "S. 6-9"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Grand Cathay",
+     "en": "Warhammer Fantasy Wiki (fandom), Grand Cathay page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Grand Cathay"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Grand_Cathay"
+   }
+  ]
+ },
+ {
+  "id": "morrslieb-sur-l-orient",
+  "annee": -666,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Morrslieb et les tempêtes de magie en Orient",
+   "en": "Morrslieb and the storms of magic in the East",
+   "de": "Morrslieb und die Magiestürme im Osten"
+  },
+  "resume": {
+   "fr": "Morrslieb reste pleine des semaines durant et des tempêtes de magie embrasent le ciel du nord, ce qui galvanise les adorateurs du Chaos. Sous sa lueur, l'influence de Chi'an Chi grandit et chaque Dragon de Cathay doit redoubler d'efforts pour extirper la corruption de ses terres.",
+   "en": "Morrslieb stays full for weeks and storms of magic blaze across the northern sky, spurring on the worshippers of Chaos. Under its glow the influence of Chi'an Chi grows, and each Dragon of Cathay must redouble the effort to root corruption out of its lands.",
+   "de": "Morrslieb bleibt wochenlang voll, und Magiestürme toben am nördlichen Himmel, was die Anbeter des Chaos beflügelt. In seinem Schein wächst der Einfluss Chi'an Chis, und jeder Drache Cathays muss die Verderbnis in seinen Ländern noch entschlossener ausmerzen."
+  },
+  "ere": "age-des-tribus",
+  "regions": [
+   "orient"
+  ],
+  "lieux": [
+   "cathay"
+  ],
+  "factions": [
+   "chaos",
+   "humains-autres"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": "Warhammer: The Old World, Arcane Journal: Breaching of the Great Bastion",
+    "detail": {
+     "fr": "p. 6-9",
+     "en": "pp. 6-9",
+     "de": "S. 6-9"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Grand Cathay",
+     "en": "Warhammer Fantasy Wiki (fandom), Grand Cathay page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Grand Cathay"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Grand_Cathay"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Timeline of the Warhammer World",
+     "en": "Warhammer Fantasy Wiki (fandom), Timeline of the Warhammer World page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Timeline of the Warhammer World"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Timeline_of_the_Warhammer_World"
+   }
+  ]
+ },
+ {
+  "id": "raids-du-roi-singe-437",
+  "annee": -437,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Les raids du Roi Singe sur le sud de Cathay",
+   "en": "The Monkey King's raids on southern Cathay",
+   "de": "Die Raubzüge des Affenkönigs in Südcathay"
+  },
+  "resume": {
+   "fr": "Les troupes du Roi Singe s'enfoncent loin dans le sud de Cathay. Li Dao, le Dragon de Feu, enrage mais n'ose pas désobéir à son père en frappant les Montagnes du Ciel.",
+   "en": "The Monkey King's forces raid deep into southern Cathay. Li Dao, the Fire Dragon, is enraged but dares not disobey his father by striking at the Mountains of Heaven.",
+   "de": "Die Truppen des Affenkönigs dringen tief in den Süden Cathays vor. Li Dao, der Feuerdrache, tobt, wagt aber nicht, seinem Vater zu trotzen und die Himmelsberge anzugreifen."
+  },
+  "ere": "age-des-tribus",
+  "regions": [
+   "orient"
+  ],
+  "lieux": [
+   "cathay"
+  ],
+  "factions": [
+   "humains-autres"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": "Warhammer: The Old World, Arcane Journal: Breaching of the Great Bastion",
+    "detail": {
+     "fr": "p. 6-9",
+     "en": "pp. 6-9",
+     "de": "S. 6-9"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Grand Cathay",
+     "en": "Warhammer Fantasy Wiki (fandom), Grand Cathay page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Grand Cathay"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Grand_Cathay"
+   }
+  ]
+ },
+ {
+  "id": "arches-noires-en-orient",
+  "annee": -87,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Les Arches noires atteignent l'Orient",
+   "en": "The Black Arks reach the East",
+   "de": "Die Schwarzen Archen erreichen den Osten"
+  },
+  "resume": {
+   "fr": "Les Arches noires commencent à piller les côtes d'Extrême-Orient, mais pour chaque flotte chargée de butin, plusieurs rentrent bredouilles à Naggaroth. Excédé, l'Empereur Dragon ordonne à Yin-Yin d'assumer enfin la garde des provinces de l'Est. Le Dragon des Mers, qui préfère la liberté, se plie à sa volonté et prend en main la défense du littoral.",
+   "en": "The Black Arks begin raiding the coasts of the Far East, though for each fleet laden with spoils several return empty-handed to Naggaroth. Exasperated, the Dragon Emperor orders Yin-Yin to take up at last the guardianship of the eastern provinces. The Sea Dragon, who prefers her freedom, submits and takes charge of the coastal defence.",
+   "de": "Die Schwarzen Archen beginnen, die Küsten des Fernen Ostens zu plündern, doch auf jede beladene Flotte kommen mehrere, die ohne Beute nach Naggaroth zurückkehren. Verärgert befiehlt der Drachenkaiser Yin-Yin, endlich die Hut der Ostprovinzen zu übernehmen. Der Meeresdrache, der seine Freiheit vorzieht, fügt sich und nimmt die Küstenverteidigung in die Hand."
+  },
+  "ere": "age-des-tribus",
+  "regions": [
+   "orient",
+   "naggaroth"
+  ],
+  "lieux": [
+   "cathay"
+  ],
+  "factions": [
+   "elfes-noirs",
+   "humains-autres"
+  ],
+  "importance": 2,
+  "fiabilite": "etabli",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Dark Elves, 4e édition",
+     "en": "Warhammer Armies: Dark Elves, 4th edition",
+     "de": "Warhammer Armies: Dark Elves, 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 12",
+     "en": "p. 12",
+     "de": "S. 12"
+    },
+    "url": ""
+   },
+   {
+    "titre": "Warhammer: The Old World, Arcane Journal: Breaching of the Great Bastion",
+    "detail": {
+     "fr": "p. 6-9",
+     "en": "pp. 6-9",
+     "de": "S. 6-9"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Grand Cathay",
+     "en": "Warhammer Fantasy Wiki (fandom), Grand Cathay page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Grand Cathay"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Grand_Cathay"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Nippon",
+     "en": "Warhammer Fantasy Wiki (fandom), Nippon page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Nippon"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Nippon"
+   }
+  ]
+ },
+ {
+  "id": "premiers-sang-de-dragon",
+  "annee": 0,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "La comète à deux queues et les premiers Sang-de-Dragon",
+   "en": "The twin-tailed comet and the first Dragon-blooded",
+   "de": "Der zweischweifige Komet und die ersten Drachenblütigen"
+  },
+  "resume": {
+   "fr": "Les astromanciens de Wei-Jin observent une comète à deux queues, signe de la naissance du premier Sang-de-Dragon. Ces mortels descendent des unions entre les enfants de l'Empereur Dragon et leurs sujets humains.",
+   "en": "The astromancers of Wei-Jin observe a twin-tailed comet, marking the birth of the first Dragon-blooded. These mortals descend from unions between the Dragon Emperor's children and their human subjects.",
+   "de": "Die Astromanten von Wei-Jin beobachten einen zweischweifigen Kometen, der die Geburt des ersten Drachenblütigen anzeigt. Diese Sterblichen stammen aus Verbindungen der Kinder des Drachenkaisers mit ihren menschlichen Untertanen."
+  },
+  "ere": "age-des-tribus",
+  "regions": [
+   "orient"
+  ],
+  "lieux": [
+   "wei-jin"
+  ],
+  "factions": [
+   "humains-autres"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": "Warhammer: The Old World, Arcane Journal: Breaching of the Great Bastion",
+    "detail": {
+     "fr": "p. 6-9",
+     "en": "pp. 6-9",
+     "de": "S. 6-9"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Grand Cathay",
+     "en": "Warhammer Fantasy Wiki (fandom), Grand Cathay page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Grand Cathay"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Grand_Cathay"
+   }
+  ]
+ },
+ {
+  "id": "emissaires-d-aethis-en-cathay",
+  "annee": 699,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Les émissaires d'Aethis arrivent à Cathay",
+   "en": "Aethis's envoys arrive in Cathay",
+   "de": "Die Gesandten Aethis' erreichen Cathay"
+  },
+  "resume": {
+   "fr": "Des représentants du Roi Phénix Aethis parviennent au Grand Cathay et rentrent à Ulthuan chargés de soie, de jade et d'épices. Ce voyage ouvre un commerce maritime entre l'est et l'ouest, dont les flottes elfes deviennent les intermédiaires.",
+   "en": "Representatives of Phoenix King Aethis reach Grand Cathay and return to Ulthuan laden with silk, jade and spices. The voyage opens a maritime trade between east and west, with the Elven fleets as its go-betweens.",
+   "de": "Vertreter des Phönixkönigs Aethis erreichen Groß-Cathay und kehren mit Seide, Jade und Gewürzen nach Ulthuan zurück. Die Reise eröffnet einen Seehandel zwischen Ost und West, bei dem die elfischen Flotten als Vermittler dienen."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "orient",
+   "ulthuan"
+  ],
+  "lieux": [
+   "cathay"
+  ],
+  "factions": [
+   "hauts-elfes",
+   "humains-autres"
+  ],
+  "importance": 2,
+  "fiabilite": "etabli",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: High Elves, 7e édition",
+     "en": "Warhammer Armies: High Elves, 7th edition",
+     "de": "Warhammer Armies: High Elves, 7. Edition"
+    },
+    "detail": {
+     "fr": "p. 40",
+     "en": "p. 40",
+     "de": "S. 40"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "High Elf Player's Guide, Warhammer Fantasy Roleplay 4e édition",
+     "en": "High Elf Player's Guide, Warhammer Fantasy Roleplay 4th edition",
+     "de": "High Elf Player's Guide, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 41",
+     "en": "p. 41",
+     "de": "S. 41"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Grand Cathay",
+     "en": "Warhammer Fantasy Wiki (fandom), Grand Cathay page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Grand Cathay"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Grand_Cathay"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Kingdoms of Ind",
+     "en": "Warhammer Fantasy Wiki (fandom), Kingdoms of Ind page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Kingdoms of Ind"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Kingdoms_of_Ind"
+   }
+  ]
+ },
+ {
+  "id": "naufrage-du-talon-of-agony",
+  "annee": 860,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "L'Arche noire Talon of Agony engloutie",
+   "en": "The Black Ark Talon of Agony swallowed",
+   "de": "Die Schwarze Arche Talon of Agony versinkt"
+  },
+  "resume": {
+   "fr": "Au large de Cathay, un gigantesque raz-de-marée magique retourne et coule l'Arche noire Talon of Agony.",
+   "en": "Off the coast of Cathay, a gigantic magical tidal wave overturns and sinks the Black Ark Talon of Agony.",
+   "de": "Vor der Küste Cathays bringt eine gewaltige magische Flutwelle die Schwarze Arche Talon of Agony zum Kentern und versenkt sie."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "orient"
+  ],
+  "lieux": [
+   "cathay"
+  ],
+  "factions": [
+   "elfes-noirs",
+   "humains-autres"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Dark Elves, 4e édition",
+     "en": "Warhammer Armies: Dark Elves, 4th edition",
+     "de": "Warhammer Armies: Dark Elves, 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 12",
+     "en": "p. 12",
+     "de": "S. 12"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Grand Cathay",
+     "en": "Warhammer Fantasy Wiki (fandom), Grand Cathay page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Grand Cathay"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Grand_Cathay"
+   }
+  ]
+ },
+ {
+  "id": "emissaires-de-cathay-dans-l-empire",
+  "annee": 1360,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Les envoyés de Cathay dans l'Empire divisé",
+   "en": "Cathay's envoys in the divided Empire",
+   "de": "Cathays Gesandte im geteilten Imperium"
+  },
+  "resume": {
+   "fr": "Refusant de choisir entre les prétendants au trône impérial, la cour de Wei-Jin dépêche des diplomates dans le Vieux Monde pour réconcilier l'Empire. Leurs appels restent sans écho, mais ils tiennent désormais la Cour Céleste informée de ce qui s'y passe.",
+   "en": "Unwilling to pick among the claimants to the Imperial throne, the court at Wei-Jin sends diplomats to the Old World to reconcile the Empire. Their pleas go unheard, but they now keep the Celestial Court informed of events there.",
+   "de": "Der Hof von Wei-Jin will keinen der Thronanwärter des Imperiums unterstützen und entsendet Diplomaten in die Alte Welt, um das Reich zu versöhnen. Ihre Appelle verhallen, doch fortan halten sie den Himmlischen Hof über die Vorgänge dort auf dem Laufenden."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "orient",
+   "empire"
+  ],
+  "lieux": [
+   "wei-jin"
+  ],
+  "factions": [
+   "humains-autres",
+   "empire"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": "Warhammer: The Old World, Arcane Journal: Breaching of the Great Bastion",
+    "detail": {
+     "fr": "p. 6-9",
+     "en": "pp. 6-9",
+     "de": "S. 6-9"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Grand Cathay",
+     "en": "Warhammer Fantasy Wiki (fandom), Grand Cathay page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Grand Cathay"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Grand_Cathay"
+   }
+  ]
+ },
+ {
+  "id": "chevalier-bretonnien-contre-les-dragons",
+  "annee": 1478,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Un chevalier bretonnien part libérer Cathay",
+   "en": "A Bretonnian knight sets out to free Cathay",
+   "de": "Ein bretonischer Ritter will Cathay befreien"
+  },
+  "resume": {
+   "fr": "Ayant appris qu'un lointain empire vit sous la tyrannie de dragons, un chevalier de Bretonnie s'embarque pour en délivrer le peuple. Nul n'a plus jamais de ses nouvelles.",
+   "en": "Having learned of a distant empire ruled by tyrannical dragons, a knight of Bretonnia sails off to free its people. He is never heard from again.",
+   "de": "Als ein bretonischer Ritter von einem fernen Reich unter der Tyrannei von Drachen erfährt, segelt er los, um dessen Volk zu befreien. Man hört nie wieder von ihm."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "orient",
+   "bretonnie"
+  ],
+  "lieux": [
+   "cathay"
+  ],
+  "factions": [
+   "bretonnie",
+   "humains-autres"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": "Warhammer: The Old World, Arcane Journal: Breaching of the Great Bastion",
+    "detail": {
+     "fr": "p. 6-9",
+     "en": "pp. 6-9",
+     "de": "S. 6-9"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Grand Cathay",
+     "en": "Warhammer Fantasy Wiki (fandom), Grand Cathay page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Grand Cathay"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Grand_Cathay"
+   }
+  ]
+ },
+ {
+  "id": "armanda-de-pantaleon-papier-monnaie",
+  "annee": 1768,
+  "fin": 1831,
+  "approx": true,
+  "titre": {
+   "fr": "Armanda de Pantaleon et le papier-monnaie de Cathay",
+   "en": "Armanda de Pantaleon and Cathay's paper money",
+   "de": "Armanda de Pantaleon und das Papiergeld Cathays"
+  },
+  "resume": {
+   "fr": "La négociante tiléenne Armanda de Pantaleon, dévote de Mercopio, tente d'introduire dans le Vieux Monde le papier-monnaie en usage depuis des générations à Cathay. Elle doit y renoncer après avoir échappé de peu à la colère d'un petit prince.",
+   "en": "The Tilean trader Armanda de Pantaleon, a devotee of Mercopio, tries to bring to the Old World the paper money long used in Cathay. She has to give up after narrowly escaping the wrath of a minor princeling.",
+   "de": "Die tileanische Händlerin Armanda de Pantaleon, eine Anhängerin Mercopios, versucht das in Cathay seit Generationen gebräuchliche Papiergeld in die Alte Welt zu bringen. Sie muss aufgeben, nachdem sie dem Zorn eines Kleinfürsten nur knapp entkommen ist."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "tilee-estalie",
+   "orient"
+  ],
+  "lieux": [],
+  "factions": [
+   "humains-autres"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Les dates sont celles de sa vie, 1768 à 1831 CI.",
+   "en": "The dates are those of her life, 1768 to 1831 IC.",
+   "de": "Die Daten sind ihre Lebensdaten, 1768 bis 1831 IK."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Archives of the Empire III, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Archives of the Empire III, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Archives of the Empire III, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 41",
+     "en": "p. 41",
+     "de": "S. 41"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Grand Cathay",
+     "en": "Warhammer Fantasy Wiki (fandom), Grand Cathay page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Grand Cathay"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Grand_Cathay"
+   }
+  ]
+ },
+ {
+  "id": "marchands-cathayens-de-marienburg",
+  "annee": 1979,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Les marchands cathayens de Marienburg sous embargo",
+   "en": "The Cathayan merchants of Marienburg under embargo",
+   "de": "Die cathayischen Händler Marienburgs unter Embargo"
+  },
+  "resume": {
+   "fr": "L'élection de Magritta plonge l'Empire dans l'Anarchie. Les marchands de Cathay établis à Marienburg subissent dès lors des embargos sans cesse changeants de la part de leurs partenaires des autres provinces.",
+   "en": "Magritta's election plunges the Empire into the Anarchy. From then on the Cathayan merchants settled in Marienburg face constantly shifting embargoes from their partners in the other provinces.",
+   "de": "Magrittas Wahl stürzt das Imperium in die Anarchie. Die in Marienburg ansässigen Händler aus Cathay leiden fortan unter ständig wechselnden Embargos ihrer Partner aus den anderen Provinzen."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "empire",
+   "orient"
+  ],
+  "lieux": [
+   "marienburg"
+  ],
+  "factions": [
+   "humains-autres",
+   "empire"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": "Warhammer: The Old World, Arcane Journal: Breaching of the Great Bastion",
+    "detail": {
+     "fr": "p. 6-9",
+     "en": "pp. 6-9",
+     "de": "S. 6-9"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Grand Cathay",
+     "en": "Warhammer Fantasy Wiki (fandom), Grand Cathay page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Grand Cathay"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Grand_Cathay"
+   }
+  ]
+ },
+ {
+  "id": "markos-von-carstein-en-orient",
+  "annee": 2051,
+  "fin": null,
+  "approx": true,
+  "titre": {
+   "fr": "Markos von Carstein s'exile en Orient",
+   "en": "Markos von Carstein goes east",
+   "de": "Markos von Carstein zieht nach Osten"
+  },
+  "resume": {
+   "fr": "Après la défaite de Vlad von Carstein, le vampire Markos gagne Nippon et Cathay. Il y approfondit sa sorcellerie et apprend l'escrime nipponne.",
+   "en": "After the defeat of Vlad von Carstein, the Vampire Markos travels to Nippon and Cathay. There he deepens his sorcery and learns Nipponese swordsmanship.",
+   "de": "Nach der Niederlage Vlad von Carsteins reist der Vampir Markos nach Nippon und Cathay. Dort vertieft er seine Zauberei und erlernt die nipponische Schwertkunst."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "orient"
+  ],
+  "lieux": [
+   "cathay"
+  ],
+  "factions": [
+   "vampires",
+   "humains-autres"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Le wiki situe ce départ après la première guerre vampirique, sans année. L'année retenue est celle de la mort de Vlad à Altdorf d'après la chronologie générale.",
+   "en": "The wiki places this departure after the first Vampire War, with no year. The year used is that of Vlad's death at Altdorf according to the general timeline.",
+   "de": "Das Wiki setzt diese Abreise nach dem ersten Vampirkrieg an, ohne Jahr. Verwendet wird das Todesjahr Vlads in Altdorf laut der allgemeinen Zeitleiste."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "The End Times: The Return of Nagash, roman de Josh Reynolds, chap. 18",
+     "en": "The End Times: The Return of Nagash, novel by Josh Reynolds, ch. 18",
+     "de": "The End Times: The Return of Nagash, Roman von Josh Reynolds, Kap. 18"
+    },
+    "detail": "",
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Markos von Carstein",
+     "en": "Warhammer Fantasy Wiki (fandom), Markos von Carstein page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Markos von Carstein"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Markos_von_Carstein"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Nippon",
+     "en": "Warhammer Fantasy Wiki (fandom), Nippon page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Nippon"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Nippon"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Timeline of the Warhammer World",
+     "en": "Warhammer Fantasy Wiki (fandom), Timeline of the Warhammer World page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Timeline of the Warhammer World"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Timeline_of_the_Warhammer_World"
+   }
+  ]
+ },
+ {
+  "id": "lokhir-fellheart-temple-de-gilgadresh",
+  "annee": 2087,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Lokhir Fellheart pille le temple de Gilgadresh",
+   "en": "Lokhir Fellheart sacks the Temple of Gilgadresh",
+   "de": "Lokhir Fellheart plündert den Tempel von Gilgadresh"
+  },
+  "resume": {
+   "fr": "Le corsaire elfe noir Lokhir Fellheart massacre les prêtres de ce sanctuaire d'Ind et emporte une statue d'acier de sang. De retour à Naggaroth, il en fait forger les Lames Rouges.",
+   "en": "The Dark Elf corsair Lokhir Fellheart butchers the priests of this shrine in Ind and carries off a statue of bloodsteel. Back in Naggaroth, he has it forged into the Red Blades.",
+   "de": "Der dunkelelfische Korsar Lokhir Fellheart metzelt die Priester dieses Heiligtums in Ind nieder und raubt eine Statue aus Blutstahl. Zurück in Naggaroth lässt er daraus die Roten Klingen schmieden."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "orient",
+   "naggaroth"
+  ],
+  "lieux": [],
+  "factions": [
+   "elfes-noirs",
+   "humains-autres"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Dark Elves, 7e édition",
+     "en": "Warhammer Armies: Dark Elves, 7th edition",
+     "de": "Warhammer Armies: Dark Elves, 7. Edition"
+    },
+    "detail": {
+     "fr": "p. 33",
+     "en": "p. 33",
+     "de": "S. 33"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Kingdoms of Ind",
+     "en": "Warhammer Fantasy Wiki (fandom), Kingdoms of Ind page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Kingdoms of Ind"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Kingdoms_of_Ind"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Lokhir Fellheart",
+     "en": "Warhammer Fantasy Wiki (fandom), Lokhir Fellheart page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Lokhir Fellheart"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Lokhir_Fellheart"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Dark Elf Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Dark Elf Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Dark Elf Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Dark_Elf_Timeline"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Gilgadresh",
+     "en": "Warhammer Fantasy Wiki (fandom), Gilgadresh page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Gilgadresh"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Gilgadresh"
+   }
+  ]
+ },
+ {
+  "id": "paysans-contre-maraudeurs-2115",
+  "annee": 2115,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Des paysans de Cathay arrêtent des maraudeurs",
+   "en": "Cathayan peasants stop a band of marauders",
+   "de": "Bauern aus Cathay stoppen Marodeure"
+  },
+  "resume": {
+   "fr": "Une petite troupe de maraudeurs du Chaos se glisse par un tronçon mal gardé du Grand Bastion. Elle est aussitôt anéantie par des paysans qui s'exerçaient à l'arc et à la lance à l'entrée de leur village.",
+   "en": "A small band of Chaos Marauders slips through a lightly held stretch of the Great Bastion. It is promptly wiped out by peasants drilling with bow and spear at the edge of their village.",
+   "de": "Eine kleine Schar Chaosmarodeure schleicht durch einen schwach besetzten Abschnitt der Großen Bastion. Sie wird sofort von Bauern aufgerieben, die am Dorfrand mit Bogen und Speer üben."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "orient"
+  ],
+  "lieux": [
+   "grand-bastion"
+  ],
+  "factions": [
+   "humains-autres",
+   "chaos"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": "Warhammer: The Old World, Arcane Journal: Breaching of the Great Bastion",
+    "detail": {
+     "fr": "p. 2-4",
+     "en": "pp. 2-4",
+     "de": "S. 2-4"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Grand Cathay",
+     "en": "Warhammer Fantasy Wiki (fandom), Grand Cathay page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Grand Cathay"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Grand_Cathay"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Great Bastion",
+     "en": "Warhammer Fantasy Wiki (fandom), Great Bastion page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Great Bastion"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Great_Bastion"
+   }
+  ]
+ },
+ {
+  "id": "clippers-de-finubar-en-orient",
+  "annee": 2163,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Les clippers de Finubar à Nippon et Cathay",
+   "en": "Finubar's clippers in Nippon and Cathay",
+   "de": "Finubars Klipper in Nippon und Cathay"
+  },
+  "resume": {
+   "fr": "Devenu Roi Phénix, Finubar lance une politique de commerce et d'exploration. Les clippers elfes poussent jusqu'à Nippon et Cathay en quête de marchés, et les richesses affluent à Lothern.",
+   "en": "Once Phoenix King, Finubar launches a policy of trade and exploration. Elf clippers sail as far as Nippon and Cathay in search of markets, and riches pour into Lothern.",
+   "de": "Als Phönixkönig leitet Finubar eine Politik des Handels und der Erkundung ein. Elfische Klipper segeln auf der Suche nach Märkten bis Nippon und Cathay, und Reichtümer strömen nach Lothern."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "ulthuan",
+   "orient"
+  ],
+  "lieux": [
+   "lothern",
+   "cathay"
+  ],
+  "factions": [
+   "hauts-elfes",
+   "humains-autres"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: High Elves, 5e édition",
+     "en": "Warhammer Armies: High Elves, 5th edition",
+     "de": "Warhammer Armies: High Elves, 5. Edition"
+    },
+    "detail": {
+     "fr": "p. 28",
+     "en": "p. 28",
+     "de": "S. 28"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Grand Cathay",
+     "en": "Warhammer Fantasy Wiki (fandom), Grand Cathay page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Grand Cathay"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Grand_Cathay"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Nippon",
+     "en": "Warhammer Fantasy Wiki (fandom), Nippon page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Nippon"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Nippon"
+   }
+  ]
+ },
+ {
+  "id": "roi-singe-profite-de-la-discorde",
+  "annee": 2163,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Le Roi Singe prétend au trône de Cathay",
+   "en": "The Monkey King reaches for the throne of Cathay",
+   "de": "Der Affenkönig greift nach dem Thron Cathays"
+  },
+  "resume": {
+   "fr": "Sans l'Empereur Dragon pour le tenir en respect, le Roi Singe saisit l'occasion de revendiquer le trône céleste. Des décennies durant, il déjoue des Dragons incapables de s'unir et aggrave le désordre du temps des Ténèbres et de la Discorde.",
+   "en": "With no Dragon Emperor to keep him in check, the Monkey King seizes the chance to claim the Celestial throne. For decades he outwits Dragons unable to unite, deepening the disorder of the Time of Darkness and Disharmony.",
+   "de": "Ohne den Drachenkaiser, der ihn in Schach hält, greift der Affenkönig nach dem Himmelsthron. Jahrzehntelang überlistet er die uneinigen Drachen und verschärft die Wirren der Zeit der Finsternis und Zwietracht."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "orient"
+  ],
+  "lieux": [
+   "cathay"
+  ],
+  "factions": [
+   "humains-autres"
+  ],
+  "importance": 1,
+  "fiabilite": "divergent",
+  "note": {
+   "fr": "L'Arcane Journal place cette tentative en 2163 CI, alors que Children of the Horned Rat date sa prise de pouvoir de 2377 CI (événement déjà présent).",
+   "en": "The Arcane Journal places this attempt in 2163 IC, while Children of the Horned Rat dates his seizure of power to 2377 IC (event already listed).",
+   "de": "Das Arcane Journal datiert diesen Versuch auf 2163 IK, während Children of the Horned Rat seine Machtergreifung auf 2377 IK legt (bereits erfasst)."
+  },
+  "sources": [
+   {
+    "titre": "Warhammer: The Old World, Arcane Journal: Breaching of the Great Bastion",
+    "detail": {
+     "fr": "p. 6-9",
+     "en": "pp. 6-9",
+     "de": "S. 6-9"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Grand Cathay",
+     "en": "Warhammer Fantasy Wiki (fandom), Grand Cathay page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Grand Cathay"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Grand_Cathay"
+   }
+  ]
+ },
+ {
+  "id": "chi-an-chi-attaque-le-nord-de-cathay",
+  "annee": 2300,
+  "fin": null,
+  "approx": true,
+  "titre": {
+   "fr": "Chi'an Chi frappe le nord de Cathay",
+   "en": "Chi'an Chi strikes northern Cathay",
+   "de": "Chi'an Chi schlägt in Nordcathay zu"
+  },
+  "resume": {
+   "fr": "En l'absence de l'Empereur Dragon, les forces de Tzeentch attaquent le nord de Cathay pendant que ses cultistes se déchaînent dans de nombreuses cités de l'intérieur.",
+   "en": "In the Dragon Emperor's absence, the forces of Tzeentch attack northern Cathay while his cultists run rampant in many cities of the interior.",
+   "de": "In Abwesenheit des Drachenkaisers greifen die Truppen Tzeentchs den Norden Cathays an, während seine Kultisten in vielen Städten des Inneren wüten."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "orient"
+  ],
+  "lieux": [
+   "cathay"
+  ],
+  "factions": [
+   "chaos",
+   "humains-autres"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Le wiki date ces faits des années 2300 CI, sans plus de précision.",
+   "en": "The wiki dates these events only to the 2300s IC.",
+   "de": "Das Wiki datiert diese Ereignisse nur auf die 2300er IK."
+  },
+  "sources": [
+   {
+    "titre": "Warhammer Community, Read the Official Background for Total War: Warhammer III's Most Deadly Units",
+    "detail": "",
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Grand Cathay",
+     "en": "Warhammer Fantasy Wiki (fandom), Grand Cathay page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Grand Cathay"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Grand_Cathay"
+   }
+  ]
+ },
+ {
+  "id": "seigneurs-de-guerre-contre-le-mandat-du-ciel",
+  "annee": 2510,
+  "fin": null,
+  "approx": true,
+  "titre": {
+   "fr": "Les seigneurs de guerre se dressent contre l'Empereur Dragon",
+   "en": "The warlords rise against the Dragon Emperor",
+   "de": "Die Kriegsherren erheben sich gegen den Drachenkaiser"
+  },
+  "resume": {
+   "fr": "Des capitaines de navires hauts elfes rapportent dans le Vieux Monde qu'à Cathay, les seigneurs de guerre se sont révoltés contre le Mandat du Ciel et l'autorité de l'Empereur Dragon.",
+   "en": "High Elf ship captains bring word to the Old World that in Cathay the warlords have rebelled against the Mandate of Heaven and the rule of the Dragon Emperor.",
+   "de": "Hochelfische Schiffskapitäne berichten in der Alten Welt, dass sich in Cathay die Kriegsherren gegen das Mandat des Himmels und die Herrschaft des Drachenkaisers erhoben haben."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "orient"
+  ],
+  "lieux": [
+   "cathay"
+  ],
+  "factions": [
+   "humains-autres",
+   "hauts-elfes"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Gotrek et Felix: Giantslayer, roman de William King, prologue",
+     "en": "Gotrek and Felix: Giantslayer, novel by William King, prologue",
+     "de": "Gotrek und Felix: Giantslayer, Roman von William King, Prolog"
+    },
+    "detail": "",
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Grand Cathay",
+     "en": "Warhammer Fantasy Wiki (fandom), Grand Cathay page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Grand Cathay"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Grand_Cathay"
+   }
+  ]
+ },
+ {
+  "id": "archaon-a-tor-elithis",
+  "annee": 2518,
+  "fin": 2528,
+  "approx": true,
+  "titre": {
+   "fr": "Archaon assiège Tor Elithis",
+   "en": "Archaon besieges Tor Elithis",
+   "de": "Archaon belagert Tor Elithis"
+  },
+  "resume": {
+   "fr": "En quête de la Couronne de Domination, Archaon gagne les îles perdues d'Elithis et met le siège devant l'ancienne colonie haute elfe de Tor Elithis. Il découvre que la forteresse est depuis longtemps aux mains de démons des Désolations du Sud.",
+   "en": "Seeking the Crown of Domination, Archaon sails to the Lost Isles of Elithis and lays siege to the ancient High Elf colony of Tor Elithis. He finds that the fortress has long been held by daemons of the Southern Wastes.",
+   "de": "Auf der Suche nach der Krone der Herrschaft fährt Archaon zu den Verlorenen Inseln von Elithis und belagert die alte hochelfische Kolonie Tor Elithis. Er stellt fest, dass die Festung längst in der Hand von Dämonen der Südlichen Chaoswüste ist."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "orient"
+  ],
+  "lieux": [],
+  "factions": [
+   "chaos",
+   "hauts-elfes"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Le wiki classe ces faits dans sa section 2518 à 2528 CI sans année précise.",
+   "en": "The wiki files these events under its 2518 to 2528 IC section with no exact year.",
+   "de": "Das Wiki führt diese Ereignisse im Abschnitt 2518 bis 2528 IK ohne genaues Jahr."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Kingdoms of Ind",
+     "en": "Warhammer Fantasy Wiki (fandom), Kingdoms of Ind page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Kingdoms of Ind"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Kingdoms_of_Ind"
+   }
+  ]
+ },
+ {
+  "id": "armada-de-cathay-contre-archaon",
+  "annee": 2518,
+  "fin": 2528,
+  "approx": true,
+  "titre": {
+   "fr": "L'armada de Cathay intercepte Archaon",
+   "en": "The armada of Cathay intercepts Archaon",
+   "de": "Die Armada Cathays fängt Archaon ab"
+  },
+  "resume": {
+   "fr": "Informé de la destruction des royaumes côtiers d'Ind, l'Empereur Dragon lance une immense armada céleste contre la flotte d'Archaon, loin de ses rivages. La bataille dure des jours sur la mer Lointaine et les navires-tortues enfoncent les formations du Chaos. Un changement de vent sépare les adversaires et Archaon ne retrouve jamais cette flotte.",
+   "en": "Told of the destruction of the coastal kingdoms of Ind, the Dragon Emperor sends a vast celestial armada against Archaon's fleet, far from his shores. The battle rages for days on the Far Sea and the turtleships smash through the Chaos formations. A shift in the wind parts the two sides, and Archaon never finds that fleet again.",
+   "de": "Als der Drachenkaiser von der Zerstörung der Küstenreiche Inds erfährt, schickt er eine gewaltige himmlische Armada gegen Archaons Flotte, fern seiner Gestade. Die Schlacht tobt tagelang auf dem Fernen Meer, und die Schildkrötenschiffe durchbrechen die Reihen des Chaos. Ein Windwechsel trennt die Gegner, und Archaon findet diese Flotte nie wieder."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "orient"
+  ],
+  "lieux": [],
+  "factions": [
+   "humains-autres",
+   "chaos"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Le wiki classe ces faits dans sa section 2518 à 2528 CI sans année précise. Sa note de bas de page renvoie à un ouvrage sans rapport, aucun livre n'est donc cité ici.",
+   "en": "The wiki files these events under its 2518 to 2528 IC section with no exact year. Its footnote points to an unrelated book, so none is cited here.",
+   "de": "Das Wiki führt diese Ereignisse im Abschnitt 2518 bis 2528 IK ohne genaues Jahr. Seine Fußnote verweist auf ein unpassendes Buch, daher wird hier keines genannt."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Kingdoms of Ind",
+     "en": "Warhammer Fantasy Wiki (fandom), Kingdoms of Ind page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Kingdoms of Ind"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Kingdoms_of_Ind"
+   }
+  ]
+ },
+ {
+  "id": "arbaal-et-dechala-en-ind",
+  "annee": 2519,
+  "fin": 2528,
+  "approx": true,
+  "titre": {
+   "fr": "Arbaal et Dechala dévastent Ind",
+   "en": "Arbaal and Dechala lay waste to Ind",
+   "de": "Arbaal und Dechala verwüsten Ind"
+  },
+  "resume": {
+   "fr": "Pendant la Fin des Temps, Arbaal l'Invaincu, champion de Khorne et lieutenant d'Archaon, ravage Ind à la tête de ses légions démoniaques. Sa rivale slaaneshi Dechala la Reniée s'en prend à la même région et offre les âmes de ses victimes à son dieu.",
+   "en": "During the End Times, Arbaal the Undefeated, Champion of Khorne and lieutenant of Archaon, ravages Ind with his daemonic legions. His Slaaneshi rival Dechala the Denied One targets the same region and offers her victims' souls to her god.",
+   "de": "Während der Endzeit verwüstet Arbaal der Unbesiegte, Champion Khornes und Gefolgsmann Archaons, mit seinen Dämonenlegionen Ind. Seine slaaneshitische Rivalin Dechala die Verleugnete sucht dieselbe Region heim und opfert die Seelen ihrer Opfer ihrem Gott."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "orient"
+  ],
+  "lieux": [],
+  "factions": [
+   "chaos",
+   "humains-autres"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "The End Times: The Lord of the End Times, roman de Josh Reynolds (2015), chap. 16",
+     "en": "The End Times: The Lord of the End Times, novel by Josh Reynolds (2015), ch. 16",
+     "de": "The End Times: The Lord of the End Times, Roman von Josh Reynolds (2015), Kap. 16"
+    },
+    "detail": "",
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Kingdoms of Ind",
+     "en": "Warhammer Fantasy Wiki (fandom), Kingdoms of Ind page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Kingdoms of Ind"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Kingdoms_of_Ind"
+   }
+  ]
+ },
+ {
+  "id": "settra-reveille-les-rois-des-tombes",
+  "annee": 2519,
+  "fin": 2522,
+  "approx": true,
+  "titre": {
+   "fr": "Settra réveille tous les Rois des tombes",
+   "en": "Settra rouses all the Tomb Kings",
+   "de": "Settra weckt alle Gruftkönige"
+  },
+  "resume": {
+   "fr": "Au début de la Fin des Temps, Settra de Khemri ordonne de tirer de leur sommeil tous les Rois des tombes survivants et leurs légions. Les armées réunies se préparent à défendre l'antique Nehekhara.",
+   "en": "At the outset of the End Times, Settra of Khemri orders all surviving Tomb Kings and their legions roused from their slumber. The assembled armies make ready to defend ancient Nehekhara.",
+   "de": "Zu Beginn der Endzeit befiehlt Settra von Khemri, alle überlebenden Gruftkönige und ihre Legionen aus dem Schlaf zu wecken. Die versammelten Heere rüsten sich zur Verteidigung des alten Nehekhara."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "sud"
+  ],
+  "lieux": [
+   "khemri",
+   "nehekhara"
+  ],
+  "factions": [
+   "rois-des-tombes"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "White Dwarf Weekly 50 (10 janvier 2015)",
+     "en": "White Dwarf Weekly 50 (10 January 2015)",
+     "de": "White Dwarf Weekly 50 (10. Januar 2015)"
+    },
+    "detail": "The Chronicle of the End Times",
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page End Times Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), End Times Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite End Times Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/End_Times_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "valkia-envahit-naggaroth",
+  "annee": 2519,
+  "fin": 2522,
+  "approx": true,
+  "titre": {
+   "fr": "Valkia la Sanglante envahit Naggaroth",
+   "en": "Valkia the Bloody invades Naggaroth",
+   "de": "Valkia die Blutige fällt in Naggaroth ein"
+  },
+  "resume": {
+   "fr": "Alors que les tempêtes du Chaos s'intensifient et que les démons déferlent vers le sud, une horde menée par Valkia la Sanglante envahit Naggaroth.",
+   "en": "As the storms of Chaos intensify and daemons flood southwards, a horde led by Valkia the Bloody invades Naggaroth.",
+   "de": "Während die Chaosstürme zunehmen und Dämonen nach Süden strömen, fällt eine von Valkia der Blutigen geführte Horde in Naggaroth ein."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "naggaroth"
+  ],
+  "lieux": [
+   "naggaroth"
+  ],
+  "factions": [
+   "chaos",
+   "elfes-noirs"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "White Dwarf Weekly 50 (10 janvier 2015)",
+     "en": "White Dwarf Weekly 50 (10 January 2015)",
+     "de": "White Dwarf Weekly 50 (10. Januar 2015)"
+    },
+    "detail": "The Chronicle of the End Times",
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page End Times Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), End Times Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite End Times Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/End_Times_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "malekith-abandonne-naggaroth",
+  "annee": 2523,
+  "fin": 2524,
+  "approx": true,
+  "titre": {
+   "fr": "Malekith abandonne Naggaroth",
+   "en": "Malekith abandons Naggaroth",
+   "de": "Malekith gibt Naggaroth auf"
+  },
+  "resume": {
+   "fr": "Les armées du Chaos venues du nord finissent par submerger les Elfes noirs. Malekith et le Conseil noir se résolvent à quitter Naggaroth et font voile vers Ulthuan.",
+   "en": "The armies of Chaos from the north finally overwhelm the Dark Elves. Malekith and the Black Council resolve to leave Naggaroth and sail for Ulthuan.",
+   "de": "Die Chaosheere aus dem Norden überrennen schließlich die Dunkelelfen. Malekith und der Schwarze Rat beschließen, Naggaroth zu verlassen, und segeln nach Ulthuan."
+  },
+  "ere": "fin-des-temps",
+  "regions": [
+   "naggaroth",
+   "ulthuan"
+  ],
+  "lieux": [
+   "naggaroth"
+  ],
+  "factions": [
+   "elfes-noirs",
+   "chaos"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "White Dwarf Weekly 50 (10 janvier 2015)",
+     "en": "White Dwarf Weekly 50 (10 January 2015)",
+     "de": "White Dwarf Weekly 50 (10. Januar 2015)"
+    },
+    "detail": "The Chronicle of the End Times",
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page End Times Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), End Times Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite End Times Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/End_Times_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "meteores-sur-la-lustrie",
+  "annee": 2523,
+  "fin": 2525,
+  "approx": true,
+  "titre": {
+   "fr": "Météores de malepierre sur la Lustrie",
+   "en": "Warpstone meteors over Lustria",
+   "de": "Warpsteinmeteore über Lustria"
+  },
+  "resume": {
+   "fr": "Des météores de malepierre fondent sur la Lustrie et les Slanns sombrent dans l'inconscience à force de contenir la catastrophe, tandis que le clan Pestilens attaque. À leur réveil, ils trouvent bien des cités en ruine, mais le grand soulèvement skaven a été repoussé, du moins pour un temps.",
+   "en": "Warpstone meteors plunge towards Lustria and the Slann fall senseless from their efforts to contain the disaster, just as Clan Pestilens attacks. When they awake, many of their cities lie in ruins, but the great Skaven uprising has been thrown back, for the time being.",
+   "de": "Warpsteinmeteore stürzen auf Lustria zu, und die Slann verlieren bei dem Versuch, die Katastrophe einzudämmen, das Bewusstsein, während der Klan Pestilens angreift. Als sie erwachen, liegen viele ihrer Städte in Trümmern, doch der große Skavenaufstand ist vorerst zurückgeschlagen."
+  },
+  "ere": "fin-des-temps",
+  "regions": [
+   "lustrie"
+  ],
+  "lieux": [
+   "lustrie"
+  ],
+  "factions": [
+   "hommes-lezards",
+   "skavens"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "White Dwarf Weekly 50 (10 janvier 2015)",
+     "en": "White Dwarf Weekly 50 (10 January 2015)",
+     "de": "White Dwarf Weekly 50 (10. Januar 2015)"
+    },
+    "detail": "The Chronicle of the End Times",
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page End Times Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), End Times Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite End Times Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/End_Times_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "bataille-de-reaver-s-mark",
+  "annee": 2524,
+  "fin": 2525,
+  "approx": true,
+  "titre": {
+   "fr": "Tyrion tue le démon Tz'arkan à Reaver's Mark",
+   "en": "Tyrion slays the Daemon Tz'arkan at Reaver's Mark",
+   "de": "Tyrion tötet den Dämon Tz'arkan bei Reaver's Mark"
+  },
+  "resume": {
+   "fr": "Lors de la guerre pour Ulthuan, Tyrion abat le démon Tz'arkan à la bataille de Reaver's Mark et met les Elfes noirs en déroute.",
+   "en": "During the war for Ulthuan, Tyrion kills the Daemon Tz'arkan at the Battle of Reaver's Mark and routs the Dark Elves.",
+   "de": "Im Krieg um Ulthuan tötet Tyrion in der Schlacht von Reaver's Mark den Dämon Tz'arkan und schlägt die Dunkelelfen in die Flucht."
+  },
+  "ere": "fin-des-temps",
+  "regions": [
+   "ulthuan"
+  ],
+  "lieux": [
+   "ulthuan"
+  ],
+  "factions": [
+   "hauts-elfes",
+   "elfes-noirs",
+   "chaos"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "White Dwarf Weekly 50 (10 janvier 2015)",
+     "en": "White Dwarf Weekly 50 (10 January 2015)",
+     "de": "White Dwarf Weekly 50 (10. Januar 2015)"
+    },
+    "detail": "The Chronicle of the End Times",
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page End Times Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), End Times Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite End Times Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/End_Times_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "defense-d-alderfen",
+  "annee": 2524,
+  "fin": 2525,
+  "approx": true,
+  "titre": {
+   "fr": "La défense d'Alderfen",
+   "en": "The defence of Alderfen",
+   "de": "Die Verteidigung von Alderfen"
+  },
+  "resume": {
+   "fr": "Le Bastion aurique cède près du village d'Alderfen, en Ostermark. Valten mène la résistance contre la Horde pourrissante et tue le champion de Nurgle Festak Krann, mais les défenseurs ne doivent leur salut qu'à l'arrivée de Vlad von Carstein, allié inattendu de l'Empire.",
+   "en": "The Auric Bastion gives way near the village of Alderfen, in Ostermark. Valten leads the resistance against the Rotting Horde and slays the Champion of Nurgle Festak Krann, but the defenders are saved only by the arrival of Vlad von Carstein, the Empire's unexpected ally.",
+   "de": "Die Aurische Bastion gibt nahe dem Dorf Alderfen im Ostermark nach. Valten führt den Widerstand gegen die Verrottende Horde und tötet den Nurgle-Champion Festak Krann, doch die Verteidiger rettet erst das Eintreffen Vlad von Carsteins, eines unerwarteten Verbündeten des Imperiums."
+  },
+  "ere": "fin-des-temps",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [],
+  "factions": [
+   "empire",
+   "chaos",
+   "vampires"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "White Dwarf Weekly 50 (10 janvier 2015)",
+     "en": "White Dwarf Weekly 50 (10 January 2015)",
+     "de": "White Dwarf Weekly 50 (10. Januar 2015)"
+    },
+    "detail": "The Chronicle of the End Times",
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page End Times Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), End Times Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite End Times Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/End_Times_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "bataille-de-la-grande-vallee",
+  "annee": 2525,
+  "fin": null,
+  "approx": true,
+  "titre": {
+   "fr": "Queek contre Skarsnik dans la Grande Vallée",
+   "en": "Queek against Skarsnik in the Great Vale",
+   "de": "Queek gegen Skarsnik im Großen Tal"
+  },
+  "resume": {
+   "fr": "Queek Headtaker lance une immense horde skaven contre les Peaux-vertes rassemblés par Skarsnik dans la Grande Vallée, au sommet de Karak Huit Pics.",
+   "en": "Queek Headtaker leads a vast Skaven horde against the Greenskins gathered by Skarsnik in the Great Vale atop Karak Eight Peaks.",
+   "de": "Queek Headtaker führt eine gewaltige Skavenhorde gegen die von Skarsnik versammelten Grünhäute im Großen Tal auf Karak Acht Gipfel."
+  },
+  "ere": "fin-des-temps",
+  "regions": [
+   "montagnes"
+  ],
+  "lieux": [
+   "karak-huit-pics"
+  ],
+  "factions": [
+   "skavens",
+   "peaux-vertes"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "White Dwarf Weekly 50 (10 janvier 2015)",
+     "en": "White Dwarf Weekly 50 (10 January 2015)",
+     "de": "White Dwarf Weekly 50 (10. Januar 2015)"
+    },
+    "detail": "The Chronicle of the End Times",
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page End Times Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), End Times Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite End Times Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/End_Times_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "bataille-de-lahmia-2525",
+  "annee": 2525,
+  "fin": null,
+  "approx": true,
+  "titre": {
+   "fr": "Khalida et Tharruk marchent sur Lahmia",
+   "en": "Khalida and Tharruk march on Lahmia",
+   "de": "Khalida und Tharruk marschieren auf Lahmia"
+  },
+  "resume": {
+   "fr": "Apprenant que Neferata est revenue dans la nécropole de Lahmia, la Grande Reine Khalida de Lybaras et le Grand Roi Tharruk de Mahrak marchent contre leur vieille ennemie à la tête de leurs armées.",
+   "en": "Learning that Neferata has returned to the necropolis of Lahmia, High Queen Khalida of Lybaras and High King Tharruk of Mahrak march against their old foe at the head of their armies.",
+   "de": "Als sie erfahren, dass Neferata in die Nekropole Lahmia zurückgekehrt ist, ziehen Hochkönigin Khalida von Lybaras und Hochkönig Tharruk von Mahrak mit ihren Heeren gegen ihre alte Feindin."
+  },
+  "ere": "fin-des-temps",
+  "regions": [
+   "sud"
+  ],
+  "lieux": [
+   "lahmia",
+   "lybaras",
+   "mahrak"
+  ],
+  "factions": [
+   "rois-des-tombes",
+   "vampires"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "White Dwarf Weekly 50 (10 janvier 2015)",
+     "en": "White Dwarf Weekly 50 (10 January 2015)",
+     "de": "White Dwarf Weekly 50 (10. Januar 2015)"
+    },
+    "detail": "The Chronicle of the End Times",
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page End Times Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), End Times Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite End Times Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/End_Times_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "bataille-du-delta-du-mortis",
+  "annee": 2525,
+  "fin": null,
+  "approx": true,
+  "titre": {
+   "fr": "Bataille du delta du Mortis",
+   "en": "Battle of the Mortis Delta",
+   "de": "Schlacht am Mortis-Delta"
+  },
+  "resume": {
+   "fr": "Arrivé de Lustrie, Luthor Harkon défait la flotte du roi Kalhazzar, puis s'enfonce vers l'est dans la Terre des Morts.",
+   "en": "Arriving from Lustria, Luthor Harkon defeats King Kalhazzar's fleet, then presses eastwards into the Land of the Dead.",
+   "de": "Aus Lustria kommend besiegt Luthor Harkon die Flotte König Kalhazzars und dringt dann nach Osten ins Land der Toten vor."
+  },
+  "ere": "fin-des-temps",
+  "regions": [
+   "sud"
+  ],
+  "lieux": [
+   "nehekhara"
+  ],
+  "factions": [
+   "vampires",
+   "rois-des-tombes"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "White Dwarf Weekly 50 (10 janvier 2015)",
+     "en": "White Dwarf Weekly 50 (10 January 2015)",
+     "de": "White Dwarf Weekly 50 (10. Januar 2015)"
+    },
+    "detail": "The Chronicle of the End Times",
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page End Times Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), End Times Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite End Times Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/End_Times_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "chute-de-karak-azul",
+  "annee": 2525,
+  "fin": null,
+  "approx": true,
+  "titre": {
+   "fr": "Chute de Karak Azul",
+   "en": "Fall of Karak Azul",
+   "de": "Fall von Karak Azul"
+  },
+  "resume": {
+   "fr": "Privée de ses plus grands héros, Karak Azul tombe finalement aux mains des Skavens.",
+   "en": "Bereft of its greatest heroes, Karak Azul finally falls to the Skaven.",
+   "de": "Ihrer größten Helden beraubt, fällt Karak Azul schließlich an die Skaven."
+  },
+  "ere": "fin-des-temps",
+  "regions": [
+   "montagnes"
+  ],
+  "lieux": [
+   "karak-azul"
+  ],
+  "factions": [
+   "nains",
+   "skavens"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "White Dwarf Weekly 50 (10 janvier 2015)",
+     "en": "White Dwarf Weekly 50 (10 January 2015)",
+     "de": "White Dwarf Weekly 50 (10. Januar 2015)"
+    },
+    "detail": "The Chronicle of the End Times",
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page End Times Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), End Times Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite End Times Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/End_Times_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "derniere-bataille-d-itza",
+  "annee": 2526,
+  "fin": 2527,
+  "approx": true,
+  "titre": {
+   "fr": "Dernière bataille d'Itza et Grand Exode des Slanns",
+   "en": "Last Battle of Itza and the Great Exodus of the Slann",
+   "de": "Letzte Schlacht von Itza und Großer Exodus der Slann"
+  },
+  "resume": {
+   "fr": "Les Skavens activent le Morskittar à Skavenblight et Itza, en Lustrie, est dévastée par des météores de malepierre. Les Slanns entament alors le Grand Exode.",
+   "en": "The Skaven activate the Morskittar engine in Skavenblight and Itza, in Lustria, is devastated by warpstone meteors. The Slann then begin the Great Exodus.",
+   "de": "Die Skaven setzen in Skavenblight den Morskittar in Gang, und Itza in Lustria wird von Warpsteinmeteoren verwüstet. Daraufhin beginnen die Slann den Großen Exodus."
+  },
+  "ere": "fin-des-temps",
+  "regions": [
+   "lustrie"
+  ],
+  "lieux": [
+   "itza",
+   "skavenblight"
+  ],
+  "factions": [
+   "hommes-lezards",
+   "skavens"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "White Dwarf Weekly 50 (10 janvier 2015)",
+     "en": "White Dwarf Weekly 50 (10 January 2015)",
+     "de": "White Dwarf Weekly 50 (10. Januar 2015)"
+    },
+    "detail": "The Chronicle of the End Times",
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page End Times Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), End Times Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite End Times Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/End_Times_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "grimgor-brise-le-grand-bastion",
+  "annee": 2528,
+  "fin": null,
+  "approx": true,
+  "titre": {
+   "fr": "Grimgor brise le Grand Bastion et brûle les flottes de Nippon",
+   "en": "Grimgor cracks the Great Bastion and burns the fleets of Nippon",
+   "de": "Grimgor bricht die Große Bastion und verbrennt die Flotten Nippons"
+  },
+  "resume": {
+   "fr": "Après avoir brisé la tribu Necksnapper et le Hobgobla-Khan, la Waaagh! de Grimgor Ironhide ouvre une brèche dans le Grand Bastion de Cathay et incendie les flottes-dragons de Nippon. L'Extrême-Orient passe aux Peaux-vertes, avant que Grimgor ne reparte vers l'ouest et Middenheim.",
+   "en": "Having shattered the Necksnapper tribe and the Hobgobla-Khan, Grimgor Ironhide's Waaagh! breaches the Great Bastion of Cathay and burns the dragon-fleets of Nippon. The Far East falls to the Greenskins, before Grimgor turns back west towards Middenheim.",
+   "de": "Nachdem die Waaagh! Grimgor Ironhides den Necksnapper-Stamm und den Hobgobla-Khan zerschlagen hat, bricht sie die Große Bastion Cathays auf und verbrennt die Drachenflotten Nippons. Der Ferne Osten fällt an die Grünhäute, bevor Grimgor nach Westen in Richtung Middenheim zurückkehrt."
+  },
+  "ere": "fin-des-temps",
+  "regions": [
+   "orient"
+  ],
+  "lieux": [
+   "grand-bastion"
+  ],
+  "factions": [
+   "peaux-vertes",
+   "humains-autres"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Le wiki donne « vers 2528 CI » et situe ces conquêtes après la chute de Zharr-Naggrund et avant le retour de Grimgor à Middenheim.",
+   "en": "The wiki gives \"ca. 2528 IC\" and puts these conquests after the fall of Zharr-Naggrund and before Grimgor's return to Middenheim.",
+   "de": "Das Wiki nennt „ca. 2528 IK“ und setzt diese Eroberungen nach dem Fall von Zharr-Naggrund und vor Grimgors Rückkehr nach Middenheim an."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "The End Times: The Lord of the End Times, roman de Josh Reynolds (2015), chap. 15",
+     "en": "The End Times: The Lord of the End Times, novel by Josh Reynolds (2015), ch. 15",
+     "de": "The End Times: The Lord of the End Times, Roman von Josh Reynolds (2015), Kap. 15"
+    },
+    "detail": "",
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Nippon",
+     "en": "Warhammer Fantasy Wiki (fandom), Nippon page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Nippon"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Nippon"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Great Bastion",
+     "en": "Warhammer Fantasy Wiki (fandom), Great Bastion page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Great Bastion"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Great_Bastion"
+   }
+  ]
+ }
+]

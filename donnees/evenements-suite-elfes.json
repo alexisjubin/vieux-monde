@@ -1,0 +1,3508 @@
+[
+ {
+  "id": "cyanathair-renait-au-drakwald",
+  "annee": -699,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Cyanathair renaît au Drakwald",
+   "en": "Cyanathair reborn in the Drakwald",
+   "de": "Cyanathair wird im Drakwald wiedergeboren"
+  },
+  "resume": {
+   "fr": "Morghur, que les Elfes sylvains nomment Cyanathair, revient à la vie dans la forêt du Drakwald. Sa présence commence à en faire un lieu sombre et difforme.",
+   "en": "Morghur, whom the Wood Elves call Cyanathair, returns to life in the Drakwald Forest. His presence begins to turn it into a dark and twisted place.",
+   "de": "Morghur, von den Waldelfen Cyanathair genannt, kehrt im Drakwald ins Leben zurück. Seine Gegenwart macht den Wald allmählich zu einem finsteren, verzerrten Ort."
+  },
+  "ere": "age-des-tribus",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "foret-de-drakwald"
+  ],
+  "factions": [
+   "chaos",
+   "elfes-sylvains"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Date elfe sylvaine II, 396, convertie d'après les bornes des saisons données par le wiki.",
+   "en": "Wood Elf date II, 396, converted using the season boundaries given by the wiki.",
+   "de": "Datum nach der waldelfischen Zählung II, 396, umgerechnet anhand der vom Wiki angegebenen Jahreszeitengrenzen."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Wood Elves, 6e édition",
+     "en": "Warhammer Armies: Wood Elves, 6th edition",
+     "de": "Warhammer Armies: Wood Elves, 6. Edition"
+    },
+    "detail": {
+     "fr": "p. 16",
+     "en": "p. 16",
+     "de": "S. 16"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Wood Elf Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Wood Elf Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Wood Elf Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Wood_Elf_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "parentele-perdue-de-wythel",
+  "annee": -699,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "La Parentèle perdue quitte les clairières de Wythel",
+   "en": "The Lost Kindred leaves the Wythel Glades",
+   "de": "Die Verlorene Sippe verlässt die Wythel-Lichtungen"
+  },
+  "resume": {
+   "fr": "Les Elfes des clairières de Wythel abandonnent Athel Loren et franchissent les Montagnes Grises. Nul ne les revoit et la légende les nomme la Parentèle perdue.",
+   "en": "The Elves of the Wythel Glades abandon Athel Loren and cross the Grey Mountains. They are never seen again, and legend calls them the Lost Kindred.",
+   "de": "Die Elfen der Wythel-Lichtungen verlassen Athel Loren und überqueren die Grauen Berge. Niemand sieht sie wieder, und die Legende nennt sie die Verlorene Sippe."
+  },
+  "ere": "age-des-tribus",
+  "regions": [
+   "athel-loren",
+   "montagnes"
+  ],
+  "lieux": [
+   "athel-loren"
+  ],
+  "factions": [
+   "elfes-sylvains"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Date elfe sylvaine II, 396, convertie d'après les bornes des saisons données par le wiki.",
+   "en": "Wood Elf date II, 396, converted using the season boundaries given by the wiki.",
+   "de": "Datum nach der waldelfischen Zählung II, 396, umgerechnet anhand der vom Wiki angegebenen Jahreszeitengrenzen."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Wood Elves, 6e édition",
+     "en": "Warhammer Armies: Wood Elves, 6th edition",
+     "de": "Warhammer Armies: Wood Elves, 6. Edition"
+    },
+    "detail": {
+     "fr": "p. 16",
+     "en": "p. 16",
+     "de": "S. 16"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Wood Elf Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Wood Elf Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Wood Elf Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Wood_Elf_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "tour-du-bois-eternel",
+  "annee": -400,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Ranu élève la Tour du Bois éternel",
+   "en": "Ranu raises the Tower of the Eternal Wood",
+   "de": "Ranu errichtet den Turm des Ewigen Waldes"
+  },
+  "resume": {
+   "fr": "Le Tisseur de Charmes excentrique Ranu fait naître par magie la Tour du Bois éternel. Une fois entré, ses portes se scellent et ne s'ouvrent plus pour personne.",
+   "en": "The eccentric Spellweaver Ranu conjures the Tower of the Eternal Wood. Once he is inside, its doors seal themselves and open for no one else.",
+   "de": "Der exzentrische Zauberweber Ranu erschafft den Turm des Ewigen Waldes. Sobald er eingetreten ist, versiegeln sich die Tore und öffnen sich für niemanden mehr."
+  },
+  "ere": "age-des-tribus",
+  "regions": [
+   "athel-loren"
+  ],
+  "lieux": [
+   "athel-loren"
+  ],
+  "factions": [
+   "elfes-sylvains"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Date elfe sylvaine III, 225, convertie d'après les bornes des saisons données par le wiki.",
+   "en": "Wood Elf date III, 225, converted using the season boundaries given by the wiki.",
+   "de": "Datum nach der waldelfischen Zählung III, 225, umgerechnet anhand der vom Wiki angegebenen Jahreszeitengrenzen."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Wood Elves, 6e édition",
+     "en": "Warhammer Armies: Wood Elves, 6th edition",
+     "de": "Warhammer Armies: Wood Elves, 6. Edition"
+    },
+    "detail": {
+     "fr": "p. 16",
+     "en": "p. 16",
+     "de": "S. 16"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Wood Elf Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Wood Elf Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Wood Elf Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Wood_Elf_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "nains-de-retour-a-athel-loren",
+  "annee": -250,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Prospecteurs nains en Athel Loren",
+   "en": "Dwarf prospectors in Athel Loren",
+   "de": "Zwergische Prospektoren in Athel Loren"
+  },
+  "resume": {
+   "fr": "Marchands et chercheurs de trésors nains reviennent dans l'ouest du Vieux Monde et certains pénètrent dans Athel Loren. Les rancunes de la Guerre de la Barbe se rallument et tournent à de rudes combats contre les Elfes sylvains.",
+   "en": "Dwarf traders and treasure hunters return to the western Old World, and some enter Athel Loren. Grudges from the War of the Beard flare up again and lead to harsh fighting with the Wood Elves.",
+   "de": "Zwergische Händler und Schatzsucher kehren in den Westen der Alten Welt zurück, und manche betreten Athel Loren. Der Groll aus dem Krieg des Bartes flammt wieder auf und führt zu harten Kämpfen mit den Waldelfen."
+  },
+  "ere": "age-des-tribus",
+  "regions": [
+   "athel-loren"
+  ],
+  "lieux": [
+   "athel-loren"
+  ],
+  "factions": [
+   "elfes-sylvains",
+   "nains"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Date elfe sylvaine III, 375, convertie d'après les bornes des saisons données par le wiki.",
+   "en": "Wood Elf date III, 375, converted using the season boundaries given by the wiki.",
+   "de": "Datum nach der waldelfischen Zählung III, 375, umgerechnet anhand der vom Wiki angegebenen Jahreszeitengrenzen."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Wood Elves, 6e édition",
+     "en": "Warhammer Armies: Wood Elves, 6th edition",
+     "de": "Warhammer Armies: Wood Elves, 6. Edition"
+    },
+    "detail": {
+     "fr": "p. 17",
+     "en": "p. 17",
+     "de": "S. 17"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Wood Elf Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Wood Elf Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Wood Elf Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Wood_Elf_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "seigneurs-bretonni-en-athel-loren",
+  "annee": 700,
+  "fin": 900,
+  "approx": true,
+  "titre": {
+   "fr": "Les seigneurs bretonni se perdent en Athel Loren",
+   "en": "Bretonni warlords lost in Athel Loren",
+   "de": "Bretonni-Kriegsherren verirren sich in Athel Loren"
+  },
+  "resume": {
+   "fr": "Durant deux siècles, des chefs bretonni entrent dans la forêt pour s'y tailler des domaines. Les uns disparaissent avec toute leur suite, les autres s'enfuient terrifiés, et plus aucun Bretonni n'ose y venir en armes.",
+   "en": "For two centuries, Bretonni chiefs enter the forest to carve out domains. Some vanish with their whole retinue, others flee in terror, and no Bretonni dares come there in arms again.",
+   "de": "Zwei Jahrhunderte lang dringen Bretonni-Fürsten in den Wald ein, um sich Herrschaften zu erobern. Manche verschwinden samt Gefolge, andere fliehen voller Schrecken, und kein Bretonni wagt sich mehr bewaffnet dorthin."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "athel-loren",
+   "bretonnie"
+  ],
+  "lieux": [
+   "athel-loren"
+  ],
+  "factions": [
+   "elfes-sylvains",
+   "bretonnie"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Date elfe sylvaine III, 1325 à 1525, convertie d'après les bornes des saisons données par le wiki.",
+   "en": "Wood Elf date III, 1325 à 1525, converted using the season boundaries given by the wiki.",
+   "de": "Datum nach der waldelfischen Zählung III, 1325 à 1525, umgerechnet anhand der vom Wiki angegebenen Jahreszeitengrenzen."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Wood Elf Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Wood Elf Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Wood Elf Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Wood_Elf_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "autel-des-tenebres-ultimes",
+  "annee": 800,
+  "fin": 820,
+  "approx": true,
+  "titre": {
+   "fr": "L'Autel des Ténèbres ultimes",
+   "en": "Altar of Ultimate Darkness",
+   "de": "Altar der Letzten Finsternis"
+  },
+  "resume": {
+   "fr": "Le démon Tz'arkan s'empare de l'Autel des Ténèbres, au nord de Naggaroth, et s'en sert pour ouvrir un pont entre le Royaume du Chaos et le glacier Ironfrost. Il faut près de vingt ans de guerre aux Sorcières elfes noires et à leurs monstres asservis pour reprendre l'Autel et faire cesser la tempête.",
+   "en": "The Daemon Tz'arkan seizes the Altar of Darkness in northern Naggaroth and uses it to open a bridge between the Realm of Chaos and the Ironfrost Glacier. It takes nearly two decades of war for the Dark Elf Sorceresses and their bound monsters to retake the Altar and end the storm.",
+   "de": "Der Dämon Tz'arkan erobert den Altar der Finsternis im Norden Naggaroths und schlägt damit eine Brücke zwischen dem Reich des Chaos und dem Eisfrost-Gletscher. Die dunkelelfischen Zauberinnen und ihre gebundenen Ungeheuer brauchen fast zwei Jahrzehnte Krieg, um den Altar zurückzuerobern und den Sturm zu beenden."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "naggaroth"
+  ],
+  "lieux": [],
+  "factions": [
+   "elfes-noirs",
+   "chaos"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Storm of Magic, 8e édition",
+     "en": "Storm of Magic, 8th edition",
+     "de": "Storm of Magic, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 21",
+     "en": "p. 21",
+     "de": "S. 21"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Times of Great Magic",
+     "en": "Warhammer Fantasy Wiki (fandom), Times of Great Magic page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Times of Great Magic"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Times_of_Great_Magic"
+   }
+  ]
+ },
+ {
+  "id": "drycha-rejoint-coeddil",
+  "annee": 1049,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Drycha rejoint Cœddil",
+   "en": "Drycha joins Coeddil",
+   "de": "Drycha sucht Cœddil auf"
+  },
+  "resume": {
+   "fr": "La dryade Drycha sort des limites du Wildwood pour retrouver Cœddil, l'Homme-arbre banni. Ils restent ensemble plusieurs mois.",
+   "en": "The Branchwraith Drycha passes beyond the bounds of the Wildwood to meet Coeddil, the banished Treeman. The two remain there together for several months.",
+   "de": "Die Astnymphe Drycha überschreitet die Grenzen des Wildwood und trifft den verbannten Baummenschen Cœddil. Beide bleiben dort mehrere Monate zusammen."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "athel-loren"
+  ],
+  "lieux": [
+   "athel-loren"
+  ],
+  "factions": [
+   "elfes-sylvains"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Date elfe sylvaine III, 1674, convertie d'après les bornes des saisons données par le wiki.",
+   "en": "Wood Elf date III, 1674, converted using the season boundaries given by the wiki.",
+   "de": "Datum nach der waldelfischen Zählung III, 1674, umgerechnet anhand der vom Wiki angegebenen Jahreszeitengrenzen."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Wood Elves, 6e édition",
+     "en": "Warhammer Armies: Wood Elves, 6th edition",
+     "de": "Warhammer Armies: Wood Elves, 6. Edition"
+    },
+    "detail": {
+     "fr": "p. 17",
+     "en": "p. 17",
+     "de": "S. 17"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Wood Elf Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Wood Elf Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Wood Elf Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Wood_Elf_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "cirienvel-cryptes-de-l-hiver",
+  "annee": 1203,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Cirienvel aux Cryptes de l'Hiver",
+   "en": "Cirienvel in the Vaults of Winter",
+   "de": "Cirienvel in den Winterkammern"
+  },
+  "resume": {
+   "fr": "La Danselame Cirienvel s'enfonce au plus profond des Cryptes de l'Hiver. Elle y vainc le gardien des cavernes et en rapporte de nombreux artefacts elfiques perdus.",
+   "en": "The Wardancer Cirienvel travels deep into the Vaults of Winter. She defeats the guardian of the caves and brings back many lost Elven artefacts.",
+   "de": "Die Kriegstänzerin Cirienvel dringt tief in die Winterkammern vor. Sie besiegt den Wächter der Höhlen und bringt viele verlorene elfische Artefakte zurück."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "athel-loren"
+  ],
+  "lieux": [],
+  "factions": [
+   "elfes-sylvains"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Date elfe sylvaine IV, 87, convertie d'après les bornes des saisons données par le wiki.",
+   "en": "Wood Elf date IV, 87, converted using the season boundaries given by the wiki.",
+   "de": "Datum nach der waldelfischen Zählung IV, 87, umgerechnet anhand der vom Wiki angegebenen Jahreszeitengrenzen."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Wood Elves, 6e édition",
+     "en": "Warhammer Armies: Wood Elves, 6th edition",
+     "de": "Warhammer Armies: Wood Elves, 6. Edition"
+    },
+    "detail": {
+     "fr": "p. 17",
+     "en": "p. 17",
+     "de": "S. 17"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Wood Elf Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Wood Elf Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Wood Elf Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Wood_Elf_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "tour-du-bois-eternel-ouverte",
+  "annee": 1400,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "La Tour du Bois éternel se rouvre",
+   "en": "The Tower of the Eternal Wood reopens",
+   "de": "Der Turm des Ewigen Waldes öffnet sich"
+  },
+  "resume": {
+   "fr": "Les portes scellées de la tour de Ranu s'ouvrent enfin. L'édifice est entièrement vide et l'on ne retrouve aucune trace du Tisseur de Charmes.",
+   "en": "The sealed doors of Ranu's tower finally open. The building is completely empty, and no trace of the Spellweaver is found.",
+   "de": "Die versiegelten Tore von Ranus Turm öffnen sich endlich. Das Bauwerk ist völlig leer, und vom Zauberweber fehlt jede Spur."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "athel-loren"
+  ],
+  "lieux": [
+   "athel-loren"
+  ],
+  "factions": [
+   "elfes-sylvains"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Date elfe sylvaine IV, 284, convertie d'après les bornes des saisons données par le wiki.",
+   "en": "Wood Elf date IV, 284, converted using the season boundaries given by the wiki.",
+   "de": "Datum nach der waldelfischen Zählung IV, 284, umgerechnet anhand der vom Wiki angegebenen Jahreszeitengrenzen."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Wood Elves, 6e édition",
+     "en": "Warhammer Armies: Wood Elves, 6th edition",
+     "de": "Warhammer Armies: Wood Elves, 6. Edition"
+    },
+    "detail": {
+     "fr": "p. 17",
+     "en": "p. 17",
+     "de": "S. 17"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Wood Elf Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Wood Elf Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Wood Elf Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Wood_Elf_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "parentele-de-la-vengeance-en-lustrie",
+  "annee": 1492,
+  "fin": null,
+  "approx": true,
+  "titre": {
+   "fr": "Une parentèle de la vengeance en Lustrie",
+   "en": "A vengeance kindred in Lustria",
+   "de": "Eine Rachesippe in Lustria"
+  },
+  "resume": {
+   "fr": "Une parentèle elfe sylvaine depuis longtemps perdue apparaît en Lustrie, loin de son foyer. Elle entend protéger les forêts pluviales du continent contre les envahisseurs venus du Vieux Monde.",
+   "en": "A long lost Wood Elf kindred appears in Lustria, far from home. It means to protect the continent's rainforests from the invaders arriving from the Old World.",
+   "de": "Eine längst verschollene Waldelfensippe taucht fern der Heimat in Lustria auf. Sie will die Regenwälder des Kontinents vor den Eindringlingen aus der Alten Welt schützen."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "lustrie"
+  ],
+  "lieux": [
+   "lustrie"
+  ],
+  "factions": [
+   "elfes-sylvains"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "La source ne donne pas d'année et place seulement ce fait après IV, 376 (1492 CI), date retenue ici comme repère.",
+   "en": "The source gives no year and only places this after IV, 376 (1492 IC), which is used here as a marker.",
+   "de": "Die Quelle nennt kein Jahr und ordnet dies nur nach IV, 376 (1492 IC) ein, was hier als Anhaltspunkt dient."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "White Dwarf 305",
+     "en": "White Dwarf 305",
+     "de": "White Dwarf 305"
+    },
+    "detail": {
+     "fr": "p. 32",
+     "en": "p. 32",
+     "de": "S. 32"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Wood Elf Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Wood Elf Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Wood Elf Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Wood_Elf_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "tournoi-de-guyenne",
+  "annee": 1578,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Le tournoi de Guyenne",
+   "en": "The tournament of Guyenne",
+   "de": "Das Turnier von Guyenne"
+  },
+  "resume": {
+   "fr": "Au tournoi bretonnien de Guyenne, le roi Jules joute contre un membre du peuple féerique d'Athel Loren et l'emporte.",
+   "en": "At the Bretonnian tournament of Guyenne, King Jules jousts against one of the fey folk of Athel Loren and wins.",
+   "de": "Beim bretonischen Turnier von Guyenne tjostiert König Jules gegen einen Angehörigen des Feenvolks von Athel Loren und siegt."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "bretonnie"
+  ],
+  "lieux": [],
+  "factions": [
+   "bretonnie",
+   "elfes-sylvains"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Date elfe sylvaine IV, 462, convertie d'après les bornes des saisons données par le wiki.",
+   "en": "Wood Elf date IV, 462, converted using the season boundaries given by the wiki.",
+   "de": "Datum nach der waldelfischen Zählung IV, 462, umgerechnet anhand der vom Wiki angegebenen Jahreszeitengrenzen."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Wood Elves, 6e édition",
+     "en": "Warhammer Armies: Wood Elves, 6th edition",
+     "de": "Warhammer Armies: Wood Elves, 6. Edition"
+    },
+    "detail": {
+     "fr": "p. 17",
+     "en": "p. 17",
+     "de": "S. 17"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Wood Elf Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Wood Elf Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Wood Elf Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Wood_Elf_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "emissaires-d-ulthuan-a-athel-loren",
+  "annee": 1601,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Ariel repousse les émissaires d'Ulthuan",
+   "en": "Ariel rejects the envoys of Ulthuan",
+   "de": "Ariel weist die Gesandten Ulthuans ab"
+  },
+  "resume": {
+   "fr": "Les Hauts Elfes tentent un rapprochement avec leurs parents d'Athel Loren. Ariel reçoit leurs émissaires, décline tout lien étroit avec la cour d'Ulthuan, et ceux-ci s'égarent dans la forêt en repartant.",
+   "en": "The High Elves attempt a rapprochement with their kin of Athel Loren. Ariel receives their envoys and declines closer ties with the court of Ulthuan, and they lose their way in the forest on leaving.",
+   "de": "Die Hochelfen versuchen eine Annäherung an ihre Verwandten in Athel Loren. Ariel empfängt die Gesandten und lehnt engere Bande zum Hof von Ulthuan ab, worauf diese sich beim Aufbruch im Wald verirren."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "athel-loren"
+  ],
+  "lieux": [
+   "athel-loren"
+  ],
+  "factions": [
+   "elfes-sylvains",
+   "hauts-elfes"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Date elfe sylvaine IV, 485, convertie d'après les bornes des saisons données par le wiki.",
+   "en": "Wood Elf date IV, 485, converted using the season boundaries given by the wiki.",
+   "de": "Datum nach der waldelfischen Zählung IV, 485, umgerechnet anhand der vom Wiki angegebenen Jahreszeitengrenzen."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Wood Elves, 6e édition",
+     "en": "Warhammer Armies: Wood Elves, 6th edition",
+     "de": "Warhammer Armies: Wood Elves, 6. Edition"
+    },
+    "detail": {
+     "fr": "p. 17",
+     "en": "p. 17",
+     "de": "S. 17"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Wood Elf Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Wood Elf Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Wood Elf Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Wood_Elf_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "emissaires-elfes-tues-pres-de-quenelles",
+  "annee": 1672,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Les émissaires hauts elfes tués près de Quenelles",
+   "en": "High Elf envoys slain near Quenelles",
+   "de": "Hochelfische Gesandte bei Quenelles getötet"
+  },
+  "resume": {
+   "fr": "Après des décennies d'errance, les émissaires sortent d'Athel Loren près de Quenelles. Les paysans bretonniens les prennent pour des esprits malfaisants, les massacrent et brûlent leurs corps.",
+   "en": "After decades of wandering, the envoys emerge from Athel Loren near Quenelles. The Bretonnian peasants take them for evil spirits, kill them and burn their bodies.",
+   "de": "Nach jahrzehntelanger Irrfahrt treten die Gesandten bei Quenelles aus Athel Loren hervor. Die bretonischen Bauern halten sie für böse Geister, erschlagen sie und verbrennen ihre Leichen."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "bretonnie"
+  ],
+  "lieux": [
+   "quenelles"
+  ],
+  "factions": [
+   "hauts-elfes",
+   "bretonnie",
+   "elfes-sylvains"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Date elfe sylvaine IV, 556, convertie d'après les bornes des saisons données par le wiki.",
+   "en": "Wood Elf date IV, 556, converted using the season boundaries given by the wiki.",
+   "de": "Datum nach der waldelfischen Zählung IV, 556, umgerechnet anhand der vom Wiki angegebenen Jahreszeitengrenzen."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Wood Elves, 6e édition",
+     "en": "Warhammer Armies: Wood Elves, 6th edition",
+     "de": "Warhammer Armies: Wood Elves, 6. Edition"
+    },
+    "detail": {
+     "fr": "p. 17",
+     "en": "p. 17",
+     "de": "S. 17"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Wood Elf Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Wood Elf Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Wood Elf Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Wood_Elf_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "chasse-sauvage-sur-quenelles-1673",
+  "annee": 1673,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "La Chasse sauvage frappe Quenelles",
+   "en": "The Wild Hunt strikes Quenelles",
+   "de": "Die Wilde Jagd trifft Quenelles"
+  },
+  "resume": {
+   "fr": "Sans explication, la Chasse sauvage ne parcourt cette année que les terres de Quenelles. Le duc et sa famille périssent, sauf sa plus jeune fille, que des Dryades emportent dans la forêt.",
+   "en": "For no stated reason, the Wild Hunt rides only through the lands of Quenelles this year. The duke and his family die, except his youngest daughter, whom Dryads carry off into the forest.",
+   "de": "Ohne Erklärung reitet die Wilde Jagd in diesem Jahr nur durch die Lande von Quenelles. Der Herzog und seine Familie sterben, nur seine jüngste Tochter wird von Dryaden in den Wald entführt."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "bretonnie"
+  ],
+  "lieux": [
+   "quenelles"
+  ],
+  "factions": [
+   "elfes-sylvains",
+   "bretonnie"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Date elfe sylvaine IV, 557, convertie d'après les bornes des saisons données par le wiki.",
+   "en": "Wood Elf date IV, 557, converted using the season boundaries given by the wiki.",
+   "de": "Datum nach der waldelfischen Zählung IV, 557, umgerechnet anhand der vom Wiki angegebenen Jahreszeitengrenzen."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Wood Elves, 6e édition",
+     "en": "Warhammer Armies: Wood Elves, 6th edition",
+     "de": "Warhammer Armies: Wood Elves, 6. Edition"
+    },
+    "detail": {
+     "fr": "p. 17",
+     "en": "p. 17",
+     "de": "S. 17"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Wood Elf Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Wood Elf Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Wood Elf Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Wood_Elf_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "coeddil-tente-de-s-evader",
+  "annee": 1697,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Cœddil tente de quitter le Wildwood",
+   "en": "Coeddil tries to escape the Wildwood",
+   "de": "Cœddil versucht aus dem Wildwood auszubrechen"
+  },
+  "resume": {
+   "fr": "Une coterie de Tisseuses de Charmes arrête Cœddil dans sa tentative d'évasion. L'hiver suivant, dame Elynett, gardienne du Lac de Cristal, empêche Drycha de déranger les pierres de voie de sa prison.",
+   "en": "A coterie of Spellsingers stops Coeddil's escape attempt. That winter, Lady Elynett, warden of the Crystal Mere, prevents Drycha from disturbing the waystones of his prison.",
+   "de": "Eine Gruppe von Zaubersängerinnen vereitelt Cœddils Fluchtversuch. Im Winter hindert Fürstin Elynett, Hüterin des Kristallsees, Drycha daran, die Wegsteine seines Gefängnisses zu stören."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "athel-loren"
+  ],
+  "lieux": [
+   "athel-loren"
+  ],
+  "factions": [
+   "elfes-sylvains"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Date elfe sylvaine IV, 581, convertie d'après les bornes des saisons données par le wiki.",
+   "en": "Wood Elf date IV, 581, converted using the season boundaries given by the wiki.",
+   "de": "Datum nach der waldelfischen Zählung IV, 581, umgerechnet anhand der vom Wiki angegebenen Jahreszeitengrenzen."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Wood Elves, 8e édition",
+     "en": "Warhammer Armies: Wood Elves, 8th edition",
+     "de": "Warhammer Armies: Wood Elves, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 15",
+     "en": "p. 15",
+     "de": "S. 15"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Wood Elves, 6e édition",
+     "en": "Warhammer Armies: Wood Elves, 6th edition",
+     "de": "Warhammer Armies: Wood Elves, 6. Edition"
+    },
+    "detail": {
+     "fr": "p. 17",
+     "en": "p. 17",
+     "de": "S. 17"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Wood Elf Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Wood Elf Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Wood Elf Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Wood_Elf_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "daith-forge-l-epee-de-l-esprit",
+  "annee": 1703,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Daith forge l'Épée de l'Esprit",
+   "en": "Daith forges the Spirit Sword",
+   "de": "Daith schmiedet das Geisterschwert"
+  },
+  "resume": {
+   "fr": "Le maître forgeron Daith réalise l'Épée de l'Esprit pour dame Findol, qui prétexte un défaut imaginaire pour ne pas le payer. Il dresse la forêt contre sa demeure, elle s'exécute, et plus personne ne lui refuse son dû.",
+   "en": "The master smith Daith makes the Spirit Sword for Lady Findol, who invents a flaw to avoid paying him. He turns the forest against her hall, she gives in, and no one denies him his fee again.",
+   "de": "Der Meisterschmied Daith fertigt für Fürstin Findol das Geisterschwert, doch sie erfindet einen Makel, um nicht zu zahlen. Er bringt den Wald gegen ihre Halle auf, sie gibt nach, und niemand verweigert ihm je wieder seinen Lohn."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "athel-loren"
+  ],
+  "lieux": [
+   "athel-loren"
+  ],
+  "factions": [
+   "elfes-sylvains"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Date elfe sylvaine V, 1, convertie d'après les bornes des saisons données par le wiki.",
+   "en": "Wood Elf date V, 1, converted using the season boundaries given by the wiki.",
+   "de": "Datum nach der waldelfischen Zählung V, 1, umgerechnet anhand der vom Wiki angegebenen Jahreszeitengrenzen."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Wood Elves, 6e édition",
+     "en": "Warhammer Armies: Wood Elves, 6th edition",
+     "de": "Warhammer Armies: Wood Elves, 6. Edition"
+    },
+    "detail": {
+     "fr": "p. 17",
+     "en": "p. 17",
+     "de": "S. 17"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Wood Elf Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Wood Elf Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Wood Elf Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Wood_Elf_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "maranith-fleau-de-caledor",
+  "annee": 1856,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Maranith, le Fléau de Caledor",
+   "en": "Maranith, Caledor's Bane",
+   "de": "Maranith, die Geißel Caledors"
+  },
+  "resume": {
+   "fr": "Monté sur le Dragon noir Wrath, le seigneur Maranith s'élance de l'Arche noire Forteresse du Tourment Éternel contre les flottes d'Ulthuan. Il tue plusieurs Princes Dragons au-dessus du Grand Océan et les Hauts Elfes le surnomment Fléau de Caledor, un nom que garde sa lance.",
+   "en": "Riding the Black Dragon Wrath, Lord Maranith flies from the Black Ark Fortress of Eternal Torture against the fleets of Ulthuan. He slays several Dragon Princes above the Great Ocean, and the High Elves name him Caledor's Bane, a title his lance keeps.",
+   "de": "Auf dem Schwarzen Drachen Wrath stürzt sich Fürst Maranith von der Schwarzen Arche Festung der Ewigen Qual auf die Flotten Ulthuans. Er tötet über dem Großen Ozean mehrere Drachenprinzen, und die Hochelfen nennen ihn Geißel Caledors, einen Namen, den seine Lanze weiterträgt."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "ulthuan"
+  ],
+  "lieux": [],
+  "factions": [
+   "elfes-noirs",
+   "hauts-elfes"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Date elfe noire VI, 353, convertie par le wiki.",
+   "en": "Dark Elf date VI, 353, converted by the wiki.",
+   "de": "Datum nach der dunkelelfischen Zählung VI, 353, umgerechnet durch das Wiki."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Dark Elves, 7e édition",
+     "en": "Warhammer Armies: Dark Elves, 7th edition",
+     "de": "Warhammer Armies: Dark Elves, 7. Edition"
+    },
+    "detail": {
+     "fr": "p. 33",
+     "en": "p. 33",
+     "de": "S. 33"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Dark Elf Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Dark Elf Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Dark Elf Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Dark_Elf_Timeline"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Maranith",
+     "en": "Warhammer Fantasy Wiki (fandom), Maranith page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Maranith"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Maranith"
+   }
+  ]
+ },
+ {
+  "id": "interdit-de-bel-hathor-1903",
+  "annee": 1903,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "L'interdit de Bel-Hathor",
+   "en": "Bel-Hathor's interdict",
+   "de": "Bel-Hathors Interdikt"
+  },
+  "resume": {
+   "fr": "Face à la multiplication des raids norses, les mages de Saphery tendent un voile de brumes sur les approches orientales d'Ulthuan. Bel-Hathor interdit en outre à tout humain de poser le pied sur l'île.",
+   "en": "Faced with mounting Norse raids, the mages of Saphery draw a shroud of mist over the eastern approaches to Ulthuan. Bel-Hathor also forbids any human to set foot on the island.",
+   "de": "Angesichts der wachsenden Überfälle der Nordmänner legen die Magier von Saphery einen Nebelschleier über die östlichen Zugänge zu Ulthuan. Bel-Hathor verbietet zudem jedem Menschen, die Insel zu betreten."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "ulthuan"
+  ],
+  "lieux": [
+   "ulthuan"
+  ],
+  "factions": [
+   "hauts-elfes",
+   "humains-autres"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Date haut-elfe X, 400, convertie par le wiki.",
+   "en": "High Elf date X, 400, converted by the wiki.",
+   "de": "Datum nach der hochelfischen Zählung X, 400, umgerechnet durch das Wiki."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: High Elves, 5e édition",
+     "en": "Warhammer Armies: High Elves, 5th edition",
+     "de": "Warhammer Armies: High Elves, 5. Edition"
+    },
+    "detail": "",
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page High Elf Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), High Elf Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite High Elf Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/High_Elf_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "lokhir-fellheart-herite-de-l-arche",
+  "annee": 1907,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Lokhir Fellheart hérite de son Arche noire",
+   "en": "Lokhir Fellheart inherits his Black Ark",
+   "de": "Lokhir Fellheart erbt seine Schwarze Arche"
+  },
+  "resume": {
+   "fr": "Lokhir Fellheart reçoit le commandement de l'Arche noire Tour de l'Effroi Béni. Il commence par sacrifier aux dieux les officiers de son père pour s'assurer leur faveur.",
+   "en": "Lokhir Fellheart takes command of the Black Ark Tower of Blessed Dread. He begins by sacrificing his father's officers to the gods to win their favour.",
+   "de": "Lokhir Fellheart übernimmt den Befehl über die Schwarze Arche Turm des Gesegneten Grauens. Als Erstes opfert er die Offiziere seines Vaters den Göttern, um deren Gunst zu gewinnen."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "naggaroth"
+  ],
+  "lieux": [],
+  "factions": [
+   "elfes-noirs"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Date elfe noire VI, 404, convertie par le wiki.",
+   "en": "Dark Elf date VI, 404, converted by the wiki.",
+   "de": "Datum nach der dunkelelfischen Zählung VI, 404, umgerechnet durch das Wiki."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Dark Elves, 7e édition",
+     "en": "Warhammer Armies: Dark Elves, 7th edition",
+     "de": "Warhammer Armies: Dark Elves, 7. Edition"
+    },
+    "detail": {
+     "fr": "p. 33",
+     "en": "p. 33",
+     "de": "S. 33"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Dark Elf Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Dark Elf Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Dark Elf Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Dark_Elf_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "gwytherc-sauve-des-marchands-nains",
+  "annee": 1925,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Gwytherc secourt des marchands nains",
+   "en": "Gwytherc rescues Dwarf traders",
+   "de": "Gwytherc rettet zwergische Händler"
+  },
+  "resume": {
+   "fr": "Sur la route de Parravon, des marchands nains sont attaqués par des Orques des Montagnes Grises. Une troupe elfe sylvaine conduite par la chasseresse Gwytherc sort d'Athel Loren et met les assaillants en fuite, à la grande stupeur des Nains.",
+   "en": "On the road to Parravon, Dwarf traders are attacked by Orcs from the Grey Mountains. A Wood Elf warband led by Gwytherc the Huntress comes out of Athel Loren and routs the attackers, to the Dwarfs' astonishment.",
+   "de": "Auf dem Weg nach Parravon werden zwergische Händler von Orks aus den Grauen Bergen überfallen. Ein Waldelfentrupp unter der Jägerin Gwytherc bricht aus Athel Loren hervor und schlägt die Angreifer in die Flucht, sehr zum Erstaunen der Zwerge."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "bretonnie",
+   "athel-loren"
+  ],
+  "lieux": [
+   "parravon"
+  ],
+  "factions": [
+   "elfes-sylvains",
+   "nains",
+   "peaux-vertes"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Date elfe sylvaine V, 223, convertie d'après les bornes des saisons données par le wiki.",
+   "en": "Wood Elf date V, 223, converted using the season boundaries given by the wiki.",
+   "de": "Datum nach der waldelfischen Zählung V, 223, umgerechnet anhand der vom Wiki angegebenen Jahreszeitengrenzen."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Wood Elves, 6e édition",
+     "en": "Warhammer Armies: Wood Elves, 6th edition",
+     "de": "Warhammer Armies: Wood Elves, 6. Edition"
+    },
+    "detail": {
+     "fr": "p. 17",
+     "en": "p. 17",
+     "de": "S. 17"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Wood Elf Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Wood Elf Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Wood Elf Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Wood_Elf_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "attentat-contre-morathi-2005",
+  "annee": 2005,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Attentat manqué contre Morathi",
+   "en": "Failed attempt on Morathi's life",
+   "de": "Gescheitertes Attentat auf Morathi"
+  },
+  "resume": {
+   "fr": "Une tentative d'assassinat contre Morathi échoue et le tueur meurt avant d'avoir pu être interrogé. La Sorcière Suprême soupçonne Hellebron, sans pouvoir rien prouver.",
+   "en": "An attempt to assassinate Morathi fails, and the killer dies before he can be questioned. The Hag Sorceress suspects Hellebron but can prove nothing.",
+   "de": "Ein Mordanschlag auf Morathi scheitert, und der Attentäter stirbt vor dem Verhör. Die Hexenkönigin verdächtigt Hellebron, kann aber nichts beweisen."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "naggaroth"
+  ],
+  "lieux": [],
+  "factions": [
+   "elfes-noirs"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Date elfe noire VI, 502, convertie par le wiki.",
+   "en": "Dark Elf date VI, 502, converted by the wiki.",
+   "de": "Datum nach der dunkelelfischen Zählung VI, 502, umgerechnet durch das Wiki."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Dark Elves, 7e édition",
+     "en": "Warhammer Armies: Dark Elves, 7th edition",
+     "de": "Warhammer Armies: Dark Elves, 7. Edition"
+    },
+    "detail": {
+     "fr": "p. 33",
+     "en": "p. 33",
+     "de": "S. 33"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Dark Elf Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Dark Elf Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Dark Elf Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Dark_Elf_Timeline"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Morathi",
+     "en": "Warhammer Fantasy Wiki (fandom), Morathi page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Morathi"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Morathi"
+   }
+  ]
+ },
+ {
+  "id": "drycha-detruit-l-abbaye-de-la-chald",
+  "annee": 2026,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Drycha rase l'abbaye de La Chald",
+   "en": "Drycha razes La Chald Abbey",
+   "de": "Drycha zerstört die Abtei La Chald"
+  },
+  "resume": {
+   "fr": "Drycha entraîne une armée d'esprits sylvains à travers le sud de la Bretonnie et bat le duc de Carcassonne aux gués de la Brienne. Quand les renforts arrivent à l'abbaye de La Chald, elle est abattue et ses reliques ont disparu.",
+   "en": "Drycha leads a host of forest spirits through southern Bretonnia and beats the Duke of Carcassonne at the crossings of the Brienne. When reinforcements reach La Chald Abbey, it has been torn down and its relics are gone.",
+   "de": "Drycha führt ein Heer von Waldgeistern durch das südliche Bretonia und schlägt den Herzog von Carcassonne an den Furten der Brienne. Als Verstärkung die Abtei La Chald erreicht, ist sie niedergerissen und ihre Reliquien sind fort."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "bretonnie"
+  ],
+  "lieux": [],
+  "factions": [
+   "elfes-sylvains",
+   "bretonnie"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Date elfe sylvaine VI, 19, convertie d'après les bornes des saisons données par le wiki.",
+   "en": "Wood Elf date VI, 19, converted using the season boundaries given by the wiki.",
+   "de": "Datum nach der waldelfischen Zählung VI, 19, umgerechnet anhand der vom Wiki angegebenen Jahreszeitengrenzen."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Wood Elves, 8e édition",
+     "en": "Warhammer Armies: Wood Elves, 8th edition",
+     "de": "Warhammer Armies: Wood Elves, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 28",
+     "en": "p. 28",
+     "de": "S. 28"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Wood Elf Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Wood Elf Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Wood Elf Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Wood_Elf_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "alliances-refusees-par-athel-loren",
+  "annee": 2032,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Athel Loren refuse les deux alliances",
+   "en": "Athel Loren refuses both alliances",
+   "de": "Athel Loren lehnt beide Bündnisse ab"
+  },
+  "resume": {
+   "fr": "Le Roi-Sorcier et le Roi Phénix Bel-Hathor envoient chacun des ambassadeurs à Athel Loren, dont Finubar pour Ulthuan, et les Elfes sylvains veillent à ce que les deux délégations ne se croisent pas. Ariel refuse de les recevoir et laisse le Grand Conseil négocier. Les deux offres sont repoussées et les envoyés priés de ne jamais revenir.",
+   "en": "The Witch King and the Phoenix King Bel-Hathor each send ambassadors to Athel Loren, Finubar among them for Ulthuan, and the Wood Elves keep the two delegations apart. Ariel refuses to receive them and leaves the talks to the great council. Both offers are rejected and the envoys are told never to return.",
+   "de": "Der Hexenkönig und der Phönixkönig Bel-Hathor entsenden jeweils Botschafter nach Athel Loren, für Ulthuan unter anderem Finubar, und die Waldelfen halten beide Gesandtschaften voneinander fern. Ariel empfängt sie nicht und überlässt die Verhandlungen dem Großen Rat. Beide Angebote werden abgelehnt, und die Gesandten sollen nie zurückkehren."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "athel-loren"
+  ],
+  "lieux": [
+   "athel-loren"
+  ],
+  "factions": [
+   "elfes-sylvains",
+   "hauts-elfes",
+   "elfes-noirs"
+  ],
+  "importance": 2,
+  "fiabilite": "divergent",
+  "note": {
+   "fr": "Date elfe sylvaine VI, 25, convertie d'après les bornes des saisons données par le wiki. La chronologie des Hauts Elfes place l'arrivée de Finubar à Athel Loren un an plus tard, en X, 530 (2033 CI).",
+   "en": "Wood Elf date VI, 25, converted using the season boundaries given by the wiki. The High Elf timeline puts Finubar's arrival in Athel Loren a year later, at X, 530 (2033 IC).",
+   "de": "Datum nach der waldelfischen Zählung VI, 25, umgerechnet anhand der vom Wiki angegebenen Jahreszeitengrenzen. Die Chronik der Hochelfen setzt Finubars Ankunft in Athel Loren ein Jahr später an, X, 530 (2033 IC)."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Wood Elves, 8e édition",
+     "en": "Warhammer Armies: Wood Elves, 8th edition",
+     "de": "Warhammer Armies: Wood Elves, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 28",
+     "en": "p. 28",
+     "de": "S. 28"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Warhammer Armies: High Elves, 5e édition",
+     "en": "Warhammer Armies: High Elves, 5th edition",
+     "de": "Warhammer Armies: High Elves, 5. Edition"
+    },
+    "detail": "",
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Wood Elf Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Wood Elf Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Wood Elf Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Wood_Elf_Timeline"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page High Elf Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), High Elf Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite High Elf Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/High_Elf_Timeline"
+   },
+   {
+    "titre": {
+     "fr": "Bibliothèque Impériale, page Histoire des Elfes Sylvains",
+     "en": "Bibliothèque Impériale, Histoire des Elfes Sylvains page",
+     "de": "Bibliothèque Impériale, Seite Histoire des Elfes Sylvains"
+    },
+    "detail": "",
+    "url": "https://www.bibliotheque-imperiale.com/index.php/Histoire_des_Elfes_Sylvains"
+   }
+  ]
+ },
+ {
+  "id": "horreur-des-cryptes-d-hiver",
+  "annee": 2084,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "L'horreur des Cryptes",
+   "en": "Horror from the Vaults",
+   "de": "Der Schrecken aus den Kammern"
+  },
+  "resume": {
+   "fr": "Des démons de Slaanesh surgis des Cryptes de l'Hiver envahissent Arranoc. Le seigneur Amadri Dawnspear est torturé à mort, renaît sous la forme d'un Lémure, Amadri Ironbark, et extermine ses bourreaux avant de faire obstruer l'entrée des Cryptes.",
+   "en": "Daemons of Slaanesh rising from the Vaults of Winter overrun Arranoc. Lord Amadri Dawnspear is tortured to death, returns as the Tree Kin Amadri Ironbark and destroys his tormentors, then has the entrance to the Vaults blocked.",
+   "de": "Slaanesh-Dämonen aus den Winterkammern überrennen Arranoc. Fürst Amadri Dawnspear wird zu Tode gefoltert, kehrt als Baumgeist Amadri Ironbark zurück, vernichtet seine Peiniger und lässt den Eingang der Kammern verschütten."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "athel-loren"
+  ],
+  "lieux": [],
+  "factions": [
+   "elfes-sylvains",
+   "chaos"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Date elfe sylvaine VI, 77, convertie d'après les bornes des saisons données par le wiki.",
+   "en": "Wood Elf date VI, 77, converted using the season boundaries given by the wiki.",
+   "de": "Datum nach der waldelfischen Zählung VI, 77, umgerechnet anhand der vom Wiki angegebenen Jahreszeitengrenzen."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Wood Elves, 8e édition",
+     "en": "Warhammer Armies: Wood Elves, 8th edition",
+     "de": "Warhammer Armies: Wood Elves, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 28",
+     "en": "p. 28",
+     "de": "S. 28"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Wood Elf Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Wood Elf Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Wood Elf Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Wood_Elf_Timeline"
+   },
+   {
+    "titre": {
+     "fr": "Bibliothèque Impériale, page Histoire des Elfes Sylvains",
+     "en": "Bibliothèque Impériale, Histoire des Elfes Sylvains page",
+     "de": "Bibliothèque Impériale, Seite Histoire des Elfes Sylvains"
+    },
+    "detail": "",
+    "url": "https://www.bibliotheque-imperiale.com/index.php/Histoire_des_Elfes_Sylvains"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Amadri Ironbark",
+     "en": "Warhammer Fantasy Wiki (fandom), Amadri Ironbark page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Amadri Ironbark"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Amadri_Ironbark"
+   }
+  ]
+ },
+ {
+  "id": "araloth-au-secours-d-yvresse",
+  "annee": 2174,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Araloth au secours d'Yvresse",
+   "en": "Araloth comes to the aid of Yvresse",
+   "de": "Araloth kommt Yvresse zu Hilfe"
+  },
+  "resume": {
+   "fr": "Araloth, sire de Talsyn, gagne Ulthuan par les Racines du Monde pour aider le seigneur Moranion d'Athel Tamarha, assailli par les pillards elfes noirs. Ensemble, ils les défont sur l'île d'Aestuniac. Araloth invoque ses ancêtres venus d'Athel Tamarha, un motif dont Moranion apprend plus tard qu'il était faux.",
+   "en": "Araloth, Lord of Talsyn, reaches Ulthuan through the worldroots to help Lord Moranion of Athel Tamarha against Dark Elf raiders. Together they defeat them on the Isle of Aestuniac. Araloth claims ancestors from Athel Tamarha as his reason, which Moranion later learns was untrue.",
+   "de": "Araloth, Herr von Talsyn, gelangt durch die Weltwurzeln nach Ulthuan, um Fürst Moranion von Athel Tamarha gegen dunkelelfische Plünderer beizustehen. Gemeinsam schlagen sie diese auf der Insel Aestuniac. Araloth nennt seine Vorfahren aus Athel Tamarha als Grund, was sich für Moranion später als unwahr erweist."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "ulthuan"
+  ],
+  "lieux": [],
+  "factions": [
+   "elfes-sylvains",
+   "hauts-elfes",
+   "elfes-noirs"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Date elfe sylvaine VI, 167, convertie d'après les bornes des saisons données par le wiki.",
+   "en": "Wood Elf date VI, 167, converted using the season boundaries given by the wiki.",
+   "de": "Datum nach der waldelfischen Zählung VI, 167, umgerechnet anhand der vom Wiki angegebenen Jahreszeitengrenzen."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Wood Elves, 8e édition",
+     "en": "Warhammer Armies: Wood Elves, 8th edition",
+     "de": "Warhammer Armies: Wood Elves, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 28",
+     "en": "p. 28",
+     "de": "S. 28"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Wood Elf Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Wood Elf Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Wood Elf Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Wood_Elf_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "rage-de-durthu",
+  "annee": 2202,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "La Rage de Durthu",
+   "en": "Durthu's Rage",
+   "de": "Durthus Zorn"
+  },
+  "resume": {
+   "fr": "Chassés de Bretonnie par les guerres d'errance, des Peaux-vertes refluent vers Athel Loren et y écrasent d'abord les Hommes-bêtes. Ils commencent ensuite à brûler les bosquets dont Durthu a la garde. Ses esprits les anéantissent, et il écrase lui-même le chef de guerre Braka sous son pied.",
+   "en": "Driven out of Bretonnia by the Errantry Wars, greenskins pour into Athel Loren and first crush the Beastmen there. They then start burning the groves in Durthu's care. His spirits annihilate them, and he stamps Warboss Braka flat himself.",
+   "de": "Von den Fahrenden Kriegen aus Bretonia vertrieben, strömen Grünhäute nach Athel Loren und zerschlagen dort zunächst die Tiermenschen. Dann brennen sie die Haine in Durthus Obhut nieder. Seine Geister vernichten sie, und er zertritt den Waaaghboss Braka eigenhändig."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "athel-loren"
+  ],
+  "lieux": [
+   "athel-loren"
+  ],
+  "factions": [
+   "elfes-sylvains",
+   "peaux-vertes"
+  ],
+  "importance": 2,
+  "fiabilite": "etabli",
+  "note": {
+   "fr": "Date elfe sylvaine VI, 195, convertie d'après les bornes des saisons données par le wiki.",
+   "en": "Wood Elf date VI, 195, converted using the season boundaries given by the wiki.",
+   "de": "Datum nach der waldelfischen Zählung VI, 195, umgerechnet anhand der vom Wiki angegebenen Jahreszeitengrenzen."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Wood Elves, 8e édition",
+     "en": "Warhammer Armies: Wood Elves, 8th edition",
+     "de": "Warhammer Armies: Wood Elves, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 28",
+     "en": "p. 28",
+     "de": "S. 28"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Wood Elves, 6e édition",
+     "en": "Warhammer Armies: Wood Elves, 6th edition",
+     "de": "Warhammer Armies: Wood Elves, 6. Edition"
+    },
+    "detail": {
+     "fr": "p. 17",
+     "en": "p. 17",
+     "de": "S. 17"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Durthu's Rage",
+     "en": "Warhammer Fantasy Wiki (fandom), Durthu's Rage page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Durthu's Rage"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Durthu%27s_Rage"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Wood Elf Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Wood Elf Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Wood Elf Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Wood_Elf_Timeline"
+   },
+   {
+    "titre": {
+     "fr": "Bibliothèque Impériale, page Histoire des Elfes Sylvains",
+     "en": "Bibliothèque Impériale, Histoire des Elfes Sylvains page",
+     "de": "Bibliothèque Impériale, Seite Histoire des Elfes Sylvains"
+    },
+    "detail": "",
+    "url": "https://www.bibliotheque-imperiale.com/index.php/Histoire_des_Elfes_Sylvains"
+   }
+  ]
+ },
+ {
+  "id": "bataille-de-shadow-fell",
+  "annee": 2214,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Bataille de Shadow Fell",
+   "en": "Battle at Shadow Fell",
+   "de": "Schlacht von Shadow Fell"
+  },
+  "resume": {
+   "fr": "Des mercenaires ogres menés par Gragtar Flameheart trouvent leur route barrée par une horde de Peaux-vertes dans les Montagnes Grises. Les Elfes sylvains descendent des contreforts et se battent à leurs côtés, mais déclinent le festin de victoire.",
+   "en": "Ogre mercenaries under Gragtar Flameheart find their way through the Grey Mountains blocked by a greenskin horde. The Wood Elves come down from the foothills and fight beside them, but decline the victory feast.",
+   "de": "Oger-Söldner unter Gragtar Flameheart finden ihren Weg durch die Grauen Berge von einer Grünhauthorde versperrt. Die Waldelfen steigen von den Vorbergen herab und kämpfen an ihrer Seite, lehnen aber das Siegesmahl ab."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "montagnes"
+  ],
+  "lieux": [],
+  "factions": [
+   "elfes-sylvains",
+   "ogres",
+   "peaux-vertes"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Date elfe sylvaine VI, 207, convertie d'après les bornes des saisons données par le wiki.",
+   "en": "Wood Elf date VI, 207, converted using the season boundaries given by the wiki.",
+   "de": "Datum nach der waldelfischen Zählung VI, 207, umgerechnet anhand der vom Wiki angegebenen Jahreszeitengrenzen."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Wood Elves, 8e édition",
+     "en": "Warhammer Armies: Wood Elves, 8th edition",
+     "de": "Warhammer Armies: Wood Elves, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 29",
+     "en": "p. 29",
+     "de": "S. 29"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Battle at Shadow Fell",
+     "en": "Warhammer Fantasy Wiki (fandom), Battle at Shadow Fell page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Battle at Shadow Fell"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Battle_at_Shadow_Fell"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Wood Elf Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Wood Elf Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Wood Elf Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Wood_Elf_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "scarloc-chez-les-humains",
+  "annee": 2220,
+  "fin": 2250,
+  "approx": true,
+  "titre": {
+   "fr": "Scarloc mercenaire chez les humains",
+   "en": "Scarloc among the human kingdoms",
+   "de": "Scarloc bei den Menschenreichen"
+  },
+  "resume": {
+   "fr": "Scarloc et sa parentèle partent pour trente ans à travers les royaumes humains. Louant leurs services comme mercenaires, ils y recueillent beaucoup de renseignements sur les forces et les faiblesses de chaque pays.",
+   "en": "Scarloc and his kinband set out on a thirty-year journey through the human kingdoms. Hiring out as sellswords, they learn much about the strengths and weaknesses of each realm.",
+   "de": "Scarloc und seine Sippe brechen zu einer dreißigjährigen Reise durch die Menschenreiche auf. Als Söldner erfahren sie viel über die Stärken und Schwächen der einzelnen Länder."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "empire",
+   "bretonnie"
+  ],
+  "lieux": [],
+  "factions": [
+   "elfes-sylvains",
+   "humains-autres"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Date elfe sylvaine VI, 213, convertie d'après les bornes des saisons données par le wiki.",
+   "en": "Wood Elf date VI, 213, converted using the season boundaries given by the wiki.",
+   "de": "Datum nach der waldelfischen Zählung VI, 213, umgerechnet anhand der vom Wiki angegebenen Jahreszeitengrenzen."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Wood Elves, 8e édition",
+     "en": "Warhammer Armies: Wood Elves, 8th edition",
+     "de": "Warhammer Armies: Wood Elves, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 29",
+     "en": "p. 29",
+     "de": "S. 29"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Wood Elf Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Wood Elf Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Wood Elf Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Wood_Elf_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "le-corrupteur-s-echappe",
+  "annee": 2231,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Le Corrupteur s'échappe",
+   "en": "The Corruptor escapes",
+   "de": "Der Verderber entkommt"
+  },
+  "resume": {
+   "fr": "Morghur renaît et Ariel envoie Araloth et Naieth le tuer dans la forêt d'Arden. Le tenant acculé, ils sont surpris par d'autres hardes guidées par des Ungors et perdent presque toute leur armée, les arbres éveillés par Naieth couvrant la fuite des derniers. Quand Araloth revient en force, la magie des Hommes-bêtes a emporté le monstre.",
+   "en": "Morghur is reborn and Ariel sends Araloth and Naieth to kill him in the Forest of Arden. With the beast cornered, they are surprised by other warherds guided by Ungors and lose nearly all their army, the trees woken by Naieth covering the last survivors' flight. When Araloth returns in force, Beastman magic has spirited the monster away.",
+   "de": "Morghur wird wiedergeboren, und Ariel sendet Araloth und Naieth aus, ihn im Wald von Arden zu töten. Als er in die Enge getrieben ist, werden sie von weiteren, durch Ungors herbeigeführten Herden überrascht und verlieren fast ihr ganzes Heer, nur Naieths erweckte Bäume decken die Flucht der Letzten. Als Araloth mit Verstärkung zurückkehrt, hat die Magie der Tiermenschen das Ungeheuer fortgeschafft."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "bretonnie"
+  ],
+  "lieux": [],
+  "factions": [
+   "elfes-sylvains",
+   "chaos"
+  ],
+  "importance": 2,
+  "fiabilite": "etabli",
+  "note": {
+   "fr": "Date elfe sylvaine VI, 224, convertie d'après les bornes des saisons données par le wiki.",
+   "en": "Wood Elf date VI, 224, converted using the season boundaries given by the wiki.",
+   "de": "Datum nach der waldelfischen Zählung VI, 224, umgerechnet anhand der vom Wiki angegebenen Jahreszeitengrenzen."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Wood Elves, 8e édition",
+     "en": "Warhammer Armies: Wood Elves, 8th edition",
+     "de": "Warhammer Armies: Wood Elves, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 29",
+     "en": "p. 29",
+     "de": "S. 29"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Wood Elves, 6e édition",
+     "en": "Warhammer Armies: Wood Elves, 6th edition",
+     "de": "Warhammer Armies: Wood Elves, 6. Edition"
+    },
+    "detail": {
+     "fr": "p. 17",
+     "en": "p. 17",
+     "de": "S. 17"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Wood Elf Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Wood Elf Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Wood Elf Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Wood_Elf_Timeline"
+   },
+   {
+    "titre": {
+     "fr": "Bibliothèque Impériale, page Histoire des Elfes Sylvains",
+     "en": "Bibliothèque Impériale, Histoire des Elfes Sylvains page",
+     "de": "Bibliothèque Impériale, Seite Histoire des Elfes Sylvains"
+    },
+    "detail": "",
+    "url": "https://www.bibliotheque-imperiale.com/index.php/Histoire_des_Elfes_Sylvains"
+   }
+  ]
+ },
+ {
+  "id": "elfes-sylvains-a-lachenbad",
+  "annee": 2236,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Les Elfes sylvains à Lachenbad",
+   "en": "The Wood Elves at Lachenbad",
+   "de": "Die Waldelfen in Lachenbad"
+  },
+  "resume": {
+   "fr": "Des démons attaquent le village impérial de Lachenbad. Naestra et Arahan y mènent des Rôdeurs du Wildwood, tiennent l'ennemi en échec, puis repartent par les Racines du Monde devant des villageois stupéfaits.",
+   "en": "Daemons attack the Empire village of Lachenbad. Naestra and Arahan lead Rangers of the Wildwood there, hold the enemy off, then leave through the worldroots before the stunned villagers.",
+   "de": "Dämonen greifen das imperiale Dorf Lachenbad an. Naestra und Arahan führen Waldläufer des Wildwood herbei, halten den Feind auf und verschwinden vor den fassungslosen Dorfbewohnern durch die Weltwurzeln."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [],
+  "factions": [
+   "elfes-sylvains",
+   "chaos",
+   "empire"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Date elfe sylvaine VI, 229, convertie d'après les bornes des saisons données par le wiki.",
+   "en": "Wood Elf date VI, 229, converted using the season boundaries given by the wiki.",
+   "de": "Datum nach der waldelfischen Zählung VI, 229, umgerechnet anhand der vom Wiki angegebenen Jahreszeitengrenzen."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Wood Elves, 8e édition",
+     "en": "Warhammer Armies: Wood Elves, 8th edition",
+     "de": "Warhammer Armies: Wood Elves, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 28",
+     "en": "p. 28",
+     "de": "S. 28"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Wood Elf Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Wood Elf Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Wood Elf Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Wood_Elf_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "bataille-de-la-crete-brillante",
+  "annee": 2241,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Bataille de la Crête Brillante",
+   "en": "Battle of Shining Ridge",
+   "de": "Schlacht am Glänzenden Grat"
+  },
+  "resume": {
+   "fr": "L'armée elfe noire de Makanarth Blightblade dévaste le littoral de Tiranoc et marche vers le nord de Caledor. Le prince Galathor l'arrête avec une immense force de chars et tue Makanarth de sa lance. Les fuyards, bloqués par les fantassins de Tiranoc, sont achevés dans la plaine par les Reavers d'Ellyrion.",
+   "en": "The Dark Elf host of Makanarth Blightblade ravages the coast of Tiranoc and heads for northern Caledor. Prince Galathor stops it with a huge chariot force and kills Makanarth with his spear. The fugitives, blocked by the infantry of Tiranoc, are finished off on the plain by the Ellyrian Reavers.",
+   "de": "Das dunkelelfische Heer des Makanarth Blightblade verwüstet die Küste von Tiranoc und zieht gegen das nördliche Caledor. Prinz Galathor hält es mit einer gewaltigen Streitwagenmacht auf und tötet Makanarth mit seinem Speer. Die Fliehenden, von Tiranocs Fußvolk aufgehalten, werden in der Ebene von den Ellyrion-Grenzreitern aufgerieben."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "ulthuan"
+  ],
+  "lieux": [],
+  "factions": [
+   "hauts-elfes",
+   "elfes-noirs"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Date haut-elfe XI, 78, convertie par le wiki.",
+   "en": "High Elf date XI, 78, converted by the wiki.",
+   "de": "Datum nach der hochelfischen Zählung XI, 78, umgerechnet durch das Wiki."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: High Elves, 8e édition",
+     "en": "Warhammer Armies: High Elves, 8th edition",
+     "de": "Warhammer Armies: High Elves, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 28",
+     "en": "p. 28",
+     "de": "S. 28"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Battle of Shining Ridge",
+     "en": "Warhammer Fantasy Wiki (fandom), Battle of Shining Ridge page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Battle of Shining Ridge"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Battle_of_Shining_Ridge"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page High Elf Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), High Elf Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite High Elf Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/High_Elf_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "massacre-du-pre-noir",
+  "annee": 2252,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Massacre du Pré Noir",
+   "en": "Slaughter at Bleak Meadow",
+   "de": "Gemetzel auf der Trostlosen Wiese"
+  },
+  "resume": {
+   "fr": "Les hardes d'Hommes-bêtes assiègent tous les bastions d'Athel Loren, des Pics des Pins aux abords du Chêne des Âges, et sont repoussées au prix de lourdes pertes. La dernière se rassemble près de l'Arbre du Malheur sous Mograk, le Seigneur des Corbeaux. Une armée d'Ulthuan envoyée par Finubar sous le prince Eldyr arrive alors, et la fuite de Mograk change la retraite en massacre, sans que les deux peuples elfes se réconcilient.",
+   "en": "The Beastman warherds besiege every stronghold of Athel Loren, from Pine Crags to the Oak of Ages, and are driven back at great cost. The last gathers near the Tree of Woe under Mograk, Lord of Crows. An army from Ulthuan sent by Finubar under Prince Eldyr then arrives, and Mograk's flight turns the retreat into a massacre, though the two Elf nations remain unreconciled.",
+   "de": "Die Tiermenschenherden belagern alle Festen von Athel Loren, von den Kiefernklippen bis zur Eiche der Zeitalter, und werden unter schweren Verlusten zurückgeschlagen. Die letzte sammelt sich unter Mograk, dem Herrn der Krähen, beim Baum des Leids. Da trifft ein von Finubar entsandtes Heer aus Ulthuan unter Prinz Eldyr ein, und Mograks Flucht macht den Rückzug zum Gemetzel, doch beide Elfenvölker bleiben unversöhnt."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "athel-loren"
+  ],
+  "lieux": [
+   "athel-loren"
+  ],
+  "factions": [
+   "elfes-sylvains",
+   "hauts-elfes",
+   "chaos"
+  ],
+  "importance": 2,
+  "fiabilite": "divergent",
+  "note": {
+   "fr": "Date elfe sylvaine VI, 245, soit 2252 CI d'après les bornes des saisons du wiki. La date haut-elfe XI, 90 donne 2253 CI.",
+   "en": "Wood Elf date VI, 245, which is 2252 IC using the wiki's season boundaries. The High Elf date XI, 90 gives 2253 IC.",
+   "de": "Waldelfisches Datum VI, 245, also 2252 IC nach den Jahreszeitengrenzen des Wikis. Das hochelfische Datum XI, 90 ergibt 2253 IC."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Wood Elves, 8e édition",
+     "en": "Warhammer Armies: Wood Elves, 8th edition",
+     "de": "Warhammer Armies: Wood Elves, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 30",
+     "en": "p. 30",
+     "de": "S. 30"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Warhammer Armies: High Elves, 8e édition",
+     "en": "Warhammer Armies: High Elves, 8th edition",
+     "de": "Warhammer Armies: High Elves, 8. Edition"
+    },
+    "detail": {
+     "fr": "pp. 28-29",
+     "en": "pp. 28-29",
+     "de": "S. 28-29"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Slaughter at Bleak Meadow",
+     "en": "Warhammer Fantasy Wiki (fandom), Slaughter at Bleak Meadow page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Slaughter at Bleak Meadow"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Slaughter_at_Bleak_Meadow"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Wood Elf Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Wood Elf Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Wood Elf Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Wood_Elf_Timeline"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page High Elf Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), High Elf Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite High Elf Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/High_Elf_Timeline"
+   },
+   {
+    "titre": {
+     "fr": "Bibliothèque Impériale, page Histoire des Elfes Sylvains",
+     "en": "Bibliothèque Impériale, Histoire des Elfes Sylvains page",
+     "de": "Bibliothèque Impériale, Seite Histoire des Elfes Sylvains"
+    },
+    "detail": "",
+    "url": "https://www.bibliotheque-imperiale.com/index.php/Histoire_des_Elfes_Sylvains"
+   }
+  ]
+ },
+ {
+  "id": "morathi-sauvee-par-les-dryades",
+  "annee": 2260,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Des Dryades sauvent Morathi",
+   "en": "Dryads save Morathi",
+   "de": "Dryaden retten Morathi"
+  },
+  "resume": {
+   "fr": "Selon les chroniques de Naggaroth, Morathi, partie chercher la Couronne de Hotek perdue, tombe dans une embuscade de Guerriers Fantômes dans la Forêt Noire. Une compagnie de Dryades intervient et la tire de ce mauvais pas.",
+   "en": "According to the chronicles of Naggaroth, Morathi, searching for the lost Crown of Hotek, is ambushed by Shadow Warriors in the Black Forest. A warweald of Dryads steps in and saves her.",
+   "de": "Den Chroniken Naggaroths zufolge gerät Morathi auf der Suche nach der verlorenen Krone des Hotek im Schwarzen Wald in einen Hinterhalt von Schattenkriegern. Eine Schar Dryaden greift ein und rettet sie."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "naggaroth"
+  ],
+  "lieux": [
+   "naggaroth"
+  ],
+  "factions": [
+   "elfes-noirs",
+   "hauts-elfes",
+   "elfes-sylvains"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Date elfe sylvaine VI, 253, convertie d'après les bornes des saisons données par le wiki. La page Morathi du wiki indique VI, 758 (2261 CI) pour le même fait, d'après la même page du livre.",
+   "en": "Wood Elf date VI, 253, converted using the season boundaries given by the wiki. The wiki's Morathi page gives VI, 758 (2261 IC) for the same event, citing the same book page.",
+   "de": "Datum nach der waldelfischen Zählung VI, 253, umgerechnet anhand der vom Wiki angegebenen Jahreszeitengrenzen. Die Morathi-Seite des Wikis nennt für dasselbe Ereignis VI, 758 (2261 IC), mit Verweis auf dieselbe Buchseite."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Wood Elves, 8e édition",
+     "en": "Warhammer Armies: Wood Elves, 8th edition",
+     "de": "Warhammer Armies: Wood Elves, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 30",
+     "en": "p. 30",
+     "de": "S. 30"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Wood Elf Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Wood Elf Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Wood Elf Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Wood_Elf_Timeline"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Morathi",
+     "en": "Warhammer Fantasy Wiki (fandom), Morathi page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Morathi"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Morathi"
+   }
+  ]
+ },
+ {
+  "id": "malekith-asservit-n-kari",
+  "annee": 2273,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Malekith asservit N'Kari",
+   "en": "Malekith binds N'Kari",
+   "de": "Malekith unterwirft N'Kari"
+  },
+  "resume": {
+   "fr": "Dans les profondeurs de Naggarond, Malekith lie à son service le Gardien des Secrets N'Kari. Il compte sur la science du démon en matière de pierres de voie pour faire traverser Ulthuan à ses armées en un instant.",
+   "en": "Deep beneath Naggarond, Malekith binds the Keeper of Secrets N'Kari to his service. He means to use the Daemon's knowledge of waystones to move his armies across Ulthuan in an instant.",
+   "de": "Tief unter Naggarond bindet Malekith den Hüter der Geheimnisse N'Kari an sich. Er will das Wissen des Dämons über die Wegsteine nutzen, um seine Heere im Nu durch Ulthuan zu versetzen."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "naggaroth"
+  ],
+  "lieux": [
+   "naggarond"
+  ],
+  "factions": [
+   "elfes-noirs",
+   "chaos"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Date elfe noire VI, 770, convertie par le wiki.",
+   "en": "Dark Elf date VI, 770, converted by the wiki.",
+   "de": "Datum nach der dunkelelfischen Zählung VI, 770, umgerechnet durch das Wiki."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Sword of Caledor, William King",
+     "en": "Sword of Caledor, William King",
+     "de": "Sword of Caledor, William King"
+    },
+    "detail": {
+     "fr": "Prologue et chapitre 7",
+     "en": "Prologue and chapter 7",
+     "de": "Prolog und Kapitel 7"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Dark Elf Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Dark Elf Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Dark Elf Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Dark_Elf_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "urian-empoisonne-la-reine-eternelle",
+  "annee": 2273,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Urian empoisonne la Reine éternelle",
+   "en": "Urian poisons the Everqueen",
+   "de": "Urian vergiftet die Ewige Königin"
+  },
+  "resume": {
+   "fr": "La Reine éternelle est empoisonnée au Dragonspike par Urian Poisonblade, champion de Malekith.",
+   "en": "The Everqueen is poisoned with Dragonspike by Urian Poisonblade, Malekith's champion.",
+   "de": "Die Ewige Königin wird von Urian Poisonblade, Malekiths Champion, mit Drachendorn vergiftet."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "ulthuan"
+  ],
+  "lieux": [
+   "avelorn"
+  ],
+  "factions": [
+   "elfes-noirs",
+   "hauts-elfes"
+  ],
+  "importance": 1,
+  "fiabilite": "divergent",
+  "note": {
+   "fr": "Date elfe noire VI, 770, convertie par le wiki. La chronologie des Hauts Elfes place le même empoisonnement en XI, 138 (2301 CI), citant le même roman.",
+   "en": "Dark Elf date VI, 770, converted by the wiki. The High Elf timeline puts the same poisoning at XI, 138 (2301 IC), citing the same novel.",
+   "de": "Datum nach der dunkelelfischen Zählung VI, 770, umgerechnet durch das Wiki. Die Chronik der Hochelfen setzt dieselbe Vergiftung auf XI, 138 (2301 IC) und beruft sich auf denselben Roman."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Sword of Caledor, William King",
+     "en": "Sword of Caledor, William King",
+     "de": "Sword of Caledor, William King"
+    },
+    "detail": {
+     "fr": "Prologue",
+     "en": "Prologue",
+     "de": "Prolog"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Dark Elf Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Dark Elf Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Dark Elf Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Dark_Elf_Timeline"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page High Elf Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), High Elf Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite High Elf Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/High_Elf_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "folie-d-orion",
+  "annee": 2285,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "La Folie d'Orion",
+   "en": "The Madness of Orion",
+   "de": "Der Wahnsinn Orions"
+  },
+  "resume": {
+   "fr": "Orion renaît fou et sa démence gagne les Elfes et les esprits, tandis que la Chasse sauvage, presque quatre fois plus nombreuse, ravage le domaine de Quenelles. Le duc Fredfar part l'affronter et périt avec ses meilleurs chevaliers, puis la Chasse force les murs de la ville. Dans le bosquet sacré de Quenelles, une silhouette apparue dans la brume apaise Orion, qui regagne Athel Loren dès le lendemain.",
+   "en": "Orion is reborn insane and his madness spreads to Elves and spirits, while the Wild Hunt, nearly four times its usual size, ravages the domain of Quenelles. Duke Fredfar rides against it and dies with his best knights, and the Hunt then breaches the city walls. In the sacred grove of Quenelles, a figure appearing in the mist calms Orion, who returns to Athel Loren the next day.",
+   "de": "Orion wird wahnsinnig wiedergeboren, und sein Irrsinn greift auf Elfen und Geister über, während die fast vierfach verstärkte Wilde Jagd das Herzogtum Quenelles verwüstet. Herzog Fredfar zieht ihr entgegen und fällt mit seinen besten Rittern, worauf die Jagd die Stadtmauern durchbricht. Im heiligen Hain von Quenelles besänftigt eine Gestalt im Nebel Orion, der am nächsten Tag nach Athel Loren zurückkehrt."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "bretonnie",
+   "athel-loren"
+  ],
+  "lieux": [
+   "quenelles"
+  ],
+  "factions": [
+   "elfes-sylvains",
+   "bretonnie"
+  ],
+  "importance": 2,
+  "fiabilite": "etabli",
+  "note": {
+   "fr": "Date elfe sylvaine VI, 278, convertie d'après les bornes des saisons données par le wiki.",
+   "en": "Wood Elf date VI, 278, converted using the season boundaries given by the wiki.",
+   "de": "Datum nach der waldelfischen Zählung VI, 278, umgerechnet anhand der vom Wiki angegebenen Jahreszeitengrenzen."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Wood Elves, 8e édition",
+     "en": "Warhammer Armies: Wood Elves, 8th edition",
+     "de": "Warhammer Armies: Wood Elves, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 30",
+     "en": "p. 30",
+     "de": "S. 30"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Wood Elves, 6e édition",
+     "en": "Warhammer Armies: Wood Elves, 6th edition",
+     "de": "Warhammer Armies: Wood Elves, 6. Edition"
+    },
+    "detail": {
+     "fr": "p. 17",
+     "en": "p. 17",
+     "de": "S. 17"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Madness of Orion",
+     "en": "Warhammer Fantasy Wiki (fandom), Madness of Orion page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Madness of Orion"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Madness_of_Orion"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Wood Elf Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Wood Elf Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Wood Elf Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Wood_Elf_Timeline"
+   },
+   {
+    "titre": {
+     "fr": "Bibliothèque Impériale, page Histoire des Elfes Sylvains",
+     "en": "Bibliothèque Impériale, Histoire des Elfes Sylvains page",
+     "de": "Bibliothèque Impériale, Seite Histoire des Elfes Sylvains"
+    },
+    "detail": "",
+    "url": "https://www.bibliotheque-imperiale.com/index.php/Histoire_des_Elfes_Sylvains"
+   }
+  ]
+ },
+ {
+  "id": "guerre-des-usurpateurs-de-naggaroth",
+  "annee": 2304,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Les huit usurpateurs de Naggaroth",
+   "en": "The eight usurpers of Naggaroth",
+   "de": "Die acht Usurpatoren von Naggaroth"
+  },
+  "resume": {
+   "fr": "Malekith ayant fui dans le Royaume du Chaos, huit Seigneurs de la Terreur se disputent le Trône de Fer et Morathi est emprisonnée. Kouran Darkhand, capitaine de la Garde Noire, abat les prétendants, la libère et purge Naggarond six mois durant. Morathi le proclame régent et se retire à Ghrond.",
+   "en": "With Malekith fled into the Realm of Chaos, eight Dreadlords fight for the Iron Throne and Morathi is imprisoned. Kouran Darkhand, captain of the Black Guard, kills the claimants, frees her and purges Naggarond for six months. Morathi names him regent and retires to Ghrond.",
+   "de": "Da Malekith ins Reich des Chaos geflohen ist, kämpfen acht Schreckensfürsten um den Eisernen Thron, und Morathi wird eingekerkert. Kouran Darkhand, Hauptmann der Schwarzen Garde, tötet die Anwärter, befreit sie und säubert Naggarond sechs Monate lang. Morathi ernennt ihn zum Regenten und zieht sich nach Ghrond zurück."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "naggaroth"
+  ],
+  "lieux": [
+   "naggarond",
+   "ghrond"
+  ],
+  "factions": [
+   "elfes-noirs"
+  ],
+  "importance": 2,
+  "fiabilite": "etabli",
+  "note": {
+   "fr": "Date elfe noire VII, 3, convertie par le wiki.",
+   "en": "Dark Elf date VII, 3, converted by the wiki.",
+   "de": "Datum nach der dunkelelfischen Zählung VII, 3, umgerechnet durch das Wiki."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Dark Elves, 7e édition",
+     "en": "Warhammer Armies: Dark Elves, 7th edition",
+     "de": "Warhammer Armies: Dark Elves, 7. Edition"
+    },
+    "detail": {
+     "fr": "p. 33",
+     "en": "p. 33",
+     "de": "S. 33"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Dark Elves, 8e édition",
+     "en": "Warhammer Armies: Dark Elves, 8th edition",
+     "de": "Warhammer Armies: Dark Elves, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 27",
+     "en": "p. 27",
+     "de": "S. 27"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Morathi",
+     "en": "Warhammer Fantasy Wiki (fandom), Morathi page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Morathi"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Morathi"
+   }
+  ]
+ },
+ {
+  "id": "morathi-forge-heartrender",
+  "annee": 2304,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Morathi forge Heartrender",
+   "en": "Morathi forges Heartrender",
+   "de": "Morathi schmiedet Heartrender"
+  },
+  "resume": {
+   "fr": "Morathi forge son bâton magique Heartrender dans les feux de la Montagne Ardente.",
+   "en": "Morathi forges her magical staff Heartrender in the fires of the Burning Mountain.",
+   "de": "Morathi schmiedet ihren magischen Stab Heartrender in den Feuern des Brennenden Berges."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "naggaroth"
+  ],
+  "lieux": [],
+  "factions": [
+   "elfes-noirs"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Date elfe noire VII, 4, convertie par le wiki.",
+   "en": "Dark Elf date VII, 4, converted by the wiki.",
+   "de": "Datum nach der dunkelelfischen Zählung VII, 4, umgerechnet durch das Wiki."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Dark Elves, 7e édition",
+     "en": "Warhammer Armies: Dark Elves, 7th edition",
+     "de": "Warhammer Armies: Dark Elves, 7. Edition"
+    },
+    "detail": {
+     "fr": "p. 33",
+     "en": "p. 33",
+     "de": "S. 33"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Dark Elf Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Dark Elf Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Dark Elf Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Dark_Elf_Timeline"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Morathi",
+     "en": "Warhammer Fantasy Wiki (fandom), Morathi page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Morathi"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Morathi"
+   }
+  ]
+ },
+ {
+  "id": "bataille-des-champs-silencieux",
+  "annee": 2333,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Bataille des Champs Silencieux",
+   "en": "Battle of the Silent Fields",
+   "de": "Schlacht auf den Stillen Feldern"
+  },
+  "resume": {
+   "fr": "La nuit de Geheimnistag, des démons dévalent les Annulii et ravagent l'est de la Saphery jusqu'à ce que la Reine éternelle leur barre la route près de nombreuses pierres de voie. Comme ses pouvoirs faiblissent, une brume tombe et les pierres brûlent d'un feu blanc, tandis que des alliés inconnus emplissent les rangs elfes. La horde est anéantie et le souvenir de cette aide s'efface avec la brume.",
+   "en": "On the night of Twilight's Tide, Daemons pour down from the Annulii and ravage eastern Saphery until the Everqueen bars their way near a great cluster of waystones. As her powers wane, a mist falls and the stones burn with white flame, while unknown allies fill the Elven ranks. The horde is destroyed and the memory of that aid fades with the mist.",
+   "de": "In der Nacht des Geheimnistags stürzen Dämonen von den Annulii herab und verheeren das östliche Saphery, bis die Ewige Königin ihnen bei einer großen Ansammlung von Wegsteinen den Weg verlegt. Als ihre Kräfte schwinden, fällt Nebel, die Steine brennen in weißem Feuer, und unbekannte Verbündete füllen die Reihen der Elfen. Die Horde wird vernichtet, und die Erinnerung an diese Hilfe verblasst mit dem Nebel."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "ulthuan"
+  ],
+  "lieux": [],
+  "factions": [
+   "hauts-elfes",
+   "chaos"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Date haut-elfe XI, 170, convertie par le wiki.",
+   "en": "High Elf date XI, 170, converted by the wiki.",
+   "de": "Datum nach der hochelfischen Zählung XI, 170, umgerechnet durch das Wiki."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: High Elves, 8e édition",
+     "en": "Warhammer Armies: High Elves, 8th edition",
+     "de": "Warhammer Armies: High Elves, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 29",
+     "en": "p. 29",
+     "de": "S. 29"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Battle of the Silent Fields",
+     "en": "Warhammer Fantasy Wiki (fandom), Battle of the Silent Fields page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Battle of the Silent Fields"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Battle_of_the_Silent_Fields"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page High Elf Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), High Elf Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite High Elf Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/High_Elf_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "retour-du-duc-melmon",
+  "annee": 2336,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Le retour du duc Melmon",
+   "en": "The return of Duke Melmon",
+   "de": "Die Rückkehr Herzog Melmons"
+  },
+  "resume": {
+   "fr": "Un homme sort de la forêt de Loren en se disant Melmon, duc de Quenelles disparu mille ans plus tôt. Il vieillit à vue d'œil et meurt le jour même.",
+   "en": "A man comes out of the Forest of Loren claiming to be Melmon, the Duke of Quenelles who vanished a thousand years earlier. He ages visibly within hours and dies the same day.",
+   "de": "Ein Mann tritt aus dem Wald von Loren und behauptet, Melmon zu sein, der vor tausend Jahren verschwundene Herzog von Quenelles. Binnen Stunden altert er sichtbar und stirbt noch am selben Tag."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "athel-loren",
+   "bretonnie"
+  ],
+  "lieux": [
+   "athel-loren"
+  ],
+  "factions": [
+   "elfes-sylvains",
+   "bretonnie"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Date elfe sylvaine VI, 329, convertie d'après les bornes des saisons données par le wiki.",
+   "en": "Wood Elf date VI, 329, converted using the season boundaries given by the wiki.",
+   "de": "Datum nach der waldelfischen Zählung VI, 329, umgerechnet anhand der vom Wiki angegebenen Jahreszeitengrenzen."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Wood Elves, 6e édition",
+     "en": "Warhammer Armies: Wood Elves, 6th edition",
+     "de": "Warhammer Armies: Wood Elves, 6. Edition"
+    },
+    "detail": {
+     "fr": "p. 17",
+     "en": "p. 17",
+     "de": "S. 17"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Wood Elf Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Wood Elf Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Wood Elf Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Wood_Elf_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "waaagh-gashrak-contre-orion",
+  "annee": 2340,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "La Waaagh! Gashrak brisée par Orion",
+   "en": "Waaagh! Gashrak broken by Orion",
+   "de": "Der Waaagh! Gashrak an Orion zerschellt"
+  },
+  "resume": {
+   "fr": "Au cœur de l'été, la Waaagh! Gashrak descend des Cryptes vers Athel Loren et heurte de front la Chasse sauvage, lancée sur les basses terres de Parravon. Après un combat sur la Grismerie, les Orques refluent vers les montagnes. Orion tue Gashrak de sa lance et fait exposer son corps à la lisière de la forêt.",
+   "en": "At high summer, Waaagh! Gashrak comes down from the Vaults towards Athel Loren and runs headlong into the Wild Hunt as it surges over the Parravon lowlands. After a fight on the River Grismerie, the Orcs fall back to the mountains. Orion kills Gashrak with his spear and has the body staked out at the forest's edge.",
+   "de": "Im Hochsommer zieht der Waaagh! Gashrak aus den Kammern gegen Athel Loren und prallt auf die Wilde Jagd, die über das Tiefland von Parravon stürmt. Nach einem Gefecht an der Grismerie weichen die Orks in die Berge zurück. Orion tötet Gashrak mit seinem Speer und lässt den Leichnam am Waldrand aufpfählen."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "athel-loren",
+   "bretonnie"
+  ],
+  "lieux": [
+   "athel-loren"
+  ],
+  "factions": [
+   "elfes-sylvains",
+   "peaux-vertes"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Date elfe sylvaine VI, 333, convertie d'après les bornes des saisons données par le wiki.",
+   "en": "Wood Elf date VI, 333, converted using the season boundaries given by the wiki.",
+   "de": "Datum nach der waldelfischen Zählung VI, 333, umgerechnet anhand der vom Wiki angegebenen Jahreszeitengrenzen."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Wood Elves, 8e édition",
+     "en": "Warhammer Armies: Wood Elves, 8th edition",
+     "de": "Warhammer Armies: Wood Elves, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 31",
+     "en": "p. 31",
+     "de": "S. 31"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Wood Elf Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Wood Elf Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Wood Elf Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Wood_Elf_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "rituel-d-eveil-de-tyrion",
+  "annee": 2376,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Le Rituel d'Éveil",
+   "en": "The Ritual of Awakening",
+   "de": "Das Ritual des Erwachens"
+  },
+  "resume": {
+   "fr": "Morathi capture Tyrion et tente, sur l'Autel de Khaine de l'Île Flétrie, de faire renaître en lui Aenarion pour remplacer Malekith. Teclis et Eldyra viennent à son secours pendant que leur armée combat celle de Lyssa Cruelblade. Une trahison fait échouer le rituel, Morathi accusant Hellebron, et la Sorcière Suprême s'enfuit en abandonnant les siens.",
+   "en": "Morathi captures Tyrion and tries, on the Altar of Khaine on the Blighted Isle, to bring Aenarion back in him as a replacement for Malekith. Teclis and Eldyra come to his rescue while their army fights that of Lyssa Cruelblade. Treason ruins the ritual, for which Morathi blames Hellebron, and the Hag Sorceress flees, abandoning her followers.",
+   "de": "Morathi nimmt Tyrion gefangen und versucht auf dem Altar des Khaine auf der Verdorrten Insel, Aenarion in ihm wiederzuerwecken, um Malekith zu ersetzen. Teclis und Eldyra eilen ihm zu Hilfe, während ihr Heer gegen Lyssa Cruelblade kämpft. Verrat lässt das Ritual scheitern, wofür Morathi Hellebron beschuldigt, und die Hexenkönigin flieht und lässt ihre Anhänger zurück."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "ulthuan"
+  ],
+  "lieux": [
+   "ile-fletrie"
+  ],
+  "factions": [
+   "elfes-noirs",
+   "hauts-elfes"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Date elfe noire VII, 76, convertie par le wiki. La page Morathi du wiki convertit la même date en 2377 CI.",
+   "en": "Dark Elf date VII, 76, converted by the wiki. The wiki's Morathi page converts the same date to 2377 IC.",
+   "de": "Datum nach der dunkelelfischen Zählung VII, 76, umgerechnet durch das Wiki. Die Morathi-Seite des Wikis rechnet dasselbe Datum in 2377 IC um."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Dark Elves, 8e édition",
+     "en": "Warhammer Armies: Dark Elves, 8th edition",
+     "de": "Warhammer Armies: Dark Elves, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 27",
+     "en": "p. 27",
+     "de": "S. 27"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Dark Elf Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Dark Elf Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Dark Elf Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Dark_Elf_Timeline"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Morathi",
+     "en": "Warhammer Fantasy Wiki (fandom), Morathi page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Morathi"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Morathi"
+   }
+  ]
+ },
+ {
+  "id": "karak-norn-marche-sur-athel-loren-2385",
+  "annee": 2385,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Karak Norn marche de nouveau sur Athel Loren",
+   "en": "Karak Norn marches on Athel Loren again",
+   "de": "Karak Norn zieht erneut gegen Athel Loren"
+  },
+  "resume": {
+   "fr": "Comme tant de fois depuis la mort de Grungni Goldfinder, les Nains de Karak Norn attaquent Athel Loren. Ils sont repoussés dans le sang sans rien y gagner.",
+   "en": "As so often since the death of Grungni Goldfinder, the Dwarfs of Karak Norn attack Athel Loren. They are bloodily driven back with nothing gained.",
+   "de": "Wie so oft seit dem Tod von Grungni Goldfinder greifen die Zwerge von Karak Norn Athel Loren an. Sie werden blutig zurückgeschlagen, ohne etwas zu gewinnen."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "athel-loren",
+   "montagnes"
+  ],
+  "lieux": [
+   "karak-norn",
+   "athel-loren"
+  ],
+  "factions": [
+   "elfes-sylvains",
+   "nains"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Date elfe sylvaine VI, 378, convertie d'après les bornes des saisons données par le wiki.",
+   "en": "Wood Elf date VI, 378, converted using the season boundaries given by the wiki.",
+   "de": "Datum nach der waldelfischen Zählung VI, 378, umgerechnet anhand der vom Wiki angegebenen Jahreszeitengrenzen."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Wood Elves, 8e édition",
+     "en": "Warhammer Armies: Wood Elves, 8th edition",
+     "de": "Warhammer Armies: Wood Elves, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 31",
+     "en": "p. 31",
+     "de": "S. 31"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Wood Elf Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Wood Elf Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Wood Elf Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Wood_Elf_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "invasion-skaven-d-eataine",
+  "annee": 2399,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Invasion skaven d'Eataine",
+   "en": "Skaven invasion of Eataine",
+   "de": "Skaveninvasion in Eataine"
+  },
+  "resume": {
+   "fr": "Des submersibles skavens passent sous les portes maritimes de Lothern et s'échouent sur les rivages d'Eataine. La Garde maritime tient les falaises contre les vagues du seigneur de guerre Skizratch du clan Rictus, qu'une flèche abat. Caradryan et sa Garde Phénix accourent alors depuis le Sanctuaire d'Asuryan, portés par des Phénix.",
+   "en": "Skaven submersibles pass under the sea-gates of Lothern and beach on the shores of Eataine. The Sea Guard holds the bluffs against the waves of Warlord Skizratch of Clan Rictus, who falls to an arrow. Caradryan and his Phoenix Guard then fly in from the Shrine of Asuryan on the backs of Phoenixes.",
+   "de": "Skaven-Tauchboote gelangen unter den Seetoren Lothern hindurch und stranden an der Küste von Eataine. Die Seegarde hält die Klippen gegen die Wellen des Kriegsherrn Skizratch vom Klan Rictus, der von einem Pfeil niedergestreckt wird. Caradryan und seine Phönixgarde eilen dann auf Phönixen vom Schrein des Asuryan herbei."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "ulthuan"
+  ],
+  "lieux": [
+   "lothern",
+   "sanctuaire-d-asuryan"
+  ],
+  "factions": [
+   "hauts-elfes",
+   "skavens"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Date haut-elfe XI, 236, convertie par le wiki.",
+   "en": "High Elf date XI, 236, converted by the wiki.",
+   "de": "Datum nach der hochelfischen Zählung XI, 236, umgerechnet durch das Wiki."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: High Elves, 8e édition",
+     "en": "Warhammer Armies: High Elves, 8th edition",
+     "de": "Warhammer Armies: High Elves, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 32",
+     "en": "p. 32",
+     "de": "S. 32"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Invasion of Eataine",
+     "en": "Warhammer Fantasy Wiki (fandom), Invasion of Eataine page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Invasion of Eataine"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Invasion_of_Eataine"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page High Elf Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), High Elf Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite High Elf Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/High_Elf_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "retour-du-roi-sorcier-2402",
+  "annee": 2402,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Le Roi-Sorcier revient du Royaume du Chaos",
+   "en": "The Witch King returns from the Realm of Chaos",
+   "de": "Der Hexenkönig kehrt aus dem Reich des Chaos zurück"
+  },
+  "resume": {
+   "fr": "Après sa longue errance dans le Royaume du Chaos, Malekith est retrouvé brisé par des Cavaliers Noirs au pied des tours de guet du nord. Morathi le soigne un an durant, puis il se réveille transformé, sans rien dire de ce qu'il a vécu. Seule trace, une pointe de corne démoniaque découverte à ses côtés.",
+   "en": "After long wandering in the Realm of Chaos, Malekith is found broken by Dark Riders below the northern watchtowers. Morathi nurses him for a year, and he wakes changed, saying nothing of what he endured. The only clue is a broken tip of Daemon horn found at his side.",
+   "de": "Nach langer Irrfahrt durch das Reich des Chaos wird Malekith von Dunklen Reitern zerschlagen am Fuß der nördlichen Wachtürme gefunden. Morathi pflegt ihn ein Jahr lang, und er erwacht verändert, ohne über das Erlebte zu sprechen. Einziger Hinweis ist eine abgebrochene Dämonenhornspitze an seiner Seite."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "naggaroth"
+  ],
+  "lieux": [
+   "naggaroth"
+  ],
+  "factions": [
+   "elfes-noirs",
+   "chaos"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Date elfe noire VII, 102, convertie par le wiki.",
+   "en": "Dark Elf date VII, 102, converted by the wiki.",
+   "de": "Datum nach der dunkelelfischen Zählung VII, 102, umgerechnet durch das Wiki."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Dark Elves, 8e édition",
+     "en": "Warhammer Armies: Dark Elves, 8th edition",
+     "de": "Warhammer Armies: Dark Elves, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 27",
+     "en": "p. 27",
+     "de": "S. 27"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Dark Elf Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Dark Elf Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Dark Elf Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Dark_Elf_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "chute-de-l-amiral-aislinn",
+  "annee": 2417,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "La chute du seigneur des mers Aislinn",
+   "en": "Sea Lord Aislinn's downfall",
+   "de": "Der Sturz des Seelords Aislinn"
+  },
+  "resume": {
+   "fr": "Aislinn traque la Tour de l'Effroi Béni de Lokhir Fellheart dans la mer des Serpents, mais son embuscade tourne au désastre sous les Doomreavers, les assassins et un nuage de lames conjuré par les sorcières. Laissé pour mort, il échoue six mois plus tard sur les rivages d'Eataine sans une cicatrice ni aucun souvenir. On le salue dès lors comme le Héraut de Mathlann.",
+   "en": "Aislinn stalks Lokhir Fellheart's Tower of Blessed Dread through the Sea of Serpents, but his ambush turns to disaster under Doomreavers, Assassins and a cloud of blades conjured by sorceresses. Left for dead, he washes up on the shores of Eataine six months later with no scar and no memory. He is thereafter hailed as the Herald of Mathlann.",
+   "de": "Aislinn verfolgt Lokhir Fellhearts Turm des Gesegneten Grauens durch die Schlangensee, doch sein Hinterhalt endet im Desaster durch Doomreaver, Assassinen und eine von Zauberinnen beschworene Klingenwolke. Für tot gehalten, wird er sechs Monate später ohne Narbe und ohne Erinnerung an die Küste von Eataine gespült. Fortan feiert man ihn als Herold des Mathlann."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "ulthuan"
+  ],
+  "lieux": [],
+  "factions": [
+   "hauts-elfes",
+   "elfes-noirs"
+  ],
+  "importance": 2,
+  "fiabilite": "etabli",
+  "note": {
+   "fr": "Date elfe noire VII, 117 et XI, 254, convertie par le wiki.",
+   "en": "Dark Elf date VII, 117 et XI, 254, converted by the wiki.",
+   "de": "Datum nach der dunkelelfischen Zählung VII, 117 et XI, 254, umgerechnet durch das Wiki."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Dark Elves, 8e édition",
+     "en": "Warhammer Armies: Dark Elves, 8th edition",
+     "de": "Warhammer Armies: Dark Elves, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 29",
+     "en": "p. 29",
+     "de": "S. 29"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Warhammer Armies: High Elves, 8e édition",
+     "en": "Warhammer Armies: High Elves, 8th edition",
+     "de": "Warhammer Armies: High Elves, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 32",
+     "en": "p. 32",
+     "de": "S. 32"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Lokhir Fellheart",
+     "en": "Warhammer Fantasy Wiki (fandom), Lokhir Fellheart page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Lokhir Fellheart"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Lokhir_Fellheart"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Dark Elf Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Dark Elf Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Dark Elf Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Dark_Elf_Timeline"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page High Elf Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), High Elf Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite High Elf Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/High_Elf_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "drycha-sanctuaire-de-taal-reikwald",
+  "annee": 2432,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Drycha détruit un sanctuaire de Taal au Reikwald",
+   "en": "Drycha destroys a Shrine of Taal in the Reikwald",
+   "de": "Drycha zerstört einen Taal-Schrein im Reikwald"
+  },
+  "resume": {
+   "fr": "Les suivantes de Drycha assaillent le sanctuaire de Taal du Reikwald, mais un chasseur porte l'alerte à Altdorf avant de mourir. Les renforts sont pris en embuscade sur la route d'Altdorf à Weismund. Quand ils percent enfin, le sanctuaire est rasé et le Croc de Taalroth volé.",
+   "en": "Drycha's handmaidens attack the Shrine of Taal in the Reikwald, but a huntsman brings the alarm to Altdorf before dying. Reinforcements are ambushed on the Altdorf-Weismund road. By the time they break through, the shrine is levelled and the Fang of Taalroth stolen.",
+   "de": "Drychas Dienerinnen greifen den Taal-Schrein im Reikwald an, doch ein Jäger bringt vor seinem Tod die Warnung nach Altdorf. Die Verstärkung gerät auf der Straße von Altdorf nach Weismund in einen Hinterhalt. Als sie durchbricht, ist der Schrein zerstört und der Fang von Taalroth gestohlen."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [],
+  "factions": [
+   "elfes-sylvains",
+   "empire"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Date elfe sylvaine VI, 425, convertie d'après les bornes des saisons données par le wiki.",
+   "en": "Wood Elf date VI, 425, converted using the season boundaries given by the wiki.",
+   "de": "Datum nach der waldelfischen Zählung VI, 425, umgerechnet anhand der vom Wiki angegebenen Jahreszeitengrenzen."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Wood Elves, 8e édition",
+     "en": "Warhammer Armies: Wood Elves, 8th edition",
+     "de": "Warhammer Armies: Wood Elves, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 32",
+     "en": "p. 32",
+     "de": "S. 32"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Wood Elf Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Wood Elf Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Wood Elf Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Wood_Elf_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "nuit-de-douleur-et-de-plaisir",
+  "annee": 2452,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "La Nuit de Douleur et de Plaisir",
+   "en": "Night of Pain and Pleasure",
+   "de": "Nacht von Schmerz und Lust"
+  },
+  "resume": {
+   "fr": "En pleine fête d'Atharti, N'Kari lance une horde de démons dans Naggarond pour se venger de Malekith. Le capitaine Kouran fait reculer ses lances vers la grande esplanade, où les machines de guerre et la Garde Noire piègent les envahisseurs. Le Roi-Sorcier suit tout depuis le balcon de sa tour.",
+   "en": "At the height of the rites of Atharti, N'Kari unleashes a daemon horde in Naggarond to take revenge on Malekith. Captain Kouran draws his spears back to the great concourse, where war machines and the Black Guard trap the invaders. The Witch King watches it all from the balcony of his tower.",
+   "de": "Auf dem Höhepunkt der Riten der Atharti lässt N'Kari aus Rache an Malekith eine Dämonenhorde auf Naggarond los. Hauptmann Kouran zieht seine Speere zum großen Platz zurück, wo Kriegsmaschinen und die Schwarze Garde die Eindringlinge in die Falle locken. Der Hexenkönig verfolgt alles vom Balkon seines Turms."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "naggaroth"
+  ],
+  "lieux": [
+   "naggarond"
+  ],
+  "factions": [
+   "elfes-noirs",
+   "chaos"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Date elfe noire VII, 152, convertie par le wiki.",
+   "en": "Dark Elf date VII, 152, converted by the wiki.",
+   "de": "Datum nach der dunkelelfischen Zählung VII, 152, umgerechnet durch das Wiki."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Dark Elves, 8e édition",
+     "en": "Warhammer Armies: Dark Elves, 8th edition",
+     "de": "Warhammer Armies: Dark Elves, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 30",
+     "en": "p. 30",
+     "de": "S. 30"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Night of Pain and Pleasure",
+     "en": "Warhammer Fantasy Wiki (fandom), Night of Pain and Pleasure page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Night of Pain and Pleasure"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Night_of_Pain_and_Pleasure"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Dark Elf Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Dark Elf Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Dark Elf Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Dark_Elf_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "croisade-de-sang-d-hellebron",
+  "annee": 2468,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "La Croisade de Sang",
+   "en": "The Crusade of Blood",
+   "de": "Der Blutkreuzzug"
+  },
+  "resume": {
+   "fr": "Hellebron proclame une guerre sainte au nom de Khaine et débarque en Bretonnie, où elle écrase le duc D'Bastalle à Nouvionne, puis ravage les Royaumes frontaliers et les Terres arides. Elle rentre à Naggaroth tandis que Tullaris Dreadbringer poursuit jusqu'en Nehekhara. Privés de sang à offrir, ses guerriers perdent la faveur de Khaine et sont repoussés vers le nord par les Rois des tombes.",
+   "en": "Hellebron proclaims a holy war in Khaine's name and lands in Bretonnia, where she crushes Duke D'Bastalle at Nouvionne, then ravages the Border Princes and the Badlands. She returns to Naggaroth while Tullaris Dreadbringer presses on into Nehekhara. Without blood to offer, his warriors lose Khaine's favour and are driven north by the Tomb Kings.",
+   "de": "Hellebron ruft im Namen Khaines einen heiligen Krieg aus, landet in Bretonia, zerschlägt Herzog D'Bastalle bei Nouvionne und verheert die Grenzgrafschaften und die Ödlande. Sie kehrt nach Naggaroth zurück, während Tullaris Dreadbringer nach Nehekhara weiterzieht. Ohne Blut als Opfer verlieren seine Krieger Khaines Gunst und werden von den Gruftkönigen nach Norden gedrängt."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "bretonnie",
+   "royaumes-frontaliers",
+   "terres-arides",
+   "sud"
+  ],
+  "lieux": [
+   "har-ganeth",
+   "nehekhara"
+  ],
+  "factions": [
+   "elfes-noirs",
+   "bretonnie",
+   "peaux-vertes",
+   "rois-des-tombes"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Date elfe noire VII, 168, convertie par le wiki.",
+   "en": "Dark Elf date VII, 168, converted by the wiki.",
+   "de": "Datum nach der dunkelelfischen Zählung VII, 168, umgerechnet durch das Wiki."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Dark Elves, 8e édition",
+     "en": "Warhammer Armies: Dark Elves, 8th edition",
+     "de": "Warhammer Armies: Dark Elves, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 31",
+     "en": "p. 31",
+     "de": "S. 31"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Crusade of Blood",
+     "en": "Warhammer Fantasy Wiki (fandom), Crusade of Blood page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Crusade of Blood"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Crusade_of_Blood"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Dark Elf Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Dark Elf Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Dark Elf Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Dark_Elf_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "ungrim-se-retourne-contre-thalandor",
+  "annee": 2506,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Ungrim se retourne contre Thalandor",
+   "en": "Ungrim turns on Thalandor",
+   "de": "Ungrim wendet sich gegen Thalandor"
+  },
+  "resume": {
+   "fr": "Ungrim Poing de Fer affronte des Peaux-vertes aux lisières d'Athel Loren, et Thalandor Doomstar vient à son aide. Sitôt les Orques battus, les Nains tournent leurs haches contre les Elfes pour solder une rancune millénaire, et Thalandor se retire en jurant vengeance.",
+   "en": "Ungrim Ironfist fights greenskins on the edge of Athel Loren, and Thalandor Doomstar comes to his aid. With the Orcs beaten, the Dwarfs turn their axes on the Elves to settle an ancient grudge, and Thalandor withdraws swearing revenge.",
+   "de": "Ungrim Eisenfaust kämpft am Rand von Athel Loren gegen Grünhäute, und Thalandor Doomstar eilt ihm zu Hilfe. Kaum sind die Orks geschlagen, wenden die Zwerge ihre Äxte gegen die Elfen, um einen uralten Groll zu begleichen, und Thalandor zieht sich unter Racheschwüren zurück."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "athel-loren"
+  ],
+  "lieux": [
+   "athel-loren"
+  ],
+  "factions": [
+   "elfes-sylvains",
+   "nains",
+   "peaux-vertes"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Date elfe sylvaine VI, 499, convertie d'après les bornes des saisons données par le wiki.",
+   "en": "Wood Elf date VI, 499, converted using the season boundaries given by the wiki.",
+   "de": "Datum nach der waldelfischen Zählung VI, 499, umgerechnet anhand der vom Wiki angegebenen Jahreszeitengrenzen."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Wood Elves, 8e édition",
+     "en": "Warhammer Armies: Wood Elves, 8th edition",
+     "de": "Warhammer Armies: Wood Elves, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 33",
+     "en": "p. 33",
+     "de": "S. 33"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Wood Elf Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Wood Elf Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Wood Elf Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Wood_Elf_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "blocus-de-karak-kadrin-par-thalandor",
+  "annee": 2507,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Thalandor assiège Karak Kadrin",
+   "en": "Thalandor besieges Karak Kadrin",
+   "de": "Thalandor belagert Karak Kadrin"
+  },
+  "resume": {
+   "fr": "Thalandor, seigneur d'Argwylon, attaque les ouvrages avancés de Karak Kadrin et les tient bloqués près d'un an. Il écrase les sorties de la garnison et repousse deux armées de secours venues de Zhufbar, puis se retire, satisfait de sa vengeance.",
+   "en": "Thalandor, Lord of Argwylon, attacks the outer works of Karak Kadrin and blockades them for nearly a year. He crushes the garrison's sorties and repels two relief armies from Zhufbar, then withdraws, satisfied with his revenge.",
+   "de": "Thalandor, Herr von Argwylon, greift die Außenwerke von Karak Kadrin an und blockiert sie fast ein Jahr lang. Er zerschlägt die Ausfälle der Besatzung, wehrt zwei Entsatzheere aus Zhufbar ab und zieht dann zufrieden mit seiner Rache ab."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "montagnes"
+  ],
+  "lieux": [
+   "karak-kadrin",
+   "zhufbar"
+  ],
+  "factions": [
+   "elfes-sylvains",
+   "nains"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Date elfe sylvaine VI, 500, convertie d'après les bornes des saisons données par le wiki.",
+   "en": "Wood Elf date VI, 500, converted using the season boundaries given by the wiki.",
+   "de": "Datum nach der waldelfischen Zählung VI, 500, umgerechnet anhand der vom Wiki angegebenen Jahreszeitengrenzen."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Wood Elves, 8e édition",
+     "en": "Warhammer Armies: Wood Elves, 8th edition",
+     "de": "Warhammer Armies: Wood Elves, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 33",
+     "en": "p. 33",
+     "de": "S. 33"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Wood Elf Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Wood Elf Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Wood Elf Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Wood_Elf_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "ariel-ordonne-la-chasse-aux-hommes-betes",
+  "annee": 2512,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Ariel lance la chasse aux Hommes-bêtes",
+   "en": "Ariel orders the hunt for the Beastmen",
+   "de": "Ariel befiehlt die Jagd auf die Tiermenschen"
+  },
+  "resume": {
+   "fr": "Naieth la Prophétesse voit en songe la mort d'Athel Loren. Ariel ordonne alors aux nobles de la forêt de traquer les Hommes-bêtes à travers le monde.",
+   "en": "Naieth the Prophetess has a vision of the death of Athel Loren. Ariel then directs the forest's nobles to hunt the Beastmen across the wider world.",
+   "de": "Naieth die Prophetin sieht in einer Vision den Tod von Athel Loren. Daraufhin weist Ariel die Adligen des Waldes an, die Tiermenschen in aller Welt zu jagen."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "athel-loren"
+  ],
+  "lieux": [
+   "athel-loren"
+  ],
+  "factions": [
+   "elfes-sylvains",
+   "chaos"
+  ],
+  "importance": 1,
+  "fiabilite": "divergent",
+  "note": {
+   "fr": "Date elfe sylvaine VI, 505, convertie d'après les bornes des saisons données par le wiki. La 8e édition place cette vision en VI, 1 (2008 CI) et la 6e édition en VI, 505.",
+   "en": "Wood Elf date VI, 505, converted using the season boundaries given by the wiki. The 8th edition puts this vision at VI, 1 (2008 IC) and the 6th edition at VI, 505.",
+   "de": "Datum nach der waldelfischen Zählung VI, 505, umgerechnet anhand der vom Wiki angegebenen Jahreszeitengrenzen. Die 8. Edition setzt diese Vision auf VI, 1 (2008 IC), die 6. Edition auf VI, 505."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Wood Elves, 6e édition",
+     "en": "Warhammer Armies: Wood Elves, 6th edition",
+     "de": "Warhammer Armies: Wood Elves, 6. Edition"
+    },
+    "detail": {
+     "fr": "p. 17",
+     "en": "p. 17",
+     "de": "S. 17"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Wood Elves, 8e édition",
+     "en": "Warhammer Armies: Wood Elves, 8th edition",
+     "de": "Warhammer Armies: Wood Elves, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 15",
+     "en": "p. 15",
+     "de": "S. 15"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Wood Elf Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Wood Elf Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Wood Elf Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Wood_Elf_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "trahison-du-drakwald-2514",
+  "annee": 2514,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "La trahison du Drakwald",
+   "en": "A Drakwald Betrayal",
+   "de": "Ein Verrat im Drakwald"
+  },
+  "resume": {
+   "fr": "Draxor Bloodscar, seigneur de Kassna Kor, détruit une armée de Hauts Elfes en route pour aider Karl Franz, puis prend l'apparence de ses victimes. Il rejoint l'Empereur contre les Hommes-bêtes du Drakwald et se retourne contre lui en pleine bataille. L'armée impériale s'effondre et le capitaine de la Reiksguard arrache Karl Franz au champ de bataille.",
+   "en": "Draxor Bloodscar, Dreadlord of Kassna Kor, destroys a High Elf army marching to help Karl Franz, then takes on the likeness of his victims. He joins the Emperor against the Drakwald Beastmen and turns on him mid-battle. The imperial army collapses and the Reiksguard captain drags Karl Franz from the field.",
+   "de": "Draxor Bloodscar, Schreckensfürst von Kassna Kor, vernichtet ein Hochelfenheer auf dem Weg zu Karl Franz und nimmt dann die Gestalt seiner Opfer an. Er schließt sich dem Imperator gegen die Tiermenschen des Drakwald an und fällt ihm mitten in der Schlacht in den Rücken. Das kaiserliche Heer bricht zusammen, und der Hauptmann der Reiksgarde zerrt Karl Franz vom Schlachtfeld."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "foret-de-drakwald"
+  ],
+  "factions": [
+   "elfes-noirs",
+   "hauts-elfes",
+   "empire",
+   "chaos"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Date elfe noire VII, 214, convertie par le wiki.",
+   "en": "Dark Elf date VII, 214, converted by the wiki.",
+   "de": "Datum nach der dunkelelfischen Zählung VII, 214, umgerechnet durch das Wiki."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Dark Elves, 8e édition",
+     "en": "Warhammer Armies: Dark Elves, 8th edition",
+     "de": "Warhammer Armies: Dark Elves, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 31",
+     "en": "p. 31",
+     "de": "S. 31"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page A Drakwald Betrayal",
+     "en": "Warhammer Fantasy Wiki (fandom), A Drakwald Betrayal page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite A Drakwald Betrayal"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/A_Drakwald_Betrayal"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Dark Elf Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Dark Elf Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Dark Elf Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Dark_Elf_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "ariel-convoquee-au-pic-d-argent",
+  "annee": 2521,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Ariel convoquée au Pic d'Argent",
+   "en": "Ariel summoned to the Silverspire",
+   "de": "Ariel zur Silberspitze gerufen"
+  },
+  "resume": {
+   "fr": "Une naïade apporte à Athel Loren l'ordre de la Dame du Lac : Ariel doit se rendre au Pic d'Argent. Elle obéit, le ciel du nord s'embrase de magie trois jours durant, et elle revient dire qu'une querelle de sœurs a été réglée.",
+   "en": "A naiad brings word from the Lady of the Lake to Athel Loren: Ariel must travel to the Silverspire. She complies, the northern skies blaze with magic for three days, and she returns saying a quarrel between siblings has been settled.",
+   "de": "Eine Najade überbringt Athel Loren die Botschaft der Herrin vom See: Ariel soll zur Silberspitze kommen. Sie gehorcht, der Nordhimmel lodert drei Tage lang vor Magie, und sie kehrt mit der Nachricht zurück, ein Streit unter Geschwistern sei beigelegt."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "athel-loren",
+   "bretonnie"
+  ],
+  "lieux": [
+   "pic-d-argent",
+   "athel-loren"
+  ],
+  "factions": [
+   "elfes-sylvains",
+   "bretonnie"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Date elfe sylvaine VI, 514, convertie d'après les bornes des saisons données par le wiki.",
+   "en": "Wood Elf date VI, 514, converted using the season boundaries given by the wiki.",
+   "de": "Datum nach der waldelfischen Zählung VI, 514, umgerechnet anhand der vom Wiki angegebenen Jahreszeitengrenzen."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Wood Elves, 8e édition",
+     "en": "Warhammer Armies: Wood Elves, 8th edition",
+     "de": "Warhammer Armies: Wood Elves, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 33",
+     "en": "p. 33",
+     "de": "S. 33"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Wood Elf Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Wood Elf Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Wood Elf Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Wood_Elf_Timeline"
+   }
+  ]
+ },
+ {
+  "id": "drycha-sauve-armand-d-aquitaine",
+  "annee": 2521,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Drycha au secours d'Armand d'Aquitaine",
+   "en": "Drycha aids Armand of Aquitaine",
+   "de": "Drycha hilft Armand von Aquitaine"
+  },
+  "resume": {
+   "fr": "Désobéissant à Louen Cœur de Lion, le duc Armand d'Aquitaine affronte seul l'armée de Mallobaude et n'échappe à la défaite que par l'arrivée de Drycha et de ses esprits, sortis de la forêt de Châlons. Ils repartent aussitôt, et la Fée Enchanteresse a disparu avec eux.",
+   "en": "Defying Louen Leoncoeur, Duke Armand of Aquitaine faces Mallobaude's army alone and escapes defeat only when Drycha and her spirits emerge from the Forest of Châlons. They soon leave, and the Fay Enchantress has vanished with them.",
+   "de": "Entgegen dem Befehl Louen Leoncoeurs stellt sich Herzog Armand von Aquitaine allein Mallobaudes Heer und entgeht der Niederlage nur, weil Drycha mit ihren Geistern aus dem Wald von Châlons kommt. Sie ziehen bald wieder ab, und mit ihnen ist die Feenzauberin verschwunden."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "bretonnie"
+  ],
+  "lieux": [],
+  "factions": [
+   "elfes-sylvains",
+   "bretonnie"
+  ],
+  "importance": 2,
+  "fiabilite": "divergent",
+  "note": {
+   "fr": "Date elfe sylvaine VI, 514, convertie d'après les bornes des saisons données par le wiki. La conversion donne 2521 CI, alors que la chronologie du projet place la guerre civile de Mallobaude en 2522 CI.",
+   "en": "Wood Elf date VI, 514, converted using the season boundaries given by the wiki. The conversion gives 2521 IC, whereas the project timeline dates Mallobaude's civil war to 2522 IC.",
+   "de": "Datum nach der waldelfischen Zählung VI, 514, umgerechnet anhand der vom Wiki angegebenen Jahreszeitengrenzen. Die Umrechnung ergibt 2521 IC, während die Chronik des Projekts Mallobaudes Bürgerkrieg auf 2522 IC datiert."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Wood Elves, 8e édition",
+     "en": "Warhammer Armies: Wood Elves, 8th edition",
+     "de": "Warhammer Armies: Wood Elves, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 33",
+     "en": "p. 33",
+     "de": "S. 33"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Wood Elf Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Wood Elf Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Wood Elf Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Wood_Elf_Timeline"
+   }
+  ]
+ }
+]
