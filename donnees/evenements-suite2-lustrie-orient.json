@@ -1,0 +1,1891 @@
+[
+ {
+  "id": "chiccotta-sauve-les-terres-du-sud",
+  "annee": -4500,
+  "fin": null,
+  "approx": true,
+  "titre": {
+   "fr": "Le sacrifice de Chiccotta de Zlatlan",
+   "en": "The sacrifice of Chiccotta of Zlatlan",
+   "de": "Das Opfer Chiccottas von Zlatlan"
+  },
+  "resume": {
+   "fr": "Élève de l'Ancien Xholankha, le Prêtre-Mage Chiccotta anéantit les légions démoniaques des Terres du Sud par un sortilège cataclysmique qui lui coûte la vie. Les cités-temples de ce continent perdent vers la même époque le contact avec celles de Lustrie.",
+   "en": "A pupil of the Old One Xholankha, the Mage-Priest Chiccotta wipes out the daemonic legions of the Southlands with a cataclysmic spell that costs him his life. Around the same time the temple-cities of that continent lose contact with those of Lustria.",
+   "de": "Der Magierpriester Chiccotta, ein Schüler des Alten Xholankha, vernichtet die Dämonenlegionen der Südlande mit einem katastrophalen Zauber, der ihn das Leben kostet. Etwa zur selben Zeit verlieren die Tempelstädte dieses Kontinents die Verbindung zu denen Lustrias."
+  },
+  "ere": "grande-catastrophe",
+  "regions": [
+   "sud"
+  ],
+  "lieux": [
+   "zlatlan"
+  ],
+  "factions": [
+   "hommes-lezards",
+   "chaos"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Lustria, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Lustria, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Lustria, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "pp. 20-21",
+     "en": "pp. 20-21",
+     "de": "S. 20-21"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Southlands",
+     "en": "Warhammer Fantasy Wiki (fandom), Southlands page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Southlands"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Southlands"
+   }
+  ]
+ },
+ {
+  "id": "slanns-tardifs-dans-les-terres-du-sud",
+  "annee": -3500,
+  "fin": null,
+  "approx": true,
+  "titre": {
+   "fr": "De jeunes Slanns dans les Terres du Sud",
+   "en": "Younger Slann in the Southlands",
+   "de": "Jüngere Slann in den Südlanden"
+  },
+  "resume": {
+   "fr": "Les premiers Slanns de la quatrième ou de la cinquième génération s'installent dans les cités-temples des Terres du Sud.",
+   "en": "The first Slann of the fourth or fifth generation settle in the temple-cities of the Southlands.",
+   "de": "Die ersten Slann der vierten oder fünften Generation lassen sich in den Tempelstädten der Südlande nieder."
+  },
+  "ere": "grande-catastrophe",
+  "regions": [
+   "sud"
+  ],
+  "lieux": [],
+  "factions": [
+   "hommes-lezards"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Lizardmen, 6e édition",
+     "en": "Warhammer Armies: Lizardmen, 6th edition",
+     "de": "Warhammer Armies: Lizardmen, 6. Edition"
+    },
+    "detail": {
+     "fr": "p. 74",
+     "en": "p. 74",
+     "de": "S. 74"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Southlands",
+     "en": "Warhammer Fantasy Wiki (fandom), Southlands page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Southlands"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Southlands"
+   }
+  ]
+ },
+ {
+  "id": "memoire-du-seigneur-xltep",
+  "annee": -3127,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Le seigneur Xltep perd la mémoire",
+   "en": "Lord Xltep loses his memory",
+   "de": "Fürst Xltep verliert sein Gedächtnis"
+  },
+  "resume": {
+   "fr": "Les scribes skinks notent que l'esprit du Slann Xltep, jusque-là limpide, s'embrume et que sa mémoire le trahit.",
+   "en": "Skink scribes note that the once clear mind of the Slann Xltep has clouded and that his memory is failing him.",
+   "de": "Skink-Schreiber halten fest, dass sich der einst klare Geist des Slann Xltep eintrübt und sein Gedächtnis nachlässt."
+  },
+  "ere": "grande-catastrophe",
+  "regions": [
+   "lustrie"
+  ],
+  "lieux": [],
+  "factions": [
+   "hommes-lezards"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Lizardmen, 8e édition",
+     "en": "Warhammer Armies: Lizardmen, 8th edition",
+     "de": "Warhammer Armies: Lizardmen, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 26",
+     "en": "p. 26",
+     "de": "S. 26"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Lizardmen Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Lizardmen Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Lizardmen Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Lizardmen_Timeline"
+   },
+   {
+    "titre": {
+     "fr": "La Bibliothèque Impériale, page Chronologie des Hommes-Lézards",
+     "en": "La Bibliothèque Impériale, Chronologie des Hommes-Lézards page",
+     "de": "La Bibliothèque Impériale, Seite Chronologie des Hommes-Lézards"
+    },
+    "detail": "",
+    "url": "https://www.bibliotheque-imperiale.com/index.php/Chronologie_des_Hommes-L%C3%A9zards"
+   }
+  ]
+ },
+ {
+  "id": "embuscade-sanguinaires-a-xahutec",
+  "annee": -2423,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "L'embuscade des Sanguinaires à Xahutec",
+   "en": "The Bloodletter ambush at Xahutec",
+   "de": "Der Hinterhalt der Zerfleischer in Xahutec"
+  },
+  "resume": {
+   "fr": "Une expédition d'Hommes-lézards venue fouiller les ruines de Xahutec tombe sur des Sanguinaires de Khorne montés sur des Juggernauts, et plusieurs Prêtres-Mages y périssent. Les survivants découvrent qu'une faille permanente vers le Royaume du Chaos s'ouvre sous la cité, la referment et décrètent la ville perdue à jamais.",
+   "en": "A Lizardmen expedition sent to search the ruins of Xahutec runs into Bloodletters of Khorne riding Juggernauts, and several Mage-Priests die there. The survivors find that a permanent rift to the Realm of Chaos lies beneath the city, seal it and declare the place lost forever.",
+   "de": "Eine Expedition der Echsenmenschen, die die Ruinen von Xahutec durchsuchen soll, gerät an Zerfleischer des Khorne auf Juggernauts, und mehrere Magierpriester kommen um. Die Überlebenden entdecken unter der Stadt einen dauerhaften Riss ins Reich des Chaos, schließen ihn und erklären den Ort für immer verloren."
+  },
+  "ere": "age-d-or",
+  "regions": [
+   "lustrie"
+  ],
+  "lieux": [
+   "xahutec"
+  ],
+  "factions": [
+   "hommes-lezards",
+   "chaos"
+  ],
+  "importance": 2,
+  "fiabilite": "etabli",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Lizardmen, 7e édition",
+     "en": "Warhammer Armies: Lizardmen, 7th edition",
+     "de": "Warhammer Armies: Lizardmen, 7. Edition"
+    },
+    "detail": {
+     "fr": "p. 32",
+     "en": "p. 32",
+     "de": "S. 32"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Lustria, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Lustria, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Lustria, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "pp. 20-22",
+     "en": "pp. 20-22",
+     "de": "S. 20-22"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Daemons of Chaos, 8e édition",
+     "en": "Warhammer Armies: Daemons of Chaos, 8th edition",
+     "de": "Warhammer Armies: Daemons of Chaos, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 17",
+     "en": "p. 17",
+     "de": "S. 17"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Xahutec",
+     "en": "Warhammer Fantasy Wiki (fandom), Xahutec page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Xahutec"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Xahutec"
+   }
+  ]
+ },
+ {
+  "id": "route-terrestre-cathay-nehekhara",
+  "annee": -2100,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "La route terrestre entre Cathay et la Nehekhara",
+   "en": "The overland route between Cathay and Nehekhara",
+   "de": "Der Landweg zwischen Cathay und Nehekhara"
+  },
+  "resume": {
+   "fr": "Les frontières de la Nehekhara atteignent la rivière Ruine, dans les Terres Sombres. Des routes commerciales terrestres relient dès lors ses royaumes au Grand Cathay, en plus de la voie maritime.",
+   "en": "The borders of Nehekhara reach the River Ruin in the Dark Lands. Overland trade routes now link its kingdoms to Grand Cathay, alongside the sea lane.",
+   "de": "Die Grenzen Nehekharas erreichen den Fluss Ruin in den Dunklen Landen. Nun verbinden Handelswege über Land seine Königreiche mit dem Großen Cathay, zusätzlich zur Seeroute."
+  },
+  "ere": "age-d-or",
+  "regions": [
+   "orient",
+   "terres-arides"
+  ],
+  "lieux": [
+   "cathay",
+   "nehekhara"
+  ],
+  "factions": [
+   "humains-autres",
+   "rois-des-tombes"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer: The Old World, Arcane Journal: Breaching of the Great Bastion",
+     "en": "Warhammer: The Old World, Arcane Journal: Breaching of the Great Bastion",
+     "de": "Warhammer: The Old World, Arcane Journal: Breaching of the Great Bastion"
+    },
+    "detail": {
+     "fr": "pp. 6-9",
+     "en": "pp. 6-9",
+     "de": "S. 6-9"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Grand Cathay",
+     "en": "Warhammer Fantasy Wiki (fandom), Grand Cathay page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Grand Cathay"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Grand_Cathay"
+   }
+  ]
+ },
+ {
+  "id": "nagash-coupe-le-commerce-de-cathay",
+  "annee": -1959,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Nagash met fin au commerce avec Cathay",
+   "en": "Nagash ends the trade with Cathay",
+   "de": "Nagash beendet den Handel mit Cathay"
+  },
+  "resume": {
+   "fr": "La prise de pouvoir de Nagash à Khemri plonge la Nehekhara dans la guerre et tarit le riche négoce qu'elle entretenait avec le Grand Cathay.",
+   "en": "Nagash's seizure of power in Khemri plunges Nehekhara into war and dries up the rich trade it had carried on with Grand Cathay.",
+   "de": "Nagashs Machtergreifung in Khemri stürzt Nehekhara in den Krieg und lässt den reichen Handel mit dem Großen Cathay versiegen."
+  },
+  "ere": "age-d-or",
+  "regions": [
+   "orient",
+   "terres-arides"
+  ],
+  "lieux": [
+   "cathay",
+   "khemri"
+  ],
+  "factions": [
+   "humains-autres",
+   "rois-des-tombes"
+  ],
+  "importance": 1,
+  "fiabilite": "divergent",
+  "note": {
+   "fr": "L'Arcane Journal place cette rupture en -1959 CI. La chronologie du projet date l'usurpation de Khemri par Nagash de -1968 CI.",
+   "en": "The Arcane Journal places this break in -1959 IC. The project timeline dates Nagash's usurpation of Khemri to -1968 IC.",
+   "de": "Das Arcane Journal setzt diesen Bruch auf -1959 IK an. Die Chronologie des Projekts datiert Nagashs Machtergreifung in Khemri auf -1968 IK."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer: The Old World, Arcane Journal: Breaching of the Great Bastion",
+     "en": "Warhammer: The Old World, Arcane Journal: Breaching of the Great Bastion",
+     "de": "Warhammer: The Old World, Arcane Journal: Breaching of the Great Bastion"
+    },
+    "detail": {
+     "fr": "pp. 6-9",
+     "en": "pp. 6-9",
+     "de": "S. 6-9"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Grand Cathay",
+     "en": "Warhammer Fantasy Wiki (fandom), Grand Cathay page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Grand Cathay"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Grand_Cathay"
+   }
+  ]
+ },
+ {
+  "id": "batons-dragons-de-lahmia",
+  "annee": -1750,
+  "fin": null,
+  "approx": true,
+  "titre": {
+   "fr": "Les bâtons-dragons de Lahmia",
+   "en": "The dragon-staves of Lahmia",
+   "de": "Die Drachenstäbe von Lahmia"
+  },
+  "resume": {
+   "fr": "Lahmia importe du Grand Cathay des « bâtons-dragons », sans doute une forme d'arme à poudre. Ces armes ne se répandent pas dans la Nehekhara conservatrice.",
+   "en": "Lahmia imports \"dragon-staves\" from Grand Cathay, probably a kind of blackpowder weapon. These arms never catch on in conservative Nehekhara.",
+   "de": "Lahmia führt aus dem Großen Cathay „Drachenstäbe“ ein, vermutlich eine Art Schwarzpulverwaffe. Im konservativen Nehekhara setzen sich diese Waffen nicht durch."
+  },
+  "ere": "age-d-or",
+  "regions": [
+   "orient",
+   "terres-arides"
+  ],
+  "lieux": [
+   "lahmia",
+   "cathay"
+  ],
+  "factions": [
+   "humains-autres",
+   "rois-des-tombes"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "La source dit seulement que ces armes existaient en Orient avant -1750 CI. Le terme français est traduit de « dragon-staves ».",
+   "en": "The source only says these weapons existed in the Far East before -1750 IC.",
+   "de": "Die Quelle sagt nur, dass es diese Waffen vor -1750 IK im Fernen Osten gab."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Nagash the Unbroken, roman de Mike Lee",
+     "en": "Nagash the Unbroken, roman de Mike Lee",
+     "de": "Nagash the Unbroken, roman de Mike Lee"
+    },
+    "detail": {
+     "fr": "Prologue",
+     "en": "Prologue",
+     "de": "Prolog"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Gunpowder",
+     "en": "Warhammer Fantasy Wiki (fandom), Gunpowder page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Gunpowder"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Gunpowder"
+   }
+  ]
+ },
+ {
+  "id": "harkon-et-les-epaves-fantomes",
+  "annee": 1127,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Les épaves fantômes de Harkon",
+   "en": "Harkon's ghost wrecks",
+   "de": "Harkons Geisterwracks"
+  },
+  "resume": {
+   "fr": "Luthor Harkon lance ses marins morts sur les flots à bord d'épaves fantomatiques. La légende des Pirates Zombies de la Côte des Vampires naît ainsi, et les rumeurs de trésor attirent de nouvelles victimes.",
+   "en": "Luthor Harkon sends his dead sailors out to sea aboard ghostly wrecks. This gives rise to the legend of the Zombie Pirates of the Vampire Coast, and tales of treasure lure in fresh victims.",
+   "de": "Luthor Harkon schickt seine toten Seeleute auf gespenstischen Wracks aufs Meer hinaus. So entsteht die Legende der Zombiepiraten der Vampirküste, und Schatzgerüchte locken neue Opfer an."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "lustrie"
+  ],
+  "lieux": [
+   "cote-des-vampires"
+  ],
+  "factions": [
+   "vampires"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "La Bibliothèque Impériale, page Chronologie des Hommes-Lézards",
+     "en": "La Bibliothèque Impériale, Chronologie des Hommes-Lézards page",
+     "de": "La Bibliothèque Impériale, Seite Chronologie des Hommes-Lézards"
+    },
+    "detail": "",
+    "url": "https://www.bibliotheque-imperiale.com/index.php/Chronologie_des_Hommes-L%C3%A9zards"
+   }
+  ]
+ },
+ {
+  "id": "kjell-poing-rouge-sur-la-qurveza",
+  "annee": 1323,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Kjell Poing Rouge anéanti sur la Qurveza",
+   "en": "Kjell Red Fist destroyed on the Qurveza",
+   "de": "Kjell Rotfaust an der Qurveza vernichtet"
+  },
+  "resume": {
+   "fr": "Le chef skaeling Kjell Poing Rouge remonte la Qurveza en quête de la Source des Origines. Kroq-Gar et ses Hommes-lézards interceptent son expédition à un gué et la massacrent.",
+   "en": "The Skaeling chieftain Kjell Red Fist sails up the Qurveza in search of the Source of Origins. Kroq-Gar and his Lizardmen catch his expedition at a ford and slaughter it.",
+   "de": "Der Skaeling-Häuptling Kjell Rotfaust fährt die Qurveza hinauf, um die Quelle der Ursprünge zu suchen. Kroq-Gar und seine Echsenmenschen stellen seine Expedition an einer Furt und metzeln sie nieder."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "lustrie"
+  ],
+  "lieux": [],
+  "factions": [
+   "humains-autres",
+   "hommes-lezards"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Fait lu seulement sur la Bibliothèque Impériale. Les formes anglaise et allemande du nom sont traduites du français.",
+   "en": "Found only on the Bibliothèque Impériale. The English and German forms of the name are translated from the French.",
+   "de": "Nur in der Bibliothèque Impériale belegt. Die englische und deutsche Namensform sind aus dem Französischen übersetzt."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "La Bibliothèque Impériale, page Chronologie des Hommes-Lézards",
+     "en": "La Bibliothèque Impériale, Chronologie des Hommes-Lézards page",
+     "de": "La Bibliothèque Impériale, Seite Chronologie des Hommes-Lézards"
+    },
+    "detail": "",
+    "url": "https://www.bibliotheque-imperiale.com/index.php/Chronologie_des_Hommes-L%C3%A9zards"
+   }
+  ]
+ },
+ {
+  "id": "empereur-wu-couronne",
+  "annee": 1676,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Le prétendu couronnement de l'empereur Wu",
+   "en": "The supposed coronation of Emperor Wu",
+   "de": "Die angebliche Krönung von Kaiser Wu"
+  },
+  "resume": {
+   "fr": "Les érudits du Vieux Monde font commencer en 1676 le règne d'un empereur Wu de Cathay, celui qui lance quatorze ans plus tard la flotte vers les Terres du Sud.",
+   "en": "Old World scholars have the reign of an Emperor Wu of Cathay begin in 1676, the ruler who launches the fleet toward the Southlands fourteen years later.",
+   "de": "Gelehrte der Alten Welt lassen 1676 die Herrschaft eines Kaisers Wu von Cathay beginnen, der vierzehn Jahre später die Flotte in die Südlande entsendet."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "orient"
+  ],
+  "lieux": [
+   "cathay"
+  ],
+  "factions": [
+   "humains-autres"
+  ],
+  "importance": 1,
+  "fiabilite": "divergent",
+  "note": {
+   "fr": "Le livre des Hommes-lézards (5e édition) parle d'un empereur Wu. Les sources récentes font de ce nom une erreur des chroniqueurs occidentaux : l'Empereur Dragon est unique et l'expédition revient à Yin-Yin.",
+   "en": "The Lizardmen book (5th edition) speaks of an Emperor Wu. Recent sources treat the name as a mistake by Western chroniclers: there is only one Dragon Emperor and the expedition was Yin-Yin's.",
+   "de": "Das Echsenmenschen-Buch (5. Edition) nennt einen Kaiser Wu. Neuere Quellen halten den Namen für einen Irrtum westlicher Chronisten: Es gibt nur einen Drachenkaiser, und die Expedition ging von Yin-Yin aus."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Lizardmen, 5e édition",
+     "en": "Warhammer Armies: Lizardmen, 5th edition",
+     "de": "Warhammer Armies: Lizardmen, 5. Edition"
+    },
+    "detail": {
+     "fr": "pp. 14-17",
+     "en": "pp. 14-17",
+     "de": "S. 14-17"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Dragon Emperor",
+     "en": "Warhammer Fantasy Wiki (fandom), Dragon Emperor page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Dragon Emperor"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Dragon_Emperor"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Wu",
+     "en": "Warhammer Fantasy Wiki (fandom), Wu page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Wu"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Wu"
+   }
+  ]
+ },
+ {
+  "id": "grande-protection-nuit-des-morts",
+  "annee": 1681,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "La Grande Protection face à la Nuit des Morts sans repos",
+   "en": "The Great Warding during the Night of the Restless Dead",
+   "de": "Die Große Abschirmung in der Nacht der ruhelosen Toten"
+  },
+  "resume": {
+   "fr": "La Grande Protection empêche les morts-vivants de submerger les Hommes-lézards de Lustrie. Les côtes restent hantées de spectres, et les Pirates Zombies de Luthor Harkon se renforcent.",
+   "en": "The Great Warding keeps the Undead from overrunning the Lizardmen of Lustria. The coasts are still haunted by ghosts, and Luthor Harkon's Zombie Pirates grow stronger.",
+   "de": "Die Große Abschirmung verhindert, dass die Untoten die Echsenmenschen Lustrias überrennen. Die Küsten bleiben von Geistern heimgesucht, und Luthor Harkons Zombiepiraten erstarken."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "lustrie"
+  ],
+  "lieux": [
+   "lustrie",
+   "cote-des-vampires"
+  ],
+  "factions": [
+   "hommes-lezards",
+   "vampires"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "La page Great Warding écrit 1861 CI, sans doute par inversion de chiffres. La page Night of the Restless Dead et le reste des sources donnent 1681 CI.",
+   "en": "The Great Warding page gives 1861 IC, probably with swapped digits. The Night of the Restless Dead page and the other sources give 1681 IC.",
+   "de": "Die Seite Great Warding nennt 1861 IK, vermutlich ein Zahlendreher. Die Seite Night of the Restless Dead und die übrigen Quellen nennen 1681 IK."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Lustria, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Lustria, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Lustria, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 22",
+     "en": "p. 22",
+     "de": "S. 22"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Night of the Restless Dead",
+     "en": "Warhammer Fantasy Wiki (fandom), Night of the Restless Dead page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Night of the Restless Dead"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Night_of_the_Restless_Dead"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Great Warding",
+     "en": "Warhammer Fantasy Wiki (fandom), Great Warding page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Great Warding"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Great_Warding"
+   }
+  ]
+ },
+ {
+  "id": "flotte-de-cathay-reconstruite",
+  "annee": 1690,
+  "fin": 1790,
+  "approx": true,
+  "titre": {
+   "fr": "Un siècle pour rebâtir la Grande Flotte du Dragon",
+   "en": "A century to rebuild the Grand Dragon Fleet",
+   "de": "Ein Jahrhundert für den Wiederaufbau der Großen Drachenflotte"
+  },
+  "resume": {
+   "fr": "Après le désastre des Terres du Sud, le Dragon des Mers Yin-Yin subit les reproches sévères de l'Empereur Dragon. Il faut cent ans à la Grande Flotte du Dragon pour retrouver toute sa puissance.",
+   "en": "After the disaster in the Southlands, the Sea Dragon Yin-Yin is sharply rebuked by the Dragon Emperor. The Grand Dragon Fleet needs a hundred years to recover its full strength.",
+   "de": "Nach dem Desaster in den Südlanden erhält der Meeresdrache Yin-Yin scharfen Tadel vom Drachenkaiser. Die Große Drachenflotte braucht hundert Jahre, um ihre volle Stärke zurückzugewinnen."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "orient"
+  ],
+  "lieux": [
+   "cathay"
+  ],
+  "factions": [
+   "humains-autres"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Intervalle déduit : expédition de 1690 CI plus les cent ans indiqués par la source.",
+   "en": "Interval deduced: the 1690 IC expedition plus the hundred years given by the source.",
+   "de": "Zeitraum erschlossen: die Expedition von 1690 IK plus die von der Quelle genannten hundert Jahre."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Lizardmen, 5e édition",
+     "en": "Warhammer Armies: Lizardmen, 5th edition",
+     "de": "Warhammer Armies: Lizardmen, 5. Edition"
+    },
+    "detail": {
+     "fr": "pp. 14-17",
+     "en": "pp. 14-17",
+     "de": "S. 14-17"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Yin-Yin",
+     "en": "Warhammer Fantasy Wiki (fandom), Yin-Yin page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Yin-Yin"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Yin-Yin"
+   }
+  ]
+ },
+ {
+  "id": "folie-de-darien",
+  "annee": 1698,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "La Folie de Darien",
+   "en": "Darien's Folly",
+   "de": "Dariens Torheit"
+  },
+  "resume": {
+   "fr": "Le Westerlander Eicher Darien fonde Nouveau-Marienburg sur l'isthme de Lustrie, à quatre-vingts milles au nord de Skeggi. Craignant l'indépendance de la colonie, l'Empire coule les navires qui la ravitaillent. Deux mille colons meurent de faim, et les derniers, devenus cannibales, tournent en goules.",
+   "en": "The Westerlander Eicher Darien founds New Marienburg on the isthmus of Lustria, eighty miles north of Skeggi. Fearing the colony's independence, the Empire sinks the ships that supply it. Two thousand settlers starve, and the last of them turn to cannibalism and become ghouls.",
+   "de": "Der Westerländer Eicher Darien gründet auf der Landenge von Lustria, achtzig Meilen nördlich von Skeggi, Neu-Marienburg. Aus Furcht vor der Unabhängigkeit der Kolonie versenkt das Imperium die Versorgungsschiffe. Zweitausend Siedler verhungern, die letzten verfallen dem Kannibalismus und werden zu Ghulen."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "lustrie"
+  ],
+  "lieux": [
+   "lustrie"
+  ],
+  "factions": [
+   "humains-autres",
+   "empire"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Lustria, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Lustria, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Lustria, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 52",
+     "en": "p. 52",
+     "de": "S. 52"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Darien's Folly",
+     "en": "Warhammer Fantasy Wiki (fandom), Darien's Folly page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Darien's Folly"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Darien%27s_Folly"
+   }
+  ]
+ },
+ {
+  "id": "rodrik-de-l-anguille-en-lustrie",
+  "annee": 1847,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Le prince Rodrik de L'Anguille en Lustrie",
+   "en": "Prince Rodrik of L'Anguille in Lustria",
+   "de": "Prinz Rodrik von L'Anguille in Lustria"
+  },
+  "resume": {
+   "fr": "Le duc Tudual de L'Anguille expédie en Lustrie son bâtard Rodrik, qu'il espère ne pas revoir. Après avoir pillé des ruines et tenté un assaut sur l'Île des Amazones, le prince prend Xlanhuapec pour une ruine mal gardée. Son armée tombe dans une embuscade et lui seul s'échappe dans la jungle.",
+   "en": "Duke Tudual of L'Anguille sends his bastard Rodrik to Lustria, hoping never to see him again. After plundering ruins and trying to storm Amazon Island, the prince mistakes Xlanhuapec for a poorly guarded ruin. His army walks into an ambush and he alone escapes into the jungle.",
+   "de": "Herzog Tudual von L'Anguille schickt seinen Bastard Rodrik nach Lustria, in der Hoffnung, ihn nie wiederzusehen. Nach Plünderungen in den Ruinen und einem Angriff auf die Amazoneninsel hält der Prinz Xlanhuapec für eine schlecht bewachte Ruine. Sein Heer gerät in einen Hinterhalt, nur er entkommt in den Dschungel."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "lustrie"
+  ],
+  "lieux": [
+   "xlanhuapec"
+  ],
+  "factions": [
+   "bretonnie",
+   "hommes-lezards"
+  ],
+  "importance": 2,
+  "fiabilite": "divergent",
+  "note": {
+   "fr": "White Dwarf 305 mène Rodrik à Xlanhuapec. Le livre des Hommes-lézards (6e édition) dit que l'expédition part de Port des Pillards, que Huatl est pillée et que nul ne la revoit. White Dwarf 205 attribue ce pillage au duc d'Lorrain, version distincte déjà présente à la même date.",
+   "en": "White Dwarf 305 takes Rodrik to Xlanhuapec. The Lizardmen book (6th edition) says the expedition left Port Reaver, Huatl was robbed and no one saw it again. White Dwarf 205 credits that raid to the Duc d'Lorrain, a separate version already listed for the same year.",
+   "de": "White Dwarf 305 führt Rodrik nach Xlanhuapec. Das Echsenmenschen-Buch (6. Edition) sagt, die Expedition sei von Port Reaver aufgebrochen, Huatl sei geplündert worden und niemand habe sie wiedergesehen. White Dwarf 205 schreibt diese Plünderung dem Duc d'Lorrain zu, eine eigene, für dasselbe Jahr schon verzeichnete Fassung."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "White Dwarf 305",
+     "en": "White Dwarf 305",
+     "de": "White Dwarf 305"
+    },
+    "detail": {
+     "fr": "pp. 34-48",
+     "en": "pp. 34-48",
+     "de": "S. 34-48"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Lizardmen, 6e édition",
+     "en": "Warhammer Armies: Lizardmen, 6th edition",
+     "de": "Warhammer Armies: Lizardmen, 6. Edition"
+    },
+    "detail": {
+     "fr": "p. 9",
+     "en": "p. 9",
+     "de": "S. 9"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Rodrik de L'Anguille",
+     "en": "Warhammer Fantasy Wiki (fandom), Rodrik de L'Anguille page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Rodrik de L'Anguille"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Rodrik_de_L%27Anguille"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Port Reaver",
+     "en": "Warhammer Fantasy Wiki (fandom), Port Reaver page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Port Reaver"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Port_Reaver"
+   }
+  ]
+ },
+ {
+  "id": "brule-huile-de-shuang-hsi",
+  "annee": 2010,
+  "fin": null,
+  "approx": true,
+  "titre": {
+   "fr": "Les brûleurs à huile de Shuang Hsi",
+   "en": "The oil burners of Shuang Hsi",
+   "de": "Die Ölbrenner von Shuang Hsi"
+  },
+  "resume": {
+   "fr": "La cité cathayane de Shuang Hsi devient réputée dans tout l'empire et au-delà pour sa fabrication de brûleurs à huile.",
+   "en": "The Cathayan city of Shuang Hsi becomes famous throughout the empire and beyond for making oil burners.",
+   "de": "Die cathayanische Stadt Shuang Hsi wird im ganzen Reich und darüber hinaus für ihre Ölbrenner berühmt."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "orient"
+  ],
+  "lieux": [
+   "cathay"
+  ],
+  "factions": [
+   "humains-autres"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Inheritance, roman de Steven Savile",
+     "en": "Inheritance, roman de Steven Savile",
+     "de": "Inheritance, roman de Steven Savile"
+    },
+    "detail": {
+     "fr": "chap. 14",
+     "en": "ch. 14",
+     "de": "Kap. 14"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Grand Cathay",
+     "en": "Warhammer Fantasy Wiki (fandom), Grand Cathay page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Grand Cathay"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Grand_Cathay"
+   }
+  ]
+ },
+ {
+  "id": "tyrion-et-teclis-cherchent-sunfang",
+  "annee": 2273,
+  "fin": null,
+  "approx": true,
+  "titre": {
+   "fr": "Tyrion et Teclis cherchent Sunfang en Lustrie",
+   "en": "Tyrion and Teclis seek Sunfang in Lustria",
+   "de": "Tyrion und Teclis suchen Sunfang in Lustria"
+  },
+  "resume": {
+   "fr": "Le prince Tyrion et son frère Teclis recrutent des hommes à Skeggi et le naufragé Leiber comme guide vers la cité perdue de Zultec. L'expédition rapporte l'épée de Caledor Dompteur de Dragons, Sunfang.",
+   "en": "Prince Tyrion and his brother Teclis hire men at Skeggi and the castaway Leiber as a guide to the lost city of Zultec. The expedition recovers Sunfang, the sword of Caledor Dragontamer.",
+   "de": "Prinz Tyrion und sein Bruder Teclis werben in Skeggi Männer an und nehmen den Schiffbrüchigen Leiber als Führer zur verlorenen Stadt Zultec. Die Expedition bringt Sunfang zurück, das Schwert Caledors des Drachenzähmers."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "lustrie"
+  ],
+  "lieux": [
+   "skeggi"
+  ],
+  "factions": [
+   "hauts-elfes",
+   "humains-autres"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Date elfe XI, 110, convertie par le wiki.",
+   "en": "Elven date XI, 110, converted by the wiki.",
+   "de": "Elfisches Datum XI, 110, vom Wiki umgerechnet."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Sword of Caledor, roman de William King",
+     "en": "Sword of Caledor, roman de William King",
+     "de": "Sword of Caledor, roman de William King"
+    },
+    "detail": {
+     "fr": "chap. 1",
+     "en": "ch. 1",
+     "de": "Kap. 1"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Skeggi",
+     "en": "Warhammer Fantasy Wiki (fandom), Skeggi page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Skeggi"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Skeggi"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Leiber",
+     "en": "Warhammer Fantasy Wiki (fandom), Leiber page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Leiber"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Leiber"
+   }
+  ]
+ },
+ {
+  "id": "roi-pirate-draven-sac-de-bourbeville",
+  "annee": 2315,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Le Roi Pirate Draven saccage Bourbeville",
+   "en": "The Pirate King Draven sacks Swamp Town",
+   "de": "Der Piratenkönig Draven plündert Swamp Town"
+  },
+  "resume": {
+   "fr": "Engagé pour protéger les navires de Bourbeville contre les pirates de Port des Pillards, le Roi Pirate Draven profite de sa charge pour couler les flottes rivales, puis met à sac la ville qui l'employait.",
+   "en": "Hired to protect Swamp Town's shipping from the pirates of Port Reaver, the Pirate King Draven uses his commission to sink rival fleets, then sacks the town that employed him.",
+   "de": "Der Piratenkönig Draven, angeheuert zum Schutz der Schiffe von Swamp Town vor den Piraten von Port Reaver, versenkt mithilfe seines Auftrags die Flotten seiner Konkurrenten und plündert dann die Stadt, die ihn bezahlt hat."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "lustrie"
+  ],
+  "lieux": [
+   "lustrie"
+  ],
+  "factions": [
+   "humains-autres"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Lizardmen, 6e édition",
+     "en": "Warhammer Armies: Lizardmen, 6th edition",
+     "de": "Warhammer Armies: Lizardmen, 6. Edition"
+    },
+    "detail": {
+     "fr": "p. 9",
+     "en": "p. 9",
+     "de": "S. 9"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Swamp Town",
+     "en": "Warhammer Fantasy Wiki (fandom), Swamp Town page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Swamp Town"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Swamp_Town"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Port Reaver",
+     "en": "Warhammer Fantasy Wiki (fandom), Port Reaver page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Port Reaver"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Port_Reaver"
+   },
+   {
+    "titre": {
+     "fr": "La Bibliothèque Impériale, page Chronologie des Hommes-Lézards",
+     "en": "La Bibliothèque Impériale, Chronologie des Hommes-Lézards page",
+     "de": "La Bibliothèque Impériale, Seite Chronologie des Hommes-Lézards"
+    },
+    "detail": "",
+    "url": "https://www.bibliotheque-imperiale.com/index.php/Chronologie_des_Hommes-L%C3%A9zards"
+   }
+  ]
+ },
+ {
+  "id": "skeggi-et-la-jungle-veslvakt",
+  "annee": 2376,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "La jungle marche sur Skeggi",
+   "en": "The jungle marches on Skeggi",
+   "de": "Der Dschungel rückt auf Skeggi vor"
+  },
+  "resume": {
+   "fr": "Les Prêtres skinks renforcent le grand enchantement de Lustrie, et la jungle se met à croître deux fois plus vite, dévorant fermes et plantations autour de Skeggi. La ville crée alors la Veslvakt, garde chargée de tuer les Hommes-lézards et de tailler les lianes.",
+   "en": "The Skink Priests strengthen the great spell over Lustria, and the jungle starts growing twice as fast, swallowing the farms and plantations around Skeggi. The town then raises the Veslvakt, a guard tasked with killing Lizardmen and hacking back the vines.",
+   "de": "Die Skinkpriester verstärken den großen Zauber über Lustria, und der Dschungel wächst doppelt so schnell und verschlingt die Höfe und Plantagen um Skeggi. Die Stadt stellt daraufhin die Veslvakt auf, eine Wache, die Echsenmenschen töten und die Lianen zurückschlagen soll."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "lustrie"
+  ],
+  "lieux": [
+   "skeggi"
+  ],
+  "factions": [
+   "humains-autres",
+   "hommes-lezards"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Lustria, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Lustria, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Lustria, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 39",
+     "en": "p. 39",
+     "de": "S. 39"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Skeggi",
+     "en": "Warhammer Fantasy Wiki (fandom), Skeggi page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Skeggi"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Skeggi"
+   },
+   {
+    "titre": {
+     "fr": "La Bibliothèque Impériale, page Chronologie des Hommes-Lézards",
+     "en": "La Bibliothèque Impériale, Chronologie des Hommes-Lézards page",
+     "de": "La Bibliothèque Impériale, Seite Chronologie des Hommes-Lézards"
+    },
+    "detail": "",
+    "url": "https://www.bibliotheque-imperiale.com/index.php/Chronologie_des_Hommes-L%C3%A9zards"
+   }
+  ]
+ },
+ {
+  "id": "retour-de-l-empereur-dragon",
+  "annee": 2380,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Le retour de l'Empereur Dragon",
+   "en": "The return of the Dragon Emperor",
+   "de": "Die Rückkehr des Drachenkaisers"
+  },
+  "resume": {
+   "fr": "Trois ans après la chute du Roi Singe, l'Empereur Dragon et l'Impératrice de la Lune reviennent à Cathay. Leur retour clôt le temps des Ténèbres et de la Discorde, sans que nul explique leur longue absence.",
+   "en": "Three years after the fall of the Monkey King, the Dragon Emperor and the Moon Empress return to Cathay. Their return closes the Time of Darkness and Disharmony, and no one explains their long absence.",
+   "de": "Drei Jahre nach dem Sturz des Affenkönigs kehren der Drachenkaiser und die Mondkaiserin nach Cathay zurück. Ihre Rückkehr beendet die Zeit der Finsternis und Zwietracht, ohne dass jemand ihre lange Abwesenheit erklärt."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "orient"
+  ],
+  "lieux": [
+   "wei-jin",
+   "cathay"
+  ],
+  "factions": [
+   "humains-autres"
+  ],
+  "importance": 2,
+  "fiabilite": "divergent",
+  "note": {
+   "fr": "2380 CI selon Children of the Horned Rat, 2387 CI dans l'entretien d'Andy Hall cité par le wiki.",
+   "en": "2380 IC according to Children of the Horned Rat, 2387 IC in the Andy Hall interview cited by the wiki.",
+   "de": "2380 IK laut Children of the Horned Rat, 2387 IK im vom Wiki zitierten Interview mit Andy Hall."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Children of the Horned Rat, Warhammer Fantasy Roleplay 2e édition",
+     "en": "Children of the Horned Rat, Warhammer Fantasy Roleplay 2e édition",
+     "de": "Children of the Horned Rat, Warhammer Fantasy Roleplay 2e édition"
+    },
+    "detail": {
+     "fr": "p. 36",
+     "en": "p. 36",
+     "de": "S. 36"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Grand Cathay",
+     "en": "Warhammer Fantasy Wiki (fandom), Grand Cathay page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Grand Cathay"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Grand_Cathay"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Dragon Emperor",
+     "en": "Warhammer Fantasy Wiki (fandom), Dragon Emperor page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Dragon Emperor"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Dragon_Emperor"
+   }
+  ]
+ },
+ {
+  "id": "fondation-de-leopoldheim",
+  "annee": 2395,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Fondation de Leopoldheim",
+   "en": "The founding of Leopoldheim",
+   "de": "Die Gründung von Leopoldheim"
+  },
+  "resume": {
+   "fr": "Éconduit par les Comtes Électeurs, l'empereur Leopold fait financer par les banquiers de Marienburg une douzaine de caraques sous la bannière de la maison Unfahiger. Colons et soldats fondent Leopoldheim dans les Terres du Sud.",
+   "en": "Rebuffed by the Elector Counts, Emperor Leopold has the bankers of Marienburg pay for a dozen carracks under the banner of House Unfahiger. Settlers and soldiers found Leopoldheim in the Southlands.",
+   "de": "Von den Kurfürsten abgewiesen, lässt Kaiser Leopold die Bankiers von Marienburg ein Dutzend Karacken unter dem Banner des Hauses Unfahiger finanzieren. Siedler und Soldaten gründen Leopoldheim in den Südlanden."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "sud"
+  ],
+  "lieux": [
+   "marienburg"
+  ],
+  "factions": [
+   "empire"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Apocrypha 2: Chart of Darkness, Warhammer Fantasy Roleplay 1re édition",
+     "en": "Apocrypha 2: Chart of Darkness, Warhammer Fantasy Roleplay 1re édition",
+     "de": "Apocrypha 2: Chart of Darkness, Warhammer Fantasy Roleplay 1re édition"
+    },
+    "detail": {
+     "fr": "pp. 18-20",
+     "en": "pp. 18-20",
+     "de": "S. 18-20"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page New Coast",
+     "en": "Warhammer Fantasy Wiki (fandom), New Coast page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite New Coast"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/New_Coast"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Leopoldheim",
+     "en": "Warhammer Fantasy Wiki (fandom), Leopoldheim page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Leopoldheim"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Leopoldheim"
+   }
+  ]
+ },
+ {
+  "id": "leopoldheim-colonie-penitentiaire",
+  "annee": 2397,
+  "fin": null,
+  "approx": true,
+  "titre": {
+   "fr": "Leopoldheim devient une colonie pénitentiaire",
+   "en": "Leopoldheim becomes a penal colony",
+   "de": "Leopoldheim wird zur Strafkolonie"
+  },
+  "resume": {
+   "fr": "Dès la deuxième année, maladies, mauvaises récoltes et attaques des Hommes-lézards ruinent la colonie. Pressé par ses créanciers, Leopold commue les peines de mort d'Altdorf et du Reikland en exil vers la Nouvelle Côte, et les bannis affluent en moins d'un an.",
+   "en": "By its second year, disease, failed crops and Lizardmen attacks have ruined the colony. Pressed by his creditors, Leopold commutes the death sentences of Altdorf and the Reikland to exile on the New Coast, and within a year the banished flood in.",
+   "de": "Schon im zweiten Jahr haben Krankheiten, Missernten und Angriffe der Echsenmenschen die Kolonie ruiniert. Von seinen Gläubigern bedrängt, wandelt Leopold die Todesurteile von Altdorf und dem Reikland in Verbannung an die Neue Küste um, und binnen eines Jahres strömen die Verbannten herbei."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "sud",
+   "empire"
+  ],
+  "lieux": [
+   "altdorf"
+  ],
+  "factions": [
+   "empire",
+   "hommes-lezards"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Date déduite : fin de la deuxième année après la fondation de 2395 CI.",
+   "en": "Date deduced: end of the second year after the founding in 2395 IC.",
+   "de": "Datum erschlossen: Ende des zweiten Jahres nach der Gründung 2395 IK."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Apocrypha 2: Chart of Darkness, Warhammer Fantasy Roleplay 1re édition",
+     "en": "Apocrypha 2: Chart of Darkness, Warhammer Fantasy Roleplay 1re édition",
+     "de": "Apocrypha 2: Chart of Darkness, Warhammer Fantasy Roleplay 1re édition"
+    },
+    "detail": {
+     "fr": "pp. 18-20",
+     "en": "pp. 18-20",
+     "de": "S. 18-20"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Leopoldheim",
+     "en": "Warhammer Fantasy Wiki (fandom), Leopoldheim page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Leopoldheim"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Leopoldheim"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page New Coast",
+     "en": "Warhammer Fantasy Wiki (fandom), New Coast page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite New Coast"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/New_Coast"
+   }
+  ]
+ },
+ {
+  "id": "decouverte-de-la-nouvelle-cote",
+  "annee": 2421,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Découverte de la Nouvelle Côte",
+   "en": "Discovery of the New Coast",
+   "de": "Entdeckung der Neuen Küste"
+  },
+  "resume": {
+   "fr": "Des navigateurs de Marienburg reconnaissent la Nouvelle Côte, grande baie du littoral ouest des Terres du Sud.",
+   "en": "Navigators from Marienburg chart the New Coast, a great bay on the western shore of the Southlands.",
+   "de": "Seefahrer aus Marienburg erkunden die Neue Küste, eine große Bucht an der Westküste der Südlande."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "sud"
+  ],
+  "lieux": [],
+  "factions": [
+   "humains-autres"
+  ],
+  "importance": 1,
+  "fiabilite": "divergent",
+  "note": {
+   "fr": "Marienburg: Sold Down the River attribue la découverte aux gens de Marienburg. Le livre de règles de la 3e édition la prête à Losteriksson, à la même date, ce que contredit la fondation de Skeggi en 888 CI.",
+   "en": "Marienburg: Sold Down the River credits the people of Marienburg. The 3rd edition rulebook names Losteriksson for the same date, which clashes with his founding of Skeggi in 888 IC.",
+   "de": "Marienburg: Sold Down the River schreibt die Entdeckung den Marienburgern zu. Das Regelbuch der 3. Edition nennt für dasselbe Datum Losteriksson, was seiner Gründung von Skeggi 888 IK widerspricht."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Marienburg: Sold Down the River, Warhammer Fantasy Roleplay 1re édition",
+     "en": "Marienburg: Sold Down the River, Warhammer Fantasy Roleplay 1re édition",
+     "de": "Marienburg: Sold Down the River, Warhammer Fantasy Roleplay 1re édition"
+    },
+    "detail": {
+     "fr": "p. 21",
+     "en": "p. 21",
+     "de": "S. 21"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page New Coast",
+     "en": "Warhammer Fantasy Wiki (fandom), New Coast page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite New Coast"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/New_Coast"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Southlands",
+     "en": "Warhammer Fantasy Wiki (fandom), Southlands page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Southlands"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Southlands"
+   }
+  ]
+ },
+ {
+  "id": "lokhir-pille-chupayotl",
+  "annee": 2422,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Lokhir Fellheart pille Chupayotl",
+   "en": "Lokhir Fellheart loots Chupayotl",
+   "de": "Lokhir Fellheart plündert Chupayotl"
+  },
+  "resume": {
+   "fr": "Le corsaire elfe noir Lokhir Fellheart fouille les ruines englouties de Chupayotl et en remonte le Heaume du Kraken, un casque d'or antérieur à la civilisation elfique.",
+   "en": "The Dark Elf corsair Lokhir Fellheart searches the sunken ruins of Chupayotl and brings up the Helm of the Kraken, a golden helmet older than Elven civilisation.",
+   "de": "Der dunkelelfische Korsar Lokhir Fellheart durchsucht die versunkenen Ruinen von Chupayotl und birgt den Helm des Kraken, einen Goldhelm, der älter ist als die elfische Zivilisation."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "lustrie"
+  ],
+  "lieux": [
+   "lustrie"
+  ],
+  "factions": [
+   "elfes-noirs",
+   "hommes-lezards"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Lokhir Fellheart",
+     "en": "Warhammer Fantasy Wiki (fandom), Lokhir Fellheart page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Lokhir Fellheart"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Lokhir_Fellheart"
+   },
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Dark Elves, 7e édition",
+     "en": "Warhammer Armies: Dark Elves, 7th edition",
+     "de": "Warhammer Armies: Dark Elves, 7. Edition"
+    },
+    "detail": {
+     "fr": "p. 69",
+     "en": "p. 69",
+     "de": "S. 69"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Dark Convent",
+     "en": "Warhammer Fantasy Wiki (fandom), Dark Convent page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Dark Convent"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Dark_Convent"
+   }
+  ]
+ },
+ {
+  "id": "route-de-l-ivoire-maritime",
+  "annee": 2423,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "La route maritime de l'ivoire",
+   "en": "The ivory sea route",
+   "de": "Der Seeweg für Elfenbein"
+  },
+  "resume": {
+   "fr": "Les premiers marchands rentrent de la Nouvelle Côte, et une lucrative route de l'ivoire s'ouvre entre les Terres du Sud et Marienburg.",
+   "en": "The first traders return from the New Coast, and a lucrative ivory route opens between the Southlands and Marienburg.",
+   "de": "Die ersten Händler kehren von der Neuen Küste zurück, und zwischen den Südlanden und Marienburg entsteht ein einträglicher Elfenbeinhandelsweg."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "sud",
+   "empire"
+  ],
+  "lieux": [
+   "marienburg"
+  ],
+  "factions": [
+   "humains-autres"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Marienburg: Sold Down the River, Warhammer Fantasy Roleplay 1re édition",
+     "en": "Marienburg: Sold Down the River, Warhammer Fantasy Roleplay 1re édition",
+     "de": "Marienburg: Sold Down the River, Warhammer Fantasy Roleplay 1re édition"
+    },
+    "detail": {
+     "fr": "p. 21",
+     "en": "p. 21",
+     "de": "S. 21"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page New Coast",
+     "en": "Warhammer Fantasy Wiki (fandom), New Coast page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite New Coast"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/New_Coast"
+   }
+  ]
+ },
+ {
+  "id": "ruee-vers-l-or-des-terres-du-sud",
+  "annee": 2463,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "La ruée vers l'or des Terres du Sud",
+   "en": "The Southlands gold rush",
+   "de": "Der Goldrausch der Südlande"
+  },
+  "resume": {
+   "fr": "De l'or est découvert dans les collines de la Nouvelle Côte, et les prospecteurs du Vieux Monde y accourent.",
+   "en": "Gold is found in the hills of the New Coast, and prospectors from the Old World pour in.",
+   "de": "In den Hügeln der Neuen Küste wird Gold gefunden, und Schürfer aus der Alten Welt strömen herbei."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "sud"
+  ],
+  "lieux": [],
+  "factions": [
+   "humains-autres"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Marienburg: Sold Down the River, Warhammer Fantasy Roleplay 1re édition",
+     "en": "Marienburg: Sold Down the River, Warhammer Fantasy Roleplay 1re édition",
+     "de": "Marienburg: Sold Down the River, Warhammer Fantasy Roleplay 1re édition"
+    },
+    "detail": {
+     "fr": "p. 21",
+     "en": "p. 21",
+     "de": "S. 21"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page New Coast",
+     "en": "Warhammer Fantasy Wiki (fandom), New Coast page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite New Coast"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/New_Coast"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Southlands",
+     "en": "Warhammer Fantasy Wiki (fandom), Southlands page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Southlands"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Southlands"
+   }
+  ]
+ },
+ {
+  "id": "zhao-ming-et-greasus-a-ashshair",
+  "annee": 2480,
+  "fin": 2489,
+  "approx": true,
+  "titre": {
+   "fr": "L'accord d'Ashshair",
+   "en": "The Ashshair agreement",
+   "de": "Die Vereinbarung von Ashshair"
+  },
+  "resume": {
+   "fr": "À la tour d'Ashshair, le Dragon de Fer Zhao Ming reçoit Greasus Dent-d'Or au nom de l'Empereur Dragon. Une plaisanterie de l'Ogre sur leurs pères respectifs noue le dialogue. Les caravanes cathayanes obtiennent le libre passage sur la route de l'Ivoire contre un tribut.",
+   "en": "At the Tower of Ashshair the Iron Dragon Zhao Ming meets Greasus Goldtooth on the Dragon Emperor's behalf. The Ogre's joke about their fathers breaks the ice. Cathayan caravans gain safe passage on the Ivory Road in return for tribute.",
+   "de": "Im Turm von Ashshair empfängt der Eisendrache Zhao Ming im Namen des Drachenkaisers Greasus Goldzahn. Ein Scherz des Ogers über ihre Väter bricht das Eis. Cathayanische Karawanen erhalten gegen Tribut freies Geleit auf der Elfenbeinstraße."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "orient"
+  ],
+  "lieux": [
+   "cathay"
+  ],
+  "factions": [
+   "humains-autres",
+   "ogres"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "La source dit seulement « dans les années 2480 ».",
+   "en": "The source only says \"in the 2480s\".",
+   "de": "Die Quelle sagt nur „in den 2480er Jahren“."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Tower of Ashshair",
+     "en": "Warhammer Fantasy Wiki (fandom), Tower of Ashshair page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Tower of Ashshair"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Tower_of_Ashshair"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Zhao Ming",
+     "en": "Warhammer Fantasy Wiki (fandom), Zhao Ming page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Zhao Ming"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Zhao_Ming"
+   }
+  ]
+ },
+ {
+  "id": "siege-de-sudenburg",
+  "annee": 2498,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Le siège de Sudenburg",
+   "en": "The Siege of Sudenburg",
+   "de": "Die Belagerung von Sudenburg"
+  },
+  "resume": {
+   "fr": "Une horde de morts-vivants jaillit des jungles des Terres du Sud et assaille la colonie de Sudenburg, sur le golfe de Médès. Nul ne sait qui l'a lancée.",
+   "en": "A horde of Undead bursts from the jungles of the Southlands and assails the colony of Sudenburg on the Gulf of Medes. No one knows who sent it.",
+   "de": "Eine Horde Untoter bricht aus den Dschungeln der Südlande hervor und greift die Kolonie Sudenburg am Golf von Medes an. Niemand weiß, wer sie entsandt hat."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "sud"
+  ],
+  "lieux": [],
+  "factions": [
+   "humains-autres",
+   "vampires"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Fantasy Roleplay 4e édition, Starter Set: Adventure Book",
+     "en": "Warhammer Fantasy Roleplay 4e édition, Starter Set: Adventure Book",
+     "de": "Warhammer Fantasy Roleplay 4e édition, Starter Set: Adventure Book"
+    },
+    "detail": {
+     "fr": "p. 35",
+     "en": "p. 35",
+     "de": "S. 35"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Sudenburg",
+     "en": "Warhammer Fantasy Wiki (fandom), Sudenburg page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Sudenburg"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Sudenburg"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Southlands",
+     "en": "Warhammer Fantasy Wiki (fandom), Southlands page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Southlands"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Southlands"
+   }
+  ]
+ },
+ {
+  "id": "colere-de-tlaxtlan",
+  "annee": 2510,
+  "fin": null,
+  "approx": true,
+  "titre": {
+   "fr": "La colère de Tlaxtlan",
+   "en": "The Wrath of Tlaxtlan",
+   "de": "Der Zorn von Tlaxtlan"
+  },
+  "resume": {
+   "fr": "Les chevaliers de Marcel de Parravon vident la tombe d'un Prêtre-Mage et emportent des plaques sacrées. Le Slann Klaqulxol envoie le chef saurus Quatl les reprendre : ses Skinks ouvrent le fort de nuit et sa troupe s'enfuit par Bregonne avec le trésor. L'issue du combat reste inconnue.",
+   "en": "Marcel of Parravon's knights empty a Mage-Priest's tomb and carry off sacred plaques. The Slann Klaqulxol sends the Saurus leader Quatl to retrieve them: his Skinks open the fort by night and his band flees through Bregonne with the treasure. The outcome of the fight is unknown.",
+   "de": "Die Ritter Marcels von Parravon plündern das Grab eines Magierpriesters und nehmen heilige Tafeln mit. Der Slann Klaqulxol schickt den Saurus-Anführer Quatl, um sie zurückzuholen: Seine Skinks öffnen nachts die Festung, und sein Trupp flieht mit dem Schatz durch Bregonne. Der Ausgang des Kampfes ist unbekannt."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "lustrie"
+  ],
+  "lieux": [
+   "tlaxtlan"
+  ],
+  "factions": [
+   "hommes-lezards",
+   "bretonnie"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Date déduite : l'action suit l'arrivée de Marcel en 2510 CI, sans année propre.",
+   "en": "Date deduced: the action follows Marcel's arrival in 2510 IC and has no year of its own.",
+   "de": "Datum erschlossen: Die Handlung folgt auf Marcels Ankunft 2510 IK und hat kein eigenes Jahr."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "White Dwarf 204",
+     "en": "White Dwarf 204",
+     "de": "White Dwarf 204"
+    },
+    "detail": {
+     "fr": "pp. 37-40",
+     "en": "pp. 37-40",
+     "de": "S. 37-40"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Marcel of Parravon",
+     "en": "Warhammer Fantasy Wiki (fandom), Marcel of Parravon page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Marcel of Parravon"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Marcel_of_Parravon"
+   }
+  ]
+ },
+ {
+  "id": "oxyotl-contient-xahutec-2519",
+  "annee": 2519,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Oxyotl arrête les légions de Xahutec",
+   "en": "Oxyotl halts the legions of Xahutec",
+   "de": "Oxyotl hält die Legionen von Xahutec auf"
+  },
+  "resume": {
+   "fr": "À chaque montée de la Lune du Chaos, des légions démoniaques sortent de Xahutec. Il faut Oxyotl et une troupe de Skinks caméléons venus de Pahuax pour arrêter cette incursion, la plus vaste de toutes. Les Saurus maintiennent ensuite le blocus de la ruine au prix de lourdes pertes.",
+   "en": "With every rising of the Chaos Moon, daemonic legions march out of Xahutec. Only Oxyotl and a host of Chameleon Skinks from Pahuax halt this greatest of incursions. The Saurus then keep up the blockade of the ruin at a heavy cost in lives.",
+   "de": "Bei jedem Aufgang des Chaosmondes marschieren Dämonenlegionen aus Xahutec. Erst Oxyotl und eine Schar Chamäleon-Skinks aus Pahuax halten diesen größten aller Einfälle auf. Die Saurus halten die Ruine danach unter hohen Verlusten blockiert."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "lustrie"
+  ],
+  "lieux": [
+   "xahutec",
+   "pahuax"
+  ],
+  "factions": [
+   "hommes-lezards",
+   "chaos"
+  ],
+  "importance": 2,
+  "fiabilite": "etabli",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Lizardmen, 7e édition",
+     "en": "Warhammer Armies: Lizardmen, 7th edition",
+     "de": "Warhammer Armies: Lizardmen, 7. Edition"
+    },
+    "detail": {
+     "fr": "p. 32",
+     "en": "p. 32",
+     "de": "S. 32"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Lizardmen, 8e édition",
+     "en": "Warhammer Armies: Lizardmen, 8th edition",
+     "de": "Warhammer Armies: Lizardmen, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 24",
+     "en": "p. 24",
+     "de": "S. 24"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Lustria, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Lustria, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Lustria, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 96",
+     "en": "p. 96",
+     "de": "S. 96"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Xahutec",
+     "en": "Warhammer Fantasy Wiki (fandom), Xahutec page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Xahutec"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Xahutec"
+   },
+   {
+    "titre": {
+     "fr": "La Bibliothèque Impériale, page Chronologie des Hommes-Lézards",
+     "en": "La Bibliothèque Impériale, Chronologie des Hommes-Lézards page",
+     "de": "La Bibliothèque Impériale, Seite Chronologie des Hommes-Lézards"
+    },
+    "detail": "",
+    "url": "https://www.bibliotheque-imperiale.com/index.php/Chronologie_des_Hommes-L%C3%A9zards"
+   }
+  ]
+ },
+ {
+  "id": "mort-de-torinubar",
+  "annee": 2520,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Mort mystérieuse de Torinubar aux Portes de Calith",
+   "en": "The mysterious death of Torinubar at the Gates of Calith",
+   "de": "Der rätselhafte Tod Torinubars an den Toren von Calith"
+  },
+  "resume": {
+   "fr": "Le Haut Mage Torinubar, Seigneur Mage des Portes de Calith, à la pointe sud de Khuresh, est tué dans des circonstances obscures, sans aucune des marques habituelles des attentats elfes noirs.",
+   "en": "The High Mage Torinubar, Mage Lord of the Gates of Calith at the southern tip of Khuresh, is killed in obscure circumstances, with none of the usual signs of a Dark Elf attack.",
+   "de": "Der Hochmagier Torinubar, Magierfürst der Tore von Calith an der Südspitze von Khuresh, wird unter ungeklärten Umständen getötet, ohne die üblichen Zeichen eines dunkelelfischen Anschlags."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "orient"
+  ],
+  "lieux": [],
+  "factions": [
+   "hauts-elfes"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Skaven, 7e édition",
+     "en": "Warhammer Armies: Skaven, 7th edition",
+     "de": "Warhammer Armies: Skaven, 7. Edition"
+    },
+    "detail": {
+     "fr": "p. 31",
+     "en": "p. 31",
+     "de": "S. 31"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Gates of Calith",
+     "en": "Warhammer Fantasy Wiki (fandom), Gates of Calith page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Gates of Calith"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Gates_of_Calith"
+   }
+  ]
+ },
+ {
+  "id": "brumes-d-albion-restaurees",
+  "annee": 2521,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Les brumes d'Albion restaurées",
+   "en": "The mists of Albion restored",
+   "de": "Die Nebel von Albion wiederhergestellt"
+  },
+  "resume": {
+   "fr": "Un an après l'arrivée des Hommes-lézards à Albion, les brumes sacrées de l'île sont rétablies.",
+   "en": "A year after the Lizardmen reach Albion, the sacred mists of the isle are restored.",
+   "de": "Ein Jahr nach der Ankunft der Echsenmenschen auf Albion sind die heiligen Nebel der Insel wiederhergestellt."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "lustrie"
+  ],
+  "lieux": [
+   "albion",
+   "konquata"
+  ],
+  "factions": [
+   "hommes-lezards"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Lizardmen, 6e édition",
+     "en": "Warhammer Armies: Lizardmen, 6th edition",
+     "de": "Warhammer Armies: Lizardmen, 6. Edition"
+    },
+    "detail": {
+     "fr": "p. 9",
+     "en": "p. 9",
+     "de": "S. 9"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Konquata",
+     "en": "Warhammer Fantasy Wiki (fandom), Konquata page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Konquata"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Konquata"
+   }
+  ]
+ }
+]

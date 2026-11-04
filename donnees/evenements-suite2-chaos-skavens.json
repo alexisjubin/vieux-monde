@@ -1,0 +1,2433 @@
+[
+ {
+  "id": "morghur-s-eveille-dans-athel-loren",
+  "annee": -1054,
+  "fin": null,
+  "approx": true,
+  "titre": {
+   "fr": "Morghur s'éveille dans Athel Loren",
+   "en": "Morghur stirs in Athel Loren",
+   "de": "Morghur erwacht in Athel Loren"
+  },
+  "resume": {
+   "fr": "Une corruption s'éveille dans la forêt d'Athel Loren. Ariel consulte les Anciens et envoie ses éclaireurs au loin pour comprendre la nature d'un ennemi qu'aucun Elfe n'a encore vu et survécu pour le raconter.",
+   "en": "A corruption wakes within the forest of Athel Loren. Ariel consults the Elders and sends her scouts far afield to learn the nature of a foe no Elf has yet seen and lived to describe.",
+   "de": "Im Wald von Athel Loren erwacht eine Verderbnis. Ariel berät sich mit den Ältesten und schickt ihre Späher in die Ferne, um das Wesen eines Feindes zu ergründen, den noch kein Elf gesehen und überlebt hat."
+  },
+  "ere": "age-des-tribus",
+  "regions": [
+   "athel-loren"
+  ],
+  "lieux": [
+   "athel-loren"
+  ],
+  "factions": [
+   "chaos",
+   "elfes-sylvains"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Wood Elves (8e édition)",
+     "en": "Warhammer Armies: Wood Elves (8th edition)",
+     "de": "Warhammer Armies: Wood Elves (8. Edition)"
+    },
+    "detail": {
+     "fr": "p. 20",
+     "en": "p. 20",
+     "de": "S. 20"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Morghur",
+     "en": "Warhammer Fantasy Wiki (fandom), Morghur page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Morghur"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Morghur"
+   }
+  ]
+ },
+ {
+  "id": "nurglitch-tue-le-seigneur-vask",
+  "annee": 600,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Nurglitch tue le seigneur Vask du Gouffre Noir",
+   "en": "Nurglitch slays Lord Vask of the Black Chasm",
+   "de": "Nurglitch tötet Fürst Vask von der Schwarzen Kluft"
+  },
+  "resume": {
+   "fr": "Le seigneur de la peste Nurglitch tue Vask, membre du Conseil des Treize et maître du Gouffre Noir, dans les montagnes du centre de la Bretonnie. Le clan de cette forteresse perd une grande part de son influence.",
+   "en": "The Plaguelord Nurglitch kills Vask, a member of the Council of Thirteen and master of the Black Chasm in the mountains of central Bretonnia. The clan of that stronghold loses much of its influence.",
+   "de": "Der Seuchenfürst Nurglitch tötet Vask, Mitglied des Rats der Dreizehn und Herr der Schwarzen Kluft in den Bergen Zentralbretonias. Der Klan dieser Festung verliert einen großen Teil seines Einflusses."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "bretonnie"
+  ],
+  "lieux": [],
+  "factions": [
+   "skavens"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Under-Empire",
+     "en": "Warhammer Fantasy Wiki (fandom), Under-Empire page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Under-Empire"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Under-Empire"
+   }
+  ]
+ },
+ {
+  "id": "premier-sac-de-marienburg-632",
+  "annee": 632,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Premier sac de Marienburg par les Norses",
+   "en": "First Norscan sack of Marienburg",
+   "de": "Erste Plünderung Marienburgs durch die Norse"
+  },
+  "resume": {
+   "fr": "Une longue série de raids s'achève par le premier incendie complet de Marienburg par les pillards de Norsca.",
+   "en": "A long series of raids ends with Marienburg burned to the ground for the first time by the raiders of Norsca.",
+   "de": "Eine lange Reihe von Raubzügen endet damit, dass die Plünderer aus Norsca Marienburg zum ersten Mal völlig niederbrennen."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "empire",
+   "norsca"
+  ],
+  "lieux": [
+   "marienburg"
+  ],
+  "factions": [
+   "chaos",
+   "empire"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Dead Winter, roman de C. L. Werner",
+     "en": "Dead Winter, novel by C. L. Werner",
+     "de": "Dead Winter, Roman von C. L. Werner"
+    },
+    "detail": "",
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Norsca",
+     "en": "Warhammer Fantasy Wiki (fandom), Norsca page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Norsca"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Norsca"
+   }
+  ]
+ },
+ {
+  "id": "epidemius-reclame-l-ame-de-malekith",
+  "annee": 635,
+  "fin": 636,
+  "approx": false,
+  "titre": {
+   "fr": "Épidémius réclame l'âme de Malekith",
+   "en": "Epidemius claims Malekith's soul",
+   "de": "Epidemius fordert Malekiths Seele"
+  },
+  "resume": {
+   "fr": "En plein été, le démon de Nurgle Épidémius paraît à Naggaroth pour exiger l'âme de Malekith en paiement d'anciennes alliances. La guerre dure un an et un jour, jusqu'à ce que le Roi-Sorcier lui cède dix mille âmes elfes à la place de la sienne.",
+   "en": "At the height of summer the Nurgle daemon Epidemius appears in Naggaroth to demand Malekith's soul in payment for past alliances. War rages for a year and a day, until the Witch King offers ten thousand Elf souls in place of his own.",
+   "de": "Im Hochsommer erscheint der Nurgle-Dämon Epidemius in Naggaroth und verlangt Malekiths Seele als Lohn für frühere Bündnisse. Der Krieg dauert ein Jahr und einen Tag, bis der Hexenkönig ihm anstelle seiner eigenen zehntausend Elfenseelen überlässt."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "naggaroth"
+  ],
+  "lieux": [],
+  "factions": [
+   "chaos",
+   "elfes-noirs"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "La fin en 636 CI est déduite de la durée donnée par la source, un an et un jour.",
+   "en": "The end in 636 IC is inferred from the duration given by the source, a year and a day.",
+   "de": "Das Ende 636 IC ist aus der in der Quelle genannten Dauer von einem Jahr und einem Tag abgeleitet."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Daemons of Chaos (8e édition)",
+     "en": "Warhammer Armies: Daemons of Chaos (8th edition)",
+     "de": "Warhammer Armies: Daemons of Chaos (8. Edition)"
+    },
+    "detail": {
+     "fr": "p. 18",
+     "en": "p. 18",
+     "de": "S. 18"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Epidemius",
+     "en": "Warhammer Fantasy Wiki (fandom), Epidemius page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Epidemius"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Epidemius"
+   }
+  ]
+ },
+ {
+  "id": "changelin-et-necrarques-a-tlanxla",
+  "annee": 703,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Le Changelin et les Nécrarques à Tlanxla",
+   "en": "The Changeling and the Necrarchs at Tlanxla",
+   "de": "Der Wechselbalg und die Necrarchen in Tlanxla"
+  },
+  "resume": {
+   "fr": "Sous les traits d'Arkhan le Noir, le Changelin promet un savoir sorcier à une cabale de Nécrarques pour qu'ils attaquent Tlanxla. Pendant que zombies et Hommes-lézards s'épuisent, ses démons pillent les trésors des deux camps et dévorent les artefacts.",
+   "en": "Disguised as Arkhan the Black, the Changeling promises sorcerous lore to a cabal of Necrarchs if they attack Tlanxla. While zombies and Lizardmen wear each other down, his daemons loot the treasures of both sides and devour the artefacts.",
+   "de": "In der Gestalt Arkhans des Schwarzen verspricht der Wechselbalg einem Zirkel von Necrarchen magisches Wissen, wenn sie Tlanxla angreifen. Während sich Zombies und Echsenmenschen aufreiben, plündern seine Dämonen die Schätze beider Seiten und verschlingen die Artefakte."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "lustrie"
+  ],
+  "lieux": [
+   "tlanxla"
+  ],
+  "factions": [
+   "chaos",
+   "vampires",
+   "hommes-lezards"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Daemons of Chaos (8e édition)",
+     "en": "Warhammer Armies: Daemons of Chaos (8th edition)",
+     "de": "Warhammer Armies: Daemons of Chaos (8. Edition)"
+    },
+    "detail": {
+     "fr": "p. 18",
+     "en": "p. 18",
+     "de": "S. 18"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Changeling",
+     "en": "Warhammer Fantasy Wiki (fandom), Changeling page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Changeling"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Changeling"
+   }
+  ]
+ },
+ {
+  "id": "moisson-de-cranes-d-u-zhul",
+  "annee": 1001,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "La Moisson de crânes d'U'Zhul",
+   "en": "U'Zhul's Skull Harvest",
+   "de": "U'Zhuls Schädelernte"
+  },
+  "resume": {
+   "fr": "Le démon de Khorne U'Zhul descend dans le monde des mortels pour prendre le crâne de tous les hommes du Nord qui vénèrent un autre dieu que Khorne.",
+   "en": "The Khorne daemon U'Zhul descends to the mortal world to take the skull of every Northman who worships any god but Khorne.",
+   "de": "Der Khorne-Dämon U'Zhul steigt in die Welt der Sterblichen hinab, um allen Nordmännern den Schädel zu nehmen, die einem anderen Gott als Khorne huldigen."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "norsca",
+   "desolations"
+  ],
+  "lieux": [],
+  "factions": [
+   "chaos"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Daemons of Chaos (8e édition)",
+     "en": "Warhammer Armies: Daemons of Chaos (8th edition)",
+     "de": "Warhammer Armies: Daemons of Chaos (8. Edition)"
+    },
+    "detail": {
+     "fr": "p. 18",
+     "en": "p. 18",
+     "de": "S. 18"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page U'Zhul the Skulltaker",
+     "en": "Warhammer Fantasy Wiki (fandom), U'Zhul the Skulltaker page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite U'Zhul the Skulltaker"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/U'Zhul_the_Skulltaker"
+   }
+  ]
+ },
+ {
+  "id": "clan-verms-purge-1111",
+  "annee": 1111,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Le Conseil des Treize purge le clan Verms",
+   "en": "The Council of Thirteen culls Clan Verms",
+   "de": "Der Rat der Dreizehn dezimiert den Klan Verms"
+  },
+  "resume": {
+   "fr": "Des puces infectées transmettent à des Skavens une variante de la Peste noire. Le Conseil des Treize ordonne de décimer le clan Verms, dont la Ruche, centre d'élevage situé à Skavenblight, est livrée aux flammes.",
+   "en": "Infected fleas pass a variant of the Black Death to several Skaven. The Council of Thirteen orders a culling of Clan Verms, and the Hive, its breeding centre in Skavenblight, is put to the torch.",
+   "de": "Infizierte Flöhe übertragen eine Abart der Schwarzen Pest auf mehrere Skaven. Der Rat der Dreizehn befiehlt, den Klan Verms zu dezimieren, und der Stock, seine Zuchtstätte in Skavenblight, wird niedergebrannt."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "tilee-estalie"
+  ],
+  "lieux": [
+   "skavenblight"
+  ],
+  "factions": [
+   "skavens"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Dead Winter, roman de C. L. Werner",
+     "en": "Dead Winter, novel by C. L. Werner",
+     "de": "Dead Winter, Roman von C. L. Werner"
+    },
+    "detail": {
+     "fr": "chap. 13",
+     "en": "ch. 13",
+     "de": "Kap. 13"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Clan Verms",
+     "en": "Warhammer Fantasy Wiki (fandom), Clan Verms page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Clan Verms"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Clan_Verms"
+   }
+  ]
+ },
+ {
+  "id": "embuscade-du-clan-skrittlespike",
+  "annee": 1111,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "L'embuscade du clan Skrittlespike contre Puskab Foulfur",
+   "en": "Clan Skrittlespike's ambush of Puskab Foulfur",
+   "de": "Der Hinterhalt des Klans Skrittlespike gegen Puskab Foulfur"
+  },
+  "resume": {
+   "fr": "Krricht Dwarf-slicer, seigneur de guerre du clan Mors, charge des guerriers du clan Skrittlespike de tendre un piège au prêtre de la peste Puskab Foulfur sur le chemin de Skavenblight. Les moines de la peste de son escorte et la magie de Puskab balaient ces combattants mal armés.",
+   "en": "Krricht Dwarf-slicer, warlord of Clan Mors, hires warriors of Clan Skrittlespike to ambush the Plague Priest Puskab Foulfur on the road back to Skavenblight. The Plague Monks of his escort and Puskab's magic sweep aside these poorly armed fighters.",
+   "de": "Krricht Dwarf-slicer, Kriegsherr des Klans Mors, lässt Krieger des Klans Skrittlespike dem Seuchenpriester Puskab Foulfur auf dem Weg nach Skavenblight auflauern. Die Seuchenmönche seines Gefolges und Puskabs Magie fegen die schlecht bewaffneten Kämpfer hinweg."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "tilee-estalie"
+  ],
+  "lieux": [
+   "skavenblight"
+  ],
+  "factions": [
+   "skavens"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Dead Winter, roman de C. L. Werner",
+     "en": "Dead Winter, novel by C. L. Werner",
+     "de": "Dead Winter, Roman von C. L. Werner"
+    },
+    "detail": {
+     "fr": "chap. 3",
+     "en": "ch. 3",
+     "de": "Kap. 3"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Clan Skrittlespike",
+     "en": "Warhammer Fantasy Wiki (fandom), Clan Skrittlespike page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Clan Skrittlespike"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Clan_Skrittlespike"
+   }
+  ]
+ },
+ {
+  "id": "bataille-des-dragons-de-la-peste",
+  "annee": 1112,
+  "fin": 1113,
+  "approx": false,
+  "titre": {
+   "fr": "Bataille des Dragons de la Peste",
+   "en": "Battle of the Plague Dragons",
+   "de": "Schlacht der Seuchendrachen"
+  },
+  "resume": {
+   "fr": "Le seigneur devin Skrittar arrache à Morrslieb des météores de malepierre qui s'abattent sur la Sylvanie, puis y conduit une armée pour les récupérer. Les hommes-rats, dix fois plus nombreux, y affrontent les morts de Frederick van Hal et sa légion de dragons zombies. Skrittar se transforme en rejeton monstrueux en voulant canaliser trop de magie contre le nécromancien, qui le foudroie.",
+   "en": "Seer Lord Skrittar tears warpstone meteors from Morrslieb that fall on Sylvania, then leads an army there to recover them. The ratmen, ten times as many, face the dead of Frederick van Hal and his legion of Zombie Dragons. Skrittar mutates into a monstrous spawn while channelling too much magic against the necromancer, who blasts him apart.",
+   "de": "Der Seherfürst Skrittar reißt aus Morrslieb Warpsteinmeteore, die auf Sylvania niedergehen, und führt dann ein Heer dorthin, um sie zu bergen. Die zehnfach überlegenen Rattenmenschen stoßen auf die Toten Frederick van Hals und seine Legion von Zombiedrachen. Skrittar mutiert zu einer Rattenbrut, als er zu viel Magie gegen den Nekromanten kanalisiert, und wird von diesem vernichtet."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [],
+  "factions": [
+   "skavens",
+   "vampires"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Blighted Empire, roman de C. L. Werner",
+     "en": "Blighted Empire, novel by C. L. Werner",
+     "de": "Blighted Empire, Roman von C. L. Werner"
+    },
+    "detail": {
+     "fr": "chap. 3",
+     "en": "ch. 3",
+     "de": "Kap. 3"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Blighted Empire, roman de C. L. Werner",
+     "en": "Blighted Empire, novel by C. L. Werner",
+     "de": "Blighted Empire, Roman von C. L. Werner"
+    },
+    "detail": {
+     "fr": "chap. 16",
+     "en": "ch. 16",
+     "de": "Kap. 16"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Skaven Wars",
+     "en": "Warhammer Fantasy Wiki (fandom), Skaven Wars page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Skaven Wars"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Skaven_Wars"
+   }
+  ]
+ },
+ {
+  "id": "assaut-skaven-sur-altdorf-1114",
+  "annee": 1114,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "L'assaut skaven sur Altdorf",
+   "en": "The Skaven assault on Altdorf",
+   "de": "Der Sturm der Skaven auf Altdorf"
+  },
+  "resume": {
+   "fr": "Adolf Kreyssig cesse de livrer du grain à ses alliés secrets de Sous-Altdorf et lève une armée contre eux. Sythar Doom et le clan Skryre jaillissent alors des tunnels, détruisent les ponts du Reik et massacrent les réfugiés. Autour de la cathédrale de Sigmar, le Grand Théogone Gazulgrund et Kreyssig brisent l'attaque, et Sythar Doom s'enfuit sous terre.",
+   "en": "Adolf Kreyssig stops supplying grain to his secret allies in Under-Altdorf and raises an army against them. Sythar Doom and Clan Skryre burst from the tunnels, destroy the bridges over the Reik and slaughter the refugees. Around the Great Cathedral of Sigmar, Grand Theogonist Gazulgrund and Kreyssig break the attack, and Sythar Doom escapes underground.",
+   "de": "Adolf Kreyssig liefert seinen heimlichen Verbündeten in Unter-Altdorf kein Getreide mehr und stellt ein Heer gegen sie auf. Sythar Doom und der Klan Skryre brechen aus den Tunneln hervor, zerstören die Reikbrücken und metzeln die Flüchtlinge nieder. An der Großen Kathedrale Sigmars brechen Großtheogonist Gazulgrund und Kreyssig den Angriff, und Sythar Doom flieht unter die Erde."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "altdorf"
+  ],
+  "factions": [
+   "skavens",
+   "empire"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Blighted Empire, roman de C. L. Werner",
+     "en": "Blighted Empire, novel by C. L. Werner",
+     "de": "Blighted Empire, Roman von C. L. Werner"
+    },
+    "detail": {
+     "fr": "chap. 16",
+     "en": "ch. 16",
+     "de": "Kap. 16"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Skaven Wars",
+     "en": "Warhammer Fantasy Wiki (fandom), Skaven Wars page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Skaven Wars"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Skaven_Wars"
+   }
+  ]
+ },
+ {
+  "id": "massacre-de-schloss-hochenbach",
+  "annee": 1115,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Massacre de Schloss Hochenbach et mort de Boris",
+   "en": "Schloss Hochenbach massacre and death of Boris",
+   "de": "Massaker von Schloss Hochenbach und Tod Boris'"
+  },
+  "resume": {
+   "fr": "Boris Goldgather, retranché près de Carroburg, voit arriver les moines de la peste du clan Pestilens et un brouillard vert qui tue tous ceux qu'il touche. La cour est massacrée, et l'empereur ne survit à la nuit que dans la chapelle de Sigmar. Au matin, il songe déjà à saisir les titres des morts, et la princesse Erna lui fracasse le crâne d'un coup de marteau.",
+   "en": "Boris Goldgather, shut away near Carroburg, sees the Plague Monks of Clan Pestilens arrive with a green fog that kills all it touches. The court is slaughtered, and the emperor survives the night only in the chapel of Sigmar. By morning he is already planning to seize the titles of the dead, and Princess Erna smashes his skull with a hammer.",
+   "de": "Boris Goldgather, der sich bei Carroburg verschanzt hat, sieht die Seuchenmönche des Klans Pestilens mit einem grünen Nebel anrücken, der jeden tötet, den er berührt. Der Hof wird niedergemetzelt, und der Kaiser überlebt die Nacht nur in der Sigmarkapelle. Am Morgen plant er schon, sich die Titel der Toten anzueignen, und Prinzessin Erna zerschmettert ihm mit einem Hammer den Schädel."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "carroburg"
+  ],
+  "factions": [
+   "skavens",
+   "empire"
+  ],
+  "importance": 2,
+  "fiabilite": "divergent",
+  "note": {
+   "fr": "Le récit suit le roman Blighted Empire (page Skaven Wars). La page Black Death du wiki donne d'autres versions de la fin de Boris : officiellement emporté par la peste, en réalité tué par le shuriken d'un assassin du clan Eshin.",
+   "en": "This account follows the novel Blighted Empire (Skaven Wars page). The wiki's Black Death page gives other versions of Boris's end: officially taken by the plague, in truth killed by the shuriken of a Clan Eshin assassin.",
+   "de": "Die Darstellung folgt dem Roman Blighted Empire (Seite Skaven Wars). Die Wiki-Seite Black Death nennt andere Fassungen von Boris' Ende: offiziell ein Opfer der Pest, in Wahrheit vom Shuriken eines Assassinen des Klans Eshin getötet."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Blighted Empire, roman de C. L. Werner",
+     "en": "Blighted Empire, novel by C. L. Werner",
+     "de": "Blighted Empire, Roman von C. L. Werner"
+    },
+    "detail": {
+     "fr": "chap. 19 et 21",
+     "en": "ch. 19 and 21",
+     "de": "Kap. 19 und 21"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Skaven Wars",
+     "en": "Warhammer Fantasy Wiki (fandom), Skaven Wars page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Skaven Wars"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Skaven_Wars"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Black Death",
+     "en": "Warhammer Fantasy Wiki (fandom), Black Death page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Black Death"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Black_Death"
+   }
+  ]
+ },
+ {
+  "id": "bataille-de-dietershafen",
+  "annee": 1119,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Bataille de Dietershafen",
+   "en": "Battle of Dietershafen",
+   "de": "Schlacht um Dietershafen"
+  },
+  "resume": {
+   "fr": "Mandred profite du brouillard du Souffle de Manann et déguise ses soldats en paysans chargés de blé pour approcher Dietershafen, port et marché aux esclaves des Skavens du Nordland. Des sapeurs nains ouvrent une brèche et l'armée impériale y massacre des milliers d'hommes-rats pris au dépourvu.",
+   "en": "Mandred uses the fog known as Manann's Breath and disguises his soldiers as farmers carrying wheat to approach Dietershafen, port and slave market of the Skaven of Nordland. Dwarf sappers blow a breach and the Imperial army slaughters thousands of unprepared ratmen.",
+   "de": "Mandred nutzt den Nebel namens Mananns Atem und verkleidet seine Soldaten als Bauern mit Weizenlasten, um sich Dietershafen zu nähern, dem Hafen und Sklavenmarkt der Skaven im Nordland. Zwergische Pioniere sprengen eine Bresche, und das kaiserliche Heer metzelt Tausende überraschter Rattenmenschen nieder."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [],
+  "factions": [
+   "empire",
+   "skavens",
+   "nains"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Le titre de section du wiki écrit Diterschafen, son texte Dietershafen.",
+   "en": "The wiki's section heading reads Diterschafen, its text Dietershafen.",
+   "de": "Die Abschnittsüberschrift im Wiki lautet Diterschafen, der Text Dietershafen."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Wolf of Sigmar, roman de C. L. Werner",
+     "en": "Wolf of Sigmar, novel by C. L. Werner",
+     "de": "Wolf of Sigmar, Roman von C. L. Werner"
+    },
+    "detail": {
+     "fr": "chap. 7",
+     "en": "ch. 7",
+     "de": "Kap. 7"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Skaven Wars",
+     "en": "Warhammer Fantasy Wiki (fandom), Skaven Wars page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Skaven Wars"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Skaven_Wars"
+   }
+  ]
+ },
+ {
+  "id": "mandred-libere-carroburg",
+  "annee": 1119,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Mandred libère Carroburg",
+   "en": "Mandred liberates Carroburg",
+   "de": "Mandred befreit Carroburg"
+  },
+  "resume": {
+   "fr": "Après sa victoire de Middenheim, Mandred reprend Carroburg. Ses sapeurs nains font s'écrouler dans le fleuve Schloss Hochenbach, où les Skavens avaient fini par submerger la cour de Boris.",
+   "en": "After his victory at Middenheim, Mandred retakes Carroburg. His Dwarf sappers bring Schloss Hochenbach, where the Skaven had overrun Boris's court, crashing into the river.",
+   "de": "Nach seinem Sieg bei Middenheim erobert Mandred Carroburg zurück. Seine zwergischen Pioniere lassen Schloss Hochenbach, wo die Skaven einst den Hof Boris' überrannt hatten, in den Fluss stürzen."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "carroburg"
+  ],
+  "factions": [
+   "empire",
+   "skavens",
+   "nains"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Wolf of Sigmar, roman de C. L. Werner",
+     "en": "Wolf of Sigmar, novel by C. L. Werner",
+     "de": "Wolf of Sigmar, Roman von C. L. Werner"
+    },
+    "detail": {
+     "fr": "chap. 1",
+     "en": "ch. 1",
+     "de": "Kap. 1"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Skaven Wars",
+     "en": "Warhammer Fantasy Wiki (fandom), Skaven Wars page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Skaven Wars"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Skaven_Wars"
+   }
+  ]
+ },
+ {
+  "id": "destruction-du-grand-observatoire-1120",
+  "annee": 1120,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Puskab Foulfur détruit le télescope de malepierre",
+   "en": "Puskab Foulfur destroys the warpscope",
+   "de": "Puskab Foulfur zerstört das Warpskop"
+  },
+  "resume": {
+   "fr": "Le clan Pestilens étant au sommet de sa puissance, le maître de peste Puskab Foulfur déclare hérétique l'instrument du clan Skryre dans le Grand Observatoire de Skavenblight. Des esclaves le mettent en pièces et des moines de la peste arrachent mosaïques et fresques astronomiques.",
+   "en": "With Clan Pestilens at the height of its power, Poxmaster Puskab Foulfur declares Clan Skryre's instrument in the Grand Observatory of Skavenblight heretical. Slaves break it apart while Plague Monks tear out the astronomical mosaics and frescoes.",
+   "de": "Auf dem Höhepunkt der Macht des Klans Pestilens erklärt Seuchenmeister Puskab Foulfur das Instrument des Klans Skryre im Großen Observatorium von Skavenblight für ketzerisch. Sklaven zerschlagen es, während Seuchenmönche die astronomischen Mosaike und Fresken herausreißen."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "tilee-estalie"
+  ],
+  "lieux": [
+   "skavenblight"
+  ],
+  "factions": [
+   "skavens"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Wolf of Sigmar, roman de C. L. Werner",
+     "en": "Wolf of Sigmar, novel by C. L. Werner",
+     "de": "Wolf of Sigmar, Roman von C. L. Werner"
+    },
+    "detail": {
+     "fr": "prologue",
+     "en": "prologue",
+     "de": "Prolog"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Skavenblight",
+     "en": "Warhammer Fantasy Wiki (fandom), Skavenblight page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Skavenblight"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Skavenblight"
+   }
+  ]
+ },
+ {
+  "id": "bataille-du-fellwald",
+  "annee": 1122,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Bataille du Fellwald",
+   "en": "Battle of the Fellwald",
+   "de": "Schlacht im Fellwald"
+  },
+  "resume": {
+   "fr": "Manipulés par Lothar von Diehl et le voïvode von Drak, Stirland et Frederick van Hal s'affrontent près de Silberwald, et Mandred se joint aux Stirlandais. Le combat tourne à la mêlée à quatre camps quand les Sylvaniens trahissent et que le clan Mordkin surgit sur le flanc. Les arquebuses des Nains abattent les derniers dragons zombies de van Hal. Morts et Skavens s'entre-détruisent, et l'armée impériale, seule encore debout, remporte une victoire à la Pyrrhus.",
+   "en": "Manipulated by Lothar von Diehl and Voivode von Drak, Stirland and Frederick van Hal clash near Silberwald, and Mandred joins the Stirlanders. The fight becomes a four-sided melee when the Sylvanians turn traitor and Clan Mordkin bursts onto the flank. Dwarf firearms bring down van Hal's last Zombie Dragons. Undead and Skaven annihilate each other, and the Imperial army, the only force left standing, wins a pyrrhic victory.",
+   "de": "Von Lothar von Diehl und dem Woiwoden von Drak getäuscht, stoßen Stirland und Frederick van Hal bei Silberwald aufeinander, und Mandred schließt sich den Stirländern an. Der Kampf wird zum Handgemenge von vier Parteien, als die Sylvanier Verrat üben und der Klan Mordkin in der Flanke auftaucht. Die Feuerwaffen der Zwerge bringen van Hals letzte Zombiedrachen zu Fall. Untote und Skaven reiben sich gegenseitig auf, und das kaiserliche Heer, als einziges noch auf den Beinen, erringt einen Pyrrhussieg."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [],
+  "factions": [
+   "empire",
+   "vampires",
+   "skavens",
+   "nains"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Wolf of Sigmar, roman de C. L. Werner",
+     "en": "Wolf of Sigmar, novel by C. L. Werner",
+     "de": "Wolf of Sigmar, Roman von C. L. Werner"
+    },
+    "detail": {
+     "fr": "chap. 12",
+     "en": "ch. 12",
+     "de": "Kap. 12"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Skaven Wars",
+     "en": "Warhammer Fantasy Wiki (fandom), Skaven Wars page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Skaven Wars"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Skaven_Wars"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Silberwald",
+     "en": "Warhammer Fantasy Wiki (fandom), Silberwald page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Silberwald"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Silberwald"
+   }
+  ]
+ },
+ {
+  "id": "bataille-d-averheim-1124",
+  "annee": 1124,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Bataille d'Averheim",
+   "en": "Battle of Averheim",
+   "de": "Schlacht um Averheim"
+  },
+  "resume": {
+   "fr": "Averheim est le grand bastion skaven du sud, et seuls quelques centaines d'hommes tiennent encore l'Averburg. Une sortie de porteurs d'encensoir tue l'Ar-Ulric et Mandred ordonne l'assaut immédiat. Malgré les tunnels creusés par Vrrmik derrière les brèches, la cavalerie impériale perce et Mandred blesse le chef de guerre du clan Mors de sa main.",
+   "en": "Averheim is the great Skaven stronghold of the south, and only a few hundred men still hold the Averburg. A sortie of censer-bearers kills the Ar-Ulric and Mandred orders an immediate assault. Despite the tunnels Vrrmik dug behind the breaches, the Imperial cavalry breaks through and Mandred personally wounds the warlord of Clan Mors.",
+   "de": "Averheim ist die große Skavenfestung des Südens, und nur noch einige hundert Männer halten die Averburg. Ein Ausfall von Weihrauchträgern tötet den Ar-Ulric, und Mandred befiehlt den sofortigen Sturm. Trotz der Tunnel, die Vrrmik hinter den Breschen gegraben hat, bricht die kaiserliche Reiterei durch, und Mandred verwundet den Kriegsherrn des Klans Mors eigenhändig."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "averheim"
+  ],
+  "factions": [
+   "empire",
+   "skavens",
+   "nains"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Wolf of Sigmar, roman de C. L. Werner",
+     "en": "Wolf of Sigmar, novel by C. L. Werner",
+     "de": "Wolf of Sigmar, Roman von C. L. Werner"
+    },
+    "detail": {
+     "fr": "chap. 12",
+     "en": "ch. 12",
+     "de": "Kap. 12"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Skaven Wars",
+     "en": "Warhammer Fantasy Wiki (fandom), Skaven Wars page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Skaven Wars"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Skaven_Wars"
+   }
+  ]
+ },
+ {
+  "id": "bataille-des-collines-hurlantes",
+  "annee": 1124,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Bataille des Collines Hurlantes",
+   "en": "Battle of the Howling Hills",
+   "de": "Schlacht an den Heulenden Hügeln"
+  },
+  "resume": {
+   "fr": "Une contre-offensive skaven menace de disperser l'armée de Mandred, qui marche à marche forcée vers le Hochland. Dans les gorges des Collines Hurlantes, canons et archers fauchent les hommes-rats à la sortie de leurs tunnels. Mandred y tue le chef de guerre Vrrmik du clan Mors, et cette victoire met fin à la tentative skaven de conquérir la surface.",
+   "en": "A Skaven counter-offensive threatens to scatter Mandred's army, which force-marches to Hochland. In the ravines of the Howling Hills, cannon and archers cut down the ratmen as they leave their tunnels. Mandred slays Warlord Vrrmik of Clan Mors there, and the victory ends the Skaven attempt to conquer the surface.",
+   "de": "Eine Gegenoffensive der Skaven droht Mandreds Heer zu zerstreuen, das in Gewaltmärschen nach Hochland zieht. In den Schluchten der Heulenden Hügel mähen Kanonen und Bogenschützen die Rattenmenschen nieder, sobald sie ihre Tunnel verlassen. Mandred tötet dort den Kriegsherrn Vrrmik vom Klan Mors, und der Sieg beendet den Versuch der Skaven, die Oberfläche zu erobern."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [],
+  "factions": [
+   "empire",
+   "skavens"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Wolf of Sigmar, roman de C. L. Werner",
+     "en": "Wolf of Sigmar, novel by C. L. Werner",
+     "de": "Wolf of Sigmar, Roman von C. L. Werner"
+    },
+    "detail": "",
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Skaven Wars",
+     "en": "Warhammer Fantasy Wiki (fandom), Skaven Wars page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Skaven Wars"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Skaven_Wars"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Clan Pestilens",
+     "en": "Warhammer Fantasy Wiki (fandom), Clan Pestilens page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Clan Pestilens"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Clan_Pestilens"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Vrrmik",
+     "en": "Warhammer Fantasy Wiki (fandom), Vrrmik page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Vrrmik"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Vrrmik"
+   }
+  ]
+ },
+ {
+  "id": "ariel-sort-du-chene-des-ages-1703",
+  "annee": 1703,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Morghur renaît et Ariel sort du Chêne des Âges",
+   "en": "Morghur reborn and Ariel leaves the Oak of Ages",
+   "de": "Morghur kehrt zurück, Ariel verlässt die Eiche der Zeitalter"
+  },
+  "resume": {
+   "fr": "Après plus de trois siècles de retraite, Ariel apprend la renaissance de Morghur, plus puissant que jamais, et quitte le Chêne des Âges pour unir Athel Loren. Les Elfes sylvains fêtent son retour et ses retrouvailles avec Orion, sans voir que la magie noire la souille encore.",
+   "en": "After more than three centuries in seclusion, Ariel learns that Morghur has been reborn, stronger than ever, and leaves the Oak of Ages to unite Athel Loren. The Wood Elves celebrate her return and her reunion with Orion, unaware that Dark Magic still taints her.",
+   "de": "Nach mehr als drei Jahrhunderten der Abgeschiedenheit erfährt Ariel von Morghurs Wiedergeburt, stärker als je zuvor, und verlässt die Eiche der Zeitalter, um Athel Loren zu einen. Die Waldelfen feiern ihre Rückkehr und das Wiedersehen mit Orion, ohne zu ahnen, dass dunkle Magie noch immer an ihr haftet."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "athel-loren"
+  ],
+  "lieux": [
+   "athel-loren"
+  ],
+  "factions": [
+   "chaos",
+   "elfes-sylvains"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Wood Elves (8e édition)",
+     "en": "Warhammer Armies: Wood Elves (8th edition)",
+     "de": "Warhammer Armies: Wood Elves (8. Edition)"
+    },
+    "detail": {
+     "fr": "p. 27",
+     "en": "p. 27",
+     "de": "S. 27"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Morghur",
+     "en": "Warhammer Fantasy Wiki (fandom), Morghur page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Morghur"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Morghur"
+   }
+  ]
+ },
+ {
+  "id": "kholek-libere-par-malofex",
+  "annee": 1730,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Malofex libère Kholek Suneater",
+   "en": "Malofex frees Kholek Suneater",
+   "de": "Malofex befreit Kholek Suneater"
+  },
+  "resume": {
+   "fr": "Le sorcier du Chaos Malofex fait fondre sous une tempête de feu le glacier où de grands mages elfes avaient enfermé le Shaggoth Kholek. Le géant libéré le tue pour avoir cru pouvoir le commander.",
+   "en": "The Chaos Sorcerer Malofex calls a firestorm to melt the glacier in which great Elf mages had imprisoned the Shaggoth Kholek. The freed giant kills him for thinking he could be controlled.",
+   "de": "Der Chaoszauberer Malofex lässt durch einen Feuersturm den Gletscher schmelzen, in dem große Elfenmagier den Shaggoth Kholek eingeschlossen hatten. Der befreite Riese tötet ihn, weil er glaubte, ihn beherrschen zu können."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "desolations"
+  ],
+  "lieux": [],
+  "factions": [
+   "chaos"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Warriors of Chaos (7e édition, p. 40) attribuait ce glacier à Teclis, ce que sa naissance en 2157 CI rend impossible selon le wiki.",
+   "en": "Warriors of Chaos (7th edition, p. 40) credited the glacier to Teclis, which his birth in 2157 IC makes impossible according to the wiki.",
+   "de": "Warriors of Chaos (7. Edition, S. 40) schrieb den Gletscher Teclis zu, was laut Wiki durch seine Geburt 2157 IC unmöglich ist."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Warriors of Chaos (8e édition)",
+     "en": "Warhammer Armies: Warriors of Chaos (8th edition)",
+     "de": "Warhammer Armies: Warriors of Chaos (8. Edition)"
+    },
+    "detail": {
+     "fr": "p. 14",
+     "en": "p. 14",
+     "de": "S. 14"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Kholek Suneater",
+     "en": "Warhammer Fantasy Wiki (fandom), Kholek Suneater page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Kholek Suneater"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Kholek_Suneater"
+   }
+  ]
+ },
+ {
+  "id": "ku-gath-a-kar-draonrath",
+  "annee": 1775,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Ku'gath défait à Kar Draonrath",
+   "en": "Ku'gath defeated at Kar Draonrath",
+   "de": "Ku'gaths Niederlage bei Kar Draonrath"
+  },
+  "resume": {
+   "fr": "Revenu dans le monde des mortels, Ku'gath est vaincu par une armée elfe noire de Kar Draonrath. Il laisse toutefois la moitié de la population de la cité frappée de pourriture en quelques jours.",
+   "en": "Back in the mortal world, Ku'gath is defeated by a Dark Elf army of Kar Draonrath. Even so, he leaves half of the city's people stricken with shacklerot within days.",
+   "de": "In die Welt der Sterblichen zurückgekehrt, wird Ku'gath von einem Dunkelelfenheer aus Kar Draonrath besiegt. Dennoch lässt er die halbe Bevölkerung der Stadt binnen Tagen an einer Fäule erkranken."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "naggaroth"
+  ],
+  "lieux": [],
+  "factions": [
+   "chaos",
+   "elfes-noirs"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Daemons of Chaos (7e édition)",
+     "en": "Warhammer Armies: Daemons of Chaos (7th edition)",
+     "de": "Warhammer Armies: Daemons of Chaos (7. Edition)"
+    },
+    "detail": {
+     "fr": "p. 29",
+     "en": "p. 29",
+     "de": "S. 29"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Ku'gath Plaguefather",
+     "en": "Warhammer Fantasy Wiki (fandom), Ku'gath Plaguefather page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Ku'gath Plaguefather"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Ku'gath_Plaguefather"
+   }
+  ]
+ },
+ {
+  "id": "gryphon-legion-1810",
+  "annee": 1810,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Création de la Légion du Griffon",
+   "en": "The Gryphon Legion is raised",
+   "de": "Aufstellung der Greifenlegion"
+  },
+  "resume": {
+   "fr": "La Légion du Griffon est tirée des Lanciers ailés pour servir de garde personnelle au tsar Gospodar IV.",
+   "en": "The Gryphon Legion is raised from the Winged Lancers to serve as bodyguard to Tzar Gospodar IV.",
+   "de": "Die Greifenlegion wird aus den Geflügelten Lanzenreitern gebildet und dient Zar Gospodar IV. als Leibwache."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "kislev"
+  ],
+  "lieux": [
+   "kislev"
+  ],
+  "factions": [
+   "kislev"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Realm of the Ice Queen, Warhammer Fantasy Roleplay (2e édition)",
+     "en": "Realm of the Ice Queen, Warhammer Fantasy Roleplay (2nd edition)",
+     "de": "Realm of the Ice Queen, Warhammer Fantasy Roleplay (2. Edition)"
+    },
+    "detail": {
+     "fr": "p. 26",
+     "en": "p. 26",
+     "de": "S. 26"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Gryphon Legion",
+     "en": "Warhammer Fantasy Wiki (fandom), Gryphon Legion page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Gryphon Legion"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Gryphon_Legion"
+   }
+  ]
+ },
+ {
+  "id": "vladic-dostov-tue-un-griffon",
+  "annee": 1817,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Vladic Dostov tue un griffon",
+   "en": "Vladic Dostov slays a griffon",
+   "de": "Vladic Dostov tötet einen Greifen"
+  },
+  "resume": {
+   "fr": "Lors d'une expédition dans les Montagnes du Bord du Monde, le chef de la Légion du Griffon tue seul un griffon et orne ses ailes de ses plumes. Cet exploit vaut au régiment le droit d'agir de façon indépendante, et il combat depuis souvent comme mercenaire dans l'Empire.",
+   "en": "On an expedition into the Worlds Edge Mountains, the leader of the Gryphon Legion kills a griffon single-handed and decorates his wings with its feathers. The deed earns the regiment the right to act independently, and it has often fought since as a mercenary force in the Empire.",
+   "de": "Auf einer Expedition ins Weltrandgebirge tötet der Anführer der Greifenlegion allein einen Greifen und schmückt seine Flügel mit dessen Federn. Die Tat verschafft dem Regiment das Recht auf selbständiges Handeln, und es kämpft seither oft als Söldnertruppe im Imperium."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "montagnes",
+   "kislev"
+  ],
+  "lieux": [],
+  "factions": [
+   "kislev"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Realm of the Ice Queen, Warhammer Fantasy Roleplay (2e édition)",
+     "en": "Realm of the Ice Queen, Warhammer Fantasy Roleplay (2nd edition)",
+     "de": "Realm of the Ice Queen, Warhammer Fantasy Roleplay (2. Edition)"
+    },
+    "detail": {
+     "fr": "p. 26",
+     "en": "p. 26",
+     "de": "S. 26"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Gryphon Legion",
+     "en": "Warhammer Fantasy Wiki (fandom), Gryphon Legion page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Gryphon Legion"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Gryphon_Legion"
+   }
+  ]
+ },
+ {
+  "id": "bataille-des-lamentations-2006",
+  "annee": 2006,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Bataille des Lamentations",
+   "en": "Battle of Lamentations",
+   "de": "Schlacht der Klagen"
+  },
+  "resume": {
+   "fr": "Une flotte de la peste de Nurgle menée par Kharan le Flétri jette l'ancre devant la Bretonnie, accompagnée de bandes de Khorne dont les Skulltakers. Les légions écrasent les chevaliers de Couronne et assiègent la ville. Le roi Louis le Brave est tué en duel par leur chef Akrim, et près de la moitié des chevaliers bretonniens périssent.",
+   "en": "A Nurglite plague fleet led by Kharan the Blighted drops anchor off Bretonnia, joined by Khornate warbands including the Skulltakers. The legions crush the knights of Couronne and besiege the city. King Louis the Brave is slain in single combat by their leader Akrim, and about half of Bretonnia's knights perish.",
+   "de": "Eine Seuchenflotte Nurgles unter Kharan dem Verseuchten ankert vor Bretonia, begleitet von Khorne-Kriegerscharen, darunter die Skulltakers. Die Legionen zerschlagen die Ritter von Couronne und belagern die Stadt. König Louis der Tapfere fällt im Zweikampf gegen ihren Anführer Akrim, und etwa die Hälfte der bretonischen Ritter kommt um."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "bretonnie"
+  ],
+  "lieux": [
+   "couronne"
+  ],
+  "factions": [
+   "chaos",
+   "bretonnie"
+  ],
+  "importance": 2,
+  "fiabilite": "etabli",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Bretonnia (5e édition)",
+     "en": "Warhammer Armies: Bretonnia (5th edition)",
+     "de": "Warhammer Armies: Bretonnia (5. Edition)"
+    },
+    "detail": "",
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Warriors of Chaos (8e édition)",
+     "en": "Warhammer Armies: Warriors of Chaos (8th edition)",
+     "de": "Warhammer Armies: Warriors of Chaos (8. Edition)"
+    },
+    "detail": "",
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Realm of Chaos (5e édition)",
+     "en": "Warhammer Armies: Realm of Chaos (5th edition)",
+     "de": "Warhammer Armies: Realm of Chaos (5. Edition)"
+    },
+    "detail": "",
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Kharan the Blighted",
+     "en": "Warhammer Fantasy Wiki (fandom), Kharan the Blighted page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Kharan the Blighted"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Kharan_the_Blighted"
+   }
+  ]
+ },
+ {
+  "id": "kairos-a-montfort-2031",
+  "annee": 2031,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Kairos Fateweaver à Montfort, bataille de Sky's Fall",
+   "en": "Kairos Fateweaver at Montfort, Battle of Sky's Fall",
+   "de": "Kairos Fateweaver bei Montfort, Schlacht von Sky's Fall"
+  },
+  "resume": {
+   "fr": "Selon le barde bretonnien Tyness Evain, Kairos Fateweaver conduit une grande incursion de démons contre Montfort, qui débouche sur la bataille de Sky's Fall.",
+   "en": "According to the Bretonnian bard Tyness Evain, Kairos Fateweaver leads a great Daemonic incursion against Montfort, resulting in the Battle of Sky's Fall.",
+   "de": "Nach dem bretonischen Barden Tyness Evain führt Kairos Fateweaver einen großen Dämoneneinfall gegen Montfort, der zur Schlacht von Sky's Fall führt."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "bretonnie"
+  ],
+  "lieux": [
+   "montfort"
+  ],
+  "factions": [
+   "chaos",
+   "bretonnie"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Daemons of Chaos (7e édition)",
+     "en": "Warhammer Armies: Daemons of Chaos (7th edition)",
+     "de": "Warhammer Armies: Daemons of Chaos (7. Edition)"
+    },
+    "detail": {
+     "fr": "p. 29",
+     "en": "p. 29",
+     "de": "S. 29"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Kairos Fateweaver",
+     "en": "Warhammer Fantasy Wiki (fandom), Kairos Fateweaver page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Kairos Fateweaver"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Kairos_Fateweaver"
+   }
+  ]
+ },
+ {
+  "id": "cauchemar-de-drakenmoor-2037",
+  "annee": 2037,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Le Cauchemar de Drakenmoor",
+   "en": "The Nightmare of Drakenmoor",
+   "de": "Der Albtraum von Drakenmoor"
+  },
+  "resume": {
+   "fr": "Les Nains du Chaos et les Skavens se livrent une bataille restée tristement célèbre sous le nom de Cauchemar de Drakenmoor.",
+   "en": "Chaos Dwarfs and Skaven fight a battle that becomes infamous as the Nightmare of Drakenmoor.",
+   "de": "Chaoszwerge und Skaven liefern sich eine Schlacht, die als Albtraum von Drakenmoor berüchtigt wird."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [],
+  "factions": [
+   "chaos",
+   "skavens"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "La page ne situe pas le lieu. La région est reprise de la bataille de Drakenmoor de l'an 11, sans certitude qu'il s'agisse du même endroit.",
+   "en": "The page does not locate the site. The region is taken from the Battle of Drakenmoor of the year 11, with no certainty that this is the same place.",
+   "de": "Die Seite verortet den Schauplatz nicht. Die Region stammt von der Schlacht von Drakenmoor im Jahr 11, ohne Gewissheit, dass es derselbe Ort ist."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Tamurkhan: The Throne of Chaos",
+     "en": "Tamurkhan: The Throne of Chaos",
+     "de": "Tamurkhan: The Throne of Chaos"
+    },
+    "detail": "",
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Nightmare of Drakenmoor",
+     "en": "Warhammer Fantasy Wiki (fandom), Nightmare of Drakenmoor page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Nightmare of Drakenmoor"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Nightmare_of_Drakenmoor"
+   }
+  ]
+ },
+ {
+  "id": "taira-pavlovna-fraternite-de-l-ours",
+  "annee": 2085,
+  "fin": null,
+  "approx": true,
+  "titre": {
+   "fr": "Taira Pavlovna fonde la Fraternité de l'Ours",
+   "en": "Taira Pavlovna founds the Brotherhood of the Bear",
+   "de": "Taira Pawlowna gründet die Bruderschaft des Bären"
+  },
+  "resume": {
+   "fr": "Pour répondre aux appels des habitants des confins harcelés par les Orques et les guerriers du Chaos, la tsarine crée un ordre de chevaliers éclaireurs voué à Taal et formé à l'embuscade.",
+   "en": "In answer to the pleas of borderland settlers harassed by Orcs and Chaos Warriors, the Tzarina creates an order of ranger-knights devoted to Taal and trained in ambush.",
+   "de": "Auf die Hilferufe der von Orks und Chaoskriegern bedrängten Grenzbewohner hin gründet die Zarin einen Orden von Waldläufer-Rittern, der Taal geweiht und im Hinterhalt geschult ist."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "kislev"
+  ],
+  "lieux": [],
+  "factions": [
+   "kislev"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Date tirée de la liste des tsars du wiki (vers 2085 CI). La page de l'ordre dit seulement quatre siècles.",
+   "en": "Date taken from the wiki's list of Tzars (ca. 2085 IC). The order's own page only says four centuries ago.",
+   "de": "Datum aus der Zarenliste des Wikis (um 2085 IC). Die Seite des Ordens sagt nur vor vier Jahrhunderten."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Citadel Journal 15",
+     "en": "Citadel Journal 15",
+     "de": "Citadel Journal 15"
+    },
+    "detail": {
+     "fr": "p. 24",
+     "en": "p. 24",
+     "de": "S. 24"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Tzar",
+     "en": "Warhammer Fantasy Wiki (fandom), Tzar page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Tzar"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Tzar"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Brotherhood of the Bear",
+     "en": "Warhammer Fantasy Wiki (fandom), Brotherhood of the Bear page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Brotherhood of the Bear"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Brotherhood_of_the_Bear"
+   }
+  ]
+ },
+ {
+  "id": "scyla-et-les-paysans-2298",
+  "annee": 2298,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Scyla Anfingrimm massacre une armée de paysans",
+   "en": "Scyla Anfingrimm slaughters an army of farmers",
+   "de": "Scyla Anfingrimm vernichtet ein Bauernheer"
+  },
+  "resume": {
+   "fr": "Lors d'un raid dans l'Empire, le champion de Khorne affronte une armée de paysans chassés de leurs terres par ses invasions passées. Il la massacre à lui seul et cloue ses chefs vivants à la proue de ses drakkars.",
+   "en": "On a raid into the Empire, the Champion of Khorne faces an army of farmers driven from their land by his earlier invasions. He slaughters it single-handed and nails its leaders alive to the prows of his longships.",
+   "de": "Bei einem Raubzug ins Imperium stellt sich dem Champion Khornes ein Heer von Bauern entgegen, die seine früheren Einfälle vertrieben haben. Er vernichtet es allein und nagelt die Anführer lebend an den Bug seiner Langschiffe."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [],
+  "factions": [
+   "chaos",
+   "empire"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Warriors of Chaos (7e édition)",
+     "en": "Warhammer Armies: Warriors of Chaos (7th edition)",
+     "de": "Warhammer Armies: Warriors of Chaos (7. Edition)"
+    },
+    "detail": {
+     "fr": "p. 41",
+     "en": "p. 41",
+     "de": "S. 41"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Scyla Anfingrimm",
+     "en": "Warhammer Fantasy Wiki (fandom), Scyla Anfingrimm page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Scyla Anfingrimm"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Scyla_Anfingrimm"
+   }
+  ]
+ },
+ {
+  "id": "hopital-lubjanko",
+  "annee": 2304,
+  "fin": null,
+  "approx": true,
+  "titre": {
+   "fr": "Alexis Romanoff fonde l'hôpital de Lubjanko",
+   "en": "Alexis Romanoff founds the Lubjanko hospital",
+   "de": "Alexis Romanoff gründet das Lubjanko-Hospital"
+  },
+  "resume": {
+   "fr": "Horrifié par les soins reçus par ses soldats blessés pendant la Grande Guerre contre le Chaos, le tsar commande un hôpital contre le mur oriental de sa capitale.",
+   "en": "Horrified by the care his wounded soldiers received in the Great War Against Chaos, the Tzar orders a hospital built against the eastern wall of his capital.",
+   "de": "Entsetzt über die Behandlung seiner Verwundeten im Großen Krieg gegen das Chaos, lässt der Zar an der Ostmauer seiner Hauptstadt ein Hospital errichten."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "kislev"
+  ],
+  "lieux": [
+   "kislev"
+  ],
+  "factions": [
+   "kislev"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "La source dit seulement après la fin de la guerre, en 2304 CI.",
+   "en": "The source only says after the end of the war in 2304 IC.",
+   "de": "Die Quelle sagt nur nach dem Kriegsende 2304 IC."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Realm of the Ice Queen, Warhammer Fantasy Roleplay (2e édition)",
+     "en": "Realm of the Ice Queen, Warhammer Fantasy Roleplay (2nd edition)",
+     "de": "Realm of the Ice Queen, Warhammer Fantasy Roleplay (2. Edition)"
+    },
+    "detail": {
+     "fr": "p. 85",
+     "en": "p. 85",
+     "de": "S. 85"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Lubjanko",
+     "en": "Warhammer Fantasy Wiki (fandom), Lubjanko page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Lubjanko"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Lubjanko"
+   }
+  ]
+ },
+ {
+  "id": "sigvald-envahit-ulthuan-2374",
+  "annee": 2374,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Sigvald le Magnifique envahit Ulthuan",
+   "en": "Sigvald the Magnificent invades Ulthuan",
+   "de": "Sigvald der Prächtige fällt in Ulthuan ein"
+  },
+  "resume": {
+   "fr": "Jaloux des chevelures elfes, Sigvald débarque à Ulthuan pour scalper tout Elfe qu'il rencontrera. La princesse Eldyra harcèle son armée, la perd dans les hauteurs de Cothique et la surprend en plein duel entre Sigvald et son lieutenant Dranak Goredrinker. Le Prince refuse d'interrompre le combat, ses troupes sont anéanties et il s'en va seul.",
+   "en": "Envious of Elven hair, Sigvald lands on Ulthuan intending to scalp every Elf he meets. Princess Eldyra harries his army, loses it in the Cothique highlands and strikes in the midst of a duel between Sigvald and his lieutenant Dranak Goredrinker. The prince refuses to break off the fight, his troops are destroyed and he wanders off alone.",
+   "de": "Neidisch auf das Haar der Elfen, landet Sigvald auf Ulthuan, um jeden Elfen zu skalpieren, dem er begegnet. Prinzessin Eldyra zermürbt sein Heer, lässt es sich im Hochland von Cothique verirren und schlägt mitten in einem Zweikampf zwischen Sigvald und seinem Leutnant Dranak Goredrinker zu. Der Prinz weigert sich, den Kampf abzubrechen, seine Truppen werden vernichtet, und er zieht allein davon."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "ulthuan"
+  ],
+  "lieux": [],
+  "factions": [
+   "chaos",
+   "hauts-elfes"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "La source date l'invasion de l'an 211 du onzième roi Phénix, converti par elle en 2374 CI.",
+   "en": "The source dates the invasion to year 211 of the 11th Phoenix King, which it converts to 2374 IC.",
+   "de": "Die Quelle datiert den Einfall auf das Jahr 211 des 11. Phönixkönigs und rechnet dies in 2374 IC um."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: High Elves (8e édition)",
+     "en": "Warhammer Armies: High Elves (8th edition)",
+     "de": "Warhammer Armies: High Elves (8. Edition)"
+    },
+    "detail": {
+     "fr": "p. 31",
+     "en": "p. 31",
+     "de": "S. 31"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Sigvald the Magnificent",
+     "en": "Warhammer Fantasy Wiki (fandom), Sigvald the Magnificent page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Sigvald the Magnificent"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Sigvald_the_Magnificent"
+   }
+  ]
+ },
+ {
+  "id": "naissance-d-archaon-hargendorf",
+  "annee": 2390,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Hargendorf incendiée, origine d'Archaon",
+   "en": "Hargendorf burned, origin of Archaon",
+   "de": "Hargendorf brennt, Archaons Herkunft"
+  },
+  "resume": {
+   "fr": "Un champion possédé de la tribu des Vargs brûle le village nordlandais de Hargendorf et viole une habitante. Archaon naît de cette union, à la fois norse et nordlander.",
+   "en": "A possessed champion of the Varg tribes burns the Nordland village of Hargendorf and rapes one of its women. Archaon is born of this union, half Norscan and half Nordlander.",
+   "de": "Ein besessener Champion der Varg-Stämme brennt das nordländische Dorf Hargendorf nieder und tut einer Bewohnerin Gewalt an. Aus dieser Verbindung geht Archaon hervor, halb Norse, halb Nordländer."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [],
+  "factions": [
+   "chaos",
+   "empire"
+  ],
+  "importance": 1,
+  "fiabilite": "divergent",
+  "note": {
+   "fr": "La page Archaon date le raid de 2390 CI. La page Storm of Chaos le fait naître quelques années à peine après la victoire de Magnus en 2304 CI.",
+   "en": "The Archaon page dates the raid to 2390 IC. The Storm of Chaos page has him born only a few years after Magnus's victory in 2304 IC.",
+   "de": "Die Seite Archaon datiert den Überfall auf 2390 IC. Die Seite Storm of Chaos lässt ihn nur wenige Jahre nach Magnus' Sieg 2304 IC geboren werden."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Archaon",
+     "en": "Warhammer Fantasy Wiki (fandom), Archaon page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Archaon"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Archaon"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Storm of Chaos",
+     "en": "Warhammer Fantasy Wiki (fandom), Storm of Chaos page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Storm of Chaos"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Storm_of_Chaos"
+   }
+  ]
+ },
+ {
+  "id": "betes-de-telldros-contre-throgg",
+  "annee": 2435,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Les Bêtes de Telldros contre Throgg",
+   "en": "The Beasts of Telldros against Throgg",
+   "de": "Die Bestien von Telldros gegen Throgg"
+  },
+  "resume": {
+   "fr": "La bande attaque le repaire du roi des Trolls et dévaste les villages jusqu'à Winter Pyre. Throgg l'attire hors de son territoire avec un chaman Homme-bête en guise d'appât et la lance sur les camps de ses ennemis.",
+   "en": "The warband attacks the Troll King's lair and ravages the villages as far as Winter Pyre. Throgg lures it out of his territory with a Bray-Shaman as bait and turns it on his enemies' camps.",
+   "de": "Die Kriegerschar greift das Lager des Trollkönigs an und verwüstet die Dörfer bis nach Winter Pyre. Throgg lockt sie mit einem Tiermenschen-Schamanen als Köder aus seinem Gebiet und lenkt sie gegen die Lager seiner Feinde."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "kislev",
+   "desolations"
+  ],
+  "lieux": [],
+  "factions": [
+   "chaos"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Battlescroll: Creatures of the Chaos Wastes",
+     "en": "Warhammer Battlescroll: Creatures of the Chaos Wastes",
+     "de": "Warhammer Battlescroll: Creatures of the Chaos Wastes"
+    },
+    "detail": "",
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Throgg",
+     "en": "Warhammer Fantasy Wiki (fandom), Throgg page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Throgg"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Throgg"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Beasts of Telldros",
+     "en": "Warhammer Fantasy Wiki (fandom), Beasts of Telldros page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Beasts of Telldros"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Beasts_of_Telldros"
+   }
+  ]
+ },
+ {
+  "id": "aekold-helbrass-exile",
+  "annee": 2492,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Aekold Helbrass et l'Aigle d'Or",
+   "en": "Aekold Helbrass and the Golden Eagle",
+   "de": "Aekold Helbrass und der Goldene Adler"
+  },
+  "resume": {
+   "fr": "Fils d'un graf du Reikland, Aekold Helbrass entre dans le culte révolutionnaire des Frères de l'Aigle d'Or et y gravit vite les échelons. Les répurgateurs déracinent le culte et il est banni de l'Empire.",
+   "en": "Son of a Graf of the Reikland, Aekold Helbrass joins the revolutionary cult of the Brethren of the Golden Eagle and rises quickly. Witch hunters uproot the cult and he is exiled from the Empire.",
+   "de": "Aekold Helbrass, Sohn eines Grafen des Reiklands, tritt dem revolutionären Kult der Brüder des Goldenen Adlers bei und steigt rasch auf. Hexenjäger zerschlagen den Kult, und er wird aus dem Imperium verbannt."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [],
+  "factions": [
+   "chaos",
+   "empire"
+  ],
+  "importance": 1,
+  "fiabilite": "divergent",
+  "note": {
+   "fr": "Warriors of Chaos (8e édition, p. 14) le montre déjà champion en 2099 CI, en quête du Cœur du Volcan dans les Désolations. Le wiki avance que le temps n'y est pas toujours linéaire.",
+   "en": "Warriors of Chaos (8th edition, p. 14) already shows him as a champion in 2099 IC, seeking the Volcano's Heart in the Chaos Wastes. The wiki suggests that time there is not always linear.",
+   "de": "Warriors of Chaos (8. Edition, S. 14) zeigt ihn schon 2099 IC als Champion auf der Suche nach dem Herzen des Vulkans in den Chaoswüsten. Das Wiki vermutet, dass die Zeit dort nicht immer linear verläuft."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Altdorf: Crown of the Empire, Warhammer Fantasy Roleplay (4e édition)",
+     "en": "Altdorf: Crown of the Empire, Warhammer Fantasy Roleplay (4th edition)",
+     "de": "Altdorf: Crown of the Empire, Warhammer Fantasy Roleplay (4. Edition)"
+    },
+    "detail": {
+     "fr": "p. 16",
+     "en": "p. 16",
+     "de": "S. 16"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Liber Chaotica",
+     "en": "Liber Chaotica",
+     "de": "Liber Chaotica"
+    },
+    "detail": {
+     "fr": "pp. 324-325",
+     "en": "pp. 324-325",
+     "de": "S. 324-325"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Warriors of Chaos (8e édition)",
+     "en": "Warhammer Armies: Warriors of Chaos (8th edition)",
+     "de": "Warhammer Armies: Warriors of Chaos (8. Edition)"
+    },
+    "detail": {
+     "fr": "p. 14",
+     "en": "p. 14",
+     "de": "S. 14"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Aekold Helbrass",
+     "en": "Warhammer Fantasy Wiki (fandom), Aekold Helbrass page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Aekold Helbrass"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Aekold_Helbrass"
+   }
+  ]
+ },
+ {
+  "id": "mardagg-a-remas",
+  "annee": 2497,
+  "fin": 2503,
+  "approx": true,
+  "titre": {
+   "fr": "Le Mardagg à Remas",
+   "en": "The Mardagg at Remas",
+   "de": "Der Mardagg in Remas"
+  },
+  "resume": {
+   "fr": "Le bouffon Corvino invoque le démon Mardagg à Remas dans le cadre d'une vengeance contre Umberto Gambini, l'un des triumvirs de la cité.",
+   "en": "The jester Corvino summons the Mardagg in Remas as part of a vendetta against Umberto Gambini, one of the city's Triumviri.",
+   "de": "Der Narr Corvino beschwört den Mardagg in Remas im Zuge einer Fehde gegen Umberto Gambini, einen der Triumvirn der Stadt."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "tilee-estalie"
+  ],
+  "lieux": [
+   "remas"
+  ],
+  "factions": [
+   "chaos",
+   "humains-autres"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Le wiki donne seulement un intervalle, entre 2497 et 2503 CI.",
+   "en": "The wiki only gives a range, between 2497 and 2503 IC.",
+   "de": "Das Wiki nennt nur einen Zeitraum zwischen 2497 und 2503 IC."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Brunner the Bounty Hunter, roman de C. L. Werner",
+     "en": "Brunner the Bounty Hunter, novel by C. L. Werner",
+     "de": "Brunner the Bounty Hunter, Roman von C. L. Werner"
+    },
+    "detail": {
+     "fr": "chap. 4",
+     "en": "ch. 4",
+     "de": "Kap. 4"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Mardagg",
+     "en": "Warhammer Fantasy Wiki (fandom), Mardagg page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Mardagg"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Mardagg"
+   }
+  ]
+ },
+ {
+  "id": "nordland-contre-les-fjords-2506",
+  "annee": 2506,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Le Nordland débarque chez les Glott",
+   "en": "Nordland lands among the Glotts",
+   "de": "Nordland landet bei den Glotts"
+  },
+  "resume": {
+   "fr": "À l'automne, plus de mille soldats du Nordland abordent en Norsca pour se venger des raids sur les tribus des fjords qui ont adopté la famille Glott, celle des futurs Glottkin.",
+   "en": "In autumn, over a thousand Nordland state troops land in Norsca in retribution for raids, bringing war to the fjord tribes that had taken in the Glott family, the future Glottkin.",
+   "de": "Im Herbst landen über tausend Soldaten aus dem Nordland in Norsca, um Vergeltung für die Raubzüge zu üben, und tragen den Krieg zu den Fjordstämmen, die die Familie Glott, die späteren Glottkin, aufgenommen hatten."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "norsca"
+  ],
+  "lieux": [],
+  "factions": [
+   "empire",
+   "chaos"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "The End Times Vol. II: Glottkin (8e édition)",
+     "en": "The End Times Vol. II: Glottkin (8th edition)",
+     "de": "The End Times Vol. II: Glottkin (8. Edition)"
+    },
+    "detail": {
+     "fr": "p. 22",
+     "en": "p. 22",
+     "de": "S. 22"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Glottkin",
+     "en": "Warhammer Fantasy Wiki (fandom), Glottkin page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Glottkin"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Glottkin"
+   }
+  ]
+ },
+ {
+  "id": "bataille-du-chateau-kriegfeld",
+  "annee": 2512,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Bataille du château de Kriegfeld",
+   "en": "Battle of Kriegfeld Castle",
+   "de": "Schlacht um Burg Kriegfeld"
+  },
+  "resume": {
+   "fr": "Une horde de maraudeurs et d'Hommes-bêtes traverse le Kislev et entre en Ostland. Une troupe détachée attire loin le fils aîné du seigneur Kriegfeld, et le gros des forces assiège de nuit le château, au nord-est de Bechafen, où la famille combat sur les remparts. Les assaillants finissent par fuir, mais leur dernier méfait brise la famille et le château est abandonné.",
+   "en": "A horde of marauders and Beastmen crosses Kislev into Ostland. A detached band lures Lord Kriegfeld's eldest son away, and the main force besieges the castle northeast of Bechafen by night, with the family fighting on the walls. The attackers eventually flee, but a last act of spite tears the family apart and the castle is abandoned.",
+   "de": "Eine Horde von Plünderern und Tiermenschen zieht durch Kislev nach Ostland. Eine abgesetzte Schar lockt den ältesten Sohn des Fürsten Kriegfeld fort, und die Hauptmacht belagert nachts die Burg nordöstlich von Bechafen, wo die Familie auf den Mauern kämpft. Die Angreifer fliehen schließlich, doch eine letzte Untat zerreißt die Familie, und die Burg wird aufgegeben."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [],
+  "factions": [
+   "chaos",
+   "empire"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "White Dwarf 264 (Royaume-Uni)",
+     "en": "White Dwarf 264 (UK)",
+     "de": "White Dwarf 264 (UK)"
+    },
+    "detail": "",
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Battle of Kriegfeld Castle",
+     "en": "Warhammer Fantasy Wiki (fandom), Battle of Kriegfeld Castle page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Battle of Kriegfeld Castle"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Battle_of_Kriegfeld_Castle"
+   }
+  ]
+ },
+ {
+  "id": "kairos-tue-lauraen",
+  "annee": 2512,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Kairos Fateweaver tue Lauraen la Sage",
+   "en": "Kairos Fateweaver slays Lauraen the Sage",
+   "de": "Kairos Fateweaver tötet Lauraen die Weise"
+  },
+  "resume": {
+   "fr": "Par des visions d'Avelorn en flammes et d'Alarielle assassinée, Kairos attire la voyante haut-elfe Lauraen dans un piège. Il la met en pièces dans une vallée au sud de Salzenmund.",
+   "en": "With visions of Avelorn in flames and Alarielle slain, Kairos lures the High Elf seer Lauraen into a trap. He tears her asunder in a valley south of Salzenmund.",
+   "de": "Mit Visionen von einem brennenden Avelorn und einer getöteten Alarielle lockt Kairos die hochelfische Seherin Lauraen in eine Falle. In einem Tal südlich von Salzenmund zerreißt er sie."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "salzenmund"
+  ],
+  "factions": [
+   "chaos",
+   "hauts-elfes"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "White Dwarf 368 (Royaume-Uni)",
+     "en": "White Dwarf 368 (UK)",
+     "de": "White Dwarf 368 (UK)"
+    },
+    "detail": {
+     "fr": "p. 65",
+     "en": "p. 65",
+     "de": "S. 65"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Kairos Fateweaver",
+     "en": "Warhammer Fantasy Wiki (fandom), Kairos Fateweaver page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Kairos Fateweaver"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Kairos_Fateweaver"
+   }
+  ]
+ },
+ {
+  "id": "skrolk-envoye-a-quetza",
+  "annee": 2512,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Skrolk envoyé à Quetza",
+   "en": "Skrolk sent to Quetza",
+   "de": "Skrolk wird nach Quetza entsandt"
+  },
+  "resume": {
+   "fr": "Nurglitch VII envoie Skrolk en Lustrie pour rétablir une tête de pont skaven à Quetza. Il doit aussi mettre la main sur les artefacts laissés par le clan Pestilens.",
+   "en": "Nurglitch VII sends Skrolk to Lustria to restore a Skaven foothold at Quetza. He is also to take any artefacts left behind by Clan Pestilens.",
+   "de": "Nurglitch VII. schickt Skrolk nach Lustria, um in Quetza wieder einen Stützpunkt der Skaven zu errichten. Außerdem soll er die vom Klan Pestilens zurückgelassenen Artefakte sichern."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "lustrie"
+  ],
+  "lieux": [
+   "quetza"
+  ],
+  "factions": [
+   "skavens",
+   "hommes-lezards"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Lustria, Warhammer Fantasy Roleplay (4e édition)",
+     "en": "Lustria, Warhammer Fantasy Roleplay (4th edition)",
+     "de": "Lustria, Warhammer Fantasy Roleplay (4. Edition)"
+    },
+    "detail": {
+     "fr": "pp. 62-63",
+     "en": "pp. 62-63",
+     "de": "S. 62-63"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Skrolk",
+     "en": "Warhammer Fantasy Wiki (fandom), Skrolk page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Skrolk"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Skrolk"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Quetza",
+     "en": "Warhammer Fantasy Wiki (fandom), Quetza page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Quetza"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Quetza"
+   },
+   {
+    "titre": {
+     "fr": "Lustria, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Lustria, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Lustria, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 56",
+     "en": "p. 56",
+     "de": "S. 56"
+    },
+    "url": ""
+   }
+  ]
+ },
+ {
+  "id": "raids-de-von-raukov-en-norsca",
+  "annee": 2513,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Les raids des von Raukov en Norsca",
+   "en": "The von Raukov raids on Norsca",
+   "de": "Die Raubzüge der von Raukovs in Norsca"
+  },
+  "resume": {
+   "fr": "Pour répondre aux pillards apparus en 2512 CI, les von Raukov d'Ostland lancent une armée sur les côtes de Norsca. Ulfennik, ville natale de Mortkin, Aarvik et cinq villages sont rasés, mais les troupes pénètrent peu à l'intérieur des terres. Mortkin jure de se venger, ce qui mènera au massacre de Volganof.",
+   "en": "In answer to the raiders who appeared in 2512 IC, the von Raukovs of Ostland send an army against the coasts of Norsca. Ulfennik, Mortkin's home town, Aarvik and five villages are razed, but the troops get little way inland. Mortkin swears vengeance, which leads to the slaughter at Volganof.",
+   "de": "Als Antwort auf die Plünderer, die 2512 IC auftauchten, schicken die von Raukovs aus Ostland ein Heer gegen die Küsten Norscas. Ulfennik, Mortkins Heimatort, Aarvik und fünf Dörfer werden zerstört, doch die Truppen dringen kaum ins Landesinnere vor. Mortkin schwört Rache, was zum Gemetzel von Volganof führt."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "norsca"
+  ],
+  "lieux": [],
+  "factions": [
+   "empire",
+   "chaos"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Les pages du wiki attribuent ces raids à Valmir von Raukov (Mortkin) ou à Oleg von Raukov (Ulfennik), à partir du même livre. La page Slaughter at Volganof évoque aussi une attaque en 2514 CI.",
+   "en": "The wiki pages credit these raids to Valmir von Raukov (Mortkin) or to Oleg von Raukov (Ulfennik), citing the same book. The Slaughter at Volganof page also mentions an attack in 2514 IC.",
+   "de": "Die Wiki-Seiten schreiben diese Raubzüge Valmir von Raukov (Mortkin) oder Oleg von Raukov (Ulfennik) zu und berufen sich auf dasselbe Buch. Die Seite Slaughter at Volganof erwähnt zudem einen Angriff 2514 IC."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer: Rulebook (8e édition)",
+     "en": "Warhammer: Rulebook (8th edition)",
+     "de": "Warhammer: Rulebook (8. Edition)"
+    },
+    "detail": {
+     "fr": "p. 452",
+     "en": "p. 452",
+     "de": "S. 452"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Mortkin",
+     "en": "Warhammer Fantasy Wiki (fandom), Mortkin page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Mortkin"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Mortkin"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Ulfennik",
+     "en": "Warhammer Fantasy Wiki (fandom), Ulfennik page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Ulfennik"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Ulfennik"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Slaughter at Volganof",
+     "en": "Warhammer Fantasy Wiki (fandom), Slaughter at Volganof page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Slaughter at Volganof"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Slaughter_at_Volganof"
+   }
+  ]
+ },
+ {
+  "id": "sigvald-et-l-ongle-brise",
+  "annee": 2514,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "L'ongle brisé de Sigvald",
+   "en": "Sigvald's broken nail",
+   "de": "Sigvalds abgebrochener Nagel"
+  },
+  "resume": {
+   "fr": "Sigvald se brise un ongle sur l'armure d'un prêtre guerrier en Ostland et jure vengeance. Il cherche en réalité le crâne fossilisé d'un Gardien des Secrets sous un sanctuaire, pour changer sa chair en marbre.",
+   "en": "Sigvald breaks a nail on the armour of a warrior priest in Ostland and swears revenge. In truth he seeks the fossilised skull of a Keeper of Secrets beneath a shrine, to turn his flesh to marble.",
+   "de": "Sigvald bricht sich an der Rüstung eines Kriegerpriesters in Ostland einen Nagel ab und schwört Rache. In Wahrheit sucht er unter einem Schrein den versteinerten Schädel eines Hüters der Geheimnisse, um sein Fleisch in Marmor zu verwandeln."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [],
+  "factions": [
+   "chaos",
+   "empire"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "White Dwarf 345 (Royaume-Uni)",
+     "en": "White Dwarf 345 (UK)",
+     "de": "White Dwarf 345 (UK)"
+    },
+    "detail": {
+     "fr": "p. 65",
+     "en": "p. 65",
+     "de": "S. 65"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Sigvald the Magnificent",
+     "en": "Warhammer Fantasy Wiki (fandom), Sigvald the Magnificent page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Sigvald the Magnificent"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Sigvald_the_Magnificent"
+   }
+  ]
+ },
+ {
+  "id": "vilitch-incendie-tzeskagrad",
+  "annee": 2515,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Vilitch incendie Tzeskagrad",
+   "en": "Vilitch burns Tzeskagrad",
+   "de": "Vilitch brennt Tzeskagrad nieder"
+  },
+  "resume": {
+   "fr": "Vilitch le Maudit réduit en cendres la ville kislévite de Tzeskagrad, et son rire gagne ceux que les flammes dévorent.",
+   "en": "Vilitch the Curseling burns the Kislevite town of Tzeskagrad to ashes, his laughter spreading even to those caught in the flames.",
+   "de": "Vilitch der Verfluchte brennt die kislevitische Stadt Tzeskagrad nieder, und sein Lachen ergreift selbst jene, die in den Flammen umkommen."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "kislev"
+  ],
+  "lieux": [],
+  "factions": [
+   "chaos",
+   "kislev"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Warriors of Chaos (7e édition)",
+     "en": "Warhammer Armies: Warriors of Chaos (7th edition)",
+     "de": "Warhammer Armies: Warriors of Chaos (7. Edition)"
+    },
+    "detail": {
+     "fr": "p. 41",
+     "en": "p. 41",
+     "de": "S. 41"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Vilitch the Curseling",
+     "en": "Warhammer Fantasy Wiki (fandom), Vilitch the Curseling page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Vilitch the Curseling"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Vilitch_the_Curseling"
+   }
+  ]
+ },
+ {
+  "id": "festus-et-le-fils-de-ludenhof",
+  "annee": 2516,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Festus et le fils de Ludenhof",
+   "en": "Festus and the son of Ludenhof",
+   "de": "Festus und der Sohn Ludenhofs"
+  },
+  "resume": {
+   "fr": "Sous l'habit d'un médecin, Festus soigne le fils du comte électeur Aldebrand Ludenhof et lui laisse un élixir. La potion en fait un mutant qui tue une douzaine de conseillers du comte puis part vers le nord rejoindre son nouveau maître.",
+   "en": "Disguised as a physician, Festus tends the son of Elector Count Aldebrand Ludenhof and leaves him an elixir. The potion turns him into a mutant who kills a dozen of the count's advisors before loping north to his new master.",
+   "de": "Als Arzt verkleidet behandelt Festus den Sohn des Kurfürsten Aldebrand Ludenhof und hinterlässt ihm ein Elixier. Der Trank macht ihn zu einem Mutanten, der ein Dutzend Berater des Grafen tötet und nach Norden zu seinem neuen Herrn zieht."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [],
+  "factions": [
+   "chaos",
+   "empire"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Warriors of Chaos (8e édition)",
+     "en": "Warhammer Armies: Warriors of Chaos (8th edition)",
+     "de": "Warhammer Armies: Warriors of Chaos (8. Edition)"
+    },
+    "detail": {
+     "fr": "p. 15",
+     "en": "p. 15",
+     "de": "S. 15"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Festus the Leechlord",
+     "en": "Warhammer Fantasy Wiki (fandom), Festus the Leechlord page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Festus the Leechlord"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Festus_the_Leechlord"
+   }
+  ]
+ },
+ {
+  "id": "vilitch-et-archaon-brilloinne",
+  "annee": 2518,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Le marché de Vilitch et d'Archaon",
+   "en": "Vilitch's bargain with Archaon",
+   "de": "Vilitchs Handel mit Archaon"
+  },
+  "resume": {
+   "fr": "Vilitch propose à Archaon de lui révéler le moyen de trouver la Couronne de Domination. En échange, le futur Élu doit attaquer le château de Brilloinne, dans les marches de Couronne, où Lucus de Brilloinne a caché des artefacts noirs.",
+   "en": "Vilitch offers to reveal to Archaon the means of finding the Crown of Domination. In exchange, the Everchosen-in-waiting must attack Brilloinne Castle in the marches of Couronne, where Lucus of Brilloinne has hidden dark artefacts.",
+   "de": "Vilitch bietet Archaon an, ihm den Weg zur Krone der Herrschaft zu offenbaren. Im Gegenzug soll der künftige Erwählte die Burg Brilloinne in den Marken von Couronne angreifen, wo Lucus von Brilloinne dunkle Artefakte versteckt hat."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "bretonnie"
+  ],
+  "lieux": [],
+  "factions": [
+   "chaos",
+   "bretonnie"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Archaon: Lord of Chaos, roman de Rob Sanders",
+     "en": "Archaon: Lord of Chaos, novel by Rob Sanders",
+     "de": "Archaon: Lord of Chaos, Roman von Rob Sanders"
+    },
+    "detail": {
+     "fr": "chap. 14",
+     "en": "ch. 14",
+     "de": "Kap. 14"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Vilitch the Curseling",
+     "en": "Warhammer Fantasy Wiki (fandom), Vilitch the Curseling page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Vilitch the Curseling"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Vilitch_the_Curseling"
+   }
+  ]
+ },
+ {
+  "id": "krepid-et-skurvy-contre-barak-varr",
+  "annee": 2523,
+  "fin": null,
+  "approx": true,
+  "titre": {
+   "fr": "Les clans Krepid et Skurvy attaquent Barak Varr",
+   "en": "Clans Krepid and Skurvy attack Barak Varr",
+   "de": "Die Klans Krepid und Skurvy greifen Barak Varr an"
+  },
+  "resume": {
+   "fr": "Le clan Krepid assaille Barak Varr par la terre pendant que les flottes du clan Skurvy l'attaquent par la mer.",
+   "en": "Clan Krepid assaults Barak Varr by land while the fleets of Clan Skurvy strike from the sea.",
+   "de": "Der Klan Krepid greift Barak Varr von der Landseite an, während die Flotten des Klans Skurvy von See her zuschlagen."
+  },
+  "ere": "fin-des-temps",
+  "regions": [
+   "montagnes"
+  ],
+  "lieux": [
+   "barak-varr"
+  ],
+  "factions": [
+   "skavens",
+   "nains"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "The End Times Vol. IV: Thanquol",
+     "en": "The End Times Vol. IV: Thanquol",
+     "de": "The End Times Vol. IV: Thanquol"
+    },
+    "detail": {
+     "fr": "p. 60",
+     "en": "p. 60",
+     "de": "S. 60"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Clan Krepid",
+     "en": "Warhammer Fantasy Wiki (fandom), Clan Krepid page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Clan Krepid"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Clan_Krepid"
+   }
+  ]
+ }
+]

@@ -1,0 +1,3181 @@
+[
+ {
+  "id": "lefevre-et-lafontaine-devant-drachenfels",
+  "annee": 184,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Premier relevé du château de Drachenfels",
+   "en": "First record of Castle Drachenfels",
+   "de": "Erste Aufzeichnung über Burg Drachenfels"
+  },
+  "resume": {
+   "fr": "Oskar Lefevre et Jean-Pierre Lafontaine, de Quenelles, rapportent des croquis d'un château à sept tours, déjà complet. Les explorateurs Armand et Michaela Menise, passés une saison plus tôt, n'en disent pourtant rien.",
+   "en": "Oskar Lefevre and Jean-Pierre Lafontaine of Quenelles bring back sketches of a fully formed castle with seven towers. Yet the explorers Armand and Michaela Menise, who crossed the land a season earlier, mention no such building.",
+   "de": "Oskar Lefevre und Jean-Pierre Lafontaine aus Quenelles bringen Skizzen einer vollständigen Burg mit sieben Türmen zurück. Die Forscher Armand und Michaela Menise, die das Land eine Jahreszeit zuvor bereisten, erwähnen sie jedoch nicht."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "empire",
+   "montagnes"
+  ],
+  "lieux": [
+   "chateau-drachenfels",
+   "quenelles"
+  ],
+  "factions": [
+   "bretonnie"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Le fait vient d'un extrait fictif de l'Archaeologia Maledicta de Gunther Laubrich, daté de 613 CI, cité par le wiki.",
+   "en": "This comes from an in-universe excerpt of Gunther Laubrich's Archaeologia Maledicta, dated 613 IC, quoted by the wiki.",
+   "de": "Dies stammt aus einem fiktiven Auszug der Archaeologia Maledicta von Gunther Laubrich, datiert 613 IK, den das Wiki zitiert."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Castle Drachenfels",
+     "en": "Warhammer Fantasy Wiki (fandom), Castle Drachenfels page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Castle Drachenfels"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Castle_Drachenfels"
+   }
+  ]
+ },
+ {
+  "id": "cultistes-de-masserschloss-922",
+  "annee": 922,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Les Nains surveillent les cultistes de Masserschloss",
+   "en": "Dwarfs watch the cultists of Masserschloss",
+   "de": "Zwerge überwachen die Kultisten von Masserschloss"
+  },
+  "resume": {
+   "fr": "Les cultistes du Chaos de Masserschloss multiplient les raids sur les communautés voisines pour trouver des victimes. Les Nains envoient une compagnie bâtir une place forte d'où les tenir à l'œil.",
+   "en": "The Chaos cultists of Masserschloss step up their raids on nearby communities in search of victims. The Dwarfs send a company to build a stronghold from which to keep watch on them.",
+   "de": "Die Chaoskultisten von Masserschloss überfallen vermehrt benachbarte Gemeinden, um Opfer zu finden. Die Zwerge entsenden eine Kompanie, die eine Festung zu ihrer Überwachung errichtet."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "royaumes-frontaliers"
+  ],
+  "lieux": [],
+  "factions": [
+   "chaos",
+   "nains",
+   "humains-autres"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Renegade Crowns, Warhammer Fantasy Roleplay 2e édition",
+     "en": "Renegade Crowns, Warhammer Fantasy Roleplay 2nd edition",
+     "de": "Renegade Crowns, Warhammer Fantasy Roleplay 2. Edition"
+    },
+    "detail": {
+     "fr": "p. 117-118",
+     "en": "pp. 117-118",
+     "de": "S. 117-118"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Masserschloss",
+     "en": "Warhammer Fantasy Wiki (fandom), Masserschloss page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Masserschloss"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Masserschloss"
+   }
+  ]
+ },
+ {
+  "id": "disque-de-baldacci",
+  "annee": 1204,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Le disque à chiffrer de Cosimo Baldacci",
+   "en": "Cosimo Baldacci's cipher disc",
+   "de": "Die Chiffrierscheibe des Cosimo Baldacci"
+  },
+  "resume": {
+   "fr": "Le savant tiléen Cosimo Baldacci invente le disque à chiffrer, qui permet d'acheminer des messages secrets.",
+   "en": "The Tilean scholar Cosimo Baldacci invents the cipher disc, a device for sending secret messages.",
+   "de": "Der tileanische Gelehrte Cosimo Baldacci erfindet die Chiffrierscheibe, mit der sich geheime Botschaften übermitteln lassen."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "tilee-estalie"
+  ],
+  "lieux": [],
+  "factions": [
+   "humains-autres"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Career Compendium, Warhammer Fantasy Roleplay 2e édition",
+     "en": "Career Compendium, Warhammer Fantasy Roleplay 2nd edition",
+     "de": "Career Compendium, Warhammer Fantasy Roleplay 2. Edition"
+    },
+    "detail": {
+     "fr": "p. 51",
+     "en": "p. 51",
+     "de": "S. 51"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Cosimo Baldacci",
+     "en": "Warhammer Fantasy Wiki (fandom), Cosimo Baldacci page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Cosimo Baldacci"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Cosimo_Baldacci"
+   }
+  ]
+ },
+ {
+  "id": "mort-de-louis-et-nom-du-duc-rouge-efface",
+  "annee": 1474,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Mort de Louis le Vertueux, le nom du Duc Rouge effacé",
+   "en": "Death of Louis the Righteous, the Red Duke's name erased",
+   "de": "Tod Ludwigs des Gerechten, der Name des Roten Herzogs getilgt"
+  },
+  "resume": {
+   "fr": "Le roi Louis le Vertueux meurt. La prophétesse Isabeau fait alors marteler le nom du Duc Rouge sur le monument, pour que sa tombe ne devienne pas un sanctuaire.",
+   "en": "King Louis the Righteous dies. The Prophetess Isabeau then has the Red Duke's name removed from the monument, so that his tomb cannot become a shrine.",
+   "de": "König Ludwig der Gerechte stirbt. Die Prophetin Isabeau lässt daraufhin den Namen des Roten Herzogs vom Grabmal entfernen, damit es nicht zum Heiligtum wird."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "bretonnie"
+  ],
+  "lieux": [],
+  "factions": [
+   "bretonnie",
+   "vampires"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Année bretonnienne 496, conversion du wiki. « Louis le Vertueux » traduit Louis the Righteous, faute de forme française officielle trouvée.",
+   "en": "Bretonnian year 496, converted by the wiki.",
+   "de": "Bretonnisches Jahr 496, Umrechnung aus dem Wiki."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "The Red Duke (roman de C. L. Werner)",
+     "en": "The Red Duke (roman de C. L. Werner)",
+     "de": "The Red Duke (roman de C. L. Werner)"
+    },
+    "detail": {
+     "fr": "chap. 4",
+     "en": "ch. 4",
+     "de": "Kap. 4"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Red Duke",
+     "en": "Warhammer Fantasy Wiki (fandom), Red Duke page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Red Duke"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Red_Duke"
+   },
+   {
+    "titre": {
+     "fr": "The Red Duke, roman de C. L. Werner",
+     "en": "The Red Duke, novel by C. L. Werner",
+     "de": "The Red Duke, Roman von C. L. Werner"
+    },
+    "detail": {
+     "fr": "chap. 4",
+     "en": "ch. 4",
+     "de": "Kap. 4"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page The Red Duke",
+     "en": "Warhammer Fantasy Wiki (fandom), The Red Duke page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite The Red Duke"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/The_Red_Duke"
+   }
+  ]
+ },
+ {
+  "id": "bataille-de-bogwurst",
+  "annee": 1485,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Bataille de Bogwurst",
+   "en": "Battle of Bogwurst",
+   "de": "Schlacht von Bogwurst"
+  },
+  "resume": {
+   "fr": "Le baron Rikhardt s'empare par des moyens douteux des Marches de Couronne, et son rival le comte Henry les envahit depuis l'Empire. Le baron Lestanne, resté à l'écart, se range au dernier moment du côté d'Henry et prend Rikhardt de flanc. Celui-ci est acculé et tué dans les marécages.",
+   "en": "Baron Rikhardt takes the Marches of Couronne by doubtful means, and his rival Count Henry invades from the Empire. Baron Lestanne holds back, then sides with Henry at the last moment and strikes Rikhardt in the flank. Rikhardt is cornered in the bogs and killed.",
+   "de": "Baron Rikhardt bringt die Marken von Couronne mit zweifelhaften Mitteln an sich, und sein Rivale Graf Henry fällt aus dem Imperium ein. Baron Lestanne hält sich zurück, schlägt sich im letzten Moment auf Henrys Seite und fällt Rikhardt in die Flanke. Rikhardt wird im Moor gestellt und getötet."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "bretonnie"
+  ],
+  "lieux": [
+   "couronne"
+  ],
+  "factions": [
+   "bretonnie",
+   "empire"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "La source date en calendrier bretonnien (507). La conversion est celle du wiki.",
+   "en": "The source dates this in the Bretonnian calendar (507). The conversion is the wiki's.",
+   "de": "Die Quelle datiert nach dem bretonnischen Kalender (507). Die Umrechnung stammt aus dem Wiki."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Fantasy Core, 7e édition",
+     "en": "Warhammer Fantasy Core, 7th edition",
+     "de": "Warhammer Fantasy Core, 7. Edition"
+    },
+    "detail": {
+     "fr": "p. 207-208",
+     "en": "pp. 207-208",
+     "de": "S. 207-208"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Battle of Bogwurst",
+     "en": "Warhammer Fantasy Wiki (fandom), Battle of Bogwurst page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Battle of Bogwurst"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Battle_of_Bogwurst"
+   }
+  ]
+ },
+ {
+  "id": "caccino-temple-de-verena",
+  "annee": 1600,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Caccino le Sage et le temple des monts Irrana",
+   "en": "Caccino the Wise and the Irrana temple",
+   "de": "Caccino der Weise und der Tempel im Irrana-Gebirge"
+  },
+  "resume": {
+   "fr": "Caccino le Sage, prêtre renommé de Verena, établit un grand temple de la déesse au creux des monts Irrana, dans le nord de la Tilée.",
+   "en": "Caccino the Wise, a renowned priest of Verena, establishes a great temple to the goddess deep in the Irrana Mountains of northern Tilea.",
+   "de": "Caccino der Weise, ein berühmter Priester der Verena, gründet tief im Irrana-Gebirge in Nordtilea einen großen Tempel der Göttin."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "tilee-estalie"
+  ],
+  "lieux": [],
+  "factions": [
+   "humains-autres"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Miragliano",
+     "en": "Warhammer Fantasy Wiki (fandom), Miragliano page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Miragliano"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Miragliano"
+   }
+  ]
+ },
+ {
+  "id": "titus-jemar-jete-a-la-mer",
+  "annee": 1703,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Le philosophe Titus Jemar jeté à la mer",
+   "en": "The philosopher Titus Jemar thrown into the sea",
+   "de": "Der Philosoph Titus Jemar wird ins Meer geworfen"
+  },
+  "resume": {
+   "fr": "Titus Jemar de Remas soutient que Ranald a créé les autres dieux par pure plaisanterie. Les cultes de Solkan, Morr, Manann et Verena se disputent le droit de le brûler, puis conviennent de le jeter à la mer.",
+   "en": "Titus Jemar of Remas argues that Ranald created the other gods as a prank. The cults of Solkan, Morr, Manann and Verena quarrel over who will burn him, then agree to throw him into the sea.",
+   "de": "Titus Jemar aus Remas behauptet, Ranald habe die anderen Götter als Streich erschaffen. Die Kulte von Solkan, Morr, Manann und Verena streiten darum, wer ihn verbrennen darf, und werfen ihn schließlich ins Meer."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "tilee-estalie"
+  ],
+  "lieux": [
+   "remas"
+  ],
+  "factions": [
+   "humains-autres"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Deft Steps, Light Fingers, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Deft Steps, Light Fingers, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Deft Steps, Light Fingers, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 11",
+     "en": "p. 11",
+     "de": "S. 11"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Tome of Salvation, Warhammer Fantasy Roleplay 2e édition",
+     "en": "Tome of Salvation, Warhammer Fantasy Roleplay 2nd edition",
+     "de": "Tome of Salvation, Warhammer Fantasy Roleplay 2. Edition"
+    },
+    "detail": {
+     "fr": "p. 134",
+     "en": "p. 134",
+     "de": "S. 134"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Titus Jemar",
+     "en": "Warhammer Fantasy Wiki (fandom), Titus Jemar page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Titus Jemar"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Titus_Jemar"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Remas",
+     "en": "Warhammer Fantasy Wiki (fandom), Remas page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Remas"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Remas"
+   }
+  ]
+ },
+ {
+  "id": "caravane-de-soie-a-verezzo",
+  "annee": 1714,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "La caravane de soie arrive à Verezzo",
+   "en": "The silk caravan reaches Verezzo",
+   "de": "Die Seidenkarawane erreicht Verezzo"
+  },
+  "resume": {
+   "fr": "Une caravane de yacks chargés de soie parvient à Verezzo avec un message de Ricco et Robbio, établis aux confins occidentaux de Cathay. La Tilée comprend qu'il n'existe pas de route orientale vers Ulthuan ou la Lustrie, et le commerce de la soie commence.",
+   "en": "A caravan of yaks loaded with silk reaches Verezzo with a message from Ricco and Robbio, now settled at the western edge of Cathay. Tilea learns that no eastern route to Ulthuan or Lustria exists, and the silk trade begins.",
+   "de": "Eine Karawane seidenbeladener Yaks erreicht Verezzo mit einer Botschaft von Ricco und Robbio, die nun am Westrand von Cathay leben. Tilea erfährt, dass es keinen östlichen Weg nach Ulthuan oder Lustria gibt, und der Seidenhandel beginnt."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "tilee-estalie",
+   "orient"
+  ],
+  "lieux": [
+   "verezzo",
+   "cathay"
+  ],
+  "factions": [
+   "humains-autres"
+  ],
+  "importance": 2,
+  "fiabilite": "divergent",
+  "note": {
+   "fr": "Dogs of War présente ce contact comme une nouveauté. Warhammer: The Old World décrit au contraire des échanges continus depuis l'époque de Sigmar.",
+   "en": "Dogs of War presents this contact as something new. Warhammer: The Old World instead describes continuous exchanges since the time of Sigmar.",
+   "de": "Dogs of War stellt diesen Kontakt als etwas Neues dar. Warhammer: The Old World beschreibt dagegen einen ununterbrochenen Austausch seit der Zeit Sigmars."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Ricco and Robbio",
+     "en": "Warhammer Fantasy Wiki (fandom), Ricco and Robbio page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Ricco and Robbio"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Ricco_and_Robbio"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Verezzo",
+     "en": "Warhammer Fantasy Wiki (fandom), Verezzo page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Verezzo"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Verezzo"
+   },
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Dogs of War, 5e édition",
+     "en": "Warhammer Armies: Dogs of War, 5th edition",
+     "de": "Warhammer Armies: Dogs of War, 5. Edition"
+    },
+    "detail": {
+     "fr": "pp. 94-95",
+     "en": "pp. 94-95",
+     "de": "S. 94-95"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Shang-Yang",
+     "en": "Warhammer Fantasy Wiki (fandom), Shang-Yang page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Shang-Yang"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Shang-Yang"
+   }
+  ]
+ },
+ {
+  "id": "academie-aquila-de-luccini",
+  "annee": 1720,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Première Académie Aquila à Luccini",
+   "en": "First Aquila Academy at Luccini",
+   "de": "Erste Aquila-Akademie in Luccini"
+  },
+  "resume": {
+   "fr": "Les Chevaliers de Magritta fondent à Luccini la première Académie Aquila, conçue pour loger plus de soldats que d'élèves. Elle devient leur quartier général avant la fin du siècle et doit servir de base à une prochaine croisade en Araby.",
+   "en": "The Knights of Magritta found the first Aquila Academy at Luccini, built to house more soldiers than students. It becomes their headquarters before the century is out and is meant to be the base of a future crusade to Araby.",
+   "de": "Die Ritter von Magritta gründen in Luccini die erste Aquila-Akademie, die mehr Soldaten als Schüler aufnehmen soll. Sie wird noch im selben Jahrhundert ihr Hauptquartier und soll Ausgangspunkt eines künftigen Kreuzzugs nach Araby sein."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "tilee-estalie"
+  ],
+  "lieux": [
+   "luccini"
+  ],
+  "factions": [
+   "humains-autres"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Shades of Empire, Warhammer Fantasy Roleplay 2e édition",
+     "en": "Shades of Empire, Warhammer Fantasy Roleplay 2nd edition",
+     "de": "Shades of Empire, Warhammer Fantasy Roleplay 2. Edition"
+    },
+    "detail": {
+     "fr": "p. 93",
+     "en": "p. 93",
+     "de": "S. 93"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Aquila Academies",
+     "en": "Warhammer Fantasy Wiki (fandom), Aquila Academies page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Aquila Academies"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Aquila_Academies"
+   }
+  ]
+ },
+ {
+  "id": "drachenfels-prend-parravon",
+  "annee": 1854,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Constant Drachenfels prend Parravon",
+   "en": "Constant Drachenfels takes Parravon",
+   "de": "Constant Drachenfels nimmt Parravon ein"
+  },
+  "resume": {
+   "fr": "L'armée de Constant Drachenfels s'empare de Parravon et fait exécuter plusieurs notables, dont le père de la jeune Geneviève Dieudonné.",
+   "en": "The army of Constant Drachenfels seizes Parravon and has several notables executed, among them the father of young Genevieve Dieudonné.",
+   "de": "Das Heer von Constant Drachenfels erobert Parravon und lässt mehrere Würdenträger hinrichten, darunter den Vater der jungen Genevieve Dieudonné."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "bretonnie"
+  ],
+  "lieux": [
+   "parravon"
+  ],
+  "factions": [
+   "bretonnie",
+   "chaos"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Date déduite par le wiki de l'âge de Geneviève (12 ans) et de sa naissance en 1842, elle-même calculée depuis la chute de Drachenfels en 2480.",
+   "en": "Date inferred by the wiki from Genevieve's age (12) and her birth in 1842, itself worked out from Drachenfels's fall in 2480.",
+   "de": "Das Wiki leitet das Datum aus Genevieves Alter (12 Jahre) und ihrer Geburt 1842 ab, die wiederum vom Fall Drachenfels' 2480 her berechnet ist."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Drachenfels (roman de Jack Yeovil)",
+     "en": "Drachenfels (roman de Jack Yeovil)",
+     "de": "Drachenfels (roman de Jack Yeovil)"
+    },
+    "detail": {
+     "fr": "prologue, chap. 1",
+     "en": "prologue, ch. 1",
+     "de": "Prolog, Kap. 1"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Genevieve Dieudonné",
+     "en": "Warhammer Fantasy Wiki (fandom), Genevieve Dieudonné page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Genevieve Dieudonné"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Genevieve_Dieudonné"
+   },
+   {
+    "titre": {
+     "fr": "Drachenfels, roman de Jack Yeovil",
+     "en": "Drachenfels, novel by Jack Yeovil",
+     "de": "Drachenfels, Roman von Jack Yeovil"
+    },
+    "detail": {
+     "fr": "prologue, chap. 1",
+     "en": "prologue, ch. 1",
+     "de": "Prolog, Kap. 1"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Genevieve Dieudonne",
+     "en": "Warhammer Fantasy Wiki (fandom), Genevieve Dieudonne page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Genevieve Dieudonne"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Genevieve_Dieudonne"
+   }
+  ]
+ },
+ {
+  "id": "academie-aquila-de-carcassonne",
+  "annee": 1861,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Deuxième Académie Aquila à Carcassonne",
+   "en": "Second Aquila Academy at Carcassonne",
+   "de": "Zweite Aquila-Akademie in Carcassonne"
+  },
+  "resume": {
+   "fr": "Les Chevaliers de Magritta ouvrent une deuxième académie à Carcassonne. Ce duché frontalier de la Tilée et de l'Estalie, exposé aux raids peaux-vertes, leur fournit des recrues aguerries.",
+   "en": "The Knights of Magritta open a second academy at Carcassonne. This duchy on the borders of Tilea and Estalia, exposed to Greenskin raids, gives them seasoned recruits.",
+   "de": "Die Ritter von Magritta eröffnen eine zweite Akademie in Carcassonne. Das Herzogtum an den Grenzen zu Tilea und Estalien, stets Grünhäute-Überfällen ausgesetzt, liefert ihnen kampferprobte Rekruten."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "bretonnie"
+  ],
+  "lieux": [
+   "carcassonne"
+  ],
+  "factions": [
+   "bretonnie",
+   "humains-autres"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Shades of Empire, Warhammer Fantasy Roleplay 2e édition",
+     "en": "Shades of Empire, Warhammer Fantasy Roleplay 2nd edition",
+     "de": "Shades of Empire, Warhammer Fantasy Roleplay 2. Edition"
+    },
+    "detail": {
+     "fr": "p. 93",
+     "en": "p. 93",
+     "de": "S. 93"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Aquila Academies",
+     "en": "Warhammer Fantasy Wiki (fandom), Aquila Academies page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Aquila Academies"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Aquila_Academies"
+   }
+  ]
+ },
+ {
+  "id": "annee-des-quatre-tyrannies",
+  "annee": 1948,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "L'année des Quatre Tyrannies de Tilée",
+   "en": "The Year of the Four Tyrannies of Tilea",
+   "de": "Das Jahr der Vier Tyranneien von Tilea"
+  },
+  "resume": {
+   "fr": "L'année des Quatre Tyrannies marque la dernière grande date de l'âge des explorations tiléen, cinquante-deux ans avant l'ère des Lumières.",
+   "en": "The Year of the Four Tyrannies is the last major date of the Tilean Age of Exploration, fifty-two years before the Era of Enlightenment.",
+   "de": "Das Jahr der Vier Tyranneien ist das letzte wichtige Datum des tileanischen Zeitalters der Entdeckungen, zweiundfünfzig Jahre vor der Ära der Aufklärung."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "tilee-estalie"
+  ],
+  "lieux": [],
+  "factions": [
+   "humains-autres"
+  ],
+  "importance": 1,
+  "fiabilite": "etabli",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Dogs of War, 5e édition",
+     "en": "Warhammer Armies: Dogs of War, 5th edition",
+     "de": "Warhammer Armies: Dogs of War, 5. Edition"
+    },
+    "detail": {
+     "fr": "p. 85-88",
+     "en": "pp. 85-88",
+     "de": "S. 85-88"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Up in Arms, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Up in Arms, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Up in Arms, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 57-60",
+     "en": "pp. 57-60",
+     "de": "S. 57-60"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Year of the Four Tyrannies of Tilea",
+     "en": "Warhammer Fantasy Wiki (fandom), Year of the Four Tyrannies of Tilea page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Year of the Four Tyrannies of Tilea"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Year_of_the_Four_Tyrannies_of_Tilea"
+   }
+  ]
+ },
+ {
+  "id": "croisade-bretonnienne-contre-trantio",
+  "annee": 1970,
+  "fin": null,
+  "approx": true,
+  "titre": {
+   "fr": "La croisade bretonnienne devant Trantio",
+   "en": "The Bretonnian crusade at Trantio",
+   "de": "Der bretonnische Kreuzzug vor Trantio"
+  },
+  "resume": {
+   "fr": "Une croisade bretonnienne assiège Trantio. Le jeune Corentin de Brionne s'y distingue comme porte-étendard, et la bénédiction de la Dame aurait coupé aux Tiléens la retraite par le fleuve Tarano. L'issue du siège n'est pas connue.",
+   "en": "A Bretonnian crusade besieges Trantio. Young Corentin of Brionne distinguishes himself as standard bearer, and the Lady's blessing is said to have blocked the Tileans' retreat across the River Tarano. The outcome of the siege is unknown.",
+   "de": "Ein bretonnischer Kreuzzug belagert Trantio. Der junge Corentin von Brionne zeichnet sich als Standartenträger aus, und der Segen der Herrin soll den Tileanern den Rückzug über den Fluss Tarano versperrt haben. Der Ausgang der Belagerung ist unbekannt."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "tilee-estalie"
+  ],
+  "lieux": [
+   "trantio"
+  ],
+  "factions": [
+   "bretonnie",
+   "humains-autres"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "The Last Charge (nouvelle d'Andy Hoare)",
+     "en": "The Last Charge (nouvelle d'Andy Hoare)",
+     "de": "The Last Charge (nouvelle d'Andy Hoare)"
+    },
+    "detail": "",
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Siege of Trantio",
+     "en": "Warhammer Fantasy Wiki (fandom), Siege of Trantio page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Siege of Trantio"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Siege_of_Trantio"
+   }
+  ]
+ },
+ {
+  "id": "naissance-de-repanse",
+  "annee": 1990,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Naissance de Repanse de Lyonesse",
+   "en": "Birth of Repanse de Lyonesse",
+   "de": "Geburt der Repanse de Lyonesse"
+  },
+  "resume": {
+   "fr": "Repanse naît dans le duché de Lyonesse et grandit comme humble bergère, pieuse et sans fortune.",
+   "en": "Repanse is born in the duchy of Lyonesse and grows up a humble, devout shepherdess.",
+   "de": "Repanse wird im Herzogtum Lyonesse geboren und wächst als einfache, fromme Hirtin auf."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "bretonnie"
+  ],
+  "lieux": [
+   "lyonesse"
+  ],
+  "factions": [
+   "bretonnie"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Bretonnia, 5e édition",
+     "en": "Warhammer Armies: Bretonnia, 5th edition",
+     "de": "Warhammer Armies: Bretonnia, 5. Edition"
+    },
+    "detail": "",
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Repanse de Lyonesse",
+     "en": "Warhammer Fantasy Wiki (fandom), Repanse de Lyonesse page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Repanse de Lyonesse"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Repanse_de_Lyonesse"
+   }
+  ]
+ },
+ {
+  "id": "louis-le-jeune-fait-repanse-duchesse",
+  "annee": 2007,
+  "fin": null,
+  "approx": true,
+  "titre": {
+   "fr": "Louis le Jeune fait de Repanse une duchesse",
+   "en": "Louis the Young makes Repanse a duchess",
+   "de": "Ludwig der Junge macht Repanse zur Herzogin"
+  },
+  "resume": {
+   "fr": "Louis le Brave ayant été tué par le seigneur du Chaos Akrim, son fils Louis le Jeune lui succède. Il adoube la bergère Repanse et la fait duchesse de Lyonesse.",
+   "en": "After Louis the Brave is slain by the Chaos Lord Akrim, his son Louis the Young succeeds him. He knights the shepherdess Repanse and makes her Duchess of Lyonesse.",
+   "de": "Nachdem der Chaoslord Akrim Ludwig den Tapferen erschlagen hat, folgt ihm sein Sohn Ludwig der Junge nach. Er schlägt die Hirtin Repanse zum Ritter und macht sie zur Herzogin von Lyonesse."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "bretonnie"
+  ],
+  "lieux": [
+   "lyonesse",
+   "couronne"
+  ],
+  "factions": [
+   "bretonnie",
+   "chaos"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Royarch",
+     "en": "Warhammer Fantasy Wiki (fandom), Royarch page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Royarch"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Royarch"
+   }
+  ]
+ },
+ {
+  "id": "forma-di-malevola",
+  "annee": 2104,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Forma di Malevola de Marcelli Verdallo",
+   "en": "Marcelli Verdallo's Forma di Malevola",
+   "de": "Forma di Malevola von Marcelli Verdallo"
+  },
+  "resume": {
+   "fr": "Le lettré Marcelli Verdallo publie à Trantio la Forma di Malevola, traité sur le problème du mal. Le texte reste inédit dans l'Empire et n'y est jamais traduit.",
+   "en": "The scholar Marcelli Verdallo publishes the Forma di Malevola at Trantio, a treatise on the problem of evil. The text is never printed or translated in the Empire.",
+   "de": "Der Gelehrte Marcelli Verdallo veröffentlicht in Trantio die Forma di Malevola, eine Abhandlung über das Problem des Bösen. Im Imperium wird der Text weder gedruckt noch übersetzt."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "tilee-estalie"
+  ],
+  "lieux": [
+   "trantio"
+  ],
+  "factions": [
+   "humains-autres"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "The Loathsome Ratmen and All Their Vile Kin",
+     "en": "The Loathsome Ratmen and All Their Vile Kin",
+     "de": "The Loathsome Ratmen and All Their Vile Kin"
+    },
+    "detail": {
+     "fr": "p. 28",
+     "en": "p. 28",
+     "de": "S. 28"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Marcelli Verdallo and Proti",
+     "en": "Warhammer Fantasy Wiki (fandom), Marcelli Verdallo and Proti page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Marcelli Verdallo and Proti"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Marcelli_Verdallo_and_Proti"
+   }
+  ]
+ },
+ {
+  "id": "academie-aquila-de-nuln",
+  "annee": 2112,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Dernière Académie Aquila à Nuln",
+   "en": "Last Aquila Academy at Nuln",
+   "de": "Letzte Aquila-Akademie in Nuln"
+  },
+  "resume": {
+   "fr": "Dans un Empire sans empereur, les Chevaliers de Magritta fondent à Nuln leur dernière académie, dans l'espoir d'y lever de nouveaux croisés. Son enseignement acquiert une excellente réputation et lui amène des recrues, dont beaucoup partent pour la Tilée.",
+   "en": "In an Empire with no Emperor, the Knights of Magritta found their last academy at Nuln, hoping to raise new crusaders there. Its teaching earns an excellent reputation and draws recruits, many of whom leave for Tilea.",
+   "de": "In einem Imperium ohne Kaiser gründen die Ritter von Magritta ihre letzte Akademie in Nuln und hoffen, dort neue Kreuzfahrer zu gewinnen. Sie erwirbt einen ausgezeichneten Ruf und zieht Rekruten an, von denen viele nach Tilea gehen."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "nuln"
+  ],
+  "factions": [
+   "empire",
+   "humains-autres"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Shades of Empire, Warhammer Fantasy Roleplay 2e édition",
+     "en": "Shades of Empire, Warhammer Fantasy Roleplay 2nd edition",
+     "de": "Shades of Empire, Warhammer Fantasy Roleplay 2. Edition"
+    },
+    "detail": {
+     "fr": "p. 93",
+     "en": "p. 93",
+     "de": "S. 93"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Aquila Academies",
+     "en": "Warhammer Fantasy Wiki (fandom), Aquila Academies page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Aquila Academies"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Aquila_Academies"
+   }
+  ]
+ },
+ {
+  "id": "ranald-et-shallya-de-grottio",
+  "annee": 2226,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Ranald et Shallya, par Grottio et Tintoverdi",
+   "en": "Ranald and Shallya, by Grottio and Tintoverdi",
+   "de": "Ranald und Shallya von Grottio und Tintoverdi"
+  },
+  "resume": {
+   "fr": "Le baron Gustav von Bruner d'Ubersreik, joueur invétéré, commande un tableau de Ranald pour attirer la chance. Grottio y travaille avec Tintoverdi, qui peint Shallya sous les traits de sa muse Giulia.",
+   "en": "Baron Gustav von Bruner of Ubersreik, a keen gambler, commissions a painting of Ranald to win luck at the tables. Grottio works on it with Tintoverdi, who gives Shallya the features of his muse Giulia.",
+   "de": "Baron Gustav von Bruner aus Ubersreik, ein leidenschaftlicher Spieler, gibt ein Gemälde Ranalds in Auftrag, um sich Spielglück zu sichern. Grottio arbeitet daran mit Tintoverdi, der Shallya die Züge seiner Muse Giulia verleiht."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "tilee-estalie",
+   "empire"
+  ],
+  "lieux": [
+   "ubersreik"
+  ],
+  "factions": [
+   "humains-autres",
+   "empire"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Grottio",
+     "en": "Warhammer Fantasy Wiki (fandom), Grottio page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Grottio"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Grottio"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Tintoverdi",
+     "en": "Warhammer Fantasy Wiki (fandom), Tintoverdi page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Tintoverdi"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Tintoverdi"
+   }
+  ]
+ },
+ {
+  "id": "grottio-exile-a-nonucci",
+  "annee": 2236,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Grottio exilé à Nonucci",
+   "en": "Grottio exiled to Nonucci",
+   "de": "Grottio nach Nonucci verbannt"
+  },
+  "resume": {
+   "fr": "Chargé de peindre une bataille au plafond du palais de Verezzo, l'artiste Grottio y représente deux mille nymphes nues. Il est banni sur l'île de Nonucci.",
+   "en": "Hired to paint a battle on the ceiling of the palazzo of Verezzo, the artist Grottio depicts two thousand naked nymphs instead. He is banished to the island of Nonucci.",
+   "de": "Der Künstler Grottio soll an die Decke des Palazzo von Verezzo eine Schlacht malen und stellt stattdessen zweitausend nackte Nymphen dar. Er wird auf die Insel Nonucci verbannt."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "tilee-estalie"
+  ],
+  "lieux": [
+   "verezzo"
+  ],
+  "factions": [
+   "humains-autres"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Dogs of War, 5e édition",
+     "en": "Warhammer Armies: Dogs of War, 5th edition",
+     "de": "Warhammer Armies: Dogs of War, 5. Edition"
+    },
+    "detail": {
+     "fr": "p. 85",
+     "en": "p. 85",
+     "de": "S. 85"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Grottio",
+     "en": "Warhammer Fantasy Wiki (fandom), Grottio page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Grottio"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Grottio"
+   }
+  ]
+ },
+ {
+  "id": "black-cygnet-se-retire-a-udolpho",
+  "annee": 2243,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Le Black Cygnet se retire à Udolpho",
+   "en": "The Black Cygnet retires to Udolpho",
+   "de": "Der Black Cygnet zieht sich nach Udolpho zurück"
+  },
+  "resume": {
+   "fr": "Le pirate tiléen surnommé le Black Cygnet abandonne ses courses vers le Nouveau Monde et achète des terres près de Miragliano. Il y élève le manoir d'Udolpho, que la rumeur associe vite à la sorcellerie.",
+   "en": "The Tilean pirate known as the Black Cygnet gives up raiding the New World lanes and buys land near Miragliano. There he raises the mansion of Udolpho, which rumour soon links to sorcery.",
+   "de": "Der tileanische Pirat, der Black Cygnet genannt wird, gibt seine Raubfahrten zur Neuen Welt auf und kauft Land bei Miragliano. Dort errichtet er das Herrenhaus Udolpho, das bald mit Hexerei in Verbindung gebracht wird."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "tilee-estalie"
+  ],
+  "lieux": [
+   "miragliano"
+  ],
+  "factions": [
+   "humains-autres"
+  ],
+  "importance": 1,
+  "fiabilite": "etabli",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Genevieve Undead (recueil de Jack Yeovil)",
+     "en": "Genevieve Undead (recueil de Jack Yeovil)",
+     "de": "Genevieve Undead (recueil de Jack Yeovil)"
+    },
+    "detail": {
+     "fr": "The Cold Stark House",
+     "en": "The Cold Stark House",
+     "de": "The Cold Stark House"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Up in Arms, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Up in Arms, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Up in Arms, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 59",
+     "en": "p. 59",
+     "de": "S. 59"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page The Black Cygnet",
+     "en": "Warhammer Fantasy Wiki (fandom), The Black Cygnet page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite The Black Cygnet"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/The_Black_Cygnet"
+   }
+  ]
+ },
+ {
+  "id": "alisende-aborde-a-luccini",
+  "annee": 2276,
+  "fin": null,
+  "approx": true,
+  "titre": {
+   "fr": "Alisende apporte à Luccini la nouvelle du réveil de Settra",
+   "en": "Alisende brings Luccini word of Settra's awakening",
+   "de": "Alisende bringt Luccini die Kunde von Settras Erwachen"
+  },
+  "resume": {
+   "fr": "Des chevaliers bretonniens et des mercenaires des Royaumes frontaliers s'enfuient de la Terre des Morts sur des bateaux volés et abordent à Luccini. Alisende, servante de la Dame, y annonce que Settra s'est réveillé.",
+   "en": "Bretonnian knights and Border Princes mercenaries flee the Land of the Dead in stolen boats and land at Luccini. There Alisende, handmaiden of the Lady, announces that Settra has awoken.",
+   "de": "Bretonnische Ritter und Söldner aus den Grenzgrafschaften fliehen auf gestohlenen Booten aus dem Land der Toten und landen in Luccini. Dort verkündet Alisende, eine Dienerin der Herrin, dass Settra erwacht ist."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "tilee-estalie",
+   "terres-arides"
+  ],
+  "lieux": [
+   "luccini"
+  ],
+  "factions": [
+   "bretonnie",
+   "humains-autres",
+   "rois-des-tombes"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Lords of the Lance (roman de Graham McNeill)",
+     "en": "Lords of the Lance (roman de Graham McNeill)",
+     "de": "Lords of the Lance (roman de Graham McNeill)"
+    },
+    "detail": {
+     "fr": "épilogue",
+     "en": "epilogue",
+     "de": "Epilog"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Soqotra",
+     "en": "Warhammer Fantasy Wiki (fandom), Soqotra page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Soqotra"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Soqotra"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Luccini",
+     "en": "Warhammer Fantasy Wiki (fandom), Luccini page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Luccini"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Luccini"
+   }
+  ]
+ },
+ {
+  "id": "bandits-de-kharnos-contre-settra",
+  "annee": 2276,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Les hors-la-loi de Kharnos harcèlent Settra",
+   "en": "The outlaws of Kharnos harry Settra",
+   "de": "Die Gesetzlosen von Kharnos bedrängen Settra"
+  },
+  "resume": {
+   "fr": "Dans les forêts de Kharnos et de Hvargir, bannis, brigands et aventuriers de tous pays s'unissent en bandes irrégulières. Ils frappent les armées des rois des tombes depuis leurs repaires cachés, sur le chemin des Voûtes.",
+   "en": "In the Kharnos and Hvargir forests, exiles, brigands and freebooters of many lands form irregular bands. They strike the Tomb King armies from hidden lairs on the road to the Vaults.",
+   "de": "In den Wäldern von Kharnos und Hvargir schließen sich Verbannte, Räuber und Freibeuter aus vielen Ländern zu irregulären Banden zusammen. Aus versteckten Schlupfwinkeln greifen sie die Heere der Gruftkönige auf dem Weg zu den Vaults an."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "royaumes-frontaliers"
+  ],
+  "lieux": [],
+  "factions": [
+   "humains-autres",
+   "rois-des-tombes"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer: The Old World, Settra's Fury",
+     "en": "Warhammer: The Old World, Settra's Fury",
+     "de": "Warhammer: The Old World, Settra's Fury"
+    },
+    "detail": {
+     "fr": "p. 5",
+     "en": "p. 5",
+     "de": "S. 5"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Black Deeps",
+     "en": "Warhammer Fantasy Wiki (fandom), Black Deeps page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Black Deeps"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Black_Deeps"
+   }
+  ]
+ },
+ {
+  "id": "karolina-lothar-sauve-thessos",
+  "annee": 2276,
+  "fin": null,
+  "approx": true,
+  "titre": {
+   "fr": "Karolina Lothar sauve Thessos des Orques",
+   "en": "Karolina Lothar saves Thessos from the Orcs",
+   "de": "Karolina Lothar rettet Thessos vor den Orks"
+  },
+  "resume": {
+   "fr": "Profitant de l'absence des chevaliers du baron Oswain Lothar, des Orques de la tribu Blue Face manquent de raser Thessos. Karolina, la fille du baron, brise l'assaut par une charge et transperce leur chef de sa lance.",
+   "en": "With Baron Oswain Lothar's knights away, Blue Face Orcs almost raze Thessos. The baron's daughter Karolina breaks the assault with a charge and runs their warlord through with her lance.",
+   "de": "Während die Ritter von Baron Oswain Lothar fort sind, zerstören Orks vom Stamm der Blue Face Thessos beinahe. Die Tochter des Barons, Karolina, bricht den Angriff mit einem Sturmritt und durchbohrt ihren Anführer mit der Lanze."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "royaumes-frontaliers"
+  ],
+  "lieux": [],
+  "factions": [
+   "humains-autres",
+   "peaux-vertes"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer: The Old World, Arcane Journal",
+     "en": "Warhammer: The Old World, Arcane Journal",
+     "de": "Warhammer: The Old World, Arcane Journal"
+    },
+    "detail": {
+     "fr": "p. 14-20",
+     "en": "pp. 14-20",
+     "de": "S. 14-20"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Thessos",
+     "en": "Warhammer Fantasy Wiki (fandom), Thessos page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Thessos"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Thessos"
+   }
+  ]
+ },
+ {
+  "id": "siege-de-kasos-et-thessos",
+  "annee": 2276,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Settra débarque devant Kasos et Thessos",
+   "en": "Settra's vanguard lands at Kasos and Thessos",
+   "de": "Settras Vorhut landet vor Kasos und Thessos"
+  },
+  "resume": {
+   "fr": "L'avant-garde de Settra aborde au nord de la péninsule Noire et assiège Kasos et Thessos. Le but est de raser ces places et de jeter leurs réfugiés sur les routes, en semant la peur jusqu'à la citadelle Bouelia et Matorea.",
+   "en": "Settra's vanguard lands in the north of the Black Peninsula and besieges Kasos and Thessos. The aim is to raze them and drive their refugees ahead of the host, spreading fear towards the Citadelle Bouelia and Matorea.",
+   "de": "Settras Vorhut landet im Norden der Schwarzen Halbinsel und belagert Kasos und Thessos. Ziel ist es, die Orte zu schleifen und die Flüchtlinge vor dem Heer herzutreiben, um bis zur Citadelle Bouelia und nach Matorea Angst zu verbreiten."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "royaumes-frontaliers"
+  ],
+  "lieux": [],
+  "factions": [
+   "rois-des-tombes",
+   "humains-autres"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer: The Old World, Arcane Journal",
+     "en": "Warhammer: The Old World, Arcane Journal",
+     "de": "Warhammer: The Old World, Arcane Journal"
+    },
+    "detail": {
+     "fr": "p. 14-20",
+     "en": "pp. 14-20",
+     "de": "S. 14-20"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Kasos",
+     "en": "Warhammer Fantasy Wiki (fandom), Kasos page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Kasos"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Kasos"
+   }
+  ]
+ },
+ {
+  "id": "ashurtak-au-col-de-mondidier",
+  "annee": 2277,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Le hiérophante Ashurtak au col de Mondidier",
+   "en": "Hierophant Ashurtak at the Mondidier Pass",
+   "de": "Hierophant Ashurtak am Mondidier-Pass"
+  },
+  "resume": {
+   "fr": "À l'été, l'avant-garde de Settra atteint le col de Mondidier, au seuil de la Bretonnie, après des pertes lourdes face aux Nains et à l'artillerie des mercenaires. Le hiérophante Ashurtak, qui redoute de manquer de pouvoir pour tenir ses armées, envoie des guerriers explorer Athel Loren.",
+   "en": "By summer, Settra's vanguard reaches the Mondidier Pass on the threshold of Bretonnia, after heavy losses to Dwarfs and mercenary artillery. Hierophant Ashurtak, fearing he lacks the power to sustain his armies, sends warriors to explore Athel Loren.",
+   "de": "Im Sommer erreicht Settras Vorhut den Mondidier-Pass an der Schwelle zu Bretonnia, nach schweren Verlusten durch Zwerge und Söldnerartillerie. Hierophant Ashurtak fürchtet, seine Heere nicht mehr erhalten zu können, und schickt Krieger aus, um Athel Loren zu erkunden."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "royaumes-frontaliers",
+   "athel-loren",
+   "bretonnie"
+  ],
+  "lieux": [
+   "athel-loren"
+  ],
+  "factions": [
+   "rois-des-tombes",
+   "nains",
+   "humains-autres"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page The Vaults",
+     "en": "Warhammer Fantasy Wiki (fandom), The Vaults page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite The Vaults"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/The_Vaults"
+   },
+   {
+    "titre": {
+     "fr": "Warhammer: The Old World, Arcane Journal, The War of Settra's Fury",
+     "en": "Warhammer: The Old World, Arcane Journal, The War of Settra's Fury",
+     "de": "Warhammer: The Old World, Arcane Journal, The War of Settra's Fury"
+    },
+    "detail": {
+     "fr": "p. 2, 12-17",
+     "en": "p. 2, 12-17",
+     "de": "S. 2, 12-17"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Settra",
+     "en": "Warhammer Fantasy Wiki (fandom), Settra page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Settra"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Settra"
+   }
+  ]
+ },
+ {
+  "id": "fondation-des-chevaliers-encarmine",
+  "annee": 2310,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Fondation des Chevaliers Encarmine",
+   "en": "Founding of the Knights Encarmine",
+   "de": "Gründung der Ritter Encarmine"
+  },
+  "resume": {
+   "fr": "Le riche dilettante Frederici Tolscano fonde l'ordre des Chevaliers Encarmine, réservé aux privilégiés et soumis à des règles d'admission très strictes.",
+   "en": "The wealthy dilettante Frederici Tolscano founds the order of the Knights Encarmine, open only to the privileged and bound by very strict rules of entry.",
+   "de": "Der reiche Dilettant Frederici Tolscano gründet den Orden der Ritter Encarmine, der nur Privilegierten offensteht und sehr strenge Aufnahmeregeln hat."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [],
+  "factions": [
+   "empire",
+   "humains-autres"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Games Workshop, Renowned Empire Knightly Orders",
+     "en": "Games Workshop, Renowned Empire Knightly Orders",
+     "de": "Games Workshop, Renowned Empire Knightly Orders"
+    },
+    "detail": "",
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Knights Encarmine",
+     "en": "Warhammer Fantasy Wiki (fandom), Knights Encarmine page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Knights Encarmine"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Knights_Encarmine"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Frederici Tolscano",
+     "en": "Warhammer Fantasy Wiki (fandom), Frederici Tolscano page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Frederici Tolscano"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Frederici_Tolscano"
+   }
+  ]
+ },
+ {
+  "id": "chute-de-la-grande-principaute-de-meinbach",
+  "annee": 2399,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Chute de la Grande Principauté d'Ilich Meinbach",
+   "en": "Fall of Ilich Meinbach's Grand Principality",
+   "de": "Fall des Großfürstentums von Ilich Meinbach"
+  },
+  "resume": {
+   "fr": "Duc depuis 2396 CI d'une Grande Principauté des Royaumes frontaliers, Ilich Meinbach voit son domaine assiégé et rasé par les Orques en Vorhexen. Son journal devient une référence sur la conduite des sièges, et Giovanni Marmalodi s'en inspirerait.",
+   "en": "Ilich Meinbach, duke of a Grand Principality in the Border Princes since 2396 IC, sees his domain besieged and razed by Orcs in Vorhexen. His journal becomes a reference on siegecraft, and Giovanni Marmalodi is thought to have drawn on it.",
+   "de": "Ilich Meinbach, seit 2396 IK Herzog eines Großfürstentums in den Grenzgrafschaften, erlebt im Vorhexen die Belagerung und Zerstörung seines Gebiets durch Orks. Sein Tagebuch wird zu einem Standardwerk der Belagerungskunst, aus dem Giovanni Marmalodi geschöpft haben soll."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "royaumes-frontaliers"
+  ],
+  "lieux": [],
+  "factions": [
+   "humains-autres",
+   "peaux-vertes"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Siege: Rulebook, 3e édition",
+     "en": "Warhammer Siege: Rulebook, 3rd edition",
+     "de": "Warhammer Siege: Rulebook, 3. Edition"
+    },
+    "detail": "",
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Giovanni Marmalodi",
+     "en": "Warhammer Fantasy Wiki (fandom), Giovanni Marmalodi page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Giovanni Marmalodi"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Giovanni_Marmalodi"
+   }
+  ]
+ },
+ {
+  "id": "maria-conte-enfants-de-la-nuit",
+  "annee": 2406,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Le traité de Maria Conte sur les von Carstein",
+   "en": "Maria Conte's treatise on the von Carsteins",
+   "de": "Maria Contes Abhandlung über die von Carsteins"
+  },
+  "resume": {
+   "fr": "Maria Conte, savante de l'université de Miragliano, y fait imprimer Les Enfants de la nuit, étude de la chute des von Carstein et de la nature de leurs créatures, encore lue dans le Vieux Monde.",
+   "en": "Maria Conte, a scholar of the University of Miragliano, has Children of the Night printed there, a study of the von Carsteins' fall and of the creatures they command, still read in the Old World.",
+   "de": "Maria Conte, Gelehrte der Universität von Miragliano, lässt dort Kinder der Nacht drucken, eine Studie über den Fall der von Carsteins und die Natur ihrer Geschöpfe, die in der Alten Welt noch heute gelesen wird."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "tilee-estalie"
+  ],
+  "lieux": [
+   "miragliano"
+  ],
+  "factions": [
+   "humains-autres",
+   "vampires"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "The Night Parade, Warhammer Fantasy Roleplay 4e édition",
+     "en": "The Night Parade, Warhammer Fantasy Roleplay 4th edition",
+     "de": "The Night Parade, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 5-7",
+     "en": "pp. 5-7",
+     "de": "S. 5-7"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Maria Conte",
+     "en": "Warhammer Fantasy Wiki (fandom), Maria Conte page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Maria Conte"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Maria_Conte"
+   }
+  ]
+ },
+ {
+  "id": "cadavre-d-ernezio-porcurio",
+  "annee": 2418,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Le cadavre d'Ernezio Porcurio dans une cave close",
+   "en": "Ernezio Porcurio's corpse in a locked cellar",
+   "de": "Ernezio Porcurios Leiche im verschlossenen Keller"
+  },
+  "resume": {
+   "fr": "Trente-neuf ans après s'être fait voler son navire amiral par les Elfes noirs, l'ancien seigneur pirate Ernezio Porcurio, passé capitaine mercenaire au service de Luccini, est trouvé mort sous son château. La cave sans fenêtre était fermée de l'intérieur, et le meurtrier reste introuvable.",
+   "en": "Thirty-nine years after Dark Elves stole his flagship, the former pirate lord Ernezio Porcurio, by then a mercenary captain serving Luccini, is found dead beneath his castle. The windowless cellar was locked from within, and no killer is found.",
+   "de": "Neununddreißig Jahre nachdem Dunkelelfen sein Flaggschiff gestohlen haben, wird der einstige Piratenfürst Ernezio Porcurio, nun Söldnerhauptmann in Diensten Luccinis, tot unter seiner Burg aufgefunden. Der fensterlose Keller war von innen verschlossen, ein Täter wird nicht gefunden."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "tilee-estalie"
+  ],
+  "lieux": [
+   "luccini"
+  ],
+  "factions": [
+   "humains-autres"
+  ],
+  "importance": 1,
+  "fiabilite": "etabli",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Dogs of War, 5e édition",
+     "en": "Warhammer Armies: Dogs of War, 5th edition",
+     "de": "Warhammer Armies: Dogs of War, 5. Edition"
+    },
+    "detail": {
+     "fr": "p. 85",
+     "en": "p. 85",
+     "de": "S. 85"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Dark Elves, 7e édition",
+     "en": "Warhammer Armies: Dark Elves, 7th edition",
+     "de": "Warhammer Armies: Dark Elves, 7. Edition"
+    },
+    "detail": {
+     "fr": "p. 33",
+     "en": "p. 33",
+     "de": "S. 33"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Up in Arms, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Up in Arms, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Up in Arms, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 59",
+     "en": "p. 59",
+     "de": "S. 59"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Ernezio Porcurio",
+     "en": "Warhammer Fantasy Wiki (fandom), Ernezio Porcurio page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Ernezio Porcurio"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Ernezio_Porcurio"
+   }
+  ]
+ },
+ {
+  "id": "otranto-udolpho-attaque-le-domaine",
+  "annee": 2418,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Otranto Udolpho marche sur le domaine familial",
+   "en": "Otranto Udolpho marches on the family estate",
+   "de": "Otranto Udolpho zieht gegen das Familiengut"
+  },
+  "resume": {
+   "fr": "Lors de la dernière guerre de famille contre son frère Old Melmoth, le sorcier Otranto Udolpho tente de prendre le domaine d'Udolpho avec des morts-vivants et un régiment de Démonettes.",
+   "en": "In the last family war against his brother Old Melmoth, the sorcerer Otranto Udolpho tries to seize the Udolpho estate with Undead troops and a regiment of Daemonettes.",
+   "de": "Im letzten Familienkrieg gegen seinen Bruder Old Melmoth versucht der Zauberer Otranto Udolpho, das Gut Udolpho mit Untoten und einem Regiment Dämonetten einzunehmen."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "tilee-estalie"
+  ],
+  "lieux": [
+   "miragliano"
+  ],
+  "factions": [
+   "humains-autres",
+   "chaos",
+   "vampires"
+  ],
+  "importance": 1,
+  "fiabilite": "etabli",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Up in Arms, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Up in Arms, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Up in Arms, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 60",
+     "en": "p. 60",
+     "de": "S. 60"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Genevieve Undead (recueil de Jack Yeovil)",
+     "en": "Genevieve Undead (recueil de Jack Yeovil)",
+     "de": "Genevieve Undead (recueil de Jack Yeovil)"
+    },
+    "detail": {
+     "fr": "chap. 5",
+     "en": "ch. 5",
+     "de": "Kap. 5"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Otranto Udolpho",
+     "en": "Warhammer Fantasy Wiki (fandom), Otranto Udolpho page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Otranto Udolpho"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Otranto_Udolpho"
+   }
+  ]
+ },
+ {
+  "id": "melmoth-udolpho-vend-son-ame",
+  "annee": 2430,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Melmoth Udolpho vend son âme à Slaanesh",
+   "en": "Melmoth Udolpho sells his soul to Slaanesh",
+   "de": "Melmoth Udolpho verkauft seine Seele an Slaanesh"
+  },
+  "resume": {
+   "fr": "Las de ses livres, Old Melmoth Udolpho conclut un pacte avec Slaanesh, qui lui promet de ne plus jamais s'ennuyer. Il y ajoute le savoir occulte hérité de son ancêtre le Black Cygnet.",
+   "en": "Tired of his books, Old Melmoth Udolpho strikes a pact with Slaanesh in return for a promise that he will never be bored again. He adds to it the dark lore inherited from his ancestor the Black Cygnet.",
+   "de": "Seiner Bücher überdrüssig schließt Old Melmoth Udolpho einen Pakt mit Slaanesh, der ihm verspricht, dass er sich nie wieder langweilen wird. Dazu nutzt er das dunkle Wissen seines Vorfahren, des Black Cygnet."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "tilee-estalie"
+  ],
+  "lieux": [
+   "miragliano"
+  ],
+  "factions": [
+   "humains-autres",
+   "chaos"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Up in Arms, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Up in Arms, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Up in Arms, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 60",
+     "en": "p. 60",
+     "de": "S. 60"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Melmoth Udolpho",
+     "en": "Warhammer Fantasy Wiki (fandom), Melmoth Udolpho page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Melmoth Udolpho"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Melmoth_Udolpho"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Miragliano",
+     "en": "Warhammer Fantasy Wiki (fandom), Miragliano page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Miragliano"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Miragliano"
+   }
+  ]
+ },
+ {
+  "id": "statues-de-fittorini-a-eyrie",
+  "annee": 2441,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Les statues de Fittorini pour Eyrie",
+   "en": "Fittorini's statues for Eyrie",
+   "de": "Fittorinis Statuen für Eyrie"
+  },
+  "resume": {
+   "fr": "Le sculpteur miraglianais Angelo Fittorini taille dans un onyx blanc offert par les Nains de Karak Varn deux statues de Verena, destinées au monastère d'Eyrie. Il les assemble lui-même sur place, malgré un violent vertige.",
+   "en": "The Miraglianese sculptor Angelo Fittorini carves two statues of Verena for the monastery of Eyrie from white onyx given by the Dwarfs of Karak Varn. He assembles them himself on site, despite severe vertigo.",
+   "de": "Der miraglianische Bildhauer Angelo Fittorini fertigt für das Kloster Eyrie zwei Verena-Statuen aus weißem Onyx, den die Zwerge von Karak Varn gestiftet haben. Trotz heftigen Schwindels setzt er sie selbst vor Ort zusammen."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "tilee-estalie"
+  ],
+  "lieux": [
+   "miragliano",
+   "karak-varn"
+  ],
+  "factions": [
+   "humains-autres",
+   "nains"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Doomstones 3: Death Rock, Warhammer Fantasy Roleplay 1re édition",
+     "en": "Doomstones 3: Death Rock, Warhammer Fantasy Roleplay 1st edition",
+     "de": "Doomstones 3: Death Rock, Warhammer Fantasy Roleplay 1. Edition"
+    },
+    "detail": {
+     "fr": "p. 32",
+     "en": "p. 32",
+     "de": "S. 32"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Angelo Fittorini",
+     "en": "Warhammer Fantasy Wiki (fandom), Angelo Fittorini page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Angelo Fittorini"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Angelo_Fittorini"
+   }
+  ]
+ },
+ {
+  "id": "infante-de-sartosa-disparue",
+  "annee": 2458,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "La disparition de l'Infante de Sartosa",
+   "en": "The disappearance of the Infant Princess of Sartosa",
+   "de": "Das Verschwinden der Infantin von Sartosa"
+  },
+  "resume": {
+   "fr": "Selon la rumeur, Maria la Rouge, l'Infante de Sartosa, est enlevée par des pirates à la veille de son couronnement et se noie lors de la bataille des Marées. Des mercenaires tiléens envoyés de Sartosa vers Mousillon cherchent son corps, et rares sont ceux qui en reviennent.",
+   "en": "Rumour holds that Red Maria, the Infant Princess of Sartosa, is kidnapped by pirates on the eve of her coronation and drowns at the Battle of the Tides. Tilean mercenaries sent from Sartosa to Mousillon search for her body, and few return.",
+   "de": "Dem Gerücht nach wird die Rote Maria, Infantin von Sartosa, am Vorabend ihrer Krönung von Piraten entführt und ertrinkt in der Schlacht der Gezeiten. Tileanische Söldner suchen in Mousillon nach ihrem Leichnam, und nur wenige kehren zurück."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "tilee-estalie",
+   "bretonnie"
+  ],
+  "lieux": [
+   "sartosa",
+   "mousillon"
+  ],
+  "factions": [
+   "humains-autres",
+   "bretonnie"
+  ],
+  "importance": 1,
+  "fiabilite": "divergent",
+  "note": {
+   "fr": "Barony of the Damned ne donne qu'une rumeur. Sea of Claws et la page Pirate Wars la font au contraire commander une flotte pirate brisée en 2478 CI.",
+   "en": "Barony of the Damned offers only a rumour. Sea of Claws and the Pirate Wars page instead have her lead a pirate fleet broken in 2478 IC.",
+   "de": "Barony of the Damned nennt nur ein Gerücht. Sea of Claws und die Seite Pirate Wars lassen sie dagegen eine 2478 IK zerschlagene Piratenflotte anführen."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Barony of the Damned, Warhammer Fantasy Roleplay 2e édition",
+     "en": "Barony of the Damned, Warhammer Fantasy Roleplay 2nd edition",
+     "de": "Barony of the Damned, Warhammer Fantasy Roleplay 2. Edition"
+    },
+    "detail": {
+     "fr": "p. 22",
+     "en": "p. 22",
+     "de": "S. 22"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Red Maria",
+     "en": "Warhammer Fantasy Wiki (fandom), Red Maria page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Red Maria"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Red_Maria"
+   }
+  ]
+ },
+ {
+  "id": "destruction-de-breganalle",
+  "annee": 2475,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Kemmler détruit Breganalle",
+   "en": "Kemmler destroys Breganalle",
+   "de": "Kemmler vernichtet Breganalle"
+  },
+  "resume": {
+   "fr": "Le Liche-Maître anéantit la ville bretonnienne de Breganalle et relève ses habitants. Le duc de Carcassonne marche contre lui et perd la bataille, et les restes du duc et de ses chevaliers sont retrouvés attachés à des pieux le long de la route.",
+   "en": "The Lichemaster wipes out the Bretonnian town of Breganalle and raises its people as Undead. The Duke of Carcassonne marches against him and is beaten, and the remains of the duke and his knights are found lashed to stakes along the road.",
+   "de": "Der Lichemaster vernichtet die bretonnische Stadt Breganalle und erweckt ihre Bewohner als Untote. Der Herzog von Carcassonne zieht gegen ihn und wird geschlagen, und die Überreste des Herzogs und seiner Ritter werden an Pfähle gebunden an der Straße gefunden."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "bretonnie"
+  ],
+  "lieux": [
+   "carcassonne"
+  ],
+  "factions": [
+   "vampires",
+   "bretonnie"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "White Dwarf, Return of the Lichemaster, partie 1",
+     "en": "White Dwarf, Return of the Lichemaster, partie 1",
+     "de": "White Dwarf, Return of the Lichemaster, partie 1"
+    },
+    "detail": "",
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Theobald II",
+     "en": "Warhammer Fantasy Wiki (fandom), Theobald II page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Theobald II"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Theobald_II"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page The Vaults",
+     "en": "Warhammer Fantasy Wiki (fandom), The Vaults page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite The Vaults"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/The_Vaults"
+   }
+  ]
+ },
+ {
+  "id": "bataille-de-la-mer-torpide",
+  "annee": 2478,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Bataille de la mer Torpide",
+   "en": "Battle of the Torpid Sea",
+   "de": "Schlacht auf der Trägen See"
+  },
+  "resume": {
+   "fr": "La flotte de Marienburg et la marine impériale s'allient pour briser la flotte pirate de Maria la Rouge. Cette bataille navale clôt les guerres des pirates.",
+   "en": "The fleet of Marienburg and the Imperial Navy join forces to break the pirate fleet of Red Maria. This naval battle ends the Pirate Wars.",
+   "de": "Die Flotte Marienburgs und die imperiale Marine verbünden sich, um die Piratenflotte der Roten Maria zu zerschlagen. Diese Seeschlacht beendet die Piratenkriege."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [],
+  "factions": [
+   "humains-autres",
+   "empire"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Sea of Claws, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Sea of Claws, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Sea of Claws, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 7",
+     "en": "p. 7",
+     "de": "S. 7"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Pirate Wars",
+     "en": "Warhammer Fantasy Wiki (fandom), Pirate Wars page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Pirate Wars"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Pirate_Wars"
+   }
+  ]
+ },
+ {
+  "id": "clemente-di-bergo-fuit-la-tilee",
+  "annee": 2480,
+  "fin": null,
+  "approx": true,
+  "titre": {
+   "fr": "Clemente di Bergo fuit la Tilée",
+   "en": "Clemente di Bergo flees Tilea",
+   "de": "Clemente di Bergo flieht aus Tilea"
+  },
+  "resume": {
+   "fr": "Le maître d'armes Clemente di Bergo gagne l'Empire, soit pour avoir tué en duel le fils du duc de Luccini, soit pour hérésie contre le culte de Myrmidia. Il y enseigne son art de la guerre, et les assassins venus de Tilée échouent tous.",
+   "en": "The martial master Clemente di Bergo leaves for the Empire, either for killing the Duke of Luccini's son in a duel or for heresy against the Cult of Myrmidia. He teaches his art of war there, and the assassins sent from Tilea all fail.",
+   "de": "Der Waffenmeister Clemente di Bergo geht ins Imperium, entweder weil er den Sohn des Herzogs von Luccini im Duell getötet hat oder wegen Häresie gegen den Kult der Myrmidia. Dort lehrt er seine Kriegskunst, und alle Attentäter aus Tilea scheitern."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "tilee-estalie",
+   "empire"
+  ],
+  "lieux": [
+   "luccini"
+  ],
+  "factions": [
+   "humains-autres",
+   "empire"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Luccini",
+     "en": "Warhammer Fantasy Wiki (fandom), Luccini page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Luccini"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Luccini"
+   }
+  ]
+ },
+ {
+  "id": "embuscade-de-brachnar-2480",
+  "annee": 2480,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Brachnar tend une embuscade au Liche-Maître",
+   "en": "Brachnar ambushes the Lichemaster",
+   "de": "Brachnar überfällt den Lichemaster"
+  },
+  "resume": {
+   "fr": "Profitant de la faiblesse de Kemmler après la chute de Krinal, Brachnar l'attaque par surprise. L'affrontement dure trois jours et trois nuits. Kemmler l'emporte, mais il en sort à demi fou et erre dix ans comme un mendiant dans les Montagnes Grises et les Voûtes.",
+   "en": "Exploiting Kemmler's weakness after the fall of Krinal, Brachnar strikes without warning. The clash lasts three days and three nights. Kemmler wins but is left half mad, wandering for a decade as a beggar through the Grey Mountains and the Vaults.",
+   "de": "Brachnar nutzt Kemmlers Schwäche nach dem Fall von Krinal zu einem Überraschungsangriff. Der Kampf dauert drei Tage und drei Nächte. Kemmler siegt, bleibt aber halb wahnsinnig zurück und zieht zehn Jahre als Bettler durch die Grauen Berge und die Vaults."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "montagnes",
+   "royaumes-frontaliers"
+  ],
+  "lieux": [],
+  "factions": [
+   "vampires"
+  ],
+  "importance": 2,
+  "fiabilite": "etabli",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "White Dwarf 309 (UK), Return of the Lichemaster",
+     "en": "White Dwarf 309 (UK), Return of the Lichemaster",
+     "de": "White Dwarf 309 (UK), Return of the Lichemaster"
+    },
+    "detail": {
+     "fr": "p. 11",
+     "en": "p. 11",
+     "de": "S. 11"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Empire in Ruins Companion, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Empire in Ruins Companion, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Empire in Ruins Companion, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 108",
+     "en": "p. 108",
+     "de": "S. 108"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Brachnar the Damned",
+     "en": "Warhammer Fantasy Wiki (fandom), Brachnar the Damned page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Brachnar the Damned"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Brachnar_the_Damned"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page The Vaults",
+     "en": "Warhammer Fantasy Wiki (fandom), The Vaults page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite The Vaults"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/The_Vaults"
+   }
+  ]
+ },
+ {
+  "id": "bataille-du-pont-de-montfort",
+  "annee": 2495,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Bataille du pont de Montfort",
+   "en": "Battle of Montfort Bridge",
+   "de": "Schlacht an der Brücke von Montfort"
+  },
+  "resume": {
+   "fr": "Le duc Tancred de Quenelles affronte de nouveau Kemmler et Krell, mais ses partisans l'abandonnent. Le Liche-Maître envoie son cadavre ranimé porter ses salutations au roi Feramand.",
+   "en": "Duke Tancred of Quenelles faces Kemmler and Krell once more, but his followers abandon him. The Lichemaster sends the duke's reanimated corpse to carry his greetings to King Feramand.",
+   "de": "Herzog Tancred von Quenelles stellt sich erneut Kemmler und Krell, doch seine Gefolgsleute lassen ihn im Stich. Der Lichemaster schickt den wiederbelebten Leichnam des Herzogs mit einem Gruß zu König Feramand."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "bretonnie"
+  ],
+  "lieux": [
+   "montfort",
+   "quenelles"
+  ],
+  "factions": [
+   "bretonnie",
+   "vampires"
+  ],
+  "importance": 2,
+  "fiabilite": "divergent",
+  "note": {
+   "fr": "White Dwarf 309 et l'Empire in Ruins Companion font mourir Tancred ici. The Return of Nagash précise que le mort était son père Tancred Ier, et Tancred II survit pour traquer Kemmler.",
+   "en": "White Dwarf 309 and the Empire in Ruins Companion have Tancred die here. The Return of Nagash says the dead man was his father Tancred I, and Tancred II lives on to hunt Kemmler.",
+   "de": "White Dwarf 309 und der Empire in Ruins Companion lassen Tancred hier sterben. Laut The Return of Nagash war der Tote sein Vater Tancred I., und Tancred II. lebt weiter, um Kemmler zu jagen."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "White Dwarf 309 (UK), Return of the Lichemaster",
+     "en": "White Dwarf 309 (UK), Return of the Lichemaster",
+     "de": "White Dwarf 309 (UK), Return of the Lichemaster"
+    },
+    "detail": {
+     "fr": "p. 61",
+     "en": "p. 61",
+     "de": "S. 61"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Empire in Ruins Companion, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Empire in Ruins Companion, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Empire in Ruins Companion, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 108",
+     "en": "p. 108",
+     "de": "S. 108"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "The Return of Nagash (roman de Josh Reynolds)",
+     "en": "The Return of Nagash (roman de Josh Reynolds)",
+     "de": "The Return of Nagash (roman de Josh Reynolds)"
+    },
+    "detail": {
+     "fr": "chap. 10",
+     "en": "ch. 10",
+     "de": "Kap. 10"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Heinrich Kemmler",
+     "en": "Warhammer Fantasy Wiki (fandom), Heinrich Kemmler page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Heinrich Kemmler"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Heinrich_Kemmler"
+   },
+   {
+    "titre": {
+     "fr": "White Dwarf 309 (UK), « Return of the Lichemaster »",
+     "en": "White Dwarf 309 (UK), « Return of the Lichemaster »",
+     "de": "White Dwarf 309 (UK), « Return of the Lichemaster »"
+    },
+    "detail": {
+     "fr": "p. 61",
+     "en": "p. 61",
+     "de": "S. 61"
+    },
+    "url": ""
+   }
+  ]
+ },
+ {
+  "id": "vision-de-louen-2502",
+  "annee": 2502,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "La vision de Louen Cœur de Lion",
+   "en": "The vision of Louen Leoncoeur",
+   "de": "Die Vision des Louen Leoncoeur"
+  },
+  "resume": {
+   "fr": "La Dame du Lac montre à Louen un Vieux Monde en ruine sous le joug du Chaos. Il comprend que la Bretonnie a besoin d'un voisin fort et que seul Karl Franz peut relever l'Empire. Le Chevalier Vert, envoyé le chercher, sauve le prince d'un assassin.",
+   "en": "The Lady of the Lake shows Louen an Old World in ruins under the Dark Gods. He understands that Bretonnia needs a strong neighbour and that only Karl Franz can restore the Empire. The Green Knight, sent to summon the prince, saves him from an assassin.",
+   "de": "Die Herrin vom See zeigt Louen eine Alte Welt in Trümmern unter der Herrschaft der Dunklen Götter. Er erkennt, dass Bretonnia einen starken Nachbarn braucht und nur Karl Franz das Imperium retten kann. Der Grüne Ritter, der den Prinzen holen soll, rettet ihn vor einem Attentäter."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "bretonnie",
+   "empire"
+  ],
+  "lieux": [],
+  "factions": [
+   "bretonnie",
+   "empire"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Prince of Altdorf (nouvelle d'Andy Hall)",
+     "en": "Prince of Altdorf (nouvelle d'Andy Hall)",
+     "de": "Prince of Altdorf (nouvelle d'Andy Hall)"
+    },
+    "detail": "",
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Louen Leoncoeur",
+     "en": "Warhammer Fantasy Wiki (fandom), Louen Leoncoeur page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Louen Leoncoeur"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Louen_Leoncoeur"
+   }
+  ]
+ },
+ {
+  "id": "mardagg-a-remas-2503",
+  "annee": 2503,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Le Mardagg déchaîné à Remas",
+   "en": "The Mardagg unleashed in Remas",
+   "de": "Der Mardagg in Remas entfesselt"
+  },
+  "resume": {
+   "fr": "Pour traquer un culte du Chaos, l'inquisiteur Gualtiero Bocca, de l'ordre de la Lumière et de la Loi, ordonne une rafle à Remas. Le grand démon Mardagg est libéré au cours de la purge et Bocca en est victime. La foi des Rémans envers les solkanites en sort très affaiblie.",
+   "en": "To root out a Chaos cult, the inquisitor Gualtiero Bocca of the Order of Light and Law orders a roundup in Remas. The Greater Daemon known as the Mardagg is unleashed during the pogrom and Bocca falls victim to it. The people's faith in the Solkanites is badly shaken.",
+   "de": "Um einen Chaoskult auszurotten, ordnet der Inquisitor Gualtiero Bocca vom Orden von Licht und Gesetz in Remas eine Razzia an. Dabei wird der Große Dämon Mardagg entfesselt, und Bocca wird sein Opfer. Das Vertrauen der Bürger in die Solkaniten sinkt deutlich."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "tilee-estalie"
+  ],
+  "lieux": [
+   "remas"
+  ],
+  "factions": [
+   "humains-autres",
+   "chaos"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Brunner the Bounty Hunter (C. L. Werner)",
+     "en": "Brunner the Bounty Hunter (C. L. Werner)",
+     "de": "Brunner the Bounty Hunter (C. L. Werner)"
+    },
+    "detail": {
+     "fr": "Where Walks the Mardagg",
+     "en": "Where Walks the Mardagg",
+     "de": "Where Walks the Mardagg"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Order of Light and Law",
+     "en": "Warhammer Fantasy Wiki (fandom), Order of Light and Law page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Order of Light and Law"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Order_of_Light_and_Law"
+   }
+  ]
+ },
+ {
+  "id": "tancred-abat-krell-2503",
+  "annee": 2503,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Tancred abat Krell",
+   "en": "Tancred slays Krell",
+   "de": "Tancred erschlägt Krell"
+  },
+  "resume": {
+   "fr": "Le duc Tancred II de Quenelles retrouve le roi des tumulus Krell et le tue de sa main, exploit qui lui vaut l'estime des Nains. Il aurait aussi frappé Kemmler, mais beaucoup doutent de la mort du Liche-Maître.",
+   "en": "Duke Tancred II of Quenelles hunts down the Wight King Krell and kills him personally, a feat that earns him the respect of the Dwarfs. He is also said to have struck down Kemmler, though many doubt the Lichemaster is gone.",
+   "de": "Herzog Tancred II. von Quenelles spürt den Grabkönig Krell auf und tötet ihn eigenhändig, was ihm den Respekt der Zwerge einbringt. Auch Kemmler soll gefallen sein, doch viele zweifeln am Tod des Lichemasters."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "bretonnie"
+  ],
+  "lieux": [],
+  "factions": [
+   "bretonnie",
+   "vampires",
+   "nains"
+  ],
+  "importance": 1,
+  "fiabilite": "divergent",
+  "note": {
+   "fr": "Gotrek and Felix: Zombieslayer place cette mort en 2503 CI. White Dwarf 309 fait tuer Krell dès 2497 CI, aux batailles des Cairns.",
+   "en": "Gotrek and Felix: Zombieslayer puts this in 2503 IC. White Dwarf 309 has Krell killed as early as 2497 IC, at the Battles of the Cairns.",
+   "de": "Gotrek and Felix: Zombieslayer datiert dies auf 2503 IK. Laut White Dwarf 309 fällt Krell schon 2497 IK in den Schlachten der Cairns."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Gotrek and Felix: Zombieslayer (roman de Nathan Long)",
+     "en": "Gotrek and Felix: Zombieslayer (roman de Nathan Long)",
+     "de": "Gotrek and Felix: Zombieslayer (roman de Nathan Long)"
+    },
+    "detail": "",
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Tancred II of Quenelles",
+     "en": "Warhammer Fantasy Wiki (fandom), Tancred II of Quenelles page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Tancred II of Quenelles"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Tancred_II_of_Quenelles"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Heinrich Kemmler",
+     "en": "Warhammer Fantasy Wiki (fandom), Heinrich Kemmler page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Heinrich Kemmler"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Heinrich_Kemmler"
+   }
+  ]
+ },
+ {
+  "id": "sorcier-de-l-eau-de-miragliano",
+  "annee": 2506,
+  "fin": 2507,
+  "approx": false,
+  "titre": {
+   "fr": "Le Sorcier de l'eau et la Fièvre jaune de Miragliano",
+   "en": "The Water Wizard and Miragliano's Yellow Ague",
+   "de": "Der Wasserzauberer und das Gelbfieber von Miragliano"
+  },
+  "resume": {
+   "fr": "Ysidro d'Amato s'enrichit en monopolisant l'eau potable de Miragliano. L'année suivante, une épidémie de Fièvre jaune est attribuée à son eau, et il disparaît avant d'être arrêté.",
+   "en": "Ysidro d'Amato grows rich by monopolising Miragliano's drinking water. The next year an outbreak of Yellow Ague is traced to his water, and he vanishes before he can be arrested.",
+   "de": "Ysidro d'Amato wird reich, indem er das Trinkwasser von Miragliano monopolisiert. Im Jahr darauf wird ein Ausbruch des Gelbfiebers auf sein Wasser zurückgeführt, und er verschwindet, bevor man ihn verhaften kann."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "tilee-estalie"
+  ],
+  "lieux": [
+   "miragliano"
+  ],
+  "factions": [
+   "humains-autres"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Miragliano",
+     "en": "Warhammer Fantasy Wiki (fandom), Miragliano page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Miragliano"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Miragliano"
+   }
+  ]
+ },
+ {
+  "id": "bataille-de-swamphold",
+  "annee": 2508,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Bataille de Swamphold",
+   "en": "Battle of Swamphold",
+   "de": "Schlacht von Swamphold"
+  },
+  "resume": {
+   "fr": "Le roi Louen Cœur de Lion écrase l'invasion orque de cette année à Swamphold.",
+   "en": "King Louen Leoncoeur crushes that year's Orc invasion at Swamphold.",
+   "de": "König Louen Leoncoeur zerschlägt in Swamphold die Orkinvasion dieses Jahres."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "bretonnie"
+  ],
+  "lieux": [],
+  "factions": [
+   "bretonnie",
+   "peaux-vertes"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Bretonnia, 6e édition",
+     "en": "Warhammer Armies: Bretonnia, 6th edition",
+     "de": "Warhammer Armies: Bretonnia, 6. Edition"
+    },
+    "detail": "",
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Louen Leoncoeur",
+     "en": "Warhammer Fantasy Wiki (fandom), Louen Leoncoeur page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Louen Leoncoeur"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Louen_Leoncoeur"
+   }
+  ]
+ },
+ {
+  "id": "colonie-de-bregonne",
+  "annee": 2510,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Le baron Marcel fonde Bregonne en Lustrie",
+   "en": "Baron Marcel founds Bregonne in Lustria",
+   "de": "Baron Marcel gründet Bregonne in Lustria"
+  },
+  "resume": {
+   "fr": "Le baron Marcel de Parravon appareille avec toute sa maisonnée sur trois navires, guidé par une carte norse, et s'établit sur la côte du Scorpion, près de Tlaxtlan. Ses paysans fondent Bregonne pendant que ses chevaliers reviennent de la jungle avec de l'or. Les rencontres avec les Hommes-lézards tournent au conflit, puis la colonie cesse de donner des nouvelles.",
+   "en": "Baron Marcel of Parravon sails with his entire household in three ships, guided by a Norse map, and settles on the Scorpion Coast near Tlaxtlan. His peasants found Bregonne while his knights bring gold out of the jungle. Encounters with the Lizardmen turn to conflict, and then the colony falls silent.",
+   "de": "Baron Marcel von Parravon segelt mit seinem ganzen Haushalt auf drei Schiffen nach einer Norsekarte und lässt sich an der Skorpionküste nahe Tlaxtlan nieder. Seine Bauern gründen Bregonne, während seine Ritter Gold aus dem Dschungel holen. Begegnungen mit den Echsenmenschen enden im Kampf, dann bricht der Kontakt zur Kolonie ab."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "lustrie"
+  ],
+  "lieux": [
+   "tlaxtlan",
+   "parravon"
+  ],
+  "factions": [
+   "bretonnie",
+   "hommes-lezards"
+  ],
+  "importance": 2,
+  "fiabilite": "etabli",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "White Dwarf 204 (UK)",
+     "en": "White Dwarf 204 (UK)",
+     "de": "White Dwarf 204 (UK)"
+    },
+    "detail": {
+     "fr": "p. 37",
+     "en": "p. 37",
+     "de": "S. 37"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Lustria, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Lustria, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Lustria, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 47",
+     "en": "p. 47",
+     "de": "S. 47"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Bregonne",
+     "en": "Warhammer Fantasy Wiki (fandom), Bregonne page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Bregonne"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Bregonne"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Marcel of Parravon",
+     "en": "Warhammer Fantasy Wiki (fandom), Marcel of Parravon page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Marcel of Parravon"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Marcel_of_Parravon"
+   },
+   {
+    "titre": {
+     "fr": "White Dwarf 204",
+     "en": "White Dwarf 204",
+     "de": "White Dwarf 204"
+    },
+    "detail": {
+     "fr": "p. 37",
+     "en": "p. 37",
+     "de": "S. 37"
+    },
+    "url": ""
+   }
+  ]
+ },
+ {
+  "id": "mironia-disparait-2510",
+  "annee": 2510,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Mironia rayée de la carte",
+   "en": "Mironia wiped from the map",
+   "de": "Mironia ausgelöscht"
+  },
+  "resume": {
+   "fr": "Cette petite ville tiléenne proche des Marais Putrides est prise d'assaut de nuit par les Skavens, à coups de feu vert et de foudre. Au matin, il ne reste que des ruines fumantes et aucun habitant.",
+   "en": "This small Tilean town near the Blighted Marshes is stormed by night by Skaven wielding green fire and lightning. By morning only smoking ruins remain, with not one inhabitant.",
+   "de": "Diese kleine tileanische Stadt nahe den Pestsümpfen wird nachts von Skaven mit grünem Feuer und Blitzen gestürmt. Am Morgen bleiben nur rauchende Ruinen und kein einziger Einwohner."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "tilee-estalie"
+  ],
+  "lieux": [],
+  "factions": [
+   "skavens",
+   "humains-autres"
+  ],
+  "importance": 1,
+  "fiabilite": "divergent",
+  "note": {
+   "fr": "2512 CI pour Parmis, 2510 CI déduit de la mention des deux années précédentes. Le wiki note une incohérence : le traité de Leiber, publié en 2313 CI, racontait déjà la chute de Parmis.",
+   "en": "2512 IC for Parmis, 2510 IC inferred from the mention of the two previous years. The wiki notes an inconsistency: Leiber's treatise, published in 2313 IC, already told of the fall of Parmis.",
+   "de": "2512 IC für Parmis, 2510 IC abgeleitet aus der Angabe der beiden Vorjahre. Das Wiki vermerkt einen Widerspruch: Leibers 2313 IC erschienene Abhandlung berichtete bereits vom Fall Parmis'."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Skaven, 7e édition",
+     "en": "Warhammer Armies: Skaven, 7th edition",
+     "de": "Warhammer Armies: Skaven, 7. Edition"
+    },
+    "detail": {
+     "fr": "p. 4",
+     "en": "p. 4",
+     "de": "S. 4"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Up in Arms, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Up in Arms, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Up in Arms, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 52-53",
+     "en": "pp. 52-53",
+     "de": "S. 52-53"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Mironia",
+     "en": "Warhammer Fantasy Wiki (fandom), Mironia page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Mironia"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Mironia"
+   },
+   {
+    "titre": {
+     "fr": "Up in Arms, Warhammer Fantasy Roleplay (4e édition)",
+     "en": "Up in Arms, Warhammer Fantasy Roleplay (4th edition)",
+     "de": "Up in Arms, Warhammer Fantasy Roleplay (4. Edition)"
+    },
+    "detail": {
+     "fr": "pp. 51-53",
+     "en": "pp. 51-53",
+     "de": "S. 51-53"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Parmis",
+     "en": "Warhammer Fantasy Wiki (fandom), Parmis page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Parmis"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Parmis"
+   }
+  ]
+ },
+ {
+  "id": "cammaro-disparait-2511",
+  "annee": 2511,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "La population de Cammaro s'évanouit",
+   "en": "The people of Cammaro vanish",
+   "de": "Die Bevölkerung von Cammaro verschwindet"
+  },
+  "resume": {
+   "fr": "Un an après Mironia, le village tiléen de Cammaro est rasé par les hommes-rats et toute sa population disparaît.",
+   "en": "A year after Mironia, the Tilean village of Cammaro is razed by the Ratmen and its entire population vanishes.",
+   "de": "Ein Jahr nach Mironia wird das tileanische Dorf Cammaro von den Rattenmenschen zerstört, und seine gesamte Bevölkerung verschwindet."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "tilee-estalie"
+  ],
+  "lieux": [],
+  "factions": [
+   "skavens",
+   "humains-autres"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Up in Arms, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Up in Arms, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Up in Arms, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 52-53",
+     "en": "pp. 52-53",
+     "de": "S. 52-53"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Cammaro",
+     "en": "Warhammer Fantasy Wiki (fandom), Cammaro page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Cammaro"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Cammaro"
+   }
+  ]
+ },
+ {
+  "id": "parmis-disparait-2512",
+  "annee": 2512,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Parmis disparaît à son tour",
+   "en": "Parmis vanishes in turn",
+   "de": "Auch Parmis verschwindet"
+  },
+  "resume": {
+   "fr": "Devenue un simple village sous l'autorité de Miragliano, Parmis est anéantie par les Skavens, troisième localité tiléenne à disparaître en trois ans.",
+   "en": "Reduced to a village under Miragliano's control, Parmis is wiped out by the Skaven, the third Tilean settlement to vanish in three years.",
+   "de": "Das zum Dorf unter der Herrschaft Miraglianos geschrumpfte Parmis wird von den Skaven ausgelöscht, die dritte tileanische Siedlung, die binnen drei Jahren verschwindet."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "tilee-estalie"
+  ],
+  "lieux": [],
+  "factions": [
+   "skavens",
+   "humains-autres"
+  ],
+  "importance": 1,
+  "fiabilite": "divergent",
+  "note": {
+   "fr": "Leiber, publié en 2313 CI, décrit déjà la chute de Parmis. Le wiki suppose un repeuplement entre les deux pour concilier cette date avec Up in Arms.",
+   "en": "Leiber, published in 2313 IC, already describes the fall of Parmis. The wiki assumes a resettlement in between to reconcile this with Up in Arms.",
+   "de": "Leiber beschreibt bereits 2313 IK den Fall von Parmis. Das Wiki nimmt eine zwischenzeitliche Wiederbesiedlung an, um dies mit Up in Arms zu vereinbaren."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Up in Arms, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Up in Arms, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Up in Arms, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 51-53",
+     "en": "pp. 51-53",
+     "de": "S. 51-53"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Parmis",
+     "en": "Warhammer Fantasy Wiki (fandom), Parmis page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Parmis"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Parmis"
+   }
+  ]
+ },
+ {
+  "id": "huebald-de-gisoreux",
+  "annee": 2515,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Huebald, le paysan fait chevalier",
+   "en": "Huebald, the peasant made knight",
+   "de": "Huebald, der zum Ritter erhobene Bauer"
+  },
+  "resume": {
+   "fr": "Le jeune Huebald sauve des bêtes de la forêt l'épouse du duc de Gisoreux, Lady Ariadne, et devient chevalier du royaume. Il meurt dans sa première bataille, en fuyant selon les nobles, ce dont les paysans doutent.",
+   "en": "Young Huebald saves Lady Ariadne, the Duke of Gisoreux's bride, from forest beasts and is made a Knight of the Realm. He dies in his first battle, fleeing according to the nobles, which the peasants doubt.",
+   "de": "Der junge Huebald rettet Lady Ariadne, die Braut des Herzogs von Gisoreux, vor den Bestien des Waldes und wird zum Ritter des Reiches erhoben. Er fällt in seiner ersten Schlacht, laut den Adligen auf der Flucht, was die Bauern bezweifeln."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "bretonnie"
+  ],
+  "lieux": [
+   "gisoreux"
+  ],
+  "factions": [
+   "bretonnie"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Freedom's Home or Glory's Grave (nouvelle)",
+     "en": "Freedom's Home or Glory's Grave (nouvelle)",
+     "de": "Freedom's Home or Glory's Grave (nouvelle)"
+    },
+    "detail": "",
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Bretonnia, 6e édition",
+     "en": "Warhammer Armies: Bretonnia, 6th edition",
+     "de": "Warhammer Armies: Bretonnia, 6. Edition"
+    },
+    "detail": "",
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Huebald of Gisoreux",
+     "en": "Warhammer Fantasy Wiki (fandom), Huebald of Gisoreux page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Huebald of Gisoreux"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Huebald_of_Gisoreux"
+   }
+  ]
+ },
+ {
+  "id": "rosa-nera-luccini-2517",
+  "annee": 2517,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Le temple de Morr contre la Rosa Nera",
+   "en": "The temple of Morr against the Rosa Nera",
+   "de": "Der Morr-Tempel gegen die Rosa Nera"
+  },
+  "resume": {
+   "fr": "Le temple de Morr de Luccini, par la voix du prêtre Silvio Virgili, cherche un navire et des combattants pour mettre fin aux raids de la Rosa Nera, un galion mort-vivant.",
+   "en": "The temple of Morr in Luccini, through the priest Silvio Virgili, seeks a ship and fighting men to end the raids of the Rosa Nera, an Undead galleon.",
+   "de": "Der Morr-Tempel von Luccini sucht durch den Priester Silvio Virgili ein Schiff und Kämpfer, um den Raubzügen der Rosa Nera, einer untoten Galeone, ein Ende zu setzen."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "tilee-estalie"
+  ],
+  "lieux": [
+   "luccini"
+  ],
+  "factions": [
+   "humains-autres",
+   "vampires"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Up in Arms, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Up in Arms, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Up in Arms, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 56",
+     "en": "p. 56",
+     "de": "S. 56"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Luccini",
+     "en": "Warhammer Fantasy Wiki (fandom), Luccini page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Luccini"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Luccini"
+   }
+  ]
+ },
+ {
+  "id": "rumeurs-du-chevalier-noir-2517",
+  "annee": 2517,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Le chevalier noir de Mousillon",
+   "en": "The black knight of Mousillon",
+   "de": "Der schwarze Ritter von Mousillon"
+  },
+  "resume": {
+   "fr": "La rumeur d'une armée maudite qui se rassemble à Mousillon sous un mystérieux chevalier noir court la Bretonnie. Chevaliers disgraciés et coupe-jarrets affluent vers Mallobaude, qui forme avec les meilleurs d'entre eux les Chevaliers du Graal noir.",
+   "en": "Rumours spread through Bretonnia of an accursed army gathering in Mousillon under a mysterious black knight. Disgraced knights and cutthroats flock to Mallobaude, who forms the Knights of the Black Grail from the best of them.",
+   "de": "In Bretonnia gehen Gerüchte über ein verfluchtes Heer um, das sich in Mousillon unter einem geheimnisvollen schwarzen Ritter sammelt. Entehrte Ritter und Halsabschneider strömen zu Mallobaude, der aus den besten die Ritter des Schwarzen Grals bildet."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "bretonnie"
+  ],
+  "lieux": [
+   "mousillon"
+  ],
+  "factions": [
+   "bretonnie",
+   "vampires"
+  ],
+  "importance": 2,
+  "fiabilite": "etabli",
+  "note": {
+   "fr": "Année bretonnienne 1539, conversion du wiki.",
+   "en": "Bretonnian year 1539, converted by the wiki.",
+   "de": "Bretonnisches Jahr 1539, Umrechnung aus dem Wiki."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Barony of the Damned, Warhammer Fantasy Roleplay 2e édition",
+     "en": "Barony of the Damned, Warhammer Fantasy Roleplay 2nd edition",
+     "de": "Barony of the Damned, Warhammer Fantasy Roleplay 2. Edition"
+    },
+    "detail": {
+     "fr": "p. 31",
+     "en": "p. 31",
+     "de": "S. 31"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Bretonnia, 6e édition",
+     "en": "Warhammer Armies: Bretonnia, 6th edition",
+     "de": "Warhammer Armies: Bretonnia, 6. Edition"
+    },
+    "detail": {
+     "fr": "p. 39",
+     "en": "p. 39",
+     "de": "S. 39"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Wood Elves, 8e édition",
+     "en": "Warhammer Armies: Wood Elves, 8th edition",
+     "de": "Warhammer Armies: Wood Elves, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 33",
+     "en": "p. 33",
+     "de": "S. 33"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Mallobaude",
+     "en": "Warhammer Fantasy Wiki (fandom), Mallobaude page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Mallobaude"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Mallobaude"
+   }
+  ]
+ },
+ {
+  "id": "fee-enchanteresse-brume-elfes-noirs-2518",
+  "annee": 2518,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "La Fée Enchanteresse dissipe la brume des Elfes noirs",
+   "en": "The Fay Enchantress banishes the Dark Elves' mist",
+   "de": "Die Feenzauberin vertreibt den Nebel der Dunkelelfen"
+  },
+  "resume": {
+   "fr": "Une flotte elfe noire débarque en Bretonnie à la faveur d'une brume surnaturelle et pille les villes côtières. Une tempête de magie éclate quand les chevaliers attaquent, et les monstres des pillards prennent l'avantage. La Fée Enchanteresse chasse le brouillard et draine les Vents de magie, et seuls quelques Elfes noirs regagnent leurs navires.",
+   "en": "A Dark Elf fleet lands in Bretonnia under cover of unnatural mist and plunders the coastal towns. A Storm of Magic erupts when the knights attack, and the raiders' monsters gain the upper hand. The Fay Enchantress banishes the fog and drains the Winds of Magic, and only a few Dark Elves reach their ships.",
+   "de": "Eine Dunkelelfenflotte landet im Schutz eines übernatürlichen Nebels in Bretonnia und plündert die Küstenstädte. Beim Angriff der Ritter bricht ein Magiesturm los, und die Bestien der Plünderer gewinnen die Oberhand. Die Feenzauberin vertreibt den Nebel und entzieht den Winden der Magie die Kraft, und nur wenige Dunkelelfen erreichen ihre Schiffe."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "bretonnie"
+  ],
+  "lieux": [],
+  "factions": [
+   "bretonnie",
+   "elfes-noirs"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer: Storm of Magic, 8e édition",
+     "en": "Warhammer: Storm of Magic, 8th edition",
+     "de": "Warhammer: Storm of Magic, 8. Edition"
+    },
+    "detail": {
+     "fr": "The Times of Great Magic",
+     "en": "The Times of Great Magic",
+     "de": "The Times of Great Magic"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Fay Enchantress",
+     "en": "Warhammer Fantasy Wiki (fandom), Fay Enchantress page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Fay Enchantress"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Fay_Enchantress"
+   }
+  ]
+ },
+ {
+  "id": "annee-de-malheur-bretonnie-2520",
+  "annee": 2520,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "L'Année de malheur de la Bretonnie",
+   "en": "Bretonnia's Year of Woe",
+   "de": "Bretonnias Jahr des Leids"
+  },
+  "resume": {
+   "fr": "Tzeentch envoie Kairos Fateweaver voler les douze artefacts des Compagnons de Gilles le Breton. Les tombeaux sont pillés et des milliers de Bretonniens périssent, seuls les sanctuaires du Graal offrant un refuge. Au siège de Mousillon, Nurgle lance ses démons contre ceux de Tzeentch, Ku'gath abat Kairos et les lances bretonniennes achèvent le vainqueur.",
+   "en": "Tzeentch sends Kairos Fateweaver to steal the twelve artefacts of the Companions of Gilles le Breton. Tombs are ransacked and thousands of Bretonnians die, with only Grail Shrines offering refuge. At the Siege of Mousillon, Nurgle looses his Daemons on Tzeentch's, Ku'gath fells Kairos, and Bretonnian lances finish the victor.",
+   "de": "Tzeentch schickt Kairos Fateweaver aus, um die zwölf Artefakte der Gefährten von Gilles le Breton zu stehlen. Gräber werden geplündert und Tausende Bretonen sterben, nur die Gralsschreine bieten Zuflucht. Bei der Belagerung von Mousillon lässt Nurgle seine Dämonen auf die des Tzeentch los, Ku'gath streckt Kairos nieder, und bretonische Lanzen erledigen den Sieger."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "bretonnie"
+  ],
+  "lieux": [
+   "mousillon",
+   "montfort",
+   "quenelles"
+  ],
+  "factions": [
+   "bretonnie",
+   "chaos"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "La source date en calendrier bretonnien (1542). La conversion est celle du wiki.",
+   "en": "The source dates this in the Bretonnian calendar (1542). The conversion is the wiki's.",
+   "de": "Die Quelle datiert nach dem bretonnischen Kalender (1542). Die Umrechnung stammt aus dem Wiki."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Daemons of Chaos, 8e édition",
+     "en": "Warhammer Armies: Daemons of Chaos, 8th edition",
+     "de": "Warhammer Armies: Daemons of Chaos, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 23",
+     "en": "p. 23",
+     "de": "S. 23"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Year of Woe",
+     "en": "Warhammer Fantasy Wiki (fandom), Year of Woe page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Year of Woe"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Year_of_Woe"
+   },
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Daemons of Chaos (8e édition)",
+     "en": "Warhammer Armies: Daemons of Chaos (8th edition)",
+     "de": "Warhammer Armies: Daemons of Chaos (8. Edition)"
+    },
+    "detail": {
+     "fr": "p. 23",
+     "en": "p. 23",
+     "de": "S. 23"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Kairos Fateweaver",
+     "en": "Warhammer Fantasy Wiki (fandom), Kairos Fateweaver page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Kairos Fateweaver"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Kairos_Fateweaver"
+   }
+  ]
+ },
+ {
+  "id": "farnio-forzini-tombe-2523",
+  "annee": 2523,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Farnio Forzini vaincu dans la forêt de Hvargir",
+   "en": "Farnio Forzini defeated in the Hvargir Forest",
+   "de": "Farnio Forzini im Hvargir-Wald besiegt"
+  },
+  "resume": {
+   "fr": "Au printemps, le prince frontalier Farnio Forzini, duc d'Alfori, part secourir le comte Tulvik assiégé par les Skavens, puis doit rebrousser chemin car son propre domaine est attaqué. Avant d'y parvenir, il est intercepté dans la forêt de Hvargir par Mannfred von Carstein, vaincu et changé en vampire. Il retourne ensuite combattre les Skavens sur ses terres.",
+   "en": "In spring the Border Prince Farnio Forzini, Duke of Alfori, rides to relieve Count Tulvik, besieged by Skaven, then has to turn back because his own domain is under attack. Before he gets there, Mannfred von Carstein intercepts him in the Hvargir Forest, defeats him and turns him into a vampire. He then returns to fight the Skaven on his lands.",
+   "de": "Im Frühling reitet der Grenzgraf Farnio Forzini, Herzog von Alfori, dem von Skaven belagerten Grafen Tulvik zu Hilfe, muss aber umkehren, weil sein eigenes Gebiet angegriffen wird. Unterwegs stellt ihn Mannfred von Carstein im Hvargir-Wald, besiegt ihn und verwandelt ihn in einen Vampir. Danach kehrt er zurück, um die Skaven auf seinem Land zu bekämpfen."
+  },
+  "ere": "fin-des-temps",
+  "regions": [
+   "royaumes-frontaliers"
+  ],
+  "lieux": [],
+  "factions": [
+   "humains-autres",
+   "vampires",
+   "skavens"
+  ],
+  "importance": 1,
+  "fiabilite": "etabli",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer: The End Times, Nagash",
+     "en": "Warhammer: The End Times, Nagash",
+     "de": "Warhammer: The End Times, Nagash"
+    },
+    "detail": {
+     "fr": "p. 53",
+     "en": "p. 53",
+     "de": "S. 53"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "The Return of Nagash (roman de Josh Reynolds)",
+     "en": "The Return of Nagash (roman de Josh Reynolds)",
+     "de": "The Return of Nagash (roman de Josh Reynolds)"
+    },
+    "detail": {
+     "fr": "chap. 9",
+     "en": "ch. 9",
+     "de": "Kap. 9"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Farnio Forzini",
+     "en": "Warhammer Fantasy Wiki (fandom), Farnio Forzini page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Farnio Forzini"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Farnio_Forzini"
+   }
+  ]
+ }
+]

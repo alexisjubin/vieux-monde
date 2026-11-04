@@ -394,11 +394,11 @@
    "bretonnie"
   ],
   "importance": 2,
-  "fiabilite": "etabli",
+  "fiabilite": "divergent",
   "note": {
-   "fr": "La source date ce fait de l'an -44 du calendrier bretonnien, soit 934 CI selon sa propre conversion.",
-   "en": "The source dates this to year -44 of the Bretonnian calendar, which it converts to 934 IC.",
-   "de": "Die Quelle datiert dies auf das Jahr -44 des bretonischen Kalenders, was sie mit 934 IK gleichsetzt."
+   "fr": "La source date ce fait de l'an -44 du calendrier bretonnien, soit 934 CI selon sa propre conversion. Une autre source en ligne (wiki Warhammer Fantasy ou Bibliothèque Impériale) donne 952 CI.",
+   "en": "The source dates this to year -44 of the Bretonnian calendar, which it converts to 934 IC. Another online source (Warhammer Fantasy Wiki or Bibliothèque Impériale) gives 952 IC.",
+   "de": "Die Quelle datiert dies auf das Jahr -44 des bretonischen Kalenders, was sie mit 934 IK gleichsetzt. Eine weitere Online-Quelle (Warhammer Fantasy Wiki oder Bibliothèque Impériale) nennt 952 IK."
   },
   "sources": [
    {

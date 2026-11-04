@@ -1889,8 +1889,12 @@
    "empire"
   ],
   "importance": 2,
-  "fiabilite": "incertain",
-  "note": "",
+  "fiabilite": "divergent",
+  "note": {
+   "fr": "Une autre source en ligne (wiki Warhammer Fantasy ou Bibliothèque Impériale) donne 2049 CI.",
+   "en": "Another online source (Warhammer Fantasy Wiki or Bibliothèque Impériale) gives 2049 IC.",
+   "de": "Eine weitere Online-Quelle (Warhammer Fantasy Wiki oder Bibliothèque Impériale) nennt 2049 IK."
+  },
   "sources": [
    {
     "titre": {

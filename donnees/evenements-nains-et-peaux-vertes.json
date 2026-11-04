@@ -1519,8 +1519,12 @@
       "peaux-vertes"
     ],
     "importance": 2,
-    "fiabilite": "etabli",
-    "note": "",
+    "fiabilite": "divergent",
+    "note": {
+      "fr": "Une autre source en ligne (wiki Warhammer Fantasy ou Bibliothèque Impériale) donne -700 CI.",
+      "en": "Another online source (Warhammer Fantasy Wiki or Bibliothèque Impériale) gives -700 IC.",
+      "de": "Eine weitere Online-Quelle (Warhammer Fantasy Wiki oder Bibliothèque Impériale) nennt -700 IK."
+    },
     "sources": [
       {
         "titre": {
@@ -1940,7 +1944,7 @@
       "de": "Fall von Karak Vrag"
     },
     "resume": {
-      "fr": "Karak Vrag, l'une des rares forteresses naines fondées dans les Montagnes du Deuil, tombe. Son isolement loin à l'est la rendait difficile à secourir. Les circonstances exactes de sa perte ne sont pas détaillées par la chronologie naine.",
+      "fr": "Karak Vrag, l'une des rares forteresses naines fondées dans les Montagnes des Lamentations, tombe. Son isolement loin à l'est la rendait difficile à secourir. Les circonstances exactes de sa perte ne sont pas détaillées par la chronologie naine.",
       "en": "Karak Vrag, one of the few Dwarf holds founded in the Mountains of Mourn, falls. Its isolation far to the east made it hard to relieve. The exact circumstances of its loss are not detailed by the Dwarf chronology.",
       "de": "Karak Vrag, eine der wenigen in den Bergen der Trauer gegründeten Zwergenfestungen, fällt. Ihre abgelegene Lage weit im Osten machte Entsatz schwierig. Die genauen Umstände ihres Verlusts werden in der zwergischen Chronologie nicht geschildert."
     },
@@ -3385,9 +3389,9 @@
     "importance": 2,
     "fiabilite": "divergent",
     "note": {
-      "fr": "Les Livres d'Armée Nains et Orques et Gobelins (8e édition) datent l'attaque de 2503 CI. La page Morglum Necksnapper du wiki fandom place l'attaque conjointe sur Karak Azul en 2507 CI, après le siège de Barak Varr de 2503 CI.",
-      "en": "The Dwarfs and Orcs & Goblins army books (8th edition) date the attack to 2503 IC. The Morglum Necksnapper page of the fandom wiki places the joint attack on Karak Azul in 2507 IC, after the 2503 IC siege of Barak Varr.",
-      "de": "Die Armeebücher Zwerge und Orks & Goblins (8. Edition) datieren den Angriff auf 2503 IK. Die Seite Morglum Necksnapper des Fandom-Wikis setzt den gemeinsamen Angriff auf Karak Azul auf 2507 IK, nach der Belagerung von Barak Varr im Jahr 2503 IK."
+      "fr": "Les Livres d'Armée Nains et Orques et Gobelins (8e édition) datent l'attaque de 2503 CI. La page Morglum Necksnapper du wiki fandom place l'attaque conjointe sur Karak Azul en 2507 CI, après le siège de Barak Varr de 2503 CI. Une autre source en ligne (wiki Warhammer Fantasy ou Bibliothèque Impériale) donne 2507 CI.",
+      "en": "The Dwarfs and Orcs & Goblins army books (8th edition) date the attack to 2503 IC. The Morglum Necksnapper page of the fandom wiki places the joint attack on Karak Azul in 2507 IC, after the 2503 IC siege of Barak Varr. Another online source (Warhammer Fantasy Wiki or Bibliothèque Impériale) gives 2507 IC.",
+      "de": "Die Armeebücher Zwerge und Orks & Goblins (8. Edition) datieren den Angriff auf 2503 IK. Die Seite Morglum Necksnapper des Fandom-Wikis setzt den gemeinsamen Angriff auf Karak Azul auf 2507 IK, nach der Belagerung von Barak Varr im Jahr 2503 IK. Eine weitere Online-Quelle (Warhammer Fantasy Wiki oder Bibliothèque Impériale) nennt 2507 IK."
     },
     "sources": [
       {

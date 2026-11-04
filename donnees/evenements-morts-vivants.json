@@ -70,11 +70,11 @@
       "rois-des-tombes"
     ],
     "importance": 1,
-    "fiabilite": "incertain",
+    "fiabilite": "divergent",
     "note": {
-      "fr": "Date tirée d'un roman de la Black Library, reprise par Lexicanum. Aucun livre d'armée ne la confirme.",
-      "en": "Date taken from a Black Library novel and reported by Lexicanum. No army book confirms it.",
-      "de": "Datum aus einem Roman der Black Library, von Lexicanum übernommen. Kein Armeebuch bestätigt es."
+      "fr": "Date tirée d'un roman de la Black Library, reprise par Lexicanum. Aucun livre d'armée ne la confirme. Une autre source en ligne (wiki Warhammer Fantasy ou Bibliothèque Impériale) donne -2144 CI.",
+      "en": "Date taken from a Black Library novel and reported by Lexicanum. No army book confirms it. Another online source (Warhammer Fantasy Wiki or Bibliothèque Impériale) gives -2144 IC.",
+      "de": "Datum aus einem Roman der Black Library, von Lexicanum übernommen. Kein Armeebuch bestätigt es. Eine weitere Online-Quelle (Warhammer Fantasy Wiki oder Bibliothèque Impériale) nennt -2144 IK."
     },
     "sources": [
       {
@@ -876,9 +876,9 @@
     "importance": 2,
     "fiabilite": "divergent",
     "note": {
-      "fr": "Lexicanum donne -1120 CI sur la page Strygos et -1020 CI sur les pages Ushoran et Vampire. Une autre tradition, reprise dans l'événement de la Waaagh! des Terres arides, fait mourir Kadon sous les coups d'Orques sauvages vers -1020 CI. Ushoran est l'ancêtre de la lignée des Strigoï.",
-      "en": "Lexicanum gives -1120 IC on the Strygos page and -1020 IC on the Ushoran and Vampire pages. Another tradition, used in the Badlands Waaagh! event, has Kadon killed by Savage Orcs around -1020 IC. Ushoran is the ancestor of the Strigoi bloodline.",
-      "de": "Lexicanum nennt -1120 IK auf der Seite Strygos und -1020 IK auf den Seiten Ushoran und Vampire. Eine andere Überlieferung, die das Ereignis zur Waaagh! in den Ödlanden aufgreift, lässt Kadon um -1020 IK durch Wilde Orks sterben. Ushoran ist der Ahnherr der Blutlinie der Strigoi."
+      "fr": "Lexicanum donne -1120 CI sur la page Strygos et -1020 CI sur les pages Ushoran et Vampire. Une autre tradition, reprise dans l'événement de la Waaagh! des Terres arides, fait mourir Kadon sous les coups d'Orques sauvages vers -1020 CI. Ushoran est l'ancêtre de la lignée des Strigoï. Une autre source en ligne (wiki Warhammer Fantasy ou Bibliothèque Impériale) donne -1020 CI.",
+      "en": "Lexicanum gives -1120 IC on the Strygos page and -1020 IC on the Ushoran and Vampire pages. Another tradition, used in the Badlands Waaagh! event, has Kadon killed by Savage Orcs around -1020 IC. Ushoran is the ancestor of the Strigoi bloodline. Another online source (Warhammer Fantasy Wiki or Bibliothèque Impériale) gives -1020 IC.",
+      "de": "Lexicanum nennt -1120 IK auf der Seite Strygos und -1020 IK auf den Seiten Ushoran und Vampire. Eine andere Überlieferung, die das Ereignis zur Waaagh! in den Ödlanden aufgreift, lässt Kadon um -1020 IK durch Wilde Orks sterben. Ushoran ist der Ahnherr der Blutlinie der Strigoi. Eine weitere Online-Quelle (Warhammer Fantasy Wiki oder Bibliothèque Impériale) nennt -1020 IK."
     },
     "sources": [
       {
@@ -1012,8 +1012,12 @@
       "rois-des-tombes"
     ],
     "importance": 2,
-    "fiabilite": "etabli",
-    "note": "",
+    "fiabilite": "divergent",
+    "note": {
+      "fr": "Le wiki Warhammer Fantasy donne -455 CI pour ce fait.",
+      "en": "The Warhammer Fantasy Wiki gives -455 IC for this event.",
+      "de": "Das Warhammer Fantasy Wiki nennt -455 IK für dieses Ereignis."
+    },
     "sources": [
       {
         "titre": {
@@ -1357,9 +1361,9 @@
     "importance": 2,
     "fiabilite": "divergent",
     "note": {
-      "fr": "Le Livre des morts est un objet de jeu ancien de Warhammer. Lexicanum place la mort d'Abdul vers -320 CI, la chronologie arabienne du wiki fandom vers -300 CI.",
-      "en": "The Book of the Dead is an old Warhammer game item. Lexicanum places Abdul's death around -320 IC, the Arabyan timeline on the fandom wiki around -300 IC.",
-      "de": "Das Buch der Toten ist ein alter Spielgegenstand von Warhammer. Lexicanum setzt Abduls Tod um -320 IK an, die arabische Zeitleiste des Fandom-Wikis um -300 IK."
+      "fr": "Le Livre des morts est un objet de jeu ancien de Warhammer. Lexicanum place la mort d'Abdul vers -320 CI, la chronologie arabienne du wiki fandom vers -300 CI. Une autre source en ligne (wiki Warhammer Fantasy ou Bibliothèque Impériale) donne -320 CI.",
+      "en": "The Book of the Dead is an old Warhammer game item. Lexicanum places Abdul's death around -320 IC, the Arabyan timeline on the fandom wiki around -300 IC. Another online source (Warhammer Fantasy Wiki or Bibliothèque Impériale) gives -320 IC.",
+      "de": "Das Buch der Toten ist ein alter Spielgegenstand von Warhammer. Lexicanum setzt Abduls Tod um -320 IK an, die arabische Zeitleiste des Fandom-Wikis um -300 IK. Eine weitere Online-Quelle (Warhammer Fantasy Wiki oder Bibliothèque Impériale) nennt -320 IK."
     },
     "sources": [
       {
@@ -1451,7 +1455,9 @@
       "de": "Der Necrarch Melkhior, ein Schüler W'sorans, wendet sich gegen seinen Meister und vernichtet ihn. Er nimmt das Buch des Nagash an sich, das W'soran aus Nagashizzar mitgenommen hatte. Melkhior wird einer der ältesten und gefürchtetsten Necrarchen der Alten Welt."
     },
     "ere": "age-des-tribus",
-    "regions": ["montagnes"],
+    "regions": [
+      "montagnes"
+    ],
     "lieux": [],
     "factions": [
       "vampires"
@@ -2196,11 +2202,11 @@
       "humains-autres"
     ],
     "importance": 1,
-    "fiabilite": "incertain",
+    "fiabilite": "divergent",
     "note": {
-      "fr": "La chronologie arabienne du wiki fandom donne l'année 2588 du calendrier de Settra, qu'elle convertit en 1428 CI. Le même tableau convertit l'an 2877 de Settra en 1726 CI, soit un écart différent (1160 contre 1151 ans) : l'une des deux conversions est fausse.",
-      "en": "The Arabyan timeline on the fandom wiki gives year 2588 of Settra's calendar, which it converts to 1428 IC. The same table converts Settra's year 2877 to 1726 IC, a different gap (1160 against 1151 years), so one of the two conversions is wrong.",
-      "de": "Die arabische Zeitleiste des Fandom-Wikis nennt das Jahr 2588 nach Settras Kalender und rechnet es in 1428 IK um. Dieselbe Tabelle rechnet Settras Jahr 2877 in 1726 IK um, also mit anderem Abstand (1160 gegenüber 1151 Jahren), eine der beiden Umrechnungen ist daher falsch."
+      "fr": "La chronologie arabienne du wiki fandom donne l'année 2588 du calendrier de Settra, qu'elle convertit en 1428 CI. Le même tableau convertit l'an 2877 de Settra en 1726 CI, soit un écart différent (1160 contre 1151 ans) : l'une des deux conversions est fausse. Le wiki Warhammer Fantasy donne 1461 CI pour ce fait.",
+      "en": "The Arabyan timeline on the fandom wiki gives year 2588 of Settra's calendar, which it converts to 1428 IC. The same table converts Settra's year 2877 to 1726 IC, a different gap (1160 against 1151 years), so one of the two conversions is wrong. The Warhammer Fantasy Wiki gives 1461 IC for this event.",
+      "de": "Die arabische Zeitleiste des Fandom-Wikis nennt das Jahr 2588 nach Settras Kalender und rechnet es in 1428 IK um. Dieselbe Tabelle rechnet Settras Jahr 2877 in 1726 IK um, also mit anderem Abstand (1160 gegenüber 1151 Jahren), eine der beiden Umrechnungen ist daher falsch. Das Warhammer Fantasy Wiki nennt 1461 IK für dieses Ereignis."
     },
     "sources": [
       {
@@ -2243,9 +2249,9 @@
     "importance": 2,
     "fiabilite": "divergent",
     "note": {
-      "fr": "Lexicanum (page Jaffar) date l'unification de 1435 CI et un règne de quinze ans. La chronologie arabienne du wiki fandom place la formation de sa coalition en 1430 CI.",
-      "en": "Lexicanum (Jaffar page) dates the unification to 1435 IC and a fifteen-year reign. The Arabyan timeline on the fandom wiki places the forming of his coalition in 1430 IC.",
-      "de": "Lexicanum (Seite Jaffar) datiert die Einigung auf 1435 IK und eine fünfzehnjährige Herrschaft. Die arabische Zeitleiste des Fandom-Wikis setzt die Bildung seiner Koalition auf 1430 IK."
+      "fr": "Lexicanum (page Jaffar) date l'unification de 1435 CI et un règne de quinze ans. La chronologie arabienne du wiki fandom place la formation de sa coalition en 1430 CI. Une autre source en ligne (wiki Warhammer Fantasy ou Bibliothèque Impériale) donne 1430 CI.",
+      "en": "Lexicanum (Jaffar page) dates the unification to 1435 IC and a fifteen-year reign. The Arabyan timeline on the fandom wiki places the forming of his coalition in 1430 IC. Another online source (Warhammer Fantasy Wiki or Bibliothèque Impériale) gives 1430 IC.",
+      "de": "Lexicanum (Seite Jaffar) datiert die Einigung auf 1435 IK und eine fünfzehnjährige Herrschaft. Die arabische Zeitleiste des Fandom-Wikis setzt die Bildung seiner Koalition auf 1430 IK. Eine weitere Online-Quelle (Warhammer Fantasy Wiki oder Bibliothèque Impériale) nennt 1430 IK."
     },
     "sources": [
       {
@@ -2660,9 +2666,9 @@
     "importance": 1,
     "fiabilite": "divergent",
     "note": {
-      "fr": "Le wiki fandom date l'invasion de 1500 CI sur la page Araby et de 1600 CI sur sa chronologie arabienne, qui fixe l'effondrement vers 1800 CI. La source d'origine est le supplément Renegade Crowns de WFRP.",
-      "en": "The fandom wiki dates the invasion to 1500 IC on the Araby page and to 1600 IC on its Arabyan timeline, which sets the collapse around 1800 IC. The original source is the WFRP supplement Renegade Crowns.",
-      "de": "Das Fandom-Wiki datiert den Einfall auf der Seite Araby auf 1500 IK und in seiner arabischen Zeitleiste auf 1600 IK, die den Zusammenbruch um 1800 IK ansetzt. Ursprüngliche Quelle ist das WFRP-Ergänzungsbuch Renegade Crowns."
+      "fr": "Le wiki fandom date l'invasion de 1500 CI sur la page Araby et de 1600 CI sur sa chronologie arabienne, qui fixe l'effondrement vers 1800 CI. La source d'origine est le supplément Renegade Crowns de WFRP. Une autre source en ligne (wiki Warhammer Fantasy ou Bibliothèque Impériale) donne 1606 CI.",
+      "en": "The fandom wiki dates the invasion to 1500 IC on the Araby page and to 1600 IC on its Arabyan timeline, which sets the collapse around 1800 IC. The original source is the WFRP supplement Renegade Crowns. Another online source (Warhammer Fantasy Wiki or Bibliothèque Impériale) gives 1606 IC.",
+      "de": "Das Fandom-Wiki datiert den Einfall auf der Seite Araby auf 1500 IK und in seiner arabischen Zeitleiste auf 1600 IK, die den Zusammenbruch um 1800 IK ansetzt. Ursprüngliche Quelle ist das WFRP-Ergänzungsbuch Renegade Crowns. Eine weitere Online-Quelle (Warhammer Fantasy Wiki oder Bibliothèque Impériale) nennt 1606 IK."
     },
     "sources": [
       {
@@ -2725,11 +2731,11 @@
       "humains-autres"
     ],
     "importance": 1,
-    "fiabilite": "incertain",
+    "fiabilite": "divergent",
     "note": {
-      "fr": "La chronologie arabienne du wiki fandom donne l'an 2877 du calendrier de Settra, converti en 1726 CI. Voir la note sur le pillage de Zandri en 1428 CI pour l'incohérence des conversions.",
-      "en": "The Arabyan timeline on the fandom wiki gives year 2877 of Settra's calendar, converted to 1726 IC. See the note on the plundering of Zandri in 1428 IC for the inconsistent conversions.",
-      "de": "Die arabische Zeitleiste des Fandom-Wikis nennt das Jahr 2877 nach Settras Kalender, umgerechnet 1726 IK. Zur widersprüchlichen Umrechnung siehe die Anmerkung zur Plünderung Zandris 1428 IK."
+      "fr": "La chronologie arabienne du wiki fandom donne l'an 2877 du calendrier de Settra, converti en 1726 CI. Voir la note sur le pillage de Zandri en 1428 CI pour l'incohérence des conversions. Le wiki Warhammer Fantasy donne 1750 CI pour ce fait.",
+      "en": "The Arabyan timeline on the fandom wiki gives year 2877 of Settra's calendar, converted to 1726 IC. See the note on the plundering of Zandri in 1428 IC for the inconsistent conversions. The Warhammer Fantasy Wiki gives 1750 IC for this event.",
+      "de": "Die arabische Zeitleiste des Fandom-Wikis nennt das Jahr 2877 nach Settras Kalender, umgerechnet 1726 IK. Zur widersprüchlichen Umrechnung siehe die Anmerkung zur Plünderung Zandris 1428 IK. Das Warhammer Fantasy Wiki nennt 1750 IK für dieses Ereignis."
     },
     "sources": [
       {
@@ -2831,9 +2837,9 @@
     "importance": 2,
     "fiabilite": "divergent",
     "note": {
-      "fr": "Lexicanum date le siège de 1932 CI sur la page Walach Harkon et de 1946 CI sur la page Vampire, où il est mené par Gunther van Hal. Les sources parlent de quatre ordres templiers.",
-      "en": "Lexicanum dates the siege to 1932 IC on the Walach Harkon page and to 1946 IC on the Vampire page, where it is led by Gunther van Hal. The sources mention four templar orders.",
-      "de": "Lexicanum datiert die Belagerung auf der Seite Walach Harkon auf 1932 IK und auf der Seite Vampire auf 1946 IK, wo Gunther van Hal sie anführt. Die Quellen sprechen von vier Templerorden."
+      "fr": "Lexicanum date le siège de 1932 CI sur la page Walach Harkon et de 1946 CI sur la page Vampire, où il est mené par Gunther van Hal. Les sources parlent de quatre ordres templiers. Le wiki Warhammer Fantasy donne 1946 CI pour ce fait.",
+      "en": "Lexicanum dates the siege to 1932 IC on the Walach Harkon page and to 1946 IC on the Vampire page, where it is led by Gunther van Hal. The sources mention four templar orders. The Warhammer Fantasy Wiki gives 1946 IC for this event.",
+      "de": "Lexicanum datiert die Belagerung auf der Seite Walach Harkon auf 1932 IK und auf der Seite Vampire auf 1946 IK, wo Gunther van Hal sie anführt. Die Quellen sprechen von vier Templerorden. Das Warhammer Fantasy Wiki nennt 1946 IK für dieses Ereignis."
     },
     "sources": [
       {

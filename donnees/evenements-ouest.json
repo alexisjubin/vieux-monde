@@ -632,8 +632,12 @@
       "rois-des-tombes"
     ],
     "importance": 2,
-    "fiabilite": "etabli",
-    "note": "",
+    "fiabilite": "divergent",
+    "note": {
+      "fr": "Une autre source en ligne (wiki Warhammer Fantasy ou Bibliothèque Impériale) donne 1175 CI.",
+      "en": "Another online source (Warhammer Fantasy Wiki or Bibliothèque Impériale) gives 1175 IC.",
+      "de": "Eine weitere Online-Quelle (Warhammer Fantasy Wiki oder Bibliothèque Impériale) nennt 1175 IK."
+    },
     "sources": [
       {
         "titre": {
@@ -1754,11 +1758,11 @@
       "humains-autres"
     ],
     "importance": 1,
-    "fiabilite": "incertain",
+    "fiabilite": "divergent",
     "note": {
-      "fr": "Mention unique dans la chronologie tiléenne d'Up in Arms, citée par Lexicanum.",
-      "en": "Single mention in the Tilean timeline of Up in Arms, cited by Lexicanum.",
-      "de": "Einzige Erwähnung in der tileanischen Zeitleiste von Up in Arms, zitiert von Lexicanum."
+      "fr": "Mention unique dans la chronologie tiléenne d'Up in Arms, citée par Lexicanum. Une autre source en ligne (wiki Warhammer Fantasy ou Bibliothèque Impériale) donne 1890 CI.",
+      "en": "Single mention in the Tilean timeline of Up in Arms, cited by Lexicanum. Another online source (Warhammer Fantasy Wiki or Bibliothèque Impériale) gives 1890 IC.",
+      "de": "Einzige Erwähnung in der tileanischen Zeitleiste von Up in Arms, zitiert von Lexicanum. Eine weitere Online-Quelle (Warhammer Fantasy Wiki oder Bibliothèque Impériale) nennt 1890 IK."
     },
     "sources": [
       {
@@ -2569,8 +2573,12 @@
       "rois-des-tombes"
     ],
     "importance": 1,
-    "fiabilite": "etabli",
-    "note": "",
+    "fiabilite": "divergent",
+    "note": {
+      "fr": "Le wiki Warhammer Fantasy donne vers 1000 CI pour ce fait.",
+      "en": "The Warhammer Fantasy Wiki gives around 1000 IC for this event.",
+      "de": "Das Warhammer Fantasy Wiki nennt um 1000 IK für dieses Ereignis."
+    },
     "sources": [
       {
         "titre": {
@@ -2684,8 +2692,12 @@
       "peaux-vertes"
     ],
     "importance": 1,
-    "fiabilite": "etabli",
-    "note": "",
+    "fiabilite": "divergent",
+    "note": {
+      "fr": "Une autre source en ligne (wiki Warhammer Fantasy ou Bibliothèque Impériale) donne 2466 CI.",
+      "en": "Another online source (Warhammer Fantasy Wiki or Bibliothèque Impériale) gives 2466 IC.",
+      "de": "Eine weitere Online-Quelle (Warhammer Fantasy Wiki oder Bibliothèque Impériale) nennt 2466 IK."
+    },
     "sources": [
       {
         "titre": {

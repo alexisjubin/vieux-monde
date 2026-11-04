@@ -1,0 +1,1944 @@
+[
+ {
+  "id": "ordre-du-mur-de-pierre",
+  "annee": -4500,
+  "fin": null,
+  "approx": true,
+  "titre": {
+   "fr": "Fondation de l'ordre du Mur de Pierre",
+   "en": "The Order of the Stone Wall is founded",
+   "de": "Gründung des Ordens der Steinernen Mauer"
+  },
+  "resume": {
+   "fr": "Lors de la première venue du Chaos, le culte de Grungni voit naître l'ordre du Mur de Pierre. Ses membres se considèrent comme les gardiens ultimes du peuple nain.",
+   "en": "During the first coming of Chaos, the cult of Grungni gives rise to the Order of the Stone Wall. Its members see themselves as the final guardians of the Dwarf race.",
+   "de": "Beim ersten Ansturm des Chaos entsteht im Kult Grungnis der Orden der Steinernen Mauer. Seine Mitglieder verstehen sich als letzte Hüter des Zwergenvolkes."
+  },
+  "ere": "grande-catastrophe",
+  "regions": [
+   "montagnes"
+  ],
+  "lieux": [],
+  "factions": [
+   "nains"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Dwarfs: Stone and Steel, Warhammer Fantasy Roleplay, 1e édition",
+     "en": "Dwarfs: Stone and Steel, Warhammer Fantasy Roleplay, 1st edition",
+     "de": "Dwarfs: Stone and Steel, Warhammer Fantasy Roleplay, 1. Edition"
+    },
+    "detail": {
+     "fr": "p. 90",
+     "en": "p. 90",
+     "de": "S. 90"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Order of the Stone Wall",
+     "en": "Warhammer Fantasy Wiki (fandom), Order of the Stone Wall page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Order of the Stone Wall"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Order_of_the_Stone_Wall"
+   }
+  ]
+ },
+ {
+  "id": "schisme-de-karaz-ghumzul",
+  "annee": -2000,
+  "fin": -1600,
+  "approx": true,
+  "titre": {
+   "fr": "Karaz Ghumzul rompt avec le Karaz Ankor",
+   "en": "Karaz Ghumzul breaks with the Karaz Ankor",
+   "de": "Karaz Ghumzul löst sich vom Karaz Ankor"
+  },
+  "resume": {
+   "fr": "Pendant la guerre contre les Elfes, les Nains des Monts du Milieu se séparent du royaume. Les Elfes et les Hommes y voient la crainte de la proche Laurelorn, les Nains invoquent une porte du Chaos découverte sous leurs montagnes.",
+   "en": "During the war against the Elves, the Dwarfs of the Middle Mountains break away from the realm. Elves and Men blame fear of nearby Laurelorn, while the Dwarfs speak of a Chaos gate found beneath their mountains.",
+   "de": "Während des Krieges gegen die Elfen lösen sich die Zwerge der Mittelberge vom Reich. Elfen und Menschen sehen darin die Furcht vor dem nahen Laurelorn, die Zwerge berufen sich auf ein Chaostor unter ihren Bergen."
+  },
+  "ere": "age-d-or",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [],
+  "factions": [
+   "nains"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Sigmar's Heirs, Warhammer Fantasy Roleplay, 2e édition",
+     "en": "Sigmar's Heirs, Warhammer Fantasy Roleplay, 2nd edition",
+     "de": "Sigmar's Heirs, Warhammer Fantasy Roleplay, 2. Edition"
+    },
+    "detail": {
+     "fr": "p. 73",
+     "en": "p. 73",
+     "de": "S. 73"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "The Horned Rat Companion, Warhammer Fantasy Roleplay, 4e édition",
+     "en": "The Horned Rat Companion, Warhammer Fantasy Roleplay, 4th edition",
+     "de": "The Horned Rat Companion, Warhammer Fantasy Roleplay, 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 65",
+     "en": "p. 65",
+     "de": "S. 65"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Karaz Ghumzul",
+     "en": "Warhammer Fantasy Wiki (fandom), Karaz Ghumzul page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Karaz Ghumzul"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Karaz_Ghumzul"
+   }
+  ]
+ },
+ {
+  "id": "trois-rois-de-karak-azgaraz",
+  "annee": -2000,
+  "fin": -1560,
+  "approx": true,
+  "titre": {
+   "fr": "Trois rois de Karak Azgaraz tombent contre les Elfes",
+   "en": "Three kings of Karak Azgaraz fall to the Elves",
+   "de": "Drei Könige von Karak Azgaraz fallen gegen die Elfen"
+  },
+  "resume": {
+   "fr": "La Guerre de la Barbe coûte la vie à trois rois de Karak Azgaraz, alors simple comptoir en cours de fortification. Les annales de la forteresse exigent que les Hauts Elfes restituent leurs trois couronnes pour solder la dette.",
+   "en": "The War of Vengeance claims three kings of Karak Azgaraz, then a trading town being fortified. The annals of the hold demand that the High Elves return their three crowns to settle the debt.",
+   "de": "Der Krieg der Rache kostet drei Könige von Karak Azgaraz das Leben, damals eine Handelsstadt im Ausbau zur Festung. Die Annalen der Festung fordern von den Hochelfen die Rückgabe der drei Kronen."
+  },
+  "ere": "age-d-or",
+  "regions": [
+   "montagnes"
+  ],
+  "lieux": [],
+  "factions": [
+   "nains",
+   "hauts-elfes"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Book of Grudges, Warhammer Fantasy Roleplay, 3e édition",
+     "en": "Book of Grudges, Warhammer Fantasy Roleplay, 3rd edition",
+     "de": "Book of Grudges, Warhammer Fantasy Roleplay, 3. Edition"
+    },
+    "detail": {
+     "fr": "p. 17",
+     "en": "p. 17",
+     "de": "S. 17"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Karak Azgaraz",
+     "en": "Warhammer Fantasy Wiki (fandom), Karak Azgaraz page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Karak Azgaraz"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Karak_Azgaraz"
+   }
+  ]
+ },
+ {
+  "id": "karak-zanda-chasse-tor-yvanithress",
+  "annee": -1700,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Karak Zanda chasse les Elfes de Tor Yvanithress",
+   "en": "Karak Zanda drives the Elves from Tor Yvanithress",
+   "de": "Karak Zanda vertreibt die Elfen aus Tor Yvanithress"
+  },
+  "resume": {
+   "fr": "Le roi Karaghar de Karak Zanda bat ses anciens partenaires commerciaux. Les Elfes abandonnent l'avant-poste de Tor Yvanithress, situé près de la future Bögenhafen.",
+   "en": "King Karaghar of Karak Zanda defeats his former trading partners. The Elves abandon the outpost of Tor Yvanithress, near the site of later Bögenhafen.",
+   "de": "König Karaghar von Karak Zanda besiegt seine einstigen Handelspartner. Die Elfen geben den Außenposten Tor Yvanithress nahe dem späteren Bögenhafen auf."
+  },
+  "ere": "age-d-or",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "bogenhafen"
+  ],
+  "factions": [
+   "nains",
+   "hauts-elfes"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Enemy in Shadow, Warhammer Fantasy Roleplay, 4e édition",
+     "en": "Enemy in Shadow, Warhammer Fantasy Roleplay, 4th edition",
+     "de": "Enemy in Shadow, Warhammer Fantasy Roleplay, 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 116",
+     "en": "p. 116",
+     "de": "S. 116"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Karak Zanda",
+     "en": "Warhammer Fantasy Wiki (fandom), Karak Zanda page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Karak Zanda"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Karak_Zanda"
+   }
+  ]
+ },
+ {
+  "id": "morek-demasque-drogor",
+  "annee": -1662,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Morek Furrowbrow démasque Drogor",
+   "en": "Morek Furrowbrow unmasks Drogor",
+   "de": "Morek Furrowbrow enttarnt Drogor"
+  },
+  "resume": {
+   "fr": "Alors que Morgrim marche sur Sith Rionnasc'namishathir, le maître des runes Morek révèle que son compagnon Drogor est un Prince Démon de Tzeentch qui attisait la guerre sous l'apparence d'un Nain. Le démon est tué, mais Morgrim comprend que les Elfes ne croiront jamais à cette explication.",
+   "en": "As Morgrim marches on Sith Rionnasc'namishathir, the runelord Morek reveals that his companion Drogor is a Daemon Prince of Tzeentch who had fanned the war in Dwarf guise. The daemon is slain, but Morgrim realises the Elves will never accept this explanation.",
+   "de": "Als Morgrim gegen Sith Rionnasc'namishathir zieht, enthüllt der Runenmeister Morek, dass sein Gefährte Drogor ein Dämonenprinz des Tzeentch ist, der in Zwergengestalt den Krieg schürte. Der Dämon wird erschlagen, doch Morgrim begreift, dass die Elfen dieser Erklärung nie glauben werden."
+  },
+  "ere": "age-d-or",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "marienburg"
+  ],
+  "factions": [
+   "nains",
+   "chaos",
+   "hauts-elfes"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Le wiki date l'épisode de 2861 KA et le convertit en -1662 CI. Source romanesque.",
+   "en": "The wiki dates this to 2861 KA and converts it to -1662 IC. Novel source.",
+   "de": "Das Wiki datiert dies auf 2861 KA und rechnet es in -1662 IC um. Romanquelle."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "The War of Vengeance: The Curse of the Phoenix Crown (C. L. Werner)",
+     "en": "The War of Vengeance: The Curse of the Phoenix Crown (C. L. Werner)",
+     "de": "The War of Vengeance: The Curse of the Phoenix Crown (C. L. Werner)"
+    },
+    "detail": {
+     "fr": "chap. 12",
+     "en": "ch. 12",
+     "de": "Kap. 12"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Morgrim Ironbeard",
+     "en": "Warhammer Fantasy Wiki (fandom), Morgrim Ironbeard page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Morgrim Ironbeard"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Morgrim_Ironbeard"
+   }
+  ]
+ },
+ {
+  "id": "dernier-siege-de-tor-alessi",
+  "annee": -1560,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Quatorzième et dernier siège de Tor Alessi",
+   "en": "Fourteenth and final siege of Tor Alessi",
+   "de": "Vierzehnte und letzte Belagerung von Tor Alessi"
+  },
+  "resume": {
+   "fr": "Gotrek Brise-Étoile rejoint Morgrim devant la citadelle portuaire de Tor Alessi. Après plus de cent jours, les machines naines renoncent aux murailles pour s'en prendre aux tours et la ville est forcée. À la bataille des Trois Tours, le Haut Roi tue Caledor II et s'empare de la Couronne du Phénix.",
+   "en": "Gotrek Starbreaker joins Morgrim before the port citadel of Tor Alessi. After more than a hundred days, the Dwarf engines turn from the walls to the towers and the city is breached. At the Battle of the Three Towers the High King slays Caledor II and takes the Phoenix Crown.",
+   "de": "Gotrek Sternenbrecher stößt vor der Hafenfestung Tor Alessi zu Morgrim. Nach über hundert Tagen richten die zwergischen Maschinen ihr Feuer von den Mauern auf die Türme, und die Stadt fällt. In der Schlacht der Drei Türme erschlägt der Hochkönig Caledor II. und nimmt die Phönixkrone an sich."
+  },
+  "ere": "age-d-or",
+  "regions": [
+   "bretonnie"
+  ],
+  "lieux": [],
+  "factions": [
+   "nains",
+   "hauts-elfes"
+  ],
+  "importance": 2,
+  "fiabilite": "divergent",
+  "note": {
+   "fr": "Les livres d'armée donnent -1560 CI. La trilogie The War of Vengeance, citée à la page Morgrim Ironbeard, place ce siège en 3003 KA, soit -1600 CI.",
+   "en": "The army books give -1560 IC. The War of Vengeance trilogy, cited on the Morgrim Ironbeard page, sets this siege in 3003 KA, or -1600 IC.",
+   "de": "Die Armeebücher nennen -1560 IC. Die Trilogie The War of Vengeance, zitiert auf der Seite Morgrim Ironbeard, setzt die Belagerung auf 3003 KA, also -1600 IC."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Dwarfs, 4e édition",
+     "en": "Warhammer Armies: Dwarfs, 4th edition",
+     "de": "Warhammer Armies: Dwarfs, 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 18",
+     "en": "p. 18",
+     "de": "S. 18"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Dwarfs, 6e édition",
+     "en": "Warhammer Armies: Dwarfs, 6th edition",
+     "de": "Warhammer Armies: Dwarfs, 6. Edition"
+    },
+    "detail": {
+     "fr": "p. 58",
+     "en": "p. 58",
+     "de": "S. 58"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Dwarfs, 7e édition",
+     "en": "Warhammer Armies: Dwarfs, 7th edition",
+     "de": "Warhammer Armies: Dwarfs, 7. Edition"
+    },
+    "detail": {
+     "fr": "p. 16",
+     "en": "p. 16",
+     "de": "S. 16"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Dwarfs, 8e édition",
+     "en": "Warhammer Armies: Dwarfs, 8th edition",
+     "de": "Warhammer Armies: Dwarfs, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 20",
+     "en": "p. 20",
+     "de": "S. 20"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Dwarfs: Stone and Steel, Warhammer Fantasy Roleplay, 1e édition",
+     "en": "Dwarfs: Stone and Steel, Warhammer Fantasy Roleplay, 1st edition",
+     "de": "Dwarfs: Stone and Steel, Warhammer Fantasy Roleplay, 1. Edition"
+    },
+    "detail": {
+     "fr": "p. 106",
+     "en": "p. 106",
+     "de": "S. 106"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Gotrek Starbreaker",
+     "en": "Warhammer Fantasy Wiki (fandom), Gotrek Starbreaker page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Gotrek Starbreaker"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Gotrek_Starbreaker"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page War of the Beard",
+     "en": "Warhammer Fantasy Wiki (fandom), War of the Beard page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite War of the Beard"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/War_of_the_Beard"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Morgrim Ironbeard",
+     "en": "Warhammer Fantasy Wiki (fandom), Morgrim Ironbeard page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Morgrim Ironbeard"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Morgrim_Ironbeard"
+   }
+  ]
+ },
+ {
+  "id": "azgaraz-accueille-les-survivants",
+  "annee": -1500,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Karak Azgaraz recueille les réfugiés du Temps du Malheur",
+   "en": "Karak Azgaraz takes in the refugees of the Time of Woes",
+   "de": "Karak Azgaraz nimmt die Flüchtlinge der Zeit des Unheils auf"
+  },
+  "resume": {
+   "fr": "Au Temps du Malheur, les rescapés des forteresses ruinées de l'ouest des Montagnes du Bord du Monde trouvent refuge à Karak Azgaraz, dans les Montagnes Grises.",
+   "en": "During the Time of Woes, survivors from the ruined holds of the western Worlds Edge Mountains find refuge at Karak Azgaraz in the Grey Mountains.",
+   "de": "In der Zeit des Unheils finden Überlebende der zerstörten Festungen im Westen des Weltrandgebirges Zuflucht in Karak Azgaraz in den Grauen Bergen."
+  },
+  "ere": "age-des-tribus",
+  "regions": [
+   "montagnes"
+  ],
+  "lieux": [],
+  "factions": [
+   "nains"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Book of Grudges, Warhammer Fantasy Roleplay, 3e édition",
+     "en": "Book of Grudges, Warhammer Fantasy Roleplay, 3rd edition",
+     "de": "Book of Grudges, Warhammer Fantasy Roleplay, 3. Edition"
+    },
+    "detail": {
+     "fr": "p. 17",
+     "en": "p. 17",
+     "de": "S. 17"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Karak Azgaraz",
+     "en": "Warhammer Fantasy Wiki (fandom), Karak Azgaraz page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Karak Azgaraz"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Karak_Azgaraz"
+   }
+  ]
+ },
+ {
+  "id": "eruption-du-mont-azgorh",
+  "annee": -1500,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Le volcan Azgorh se pulvérise",
+   "en": "Mount Azgorh blows itself apart",
+   "de": "Der Vulkan Azgorh zerreißt sich selbst"
+  },
+  "resume": {
+   "fr": "Le volcan Azgorh explose avec une force inouïe. Le nuage de cendres est visible depuis Khemri et le fracas est noté par des colons elfes en future Bretonnie. Séismes et coulées déchirent le pays et créent la Désolation d'Azgorh.",
+   "en": "Mount Azgorh explodes with unprecedented force. Its ash cloud is seen from Khemri and the noise is recorded by Elven colonists in what is now Bretonnia. Earthquakes and pyroclastic flows tear the land apart and form the Desolation of Azgorh.",
+   "de": "Der Vulkan Azgorh explodiert mit beispielloser Gewalt. Seine Aschewolke ist bis Khemri zu sehen, den Knall verzeichnen elfische Siedler im heutigen Bretonia. Beben und Glutströme zerreißen das Land und schaffen die Einöde von Azgorh."
+  },
+  "ere": "age-des-tribus",
+  "regions": [
+   "terres-arides"
+  ],
+  "lieux": [],
+  "factions": [
+   "chaos"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Dark Lands",
+     "en": "Warhammer Fantasy Wiki (fandom), Dark Lands page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Dark Lands"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Dark_Lands"
+   }
+  ]
+ },
+ {
+  "id": "karak-zanda-detruite",
+  "annee": -1500,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Karak Zanda détruite par les séismes",
+   "en": "Earthquakes destroy Karak Zanda",
+   "de": "Erdbeben zerstören Karak Zanda"
+  },
+  "resume": {
+   "fr": "Comme bien d'autres forteresses naines, Karak Zanda, proche du Défilé de la Hache, s'effondre sous les grands tremblements de terre qui secouent le Vieux Monde.",
+   "en": "Like many other Dwarf holds, Karak Zanda near Axe Bite Pass is destroyed by the great earthquakes that shake the Old World.",
+   "de": "Wie viele andere Zwergenfestungen wird Karak Zanda nahe dem Axtbiss-Pass von den großen Erdbeben zerstört, die die Alte Welt erschüttern."
+  },
+  "ere": "age-des-tribus",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [],
+  "factions": [
+   "nains"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Enemy in Shadow, Warhammer Fantasy Roleplay, 4e édition",
+     "en": "Enemy in Shadow, Warhammer Fantasy Roleplay, 4th edition",
+     "de": "Enemy in Shadow, Warhammer Fantasy Roleplay, 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 116",
+     "en": "p. 116",
+     "de": "S. 116"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Karak Zanda",
+     "en": "Warhammer Fantasy Wiki (fandom), Karak Zanda page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Karak Zanda"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Karak_Zanda"
+   }
+  ]
+ },
+ {
+  "id": "nurn-et-les-premiers-umgi",
+  "annee": -1492,
+  "fin": null,
+  "approx": true,
+  "titre": {
+   "fr": "Nurn Brise-Bouclier croise les premiers Umgi",
+   "en": "Nurn Shieldbreaker meets the first Umgi",
+   "de": "Nurn Schildbrecher trifft die ersten Umgi"
+  },
+  "resume": {
+   "fr": "En chassant les peaux-vertes sur les piémonts, le Haut Roi Nurn surprend une tribu humaine qui s'enfuit à son approche, ce qu'il prend pour une offense. Il note dans son livre des rancunes le mot Umgal, gens aux ouvrages médiocres, d'où vient le nom nain des Hommes.",
+   "en": "Hunting greenskins in the foothills, High King Nurn comes upon a human tribe that flees at his approach, which he takes as an insult. He records the word Umgal, makers of shoddy things, in his book of grudges, the origin of the Dwarf name for Men.",
+   "de": "Bei der Jagd auf Grünhäute im Vorgebirge stößt Hochkönig Nurn auf einen Menschenstamm, der vor ihm flieht, was er als Beleidigung auffasst. In sein Buch des Grolls schreibt er das Wort Umgal, Macher schäbiger Dinge, den Ursprung des zwergischen Namens für die Menschen."
+  },
+  "ere": "age-des-tribus",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [],
+  "factions": [
+   "nains",
+   "humains-autres"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Tome of Salvation, Warhammer Fantasy Roleplay, 2e édition",
+     "en": "Tome of Salvation, Warhammer Fantasy Roleplay, 2nd edition",
+     "de": "Tome of Salvation, Warhammer Fantasy Roleplay, 2. Edition"
+    },
+    "detail": {
+     "fr": "p. 6-7",
+     "en": "p. 6-7",
+     "de": "S. 6-7"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page High King",
+     "en": "Warhammer Fantasy Wiki (fandom), High King page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite High King"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/High_King"
+   }
+  ]
+ },
+ {
+  "id": "kadrin-sauve-le-haut-roi-a-gunbad",
+  "annee": -1245,
+  "fin": null,
+  "approx": true,
+  "titre": {
+   "fr": "Kadrin Crinière Rouge sauve le Haut Roi à Gunbad",
+   "en": "Kadrin Redmane saves the High King at Gunbad",
+   "de": "Kadrin Rotmähne rettet den Hochkönig in Gunbad"
+  },
+  "resume": {
+   "fr": "Une armée de Logazor Brightaxe reprend brièvement le Mont Gunbad. Quand les Gobelins de la Nuit percent les galeries pendant la visite de Morgrim Barbe-Noire, le maître artisan Kadrin mène les forgerons, marteau en main, et ouvre au Haut Roi une issue hors des mines.",
+   "en": "An army under Logazor Brightaxe briefly retakes Mount Gunbad. When Night Goblins break through the walls during Morgrim Blackbeard's visit, the master craftsman Kadrin leads the smiths, forge hammers in hand, and clears the High King's way out of the mines.",
+   "de": "Ein Heer unter Logazor Brightaxe erobert den Berg Gunbad kurzzeitig zurück. Als Nachtgoblins während des Besuchs von Morgrim Schwarzbart die Stollenwände durchbrechen, führt Meister Kadrin die Schmiede mit ihren Schmiedehämmern an und bahnt dem Hochkönig den Weg aus den Minen."
+  },
+  "ere": "age-des-tribus",
+  "regions": [
+   "montagnes"
+  ],
+  "lieux": [
+   "mont-gunbad"
+  ],
+  "factions": [
+   "nains",
+   "peaux-vertes"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "La page Kadrin Redmane situe l'épisode la même année que la reprise de Gunbad, en -1245 CI.",
+   "en": "The Kadrin Redmane page places this in the same year as the recapture of Gunbad, -1245 IC.",
+   "de": "Die Seite Kadrin Redmane setzt dies ins selbe Jahr wie die Rückeroberung von Gunbad, -1245 IC."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Dwarfs, 4e édition",
+     "en": "Warhammer Armies: Dwarfs, 4th edition",
+     "de": "Warhammer Armies: Dwarfs, 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 19",
+     "en": "p. 19",
+     "de": "S. 19"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Dwarfs, 7e édition",
+     "en": "Warhammer Armies: Dwarfs, 7th edition",
+     "de": "Warhammer Armies: Dwarfs, 7. Edition"
+    },
+    "detail": {
+     "fr": "p. 17",
+     "en": "p. 17",
+     "de": "S. 17"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page High King",
+     "en": "Warhammer Fantasy Wiki (fandom), High King page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite High King"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/High_King"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Kadrin Redmane",
+     "en": "Warhammer Fantasy Wiki (fandom), Kadrin Redmane page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Kadrin Redmane"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Kadrin_Redmane"
+   }
+  ]
+ },
+ {
+  "id": "karak-hirn-fondee",
+  "annee": -1185,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Fondation de Karak Hirn",
+   "en": "Karak Hirn is founded",
+   "de": "Gründung von Karak Hirn"
+  },
+  "resume": {
+   "fr": "La plus grande et la plus riche citadelle des Montagnes Noires est fondée.",
+   "en": "The largest and richest citadel of the Black Mountains is founded.",
+   "de": "Die größte und reichste Zitadelle der Schwarzen Berge wird gegründet."
+  },
+  "ere": "age-des-tribus",
+  "regions": [
+   "montagnes"
+  ],
+  "lieux": [
+   "karak-hirn"
+  ],
+  "factions": [
+   "nains"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Bibliothèque Impériale, page Karak Hirn",
+     "en": "Bibliothèque Impériale, Karak Hirn page",
+     "de": "Bibliothèque Impériale, Seite Karak Hirn"
+    },
+    "detail": "",
+    "url": "https://www.bibliotheque-imperiale.com/index.php/Karak_Hirn"
+   }
+  ]
+ },
+ {
+  "id": "rahotep-a-karaz-a-karak",
+  "annee": -1162,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Le seigneur Rahotep, émissaire de Khemri, à Karaz-a-Karak",
+   "en": "Lord Rahotep of Khemri visits Karaz-a-Karak",
+   "de": "Fürst Rahotep aus Khemri in Karaz-a-Karak"
+  },
+  "resume": {
+   "fr": "Le Haut Roi Morgrim reçoit l'envoyé d'Alcadizaar, échange des présents et invite le Roi-Prêtre à discuter d'une future coopération. La peste lâchée par Nagash sur la Nehekhara empêche toute suite.",
+   "en": "High King Morgrim receives Alcadizaar's envoy, exchanges gifts and invites the Priest King to discuss future cooperation. The plague Nagash unleashes on Nehekhara prevents any follow-up.",
+   "de": "Hochkönig Morgrim empfängt Alcadizaars Gesandten, tauscht Geschenke und lädt den Priesterkönig zu Gesprächen über künftige Zusammenarbeit ein. Die von Nagash über Nehekhara gebrachte Seuche verhindert jede Fortsetzung."
+  },
+  "ere": "age-des-tribus",
+  "regions": [
+   "montagnes",
+   "sud"
+  ],
+  "lieux": [
+   "karaz-a-karak",
+   "khemri"
+  ],
+  "factions": [
+   "nains",
+   "rois-des-tombes"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Le wiki date l'épisode de 3361 KA et le convertit en -1162 CI. Source romanesque.",
+   "en": "The wiki dates this to 3361 KA and converts it to -1162 IC. Novel source.",
+   "de": "Das Wiki datiert dies auf 3361 KA und rechnet es in -1162 IC um. Romanquelle."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Nagash Immortal (Mike Lee)",
+     "en": "Nagash Immortal (Mike Lee)",
+     "de": "Nagash Immortal (Mike Lee)"
+    },
+    "detail": {
+     "fr": "chap. 24",
+     "en": "ch. 24",
+     "de": "Kap. 24"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Morgrim Ironbeard",
+     "en": "Warhammer Fantasy Wiki (fandom), Morgrim Ironbeard page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Morgrim Ironbeard"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Morgrim_Ironbeard"
+   }
+  ]
+ },
+ {
+  "id": "nains-rompent-avec-mourkain",
+  "annee": -1147,
+  "fin": -1020,
+  "approx": true,
+  "titre": {
+   "fr": "Les Nains rompent avec Mourkain",
+   "en": "The Dwarfs break with Mourkain",
+   "de": "Die Zwerge brechen mit Mourkain"
+  },
+  "resume": {
+   "fr": "Sous le règne de Kadon, influencé par la Couronne de Sorcellerie, les Nains de Karaz Bryn, le futur Pic d'argent, cessent de commercer avec Mourkain et lui déclarent la guerre.",
+   "en": "During the reign of Kadon, swayed by the Crown of Sorcery, the Dwarfs of Karaz Bryn, later the Silver Pinnacle, end their trade with Mourkain and declare war on it.",
+   "de": "Unter der Herrschaft Kadons, der im Bann der Krone der Zauberei steht, beenden die Zwerge von Karaz Bryn, dem späteren Silbernen Gipfel, den Handel mit Mourkain und erklären ihm den Krieg."
+  },
+  "ere": "age-des-tribus",
+  "regions": [
+   "montagnes",
+   "terres-arides"
+  ],
+  "lieux": [
+   "pic-d-argent",
+   "mourkain"
+  ],
+  "factions": [
+   "nains",
+   "humains-autres"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "L'intervalle est celui du règne de Kadon, la source ne date pas la rupture plus précisément.",
+   "en": "The range is Kadon's reign, the source gives no closer date for the break.",
+   "de": "Die Spanne entspricht der Herrschaft Kadons, die Quelle datiert den Bruch nicht genauer."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Bibliothèque Impériale, page Karaz Bryn",
+     "en": "Bibliothèque Impériale, Karaz Bryn page",
+     "de": "Bibliothèque Impériale, Seite Karaz Bryn"
+    },
+    "detail": "",
+    "url": "https://www.bibliotheque-imperiale.com/index.php/Karaz_Bryn"
+   }
+  ]
+ },
+ {
+  "id": "razek-rappele-par-borri",
+  "annee": -750,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Borri Pied-d'argent rappelle son fils Razek",
+   "en": "Borri Silverfoot recalls his son Razek",
+   "de": "Borri Silberfuß ruft seinen Sohn Razek zurück"
+  },
+  "resume": {
+   "fr": "Razek enquête sur l'origine de l'or de Mourkain, et son père craint pour le commerce entre les deux peuples. Rappelé, il perd sa charge et se voit confier les échanges avec les autres forteresses.",
+   "en": "Razek's probing into the source of Mourkain's gold makes his father fear for the trade between the two peoples. Recalled, he loses his post and is set to oversee trade with other holds.",
+   "de": "Razeks Nachforschungen zur Herkunft des Goldes von Mourkain lassen seinen Vater um den Handel fürchten. Zurückgerufen verliert er sein Amt und beaufsichtigt fortan den Handel mit anderen Festungen."
+  },
+  "ere": "age-des-tribus",
+  "regions": [
+   "montagnes"
+  ],
+  "lieux": [
+   "pic-d-argent",
+   "mourkain"
+  ],
+  "factions": [
+   "nains"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Neferata (Josh Reynolds)",
+     "en": "Neferata (Josh Reynolds)",
+     "de": "Neferata (Josh Reynolds)"
+    },
+    "detail": {
+     "fr": "p. 142-143 et 207-219",
+     "en": "pp. 142-143, 207-219",
+     "de": "S. 142-143 und 207-219"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Razek Silverfoot",
+     "en": "Warhammer Fantasy Wiki (fandom), Razek Silverfoot page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Razek Silverfoot"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Razek_Silverfoot"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Borri Silverfoot",
+     "en": "Warhammer Fantasy Wiki (fandom), Borri Silverfoot page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Borri Silverfoot"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Borri_Silverfoot"
+   }
+  ]
+ },
+ {
+  "id": "siege-du-pic-d-argent-par-wazzakaz",
+  "annee": -580,
+  "fin": -550,
+  "approx": true,
+  "titre": {
+   "fr": "Wazzakaz assiège le Pic d'argent",
+   "en": "Wazzakaz besieges the Silver Pinnacle",
+   "de": "Wazzakaz belagert den Silbernen Gipfel"
+  },
+  "resume": {
+   "fr": "Le chaman orque Wazzakaz met le siège devant le Pic d'argent pour plus de trente ans. Vers -550 CI, Razek et Neferata conviennent en secret de joindre leurs forces contre sa Waaagh!.",
+   "en": "The Orc shaman Wazzakaz lays siege to the Silver Pinnacle for over thirty years. Around -550 IC, Razek and Neferata secretly agree to join forces against his Waaagh!.",
+   "de": "Der Orkschamane Wazzakaz belagert den Silbernen Gipfel über dreißig Jahre lang. Um -550 IC vereinbaren Razek und Neferata heimlich ein Bündnis gegen seine Waaagh!."
+  },
+  "ere": "age-des-tribus",
+  "regions": [
+   "montagnes"
+  ],
+  "lieux": [
+   "pic-d-argent"
+  ],
+  "factions": [
+   "nains",
+   "peaux-vertes",
+   "vampires"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Fin déduite : la Bibliothèque Impériale donne -580 et plus de trente ans de siège, le wiki situe l'accord en -550 CI.",
+   "en": "End date inferred: the Bibliothèque Impériale gives -580 and over thirty years of siege, the wiki sets the pact in -550 IC.",
+   "de": "Enddatum erschlossen: Die Bibliothèque Impériale nennt -580 und über dreißig Jahre Belagerung, das Wiki setzt den Pakt auf -550 IC."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Neferata (Josh Reynolds)",
+     "en": "Neferata (Josh Reynolds)",
+     "de": "Neferata (Josh Reynolds)"
+    },
+    "detail": {
+     "fr": "p. 207-219",
+     "en": "p. 207-219",
+     "de": "S. 207-219"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Bibliothèque Impériale, page Karaz Bryn",
+     "en": "Bibliothèque Impériale, Karaz Bryn page",
+     "de": "Bibliothèque Impériale, Seite Karaz Bryn"
+    },
+    "detail": "",
+    "url": "https://www.bibliotheque-imperiale.com/index.php/Karaz_Bryn"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Razek Silverfoot",
+     "en": "Warhammer Fantasy Wiki (fandom), Razek Silverfoot page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Razek Silverfoot"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Razek_Silverfoot"
+   }
+  ]
+ },
+ {
+  "id": "nains-decouvrent-la-poudre-noire",
+  "annee": -420,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Les Nains découvrent la poudre noire",
+   "en": "The Dwarfs discover blackpowder",
+   "de": "Die Zwerge entdecken das Schwarzpulver"
+  },
+  "resume": {
+   "fr": "Les Nains sont le premier peuple du Vieux Monde à maîtriser la poudre noire, qu'ils découvrent sans rien devoir aux autres civilisations.",
+   "en": "The Dwarfs become the first people of the Old World to master blackpowder, discovering it independently of other civilisations.",
+   "de": "Die Zwerge beherrschen als erstes Volk der Alten Welt das Schwarzpulver, das sie unabhängig von anderen Kulturen entdecken."
+  },
+  "ere": "age-des-tribus",
+  "regions": [
+   "montagnes"
+  ],
+  "lieux": [],
+  "factions": [
+   "nains"
+  ],
+  "importance": 1,
+  "fiabilite": "divergent",
+  "note": {
+   "fr": "Les archives se contredisent : certaines donnent -420 CI, d'autres situent la découverte dès -1997 CI.",
+   "en": "The records conflict: some give -420 IC, others put the discovery as early as -1997 IC.",
+   "de": "Die Überlieferung ist widersprüchlich: Manche nennen -420 IC, andere schon -1997 IC."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Dwarfs: Stone and Steel, Warhammer Fantasy Roleplay, 1e édition",
+     "en": "Dwarfs: Stone and Steel, Warhammer Fantasy Roleplay, 1st edition",
+     "de": "Dwarfs: Stone and Steel, Warhammer Fantasy Roleplay, 1. Edition"
+    },
+    "detail": {
+     "fr": "p. 108",
+     "en": "p. 108",
+     "de": "S. 108"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Gunpowder",
+     "en": "Warhammer Fantasy Wiki (fandom), Gunpowder page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Gunpowder"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Gunpowder"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Gunpowder Weapons",
+     "en": "Warhammer Fantasy Wiki (fandom), Gunpowder Weapons page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Gunpowder Weapons"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Gunpowder_Weapons"
+   }
+  ]
+ },
+ {
+  "id": "nains-s-installent-a-marienburg",
+  "annee": 501,
+  "fin": null,
+  "approx": true,
+  "titre": {
+   "fr": "Des Nains s'installent à Marienburg",
+   "en": "Dwarfs settle in Marienburg",
+   "de": "Zwerge siedeln sich in Marienburg an"
+  },
+  "resume": {
+   "fr": "La plupart des ancêtres des Nains de Marienburg arrivent peu après l'annexion de la ville par l'empereur Sigismund II.",
+   "en": "Most ancestors of Marienburg's Dwarfs arrive soon after Emperor Sigismund II annexes the Wasteland.",
+   "de": "Die meisten Vorfahren der Zwerge von Marienburg kommen kurz nach der Annexion des Westerlands durch Kaiser Sigismund II."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "marienburg"
+  ],
+  "factions": [
+   "nains",
+   "empire"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Dwarfs: Stone and Steel, Warhammer Fantasy Roleplay, 1e édition",
+     "en": "Dwarfs: Stone and Steel, Warhammer Fantasy Roleplay, 1st edition",
+     "de": "Dwarfs: Stone and Steel, Warhammer Fantasy Roleplay, 1. Edition"
+    },
+    "detail": {
+     "fr": "p. 41",
+     "en": "p. 41",
+     "de": "S. 41"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Expatriate Dwarf",
+     "en": "Warhammer Fantasy Wiki (fandom), Expatriate Dwarf page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Expatriate Dwarf"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Expatriate_Dwarf"
+   }
+  ]
+ },
+ {
+  "id": "azgaraz-et-la-peste-noire",
+  "annee": 1111,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Karak Azgaraz purge ses profondeurs des Skavens",
+   "en": "Karak Azgaraz scours its Underdeep of Skaven",
+   "de": "Karak Azgaraz säubert seine Tiefen von Skaven"
+  },
+  "resume": {
+   "fr": "La forteresse traverse la Peste noire, ses guerriers chassent les Skavens des niveaux inférieurs et dix mille rancunes sont inscrites contre eux.",
+   "en": "The hold endures the Black Plague, its warriors drive the Skaven from the Underdeep and ten thousand grudges are declared against them.",
+   "de": "Die Festung übersteht den Schwarzen Tod, ihre Krieger vertreiben die Skaven aus der Tiefe, und zehntausend Fälle von Groll werden gegen sie verzeichnet."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "montagnes"
+  ],
+  "lieux": [],
+  "factions": [
+   "nains",
+   "skavens"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Book of Grudges, Warhammer Fantasy Roleplay, 3e édition",
+     "en": "Book of Grudges, Warhammer Fantasy Roleplay, 3rd edition",
+     "de": "Book of Grudges, Warhammer Fantasy Roleplay, 3. Edition"
+    },
+    "detail": {
+     "fr": "p. 17",
+     "en": "p. 17",
+     "de": "S. 17"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Karak Azgaraz",
+     "en": "Warhammer Fantasy Wiki (fandom), Karak Azgaraz page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Karak Azgaraz"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Karak_Azgaraz"
+   }
+  ]
+ },
+ {
+  "id": "premiers-vapeurs-nains",
+  "annee": 1152,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Les premiers navires à vapeur nains",
+   "en": "The first Dwarf steamships",
+   "de": "Die ersten zwergischen Dampfschiffe"
+  },
+  "resume": {
+   "fr": "Les Nains mettent à flot leurs premiers vapeurs, plusieurs siècles après la machine à vapeur de Dargo Grindolsson.",
+   "en": "The Dwarfs launch their first steamships, several centuries after Dargo Grindolsson's steam engine.",
+   "de": "Die Zwerge lassen ihre ersten Dampfschiffe zu Wasser, mehrere Jahrhunderte nach Dargo Grindolssons Dampfmaschine."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "montagnes"
+  ],
+  "lieux": [],
+  "factions": [
+   "nains"
+  ],
+  "importance": 1,
+  "fiabilite": "divergent",
+  "note": {
+   "fr": "La trilogie The War of Vengeance montre déjà des vapeurs nains pendant la Guerre de la Barbe, des millénaires plus tôt.",
+   "en": "The War of Vengeance trilogy already shows Dwarf steamships during the War of the Beard, thousands of years earlier.",
+   "de": "Die Trilogie The War of Vengeance zeigt zwergische Dampfschiffe bereits im Krieg der Rache, Jahrtausende früher."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Dwarf Player's Guide, Warhammer Fantasy Roleplay, 4e édition",
+     "en": "Dwarf Player's Guide, Warhammer Fantasy Roleplay, 4th edition",
+     "de": "Dwarf Player's Guide, Warhammer Fantasy Roleplay, 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 17, 104",
+     "en": "p. 17, 104",
+     "de": "S. 17, 104"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Dwarf Navy",
+     "en": "Warhammer Fantasy Wiki (fandom), Dwarf Navy page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Dwarf Navy"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Dwarf_Navy"
+   }
+  ]
+ },
+ {
+  "id": "derniers-wutroth-de-karak-azgaraz",
+  "annee": 1522,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Les derniers wutroth de Karak Azgaraz",
+   "en": "The last wutroth of Karak Azgaraz",
+   "de": "Die letzten Wutroth von Karak Azgaraz"
+  },
+  "resume": {
+   "fr": "La pourriture emporte les derniers bosquets de wutroth de la forteresse. Les équipes de bûcherons parties au sud des montagnes ne reviennent pas, d'où la première rancune de Karak Azgaraz contre les Elfes sylvains d'Athel Loren.",
+   "en": "Rootrot claims the hold's last wutroth groves. Axe parties sent south of the mountains never return, which leads to Karak Azgaraz's first grudge against the Wood Elves of Athel Loren.",
+   "de": "Wurzelfäule vernichtet die letzten Wutroth-Haine der Festung. Holzfällertrupps südlich der Berge kehren nie zurück, woraus der erste Groll von Karak Azgaraz gegen die Waldelfen von Athel Loren erwächst."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "montagnes",
+   "athel-loren"
+  ],
+  "lieux": [
+   "athel-loren"
+  ],
+  "factions": [
+   "nains",
+   "elfes-sylvains"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Book of Grudges, Warhammer Fantasy Roleplay, 3e édition",
+     "en": "Book of Grudges, Warhammer Fantasy Roleplay, 3rd edition",
+     "de": "Book of Grudges, Warhammer Fantasy Roleplay, 3. Edition"
+    },
+    "detail": {
+     "fr": "p. 17",
+     "en": "p. 17",
+     "de": "S. 17"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Karak Azgaraz",
+     "en": "Warhammer Fantasy Wiki (fandom), Karak Azgaraz page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Karak Azgaraz"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Karak_Azgaraz"
+   }
+  ]
+ },
+ {
+  "id": "ordre-des-gardiens-de-gazul",
+  "annee": 1681,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Le culte de Gazul fonde l'ordre des Gardiens",
+   "en": "The cult of Gazul founds the Order of Guardians",
+   "de": "Der Kult Gazuls gründet den Orden der Wächter"
+  },
+  "resume": {
+   "fr": "Après la Nuit des Morts sans repos, le culte nain de Gazul crée un ordre de chasseurs de sorcières, antérieur à plusieurs ordres humains. Il se distingue ensuite dans la guerre des Sorciers et contre les Comtes vampires.",
+   "en": "After the Night of the Restless Dead, the Dwarf cult of Gazul creates an order of witch hunters that predates several human orders. It later distinguishes itself in the Wizards' War and against the Vampire Counts.",
+   "de": "Nach der Nacht der ruhelosen Toten gründet der zwergische Kult Gazuls einen Hexenjägerorden, älter als mehrere menschliche Orden. Später bewährt er sich im Zaubererkrieg und gegen die Vampirfürsten."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [],
+  "factions": [
+   "nains"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Dwarfs: Stone and Steel, Warhammer Fantasy Roleplay, 1e édition",
+     "en": "Dwarfs: Stone and Steel, Warhammer Fantasy Roleplay, 1st edition",
+     "de": "Dwarfs: Stone and Steel, Warhammer Fantasy Roleplay, 1. Edition"
+    },
+    "detail": {
+     "fr": "p. 90",
+     "en": "p. 90",
+     "de": "S. 90"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Order of Guardians",
+     "en": "Warhammer Fantasy Wiki (fandom), Order of Guardians page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Order of Guardians"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Order_of_Guardians"
+   }
+  ]
+ },
+ {
+  "id": "kellus-tombe-a-grunberg",
+  "annee": 2051,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Le roi de Karak Sadra tombe à Grunberg",
+   "en": "The king of Karak Sadra falls at Grunberg",
+   "de": "Der König von Karak Sadra fällt bei Grunberg"
+  },
+  "resume": {
+   "fr": "Le throng de Karak Sadra défend la ville impériale de Grunberg contre les morts-vivants d'un acolyte de Vlad von Carstein. Le vieux roi Kellus y meurt et son fils Kallad ramène les rescapés. En 2055 CI, Kallad refuse la couronne et part traquer les von Carstein pendant un siècle.",
+   "en": "The throng of Karak Sadra defends the Imperial town of Grunberg against the undead of an acolyte of Vlad von Carstein. Old King Kellus dies there and his son Kallad brings the survivors home. In 2055 IC Kallad refuses the crown and spends a century hunting the von Carsteins.",
+   "de": "Das Heer von Karak Sadra verteidigt die kaiserliche Stadt Grunberg gegen die Untoten eines Gefolgsmanns von Vlad von Carstein. Der alte König Kellus fällt, sein Sohn Kallad führt die Überlebenden heim. 2055 IC lehnt Kallad die Krone ab und jagt ein Jahrhundert lang die von Carsteins."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [],
+  "factions": [
+   "nains",
+   "vampires"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Source romanesque, date donnée par la Bibliothèque Impériale.",
+   "en": "Novel source, date given by the Bibliothèque Impériale.",
+   "de": "Romanquelle, Datum nach der Bibliothèque Impériale."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Les chroniques des von Carstein, tome II : Domination (Steven Saville)",
+     "en": "Les chroniques des von Carstein, tome II : Domination (Steven Saville)",
+     "de": "Les chroniques des von Carstein, tome II : Domination (Steven Saville)"
+    },
+    "detail": "",
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Bibliothèque Impériale, page Karak Sadra",
+     "en": "Bibliothèque Impériale, Karak Sadra page",
+     "de": "Bibliothèque Impériale, Seite Karak Sadra"
+    },
+    "detail": "",
+    "url": "https://www.bibliotheque-imperiale.com/index.php/Karak_Sadra"
+   }
+  ]
+ },
+ {
+  "id": "karak-raziac-contre-les-von-carstein",
+  "annee": 2121,
+  "fin": 2145,
+  "approx": false,
+  "titre": {
+   "fr": "Karak Raziac contre Konrad puis Mannfred",
+   "en": "Karak Raziac against Konrad and Mannfred",
+   "de": "Karak Raziac gegen Konrad und Mannfred"
+  },
+  "resume": {
+   "fr": "Bastion rattaché à Karak Kadrin, à l'est de la Sylvanie, Karak Raziac envoie ses troupes et réunit les Nains de plusieurs forteresses contre les armées de Konrad von Carstein en 2121 CI, puis de Mannfred en 2145 CI.",
+   "en": "A stronghold tied to Karak Kadrin, east of Sylvania, Karak Raziac sends its troops and rallies the Dwarfs of several holds against the armies of Konrad von Carstein in 2121 IC and of Mannfred in 2145 IC.",
+   "de": "Karak Raziac, ein Karak Kadrin zugehöriges Bollwerk östlich von Sylvania, entsendet Truppen und sammelt die Zwerge mehrerer Festungen gegen die Heere Konrad von Carsteins 2121 IC und Mannfreds 2145 IC."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "montagnes"
+  ],
+  "lieux": [],
+  "factions": [
+   "nains",
+   "vampires"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Bibliothèque Impériale, page Karak Raziac",
+     "en": "Bibliothèque Impériale, Karak Raziac page",
+     "de": "Bibliothèque Impériale, Seite Karak Raziac"
+    },
+    "detail": "",
+    "url": "https://www.bibliotheque-imperiale.com/index.php/Karak_Raziac"
+   }
+  ]
+ },
+ {
+  "id": "reconquete-de-khazid-vosk",
+  "annee": 2276,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Burlok Damminsson reprend Khazid Vosk",
+   "en": "Burlok Damminsson retakes Khazid Vosk",
+   "de": "Burlok Damminsson erobert Khazid Vosk zurück"
+  },
+  "resume": {
+   "fr": "L'ingénieur de Zhufbar chasse les Orques des niveaux supérieurs de cette ancienne forteresse de la Guilde des Ingénieurs, perdue au Temps du Malheur. Elle abriterait encore des plans de machines oubliés.",
+   "en": "The Zhufbar engineer drives the Orcs from the upper levels of this old Engineers Guild stronghold, lost in the Time of Woes. It is said to hold forgotten machine designs still.",
+   "de": "Der Ingenieur aus Zhufbar vertreibt die Orks aus den oberen Ebenen dieser alten Festung der Ingenieursgilde, die in der Zeit des Unheils verloren ging. Dort sollen noch vergessene Maschinenpläne lagern."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "montagnes"
+  ],
+  "lieux": [],
+  "factions": [
+   "nains",
+   "peaux-vertes"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer: The Old World, Arcane Journal: Dwarfen Mountains",
+     "en": "Warhammer: The Old World, Arcane Journal: Dwarfen Mountains",
+     "de": "Warhammer: The Old World, Arcane Journal: Dwarfen Mountains"
+    },
+    "detail": "",
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Bibliothèque Impériale, page Khazid Vosk",
+     "en": "Bibliothèque Impériale, Khazid Vosk page",
+     "de": "Bibliothèque Impériale, Seite Khazid Vosk"
+    },
+    "detail": "",
+    "url": "https://www.bibliotheque-imperiale.com/index.php/Khazid_Vosk"
+   }
+  ]
+ },
+ {
+  "id": "ungruvalk-acheve",
+  "annee": 2292,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Les Nains de Norsca achèvent l'Ungruvalk",
+   "en": "The Norse Dwarfs complete the Ungruvalk",
+   "de": "Die Norse-Zwerge vollenden den Ungruvalk"
+  },
+  "resume": {
+   "fr": "Conscients que leurs pierres runiques ne tiendront pas toujours, les Nains de Norsca relient le Draksfjord à la rivière Dypvann par une voie souterraine gardée aux deux bouts. Leurs drakkars gagnent ainsi la mer des Griffes sans contourner la Norsca.",
+   "en": "Aware that their rune stones will not hold forever, the Norse Dwarfs link Draksfjord to the River Dypvann by an underground route warded at both ends. Their longships can now reach the Sea of Claws without rounding Norsca.",
+   "de": "Im Wissen, dass ihre Runensteine nicht ewig halten, verbinden die Norse-Zwerge den Draksfjord durch einen an beiden Enden geschützten unterirdischen Weg mit dem Fluss Dypvann. Ihre Langschiffe erreichen so das Meer der Klauen, ohne Norsca zu umfahren."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "norsca"
+  ],
+  "lieux": [],
+  "factions": [
+   "nains"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Dwarfs: Stone and Steel, Warhammer Fantasy Roleplay, 1e édition",
+     "en": "Dwarfs: Stone and Steel, Warhammer Fantasy Roleplay, 1st edition",
+     "de": "Dwarfs: Stone and Steel, Warhammer Fantasy Roleplay, 1. Edition"
+    },
+    "detail": {
+     "fr": "p. 42",
+     "en": "p. 42",
+     "de": "S. 42"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Norse Dwarfs",
+     "en": "Warhammer Fantasy Wiki (fandom), Norse Dwarfs page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Norse Dwarfs"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Norse_Dwarfs"
+   }
+  ]
+ },
+ {
+  "id": "traque-des-vlagiens",
+  "annee": 2301,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "La Traque des Vlagiens",
+   "en": "The Hunt of the Vlagians",
+   "de": "Die Jagd auf die Vlagier"
+  },
+  "resume": {
+   "fr": "Anarbarziz, neveu du roi de Karak Vlag, trouve sa cité engloutie et conduit les survivants vers le sud. Le Gardien des Secrets Amin'Hrith les poursuit, aidé par d'autres démons. Les derniers exilés périssent au Canyon de la Mort.",
+   "en": "Anarbarziz, nephew of the king of Karak Vlag, finds his city swallowed and leads the survivors south. The Keeper of Secrets Amin'Hrith hunts them with other daemons. The last exiles die in the Canyon of Death.",
+   "de": "Anarbarziz, Neffe des Königs von Karak Vlag, findet seine Stadt verschlungen und führt die Überlebenden nach Süden. Der Hüter der Geheimnisse Amin'Hrith jagt sie mit weiteren Dämonen. Die letzten Verbannten sterben im Todescanyon."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "montagnes"
+  ],
+  "lieux": [
+   "karak-vlag"
+  ],
+  "factions": [
+   "nains",
+   "chaos"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Seule la date de départ, 2301 CI, est donnée.",
+   "en": "Only the departure date, 2301 IC, is given.",
+   "de": "Nur das Aufbruchsdatum 2301 IC ist überliefert."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "White Dwarf 343",
+     "en": "White Dwarf 343",
+     "de": "White Dwarf 343"
+    },
+    "detail": "",
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Bibliothèque Impériale, page La Traque des Vlagiens",
+     "en": "Bibliothèque Impériale, La Traque des Vlagiens page",
+     "de": "Bibliothèque Impériale, Seite La Traque des Vlagiens"
+    },
+    "detail": "",
+    "url": "https://www.bibliotheque-imperiale.com/index.php/La_Traque_des_Vlagiens"
+   }
+  ]
+ },
+ {
+  "id": "retrouvailles-de-grovod",
+  "annee": 2302,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Nains de Norsca et du Karaz Ankor se retrouvent à Grovod",
+   "en": "Norse Dwarfs and the Karaz Ankor meet at Grovod",
+   "de": "Norse-Zwerge und Karaz Ankor treffen sich bei Grovod"
+  },
+  "resume": {
+   "fr": "Passés par leur voie souterraine, les Nains de Norsca harcèlent le flanc des hordes du Chaos. À la bataille du bois de Grovod, ils saluent les Nains du Karaz Ankor pour la première fois depuis près de sept mille ans.",
+   "en": "Coming through their underground route, the Norse Dwarfs harry the flank of the Chaos hordes. At the Battle of Grovod Wood they greet the Dwarfs of the Karaz Ankor for the first time in nearly 7,000 years.",
+   "de": "Durch ihren unterirdischen Weg gelangt, bedrängen die Norse-Zwerge die Flanke der Chaoshorden. In der Schlacht am Grovodwald begrüßen sie erstmals seit fast 7000 Jahren die Zwerge des Karaz Ankor."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "kislev"
+  ],
+  "lieux": [],
+  "factions": [
+   "nains",
+   "chaos"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Dwarfs: Stone and Steel, Warhammer Fantasy Roleplay, 1e édition",
+     "en": "Dwarfs: Stone and Steel, Warhammer Fantasy Roleplay, 1st edition",
+     "de": "Dwarfs: Stone and Steel, Warhammer Fantasy Roleplay, 1. Edition"
+    },
+    "detail": {
+     "fr": "p. 42",
+     "en": "p. 42",
+     "de": "S. 42"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Norse Dwarfs",
+     "en": "Warhammer Fantasy Wiki (fandom), Norse Dwarfs page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Norse Dwarfs"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Norse_Dwarfs"
+   }
+  ]
+ },
+ {
+  "id": "zaladrin-rebatit-ubersreik",
+  "annee": 2302,
+  "fin": 2304,
+  "approx": true,
+  "titre": {
+   "fr": "Zaladrin envoie ses artisans à Ubersreik",
+   "en": "Zaladrin sends his craftsmen to Ubersreik",
+   "de": "Zaladrin schickt seine Handwerker nach Übersreik"
+  },
+  "resume": {
+   "fr": "Parti en Kislev combattre aux côtés de Magnus, le roi de Karak Azgaraz ne peut protéger Ubersreik, de nouveau ravagée par les Orques. En réparation, il envoie ses meilleurs artisans rebâtir les remparts.",
+   "en": "Away in Kislev fighting beside Magnus, the king of Karak Azgaraz cannot protect Ubersreik, once more ravaged by Orcs. In recompense he sends his finest craftsmen to rebuild its walls.",
+   "de": "Während er in Kislev an Magnus' Seite kämpft, kann der König von Karak Azgaraz das erneut von Orks verwüstete Übersreik nicht schützen. Zur Wiedergutmachung schickt er seine besten Handwerker, um die Mauern neu zu errichten."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "ubersreik"
+  ],
+  "factions": [
+   "nains",
+   "peaux-vertes",
+   "empire"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Book of Grudges, Warhammer Fantasy Roleplay, 3e édition",
+     "en": "Book of Grudges, Warhammer Fantasy Roleplay, 3rd edition",
+     "de": "Book of Grudges, Warhammer Fantasy Roleplay, 3. Edition"
+    },
+    "detail": {
+     "fr": "p. 17",
+     "en": "p. 17",
+     "de": "S. 17"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Karak Azgaraz",
+     "en": "Warhammer Fantasy Wiki (fandom), Karak Azgaraz page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Karak Azgaraz"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Karak_Azgaraz"
+   }
+  ]
+ },
+ {
+  "id": "thorgrim-reprend-le-col-du-chien-fou",
+  "annee": 2304,
+  "fin": null,
+  "approx": true,
+  "titre": {
+   "fr": "Thorgrim reprend le Col du Chien Fou",
+   "en": "Thorgrim retakes Mad Dog Pass",
+   "de": "Thorgrim erobert den Pass des Tollen Hundes zurück"
+  },
+  "resume": {
+   "fr": "Sitôt couronné, Thorgrim Garde-Rancune entreprend de récupérer les anciens territoires nains. Il reprend le Col du Chien Fou et le tient.",
+   "en": "Right after his crowning, Thorgrim Grudgebearer sets out to reclaim the old Dwarf territories. He retakes Mad Dog Pass and holds it.",
+   "de": "Gleich nach seiner Krönung beginnt Thorgrim Grollbart, die alten Zwergengebiete zurückzugewinnen. Er erobert den Pass des Tollen Hundes und hält ihn."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "montagnes"
+  ],
+  "lieux": [
+   "col-du-chien-fou"
+  ],
+  "factions": [
+   "nains"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Dwarfs, 8e édition",
+     "en": "Warhammer Armies: Dwarfs, 8th edition",
+     "de": "Warhammer Armies: Dwarfs, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 20-21",
+     "en": "p. 20-21",
+     "de": "S. 20-21"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page High King",
+     "en": "Warhammer Fantasy Wiki (fandom), High King page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite High King"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/High_King"
+   }
+  ]
+ },
+ {
+  "id": "zaladrin-a-la-forteresse-de-sang",
+  "annee": 2318,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Zaladrin assiège la Forteresse de Sang",
+   "en": "Zaladrin besieges Blood Keep",
+   "de": "Zaladrin belagert die Blutfeste"
+  },
+  "resume": {
+   "fr": "Inquiété par les morts-vivants, le roi de Karak Azgaraz met le siège devant la Forteresse de Sang en ruine et y tue un Chevalier de Sang, ce qui disperse sa horde.",
+   "en": "Troubled by the undead, the king of Karak Azgaraz lays siege to ruined Blood Keep and slays a Blood Knight there, laying his horde to rest.",
+   "de": "Von Untoten bedrängt, belagert der König von Karak Azgaraz die verfallene Blutfeste und erschlägt dort einen Blutritter, womit dessen Horde zur Ruhe kommt."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "forteresse-de-sang"
+  ],
+  "factions": [
+   "nains",
+   "vampires"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Book of Grudges, Warhammer Fantasy Roleplay, 3e édition",
+     "en": "Book of Grudges, Warhammer Fantasy Roleplay, 3rd edition",
+     "de": "Book of Grudges, Warhammer Fantasy Roleplay, 3. Edition"
+    },
+    "detail": {
+     "fr": "p. 17",
+     "en": "p. 17",
+     "de": "S. 17"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Karak Azgaraz",
+     "en": "Warhammer Fantasy Wiki (fandom), Karak Azgaraz page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Karak Azgaraz"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Karak_Azgaraz"
+   }
+  ]
+ },
+ {
+  "id": "arkat-fooger-au-directoire",
+  "annee": 2428,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Arkat Fooger entre au Directoire de Marienburg",
+   "en": "Arkat Fooger joins the Directorate of Marienburg",
+   "de": "Arkat Fooger zieht ins Direktorium von Marienburg ein"
+  },
+  "resume": {
+   "fr": "Chef du clan nain Fooger et financier redouté, Arkat a tant accru la fortune de sa maison qu'elle ne peut plus être ignorée. Il accède à un siège de directeur.",
+   "en": "Head of the Dwarf clan Fooger and a formidable financier, Arkat has so increased his house's fortune that it can no longer be ignored. He rises to a seat on the Directorate.",
+   "de": "Arkat, Oberhaupt des Zwergenclans Fooger und gewiefter Finanzier, hat das Vermögen seines Hauses so gemehrt, dass es nicht mehr zu übergehen ist. Er erhält einen Sitz im Direktorium."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "marienburg"
+  ],
+  "factions": [
+   "nains",
+   "empire"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Arkat Fooger",
+     "en": "Warhammer Fantasy Wiki (fandom), Arkat Fooger page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Arkat Fooger"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Arkat_Fooger"
+   }
+  ]
+ },
+ {
+  "id": "mariage-de-brokk-et-thurma",
+  "annee": 2441,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Brokk Picdefer épouse Thurma",
+   "en": "Brokk Ironpick marries Thurma",
+   "de": "Brokk Eisenpickel heiratet Thurma"
+  },
+  "resume": {
+   "fr": "Le roi de Karak Norn épouse Thurma, du clan Grintzagaz, lointaine parente d'Ullek Barbe-Rouge. Il tient depuis ses avis en haute estime.",
+   "en": "The king of Karak Norn marries Thurma of the Grintzagaz clan, distantly related to Ullek Redbeard. He comes to value her counsel ever more.",
+   "de": "Der König von Karak Norn heiratet Thurma vom Clan Grintzagaz, entfernt verwandt mit Ullek Rotbart. Ihr Rat wird ihm immer wertvoller."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "montagnes"
+  ],
+  "lieux": [
+   "karak-norn"
+  ],
+  "factions": [
+   "nains"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Lords of Stone and Steel, Warhammer Fantasy Roleplay, 4e édition",
+     "en": "Lords of Stone and Steel, Warhammer Fantasy Roleplay, 4th edition",
+     "de": "Lords of Stone and Steel, Warhammer Fantasy Roleplay, 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 33",
+     "en": "p. 33",
+     "de": "S. 33"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Brokk Ironpick",
+     "en": "Warhammer Fantasy Wiki (fandom), Brokk Ironpick page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Brokk Ironpick"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Brokk_Ironpick"
+   }
+  ]
+ },
+ {
+  "id": "haarkon-et-inga-a-kraka-ravnsvake",
+  "annee": 2442,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Haarkon et Inga montent sur le trône de Kraka Ravnsvake",
+   "en": "Haarkon and Inga take the throne of Kraka Ravnsvake",
+   "de": "Haarkon und Inga besteigen den Thron von Kraka Ravnsvake"
+  },
+  "resume": {
+   "fr": "Le roi Haarkon Vikramson et la reine Inga Ottarsdottir, du clan Ziflinskaud, prennent le pouvoir dans ce qui est devenu la principale forteresse des Nains de Norsca. Comme les autres, ils ne se tiennent pas pour vassaux du Haut Roi.",
+   "en": "King Haarkon Vikramson and Queen Inga Ottarsdottir of the Ziflinskaud clan take power in what has become the leading Norse Dwarf hold. Like the others, they do not consider themselves subject to the High King.",
+   "de": "König Haarkon Vikramson und Königin Inga Ottarsdottir vom Clan Ziflinskaud übernehmen die Herrschaft über die inzwischen wichtigste Festung der Norse-Zwerge. Wie die anderen sehen sie sich nicht als Untertanen des Hochkönigs."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "norsca"
+  ],
+  "lieux": [],
+  "factions": [
+   "nains"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Sea of Claws, Warhammer Fantasy Roleplay, 4e édition",
+     "en": "Sea of Claws, Warhammer Fantasy Roleplay, 4th edition",
+     "de": "Sea of Claws, Warhammer Fantasy Roleplay, 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 42-44",
+     "en": "p. 42-44",
+     "de": "S. 42-44"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Kraka Ravnsvake",
+     "en": "Warhammer Fantasy Wiki (fandom), Kraka Ravnsvake page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Kraka Ravnsvake"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Kraka_Ravnsvake"
+   }
+  ]
+ },
+ {
+  "id": "tournee-du-choeur-de-zhufbar",
+  "annee": 2500,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "La tournée du chœur des mineurs de Zhufbar",
+   "en": "The Zhufbar Miners' choir tour",
+   "de": "Die Tournee des Bergmannschors von Zhufbar"
+  },
+  "resume": {
+   "fr": "Pour marquer 2500 ans de coopération entre Hommes et Nains, le célèbre chœur des mineurs de Zhufbar entame une tournée en Reikland, restée tristement fameuse et bien vite oubliée.",
+   "en": "To mark 2,500 years of cooperation between Men and Dwarfs, the renowned Zhufbar Miners' Close Harmony Choir begins an infamous and wisely forgotten tour of the Reikland.",
+   "de": "Zum Gedenken an 2500 Jahre Zusammenarbeit von Menschen und Zwergen beginnt der berühmte Bergmannschor von Zhufbar eine berüchtigte, klugerweise vergessene Tournee durch das Reikland."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [],
+  "factions": [
+   "nains",
+   "empire"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Altdorf: Crown of the Empire, Warhammer Fantasy Roleplay, 4e édition",
+     "en": "Altdorf: Crown of the Empire, Warhammer Fantasy Roleplay, 4th edition",
+     "de": "Altdorf: Crown of the Empire, Warhammer Fantasy Roleplay, 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 16",
+     "en": "p. 16",
+     "de": "S. 16"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Borin Bullroarer",
+     "en": "Warhammer Fantasy Wiki (fandom), Borin Bullroarer page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Borin Bullroarer"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Borin_Bullroarer"
+   }
+  ]
+ }
+]

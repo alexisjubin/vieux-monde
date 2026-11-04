@@ -1,0 +1,3159 @@
+[
+ {
+  "id": "settra-mis-au-tombeau",
+  "annee": -2350,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Settra est mis au tombeau",
+   "en": "Settra is entombed",
+   "de": "Settra wird bestattet"
+  },
+  "resume": {
+   "fr": "Le corps de Settra est déposé dans sa Grande Pyramide, à Khemri. Il doit y attendre le début de son Règne d'un million d'années.",
+   "en": "Settra's body is laid to rest in his Great Pyramid at Khemri. There it is to await the start of his Reign of a Million Years.",
+   "de": "Settras Leichnam wird in seiner Großen Pyramide in Khemri beigesetzt. Dort soll er den Beginn seiner Herrschaft der Millionen Jahre abwarten."
+  },
+  "ere": "age-d-or",
+  "regions": [
+   "sud"
+  ],
+  "lieux": [
+   "khemri"
+  ],
+  "factions": [
+   "rois-des-tombes"
+  ],
+  "importance": 2,
+  "fiabilite": "divergent",
+  "note": {
+   "fr": "La page Khemri donne -2350 d'après Tomb Kings 8e édition, alors que la page Settra borne sa vie mortelle à -2500 et -2460. La date retenue s'accorde avec les 150 ans de règne que lui prête le wiki.",
+   "en": "The Khemri page gives -2350 from Tomb Kings 8th edition, whereas the Settra page ends his mortal life in -2460. The date kept fits the 150-year reign the wiki gives him.",
+   "de": "Die Seite Khemri nennt -2350 nach Tomb Kings 8. Edition, die Seite Settra begrenzt sein sterbliches Leben dagegen auf -2500 bis -2460. Das gewählte Datum passt zu den 150 Regierungsjahren, die das Wiki ihm zuschreibt."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Tomb Kings, 8e édition",
+     "en": "Warhammer Armies: Tomb Kings, 8th edition",
+     "de": "Warhammer Armies: Tomb Kings, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 20",
+     "en": "p. 20",
+     "de": "S. 20"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Khemri",
+     "en": "Warhammer Fantasy Wiki (fandom), Khemri page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Khemri"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Khemri"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Settra",
+     "en": "Warhammer Fantasy Wiki (fandom), Settra page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Settra"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Settra"
+   }
+  ]
+ },
+ {
+  "id": "nekumet-defie-khemri",
+  "annee": -1967,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Nekumet de Zandri défie Khemri",
+   "en": "Nekumet of Zandri challenges Khemri",
+   "de": "Nekumet von Zandri fordert Khemri heraus"
+  },
+  "resume": {
+   "fr": "Le roi-prêtre Nekumet de Zandri entre en guerre contre Khemri à la faveur d'un différend commercial. Il veut faire de sa cité la première puissance de Nehekhara.",
+   "en": "Priest-King Nekumet of Zandri goes to war with Khemri over a trade dispute. He means to make his city the foremost power in Nehekhara.",
+   "de": "Priesterkönig Nekumet von Zandri beginnt wegen eines Handelsstreits Krieg gegen Khemri. Er will seine Stadt zur ersten Macht Nehekharas machen."
+  },
+  "ere": "age-d-or",
+  "regions": [
+   "sud"
+  ],
+  "lieux": [
+   "zandri",
+   "khemri"
+  ],
+  "factions": [
+   "rois-des-tombes"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Nagash the Sorcerer, roman de Mike Lee",
+     "en": "Nagash the Sorcerer, novel by Mike Lee",
+     "de": "Nagash the Sorcerer, Roman von Mike Lee"
+    },
+    "detail": {
+     "fr": "chap. 2",
+     "en": "ch. 2",
+     "de": "Kap. 2"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Zandri",
+     "en": "Warhammer Fantasy Wiki (fandom), Zandri page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Zandri"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Zandri"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Nekumet",
+     "en": "Warhammer Fantasy Wiki (fandom), Nekumet page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Nekumet"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Nekumet"
+   }
+  ]
+ },
+ {
+  "id": "arkhan-chatie-bhagar",
+  "annee": -1750,
+  "fin": null,
+  "approx": true,
+  "titre": {
+   "fr": "Arkhan châtie Bhagar",
+   "en": "Arkhan punishes Bhagar",
+   "de": "Arkhan bestraft Bhagar"
+  },
+  "resume": {
+   "fr": "Bhagar envoie ses archers à cheval au secours de Ka-Sabar, puis harcèle l'armée de Khemri dans sa retraite et brûle ses morts-vivants. Arkhan le Noir marche sur la cité et bat ses cavaliers, tandis que le hiérophante Ahmet ben Izzedein tombe au combat. Le prince Shahid ben Alcazzar se rend pour sauver son peuple, mais Arkhan le sacrifie avec les chefs de la cité et leurs familles.",
+   "en": "Bhagar sends its horse archers to aid Ka-Sabar, then harries Khemri's army and burns its undead. Arkhan the Black marches on the city and beats its cavalry, while the hierophant Ahmet ben Izzedein falls in battle. Prince Shahid ben Alcazzar surrenders to save his people, but Arkhan sacrifices him along with the city's chieftains and their families.",
+   "de": "Bhagar schickt seine berittenen Bogenschützen Ka-Sabar zu Hilfe und bedrängt dann Khemris Heer, dessen Untote es verbrennt. Arkhan der Schwarze zieht gegen die Stadt und schlägt ihre Reiter, während der Hierophant Ahmet ben Izzedein im Kampf fällt. Prinz Shahid ben Alcazzar ergibt sich, um sein Volk zu retten, doch Arkhan opfert ihn samt den Stammesführern und ihren Familien."
+  },
+  "ere": "age-d-or",
+  "regions": [
+   "sud"
+  ],
+  "lieux": [
+   "bhagar"
+  ],
+  "factions": [
+   "rois-des-tombes"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "The Rise of Nagash, recueil de romans de Mike Lee",
+     "en": "The Rise of Nagash, novel omnibus by Mike Lee",
+     "de": "The Rise of Nagash, Romansammlung von Mike Lee"
+    },
+    "detail": {
+     "fr": "Nagash the Sorcerer, chap. 7, 8 et 10",
+     "en": "Nagash the Sorcerer, ch. 7, 8 and 10",
+     "de": "Nagash the Sorcerer, Kap. 7, 8 und 10"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Bhagar",
+     "en": "Warhammer Fantasy Wiki (fandom), Bhagar page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Bhagar"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Bhagar"
+   }
+  ]
+ },
+ {
+  "id": "bataille-de-l-oasis-de-zedri",
+  "annee": -1750,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Bataille de l'oasis de Zedri",
+   "en": "Battle of the Oasis of Zedri",
+   "de": "Schlacht an der Oase von Zedri"
+  },
+  "resume": {
+   "fr": "Akhmen-hotep de Ka-Sabar, dressé contre la tyrannie de Nagash, subit une lourde défaite à l'oasis de Zedri. Nagash répand ensuite une peste sur les terres de ses ennemis. Il faut six ans au roi pour reconstituer son armée.",
+   "en": "Akhmen-hotep of Ka-Sabar, risen against Nagash's tyranny, suffers a heavy defeat at the Oasis of Zedri. Nagash then spreads a plague across his enemies' lands. The king needs six years to rebuild his army.",
+   "de": "Akhmen-hotep von Ka-Sabar, der sich gegen Nagashs Tyrannei erhoben hat, erleidet an der Oase von Zedri eine schwere Niederlage. Nagash überzieht danach die Länder seiner Feinde mit einer Seuche. Der König braucht sechs Jahre, um sein Heer neu aufzustellen."
+  },
+  "ere": "age-d-or",
+  "regions": [
+   "sud"
+  ],
+  "lieux": [],
+  "factions": [
+   "rois-des-tombes"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Nagash the Sorcerer, roman de Mike Lee",
+     "en": "Nagash the Sorcerer, novel by Mike Lee",
+     "de": "Nagash the Sorcerer, Roman von Mike Lee"
+    },
+    "detail": {
+     "fr": "chap. 13 et 14",
+     "en": "ch. 13 and 14",
+     "de": "Kap. 13 und 14"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Ka-Sabar",
+     "en": "Warhammer Fantasy Wiki (fandom), Ka-Sabar page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Ka-Sabar"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Ka-Sabar"
+   }
+  ]
+ },
+ {
+  "id": "suhedir-devore-par-ses-filles",
+  "annee": -1744,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Mort de Suhedir al-Khazem",
+   "en": "Death of Suhedir al-Khazem",
+   "de": "Tod des Suhedir al-Khazem"
+  },
+  "resume": {
+   "fr": "Le prince Suhedir al-Khazem de Bel-Aliad meurt dévoré vif par ses trois filles. Les derniers habitants de la cité sont massacrés par les morts-vivants d'Arkhan.",
+   "en": "Prince Suhedir al-Khazem of Bel-Aliad is eaten alive by his three daughters. The city's last inhabitants are massacred by Arkhan's undead.",
+   "de": "Prinz Suhedir al-Khazem von Bel-Aliad wird von seinen drei Töchtern bei lebendigem Leib verzehrt. Die letzten Einwohner der Stadt werden von Arkhans Untoten niedergemacht."
+  },
+  "ere": "age-d-or",
+  "regions": [
+   "sud"
+  ],
+  "lieux": [
+   "bel-aliad"
+  ],
+  "factions": [
+   "humains-autres",
+   "rois-des-tombes"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Nagash the Sorcerer, roman de Mike Lee",
+     "en": "Nagash the Sorcerer, novel by Mike Lee",
+     "de": "Nagash the Sorcerer, Roman von Mike Lee"
+    },
+    "detail": {
+     "fr": "chap. 17",
+     "en": "ch. 17",
+     "de": "Kap. 17"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Bel-Aliad",
+     "en": "Warhammer Fantasy Wiki (fandom), Bel-Aliad page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Bel-Aliad"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Bel-Aliad"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Suhedir al-Khazem",
+     "en": "Warhammer Fantasy Wiki (fandom), Suhedir al-Khazem page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Suhedir al-Khazem"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Suhedir_al-Khazem"
+   }
+  ]
+ },
+ {
+  "id": "mort-de-lamasheptra",
+  "annee": -1741,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Mort de Lamasheptra de Lahmia",
+   "en": "Death of Lamasheptra of Lahmia",
+   "de": "Tod Lamasheptras von Lahmia"
+  },
+  "resume": {
+   "fr": "Le roi-prêtre Lamasheptra de Lahmia, chef d'une coalition de cités contre Nagash, est tué par l'Usurpateur. Son fils Lamashizzar lui succède et prend le commandement des armées alliées.",
+   "en": "Priest-King Lamasheptra of Lahmia, leader of a coalition of cities against Nagash, is killed by the Usurper. His son Lamashizzar succeeds him and takes command of the allied armies.",
+   "de": "Priesterkönig Lamasheptra von Lahmia, Anführer eines Städtebundes gegen Nagash, wird vom Usurpator getötet. Sein Sohn Lamashizzar folgt ihm nach und übernimmt den Befehl über die verbündeten Heere."
+  },
+  "ere": "age-d-or",
+  "regions": [
+   "sud"
+  ],
+  "lieux": [
+   "lahmia"
+  ],
+  "factions": [
+   "rois-des-tombes"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Date du calendrier nehekharéen convertie par le wiki. La page nomme cette année tantôt 63e année de Khsar, tantôt 63e année d'Asaph, avec la même conversion en -1741.",
+   "en": "Nehekharan calendar date converted by the wiki. The page calls this year both the 63rd year of Khsar and the 63rd year of Asaph, with the same conversion to -1741.",
+   "de": "Datum des nehekharischen Kalenders, vom Wiki umgerechnet. Die Seite nennt dieses Jahr teils das 63. Jahr des Khsar, teils das 63. Jahr der Asaph, jeweils umgerechnet auf -1741."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Nagash the Unbroken, roman de Mike Lee",
+     "en": "Nagash the Unbroken, novel by Mike Lee",
+     "de": "Nagash the Unbroken, Roman von Mike Lee"
+    },
+    "detail": "",
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Lahmia",
+     "en": "Warhammer Fantasy Wiki (fandom), Lahmia page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Lahmia"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Lahmia"
+   }
+  ]
+ },
+ {
+  "id": "naissance-de-khalida",
+  "annee": -1665,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Naissance de Khalida",
+   "en": "Birth of Khalida",
+   "de": "Geburt Khalidas"
+  },
+  "resume": {
+   "fr": "Khalida naît de Wakhashem et de Semunet, tante de la future Neferata. Orpheline jeune, elle gagne Lahmia, s'y lie à sa cousine et se passionne pour l'archerie, les chevaux et l'épée.",
+   "en": "Khalida is born to Wakhashem and Semunet, aunt of the future Neferata. Orphaned young, she moves to Lahmia, grows close to her cousin and takes up archery, horses and swordplay.",
+   "de": "Khalida wird als Kind Wakhashems und Semunets geboren, einer Tante der späteren Neferata. Früh verwaist kommt sie nach Lahmia, freundet sich mit ihrer Cousine an und widmet sich Bogenschießen, Pferden und Schwertkampf."
+  },
+  "ere": "age-d-or",
+  "regions": [
+   "sud"
+  ],
+  "lieux": [
+   "lahmia"
+  ],
+  "factions": [
+   "rois-des-tombes"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Nagash the Unbroken, roman de Mike Lee",
+     "en": "Nagash the Unbroken, novel by Mike Lee",
+     "de": "Nagash the Unbroken, Roman von Mike Lee"
+    },
+    "detail": {
+     "fr": "chap. 1",
+     "en": "ch. 1",
+     "de": "Kap. 1"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Khalida Neferher",
+     "en": "Warhammer Fantasy Wiki (fandom), Khalida Neferher page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Khalida Neferher"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Khalida_Neferher"
+   }
+  ]
+ },
+ {
+  "id": "neferata-soumet-la-cabale",
+  "annee": -1599,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Neferata s'empare de la cabale de Lahmia",
+   "en": "Neferata seizes the Lahmian cabal",
+   "de": "Neferata übernimmt die Kabale von Lahmia"
+  },
+  "resume": {
+   "fr": "Neferata distille une variante de l'Élixir de vie avec le sang de sa servante de confiance. Lamashizzar la surprend et veut la faire arrêter, mais ses conjurés, W'soran compris, se rallient à elle. Elle rend ensuite sa liberté à Arkhan pour le remercier de son aide.",
+   "en": "Neferata brews a version of the Elixir of Life with the blood of her trusted handmaid. Lamashizzar catches her and wants her seized, but his fellow conspirators, W'soran among them, side with her. She then sets Arkhan free in return for his help.",
+   "de": "Neferata braut mit dem Blut ihrer vertrauten Dienerin eine Abwandlung des Lebenselixiers. Lamashizzar ertappt sie und will sie festnehmen lassen, doch seine Mitverschworenen, darunter W'soran, schlagen sich auf ihre Seite. Zum Dank für seine Hilfe lässt sie Arkhan frei."
+  },
+  "ere": "age-d-or",
+  "regions": [
+   "sud"
+  ],
+  "lieux": [
+   "lahmia"
+  ],
+  "factions": [
+   "vampires",
+   "rois-des-tombes"
+  ],
+  "importance": 2,
+  "fiabilite": "divergent",
+  "note": {
+   "fr": "Le roman place cette scène en -1599, alors que Tomb Kings 8e édition date les premiers vampires de -1520.",
+   "en": "The novel sets this scene in -1599, whereas Tomb Kings 8th edition dates the first vampires to -1520.",
+   "de": "Der Roman setzt diese Szene auf -1599, während Tomb Kings 8. Edition die ersten Vampire auf -1520 datiert."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Nagash the Unbroken, roman de Mike Lee",
+     "en": "Nagash the Unbroken, novel by Mike Lee",
+     "de": "Nagash the Unbroken, Roman von Mike Lee"
+    },
+    "detail": {
+     "fr": "chap. 7",
+     "en": "ch. 7",
+     "de": "Kap. 7"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Neferata",
+     "en": "Warhammer Fantasy Wiki (fandom), Neferata page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Neferata"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Neferata"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page W'soran",
+     "en": "Warhammer Fantasy Wiki (fandom), W'soran page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite W'soran"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/W'soran"
+   }
+  ]
+ },
+ {
+  "id": "lamashizzar-tue-par-arkhan",
+  "annee": -1598,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Arkhan tue Lamashizzar",
+   "en": "Arkhan slays Lamashizzar",
+   "de": "Arkhan tötet Lamashizzar"
+  },
+  "resume": {
+   "fr": "Le roi-prêtre Lamashizzar de Lahmia meurt en combat singulier contre Arkhan le Noir.",
+   "en": "Priest-King Lamashizzar of Lahmia dies in single combat against Arkhan the Black.",
+   "de": "Priesterkönig Lamashizzar von Lahmia fällt im Zweikampf gegen Arkhan den Schwarzen."
+  },
+  "ere": "age-d-or",
+  "regions": [
+   "sud"
+  ],
+  "lieux": [
+   "lahmia"
+  ],
+  "factions": [
+   "rois-des-tombes",
+   "vampires"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Date du calendrier nehekharéen, 75e année de Djaf, convertie par le wiki.",
+   "en": "Nehekharan calendar date, the 75th year of Djaf, converted by the wiki.",
+   "de": "Datum des nehekharischen Kalenders, 75. Jahr des Djaf, vom Wiki umgerechnet."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Nagash the Unbroken, roman de Mike Lee",
+     "en": "Nagash the Unbroken, novel by Mike Lee",
+     "de": "Nagash the Unbroken, Roman von Mike Lee"
+    },
+    "detail": "",
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Nagash Immortal, roman de Mike Lee",
+     "en": "Nagash Immortal, novel by Mike Lee",
+     "de": "Nagash Immortal, Roman von Mike Lee"
+    },
+    "detail": "",
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Lahmia",
+     "en": "Warhammer Fantasy Wiki (fandom), Lahmia page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Lahmia"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Lahmia"
+   }
+  ]
+ },
+ {
+  "id": "neferata-sur-le-trone-de-lahmia",
+  "annee": -1597,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Neferata revendique le trône de Lahmia",
+   "en": "Neferata claims the throne of Lahmia",
+   "de": "Neferata beansprucht den Thron von Lahmia"
+  },
+  "resume": {
+   "fr": "Neferata se proclame souveraine de Lahmia. Le roi Teremun de Ka-Sabar vient la saluer avec des présents, mais sa délégation et celle de Zandri sont harcelées par des bandits en chemin.",
+   "en": "Neferata claims the throne of Lahmia. King Teremun of Ka-Sabar travels to greet her with gifts, but his delegation and that of Zandri are plagued by bandits on the way.",
+   "de": "Neferata beansprucht den Thron von Lahmia. König Teremun von Ka-Sabar reist mit Geschenken an, doch seine Gesandtschaft und die aus Zandri werden unterwegs von Banditen geplagt."
+  },
+  "ere": "age-d-or",
+  "regions": [
+   "sud"
+  ],
+  "lieux": [
+   "lahmia",
+   "ka-sabar",
+   "zandri"
+  ],
+  "factions": [
+   "vampires",
+   "rois-des-tombes"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "The Rise of Nagash, recueil de romans de Mike Lee",
+     "en": "The Rise of Nagash, novel omnibus by Mike Lee",
+     "de": "The Rise of Nagash, Romansammlung von Mike Lee"
+    },
+    "detail": {
+     "fr": "Nagash the Unbroken, chap. 15",
+     "en": "Nagash the Unbroken, ch. 15",
+     "de": "Nagash the Unbroken, Kap. 15"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Ka-Sabar",
+     "en": "Warhammer Fantasy Wiki (fandom), Ka-Sabar page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Ka-Sabar"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Ka-Sabar"
+   }
+  ]
+ },
+ {
+  "id": "neferata-tue-khalida",
+  "annee": -1520,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Neferata tue Khalida",
+   "en": "Neferata slays Khalida",
+   "de": "Neferata tötet Khalida"
+  },
+  "resume": {
+   "fr": "Lors d'un grand banquet à Lahmia, Neferata accuse faussement sa cousine Khalida, reine de Lybaras, de trahison et de tentative d'assassinat. Khalida refuse de désigner un champion et relève elle-même le défi. Elle périt dans ce combat rituel.",
+   "en": "At a great feast in Lahmia, Neferata falsely accuses her cousin Khalida, Queen of Lybaras, of treason and attempted assassination. Khalida refuses to name a champion and takes up the challenge herself. She dies in the ritual combat.",
+   "de": "Bei einem großen Festmahl in Lahmia beschuldigt Neferata ihre Cousine Khalida, die Königin von Lybaras, fälschlich des Verrats und eines Mordversuchs. Khalida verzichtet auf einen Streiter und nimmt die Forderung selbst an. Sie stirbt in diesem rituellen Kampf."
+  },
+  "ere": "age-d-or",
+  "regions": [
+   "sud"
+  ],
+  "lieux": [
+   "lahmia",
+   "lybaras"
+  ],
+  "factions": [
+   "vampires",
+   "rois-des-tombes"
+  ],
+  "importance": 2,
+  "fiabilite": "divergent",
+  "note": {
+   "fr": "Tomb Kings 6e édition donne -1520, mais le roman Nagash the Unbroken place ce premier duel en -1597.",
+   "en": "Tomb Kings 6th edition gives -1520, but the novel Nagash the Unbroken sets this first duel in -1597.",
+   "de": "Tomb Kings 6. Edition nennt -1520, der Roman Nagash the Unbroken setzt dieses erste Duell jedoch auf -1597."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Tomb Kings, 6e édition",
+     "en": "Warhammer Armies: Tomb Kings, 6th edition",
+     "de": "Warhammer Armies: Tomb Kings, 6. Edition"
+    },
+    "detail": {
+     "fr": "p. 68",
+     "en": "p. 68",
+     "de": "S. 68"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Khalida Neferher",
+     "en": "Warhammer Fantasy Wiki (fandom), Khalida Neferher page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Khalida Neferher"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Khalida_Neferher"
+   }
+  ]
+ },
+ {
+  "id": "crane-de-thutep",
+  "annee": -1300,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Le crâne de Thutep",
+   "en": "The skull of Thutep",
+   "de": "Der Schädel Thuteps"
+  },
+  "resume": {
+   "fr": "Ushoran procure à W'soran le crâne du roi Thutep. Le rituel censé ressusciter Nagash échoue malgré tout.",
+   "en": "Ushoran secures the skull of King Thutep for W'soran. Even so, the ritual meant to resurrect Nagash fails.",
+   "de": "Ushoran beschafft W'soran den Schädel König Thuteps. Dennoch scheitert das Ritual, das Nagash wiedererwecken soll."
+  },
+  "ere": "age-des-tribus",
+  "regions": [
+   "sud"
+  ],
+  "lieux": [
+   "lahmia"
+  ],
+  "factions": [
+   "vampires"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Nagash Immortal, roman de Mike Lee",
+     "en": "Nagash Immortal, novel by Mike Lee",
+     "de": "Nagash Immortal, Roman von Mike Lee"
+    },
+    "detail": {
+     "fr": "chap. 5",
+     "en": "chapp. 5",
+     "de": "chaS. 5"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page W'soran",
+     "en": "Warhammer Fantasy Wiki (fandom), W'soran page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite W'soran"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/W'soran"
+   }
+  ]
+ },
+ {
+  "id": "comete-et-capture-de-zurhas",
+  "annee": -1200,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "La comète à deux queues et la capture de Zurhas",
+   "en": "The Twin-Tailed Comet and the capture of Zurhas",
+   "de": "Der Zwillingsschweifkomet und die Gefangennahme Zurhas'"
+  },
+  "resume": {
+   "fr": "La comète à deux queues paraît au-dessus de Lahmia. Las de l'obsession de Neferata pour le prince Alcadizaar, ses complices dépêchent Zurhas auprès de Nagash, mais Alcadizaar le capture et tient ainsi la preuve de leur trahison. Tandis que les cités de Nehekhara s'unissent, Neferata doit libérer W'soran et recourir à la nécromancie.",
+   "en": "The Twin-Tailed Comet appears over Lahmia. Tired of Neferata's obsession with Prince Alcadizaar, her co-conspirators send Zurhas to Nagash, but Alcadizaar captures him and so gains proof of their treason. As the cities of Nehekhara unite, Neferata must free W'soran and turn to necromancy.",
+   "de": "Der Zwillingsschweifkomet erscheint über Lahmia. Neferatas Mitverschworene, ihrer Besessenheit von Prinz Alcadizaar überdrüssig, schicken Zurhas zu Nagash, doch Alcadizaar nimmt ihn gefangen und hält damit den Beweis ihres Verrats in Händen. Während sich die Städte Nehekharas verbünden, muss Neferata W'soran freilassen und zur Nekromantie greifen."
+  },
+  "ere": "age-des-tribus",
+  "regions": [
+   "sud"
+  ],
+  "lieux": [
+   "lahmia"
+  ],
+  "factions": [
+   "vampires",
+   "rois-des-tombes"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Nagash Immortal, roman de Mike Lee",
+     "en": "Nagash Immortal, novel by Mike Lee",
+     "de": "Nagash Immortal, Roman von Mike Lee"
+    },
+    "detail": {
+     "fr": "chap. 18 et 20",
+     "en": "ch. 18 and 20",
+     "de": "Kap. 18 und 20"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Neferata",
+     "en": "Warhammer Fantasy Wiki (fandom), Neferata page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Neferata"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Neferata"
+   }
+  ]
+ },
+ {
+  "id": "setep-soumet-les-tribus-du-sud",
+  "annee": -1200,
+  "fin": null,
+  "approx": true,
+  "titre": {
+   "fr": "Setep soumet les tribus des Terres arides",
+   "en": "Setep subdues the tribes of the Badlands",
+   "de": "Setep unterwirft die Stämme der Ödlande"
+  },
+  "resume": {
+   "fr": "Le roi Setep de Khemri conquiert les tribus humaines du sud des Terres arides, qui deviennent sujettes des rois-prêtres de Nehekhara.",
+   "en": "King Setep of Khemri conquers the human tribes of the southern Badlands, who become subjects of the priest-kings of Nehekhara.",
+   "de": "König Setep von Khemri erobert die Menschenstämme der südlichen Ödlande, die zu Untertanen der Priesterkönige von Nehekhara werden."
+  },
+  "ere": "age-des-tribus",
+  "regions": [
+   "terres-arides"
+  ],
+  "lieux": [],
+  "factions": [
+   "rois-des-tombes",
+   "humains-autres"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "La source situe cette conquête environ 1200 ans avant la naissance de Sigmar.",
+   "en": "The source places this conquest some 1,200 years before the birth of Sigmar.",
+   "de": "Die Quelle datiert diese Eroberung auf etwa 1200 Jahre vor Sigmars Geburt."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer: Blood in the Badlands, 8e édition",
+     "en": "Warhammer: Blood in the Badlands, 8th edition",
+     "de": "Warhammer: Blood in the Badlands, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 6",
+     "en": "p. 6",
+     "de": "S. 6"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Strygos",
+     "en": "Warhammer Fantasy Wiki (fandom), Strygos page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Strygos"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Strygos"
+   }
+  ]
+ },
+ {
+  "id": "ushoran-capture-a-nagashizzar",
+  "annee": -1168,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Ushoran capturé à Nagashizzar",
+   "en": "Ushoran captured at Nagashizzar",
+   "de": "Ushoran in Nagashizzar gefangen"
+  },
+  "resume": {
+   "fr": "W'soran persuade Nagash que les autres vampires de Lahmia feraient de puissants serviteurs. Ushoran, découvert dans les mines de Nagashizzar, est mis au pas.",
+   "en": "W'soran convinces Nagash that the other vampires of Lahmia could make powerful servants. Ushoran, found hiding in the mines of Nagashizzar, is brought to heel.",
+   "de": "W'soran überzeugt Nagash, dass die übrigen Vampire Lahmias mächtige Diener abgeben könnten. Ushoran, in den Minen von Nagashizzar aufgespürt, wird unterworfen."
+  },
+  "ere": "age-des-tribus",
+  "regions": [
+   "terres-arides"
+  ],
+  "lieux": [
+   "nagashizzar"
+  ],
+  "factions": [
+   "vampires"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Master of Death, roman de Josh Reynolds",
+     "en": "Master of Death, novel by Josh Reynolds",
+     "de": "Master of Death, Roman von Josh Reynolds"
+    },
+    "detail": "",
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page W'soran",
+     "en": "Warhammer Fantasy Wiki (fandom), W'soran page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite W'soran"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/W'soran"
+   }
+  ]
+ },
+ {
+  "id": "w-soran-retrouve-ankhat",
+  "annee": -1166,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "W'soran retrouve Ankhat",
+   "en": "W'soran finds Ankhat",
+   "de": "W'soran findet Ankhat"
+  },
+  "resume": {
+   "fr": "Après l'avoir traqué à travers le Grand Cathay et l'Inde, W'soran rejoint Ankhat sur la Mer des Griffes. Ankhat refuse de servir Nagash, mais W'soran l'épargne en échange des cachettes d'Abhorash et de Neferata.",
+   "en": "After hunting him across Grand Cathay and Ind, W'soran finds Ankhat sailing the Sea of Claws. Ankhat refuses to serve Nagash, but W'soran spares him in exchange for the whereabouts of Abhorash and Neferata.",
+   "de": "Nachdem er ihn durch Groß-Cathay und Ind gejagt hat, stellt W'soran Ankhat auf dem Klauenmeer. Ankhat weigert sich, Nagash zu dienen, doch W'soran verschont ihn im Tausch gegen die Verstecke Abhorashs und Neferatas."
+  },
+  "ere": "age-des-tribus",
+  "regions": [
+   "norsca"
+  ],
+  "lieux": [],
+  "factions": [
+   "vampires"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Master of Death, roman de Josh Reynolds",
+     "en": "Master of Death, novel by Josh Reynolds",
+     "de": "Master of Death, Roman von Josh Reynolds"
+    },
+    "detail": "",
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page W'soran",
+     "en": "Warhammer Fantasy Wiki (fandom), W'soran page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite W'soran"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/W'soran"
+   }
+  ]
+ },
+ {
+  "id": "bataille-de-la-route-de-lybaras",
+  "annee": -1163,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Bataille de la route de Lybaras",
+   "en": "Battle on the Lybaras Road",
+   "de": "Schlacht an der Straße nach Lybaras"
+  },
+  "resume": {
+   "fr": "Quand Nagash lance ses morts-vivants sur Nehekhara, Ka-Sabar et Rasetra rassemblent leurs armées et affrontent une immense horde sur la route de Lybaras. Vaincues, elles se retirent en bon ordre.",
+   "en": "When Nagash sends his undead against Nehekhara, Ka-Sabar and Rasetra muster their armies and face a vast horde on the Lybaras Road. Defeated, they withdraw in good order.",
+   "de": "Als Nagash seine Untoten gegen Nehekhara schickt, sammeln Ka-Sabar und Rasetra ihre Heere und stellen sich auf der Straße nach Lybaras einer riesigen Horde. Geschlagen ziehen sie sich in guter Ordnung zurück."
+  },
+  "ere": "age-des-tribus",
+  "regions": [
+   "sud"
+  ],
+  "lieux": [
+   "lybaras",
+   "ka-sabar",
+   "rasetra"
+  ],
+  "factions": [
+   "rois-des-tombes",
+   "vampires"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "The Rise of Nagash, recueil de romans de Mike Lee",
+     "en": "The Rise of Nagash, novel omnibus by Mike Lee",
+     "de": "The Rise of Nagash, Romansammlung von Mike Lee"
+    },
+    "detail": {
+     "fr": "Nagash Immortal, chap. 25",
+     "en": "Nagash Immortal, ch. 25",
+     "de": "Nagash Immortal, Kap. 25"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Ka-Sabar",
+     "en": "Warhammer Fantasy Wiki (fandom), Ka-Sabar page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Ka-Sabar"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Ka-Sabar"
+   }
+  ]
+ },
+ {
+  "id": "bataille-des-portes-de-l-aube",
+  "annee": -1162,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Bataille des Portes de l'Aube",
+   "en": "Battle of the Gates of Dawn",
+   "de": "Schlacht an den Toren der Morgenröte"
+  },
+  "resume": {
+   "fr": "W'soran et Arkhan, qui se défient l'un de l'autre, conduisent les armées de Nagash jusqu'aux Portes de l'Aube, entrée occidentale de Nehekhara à Quatar. Ils y sont battus. W'soran échoue à capturer le roi Alcadizaar, regagne Nagashizzar et rejette la faute sur Arkhan.",
+   "en": "W'soran and Arkhan, who mistrust each other, lead Nagash's armies to the Gates of Dawn, the western entrance to Nehekhara at Quatar. They are defeated there. W'soran fails to capture King Alcadizaar, falls back to Nagashizzar and blames Arkhan.",
+   "de": "W'soran und Arkhan, die einander misstrauen, führen Nagashs Heere bis zu den Toren der Morgenröte, dem westlichen Zugang nach Nehekhara bei Quatar. Dort werden sie geschlagen. W'soran gelingt es nicht, König Alcadizaar zu fangen, er zieht sich nach Nagashizzar zurück und gibt Arkhan die Schuld."
+  },
+  "ere": "age-des-tribus",
+  "regions": [
+   "sud"
+  ],
+  "lieux": [
+   "quatar"
+  ],
+  "factions": [
+   "rois-des-tombes",
+   "vampires"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Nagash Immortal, roman de Mike Lee",
+     "en": "Nagash Immortal, novel by Mike Lee",
+     "de": "Nagash Immortal, Roman von Mike Lee"
+    },
+    "detail": "",
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page W'soran",
+     "en": "Warhammer Fantasy Wiki (fandom), W'soran page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite W'soran"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/W'soran"
+   }
+  ]
+ },
+ {
+  "id": "neferata-mere-de-la-nuit",
+  "annee": -1154,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Neferata, Mère de la Nuit",
+   "en": "Neferata, Mother Night",
+   "de": "Neferata, die Mutter der Nacht"
+  },
+  "resume": {
+   "fr": "Neferata asservit des tribus du désert d'Araby, qui la vénèrent comme Mère de la Nuit, et les lance contre les avant-postes nehekharéens. W'soran la retrouve dans le désert de Sahra et exige son allégeance à Nagash, mais elle refuse et s'enfuit.",
+   "en": "Neferata enslaves desert tribes of Araby, who worship her as Mother Night, and sends them against Nehekharan outposts. W'soran finds her in the Sahra Desert and demands her allegiance to Nagash, but she refuses and flees.",
+   "de": "Neferata versklavt Wüstenstämme Arabys, die sie als Mutter der Nacht verehren, und lässt sie gegen nehekharische Außenposten ziehen. W'soran findet sie in der Sahra-Wüste und verlangt, dass sie Nagash die Treue schwört, doch sie weigert sich und flieht."
+  },
+  "ere": "age-des-tribus",
+  "regions": [
+   "sud"
+  ],
+  "lieux": [
+   "araby"
+  ],
+  "factions": [
+   "vampires",
+   "humains-autres"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Neferata, roman de Josh Reynolds",
+     "en": "Neferata, novel by Josh Reynolds",
+     "de": "Neferata, Roman von Josh Reynolds"
+    },
+    "detail": {
+     "fr": "chap. 4",
+     "en": "ch. 4",
+     "de": "Kap. 4"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Neferata",
+     "en": "Warhammer Fantasy Wiki (fandom), Neferata page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Neferata"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Neferata"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page W'soran",
+     "en": "Warhammer Fantasy Wiki (fandom), W'soran page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite W'soran"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/W'soran"
+   }
+  ]
+ },
+ {
+  "id": "tribut-des-rois-a-settra",
+  "annee": -1150,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Zandri, Numas et Rasetra paient tribut à Settra",
+   "en": "Zandri, Numas and Rasetra pay tribute to Settra",
+   "de": "Zandri, Numas und Rasetra zahlen Settra Tribut"
+  },
+  "resume": {
+   "fr": "Récemment tiré de la mort, Settra s'impose comme le premier des Éveillés de Nehekhara. Les seigneurs de Zandri, de Numas et de Rasetra lui apportent leur tribut à Khemri.",
+   "en": "Newly risen, Settra establishes himself as the foremost of the Awakened Ones of Nehekhara. The lords of Zandri, Numas and Rasetra bring him tribute at Khemri.",
+   "de": "Frisch erwacht setzt sich Settra als Erster unter den Erwachten Nehekharas durch. Die Herren von Zandri, Numas und Rasetra bringen ihm in Khemri Tribut."
+  },
+  "ere": "age-des-tribus",
+  "regions": [
+   "sud"
+  ],
+  "lieux": [
+   "khemri",
+   "zandri",
+   "numas",
+   "rasetra"
+  ],
+  "factions": [
+   "rois-des-tombes"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "An 2 du calendrier des Rois des tombes, converti en -1150 par le wiki.",
+   "en": "Year 2 of the Tomb Kings' calendar, converted to -1150 by the wiki.",
+   "de": "Jahr 2 des Kalenders der Gruftkönige, vom Wiki in -1150 umgerechnet."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Tomb Kings, 8e édition",
+     "en": "Warhammer Armies: Tomb Kings, 8th edition",
+     "de": "Warhammer Armies: Tomb Kings, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 20-21",
+     "en": "p. 20-21",
+     "de": "S. 20-21"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Zandri",
+     "en": "Warhammer Fantasy Wiki (fandom), Zandri page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Zandri"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Zandri"
+   }
+  ]
+ },
+ {
+  "id": "neferata-a-lashiek",
+  "annee": -1147,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Neferata et la Concubine douairière de Lashiek",
+   "en": "Neferata and the Dowager Concubine of Lashiek",
+   "de": "Neferata und die Konkubinenwitwe von Lashiek"
+  },
+  "resume": {
+   "fr": "En route vers Sartosa, Neferata passe à Lashiek, que la Concubine douairière gouverne de fait. Les deux femmes s'allient alors qu'Arkhan ravage l'Araby.",
+   "en": "On her way to Sartosa, Neferata stops at Lashiek, which the Dowager Concubine rules in all but name. The two women ally while Arkhan ravages Araby.",
+   "de": "Auf dem Weg nach Sartosa macht Neferata in Lashiek Station, das die Konkubinenwitwe faktisch beherrscht. Die beiden Frauen verbünden sich, während Arkhan Araby verwüstet."
+  },
+  "ere": "age-des-tribus",
+  "regions": [
+   "sud"
+  ],
+  "lieux": [
+   "lashiek"
+  ],
+  "factions": [
+   "vampires",
+   "humains-autres"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Neferata, roman de Josh Reynolds",
+     "en": "Neferata, novel by Josh Reynolds",
+     "de": "Neferata, Roman von Josh Reynolds"
+    },
+    "detail": {
+     "fr": "chap. 12",
+     "en": "ch. 12",
+     "de": "Kap. 12"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Lashiek",
+     "en": "Warhammer Fantasy Wiki (fandom), Lashiek page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Lashiek"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Lashiek"
+   }
+  ]
+ },
+ {
+  "id": "neferata-aborde-sartosa",
+  "annee": -1146,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Neferata s'établit à Sartosa",
+   "en": "Neferata settles on Sartosa",
+   "de": "Neferata lässt sich auf Sartosa nieder"
+  },
+  "resume": {
+   "fr": "Neferata débarque sur l'île de Sartosa et y fixe sa résidence. Elle y restera jusqu'à l'attaque des flottes de Settra, trois siècles plus tard.",
+   "en": "Neferata lands on the isle of Sartosa and takes up residence there. She will stay until Settra's fleets attack three centuries later.",
+   "de": "Neferata landet auf der Insel Sartosa und richtet sich dort ein. Sie bleibt, bis drei Jahrhunderte später Settras Flotten angreifen."
+  },
+  "ere": "age-des-tribus",
+  "regions": [
+   "tilee-estalie"
+  ],
+  "lieux": [
+   "sartosa"
+  ],
+  "factions": [
+   "vampires"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Neferata, roman de Josh Reynolds",
+     "en": "Neferata, novel by Josh Reynolds",
+     "de": "Neferata, Roman von Josh Reynolds"
+    },
+    "detail": {
+     "fr": "chap. 13",
+     "en": "ch. 13",
+     "de": "Kap. 13"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Neferata",
+     "en": "Warhammer Fantasy Wiki (fandom), Neferata page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Neferata"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Neferata"
+   }
+  ]
+ },
+ {
+  "id": "premiers-necrarques",
+  "annee": -1122,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "W'soran crée les premiers Nécrarques",
+   "en": "W'soran makes the first Necrarchs",
+   "de": "W'soran erschafft die ersten Nekrarchen"
+  },
+  "resume": {
+   "fr": "W'soran commence à transmettre le Baiser de sang et ses découvertes à des apprentis, à commencer par Melkhior, puis Nourgul. Il s'installe avec eux dans les ruines de Lahmia, que ni les Rois des tombes ni les autres vampires ne veulent approcher. Ainsi naît la lignée des Nécrarques.",
+   "en": "W'soran begins passing the Blood Kiss and his discoveries on to apprentices, starting with Melkhior and then Nourgul. He settles in the ruins of Lahmia, which neither the Tomb Kings nor the other vampires will approach. So begins the Necrarch bloodline.",
+   "de": "W'soran beginnt, den Blutkuss und seine Entdeckungen an Lehrlinge weiterzugeben, zuerst an Melkhior, dann an Nourgul. Er lässt sich in den Ruinen von Lahmia nieder, denen weder die Gruftkönige noch die übrigen Vampire nahekommen wollen. So entsteht die Blutlinie der Nekrarchen."
+  },
+  "ere": "age-des-tribus",
+  "regions": [
+   "sud"
+  ],
+  "lieux": [
+   "lahmia"
+  ],
+  "factions": [
+   "vampires"
+  ],
+  "importance": 2,
+  "fiabilite": "etabli",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Vampire Counts, 7e édition",
+     "en": "Warhammer Armies: Vampire Counts, 7th edition",
+     "de": "Warhammer Armies: Vampire Counts, 7. Edition"
+    },
+    "detail": {
+     "fr": "p. 29",
+     "en": "p. 29",
+     "de": "S. 29"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Vampire Counts, 8e édition",
+     "en": "Warhammer Armies: Vampire Counts, 8th edition",
+     "de": "Warhammer Armies: Vampire Counts, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 22",
+     "en": "p. 22",
+     "de": "S. 22"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page W'soran",
+     "en": "Warhammer Fantasy Wiki (fandom), W'soran page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite W'soran"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/W'soran"
+   }
+  ]
+ },
+ {
+  "id": "alliance-d-abruzzi-et-de-megara",
+  "annee": -1020,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Alliance d'Abruzzi et de Megara",
+   "en": "Alliance of Abruzzi and Megara",
+   "de": "Bündnis von Abruzzi und Megara"
+  },
+  "resume": {
+   "fr": "Neferata noue une alliance entre Abruzzi de Sartosa et Megara, capitaine de flotte d'une Arche noire, pour mettre fin aux raids qui frappent l'île.",
+   "en": "Neferata forges an alliance between Abruzzi of Sartosa and Megara, fleetmaster of a Black Ark, to end the raids on the island.",
+   "de": "Neferata stiftet ein Bündnis zwischen Abruzzi von Sartosa und Megara, der Flottenmeisterin einer Schwarzen Arche, um die Überfälle auf die Insel zu beenden."
+  },
+  "ere": "age-des-tribus",
+  "regions": [
+   "tilee-estalie"
+  ],
+  "lieux": [
+   "sartosa"
+  ],
+  "factions": [
+   "vampires",
+   "elfes-noirs",
+   "humains-autres"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Neferata, roman de Josh Reynolds",
+     "en": "Neferata, novel by Josh Reynolds",
+     "de": "Neferata, Roman von Josh Reynolds"
+    },
+    "detail": {
+     "fr": "chap. 14 et 15",
+     "en": "ch. 14 and 15",
+     "de": "Kap. 14 und 15"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Neferata",
+     "en": "Warhammer Fantasy Wiki (fandom), Neferata page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Neferata"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Neferata"
+   }
+  ]
+ },
+ {
+  "id": "w-soran-appele-a-mourkain",
+  "annee": -950,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "W'soran entre au service de Mourkain",
+   "en": "W'soran enters the service of Mourkain",
+   "de": "W'soran tritt in den Dienst Mourkains"
+  },
+  "resume": {
+   "fr": "Attiré vers le nord, W'soran est recruté à Mourkain par Ushoran et Abhorash. Conseiller et grand prêtre du culte mortuaire dévoyé de Strygos, il entretient les armées de morts du royaume.",
+   "en": "Drawn north, W'soran is recruited at Mourkain by Ushoran and Abhorash. As adviser and high priest of Strygos' debased mortuary cult, he maintains the kingdom's undead armies.",
+   "de": "Nach Norden gezogen, wird W'soran in Mourkain von Ushoran und Abhorash angeworben. Als Berater und Hohepriester des verkommenen Totenkults von Strygos unterhält er die untoten Heere des Reiches."
+  },
+  "ere": "age-des-tribus",
+  "regions": [
+   "terres-arides"
+  ],
+  "lieux": [
+   "mourkain"
+  ],
+  "factions": [
+   "vampires"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Master of Death, roman de Josh Reynolds",
+     "en": "Master of Death, novel by Josh Reynolds",
+     "de": "Master of Death, Roman von Josh Reynolds"
+    },
+    "detail": "",
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page W'soran",
+     "en": "Warhammer Fantasy Wiki (fandom), W'soran page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite W'soran"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/W'soran"
+   }
+  ]
+ },
+ {
+  "id": "abhorash-forme-les-cavaliers-de-mourkain",
+  "annee": -600,
+  "fin": null,
+  "approx": true,
+  "titre": {
+   "fr": "Abhorash réforme les cavaliers de Mourkain",
+   "en": "Abhorash reforms the riders of Mourkain",
+   "de": "Abhorash formt die Reiter von Mourkain um"
+  },
+  "resume": {
+   "fr": "Après la défense de Mourkain et ses expéditions contre les Hommes-bêtes du nord, Abhorash fait des cavaliers en armure du royaume une troupe d'élite. Il s'inspire des kontoi d'Araby et de la tribu khazag des steppes de l'est.",
+   "en": "After the defence of Mourkain and his forays against the Beastmen of the north, Abhorash turns the kingdom's armoured riders into an elite force. He draws on the kontoi of Araby and the Khazag tribe of the Eastern Steppes.",
+   "de": "Nach der Verteidigung Mourkains und seinen Zügen gegen die Tiermenschen des Nordens macht Abhorash die gepanzerten Reiter des Reiches zu einer Elitetruppe. Als Vorbild dienen ihm die Kontoi Arabys und der Stamm der Khazag aus den östlichen Steppen."
+  },
+  "ere": "age-des-tribus",
+  "regions": [
+   "terres-arides"
+  ],
+  "lieux": [
+   "mourkain"
+  ],
+  "factions": [
+   "vampires"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Date déduite : la réforme suit la défense de Mourkain, datée de -600.",
+   "en": "Inferred date: the reform follows the defence of Mourkain, dated to -600.",
+   "de": "Abgeleitetes Datum: Die Reform folgt auf die Verteidigung Mourkains, die auf -600 datiert ist."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Neferata, roman de Josh Reynolds",
+     "en": "Neferata, novel by Josh Reynolds",
+     "de": "Neferata, Roman von Josh Reynolds"
+    },
+    "detail": "",
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Abhorash",
+     "en": "Warhammer Fantasy Wiki (fandom), Abhorash page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Abhorash"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Abhorash"
+   }
+  ]
+ },
+ {
+  "id": "abhorash-contre-vorag",
+  "annee": -327,
+  "fin": -323,
+  "approx": false,
+  "titre": {
+   "fr": "Abhorash pourchasse Vorag",
+   "en": "Abhorash hunts Vorag",
+   "de": "Abhorash jagt Vorag"
+  },
+  "resume": {
+   "fr": "Ushoran envoie Abhorash détruire le royaume que Vorag Dent-sanglante s'est taillé. Abhorash poursuit les vampires rebelles jusqu'aux rives de la Mer Acide, puis il est rappelé à Mourkain en -323, car Neferata s'est soulevée à son tour au Pic d'argent.",
+   "en": "Ushoran sends Abhorash to destroy the realm Vorag Bloodytooth has carved out. Abhorash pursues the vampire rebels to the shores of the Sour Sea, then is recalled to Mourkain in -323, for Neferata has rebelled in turn at the Silver Pinnacle.",
+   "de": "Ushoran schickt Abhorash aus, um das Reich zu vernichten, das Vorag Blutzahn sich geschaffen hat. Abhorash verfolgt die abtrünnigen Vampire bis ans Ufer des Sauren Meeres und wird -323 nach Mourkain zurückgerufen, denn nun hat sich auch Neferata am Silbernen Gipfel erhoben."
+  },
+  "ere": "age-des-tribus",
+  "regions": [
+   "terres-arides"
+  ],
+  "lieux": [
+   "mourkain",
+   "pic-d-argent"
+  ],
+  "factions": [
+   "vampires"
+  ],
+  "importance": 1,
+  "fiabilite": "divergent",
+  "note": {
+   "fr": "Le roman montre Vorag actif en -327, alors que Vampire Counts 6e édition et Night's Dark Masters le font mourir vers -600.",
+   "en": "The novel has Vorag active in -327, whereas Vampire Counts 6th edition and Night's Dark Masters have him die around -600.",
+   "de": "Der Roman zeigt Vorag im Jahr -327 aktiv, während Vampire Counts 6. Edition und Night's Dark Masters ihn um -600 sterben lassen."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Neferata, roman de Josh Reynolds",
+     "en": "Neferata, novel by Josh Reynolds",
+     "de": "Neferata, Roman von Josh Reynolds"
+    },
+    "detail": {
+     "fr": "chap. 13",
+     "en": "chapp. 13",
+     "de": "chaS. 13"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Master of Death, roman de Josh Reynolds",
+     "en": "Master of Death, novel by Josh Reynolds",
+     "de": "Master of Death, Roman von Josh Reynolds"
+    },
+    "detail": {
+     "fr": "chap. 4",
+     "en": "chapp. 4",
+     "de": "chaS. 4"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Abhorash",
+     "en": "Warhammer Fantasy Wiki (fandom), Abhorash page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Abhorash"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Abhorash"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Vorag Bloodytooth",
+     "en": "Warhammer Fantasy Wiki (fandom), Vorag Bloodytooth page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Vorag Bloodytooth"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Vorag_Bloodytooth"
+   }
+  ]
+ },
+ {
+  "id": "rituel-sur-la-couronne-de-sorcellerie",
+  "annee": -327,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Le rituel manqué sur la Couronne de Sorcellerie",
+   "en": "The failed ritual on the Crown of Sorcery",
+   "de": "Das gescheiterte Ritual an der Krone der Zauberei"
+  },
+  "resume": {
+   "fr": "Muni d'un Livre de Nagash tiré des caveaux de Nagashizzar, W'soran aide Ushoran à plier la Couronne de Sorcellerie à sa volonté. Le rituel échoue. Il lève seulement les protections posées par Kadon et par l'âme d'Alcadizaar, et le fragment de Nagash enfermé dans la couronne agit désormais bien plus librement.",
+   "en": "With a Book of Nagash from the vaults of Nagashizzar, W'soran helps Ushoran try to break the Crown of Sorcery to his will. The ritual fails. It only strips away the protections laid by Kadon and Alcadizaar's soul, and the fragment of Nagash in the crown now acts far more freely.",
+   "de": "Mit einem Buch des Nagash aus den Gewölben von Nagashizzar hilft W'soran Ushoran dabei, die Krone der Zauberei seinem Willen zu unterwerfen. Das Ritual misslingt. Es beseitigt nur die Schutzzauber Kadons und der Seele Alcadizaars, und das Bruchstück Nagashs in der Krone handelt fortan viel freier."
+  },
+  "ere": "age-des-tribus",
+  "regions": [
+   "terres-arides"
+  ],
+  "lieux": [
+   "mourkain"
+  ],
+  "factions": [
+   "vampires"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Master of Death, roman de Josh Reynolds",
+     "en": "Master of Death, novel by Josh Reynolds",
+     "de": "Master of Death, Roman von Josh Reynolds"
+    },
+    "detail": "",
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Neferata, roman de Josh Reynolds",
+     "en": "Neferata, novel by Josh Reynolds",
+     "de": "Neferata, Roman von Josh Reynolds"
+    },
+    "detail": "",
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page W'soran",
+     "en": "Warhammer Fantasy Wiki (fandom), W'soran page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite W'soran"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/W'soran"
+   }
+  ]
+ },
+ {
+  "id": "w-soran-rejoint-vorag",
+  "annee": -326,
+  "fin": -320,
+  "approx": false,
+  "titre": {
+   "fr": "W'soran rejoint Vorag et assiège le Mont Crookback",
+   "en": "W'soran joins Vorag and besieges Crookback Mountain",
+   "de": "W'soran schließt sich Vorag an und belagert den Crookback-Berg"
+  },
+  "resume": {
+   "fr": "W'soran égorge ses acolytes de Mourkain pour priver Ushoran de nécromanciens, puis passe à Vorag Dent-sanglante. Il l'aide à assiéger le Mont Crookback afin d'y établir une base contre Mourkain. Melkhior profite de la guerre contre les Skavens pour envoyer ses rivaux à la mort, et le dernier terrier tombe en -320.",
+   "en": "W'soran slaughters his acolytes in Mourkain to deny Ushoran any necromancers, then goes over to Vorag Bloodytooth. He helps besiege Crookback Mountain to gain a base against Mourkain. Melkhior uses the war with the Skaven to send his rivals to their deaths, and the last warren falls in -320.",
+   "de": "W'soran lässt seine Akolythen in Mourkain niedermetzeln, um Ushoran die Nekromanten zu nehmen, und läuft zu Vorag Blutzahn über. Er hilft bei der Belagerung des Crookback-Berges, um eine Basis gegen Mourkain zu gewinnen. Melkhior nutzt den Krieg gegen die Skaven, um seine Rivalen in den Tod zu schicken, und der letzte Bau fällt -320."
+  },
+  "ere": "age-des-tribus",
+  "regions": [
+   "terres-arides"
+  ],
+  "lieux": [],
+  "factions": [
+   "vampires",
+   "skavens"
+  ],
+  "importance": 2,
+  "fiabilite": "divergent",
+  "note": {
+   "fr": "Le roman montre Vorag actif en -327, alors que Vampire Counts 6e édition et Night's Dark Masters le font mourir vers -600.",
+   "en": "The novel has Vorag active in -327, whereas Vampire Counts 6th edition and Night's Dark Masters have him die around -600.",
+   "de": "Der Roman zeigt Vorag im Jahr -327 aktiv, während Vampire Counts 6. Edition und Night's Dark Masters ihn um -600 sterben lassen."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Master of Death, roman de Josh Reynolds",
+     "en": "Master of Death, novel by Josh Reynolds",
+     "de": "Master of Death, Roman von Josh Reynolds"
+    },
+    "detail": {
+     "fr": "chap. 1 et 7",
+     "en": "ch. 1 and 7",
+     "de": "Kap. 1 und 7"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Melkhior",
+     "en": "Warhammer Fantasy Wiki (fandom), Melkhior page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Melkhior"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Melkhior"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page W'soran",
+     "en": "Warhammer Fantasy Wiki (fandom), W'soran page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite W'soran"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/W'soran"
+   }
+  ]
+ },
+ {
+  "id": "morath-depasse-ses-maitres",
+  "annee": -300,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Les progrès de Morath",
+   "en": "Morath's advances",
+   "de": "Moraths Fortschritte"
+  },
+  "resume": {
+   "fr": "W'soran et Melkhior accompagnent les armées de Vorag contre Mourkain. Ils y découvrent que Morath, apprenti de W'soran qui a refusé le Baiser de sang, a porté la nécromancie à un niveau inédit.",
+   "en": "W'soran and Melkhior march with Vorag's armies against Mourkain. There they discover that Morath, the apprentice of W'soran who refused the Blood Kiss, has taken necromancy to unprecedented heights.",
+   "de": "W'soran und Melkhior ziehen mit Vorags Heeren gegen Mourkain. Dabei entdecken sie, dass Morath, W'sorans Lehrling, der den Blutkuss abgelehnt hat, die Nekromantie zu nie gekannter Höhe gebracht hat."
+  },
+  "ere": "age-des-tribus",
+  "regions": [
+   "terres-arides"
+  ],
+  "lieux": [
+   "mourkain"
+  ],
+  "factions": [
+   "vampires"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Master of Death, roman de Josh Reynolds",
+     "en": "Master of Death, novel by Josh Reynolds",
+     "de": "Master of Death, Roman von Josh Reynolds"
+    },
+    "detail": "",
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Melkhior",
+     "en": "Warhammer Fantasy Wiki (fandom), Melkhior page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Melkhior"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Melkhior"
+   }
+  ]
+ },
+ {
+  "id": "bataille-des-eaux-noires",
+  "annee": -285,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Bataille des Eaux Noires",
+   "en": "Battle of Black Water",
+   "de": "Schlacht am Schwarzen Wasser"
+  },
+  "resume": {
+   "fr": "Une Waaagh! suscitée par Neferata anéantit le domaine de W'soran à la bataille des Eaux Noires. Le nécromancien l'abandonne à son sort.",
+   "en": "A Waaagh! stirred up by Neferata destroys W'soran's domain at the Battle of Black Water. The necromancer leaves it to die.",
+   "de": "Ein von Neferata angestachelter Waaagh! vernichtet W'sorans Herrschaftsgebiet in der Schlacht am Schwarzen Wasser. Der Nekromant überlässt es seinem Schicksal."
+  },
+  "ere": "age-des-tribus",
+  "regions": [
+   "terres-arides"
+  ],
+  "lieux": [
+   "lac-noir"
+  ],
+  "factions": [
+   "vampires",
+   "peaux-vertes"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Master of Death, roman de Josh Reynolds",
+     "en": "Master of Death, novel by Josh Reynolds",
+     "de": "Master of Death, Roman von Josh Reynolds"
+    },
+    "detail": {
+     "fr": "chap. 10",
+     "en": "chapp. 10",
+     "de": "chaS. 10"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page W'soran",
+     "en": "Warhammer Fantasy Wiki (fandom), W'soran page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite W'soran"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/W'soran"
+   }
+  ]
+ },
+ {
+  "id": "melkhior-sauve-w-soran",
+  "annee": -280,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Des assassins contre W'soran",
+   "en": "Assassins strike at W'soran",
+   "de": "Attentäter gegen W'soran"
+  },
+  "resume": {
+   "fr": "Melkhior presse W'soran de marcher sur Mourkain avant qu'Ushoran ne maîtrise la Couronne, mais il essuie un refus. Des assassins les attaquent alors. Melkhior sauve son maître, qui lui reproche de ne pas les avoir découverts plus tôt.",
+   "en": "Melkhior urges W'soran to march on Mourkain before Ushoran masters the Crown, but is rebuffed. Assassins then attack them. Melkhior saves his master, who blames him for not finding them sooner.",
+   "de": "Melkhior drängt W'soran, gegen Mourkain zu ziehen, bevor Ushoran die Krone beherrscht, wird aber abgewiesen. Da greifen sie Attentäter an. Melkhior rettet seinen Meister, der ihm vorwirft, sie nicht früher entdeckt zu haben."
+  },
+  "ere": "age-des-tribus",
+  "regions": [
+   "terres-arides"
+  ],
+  "lieux": [],
+  "factions": [
+   "vampires"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Master of Death, roman de Josh Reynolds",
+     "en": "Master of Death, novel by Josh Reynolds",
+     "de": "Master of Death, Roman von Josh Reynolds"
+    },
+    "detail": "",
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Melkhior",
+     "en": "Warhammer Fantasy Wiki (fandom), Melkhior page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Melkhior"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Melkhior"
+   }
+  ]
+ },
+ {
+  "id": "trahison-de-melkhior",
+  "annee": -262,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Melkhior trahit W'soran",
+   "en": "Melkhior betrays W'soran",
+   "de": "Melkhior verrät W'soran"
+  },
+  "resume": {
+   "fr": "De retour au Mont Crookback, W'soran découvre que Melkhior s'est allié aux Lahmiennes et aux Skavens en leur promettant sa tête. Il échappe à l'assaut en ensevelissant leurs forces sous une avalanche. Melkhior, traîné au Pic d'argent, doit livrer son savoir nécromantique aux Lahmiennes pour sauver sa peau.",
+   "en": "Back at Crookback Mountain, W'soran finds that Melkhior has allied with the Lahmians and the Skaven by promising them his head. He escapes by burying their forces under an avalanche. Melkhior, dragged to the Silver Pinnacle, must trade his necromantic lore to the Lahmians to save himself.",
+   "de": "Zurück am Crookback-Berg stellt W'soran fest, dass Melkhior sich mit den Lahmianerinnen und den Skaven verbündet und ihnen seinen Kopf versprochen hat. Er entkommt, indem er ihre Truppen unter einer Lawine begräbt. Melkhior wird zum Silbernen Gipfel geschleppt und muss den Lahmianerinnen sein nekromantisches Wissen überlassen, um sein Leben zu retten."
+  },
+  "ere": "age-des-tribus",
+  "regions": [
+   "terres-arides",
+   "montagnes"
+  ],
+  "lieux": [
+   "pic-d-argent"
+  ],
+  "factions": [
+   "vampires",
+   "skavens"
+  ],
+  "importance": 2,
+  "fiabilite": "divergent",
+  "note": {
+   "fr": "Les pages W'soran et Abhorash datent l'assaut de -260, mais les pages W'soran et Melkhior placent son retour au Mont Crookback, après la défaite, en -262. L'ordre donné par les sources est incohérent.",
+   "en": "The W'soran and Abhorash pages date the assault to -260, but the W'soran and Melkhior pages put his return to Crookback Mountain, after the defeat, in -262. The sequence given by the sources is inconsistent.",
+   "de": "Die Seiten W'soran und Abhorash datieren den Angriff auf -260, die Seiten W'soran und Melkhior setzen seine Rückkehr zum Crookback-Berg nach der Niederlage jedoch auf -262. Die Reihenfolge in den Quellen ist widersprüchlich."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Master of Death, roman de Josh Reynolds",
+     "en": "Master of Death, novel by Josh Reynolds",
+     "de": "Master of Death, Roman von Josh Reynolds"
+    },
+    "detail": "",
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page W'soran",
+     "en": "Warhammer Fantasy Wiki (fandom), W'soran page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite W'soran"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/W'soran"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Melkhior",
+     "en": "Warhammer Fantasy Wiki (fandom), Melkhior page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Melkhior"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Melkhior"
+   }
+  ]
+ },
+ {
+  "id": "w-soran-assaille-mourkain",
+  "annee": -260,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "W'soran assaille Mourkain",
+   "en": "W'soran assaults Mourkain",
+   "de": "W'soran greift Mourkain an"
+  },
+  "resume": {
+   "fr": "Monté sur un Dragon zombie, W'soran fond sur Mourkain à la tête de ses morts. Abhorash abat sa monture mais le laisse gagner le sanctuaire, où Ushoran le supplie de le détruire. Le fragment de Nagash contenu dans la Couronne prend alors le dessus, et W'soran doit fuir après un duel de magie.",
+   "en": "Mounted on a Zombie Dragon, W'soran falls on Mourkain at the head of his undead. Abhorash fells his mount but lets him reach the inner sanctum, where Ushoran begs for destruction. The fragment of Nagash in the Crown then takes over, and W'soran must flee after a magical duel.",
+   "de": "Auf einem Zombiedrachen fällt W'soran an der Spitze seiner Untoten über Mourkain her. Abhorash erlegt sein Reittier, lässt ihn aber bis ins Heiligtum vor, wo Ushoran um seine Vernichtung fleht. Dann gewinnt das Bruchstück Nagashs in der Krone die Oberhand, und W'soran muss nach einem magischen Duell fliehen."
+  },
+  "ere": "age-des-tribus",
+  "regions": [
+   "terres-arides"
+  ],
+  "lieux": [
+   "mourkain"
+  ],
+  "factions": [
+   "vampires"
+  ],
+  "importance": 2,
+  "fiabilite": "divergent",
+  "note": {
+   "fr": "Les pages W'soran et Abhorash datent l'assaut de -260, mais les pages W'soran et Melkhior placent son retour au Mont Crookback, après la défaite, en -262. L'ordre donné par les sources est incohérent.",
+   "en": "The W'soran and Abhorash pages date the assault to -260, but the W'soran and Melkhior pages put his return to Crookback Mountain, after the defeat, in -262. The sequence given by the sources is inconsistent.",
+   "de": "Die Seiten W'soran und Abhorash datieren den Angriff auf -260, die Seiten W'soran und Melkhior setzen seine Rückkehr zum Crookback-Berg nach der Niederlage jedoch auf -262. Die Reihenfolge in den Quellen ist widersprüchlich."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Master of Death, roman de Josh Reynolds",
+     "en": "Master of Death, novel by Josh Reynolds",
+     "de": "Master of Death, Roman von Josh Reynolds"
+    },
+    "detail": "",
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page W'soran",
+     "en": "Warhammer Fantasy Wiki (fandom), W'soran page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite W'soran"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/W'soran"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Abhorash",
+     "en": "Warhammer Fantasy Wiki (fandom), Abhorash page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Abhorash"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Abhorash"
+   }
+  ]
+ },
+ {
+  "id": "settra-se-retourne-contre-ses-allies",
+  "annee": -39,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Settra se retourne contre ses alliés",
+   "en": "Settra turns on his allies",
+   "de": "Settra wendet sich gegen seine Verbündeten"
+  },
+  "resume": {
+   "fr": "Résolu à imposer sa loi, Settra retourne son armée contre les autres Rois des tombes. La bataille dure sept jours et sept nuits, les morts tombés se relevant de part et d'autre. Écrasé par le nombre, il regagne Khemri en jurant de se venger.",
+   "en": "Determined to impose his will, Settra turns his army on the other Tomb Kings. The battle rages for seven days and nights, the fallen rising again on both sides. Outnumbered, he withdraws to Khemri, vowing revenge.",
+   "de": "Entschlossen, seinen Willen durchzusetzen, wendet Settra sein Heer gegen die anderen Gruftkönige. Die Schlacht tobt sieben Tage und Nächte, und auf beiden Seiten erheben sich die Gefallenen von Neuem. In der Unterzahl zieht er sich nach Khemri zurück und schwört Rache."
+  },
+  "ere": "age-des-tribus",
+  "regions": [
+   "sud"
+  ],
+  "lieux": [
+   "khemri"
+  ],
+  "factions": [
+   "rois-des-tombes"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Undead, 4e édition",
+     "en": "Warhammer Armies: Undead, 4th edition",
+     "de": "Warhammer Armies: Undead, 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 31, 96",
+     "en": "p. 31, 96",
+     "de": "S. 31, 96"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Settra",
+     "en": "Warhammer Fantasy Wiki (fandom), Settra page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Settra"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Settra"
+   }
+  ]
+ },
+ {
+  "id": "bataille-de-death-rock",
+  "annee": -15,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Bataille de Death Rock",
+   "en": "Battle of Death Rock",
+   "de": "Schlacht von Death Rock"
+  },
+  "resume": {
+   "fr": "Les morts-vivants d'Arkhan écrasent une horde skaven à Death Rock. Les hommes-rats doivent renoncer à leur attaque sur le Pic Estropié, où se trouve Nagashizzar.",
+   "en": "Arkhan's undead crush a Skaven horde at Death Rock. The ratmen must abandon their attack on Cripple Peak, home of Nagashizzar.",
+   "de": "Arkhans Untote zerschlagen bei Death Rock eine Skavenhorde. Die Rattenmenschen müssen ihren Angriff auf den Krüppelgipfel, den Sitz Nagashizzars, abbrechen."
+  },
+  "ere": "age-des-tribus",
+  "regions": [
+   "terres-arides"
+  ],
+  "lieux": [
+   "nagashizzar"
+  ],
+  "factions": [
+   "rois-des-tombes",
+   "skavens"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Undead, 4e édition",
+     "en": "Warhammer Armies: Undead, 4th edition",
+     "de": "Warhammer Armies: Undead, 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 30",
+     "en": "p. 30",
+     "de": "S. 30"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Arkhan the Black",
+     "en": "Warhammer Fantasy Wiki (fandom), Arkhan the Black page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Arkhan the Black"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Arkhan_the_Black"
+   }
+  ]
+ },
+ {
+  "id": "vorag-en-sylvanie",
+  "annee": 400,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Un Vorag en Sylvanie",
+   "en": "A Vorag in Sylvania",
+   "de": "Ein Vorag in Sylvania"
+  },
+  "resume": {
+   "fr": "Une créature du nom de Vorag, peut-être l'ancien Roi goule lui-même, surgit dans les forêts du sud de la Sylvanie. Elle entend rendre sa gloire au royaume perdu de Strygos.",
+   "en": "A creature called Vorag, perhaps the old Ghoul King himself, emerges in the southern forests of Sylvania. It means to restore the glory of the lost kingdom of Strygos.",
+   "de": "Ein Wesen namens Vorag, vielleicht der alte Ghulkönig selbst, taucht in den südlichen Wäldern Sylvanias auf. Es will dem untergegangenen Reich Strygos seinen Glanz zurückgeben."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [],
+  "factions": [
+   "vampires"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "White Dwarf 276 (UK), « The History of the Damned »",
+     "en": "White Dwarf 276 (UK), « The History of the Damned »",
+     "de": "White Dwarf 276 (UK), « The History of the Damned »"
+    },
+    "detail": {
+     "fr": "p. 68",
+     "en": "p. 68",
+     "de": "S. 68"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Vorag Bloodytooth",
+     "en": "Warhammer Fantasy Wiki (fandom), Vorag Bloodytooth page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Vorag Bloodytooth"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Vorag_Bloodytooth"
+   }
+  ]
+ },
+ {
+  "id": "frederick-van-hal-baron-de-sylvanie",
+  "annee": 1106,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Frederick van Hal, baron de Sylvanie",
+   "en": "Frederick van Hal, Baron of Sylvania",
+   "de": "Frederick van Hal, Baron von Sylvania"
+  },
+  "resume": {
+   "fr": "Selon le Liber Necris, Frederick van Hal prend le pouvoir en Sylvanie et veut purger la province de la corruption laissée par le règne de Boris Goldgather.",
+   "en": "According to the Liber Necris, Frederick van Hal comes to power in Sylvania, intent on purging the province of the corruption left by the reign of Boris Goldgather.",
+   "de": "Laut dem Liber Necris gelangt Frederick van Hal in Sylvania an die Macht und will die Provinz von der Verderbtheit säubern, die die Herrschaft Boris Goldgathers hinterlassen hat."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [],
+  "factions": [
+   "vampires",
+   "empire"
+  ],
+  "importance": 1,
+  "fiabilite": "divergent",
+  "note": {
+   "fr": "Le Liber Necris en fait un baron, alors que les romans de The Black Plague en font un religieux envoyé à Bylorhof.",
+   "en": "The Liber Necris makes him a baron, whereas The Black Plague novels make him a churchman sent to Bylorhof.",
+   "de": "Der Liber Necris macht ihn zum Baron, die Romane von The Black Plague dagegen zu einem nach Bylorhof entsandten Geistlichen."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Liber Necris",
+     "en": "Liber Necris",
+     "de": "Liber Necris"
+    },
+    "detail": {
+     "fr": "p. 85",
+     "en": "p. 85",
+     "de": "S. 85"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Frederick van Hal",
+     "en": "Warhammer Fantasy Wiki (fandom), Frederick van Hal page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Frederick van Hal"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Frederick_van_Hal"
+   }
+  ]
+ },
+ {
+  "id": "lanfranchi-pille-zandri",
+  "annee": 1448,
+  "fin": null,
+  "approx": true,
+  "titre": {
+   "fr": "Giovanni Lanfranchi pille Zandri",
+   "en": "Giovanni Lanfranchi plunders Zandri",
+   "de": "Giovanni Lanfranchi plündert Zandri"
+  },
+  "resume": {
+   "fr": "En route pour la croisade d'Araby, Giovanni Lanfranchi de Monte Negro débarque par erreur sur la côte nord de la Terre des Morts. Il pille les tombes de Zandri, y prend de l'or et les Parchemins de Zandri, puis poursuit vers l'Araby.",
+   "en": "On his way to the crusade in Araby, Giovanni Lanfranchi of Monte Negro mistakenly lands on the northern coast of the Land of the Dead. He plunders the tombs of Zandri, taking gold and the Zandri Scrolls, then moves on to Araby.",
+   "de": "Auf dem Weg zum Kreuzzug nach Araby landet Giovanni Lanfranchi aus Monte Negro irrtümlich an der Nordküste des Landes der Toten. Er plündert die Gräber von Zandri, nimmt Gold und die Schriftrollen von Zandri an sich und zieht weiter nach Araby."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "sud"
+  ],
+  "lieux": [
+   "zandri"
+  ],
+  "factions": [
+   "humains-autres",
+   "rois-des-tombes"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "La page indique l'an 2575 du calendrier nehekharéen et imprime « 1148 », coquille évidente pour 1448 puisqu'elle situe l'affaire au 15e siècle, pendant la croisade.",
+   "en": "The page gives Nehekharan year 2575 and prints \"1148\", an obvious slip for 1448 since it places the affair in the 15th century, during the crusade.",
+   "de": "Die Seite nennt das nehekharische Jahr 2575 und druckt \"1148\", offenkundig ein Fehler für 1448, denn sie verlegt die Sache ins 15. Jahrhundert, während des Kreuzzugs."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Fantasy Roleplay: The Thousand Thrones, 2e édition",
+     "en": "Warhammer Fantasy Roleplay: The Thousand Thrones, 2nd edition",
+     "de": "Warhammer Fantasy Roleplay: The Thousand Thrones, 2. Edition"
+    },
+    "detail": {
+     "fr": "p. 158",
+     "en": "p. 158",
+     "de": "S. 158"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Zandri",
+     "en": "Warhammer Fantasy Wiki (fandom), Zandri page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Zandri"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Zandri"
+   }
+  ]
+ },
+ {
+  "id": "el-syf-ash-shml",
+  "annee": 1449,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "El Syf, l'Épée du Nord",
+   "en": "El Syf, the Northern Sword",
+   "de": "El Syf, das Nordschwert"
+  },
+  "resume": {
+   "fr": "Après un an de combats pour libérer l'Estalie du sultan Jaffar, le futur Duc Rouge reçoit des Arabiens le surnom d'El Syf ash-Shml, l'Épée du Nord.",
+   "en": "After a year of fighting to free Estalia from Sultan Jaffar, the future Red Duke is named El Syf ash-Shml, the Northern Sword, by the Arabyans.",
+   "de": "Nach einem Jahr des Kampfes um die Befreiung Estalias von Sultan Jaffar erhält der spätere Rote Herzog von den Arabyern den Namen El Syf ash-Shml, das Nordschwert."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "tilee-estalie",
+   "sud"
+  ],
+  "lieux": [],
+  "factions": [
+   "bretonnie",
+   "humains-autres"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page The Red Duke",
+     "en": "Warhammer Fantasy Wiki (fandom), The Red Duke page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite The Red Duke"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/The_Red_Duke"
+   }
+  ]
+ },
+ {
+  "id": "sac-du-crac-de-sang",
+  "annee": 1454,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Sac du Crac de Sang",
+   "en": "Sack of Crac de Sang",
+   "de": "Plünderung von Crac de Sang"
+  },
+  "resume": {
+   "fr": "Pendant que le Duc Rouge affronte les armées du roi Louis, sa forteresse du Crac de Sang, bâtie par ses sujets réduits en esclavage, est mise à sac.",
+   "en": "While the Red Duke fights King Louis' armies, his fortress of Crac de Sang, built by his enslaved subjects, is sacked.",
+   "de": "Während der Rote Herzog gegen die Heere König Louis' kämpft, wird seine von versklavten Untertanen errichtete Festung Crac de Sang geplündert."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "bretonnie"
+  ],
+  "lieux": [
+   "aquitaine"
+  ],
+  "factions": [
+   "bretonnie",
+   "vampires"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "An 476 du calendrier bretonnien, converti en 1454 par le wiki.",
+   "en": "Bretonnian year 476, converted to 1454 by the wiki.",
+   "de": "Bretonnisches Jahr 476, vom Wiki in 1454 umgerechnet."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "The Red Duke, roman de C. L. Werner",
+     "en": "The Red Duke, novel by C. L. Werner",
+     "de": "The Red Duke, Roman von C. L. Werner"
+    },
+    "detail": "",
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page The Red Duke",
+     "en": "Warhammer Fantasy Wiki (fandom), The Red Duke page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite The Red Duke"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/The_Red_Duke"
+   }
+  ]
+ },
+ {
+  "id": "jasmina-el-al-a-marienburg",
+  "annee": 1711,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Jasmina el Al à Marienburg",
+   "en": "Jasmina el Al in Marienburg",
+   "de": "Jasmina el Al in Marienburg"
+  },
+  "resume": {
+   "fr": "La princesse Jasmina el Al de Copher tente d'absorber le pouvoir d'un Djinn à Marienburg. Ursula Silverblade la tue.",
+   "en": "Princess Jasmina el Al of Copher tries to absorb the power of a Djinn in Marienburg. Ursula Silverblade kills her.",
+   "de": "Prinzessin Jasmina el Al aus Copher versucht in Marienburg, die Macht eines Dschinns in sich aufzunehmen. Ursula Silverblade tötet sie."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "empire",
+   "sud"
+  ],
+  "lieux": [
+   "marienburg",
+   "copher"
+  ],
+  "factions": [
+   "humains-autres"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "The Blades of Chaos, roman de Gav Thorpe",
+     "en": "The Blades of Chaos, novel by Gav Thorpe",
+     "de": "The Blades of Chaos, Roman von Gav Thorpe"
+    },
+    "detail": {
+     "fr": "chap. 5",
+     "en": "ch. 5",
+     "de": "Kap. 5"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Copher",
+     "en": "Warhammer Fantasy Wiki (fandom), Copher page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Copher"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Copher"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Jasmina el Al",
+     "en": "Warhammer Fantasy Wiki (fandom), Jasmina el Al page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Jasmina el Al"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Jasmina_el_Al"
+   }
+  ]
+ },
+ {
+  "id": "baiser-de-genevieve-dieudonne",
+  "annee": 1858,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Geneviève Dieudonné devient vampire",
+   "en": "Genevieve Dieudonné becomes a vampire",
+   "de": "Genevieve Dieudonné wird zur Vampirin"
+  },
+  "resume": {
+   "fr": "À seize ans, Geneviève Dieudonné rencontre le vampire Chandagnac, qui la séduit et lui donne le Baiser de sang.",
+   "en": "At sixteen, Genevieve Dieudonné meets the vampire Chandagnac, who charms her and gives her the Dark Kiss.",
+   "de": "Mit sechzehn Jahren begegnet Genevieve Dieudonné dem Vampir Chandagnac, der sie betört und ihr den Blutkuss gibt."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "bretonnie"
+  ],
+  "lieux": [
+   "parravon"
+  ],
+  "factions": [
+   "vampires",
+   "bretonnie"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Date calculée par le wiki à partir de l'âge de Geneviève et de la date de chute de Drachenfels en 2480.",
+   "en": "Date worked out by the wiki from Genevieve's age and Drachenfels' fall in 2480.",
+   "de": "Datum vom Wiki aus Genevieves Alter und Drachenfels' Sturz im Jahr 2480 errechnet."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Drachenfels, roman de Jack Yeovil",
+     "en": "Drachenfels, novel by Jack Yeovil",
+     "de": "Drachenfels, Roman von Jack Yeovil"
+    },
+    "detail": {
+     "fr": "prologue, chap. 1",
+     "en": "prologue, ch. 1",
+     "de": "Prolog, Kap. 1"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Genevieve Dieudonne",
+     "en": "Warhammer Fantasy Wiki (fandom), Genevieve Dieudonne page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Genevieve Dieudonne"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Genevieve_Dieudonne"
+   },
+   {
+    "titre": {
+     "fr": "Drachenfels (roman de Jack Yeovil)",
+     "en": "Drachenfels (roman de Jack Yeovil)",
+     "de": "Drachenfels (roman de Jack Yeovil)"
+    },
+    "detail": {
+     "fr": "prologue, chap. 1",
+     "en": "prologue, ch. 1",
+     "de": "Prolog, Kap. 1"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Genevieve Dieudonné",
+     "en": "Warhammer Fantasy Wiki (fandom), Genevieve Dieudonné page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Genevieve Dieudonné"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Genevieve_Dieudonné"
+   }
+  ]
+ },
+ {
+  "id": "konrad-prend-oberstyre",
+  "annee": 2094,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Konrad prend le château Oberstyre",
+   "en": "Konrad takes Castle Oberstyre",
+   "de": "Konrad nimmt Burg Oberstyre"
+  },
+  "resume": {
+   "fr": "Konrad von Carstein prend le château Oberstyre en deux heures. Il franchit seul les douves, escalade la tour de la porte et abaisse le pont-levis pour laisser ses serviteurs massacrer la garnison.",
+   "en": "Konrad von Carstein takes Castle Oberstyre in two hours. He leaps the moat alone, scales the gate tower and lowers the drawbridge so his servants can butcher those inside.",
+   "de": "Konrad von Carstein nimmt Burg Oberstyre binnen zwei Stunden. Er setzt allein über den Graben, erklimmt den Torturm und lässt die Zugbrücke herab, damit seine Diener die Besatzung niedermetzeln können."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [],
+  "factions": [
+   "vampires",
+   "empire"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Vampire Counts, 8e édition",
+     "en": "Warhammer Armies: Vampire Counts, 8th edition",
+     "de": "Warhammer Armies: Vampire Counts, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 23",
+     "en": "p. 23",
+     "de": "S. 23"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Konrad von Carstein",
+     "en": "Warhammer Fantasy Wiki (fandom), Konrad von Carstein page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Konrad von Carstein"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Konrad_von_Carstein"
+   }
+  ]
+ },
+ {
+  "id": "deuxieme-guerre-des-comtes-vampires",
+  "annee": 2095,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Konrad ouvre la deuxième guerre des Comtes vampires",
+   "en": "Konrad opens the Second Vampire War",
+   "de": "Konrad eröffnet den zweiten Vampirkrieg"
+  },
+  "resume": {
+   "fr": "Mannfred parti, Konrad von Carstein lance ses forces sur l'Empire. Son ambition est bien moindre que celle de Vlad, car il ne veut pas régner en empereur vampire. Il cherche seulement le carnage.",
+   "en": "With Mannfred gone, Konrad von Carstein leads his forces against the Empire. His ambition falls far short of Vlad's, for he does not seek to rule as a vampire emperor. He wants only slaughter.",
+   "de": "Nach Mannfreds Weggang führt Konrad von Carstein seine Truppen gegen das Imperium. Sein Ehrgeiz reicht bei Weitem nicht an den Vlads heran, denn er will nicht als Vampirkaiser herrschen. Ihm geht es allein ums Gemetzel."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [],
+  "factions": [
+   "vampires",
+   "empire"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Vampire Counts, 8e édition",
+     "en": "Warhammer Armies: Vampire Counts, 8th edition",
+     "de": "Warhammer Armies: Vampire Counts, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 13",
+     "en": "p. 13",
+     "de": "S. 13"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Konrad von Carstein",
+     "en": "Warhammer Fantasy Wiki (fandom), Konrad von Carstein page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Konrad von Carstein"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Konrad_von_Carstein"
+   }
+  ]
+ },
+ {
+  "id": "konrad-enleve-des-nobles",
+  "annee": 2105,
+  "fin": 2107,
+  "approx": false,
+  "titre": {
+   "fr": "Konrad enlève des nobles et vise Averheim",
+   "en": "Konrad abducts nobles and targets Averheim",
+   "de": "Konrad entführt Adlige und greift nach Averheim"
+  },
+  "resume": {
+   "fr": "Revenu en Sylvanie avec une armée épuisée, Konrad envoie des agents enlever des nobles d'Ostermark et de Stirland pour en faire ses serviteurs. Deux ans plus tard, ses forces reconstituées, il tente de s'emparer d'Averheim.",
+   "en": "Back in Sylvania with a depleted army, Konrad sends agents to abduct nobles from Ostermark and Stirland to turn them into thralls. Two years later, his forces rebuilt, he tries to seize Averheim.",
+   "de": "Mit einem aufgeriebenen Heer nach Sylvania zurückgekehrt, schickt Konrad Agenten aus, um Adlige aus Ostermark und Stirland zu entführen und zu Sklaven zu machen. Zwei Jahre später versucht er mit neu aufgestellten Truppen, Averheim einzunehmen."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "averheim"
+  ],
+  "factions": [
+   "vampires",
+   "empire"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Vampire Counts, 7e édition",
+     "en": "Warhammer Armies: Vampire Counts, 7th edition",
+     "de": "Warhammer Armies: Vampire Counts, 7. Edition"
+    },
+    "detail": {
+     "fr": "p. 31",
+     "en": "p. 31",
+     "de": "S. 31"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Konrad von Carstein",
+     "en": "Warhammer Fantasy Wiki (fandom), Konrad von Carstein page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Konrad von Carstein"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Konrad_von_Carstein"
+   }
+  ]
+ },
+ {
+  "id": "zandri-seisme-2266",
+  "annee": 2266,
+  "fin": null,
+  "approx": true,
+  "titre": {
+   "fr": "Le séisme de Zandri",
+   "en": "The Zandri earthquake",
+   "de": "Das Erdbeben von Zandri"
+  },
+  "resume": {
+   "fr": "Lors d'une conjonction de Morrslieb et du Corbeau de Ranald, un tremblement de terre abat les tours de Zandri sur la flotte amarrée à ses quais et ruine ses fortifications maritimes. La puissance militaire et navale de la cité reste amoindrie pendant plus de dix ans.",
+   "en": "During a conjunction of Morrslieb and Ranald's Raven, an earthquake topples Zandri's towers onto the fleet at its docks and ruins its sea defences. The city's military and naval strength stays diminished for more than a decade.",
+   "de": "Bei einer Konjunktion von Morrslieb und Ranalds Rabe stürzt ein Erdbeben die Türme Zandris auf die Flotte an den Kais und zerstört die Seebefestigung. Die militärische und maritime Stärke der Stadt bleibt über ein Jahrzehnt lang gemindert."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "sud"
+  ],
+  "lieux": [
+   "zandri"
+  ],
+  "factions": [
+   "rois-des-tombes"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "An 3693 du calendrier nehekharéen, converti en 2266 environ par le wiki.",
+   "en": "Nehekharan year 3693, converted to about 2266 by the wiki.",
+   "de": "Nehekharisches Jahr 3693, vom Wiki in etwa 2266 umgerechnet."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Lords of the Lance, roman de Graham McNeill",
+     "en": "Lords of the Lance, novel by Graham McNeill",
+     "de": "Lords of the Lance, Roman von Graham McNeill"
+    },
+    "detail": {
+     "fr": "chap. 2",
+     "en": "ch. 2",
+     "de": "Kap. 2"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Zandri",
+     "en": "Warhammer Fantasy Wiki (fandom), Zandri page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Zandri"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Zandri"
+   }
+  ]
+ },
+ {
+  "id": "lord-harkon-a-ulfreya",
+  "annee": 2276,
+  "fin": null,
+  "approx": true,
+  "titre": {
+   "fr": "Lord Harkon à Ulfreya",
+   "en": "Lord Harkon at Ulfreya",
+   "de": "Lord Harkon in Ulfreya"
+  },
+  "resume": {
+   "fr": "Les ruines du donjon d'Ulfreya, dans les Royaumes frontaliers, sont tenues par un homme connu sous le seul nom de Lord Harkon, dont le blason porte un calice de sang sur fond noir.",
+   "en": "The ruins of the keep of Ulfreya in the Border Princes are held by a man known only as Lord Harkon, whose heraldry is a chalice of blood on black.",
+   "de": "Die Ruinen der Burg Ulfreya in den Grenzgrafschaften werden von einem Mann beherrscht, den man nur als Lord Harkon kennt und dessen Wappen einen Blutkelch auf Schwarz zeigt."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "royaumes-frontaliers"
+  ],
+  "lieux": [],
+  "factions": [
+   "vampires"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Le wiki rattache ce seigneur à Walach Harkon, sans que l'identité soit affirmée dans le texte cité.",
+   "en": "The wiki links this lord to Walach Harkon, though the cited text does not state his identity.",
+   "de": "Das Wiki bringt diesen Herrn mit Walach Harkon in Verbindung, ohne dass der zitierte Text seine Identität feststellt."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer: The Old World, site officiel",
+     "en": "Warhammer: The Old World website",
+     "de": "Warhammer: The Old World, offizielle Website"
+    },
+    "detail": {
+     "fr": "carte interactive Explore the Old World",
+     "en": "Explore the Old World interactive map",
+     "de": "interaktive Karte Explore the Old World"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Walach Harkon",
+     "en": "Warhammer Fantasy Wiki (fandom), Walach Harkon page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Walach Harkon"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Walach_Harkon"
+   }
+  ]
+ },
+ {
+  "id": "flotte-de-zandri-restauree",
+  "annee": 2277,
+  "fin": null,
+  "approx": true,
+  "titre": {
+   "fr": "La flotte de Zandri restaurée",
+   "en": "Zandri's fleet restored",
+   "de": "Zandris Flotte wiederhergestellt"
+  },
+  "resume": {
+   "fr": "Onze ans après le séisme, la flotte de morts-vivants de Zandri est remise en état.",
+   "en": "Eleven years after the earthquake, Zandri's undead fleet is restored.",
+   "de": "Elf Jahre nach dem Erdbeben ist Zandris untote Flotte wiederhergestellt."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "sud"
+  ],
+  "lieux": [
+   "zandri"
+  ],
+  "factions": [
+   "rois-des-tombes"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "An 3704 du calendrier nehekharéen, converti en 2277 environ par le wiki.",
+   "en": "Nehekharan year 3704, converted to about 2277 by the wiki.",
+   "de": "Nehekharisches Jahr 3704, vom Wiki in etwa 2277 umgerechnet."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Lords of the Lance, roman de Graham McNeill",
+     "en": "Lords of the Lance, novel by Graham McNeill",
+     "de": "Lords of the Lance, Roman von Graham McNeill"
+    },
+    "detail": {
+     "fr": "chap. 2",
+     "en": "ch. 2",
+     "de": "Kap. 2"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Zandri",
+     "en": "Warhammer Fantasy Wiki (fandom), Zandri page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Zandri"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Zandri"
+   }
+  ]
+ },
+ {
+  "id": "kemmler-en-nehekhara",
+  "annee": 2401,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Kemmler en Nehekhara",
+   "en": "Kemmler in Nehekhara",
+   "de": "Kemmler in Nehekhara"
+  },
+  "resume": {
+   "fr": "Déjà puissant, Heinrich Kemmler se rend en Terre des Morts. La plupart des Rois des tombes lui sont hostiles, mais quelques-uns traitent avec lui, et il rentre dans le Vieux Monde avec l'idée de bâtir un royaume capable de rivaliser avec les nécropoles du sud.",
+   "en": "Already powerful, Heinrich Kemmler journeys to the Land of the Dead. Most Tomb Kings are hostile, but a few treat with him, and he returns to the Old World intent on building a realm to rival the southern necropolises.",
+   "de": "Der bereits mächtige Heinrich Kemmler reist ins Land der Toten. Die meisten Gruftkönige sind ihm feindlich gesinnt, doch einige verhandeln mit ihm, und er kehrt mit dem Plan in die Alte Welt zurück, ein Reich zu errichten, das den Nekropolen des Südens gleichkommt."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "sud"
+  ],
+  "lieux": [
+   "nehekhara"
+  ],
+  "factions": [
+   "vampires",
+   "rois-des-tombes"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "White Dwarf 309 (UK), « Return of the Lichemaster »",
+     "en": "White Dwarf 309 (UK), « Return of the Lichemaster »",
+     "de": "White Dwarf 309 (UK), « Return of the Lichemaster »"
+    },
+    "detail": {
+     "fr": "p. 61",
+     "en": "p. 61",
+     "de": "S. 61"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Heinrich Kemmler",
+     "en": "Warhammer Fantasy Wiki (fandom), Heinrich Kemmler page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Heinrich Kemmler"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Heinrich_Kemmler"
+   }
+  ]
+ },
+ {
+  "id": "kemmler-prisonnier-de-crovan",
+  "annee": 2440,
+  "fin": 2445,
+  "approx": false,
+  "titre": {
+   "fr": "Kemmler prisonnier de Crovan",
+   "en": "Kemmler the prisoner of Crovan",
+   "de": "Kemmler als Gefangener Crovans"
+  },
+  "resume": {
+   "fr": "Kemmler pénètre au château maudit de Vermisace pour y chercher un des Livres de Nagash, mais la vieille liche Crovan le prend au piège et l'enferme dans une crypte obscure. Au bout de cinq ans, il s'évade, vainc Crovan et ses acolytes, et prend le nom de Liche-Maître.",
+   "en": "Kemmler enters the cursed Castle Vermisace in search of one of the Books of Nagash, but the ancient Liche Crovan traps him and shuts him in a lightless crypt. After five years he escapes, defeats Crovan and his acolytes, and takes the name Lichemaster.",
+   "de": "Kemmler dringt in die verfluchte Burg Vermisace ein, um eines der Bücher des Nagash zu suchen, doch der alte Lich Crovan fängt ihn und sperrt ihn in eine lichtlose Gruft. Nach fünf Jahren entkommt er, besiegt Crovan und dessen Akolythen und nennt sich fortan Lichmeister."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [],
+  "factions": [
+   "vampires"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "La source ne situe pas Vermisace : la région indiquée est provisoire.",
+   "en": "The source does not locate Vermisace, so the region given is provisional.",
+   "de": "Die Quelle verortet Vermisace nicht, die angegebene Region ist daher vorläufig."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "White Dwarf 309 (UK), « Return of the Lichemaster »",
+     "en": "White Dwarf 309 (UK), « Return of the Lichemaster »",
+     "de": "White Dwarf 309 (UK), « Return of the Lichemaster »"
+    },
+    "detail": {
+     "fr": "p. 61",
+     "en": "p. 61",
+     "de": "S. 61"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Heinrich Kemmler",
+     "en": "Warhammer Fantasy Wiki (fandom), Heinrich Kemmler page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Heinrich Kemmler"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Heinrich_Kemmler"
+   }
+  ]
+ },
+ {
+  "id": "kemmler-chasse-khemalla",
+  "annee": 2460,
+  "fin": null,
+  "approx": true,
+  "titre": {
+   "fr": "Kemmler chasse Khemalla de Miragliano",
+   "en": "Kemmler drives Khemalla from Miragliano",
+   "de": "Kemmler vertreibt Khemalla aus Miragliano"
+  },
+  "resume": {
+   "fr": "Décidé à surpasser tous les nécromanciens, Kemmler s'en prend au repaire de la Lahmienne Khemalla à Miragliano. Il pille sa bibliothèque et la chasse de la cité.",
+   "en": "Determined to surpass all other necromancers, Kemmler targets the lair of the Lahmian Khemalla in Miragliano. He pillages her library and drives her from the city.",
+   "de": "Um alle anderen Nekromanten zu übertreffen, nimmt Kemmler den Schlupfwinkel der Lahmianerin Khemalla in Miragliano ins Visier. Er plündert ihre Bibliothek und vertreibt sie aus der Stadt."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "tilee-estalie"
+  ],
+  "lieux": [
+   "miragliano"
+  ],
+  "factions": [
+   "vampires"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "White Dwarf 309 (UK), « Return of the Lichemaster »",
+     "en": "White Dwarf 309 (UK), « Return of the Lichemaster »",
+     "de": "White Dwarf 309 (UK), « Return of the Lichemaster »"
+    },
+    "detail": {
+     "fr": "p. 61",
+     "en": "p. 61",
+     "de": "S. 61"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Heinrich Kemmler",
+     "en": "Warhammer Fantasy Wiki (fandom), Heinrich Kemmler page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Heinrich Kemmler"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Heinrich_Kemmler"
+   }
+  ]
+ },
+ {
+  "id": "brachnar-ranime",
+  "annee": 2464,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Brachnar le Damné ranimé",
+   "en": "Brachnar the Damned revived",
+   "de": "Brachnar der Verdammte wiedererweckt"
+  },
+  "resume": {
+   "fr": "Un sorcier de village de l'Empire ranime par mégarde les restes de Brachnar le Damné. Le nécrarque le dévore, puis passe quinze ans à rassembler des serviteurs et à préparer sa revanche sur Kemmler.",
+   "en": "An Imperial hedge wizard mistakenly animates the remains of Brachnar the Damned. The Necrarch devours him, then spends fifteen years gathering servants and plotting revenge on Kemmler.",
+   "de": "Ein Heckenzauberer aus dem Imperium erweckt versehentlich die Überreste Brachnars des Verdammten. Der Nekrarch verschlingt ihn und sammelt fünfzehn Jahre lang Diener, um sich an Kemmler zu rächen."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [],
+  "factions": [
+   "vampires",
+   "empire"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "White Dwarf 309 (UK), « Return of the Lichemaster »",
+     "en": "White Dwarf 309 (UK), « Return of the Lichemaster »",
+     "de": "White Dwarf 309 (UK), « Return of the Lichemaster »"
+    },
+    "detail": {
+     "fr": "p. 61",
+     "en": "p. 61",
+     "de": "S. 61"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Heinrich Kemmler",
+     "en": "Warhammer Fantasy Wiki (fandom), Heinrich Kemmler page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Heinrich Kemmler"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Heinrich_Kemmler"
+   },
+   {
+    "titre": {
+     "fr": "White Dwarf 309 (UK), Return of the Lichemaster",
+     "en": "White Dwarf 309 (UK), Return of the Lichemaster",
+     "de": "White Dwarf 309 (UK), Return of the Lichemaster"
+    },
+    "detail": {
+     "fr": "p. 61",
+     "en": "p. 61",
+     "de": "S. 61"
+    },
+    "url": ""
+   }
+  ]
+ },
+ {
+  "id": "bataille-des-dix-mille-cranes",
+  "annee": 2480,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Bataille des Dix Mille Crânes",
+   "en": "Battle of Ten Thousand Skulls",
+   "de": "Schlacht der Zehntausend Schädel"
+  },
+  "resume": {
+   "fr": "Blessé et en fuite dans les Voûtes, Kemmler tombe dans une embuscade de Brachnar le Damné et d'autres rivaux. Le duel de sorcellerie dure trois jours et trois nuits. Kemmler brise leurs armées d'un grand sort de confusion, mais il en sort le corps et l'esprit détruits, et erre dix ans en mendiant.",
+   "en": "Wounded and fleeing through the Vaults, Kemmler is ambushed by Brachnar the Damned and other rivals. The contest of sorcery lasts three days and three nights. Kemmler shatters their armies with a great spell of confusion, but emerges broken in body and mind and wanders for ten years as a beggar.",
+   "de": "Verwundet und auf der Flucht durch die Gewölbe gerät Kemmler in einen Hinterhalt Brachnars des Verdammten und anderer Rivalen. Das Zauberduell dauert drei Tage und drei Nächte. Kemmler zerschlägt ihre Heere mit einem gewaltigen Verwirrungszauber, doch er geht an Körper und Geist gebrochen daraus hervor und zieht zehn Jahre als Bettler umher."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "bretonnie",
+   "tilee-estalie"
+  ],
+  "lieux": [
+   "krinal"
+  ],
+  "factions": [
+   "vampires"
+  ],
+  "importance": 2,
+  "fiabilite": "etabli",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "White Dwarf 309 (UK), « Return of the Lichemaster »",
+     "en": "White Dwarf 309 (UK), « Return of the Lichemaster »",
+     "de": "White Dwarf 309 (UK), « Return of the Lichemaster »"
+    },
+    "detail": {
+     "fr": "p. 61",
+     "en": "p. 61",
+     "de": "S. 61"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Vampire Counts, 8e édition",
+     "en": "Warhammer Armies: Vampire Counts, 8th edition",
+     "de": "Warhammer Armies: Vampire Counts, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 58",
+     "en": "p. 58",
+     "de": "S. 58"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Heinrich Kemmler",
+     "en": "Warhammer Fantasy Wiki (fandom), Heinrich Kemmler page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Heinrich Kemmler"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Heinrich_Kemmler"
+   }
+  ]
+ },
+ {
+  "id": "zacharias-attaque-le-wissenland",
+  "annee": 2517,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Zacharias attaque le Wissenland",
+   "en": "Zacharias attacks Wissenland",
+   "de": "Zacharias greift Wissenland an"
+  },
+  "resume": {
+   "fr": "Zacharias l'Éternel fond sur le Wissenland avec des squelettes et des Dragons zombies. Les Impériaux se croient perdus quand une seconde armée de morts surgit du sud. Menée par un Roi des tombes momifié, elle soutient au contraire leur ligne, et ensemble ils repoussent Zacharias.",
+   "en": "Zacharias the Everliving falls on Wissenland with skeletons and Zombie Dragons. The Imperial forces think themselves doomed when a second undead host appears from the south. Led by a mummified Tomb King, it instead bolsters their line, and together they drive Zacharias back.",
+   "de": "Zacharias der Ewiglebende fällt mit Skeletten und Zombiedrachen über Wissenland her. Die imperialen Truppen glauben sich verloren, als von Süden ein zweites untotes Heer auftaucht. Unter Führung eines mumifizierten Gruftkönigs stützt es jedoch ihre Linie, und gemeinsam treiben sie Zacharias zurück."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [],
+  "factions": [
+   "vampires",
+   "empire",
+   "rois-des-tombes"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Zacharias the Everliving",
+     "en": "Warhammer Fantasy Wiki (fandom), Zacharias the Everliving page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Zacharias the Everliving"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Zacharias_the_Everliving"
+   }
+  ]
+ },
+ {
+  "id": "zacharias-et-le-dragon-noir",
+  "annee": 2518,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Zacharias et le Dragon noir",
+   "en": "Zacharias and the Black Dragon",
+   "de": "Zacharias und der Schwarze Drache"
+  },
+  "resume": {
+   "fr": "Une Dragonne noire fait son nid dans la caverne où dort Zacharias, sans se douter de sa présence. Le nécrarque s'éveille assoiffé et la mord au ventre pendant son sommeil.",
+   "en": "A Black Dragon nests in the cave where Zacharias sleeps, unaware of his presence. The Necrarch wakes thirsty and bites into her underside as she slumbers.",
+   "de": "Eine schwarze Drachin nistet in der Höhle, in der Zacharias schläft, ohne etwas von ihm zu ahnen. Der Nekrarch erwacht durstig und beißt sie im Schlaf in den Bauch."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [],
+  "factions": [
+   "vampires"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "La page ne précise pas où se trouve la caverne : la région indiquée est provisoire.",
+   "en": "The page does not say where the cave is, so the region given is provisional.",
+   "de": "Die Seite gibt nicht an, wo die Höhle liegt, die angegebene Region ist daher vorläufig."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Zacharias the Everliving",
+     "en": "Warhammer Fantasy Wiki (fandom), Zacharias the Everliving page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Zacharias the Everliving"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Zacharias_the_Everliving"
+   }
+  ]
+ }
+]

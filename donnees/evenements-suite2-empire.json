@@ -1,0 +1,4020 @@
+[
+ {
+  "id": "croisade-d-ulgrim-fort-de-bronze",
+  "annee": 450,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "La croisade de l'archilecteur Ulgrim au Fort de Bronze",
+   "en": "Arch Lector Ulgrim's crusade to the Brass Keep",
+   "de": "Der Kreuzzug des Erzlektors Ulgrim zur Messingfeste"
+  },
+  "resume": {
+   "fr": "Le culte de Sigmar veut revendiquer tous les lieux où son dieu a combattu. L'archilecteur Ulgrim quitte Altdorf avec flagellants et guerriers saints, éprouve durement les villages du Middenland sur son passage, puis proclame terre sainte les ruines du Fort de Bronze, désertées par les Norses.",
+   "en": "The Cult of Sigmar sets out to claim every place where its god fought. Arch Lector Ulgrim leaves Altdorf with flagellants and holy warriors, does real harm to Middenland villages on the way, then declares the ruined Brass Keep, already abandoned by the Norscans, holy ground.",
+   "de": "Der Sigmarkult will alle Orte beanspruchen, an denen sein Gott kämpfte. Erzlektor Ulgrim zieht mit Flagellanten und heiligen Kriegern aus Altdorf, schädigt unterwegs die Dörfer des Middenlands schwer und erklärt die von den Norsen verlassene Ruine der Messingfeste zu heiligem Boden."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "donjon-d-airain",
+   "altdorf"
+  ],
+  "factions": [
+   "empire"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "The Horned Rat Companion, Warhammer Fantasy Roleplay 4e édition",
+     "en": "The Horned Rat Companion, Warhammer Fantasy Roleplay 4th edition",
+     "de": "The Horned Rat Companion, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 74",
+     "en": "p. 74",
+     "de": "S. 74"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Brass Keep",
+     "en": "Warhammer Fantasy Wiki (fandom), Brass Keep page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Brass Keep"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Brass_Keep"
+   },
+   {
+    "titre": {
+     "fr": "The Horned Rat Companion, Warhammer Fantasy Roleplay (4e édition)",
+     "en": "The Horned Rat Companion, Warhammer Fantasy Roleplay (4th edition)",
+     "de": "The Horned Rat Companion, Warhammer Fantasy Roleplay (4. Edition)"
+    },
+    "detail": {
+     "fr": "p. 74",
+     "en": "p. 74",
+     "de": "S. 74"
+    },
+    "url": ""
+   }
+  ]
+ },
+ {
+  "id": "premier-chevalier-eternel",
+  "annee": 555,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Siegfried, premier Chevalier éternel",
+   "en": "Siegfried, the first Knight Eternal",
+   "de": "Siegfried, der erste Ewige Ritter"
+  },
+  "resume": {
+   "fr": "Sur le conseil d'une prophétesse, le graf Wulfgaeng met à l'épreuve les héros de Middenheim, et le soldat Siegfried rapporte la tête du pillard du Chaos Zakash. La tradition veut qu'une armure blanche soit apparue sur l'autel du grand temple et que l'Ar-Ulric la lui ait remise.",
+   "en": "On a prophetess's advice, Graf Wulfgaeng tests the heroes of Middenheim, and the soldier Siegfried brings back the head of the Chaos raider Zakash. Tradition holds that a white armour appeared on the altar of the high temple and that the Ar-Ulric handed it to him.",
+   "de": "Auf den Rat einer Prophetin stellt Graf Wulfgaeng die Helden Middenheims auf die Probe, und der Soldat Siegfried bringt den Kopf des Chaosplünderers Zakash zurück. Der Überlieferung nach erschien auf dem Altar des Hochtempels eine weiße Rüstung, die ihm der Ar-Ulric überreichte."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "middenheim"
+  ],
+  "factions": [
+   "empire",
+   "chaos"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Middenheim: City of the White Wolf, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Middenheim: City of the White Wolf, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Middenheim: City of the White Wolf, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 11",
+     "en": "p. 11",
+     "de": "S. 11"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Knight Eternal",
+     "en": "Warhammer Fantasy Wiki (fandom), Knight Eternal page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Knight Eternal"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Knight_Eternal"
+   }
+  ]
+ },
+ {
+  "id": "premieres-pierres-cathedrale-de-sigmar",
+  "annee": 580,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Premières pierres de la cathédrale de Sigmar à Altdorf",
+   "en": "First stones of the Cathedral of Sigmar in Altdorf",
+   "de": "Grundsteine der Sigmarkathedrale in Altdorf"
+  },
+  "resume": {
+   "fr": "Des Nains réfugiés posent les premières pierres de l'actuel grand temple de Sigmar, par lequel ils cherchent à s'assurer une place dans la capitale.",
+   "en": "Dwarf refugees lay the first stones of the present high temple of Sigmar, a work meant to secure them a place in the capital.",
+   "de": "Zwergische Flüchtlinge legen die ersten Steine des heutigen Hochtempels des Sigmar, mit dem sie sich einen Platz in der Hauptstadt sichern wollen."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "altdorf"
+  ],
+  "factions": [
+   "empire",
+   "nains"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "La date vient du roman, le rôle des Nains de Spires of Altdorf. Le temple primitif de Johann Helstrum est un édifice antérieur.",
+   "en": "The date comes from the novel, the Dwarfs' role from Spires of Altdorf. Johann Helstrum's original temple is an earlier building.",
+   "de": "Das Datum stammt aus dem Roman, die Rolle der Zwerge aus Spires of Altdorf. Der ursprüngliche Tempel Johann Helstrums ist ein älterer Bau."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Sword of Vengeance, roman de Chris Wraight",
+     "en": "Sword of Vengeance, novel by Chris Wraight",
+     "de": "Sword of Vengeance, Roman von Chris Wraight"
+    },
+    "detail": {
+     "fr": "chap. 5",
+     "en": "ch. 5",
+     "de": "Kap. 5"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Spires of Altdorf, Warhammer Fantasy Roleplay 2e édition",
+     "en": "Spires of Altdorf, Warhammer Fantasy Roleplay 2nd edition",
+     "de": "Spires of Altdorf, Warhammer Fantasy Roleplay 2. Edition"
+    },
+    "detail": {
+     "fr": "p. 5",
+     "en": "p. 5",
+     "de": "S. 5"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Holy Temple of Sigmar",
+     "en": "Warhammer Fantasy Wiki (fandom), Holy Temple of Sigmar page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Holy Temple of Sigmar"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Holy_Temple_of_Sigmar"
+   }
+  ]
+ },
+ {
+  "id": "achevement-cathedrale-life-of-sigmar",
+  "annee": 1000,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Achèvement de la cathédrale et La Vie de Sigmar",
+   "en": "Cathedral completed and The Life of Sigmar",
+   "de": "Vollendung der Kathedrale und Das Leben Sigmars"
+  },
+  "resume": {
+   "fr": "Après quatre siècles de chantier, le temple de Sigmar d'Altdorf est terminé. Une somme en huit volumes, La Vie de Sigmar, est commandée pour marquer l'événement.",
+   "en": "After four centuries of work, the temple of Sigmar in Altdorf is finished. An eight-volume work, The Life of Sigmar, is commissioned to mark the occasion.",
+   "de": "Nach vier Jahrhunderten Bauzeit ist der Sigmartempel in Altdorf vollendet. Zur Feier wird das achtbändige Werk Das Leben Sigmars in Auftrag gegeben."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "altdorf"
+  ],
+  "factions": [
+   "empire"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2e édition",
+     "en": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2nd edition",
+     "de": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2. Edition"
+    },
+    "detail": {
+     "fr": "p. 15",
+     "en": "p. 15",
+     "de": "S. 15"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Holy Temple of Sigmar",
+     "en": "Warhammer Fantasy Wiki (fandom), Holy Temple of Sigmar page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Holy Temple of Sigmar"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Holy_Temple_of_Sigmar"
+   }
+  ]
+ },
+ {
+  "id": "charte-de-kemperbad",
+  "annee": 1066,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Charte impériale de Kemperbad",
+   "en": "Imperial charter of Kemperbad",
+   "de": "Kaiserliche Charta von Kemperbad"
+  },
+  "resume": {
+   "fr": "Boris Goldgather accorde une charte à Kemperbad, qui devient une ville libre relevant du seul empereur. Un conseil de treize membres issu des grands marchands et des temples la gouverne désormais.",
+   "en": "Boris Goldgather grants Kemperbad a charter, making it a free town answerable to the emperor alone. A council of thirteen drawn from the leading merchants and the temples governs it from then on.",
+   "de": "Boris Goldgather verleiht Kemperbad eine Charta und macht es zur freien Stadt, die allein dem Kaiser untersteht. Fortan regiert ein Rat der Dreizehn aus führenden Kaufleuten und Tempeln."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "kemperbad"
+  ],
+  "factions": [
+   "empire"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Death on the Reik, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Death on the Reik, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Death on the Reik, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 33",
+     "en": "p. 33",
+     "de": "S. 33"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Kemperbad",
+     "en": "Warhammer Fantasy Wiki (fandom), Kemperbad page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Kemperbad"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Kemperbad"
+   }
+  ]
+ },
+ {
+  "id": "pavane-des-lepreux",
+  "annee": 1104,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "La Pavane des lépreux",
+   "en": "The Leper's Pavanne",
+   "de": "Die Pavane der Aussätzigen"
+  },
+  "resume": {
+   "fr": "Constant Drachenfels attire près d'un millier de personnes à un bal dans son château en leur promettant ce qu'elles désirent le plus. Il les contraint ensuite à danser jusqu'à ce que leurs membres se détachent.",
+   "en": "Constant Drachenfels lures nearly a thousand people to a ball at his castle with promises of what they most desire. He then forces them to dance until their limbs fall off.",
+   "de": "Constant Drachenfels lockt fast tausend Menschen mit Versprechen ihrer größten Wünsche zu einem Ball auf seine Burg. Dann zwingt er sie zu tanzen, bis ihnen die Glieder abfallen."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "montagnes"
+  ],
+  "lieux": [
+   "chateau-drachenfels"
+  ],
+  "factions": [
+   "empire"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Le wiki attribue deux pages à la même note (p. 4 et p. 95), le détail est donc laissé vide.",
+   "en": "The wiki gives two pages for the same footnote (p. 4 and p. 95), so the detail is left empty.",
+   "de": "Das Wiki nennt für dieselbe Fußnote zwei Seiten (S. 4 und S. 95), daher bleibt die Angabe leer."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Castle Drachenfels, Warhammer Fantasy Roleplay 1e édition",
+     "en": "Castle Drachenfels, Warhammer Fantasy Roleplay 1st edition",
+     "de": "Castle Drachenfels, Warhammer Fantasy Roleplay 1. Edition"
+    },
+    "detail": "",
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Constant Drachenfels",
+     "en": "Warhammer Fantasy Wiki (fandom), Constant Drachenfels page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Constant Drachenfels"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Constant_Drachenfels"
+   }
+  ]
+ },
+ {
+  "id": "guilde-de-l-accise-imperiale",
+  "annee": 1112,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Les Goldgrubbers de Boris Goldgather",
+   "en": "Goldgather's Goldgrubbers",
+   "de": "Goldgathers Goldgrubbers"
+  },
+  "resume": {
+   "fr": "En pleine Peste noire, Boris Goldgather installe à Altdorf une guilde impériale d'excise chargée de maintenir les rentrées fiscales. Les habitants surnomment ces percepteurs les Goldgrubbers de Goldgather.",
+   "en": "In the midst of the Black Death, Boris Goldgather installs an Imperial Guild of Excise in Altdorf to keep revenue flowing. The townsfolk call these collectors Goldgather's Goldgrubbers.",
+   "de": "Mitten in der Pest setzt Boris Goldgather in Altdorf eine kaiserliche Akzisegilde ein, die die Einnahmen sichern soll. Die Einwohner nennen diese Steuereintreiber Goldgathers Goldgrubbers."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "altdorf"
+  ],
+  "factions": [
+   "empire"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Blighted Empire, roman de C.L. Werner",
+     "en": "Blighted Empire, novel by C.L. Werner",
+     "de": "Blighted Empire, Roman von C.L. Werner"
+    },
+    "detail": {
+     "fr": "chap. 16",
+     "en": "ch. 16",
+     "de": "Kap. 16"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Imperial Guild of Excise, Custom, Honour and Fidelity",
+     "en": "Warhammer Fantasy Wiki (fandom), Imperial Guild of Excise, Custom, Honour and Fidelity page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Imperial Guild of Excise, Custom, Honour and Fidelity"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Imperial_Guild_of_Excise,_Custom,_Honour_and_Fidelity"
+   }
+  ]
+ },
+ {
+  "id": "mort-de-l-ar-ulric-bronnstein",
+  "annee": 1116,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Mort de l'Ar-Ulric Bronnstein",
+   "en": "Death of Ar-Ulric Bronnstein",
+   "de": "Tod des Ar-Ulric Bronnstein"
+  },
+  "resume": {
+   "fr": "Issu du collège du Loup sacré du Drakwald, l'Ar-Ulric Bronnstein tombe en repoussant un raid skaven sur les marches du grand temple de Middenheim.",
+   "en": "A graduate of the Drakwald College of the Holy Wolf, Ar-Ulric Bronnstein falls fighting a Skaven raiding party on the steps of the high temple of Middenheim.",
+   "de": "Der aus dem Drakwald-Kolleg des Heiligen Wolfs hervorgegangene Ar-Ulric Bronnstein fällt im Kampf gegen einen Skavenüberfall auf den Stufen des Hochtempels von Middenheim."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "middenheim"
+  ],
+  "factions": [
+   "empire",
+   "skavens"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Tome of Salvation, Warhammer Fantasy Roleplay 2e édition",
+     "en": "Tome of Salvation, Warhammer Fantasy Roleplay 2nd edition",
+     "de": "Tome of Salvation, Warhammer Fantasy Roleplay 2. Edition"
+    },
+    "detail": {
+     "fr": "p. 179",
+     "en": "p. 179",
+     "de": "S. 179"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Drakwald College of the Holy Wolf",
+     "en": "Warhammer Fantasy Wiki (fandom), Drakwald College of the Holy Wolf page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Drakwald College of the Holy Wolf"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Drakwald_College_of_the_Holy_Wolf"
+   }
+  ]
+ },
+ {
+  "id": "grand-temple-des-repurgateurs",
+  "annee": 1220,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Le Grand Temple des répurgateurs",
+   "en": "The Great Temple of the witch hunters",
+   "de": "Der Große Tempel der Hexenjäger"
+  },
+  "resume": {
+   "fr": "Le Grand Temple, siège des répurgateurs templiers, est établi dans le quartier du Domplatz d'Altdorf, tout près du temple de Sigmar.",
+   "en": "The Great Temple, headquarters of the Templar Witch Hunters, is established in Altdorf's Domplatz district close to the temple of Sigmar.",
+   "de": "Der Große Tempel, Hauptsitz der Templer-Hexenjäger, wird im Altdorfer Viertel Domplatz nahe dem Sigmartempel errichtet."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "altdorf"
+  ],
+  "factions": [
+   "empire"
+  ],
+  "importance": 1,
+  "fiabilite": "etabli",
+  "note": {
+   "fr": "La chronologie place par ailleurs la naissance des Templiers de Sigmar en 1682. L'édifice pourrait donc précéder l'ordre qui l'occupe aujourd'hui.",
+   "en": "The timeline elsewhere dates the birth of the Templars of Sigmar to 1682, so the building may predate the order that now occupies it.",
+   "de": "Die Chronik datiert die Entstehung der Templer Sigmars an anderer Stelle auf 1682. Das Gebäude könnte also älter sein als der Orden, der es heute nutzt."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Signs of Faith, Warhammer Fantasy Roleplay 3e édition",
+     "en": "Signs of Faith, Warhammer Fantasy Roleplay 3rd edition",
+     "de": "Signs of Faith, Warhammer Fantasy Roleplay 3. Edition"
+    },
+    "detail": {
+     "fr": "p. 13",
+     "en": "p. 13",
+     "de": "S. 13"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Altdorf: Crown of the Empire, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Altdorf: Crown of the Empire, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Altdorf: Crown of the Empire, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 101",
+     "en": "p. 101",
+     "de": "S. 101"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Great Temple",
+     "en": "Warhammer Fantasy Wiki (fandom), Great Temple page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Great Temple"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Great_Temple"
+   }
+  ]
+ },
+ {
+  "id": "gunthar-le-sage-et-l-elementalisme",
+  "annee": 1260,
+  "fin": 1280,
+  "approx": true,
+  "titre": {
+   "fr": "Gunthar le Sage et la théorie élémentaliste",
+   "en": "Gunthar the Wise and elementalist theory",
+   "de": "Gunthar der Weise und die Elementarlehre"
+  },
+  "resume": {
+   "fr": "En plein âge des guerres, le sorcier de haie Gunthar le Sage parcourt le Vieux Monde pendant vingt ans auprès des érudits. Il cherche une théorie générale de la magie qui facilite l'enseignement et la création de sorts.",
+   "en": "In the midst of the Age of Wars, the hedge wizard Gunthar the Wise spends twenty years travelling the Old World among scholars. He seeks a general theory of magic to make teaching and the devising of spells easier.",
+   "de": "Mitten im Zeitalter der Kriege bereist der Heckenzauberer Gunthar der Weise zwanzig Jahre lang die Alte Welt und besucht Gelehrte. Er sucht eine allgemeine Theorie der Magie, die Lehre und Zauberentwicklung erleichtern soll."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [],
+  "factions": [
+   "empire"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Realms of Sorcery, Warhammer Fantasy Roleplay 1e édition",
+     "en": "Realms of Sorcery, Warhammer Fantasy Roleplay 1st edition",
+     "de": "Realms of Sorcery, Warhammer Fantasy Roleplay 1. Edition"
+    },
+    "detail": {
+     "fr": "p. 62",
+     "en": "p. 62",
+     "de": "S. 62"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Elementalism",
+     "en": "Warhammer Fantasy Wiki (fandom), Elementalism page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Elementalism"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Elementalism"
+   }
+  ]
+ },
+ {
+  "id": "siege-de-hellenbach",
+  "annee": 1306,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Le siège de Hellenbach et saint Maurus",
+   "en": "The Siege of Hellenbach and St. Maurus",
+   "de": "Die Belagerung von Hellenbach und der heilige Maurus"
+  },
+  "resume": {
+   "fr": "Le prêtre de Sigmar Maurus est tué dès le début des combats par le chef orque Bardag Throat-ripper, qui entreprend de le dévorer et s'étouffe avec l'une de ses bagues. Privée de son chef, l'armée orque perd courage et les défenseurs l'emportent.",
+   "en": "The Sigmarite priest Maurus is killed early in the fighting by the Orc warlord Bardag Throat-ripper, who starts to devour him and chokes on one of his rings. Their leader gone, the Orcs lose heart and the defenders win the day.",
+   "de": "Der Sigmarpriester Maurus wird zu Beginn der Kämpfe vom Orkkriegsherrn Bardag Throat-ripper getötet, der ihn zu verschlingen beginnt und an einem seiner Ringe erstickt. Ohne ihren Anführer verlieren die Orks den Mut, und die Verteidiger siegen."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [],
+  "factions": [
+   "empire",
+   "peaux-vertes"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "The Witch Hunter's Handbook, livre d'univers",
+     "en": "The Witch Hunter's Handbook, background book",
+     "de": "The Witch Hunter's Handbook, Hintergrundbuch"
+    },
+    "detail": {
+     "fr": "p. 23",
+     "en": "p. 23",
+     "de": "S. 23"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page St. Maurus Reliquary",
+     "en": "Warhammer Fantasy Wiki (fandom), St. Maurus Reliquary page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite St. Maurus Reliquary"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/St._Maurus_Reliquary"
+   }
+  ]
+ },
+ {
+  "id": "l-ar-ulric-devient-electeur",
+  "annee": 1334,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "L'Ar-Ulric reçoit une voix électorale",
+   "en": "The Ar-Ulric becomes an Elector",
+   "de": "Der Ar-Ulric wird Kurfürst"
+  },
+  "resume": {
+   "fr": "Pour tenter de mettre fin à l'âge des guerres, l'Ar-Ulric est admis pour la première fois parmi les électeurs de l'Empire. Magnus le Pieux confirmera cette voix au début du XXIVe siècle, au nom du rôle du culte d'Ulric auprès de Sigmar.",
+   "en": "In an attempt to end the Age of Wars, the Ar-Ulric is admitted among the Electors of the Empire for the first time. Magnus the Pious will confirm this vote in the early 24th century, citing the Cult of Ulric's place beside Sigmar.",
+   "de": "Um das Zeitalter der Kriege zu beenden, wird der Ar-Ulric erstmals unter die Kurfürsten des Imperiums aufgenommen. Magnus der Fromme bestätigt diese Stimme im frühen 24. Jahrhundert unter Berufung auf die Rolle des Ulrikskults an Sigmars Seite."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "middenheim"
+  ],
+  "factions": [
+   "empire"
+  ],
+  "importance": 2,
+  "fiabilite": "etabli",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Tome of Salvation, Warhammer Fantasy Roleplay 2e édition",
+     "en": "Tome of Salvation, Warhammer Fantasy Roleplay 2nd edition",
+     "de": "Tome of Salvation, Warhammer Fantasy Roleplay 2. Edition"
+    },
+    "detail": {
+     "fr": "p. 23",
+     "en": "p. 23",
+     "de": "S. 23"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Middenheim: City of the White Wolf, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Middenheim: City of the White Wolf, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Middenheim: City of the White Wolf, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 13",
+     "en": "p. 13",
+     "de": "S. 13"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Ar-Ulric",
+     "en": "Warhammer Fantasy Wiki (fandom), Ar-Ulric page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Ar-Ulric"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Ar-Ulric"
+   }
+  ]
+ },
+ {
+  "id": "ordre-du-coeur-ardent",
+  "annee": 1360,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Naissance de l'Ordre du Cœur Ardent",
+   "en": "Founding of the Order of the Fiery Heart",
+   "de": "Gründung des Ordens des Feurigen Herzens"
+  },
+  "resume": {
+   "fr": "L'ordre templier du Cœur Ardent naît lorsque la grande-duchesse Ottilia interdit le culte de Sigmar au Talabecland. Il se voue à la protection des prêtres et des temples sigmarites, et se fait une spécialité de la lutte contre les Peaux-vertes.",
+   "en": "The templar Order of the Fiery Heart dates from Grand Duchess Ottilia's ban on the Cult of Sigmar in Talabecland. It devotes itself to guarding Sigmarite priests and temples, and makes a speciality of fighting Greenskins.",
+   "de": "Der Templerorden des Feurigen Herzens entsteht, als Großherzogin Ottilia den Sigmarkult im Talabecland verbietet. Er widmet sich dem Schutz sigmaritischer Priester und Tempel und spezialisiert sich auf den Kampf gegen Grünhäute."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [],
+  "factions": [
+   "empire"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Omens of War, Warhammer Fantasy Roleplay 3e édition",
+     "en": "Omens of War, Warhammer Fantasy Roleplay 3rd edition",
+     "de": "Omens of War, Warhammer Fantasy Roleplay 3. Edition"
+    },
+    "detail": {
+     "fr": "p. 30",
+     "en": "p. 30",
+     "de": "S. 30"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Order of the Fiery Heart",
+     "en": "Warhammer Fantasy Wiki (fandom), Order of the Fiery Heart page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Order of the Fiery Heart"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Order_of_the_Fiery_Heart"
+   }
+  ]
+ },
+ {
+  "id": "pilier-de-sigmar",
+  "annee": 1416,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Le Pilier de Sigmar d'Altdorf",
+   "en": "The Pillar of Sigmar in Altdorf",
+   "de": "Die Sigmarsäule in Altdorf"
+  },
+  "resume": {
+   "fr": "L'empereur Hjalmar le Tyrannique fait élever à Altdorf un pilier dont les 148 scènes sculptées célèbrent la vie et les victoires de Sigmar. C'est l'un des rares ouvrages de ce souverain honni à lui survivre.",
+   "en": "Emperor Hjalmar the Tyrannical raises a pillar in Altdorf whose 148 carved scenes celebrate the life and victories of Sigmar. It is one of the few works of this hated ruler to outlast him.",
+   "de": "Kaiser Hjalmar der Tyrann lässt in Altdorf eine Säule errichten, deren 148 Reliefszenen Leben und Siege Sigmars feiern. Sie gehört zu den wenigen Werken dieses verhassten Herrschers, die ihn überdauern."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "altdorf"
+  ],
+  "factions": [
+   "empire"
+  ],
+  "importance": 1,
+  "fiabilite": "etabli",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Salzenmund: City of Salt and Silver, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Salzenmund: City of Salt and Silver, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Salzenmund: City of Salt and Silver, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 9",
+     "en": "p. 9",
+     "de": "S. 9"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Altdorf: Crown of the Empire, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Altdorf: Crown of the Empire, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Altdorf: Crown of the Empire, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 79",
+     "en": "p. 79",
+     "de": "S. 79"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Hjalmar the Tyrannical",
+     "en": "Warhammer Fantasy Wiki (fandom), Hjalmar the Tyrannical page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Hjalmar the Tyrannical"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Hjalmar_the_Tyrannical"
+   }
+  ]
+ },
+ {
+  "id": "attentat-de-1499-et-amulette",
+  "annee": 1499,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "L'attentat manqué et l'amulette de cuivre",
+   "en": "The failed plot and the copper amulet",
+   "de": "Das gescheiterte Attentat und das Kupferamulett"
+  },
+  "resume": {
+   "fr": "Après l'échec d'assassins contre l'empereur, un marchand de Cathay lui offre l'Amulette de cuivre trois fois bénie. L'empereur, qui se méfie de la magie, fait exécuter le marchand et ordonne de détruire l'objet, mais le garde chargé de le faire le revend pour une chope de bière.",
+   "en": "After assassins fail against the emperor, a Cathayan merchant presents him with the Amulet of Thrice-Blessed Copper. The emperor, who distrusts magic, has the merchant executed and orders the item destroyed, but the guard entrusted with the task sells it for a tankard of ale.",
+   "de": "Nach einem gescheiterten Attentat auf den Kaiser schenkt ihm ein Händler aus Cathay das Amulett aus dreifach gesegnetem Kupfer. Der magiefeindliche Kaiser lässt den Händler hinrichten und das Stück vernichten, doch der beauftragte Wächter verkauft es für einen Krug Bier."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [],
+  "factions": [
+   "empire",
+   "humains-autres"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Realms of Sorcery, Warhammer Fantasy Roleplay 2e édition",
+     "en": "Realms of Sorcery, Warhammer Fantasy Roleplay 2nd edition",
+     "de": "Realms of Sorcery, Warhammer Fantasy Roleplay 2. Edition"
+    },
+    "detail": {
+     "fr": "p. 204",
+     "en": "p. 204",
+     "de": "S. 204"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Amulet of Thrice-Blessed Copper",
+     "en": "Warhammer Fantasy Wiki (fandom), Amulet of Thrice-Blessed Copper page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Amulet of Thrice-Blessed Copper"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Amulet_of_Thrice-Blessed_Copper"
+   }
+  ]
+ },
+ {
+  "id": "premiere-chapelle-de-myrmidia-a-altdorf",
+  "annee": 1500,
+  "fin": null,
+  "approx": true,
+  "titre": {
+   "fr": "Première chapelle de Myrmidia à Altdorf",
+   "en": "First chapel of Myrmidia in Altdorf",
+   "de": "Erste Myrmidia-Kapelle in Altdorf"
+  },
+  "resume": {
+   "fr": "Des Chevaliers du Soleil flamboyant de retour des croisades financent à Altdorf une modeste chapelle, premier lieu de culte de Myrmidia dans la ville.",
+   "en": "Knights of the Blazing Sun back from the crusades sponsor a simple chapel in Altdorf, Myrmidia's first place of worship in the city.",
+   "de": "Von den Kreuzzügen heimgekehrte Ritter der Lodernden Sonne finanzieren in Altdorf eine schlichte Kapelle, die erste Kultstätte Myrmidias in der Stadt."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "altdorf"
+  ],
+  "factions": [
+   "empire"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Core Rulebook, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Core Rulebook, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Core Rulebook, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 274",
+     "en": "p. 274",
+     "de": "S. 274"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Temple of Myrmidia Incazzata",
+     "en": "Warhammer Fantasy Wiki (fandom), Temple of Myrmidia Incazzata page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Temple of Myrmidia Incazzata"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Temple_of_Myrmidia_Incazzata"
+   }
+  ]
+ },
+ {
+  "id": "taxe-sur-les-oreilles-manquantes",
+  "annee": 1645,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "La taxe sur les oreilles et l'émeute d'Ishak",
+   "en": "The Missing Ear Tax and the Riot of Ishak's Ears",
+   "de": "Die Ohrensteuer und der Aufruhr um Ishaks Ohren"
+  },
+  "resume": {
+   "fr": "Dieter III frappe d'un impôt la mode du taillage des oreilles en vogue parmi les notables d'Altdorf. L'émeute qui s'ensuit, dite des oreilles d'Ishak, est réprimée avec l'aide de la maison Holzkrug du Reikland.",
+   "en": "Dieter III taxes the fashion for ear trimming then current among Altdorf's gentry. The resulting unrest, known as the Riot of Ishak's Ears, is put down with the help of House Holzkrug of Reikland.",
+   "de": "Dieter III. besteuert das unter dem Altdorfer Adel beliebte Stutzen der Ohren. Die daraus folgenden Unruhen, der Aufruhr um Ishaks Ohren, werden mit Hilfe des Hauses Holzkrug aus dem Reikland niedergeschlagen."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "altdorf"
+  ],
+  "factions": [
+   "empire"
+  ],
+  "importance": 1,
+  "fiabilite": "etabli",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Altdorf: Crown of the Empire, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Altdorf: Crown of the Empire, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Altdorf: Crown of the Empire, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 15",
+     "en": "p. 15",
+     "de": "S. 15"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "WFRP: Folk and Folklore of the Reikland Part 7, Cubicle 7",
+     "en": "WFRP: Folk and Folklore of the Reikland Part 7, Cubicle 7",
+     "de": "WFRP: Folk and Folklore of the Reikland Part 7, Cubicle 7"
+    },
+    "detail": "",
+    "url": "https://web.archive.org/web/20210811155728/https://www.cubicle7games.com/wfrp-folk-and-folklore-of-the-reikland-part-7/"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Dieter III",
+     "en": "Warhammer Fantasy Wiki (fandom), Dieter III page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Dieter III"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Dieter_III"
+   }
+  ]
+ },
+ {
+  "id": "fondation-des-dreamwalkers",
+  "annee": 1681,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Les Dreamwalkers, chasseurs de vampires",
+   "en": "The Dreamwalkers are formed",
+   "de": "Die Dreamwalkers entstehen"
+  },
+  "resume": {
+   "fr": "Le prêtre de Morr Bartolf, le mercenaire Hieronymus et Philomelia von Hagendorf forment le premier groupe de Dreamwalkers, voués à la chasse aux vampires. La plupart des rares initiés y voient une réponse à la Nuit des Morts sans repos.",
+   "en": "The Morrite priest Bartolf, the mercenary Hieronymus and Philomelia von Hagendorf form the first band of Dreamwalkers, devoted to hunting vampires. Most of the few who know of this assume it was a response to the Night of the Restless Dead.",
+   "de": "Der Morrpriester Bartolf, der Söldner Hieronymus und Philomelia von Hagendorf bilden die erste Gruppe der Dreamwalkers, die Vampire jagen. Die wenigen Eingeweihten halten dies meist für eine Antwort auf die Nacht der Ruhelosen Toten."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [],
+  "factions": [
+   "empire",
+   "vampires"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Shades of Empire, Warhammer Fantasy Roleplay 2e édition",
+     "en": "Shades of Empire, Warhammer Fantasy Roleplay 2nd edition",
+     "de": "Shades of Empire, Warhammer Fantasy Roleplay 2. Edition"
+    },
+    "detail": {
+     "fr": "p. 29",
+     "en": "p. 29",
+     "de": "S. 29"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Dreamwalkers",
+     "en": "Warhammer Fantasy Wiki (fandom), Dreamwalkers page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Dreamwalkers"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Dreamwalkers"
+   }
+  ]
+ },
+ {
+  "id": "eleonore-gausser-defend-salzenmund",
+  "annee": 1700,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Éléonore Gausser défend Salzenmund",
+   "en": "Eleonore Gausser defends Salzenmund",
+   "de": "Eleonore Gausser verteidigt Salzenmund"
+  },
+  "resume": {
+   "fr": "La comtesse souveraine Éléonore Gausser défend Salzenmund contre le comte du Westerland. Son règne, qui voit aussi la construction de la cathédrale de Manann, la création des Chevaliers de l'Étoile polaire et un pacte avec les Eonir, en fait l'une des figures les plus aimées de la cité.",
+   "en": "Sovereign Countess Eleonore Gausser defends Salzenmund against the count of Westerland. Her reign, which also sees the Cathedral of Manann built, the Knights of the North Star established and a pact signed with the Eonir, makes her one of the city's best-loved figures.",
+   "de": "Die souveräne Gräfin Eleonore Gausser verteidigt Salzenmund gegen den Grafen des Westerlands. Ihre Herrschaft, in der auch die Manannkathedrale, die Ritter des Nordsterns und ein Pakt mit den Eonir entstehen, macht sie zu einer der beliebtesten Gestalten der Stadt."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "salzenmund"
+  ],
+  "factions": [
+   "empire",
+   "elfes-sylvains"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Salzenmund: City of Salt and Silver, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Salzenmund: City of Salt and Silver, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Salzenmund: City of Salt and Silver, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 15-17",
+     "en": "pp. 15-17",
+     "de": "S. 15-17"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page House Gausser",
+     "en": "Warhammer Fantasy Wiki (fandom), House Gausser page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite House Gausser"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/House_Gausser"
+   }
+  ]
+ },
+ {
+  "id": "mordrek-reprend-le-fort-de-bronze",
+  "annee": 1882,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Mordrek reprend le Fort de Bronze",
+   "en": "Mordrek retakes the Brass Keep",
+   "de": "Mordrek erobert die Messingfeste zurück"
+  },
+  "resume": {
+   "fr": "Tombé d'Ostland aux mains d'une Waaagh!, le Fort de Bronze est repris par le comte Mordrek, fils de l'empereur du Reikland, à la tête de Middenlanders sigmarites. Son gouvernement tourne mal et il finit par embrasser les Puissances de la Ruine, sous le nom de Mordrek le Damné.",
+   "en": "Lost by Ostland to a Waaagh!, the Brass Keep is retaken by Count Mordrek, son of the Reikland Emperor, leading Sigmarite Middenlanders. His rule goes badly and he ends by embracing the Ruinous Powers as Mordrek the Damned.",
+   "de": "Die von Ostland an eine Waaagh! verlorene Messingfeste wird von Graf Mordrek, dem Sohn des Reikland-Kaisers, mit sigmaritischen Middenländern zurückerobert. Seine Herrschaft nimmt ein schlimmes Ende, und als Mordrek der Verdammte verschreibt er sich den Verderblichen Mächten."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "donjon-d-airain"
+  ],
+  "factions": [
+   "empire",
+   "chaos",
+   "peaux-vertes"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "The Horned Rat Companion, Warhammer Fantasy Roleplay 4e édition",
+     "en": "The Horned Rat Companion, Warhammer Fantasy Roleplay 4th edition",
+     "de": "The Horned Rat Companion, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 75",
+     "en": "p. 75",
+     "de": "S. 75"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Mordrek the Damned",
+     "en": "Warhammer Fantasy Wiki (fandom), Mordrek the Damned page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Mordrek the Damned"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Mordrek_the_Damned"
+   },
+   {
+    "titre": {
+     "fr": "The Horned Rat Companion, Warhammer Fantasy Roleplay (4e édition)",
+     "en": "The Horned Rat Companion, Warhammer Fantasy Roleplay (4th edition)",
+     "de": "The Horned Rat Companion, Warhammer Fantasy Roleplay (4. Edition)"
+    },
+    "detail": {
+     "fr": "p. 75",
+     "en": "p. 75",
+     "de": "S. 75"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Brass Keep",
+     "en": "Warhammer Fantasy Wiki (fandom), Brass Keep page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Brass Keep"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Brass_Keep"
+   }
+  ]
+ },
+ {
+  "id": "ordre-du-trone-d-hiver",
+  "annee": 1975,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "L'Ordre du Trône d'hiver rejoint le culte d'Ulric",
+   "en": "The Order of the Winter Throne enters the Cult of Ulric",
+   "de": "Der Orden des Winterthrons tritt dem Ulrikskult bei"
+  },
+  "resume": {
+   "fr": "L'Ar-Ulric Franzsson intègre au culte, malgré la controverse, l'ordre isolé fondé par son grand-père, le frère templier Ragnar Franzsson. Ces Ragnarites essaiment ensuite dans le nord du Vieux Monde.",
+   "en": "Ar-Ulric Franzsson controversially brings into the cult the isolated order founded by his grandfather, Brother-Templar Ragnar Franzsson. These Ragnarites then spread across the north of the Old World.",
+   "de": "Ar-Ulric Franzsson nimmt gegen Widerstand den abgeschiedenen Orden seines Großvaters, des Templerbruders Ragnar Franzsson, in den Kult auf. Diese Ragnariten breiten sich danach im Norden der Alten Welt aus."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "middenheim"
+  ],
+  "factions": [
+   "empire"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Tome of Salvation, Warhammer Fantasy Roleplay 2e édition",
+     "en": "Tome of Salvation, Warhammer Fantasy Roleplay 2nd edition",
+     "de": "Tome of Salvation, Warhammer Fantasy Roleplay 2. Edition"
+    },
+    "detail": {
+     "fr": "p. 70",
+     "en": "p. 70",
+     "de": "S. 70"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Order of the Winter Throne",
+     "en": "Warhammer Fantasy Wiki (fandom), Order of the Winter Throne page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Order of the Winter Throne"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Order_of_the_Winter_Throne"
+   }
+  ]
+ },
+ {
+  "id": "marienburg-protege-ses-sorciers",
+  "annee": 1993,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Marienburg protège ses sorciers",
+   "en": "Marienburg shelters its wizards",
+   "de": "Marienburg schützt seine Zauberer"
+  },
+  "resume": {
+   "fr": "La guerre des Sorciers achevée en 1991 débouche sur une répression sanglante de la sorcellerie dans le Vieux Monde. À Marienburg, l'Ordre fraternel des bourgmestres, ancêtre de la Bourse d'import-export, prend les sorciers sous sa protection.",
+   "en": "The Wizards' War, ended in 1991, gives way to a bloody repression of sorcery across the Old World. In Marienburg the Fraternal Order of Burgomeisters, forerunner of the Wasteland Export-Import Exchange, takes the wizards under its protection.",
+   "de": "Auf den 1991 beendeten Zaubererkrieg folgt eine blutige Unterdrückung der Zauberei in der Alten Welt. In Marienburg nimmt der Brüderliche Orden der Bürgermeister, Vorläufer der Import-Export-Börse, die Zauberer in Schutz."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "marienburg"
+  ],
+  "factions": [
+   "empire"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Marienburg: Sold Down the River, Warhammer Fantasy Roleplay 1e édition",
+     "en": "Marienburg: Sold Down the River, Warhammer Fantasy Roleplay 1st edition",
+     "de": "Marienburg: Sold Down the River, Warhammer Fantasy Roleplay 1. Edition"
+    },
+    "detail": {
+     "fr": "p. 21",
+     "en": "p. 21",
+     "de": "S. 21"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Marienburg",
+     "en": "Warhammer Fantasy Wiki (fandom), Marienburg page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Marienburg"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Marienburg"
+   }
+  ]
+ },
+ {
+  "id": "marienburg-decouvre-ulthuan",
+  "annee": 2000,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Les navigateurs de Marienburg atteignent Ulthuan",
+   "en": "Marienburg sailors reach Ulthuan",
+   "de": "Seefahrer aus Marienburg erreichen Ulthuan"
+  },
+  "resume": {
+   "fr": "La flotte de Marienburg, partie explorer sur l'exemple des Tiléens, découvre l'île-continent des Elfes. Les Hauts Elfes la refoulent et préviennent les Humains de rester hors de la haute mer. Jusqu'en 2150, tout navire humain surpris loin des côtes du Vieux Monde est coulé.",
+   "en": "Marienburg's fleet, exploring on the Tilean example, comes upon the island-continent of the Elves. The High Elves drive it back and warn Humans to keep off the open ocean. Until 2150 any Human ship found out of sight of the Old World's coast is sunk.",
+   "de": "Marienburgs Flotte, die nach tileanischem Vorbild auf Entdeckungsfahrt geht, stößt auf den Inselkontinent der Elfen. Die Hochelfen weisen sie ab und warnen die Menschen vor der offenen See. Bis 2150 wird jedes Menschenschiff versenkt, das außer Sichtweite der Küsten der Alten Welt angetroffen wird."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "empire",
+   "ulthuan"
+  ],
+  "lieux": [
+   "marienburg"
+  ],
+  "factions": [
+   "empire",
+   "hauts-elfes"
+  ],
+  "importance": 2,
+  "fiabilite": "etabli",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Marienburg: Sold Down the River, Warhammer Fantasy Roleplay 1e édition",
+     "en": "Marienburg: Sold Down the River, Warhammer Fantasy Roleplay 1st edition",
+     "de": "Marienburg: Sold Down the River, Warhammer Fantasy Roleplay 1. Edition"
+    },
+    "detail": {
+     "fr": "p. 21",
+     "en": "p. 21",
+     "de": "S. 21"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Shades of Empire, Warhammer Fantasy Roleplay 2e édition",
+     "en": "Shades of Empire, Warhammer Fantasy Roleplay 2nd edition",
+     "de": "Shades of Empire, Warhammer Fantasy Roleplay 2. Edition"
+    },
+    "detail": {
+     "fr": "p. 75",
+     "en": "p. 75",
+     "de": "S. 75"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Imperial Navy",
+     "en": "Warhammer Fantasy Wiki (fandom), Imperial Navy page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Imperial Navy"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Imperial_Navy"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Marienburg",
+     "en": "Warhammer Fantasy Wiki (fandom), Marienburg page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Marienburg"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Marienburg"
+   }
+  ]
+ },
+ {
+  "id": "edit-d-obsidienne",
+  "annee": 2004,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "L'Édit d'obsidienne",
+   "en": "The Obsidian Edict",
+   "de": "Das Obsidianedikt"
+  },
+  "resume": {
+   "fr": "Le culte de Sigmar proclame que traquer la sorcellerie, la nécromancie, la démonologie et le culte du Chaos est son devoir sacré dans tout l'Empire. Magnus le Pieux confirmera ce mandat des répurgateurs trois siècles plus tard, tout en leur interdisant de poursuivre les magisters reconnus.",
+   "en": "The Cult of Sigmar proclaims the hunting of witchcraft, necromancy, daemonology and Chaos worship to be its sacred duty throughout the Empire. Three centuries later Magnus the Pious will confirm this mandate of the witch hunters while forbidding them to pursue sanctioned magisters.",
+   "de": "Der Sigmarkult erklärt die Jagd auf Hexerei, Nekromantie, Dämonologie und Chaosanbetung im ganzen Imperium zu seiner heiligen Pflicht. Drei Jahrhunderte später bestätigt Magnus der Fromme dieses Mandat der Hexenjäger, verbietet ihnen aber die Verfolgung anerkannter Magister."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [],
+  "factions": [
+   "empire"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Realms of Sorcery, Warhammer Fantasy Roleplay 2e édition",
+     "en": "Realms of Sorcery, Warhammer Fantasy Roleplay 2nd edition",
+     "de": "Realms of Sorcery, Warhammer Fantasy Roleplay 2. Edition"
+    },
+    "detail": {
+     "fr": "p. 64-66",
+     "en": "pp. 64-66",
+     "de": "S. 64-66"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Articles of Imperial Magic",
+     "en": "Warhammer Fantasy Wiki (fandom), Articles of Imperial Magic page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Articles of Imperial Magic"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Articles_of_Imperial_Magic"
+   }
+  ]
+ },
+ {
+  "id": "sablier-d-elstwater",
+  "annee": 2015,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Le sablier du fort d'Elstwater",
+   "en": "The hourglass of Elstwater Keep",
+   "de": "Die Sanduhr von Elstwater"
+  },
+  "resume": {
+   "fr": "Assiégé par l'armée bien plus nombreuse du graf de Middenheim, le comte Ostrein de Nordland pose un sablier sur ses remparts et demande à ses hommes de tenir une heure. Le sable s'écoule, une tempête éclate et l'assaut est abandonné. Le sablier devient un symbole d'obstination dans les régiments du nord.",
+   "en": "Besieged by the far larger army of the Graf of Middenheim, Count Ostrein of Nordland sets an hourglass on his walls and asks his men to hold for one hour. As the sand runs out a great storm breaks and the assault is abandoned. The hourglass becomes a symbol of stubbornness among northern regiments.",
+   "de": "Vom weit größeren Heer des Grafen von Middenheim belagert, stellt Graf Ostrein von Nordland eine Sanduhr auf die Mauer und bittet seine Männer, eine Stunde auszuhalten. Als der Sand verrinnt, bricht ein Sturm los und der Angriff wird abgebrochen. Die Sanduhr wird zum Sinnbild der Beharrlichkeit in den nördlichen Regimentern."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [],
+  "factions": [
+   "empire"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Old World Armoury, Warhammer Fantasy Roleplay 2e édition",
+     "en": "Old World Armoury, Warhammer Fantasy Roleplay 2nd edition",
+     "de": "Old World Armoury, Warhammer Fantasy Roleplay 2. Edition"
+    },
+    "detail": {
+     "fr": "p. 23",
+     "en": "p. 23",
+     "de": "S. 23"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Battle of Elstwater Keep",
+     "en": "Warhammer Fantasy Wiki (fandom), Battle of Elstwater Keep page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Battle of Elstwater Keep"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Battle_of_Elstwater_Keep"
+   }
+  ]
+ },
+ {
+  "id": "disparition-de-leonardo",
+  "annee": 2027,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Disparition de Leonardo de Miragliano",
+   "en": "Leonardo da Miragliano vanishes",
+   "de": "Leonardo da Miragliano verschwindet"
+  },
+  "resume": {
+   "fr": "Le fondateur de l'École impériale des ingénieurs disparaît sans laisser de trace. On parle d'un meurtre commandé par un rival du prince d'Altdorf, d'un départ à bord de l'une de ses machines ou d'une explosion lors d'un essai de bombe à pigeon.",
+   "en": "The founder of the Imperial Engineers School vanishes without trace. Rumour speaks of a murder ordered by a rival of the Prince of Altdorf, a departure in one of his machines, or an explosion while testing a pigeon bomb.",
+   "de": "Der Gründer der Kaiserlichen Ingenieursschule verschwindet spurlos. Gerüchte sprechen von einem Mord im Auftrag eines Rivalen des Prinzen von Altdorf, einer Abreise in einer seiner Maschinen oder einer Explosion beim Test einer Taubenbombe."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "altdorf"
+  ],
+  "factions": [
+   "empire"
+  ],
+  "importance": 2,
+  "fiabilite": "etabli",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Up in Arms, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Up in Arms, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Up in Arms, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 67",
+     "en": "p. 67",
+     "de": "S. 67"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "White Dwarf 296",
+     "en": "White Dwarf 296",
+     "de": "White Dwarf 296"
+    },
+    "detail": {
+     "fr": "p. 51-57",
+     "en": "pp. 51-57",
+     "de": "S. 51-57"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Leonardo da Miragliano",
+     "en": "Warhammer Fantasy Wiki (fandom), Leonardo da Miragliano page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Leonardo da Miragliano"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Leonardo_da_Miragliano"
+   }
+  ]
+ },
+ {
+  "id": "tank-a-vapeur-deliverance",
+  "annee": 2035,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Le tank à vapeur Deliverance",
+   "en": "The steam tank Deliverance",
+   "de": "Der Dampfpanzer Deliverance"
+  },
+  "resume": {
+   "fr": "La Deliverance sort des ateliers, dotée d'un canon à vapeur expérimental aussi puissant qu'imprévisible. Attribuée à Leonardo de Miragliano, elle deviendra l'un des tanks les plus célèbres de l'Empire.",
+   "en": "The Deliverance leaves the workshops with an experimental steam cannon as powerful as it is unpredictable. Attributed to Leonardo da Miragliano, it will become one of the Empire's most famous tanks.",
+   "de": "Die Deliverance verlässt die Werkstätten mit einer experimentellen Dampfkanone, die ebenso mächtig wie unberechenbar ist. Der Leonardo da Miragliano zugeschriebene Panzer wird einer der berühmtesten des Imperiums."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "altdorf"
+  ],
+  "factions": [
+   "empire"
+  ],
+  "importance": 1,
+  "fiabilite": "divergent",
+  "note": {
+   "fr": "Les sources attribuent le tank à Leonardo, alors que le wiki date sa disparition de 2027, soit huit ans plus tôt.",
+   "en": "The sources credit the tank to Leonardo, yet the wiki dates his disappearance to 2027, eight years earlier.",
+   "de": "Die Quellen schreiben den Panzer Leonardo zu, obwohl das Wiki sein Verschwinden auf 2027 datiert, acht Jahre früher."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "White Dwarf 263",
+     "en": "White Dwarf 263",
+     "de": "White Dwarf 263"
+    },
+    "detail": {
+     "fr": "p. 34-37",
+     "en": "pp. 34-37",
+     "de": "S. 34-37"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Uniforms and Heraldry of the Empire, livre d'univers",
+     "en": "Uniforms and Heraldry of the Empire, background book",
+     "de": "Uniforms and Heraldry of the Empire, Hintergrundbuch"
+    },
+    "detail": {
+     "fr": "p. 67",
+     "en": "p. 67",
+     "de": "S. 67"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Deliverance",
+     "en": "Warhammer Fantasy Wiki (fandom), Deliverance page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Deliverance"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Deliverance"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Steam Tank",
+     "en": "Warhammer Fantasy Wiki (fandom), Steam Tank page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Steam Tank"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Steam_Tank"
+   }
+  ]
+ },
+ {
+  "id": "bataille-de-swartzhafen",
+  "annee": 2050,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Bataille de Swartzhafen",
+   "en": "Battle of Swartzhafen",
+   "de": "Schlacht von Swartzhafen"
+  },
+  "resume": {
+   "fr": "L'armée de Vlad von Carstein et celle du comte de Middenheim se surprennent mutuellement à l'intérieur de la Sylvanie. Malgré un terrain défavorable, les Middenheimers l'emportent. Abattu par les Chevaliers du Loup Blanc, Vlad disparaît pendant un an.",
+   "en": "The armies of Vlad von Carstein and the Elector Count of Middenheim surprise each other just inside Sylvania. Despite poor ground the Middenheimers win. Struck down by the Knights of the White Wolf, Vlad vanishes for a year.",
+   "de": "Die Heere Vlad von Carsteins und des Kurfürsten von Middenheim überraschen einander in Sylvanien. Trotz ungünstigen Geländes siegen die Middenheimer. Von den Rittern des Weißen Wolfs niedergestreckt, verschwindet Vlad für ein Jahr."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [],
+  "factions": [
+   "empire",
+   "vampires"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Fantasy Core, 7e édition",
+     "en": "Warhammer Fantasy Core, 7th edition",
+     "de": "Warhammer Fantasy Core, 7. Edition"
+    },
+    "detail": {
+     "fr": "p. 203",
+     "en": "p. 203",
+     "de": "S. 203"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Battle of Swartzhafen",
+     "en": "Warhammer Fantasy Wiki (fandom), Battle of Swartzhafen page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Battle of Swartzhafen"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Battle_of_Swartzhafen"
+   }
+  ]
+ },
+ {
+  "id": "cavaliers-de-trachsel",
+  "annee": 2101,
+  "fin": 2103,
+  "approx": true,
+  "titre": {
+   "fr": "Les Cavaliers de Trachsel",
+   "en": "Trachsel's Rough Riders",
+   "de": "Trachsels Rough Riders"
+  },
+  "resume": {
+   "fr": "Des patrouilleurs routiers corrompus du Nordland, réunis par Abelhard Trachsel, forment une véritable armée de brigands qui paralyse le commerce. Il faut plus de deux ans à des chevaliers et à des éclaireurs impériaux pour les réduire, puis les restes de Trachsel sont envoyés aux patrouilleurs de tout l'Empire.",
+   "en": "Corrupt Nordland roadwardens gathered by Abelhard Trachsel form a true army of brigands and bring commerce to a halt. Knights and Imperial outriders need over two years to run them down, and parts of Trachsel's body are then sent to roadwardens across the Empire.",
+   "de": "Korrupte Straßenwächter im Nordland bilden unter Abelhard Trachsel ein regelrechtes Räuberheer und legen den Handel lahm. Ritter und kaiserliche Kundschafter brauchen über zwei Jahre, um sie zu stellen, danach werden Teile von Trachsels Leiche an Straßenwächter im ganzen Imperium geschickt."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [],
+  "factions": [
+   "empire"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Fin déduite : la source dit plus de deux ans.",
+   "en": "End date deduced: the source says over two years.",
+   "de": "Enddatum erschlossen: Die Quelle spricht von über zwei Jahren."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Shades of Empire, Warhammer Fantasy Roleplay 2e édition",
+     "en": "Shades of Empire, Warhammer Fantasy Roleplay 2nd edition",
+     "de": "Shades of Empire, Warhammer Fantasy Roleplay 2. Edition"
+    },
+    "detail": {
+     "fr": "p. 114",
+     "en": "p. 114",
+     "de": "S. 114"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Roadwardens",
+     "en": "Warhammer Fantasy Wiki (fandom), Roadwardens page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Roadwardens"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Roadwardens"
+   }
+  ]
+ },
+ {
+  "id": "fonderie-et-ecole-d-artillerie-de-nuln",
+  "annee": 2201,
+  "fin": 2300,
+  "approx": true,
+  "titre": {
+   "fr": "Fonderie et École d'artillerie de Nuln",
+   "en": "The foundry and Gunnery School of Nuln",
+   "de": "Gießerei und Geschützschule von Nuln"
+  },
+  "resume": {
+   "fr": "Des ingénieurs nains exilés aident à créer à Nuln la première fonderie et école d'artillerie, sous la condition de garder secrète la magie runique et de verser un lourd tribut à leur guilde. Le chantier vide plusieurs fois les caisses du comte de Wissenland, qui recouvre sa mise au triple en moins de dix ans.",
+   "en": "Exiled Dwarf engineers help create the first foundry and gunnery school at Nuln, on condition that runelore stays secret and a heavy tithe goes to their guild. The work empties the Elector Count of Wissenland's coffers several times, but he recoups three times his outlay within a decade.",
+   "de": "Verbannte Zwergeningenieure helfen beim Aufbau der ersten Gießerei und Geschützschule in Nuln, unter der Bedingung, dass die Runenkunde geheim bleibt und ihre Gilde einen hohen Tribut erhält. Der Bau leert mehrfach die Kasse des Kurfürsten von Wissenland, der seine Ausgaben jedoch binnen eines Jahrzehnts dreifach zurückgewinnt."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "nuln"
+  ],
+  "factions": [
+   "empire",
+   "nains"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Date déduite : la source dit dans le siècle précédant la Grande Guerre contre le Chaos de 2301.",
+   "en": "Date deduced: the source says in the century leading up to the Great War Against Chaos of 2301.",
+   "de": "Datum erschlossen: Die Quelle nennt das Jahrhundert vor dem Großen Krieg gegen das Chaos von 2301."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "The WFRP Companion, Warhammer Fantasy Roleplay 2e édition",
+     "en": "The WFRP Companion, Warhammer Fantasy Roleplay 2nd edition",
+     "de": "The WFRP Companion, Warhammer Fantasy Roleplay 2. Edition"
+    },
+    "detail": {
+     "fr": "p. 99",
+     "en": "p. 99",
+     "de": "S. 99"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Imperial Gunnery School",
+     "en": "Warhammer Fantasy Wiki (fandom), Imperial Gunnery School page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Imperial Gunnery School"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Imperial_Gunnery_School"
+   }
+  ]
+ },
+ {
+  "id": "grand-hospice-de-frederheim",
+  "annee": 2243,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Le Grand Hospice de Frederheim",
+   "en": "The Great Hospice of Frederheim",
+   "de": "Das Große Hospiz von Frederheim"
+  },
+  "resume": {
+   "fr": "Ancien clerc de Shallya devenu chef de la maison Holzkrug, Eberhardt le Juste fonde le Grand Hospice sur un petit domaine familial de Frederheim. Il améliore aussi l'hygiène du Reikland et protège le dramaturge Jacopo Tarradasch.",
+   "en": "A former Shallyan cleric turned head of House Holzkrug, Eberhardt the Just founds the Great Hospice on a minor family holding at Frederheim. He also improves Reikland's sanitation and acts as patron to the playwright Jacopo Tarradasch.",
+   "de": "Der frühere Shallya-Geistliche und Oberhaupt des Hauses Holzkrug, Eberhardt der Gerechte, gründet das Große Hospiz auf einem kleinen Familiengut in Frederheim. Er verbessert auch die Hygiene im Reikland und fördert den Dramatiker Jacopo Tarradasch."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [],
+  "factions": [
+   "empire"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "WFRP: Folk and Folklore of the Reikland Part 7, Cubicle 7",
+     "en": "WFRP: Folk and Folklore of the Reikland Part 7, Cubicle 7",
+     "de": "WFRP: Folk and Folklore of the Reikland Part 7, Cubicle 7"
+    },
+    "detail": "",
+    "url": "https://web.archive.org/web/20210811155728/https://www.cubicle7games.com/wfrp-folk-and-folklore-of-the-reikland-part-7/"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Eberhardt the Just",
+     "en": "Warhammer Fantasy Wiki (fandom), Eberhardt the Just page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Eberhardt the Just"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Eberhardt_the_Just"
+   }
+  ]
+ },
+ {
+  "id": "deliverance-et-le-feu-d-enfer",
+  "annee": 2253,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Explosion du prototype de la Deliverance",
+   "en": "The Deliverance's prototype explodes",
+   "de": "Der Prototyp der Deliverance explodiert"
+  },
+  "resume": {
+   "fr": "La Deliverance reçoit une arme expérimentale, ancêtre du canon Feu d'enfer. Une explosion catastrophique manque de la détruire. Le tank est entièrement reconstruit et le prototype neutralisé en attendant de nouvelles recherches.",
+   "en": "The Deliverance is fitted with an experimental weapon, forerunner of the Helblaster volley gun. A catastrophic explosion all but destroys it. The tank is thoroughly rebuilt and the prototype disabled pending further research.",
+   "de": "Die Deliverance erhält eine Versuchswaffe, Vorläuferin der Höllenfeuer-Salvenkanone. Eine verheerende Explosion zerstört sie beinahe. Der Panzer wird von Grund auf neu aufgebaut und der Prototyp bis zu weiteren Forschungen stillgelegt."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [],
+  "factions": [
+   "empire"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "White Dwarf 263",
+     "en": "White Dwarf 263",
+     "de": "White Dwarf 263"
+    },
+    "detail": {
+     "fr": "p. 34-37",
+     "en": "pp. 34-37",
+     "de": "S. 34-37"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Deliverance",
+     "en": "Warhammer Fantasy Wiki (fandom), Deliverance page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Deliverance"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Deliverance"
+   }
+  ]
+ },
+ {
+  "id": "mort-d-eberhardt-et-annette-von-telland",
+  "annee": 2260,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Mort d'Eberhardt le Juste, Annette von Telland impératrice",
+   "en": "Eberhardt the Just dies, Annette von Telland becomes empress",
+   "de": "Tod Eberhardts des Gerechten, Annette von Telland wird Kaiserin"
+  },
+  "resume": {
+   "fr": "Les largesses d'Eberhardt ont vidé ses caisses et réduit les terres de sa famille. À sa mort, son héritier renonce à briguer la couronne de prétendant, qui passe à l'impératrice Annette von Telland.",
+   "en": "Eberhardt's largesse has emptied his coffers and shrunk his family's lands. On his death his heir declines to pursue the claimant's crown, which passes to Empress Annette von Telland.",
+   "de": "Eberhardts Freigebigkeit hat seine Kassen geleert und die Familiengüter verkleinert. Nach seinem Tod verzichtet sein Erbe auf die Thronansprüche, die an Kaiserin Annette von Telland übergehen."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [],
+  "factions": [
+   "empire"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "WFRP: Folk and Folklore of the Reikland Part 7, Cubicle 7",
+     "en": "WFRP: Folk and Folklore of the Reikland Part 7, Cubicle 7",
+     "de": "WFRP: Folk and Folklore of the Reikland Part 7, Cubicle 7"
+    },
+    "detail": "",
+    "url": "https://web.archive.org/web/20210811155728/https://www.cubicle7games.com/wfrp-folk-and-folklore-of-the-reikland-part-7/"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Eberhardt the Just",
+     "en": "Warhammer Fantasy Wiki (fandom), Eberhardt the Just page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Eberhardt the Just"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Eberhardt_the_Just"
+   }
+  ]
+ },
+ {
+  "id": "altdorf-choisie-pour-les-colleges",
+  "annee": 2304,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Altdorf accueille les Collèges de magie",
+   "en": "Altdorf receives the Colleges of Magic",
+   "de": "Altdorf erhält die Magierkollegien"
+  },
+  "resume": {
+   "fr": "À l'été, Magnus annonce qu'Altdorf abritera les ordres de magie, assez près de Nuln pour les surveiller et assez loin pour s'en protéger. Les Hauts Elfes altèrent la trame de la ville pour y loger les collèges, ce qui provoque des émeutes et la fuite d'habitants. Le plan des rues devient impossible à cartographier et la loi martiale impose le nouvel ordre.",
+   "en": "In summer Magnus announces that Altdorf will house the magical orders, near enough to Nuln to watch and far enough to be safe from them. The High Elves alter the city's fabric to fit the colleges, causing riots and flight. The streets become impossible to map and martial law enforces the new order.",
+   "de": "Im Sommer verkündet Magnus, dass Altdorf die Magierorden beherbergen wird, nah genug an Nuln zur Überwachung und weit genug zum eigenen Schutz. Die Hochelfen verändern das Gefüge der Stadt für die Kollegien, was Aufruhr und Flucht auslöst. Die Straßen lassen sich nicht mehr kartieren, und das Kriegsrecht setzt die neue Ordnung durch."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "altdorf"
+  ],
+  "factions": [
+   "empire",
+   "hauts-elfes"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Realms of Sorcery, Warhammer Fantasy Roleplay 2e édition",
+     "en": "Realms of Sorcery, Warhammer Fantasy Roleplay 2nd edition",
+     "de": "Realms of Sorcery, Warhammer Fantasy Roleplay 2. Edition"
+    },
+    "detail": {
+     "fr": "p. 28",
+     "en": "p. 28",
+     "de": "S. 28"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Colleges of Magic",
+     "en": "Warhammer Fantasy Wiki (fandom), Colleges of Magic page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Colleges of Magic"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Colleges_of_Magic"
+   }
+  ]
+ },
+ {
+  "id": "articles-de-la-magie-imperiale",
+  "annee": 2305,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Les Articles de la magie impériale",
+   "en": "The Articles of Imperial Magic",
+   "de": "Die Artikel der Kaiserlichen Magie"
+  },
+  "resume": {
+   "fr": "Avec les conseils de Teclis, du Grand Théogoniste et de l'Ar-Ulric, Magnus fixe par écrit le statut des magisters. Le texte les soumet à l'Empire et les soustrait aux répurgateurs, sauf demande d'un collège ou acte abominable commis sous les yeux de ces derniers.",
+   "en": "Advised by Teclis, the Grand Theogonist and the Ar-Ulric, Magnus sets down the legal status of magisters. The text binds them to the Empire and shields them from witch hunters, unless a college asks for aid or a hunter witnesses an abominable act.",
+   "de": "Beraten von Teclis, dem Großtheogonisten und dem Ar-Ulric legt Magnus die Rechtsstellung der Magister schriftlich fest. Der Text bindet sie an das Imperium und schützt sie vor Hexenjägern, außer wenn ein Kolleg um Hilfe bittet oder ein Hexenjäger Zeuge einer abscheulichen Tat wird."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "altdorf"
+  ],
+  "factions": [
+   "empire",
+   "hauts-elfes"
+  ],
+  "importance": 2,
+  "fiabilite": "divergent",
+  "note": {
+   "fr": "Realms of Sorcery 2e édition date le texte de 2305, la 1re édition le place trois ans après la fondation de 2304.",
+   "en": "Realms of Sorcery 2nd edition dates the text to 2305, the 1st edition places it three years after the 2304 foundation.",
+   "de": "Realms of Sorcery 2. Edition datiert den Text auf 2305, die 1. Edition setzt ihn drei Jahre nach der Gründung von 2304 an."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Realms of Sorcery, Warhammer Fantasy Roleplay 2e édition",
+     "en": "Realms of Sorcery, Warhammer Fantasy Roleplay 2nd edition",
+     "de": "Realms of Sorcery, Warhammer Fantasy Roleplay 2. Edition"
+    },
+    "detail": {
+     "fr": "p. 64-66",
+     "en": "pp. 64-66",
+     "de": "S. 64-66"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Realms of Sorcery, Warhammer Fantasy Roleplay 1e édition",
+     "en": "Realms of Sorcery, Warhammer Fantasy Roleplay 1st edition",
+     "de": "Realms of Sorcery, Warhammer Fantasy Roleplay 1. Edition"
+    },
+    "detail": {
+     "fr": "p. 22-24",
+     "en": "pp. 22-24",
+     "de": "S. 22-24"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Articles of Imperial Magic",
+     "en": "Warhammer Fantasy Wiki (fandom), Articles of Imperial Magic page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Articles of Imperial Magic"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Articles_of_Imperial_Magic"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Magical License",
+     "en": "Warhammer Fantasy Wiki (fandom), Magical License page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Magical License"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Magical_License"
+   }
+  ]
+ },
+ {
+  "id": "fin-de-la-baronnie-de-westerland",
+  "annee": 2305,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Fin de la baronnie de Westerland",
+   "en": "End of the Barony of Westerland",
+   "de": "Ende der Baronie Westerland"
+  },
+  "resume": {
+   "fr": "Le dernier baron étant mort sans héritier, des centaines de prétendants se disputent le fief et plusieurs provinces arment en secret. Pour éviter une reprise des guerres, Magnus abolit la baronnie, crée la province du Westerland et confie Marienburg à un directoire de marchands et de temples. Celui-ci va peu à peu relâcher les liens avec l'Empire.",
+   "en": "The last baron having died without an heir, hundreds of claimants contest the fief and several provinces secretly arm. To avoid renewed war, Magnus abolishes the barony, creates the Province of Westerland and hands Marienburg to a directorate of merchants and temples. That body will gradually loosen its ties to the Empire.",
+   "de": "Nach dem erbenlosen Tod des letzten Barons streiten Hunderte um das Lehen, und mehrere Provinzen rüsten heimlich. Um neue Kriege zu vermeiden, hebt Magnus die Baronie auf, schafft die Provinz Westerland und überträgt Marienburg einem Direktorium aus Kaufleuten und Tempeln. Dieses lockert nach und nach die Bindung an das Imperium."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "marienburg"
+  ],
+  "factions": [
+   "empire"
+  ],
+  "importance": 2,
+  "fiabilite": "etabli",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Sea of Claws, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Sea of Claws, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Sea of Claws, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 6-7",
+     "en": "pp. 6-7",
+     "de": "S. 6-7"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Marienburg: Sold Down the River, Warhammer Fantasy Roleplay 1e édition",
+     "en": "Marienburg: Sold Down the River, Warhammer Fantasy Roleplay 1st edition",
+     "de": "Marienburg: Sold Down the River, Warhammer Fantasy Roleplay 1. Edition"
+    },
+    "detail": {
+     "fr": "p. 21",
+     "en": "p. 21",
+     "de": "S. 21"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Marienburg",
+     "en": "Warhammer Fantasy Wiki (fandom), Marienburg page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Marienburg"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Marienburg"
+   }
+  ]
+ },
+ {
+  "id": "fondation-des-chevaliers-du-griffon",
+  "annee": 2305,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Fondation des Chevaliers du Griffon",
+   "en": "Founding of the Knights Griffon",
+   "de": "Gründung der Greifenritter"
+  },
+  "resume": {
+   "fr": "Magnus le Pieux tire cent des meilleurs Chevaliers Panthères pour créer un nouvel ordre templier voué à la garde du temple de Sigmar de Nuln, alors capitale. Ils ne recrutent que dans la noblesse locale. L'ordre suivra la couronne à Altdorf en 2429, ce qui l'oppose à la Reiksguard.",
+   "en": "Magnus the Pious draws a hundred of the finest Knights Panther to create a new templar order guarding the temple of Sigmar at Nuln, then the capital. They recruit only from the local nobility. The order will follow the crown to Altdorf in 2429, setting it at odds with the Reiksguard.",
+   "de": "Magnus der Fromme wählt hundert der besten Pantherritter aus, um einen neuen Templerorden zum Schutz des Sigmartempels in der damaligen Hauptstadt Nuln zu gründen. Sie rekrutieren nur aus dem örtlichen Adel. 2429 folgt der Orden der Krone nach Altdorf, was ihn in Gegensatz zur Reiksguard bringt."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "nuln",
+   "altdorf"
+  ],
+  "factions": [
+   "empire"
+  ],
+  "importance": 2,
+  "fiabilite": "etabli",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Tome of Salvation, Warhammer Fantasy Roleplay 2e édition",
+     "en": "Tome of Salvation, Warhammer Fantasy Roleplay 2nd edition",
+     "de": "Tome of Salvation, Warhammer Fantasy Roleplay 2. Edition"
+    },
+    "detail": {
+     "fr": "p. 207",
+     "en": "p. 207",
+     "de": "S. 207"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Omens of War, Warhammer Fantasy Roleplay 3e édition",
+     "en": "Omens of War, Warhammer Fantasy Roleplay 3rd edition",
+     "de": "Omens of War, Warhammer Fantasy Roleplay 3. Edition"
+    },
+    "detail": {
+     "fr": "p. 29",
+     "en": "p. 29",
+     "de": "S. 29"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Knights Griffon",
+     "en": "Warhammer Fantasy Wiki (fandom), Knights Griffon page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Knights Griffon"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Knights_Griffon"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Knightly orders of the Empire",
+     "en": "Warhammer Fantasy Wiki (fandom), Knightly orders of the Empire page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Knightly orders of the Empire"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Knightly_orders_of_the_Empire"
+   }
+  ]
+ },
+ {
+  "id": "grande-baronnie-de-sudenland",
+  "annee": 2305,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Création de la grande baronnie de Sudenland",
+   "en": "Creation of the Grand Barony of Sudenland",
+   "de": "Gründung der Großbaronie Sudenland"
+  },
+  "resume": {
+   "fr": "Magnus relève les ruines du Solland sous le nom de Sudenland et y rattache le sud du Wissenland, au grand dam de cette province. La maison Toppenheimer y règne jusqu'en 2512.",
+   "en": "Magnus raises the ruins of Solland as Sudenland and adds southern Wissenland to it, to that province's anger. House Toppenheimer rules it until 2512.",
+   "de": "Magnus errichtet aus den Ruinen Sollands das Sudenland und schlägt ihm zum Ärger Wissenlands dessen südlichen Teil zu. Das Haus Toppenheimer herrscht dort bis 2512."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "pfeildorf"
+  ],
+  "factions": [
+   "empire"
+  ],
+  "importance": 1,
+  "fiabilite": "divergent",
+  "note": {
+   "fr": "La page du wiki donne tantôt 2302, tantôt 2305 pour cette réforme.",
+   "en": "The wiki page gives both 2302 and 2305 for this reform.",
+   "de": "Die Wiki-Seite nennt für diese Reform sowohl 2302 als auch 2305."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Archives of the Empire Vol. 1, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Archives of the Empire Vol. 1, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Archives of the Empire Vol. 1, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 16-18",
+     "en": "pp. 16-18",
+     "de": "S. 16-18"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Solland",
+     "en": "Warhammer Fantasy Wiki (fandom), Solland page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Solland"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Solland"
+   }
+  ]
+ },
+ {
+  "id": "licences-de-magie",
+  "annee": 2308,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Entrée en vigueur des licences de magie",
+   "en": "Magical licensing comes into force",
+   "de": "Die Magielizenzen treten in Kraft"
+  },
+  "resume": {
+   "fr": "Après quelques protestations de pure forme, les magiciens de l'Empire acceptent le système de licences, soucieux de ne pas paraître complices de la magie noire. Tout pratiquant doit désormais obéir à ces règles sous peine de mort.",
+   "en": "After token protests, the Empire's wizards accept the licensing system, anxious not to seem in sympathy with dark magic. Every practitioner must now obey these rules on pain of death.",
+   "de": "Nach Protesten der Form halber nehmen die Zauberer des Imperiums das Lizenzsystem an, um nicht als Freunde der schwarzen Magie zu gelten. Jeder Anwender muss diese Regeln nun bei Todesstrafe befolgen."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [],
+  "factions": [
+   "empire"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Realms of Sorcery, Warhammer Fantasy Roleplay 1e édition",
+     "en": "Realms of Sorcery, Warhammer Fantasy Roleplay 1st edition",
+     "de": "Realms of Sorcery, Warhammer Fantasy Roleplay 1. Edition"
+    },
+    "detail": {
+     "fr": "p. 22-24",
+     "en": "pp. 22-24",
+     "de": "S. 22-24"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Magical License",
+     "en": "Warhammer Fantasy Wiki (fandom), Magical License page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Magical License"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Magical_License"
+   }
+  ]
+ },
+ {
+  "id": "lex-imperialis-salvationis",
+  "annee": 2319,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "La Lex Imperialis Salvationis et Misericordiae",
+   "en": "The Lex Imperialis Salvationis et Misericordiae",
+   "de": "Die Lex Imperialis Salvationis et Misericordiae"
+  },
+  "resume": {
+   "fr": "Convaincu par l'action des réformateurs, Magnus promulgue une loi de salut et de miséricorde qui encourage les électeurs à fonder des prisons selon l'idéal shalléen. Ce code donne à l'Empire réunifié une norme commune et enracine la prison moderne dans le droit impérial.",
+   "en": "Won over by the reformers' deeds, Magnus issues a Law for Imperial Salvation and Mercy urging the Electors to found prisons on the Shallyan ideal. The code gives the reunited Empire a common standard and plants the modern prison in Imperial law.",
+   "de": "Von den Taten der Reformer überzeugt, erlässt Magnus ein Gesetz der Rettung und Barmherzigkeit, das die Kurfürsten zur Gründung von Gefängnissen nach shallyanischem Ideal anhält. Der Kodex gibt dem wiedervereinten Imperium einen gemeinsamen Maßstab und verankert das moderne Gefängnis im Reichsrecht."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [],
+  "factions": [
+   "empire"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Apocrypha 2: Chart of Darkness, Warhammer Fantasy Roleplay 1e édition",
+     "en": "Apocrypha 2: Chart of Darkness, Warhammer Fantasy Roleplay 1st edition",
+     "de": "Apocrypha 2: Chart of Darkness, Warhammer Fantasy Roleplay 1. Edition"
+    },
+    "detail": {
+     "fr": "p. 14",
+     "en": "p. 14",
+     "de": "S. 14"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Imperial Prisons",
+     "en": "Warhammer Fantasy Wiki (fandom), Imperial Prisons page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Imperial Prisons"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Imperial_Prisons"
+   }
+  ]
+ },
+ {
+  "id": "fallon-von-kelspar",
+  "annee": 2325,
+  "fin": 2340,
+  "approx": false,
+  "titre": {
+   "fr": "La disgrâce de Fallon von Kelspar",
+   "en": "The disgrace of Fallon von Kelspar",
+   "de": "Die Ächtung des Fallon von Kelspar"
+  },
+  "resume": {
+   "fr": "Le baron Fallon von Kelspar abandonne ses terres en 2325. Il est ensuite excommunié par le culte de Sigmar, déclaré hérétique par celui de Solkan, traître à l'Empire, hors-la-loi par la cour de la Dame, puis parjure par le Haut Roi des Nains en 2340.",
+   "en": "Baron Fallon von Kelspar abandons his estates in 2325. He is then excommunicated by the Cult of Sigmar, declared a heretic by the Cult of Solkan, a traitor to the Empire, an outlaw by the Court of the Lady and finally an Oathbreaker by the Dwarf High King in 2340.",
+   "de": "Baron Fallon von Kelspar verlässt 2325 seine Güter. Danach wird er vom Sigmarkult exkommuniziert, vom Solkankult zum Ketzer erklärt, zum Verräter am Imperium, vom Hof der Herrin zum Geächteten und 2340 vom Zwergen-Hochkönig zum Eidbrecher."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [],
+  "factions": [
+   "empire"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Liber Chaotica, livre d'univers",
+     "en": "Liber Chaotica, background book",
+     "de": "Liber Chaotica, Hintergrundbuch"
+    },
+    "detail": {
+     "fr": "p. 14",
+     "en": "p. 14",
+     "de": "S. 14"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Fallon von Kelspar",
+     "en": "Warhammer Fantasy Wiki (fandom), Fallon von Kelspar page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Fallon von Kelspar"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Fallon_von_Kelspar"
+   }
+  ]
+ },
+ {
+  "id": "les-hommes-rats-condamnes-comme-heresie",
+  "annee": 2333,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Le livre de Wilhelm Leiber condamné pour hérésie",
+   "en": "Wilhelm Leiber's book condemned as heresy",
+   "de": "Wilhelm Leibers Buch als Häresie verurteilt"
+  },
+  "resume": {
+   "fr": "L'Église d'Altdorf condamne The Loathsome Ratmen and All Their Vile Kin, paru vingt ans plus tôt, et l'ouvrage sur les Skavens est brûlé en public. Leiber sombre dans la folie, puis se suicide peu après son internement.",
+   "en": "The church of Altdorf condemns The Loathsome Ratmen and All Their Vile Kin, published twenty years earlier, and the work on the Skaven is publicly burned. Leiber goes mad and takes his own life soon after being confined.",
+   "de": "Die Kirche von Altdorf verurteilt das zwanzig Jahre zuvor erschienene Werk The Loathsome Ratmen and All Their Vile Kin über die Skaven, und es wird öffentlich verbrannt. Leiber verfällt dem Wahnsinn und nimmt sich bald nach seiner Einweisung das Leben."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "altdorf"
+  ],
+  "factions": [
+   "empire",
+   "skavens"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "The Loathsome Ratmen and All Their Vile Kin, livre d'univers",
+     "en": "The Loathsome Ratmen and All Their Vile Kin, background book",
+     "de": "The Loathsome Ratmen and All Their Vile Kin, Hintergrundbuch"
+    },
+    "detail": {
+     "fr": "p. 0-4",
+     "en": "pp. 0-4",
+     "de": "S. 0-4"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Wilhelm Leiber",
+     "en": "Warhammer Fantasy Wiki (fandom), Wilhelm Leiber page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Wilhelm Leiber"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Wilhelm_Leiber"
+   }
+  ]
+ },
+ {
+  "id": "miracle-du-suaire-de-magnus",
+  "annee": 2369,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Le miracle du Suaire de Magnus",
+   "en": "The Miracle of the Shroud",
+   "de": "Das Wunder des Grabtuchs"
+  },
+  "resume": {
+   "fr": "Lors des funérailles de Magnus le Pieux, le Grand Théogoniste constate que les traits de l'empereur se sont imprimés sur son linceul. La relique, gardée au temple de Sigmar, est parfois emportée au combat pour sa protection contre la magie.",
+   "en": "At the funeral of Magnus the Pious, the Grand Theogonist finds the emperor's features imprinted on his shroud. The relic, kept in the temple of Sigmar, is sometimes carried into battle for its protection against magic.",
+   "de": "Bei der Totenfeier für Magnus den Frommen entdeckt der Großtheogonist die Züge des Kaisers auf dem Grabtuch. Die im Sigmartempel verwahrte Reliquie wird wegen ihres Schutzes gegen Magie mitunter in die Schlacht getragen."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "altdorf"
+  ],
+  "factions": [
+   "empire"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Liber Mutatis: The Book of Change, Warhammer Fantasy Roleplay 3e édition",
+     "en": "Liber Mutatis: The Book of Change, Warhammer Fantasy Roleplay 3rd edition",
+     "de": "Liber Mutatis: The Book of Change, Warhammer Fantasy Roleplay 3. Edition"
+    },
+    "detail": {
+     "fr": "p. 12",
+     "en": "p. 12",
+     "de": "S. 12"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Warhammer Armies: The Empire, 7e édition",
+     "en": "Warhammer Armies: The Empire, 7th edition",
+     "de": "Warhammer Armies: The Empire, 7. Edition"
+    },
+    "detail": {
+     "fr": "p. 68",
+     "en": "p. 68",
+     "de": "S. 68"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Shroud of Magnus",
+     "en": "Warhammer Fantasy Wiki (fandom), Shroud of Magnus page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Shroud of Magnus"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Shroud_of_Magnus"
+   }
+  ]
+ },
+ {
+  "id": "milices-marchandes-contre-les-pirates",
+  "annee": 2378,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Les flottes marchandes de Marienburg contre les pirates",
+   "en": "Marienburg's merchant fleets against the pirates",
+   "de": "Marienburgs Handelsflotten gegen die Piraten"
+  },
+  "resume": {
+   "fr": "Une campagne réussie des flottes et milices de Marienburg nettoie les eaux du Port des Pillards. Le droit des maisons marchandes à entretenir des forces privées devient permanent et la garnison impériale se retire. Leopold, à court d'argent, dissout ensuite la Seconde Flotte, dont les navires passent aux marchands.",
+   "en": "A successful campaign by Marienburg's fleets and militias clears the waters off Reavers' Point. The Merchant Houses' right to private forces becomes permanent and the Imperial garrison withdraws. Leopold, short of money, then disbands the Second Fleet, whose ships pass to the merchants.",
+   "de": "Ein erfolgreicher Feldzug der Flotten und Milizen Marienburgs säubert die Gewässer vor Reavers' Point. Das Recht der Handelshäuser auf Privattruppen wird dauerhaft, und die kaiserliche Garnison zieht ab. Der geldknappe Leopold löst danach die Zweite Flotte auf, deren Schiffe an die Kaufleute fallen."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "marienburg"
+  ],
+  "factions": [
+   "empire"
+  ],
+  "importance": 2,
+  "fiabilite": "etabli",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Marienburg: Sold Down the River, Warhammer Fantasy Roleplay 1e édition",
+     "en": "Marienburg: Sold Down the River, Warhammer Fantasy Roleplay 1st edition",
+     "de": "Marienburg: Sold Down the River, Warhammer Fantasy Roleplay 1. Edition"
+    },
+    "detail": {
+     "fr": "p. 21",
+     "en": "p. 21",
+     "de": "S. 21"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Shades of Empire, Warhammer Fantasy Roleplay 2e édition",
+     "en": "Shades of Empire, Warhammer Fantasy Roleplay 2nd edition",
+     "de": "Shades of Empire, Warhammer Fantasy Roleplay 2. Edition"
+    },
+    "detail": {
+     "fr": "p. 75",
+     "en": "p. 75",
+     "de": "S. 75"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Marienburg",
+     "en": "Warhammer Fantasy Wiki (fandom), Marienburg page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Marienburg"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Marienburg"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Imperial Navy",
+     "en": "Warhammer Fantasy Wiki (fandom), Imperial Navy page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Imperial Navy"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Imperial_Navy"
+   }
+  ]
+ },
+ {
+  "id": "accise-du-directoire-de-marienburg",
+  "annee": 2399,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Le Directoire se dote de sa propre accise",
+   "en": "The Directorate appoints its own excise",
+   "de": "Das Direktorium schafft eine eigene Akzise"
+  },
+  "resume": {
+   "fr": "Les directeurs de Marienburg créent un service chargé des taxes et de la lutte contre la contrebande. Altdorf, satisfaite des versements, laisse dépérir sa propre accise dans la ville, nouvelle étape vers l'autonomie.",
+   "en": "Marienburg's Directors create their own service for tariffs and smuggling. Altdorf, content with the payments, lets its own excise in the city wither, another step toward autonomy.",
+   "de": "Die Direktoren Marienburgs schaffen einen eigenen Dienst für Zölle und gegen den Schmuggel. Altdorf ist mit den Zahlungen zufrieden und lässt seine eigene Akzise in der Stadt verkümmern, ein weiterer Schritt zur Selbstständigkeit."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "marienburg"
+  ],
+  "factions": [
+   "empire"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Marienburg: Sold Down the River, Warhammer Fantasy Roleplay 1e édition",
+     "en": "Marienburg: Sold Down the River, Warhammer Fantasy Roleplay 1st edition",
+     "de": "Marienburg: Sold Down the River, Warhammer Fantasy Roleplay 1. Edition"
+    },
+    "detail": {
+     "fr": "p. 17-20",
+     "en": "pp. 17-20",
+     "de": "S. 17-20"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Marienburg",
+     "en": "Warhammer Fantasy Wiki (fandom), Marienburg page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Marienburg"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Marienburg"
+   }
+  ]
+ },
+ {
+  "id": "course-aux-halflings-interdite",
+  "annee": 2402,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "La chasse aux Halflings interdite",
+   "en": "Halfling coursing outlawed",
+   "de": "Die Halblingshatz wird verboten"
+  },
+  "resume": {
+   "fr": "La pratique de la chasse aux Halflings, à laquelle se livraient les Chevaliers de l'Ours noir d'Averland pour tromper leur oisiveté, est interdite. L'ordre la remplace par des tournois.",
+   "en": "The practice of Halfling coursing, with which the Order of the Black Bear of Averland used to pass idle time, is outlawed. The order replaces it with tournaments.",
+   "de": "Die Halblingshatz, mit der sich der Orden des Schwarzen Bären im Averland die Langeweile vertrieb, wird verboten. Der Orden ersetzt sie durch Turniere."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "averheim"
+  ],
+  "factions": [
+   "empire"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "White Dwarf 310 (UK)",
+     "en": "White Dwarf 310 (UK)",
+     "de": "White Dwarf 310 (UK)"
+    },
+    "detail": {
+     "fr": "p. 121",
+     "en": "p. 121",
+     "de": "S. 121"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Order of the Black Bear",
+     "en": "Warhammer Fantasy Wiki (fandom), Order of the Black Bear page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Order of the Black Bear"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Order_of_the_Black_Bear"
+   }
+  ]
+ },
+ {
+  "id": "premier-match-de-middenball",
+  "annee": 2412,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Premier match de Middenball",
+   "en": "The first Middenball match",
+   "de": "Das erste Middenball-Spiel"
+  },
+  "resume": {
+   "fr": "Le graf Dieter fait disputer dans le théâtre Bernabau de Middenheim le premier match joué selon ses règles officielles. Le succès est tel que la scène n'est jamais remontée et que le lieu devient un stade.",
+   "en": "Graf Dieter stages in Middenheim's Bernabau theatre the first match played to his official rules. It is so popular that the stage is never put back and the venue becomes a stadium.",
+   "de": "Graf Dieter lässt im Bernabau-Theater von Middenheim das erste Spiel nach seinen offiziellen Regeln austragen. Der Erfolg ist so groß, dass die Bühne nie wiederhergestellt wird und der Ort zum Stadion wird."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "middenheim"
+  ],
+  "factions": [
+   "empire"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Middenheim: City of the White Wolf, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Middenheim: City of the White Wolf, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Middenheim: City of the White Wolf, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 58",
+     "en": "p. 58",
+     "de": "S. 58"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Bernabau Stadium",
+     "en": "Warhammer Fantasy Wiki (fandom), Bernabau Stadium page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Bernabau Stadium"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Bernabau_Stadium"
+   }
+  ]
+ },
+ {
+  "id": "charte-des-elementalistes",
+  "annee": 2420,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "La charte du collège des élémentalistes",
+   "en": "The elementalists' college gains its charter",
+   "de": "Die Charta des Elementaristenkollegs"
+  },
+  "resume": {
+   "fr": "Après des interrogatoires parfois sous la torture, les répurgateurs admettent que les élémentalistes ne sont ni mauvais ni voués au Chaos. Leur collège reçoit sa charte et peut délivrer des licences, mais ses relations avec les Collèges impériaux restent tendues.",
+   "en": "After interrogations that sometimes involve torture, the witch hunters concede that elementalists are neither evil nor Chaotic. Their college receives its charter and may issue licences, but relations with the Imperial Colleges stay strained.",
+   "de": "Nach Verhören, teils unter Folter, räumen die Hexenjäger ein, dass die Elementaristen weder böse noch chaotisch sind. Ihr Kolleg erhält seine Charta und darf Lizenzen ausstellen, doch das Verhältnis zu den Kaiserlichen Kollegien bleibt gespannt."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [],
+  "factions": [
+   "empire"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Realms of Sorcery, Warhammer Fantasy Roleplay 1e édition",
+     "en": "Realms of Sorcery, Warhammer Fantasy Roleplay 1st edition",
+     "de": "Realms of Sorcery, Warhammer Fantasy Roleplay 1. Edition"
+    },
+    "detail": {
+     "fr": "p. 62",
+     "en": "p. 62",
+     "de": "S. 62"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Elementalism",
+     "en": "Warhammer Fantasy Wiki (fandom), Elementalism page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Elementalism"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Elementalism"
+   }
+  ]
+ },
+ {
+  "id": "chute-de-hammerfall",
+  "annee": 2420,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Destruction du monastère de Hammerfall",
+   "en": "Destruction of the Hammerfall monastery",
+   "de": "Zerstörung des Klosters Hammerfall"
+  },
+  "resume": {
+   "fr": "Les forces de la Ruine détruisent le monastère de Hammerfall. Des novices de la Croix impériale évacuent reliques et livres, dont le Livre célestin de divination, qui parviendra au templier Diederick Kastner et précipitera la chute des Templiers.",
+   "en": "The forces of Ruin destroy the monastery of Hammerfall. Novices of the Imperial Cross carry off relics and books, among them the Celestine Book of Divination, which will reach the Templar Diederick Kastner and bring about the Templars' fall.",
+   "de": "Die Mächte des Verderbens zerstören das Kloster Hammerfall. Novizen des Kaiserlichen Kreuzes retten Reliquien und Bücher, darunter das Zölestinische Buch der Weissagung, das zum Templer Diederick Kastner gelangt und den Fall der Templer herbeiführt."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [],
+  "factions": [
+   "empire",
+   "chaos"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Archaon: Everchosen, roman de Rob Sanders",
+     "en": "Archaon: Everchosen, novel by Rob Sanders",
+     "de": "Archaon: Everchosen, Roman von Rob Sanders"
+    },
+    "detail": {
+     "fr": "chap. 5",
+     "en": "ch. 5",
+     "de": "Kap. 5"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Hammerfall",
+     "en": "Warhammer Fantasy Wiki (fandom), Hammerfall page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Hammerfall"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Hammerfall"
+   }
+  ]
+ },
+ {
+  "id": "gue-de-leitzig",
+  "annee": 2427,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Bataille du gué de Leitzig",
+   "en": "Battle of Leitziger Ford",
+   "de": "Schlacht an der Leitziger Furt"
+  },
+  "resume": {
+   "fr": "Les comtes électeurs de Stirland et de Talabecland s'affrontent pour le contrôle d'un passage sur la Stir, signe que les guerres privées survivent à l'Empire réunifié.",
+   "en": "The Elector Counts of Stirland and Talabecland clash for control of a crossing on the River Stir, a sign that private wars have survived the reunited Empire.",
+   "de": "Die Kurfürsten von Stirland und Talabecland kämpfen um einen Übergang über die Stir, ein Zeichen, dass private Kriege das wiedervereinte Imperium überdauert haben."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [],
+  "factions": [
+   "empire"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: The Empire, 7e édition",
+     "en": "Warhammer Armies: The Empire, 7th edition",
+     "de": "Warhammer Armies: The Empire, 7. Edition"
+    },
+    "detail": {
+     "fr": "p. 20",
+     "en": "p. 20",
+     "de": "S. 20"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Elector Count",
+     "en": "Warhammer Fantasy Wiki (fandom), Elector Count page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Elector Count"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Elector_Count"
+   }
+  ]
+ },
+ {
+  "id": "mort-de-wilhelm-iii",
+  "annee": 2434,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Mort de Wilhelm III le Sage",
+   "en": "Death of Wilhelm III the Wise",
+   "de": "Tod Wilhelms III. des Weisen"
+  },
+  "resume": {
+   "fr": "L'empereur Wilhelm III meurt d'une cause inconnue et son fils Matthias IV lui succède. Sa maison de Holswig-Schliestein conserve dès lors le trône, jusqu'à Karl Franz, son arrière-arrière-petit-fils.",
+   "en": "Emperor Wilhelm III dies of unknown causes and his son Matthias IV succeeds him. His House of Holswig-Schliestein keeps the throne from then on, down to Karl Franz, his great-great-grandson.",
+   "de": "Kaiser Wilhelm III. stirbt an unbekannter Ursache, sein Sohn Matthias IV. folgt ihm nach. Sein Haus Holswig-Schliestein behält fortan den Thron bis zu Karl Franz, seinem Ururenkel."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "altdorf"
+  ],
+  "factions": [
+   "empire"
+  ],
+  "importance": 2,
+  "fiabilite": "etabli",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer: Rulebook, 8e édition",
+     "en": "Warhammer: Rulebook, 8th edition",
+     "de": "Warhammer: Rulebook, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 172",
+     "en": "p. 172",
+     "de": "S. 172"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Altdorf: Crown of the Empire, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Altdorf: Crown of the Empire, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Altdorf: Crown of the Empire, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 12",
+     "en": "p. 12",
+     "de": "S. 12"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Wilhelm the Wise",
+     "en": "Warhammer Fantasy Wiki (fandom), Wilhelm the Wise page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Wilhelm the Wise"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Wilhelm_the_Wise"
+   }
+  ]
+ },
+ {
+  "id": "disparition-de-matthias-iv",
+  "annee": 2438,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Matthias IV disparaît dans le brouillard",
+   "en": "Matthias IV vanishes in the fog",
+   "de": "Matthias IV. verschwindet im Nebel"
+  },
+  "resume": {
+   "fr": "Pour connaître l'opinion de ses sujets, l'empereur s'aventure incognito dans Altdorf par un épais brouillard et ne revient jamais. Des vagabonds se présentent encore au palais en prétendant être Matthias.",
+   "en": "To learn his subjects' opinions, the emperor ventures incognito into Altdorf during a thick fog and never returns. Vagrants still turn up at the palace claiming to be Matthias.",
+   "de": "Um die Meinung seiner Untertanen zu erfahren, wagt sich der Kaiser bei dichtem Nebel unerkannt in die Straßen Altdorfs und kehrt nie zurück. Bis heute erscheinen Landstreicher im Palast und geben sich als Matthias aus."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "altdorf"
+  ],
+  "factions": [
+   "empire"
+  ],
+  "importance": 2,
+  "fiabilite": "etabli",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Altdorf: Crown of the Empire, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Altdorf: Crown of the Empire, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Altdorf: Crown of the Empire, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 12",
+     "en": "p. 12",
+     "de": "S. 12"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Beasts in Velvet, roman de Jack Yeovil",
+     "en": "Beasts in Velvet, novel by Jack Yeovil",
+     "de": "Beasts in Velvet, Roman von Jack Yeovil"
+    },
+    "detail": {
+     "fr": "Partie 3, chap. 1",
+     "en": "Partie 3, chap. 1",
+     "de": "Partie 3, chap. 1"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Matthias IV",
+     "en": "Warhammer Fantasy Wiki (fandom), Matthias IV page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Matthias IV"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Matthias_IV"
+   }
+  ]
+ },
+ {
+  "id": "college-militaire-de-diesdorf",
+  "annee": 2440,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Le Collège militaire de Diesdorf",
+   "en": "The Diesdorf Military College",
+   "de": "Das Militärkolleg von Diesdorf"
+  },
+  "resume": {
+   "fr": "Une école de cadets, fondée selon la source par Wilhelm III, ouvre au Reikland aux frais du trésor impérial. L'entrée n'y exige que la recommandation d'un supérieur, ce qui l'ouvre aux soldats sans fortune.",
+   "en": "A cadet school, founded according to the source by Wilhelm III, opens in Reikland at the expense of the Imperial treasury. Entry needs only a superior's recommendation, opening it to soldiers without means.",
+   "de": "Eine laut der Quelle von Wilhelm III. gegründete Kadettenschule öffnet im Reikland auf Kosten des kaiserlichen Schatzes. Für die Aufnahme genügt die Empfehlung eines Vorgesetzten, sodass sie auch mittellosen Soldaten offensteht."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [],
+  "factions": [
+   "empire"
+  ],
+  "importance": 1,
+  "fiabilite": "divergent",
+  "note": {
+   "fr": "La source date la fondation de 2440 sous Wilhelm III, alors que celui-ci serait mort en 2434.",
+   "en": "The source dates the founding to 2440 under Wilhelm III, although he is said to have died in 2434.",
+   "de": "Die Quelle datiert die Gründung unter Wilhelm III. auf 2440, obwohl er schon 2434 gestorben sein soll."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Career Compendium, Warhammer Fantasy Roleplay 2e édition",
+     "en": "Career Compendium, Warhammer Fantasy Roleplay 2nd edition",
+     "de": "Career Compendium, Warhammer Fantasy Roleplay 2. Edition"
+    },
+    "detail": {
+     "fr": "p. 37",
+     "en": "p. 37",
+     "de": "S. 37"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Diesdorf Military College",
+     "en": "Warhammer Fantasy Wiki (fandom), Diesdorf Military College page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Diesdorf Military College"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Diesdorf_Military_College"
+   }
+  ]
+ },
+ {
+  "id": "grande-crue-de-marienburg",
+  "annee": 2448,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "La grande crue de Marienburg",
+   "en": "The great flood of Marienburg",
+   "de": "Die große Flut von Marienburg"
+  },
+  "resume": {
+   "fr": "Après un hiver rigoureux, les crues du printemps noient près de la moitié de Marienburg. La digue du Vloedmuur est prolongée et le drainage amélioré, avec l'aide de la magie runique et de l'ingénierie des Nains.",
+   "en": "After a harsh winter, spring floods put nearly half of Marienburg underwater. The Vloedmuur defences are extended and drainage improved, with Dwarf rune magic and engineering.",
+   "de": "Nach einem harten Winter setzen Frühjahrsfluten fast halb Marienburg unter Wasser. Die Vloedmuur wird verlängert und die Entwässerung mit zwergischer Runenmagie und Ingenieurskunst verbessert."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "marienburg"
+  ],
+  "factions": [
+   "empire",
+   "nains"
+  ],
+  "importance": 1,
+  "fiabilite": "etabli",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Sea of Claws, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Sea of Claws, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Sea of Claws, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 6-7",
+     "en": "pp. 6-7",
+     "de": "S. 6-7"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Marienburg: Sold Down the River, Warhammer Fantasy Roleplay 1e édition",
+     "en": "Marienburg: Sold Down the River, Warhammer Fantasy Roleplay 1st edition",
+     "de": "Marienburg: Sold Down the River, Warhammer Fantasy Roleplay 1. Edition"
+    },
+    "detail": {
+     "fr": "p. 21",
+     "en": "p. 21",
+     "de": "S. 21"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Marienburg",
+     "en": "Warhammer Fantasy Wiki (fandom), Marienburg page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Marienburg"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Marienburg"
+   }
+  ]
+ },
+ {
+  "id": "emeutes-des-guildes-de-marienburg",
+  "annee": 2449,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Les émeutes des guildes de Marienburg",
+   "en": "The guild riots of Marienburg",
+   "de": "Die Gildenunruhen von Marienburg"
+  },
+  "resume": {
+   "fr": "Des lois votées à la demande des marchands contre les guildes de travailleurs provoquent des émeutes, des destructions et plusieurs meurtres. Le Directoire doit les abroger et se contente de limiter les grèves.",
+   "en": "Laws against the labour guilds, passed at the merchants' request, set off riots, destruction and several murders. The Directorate has to rescind them and settles for limiting strikes.",
+   "de": "Auf Betreiben der Kaufleute erlassene Gesetze gegen die Arbeitergilden lösen Aufruhr, Zerstörung und mehrere Morde aus. Das Direktorium muss sie zurücknehmen und begnügt sich mit einer Beschränkung der Streiks."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "marienburg"
+  ],
+  "factions": [
+   "empire"
+  ],
+  "importance": 1,
+  "fiabilite": "etabli",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Sea of Claws, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Sea of Claws, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Sea of Claws, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 6-7",
+     "en": "pp. 6-7",
+     "de": "S. 6-7"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Marienburg: Sold Down the River, Warhammer Fantasy Roleplay 1e édition",
+     "en": "Marienburg: Sold Down the River, Warhammer Fantasy Roleplay 1st edition",
+     "de": "Marienburg: Sold Down the River, Warhammer Fantasy Roleplay 1. Edition"
+    },
+    "detail": {
+     "fr": "p. 21",
+     "en": "p. 21",
+     "de": "S. 21"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Marienburg",
+     "en": "Warhammer Fantasy Wiki (fandom), Marienburg page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Marienburg"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Marienburg"
+   }
+  ]
+ },
+ {
+  "id": "ports-de-riemanns",
+  "annee": 2455,
+  "fin": 2462,
+  "approx": false,
+  "titre": {
+   "fr": "Les ports de Riemanns contre Marienburg",
+   "en": "Riemanns's ports against Marienburg",
+   "de": "Riemanns' Häfen gegen Marienburg"
+  },
+  "resume": {
+   "fr": "L'escroc Jens-Pieter Riemanns convainc électeurs et marchands de bâtir Salkalten et Neues Emskrank pour détourner le commerce de Marienburg. Incendies, accidents et crues frappent le chantier et, malgré l'ouverture en fanfare de 2462, le trafic promis ne vient jamais.",
+   "en": "The con-artist Jens-Pieter Riemanns persuades Electors and merchants to build up Salkalten and Neues Emskrank to draw trade from Marienburg. Fires, accidents and floods strike the works and, despite the fanfare of the 2462 opening, the promised traffic never comes.",
+   "de": "Der Betrüger Jens-Pieter Riemanns überredet Kurfürsten und Kaufleute, Salkalten und Neues Emskrank auszubauen, um Marienburg den Handel abzujagen. Brände, Unfälle und Fluten treffen die Bauarbeiten, und trotz der prunkvollen Eröffnung von 2462 bleibt der versprochene Verkehr aus."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [],
+  "factions": [
+   "empire"
+  ],
+  "importance": 1,
+  "fiabilite": "etabli",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Sea of Claws, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Sea of Claws, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Sea of Claws, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 25",
+     "en": "p. 25",
+     "de": "S. 25"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2e édition",
+     "en": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2nd edition",
+     "de": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2. Edition"
+    },
+    "detail": {
+     "fr": "p. 65",
+     "en": "p. 65",
+     "de": "S. 65"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Neues Emskrank",
+     "en": "Warhammer Fantasy Wiki (fandom), Neues Emskrank page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Neues Emskrank"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Neues_Emskrank"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Salkalten",
+     "en": "Warhammer Fantasy Wiki (fandom), Salkalten page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Salkalten"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Salkalten"
+   }
+  ]
+ },
+ {
+  "id": "destruction-du-vieux-siegfriedhof",
+  "annee": 2464,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Destruction du vieux Siegfriedhof",
+   "en": "Destruction of Old Siegfriedhof",
+   "de": "Zerstörung von Alt-Siegfriedhof"
+  },
+  "resume": {
+   "fr": "Le vieux Siegfriedhof est détruit. L'abbé Darius Geistwächt, qui en fut témoin enfant, reste hanté par des cauchemars d'atrocités skavens et entretient à l'abbaye un climat de peur.",
+   "en": "Old Siegfriedhof is destroyed. Abbot Darius Geistwächt, who saw it as a boy, remains haunted by nightmares of Skaven atrocities and keeps the abbey in a climate of fear.",
+   "de": "Alt-Siegfriedhof wird zerstört. Abt Darius Geistwächt, der es als Knabe miterlebte, bleibt von Albträumen skavenischer Gräuel verfolgt und hält die Abtei in einem Klima der Angst."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [],
+  "factions": [
+   "empire",
+   "skavens"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "The Thousand Thrones, Warhammer Fantasy Roleplay 2e édition",
+     "en": "The Thousand Thrones, Warhammer Fantasy Roleplay 2nd edition",
+     "de": "The Thousand Thrones, Warhammer Fantasy Roleplay 2. Edition"
+    },
+    "detail": {
+     "fr": "p. 169",
+     "en": "p. 169",
+     "de": "S. 169"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Darius Geistwächt",
+     "en": "Warhammer Fantasy Wiki (fandom), Darius Geistwächt page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Darius Geistwächt"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Darius_Geistw%C3%A4cht"
+   }
+  ]
+ },
+ {
+  "id": "bataille-de-la-plaine-de-schrolnetz",
+  "annee": 2465,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Bataille de la plaine de Schrolnetz",
+   "en": "Battle of Schrolnetz Plain",
+   "de": "Schlacht auf der Ebene von Schrolnetz"
+  },
+  "resume": {
+   "fr": "Maximillian von Klaus, du Cercle intérieur des Chevaliers du Soleil flamboyant, mène une armée de l'Empire contre le vampire Antoine von Carstein et l'emporte. Antoine lui échappe et jure de se venger.",
+   "en": "Maximillian von Klaus, of the Inner Circle of the Knights of the Blazing Sun, leads an Imperial army against the vampire Antoine von Carstein and wins. Antoine escapes and swears revenge.",
+   "de": "Maximillian von Klaus aus dem Inneren Kreis der Ritter der Lodernden Sonne führt ein imperiales Heer gegen den Vampir Antoine von Carstein und siegt. Antoine entkommt und schwört Rache."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [],
+  "factions": [
+   "empire",
+   "vampires"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "White Dwarf 243 (US)",
+     "en": "White Dwarf 243 (US)",
+     "de": "White Dwarf 243 (US)"
+    },
+    "detail": {
+     "fr": "p. 31",
+     "en": "p. 31",
+     "de": "S. 31"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Battle of Schrolnetz Plain",
+     "en": "Warhammer Fantasy Wiki (fandom), Battle of Schrolnetz Plain page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Battle of Schrolnetz Plain"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Battle_of_Schrolnetz_Plain"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Maximillian von Klaus",
+     "en": "Warhammer Fantasy Wiki (fandom), Maximillian von Klaus page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Maximillian von Klaus"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Maximillian_von_Klaus"
+   }
+  ]
+ },
+ {
+  "id": "sanatorium-de-la-misericorde",
+  "annee": 2472,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Le Sanatorium de la Miséricorde d'Altdorf",
+   "en": "The Sanatorium of Mercy in Altdorf",
+   "de": "Das Sanatorium der Barmherzigkeit in Altdorf"
+  },
+  "resume": {
+   "fr": "Une épidémie de tremblements jaunes dans l'East End d'Altdorf conduit les Shalléennes à ouvrir un sanatorium dans une ancienne caserne. Chaque matin, leurs sœurs choisissent à la grille les rares malades admis.",
+   "en": "An epidemic of Yellow Shakes in Altdorf's East End leads the Shallyans to open a sanatorium in a former barracks. Each dawn their sisters pick at the gate the few sufferers to be admitted.",
+   "de": "Eine Epidemie des Gelben Zitterns im Altdorfer East End veranlasst die Shallyanerinnen, in einer früheren Kaserne ein Sanatorium zu eröffnen. Jeden Morgen wählen sie am Tor die wenigen Kranken aus, die Aufnahme finden."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "altdorf"
+  ],
+  "factions": [
+   "empire"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Altdorf: Crown of the Empire, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Altdorf: Crown of the Empire, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Altdorf: Crown of the Empire, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 151",
+     "en": "p. 151",
+     "de": "S. 151"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Sanatorium of Mercy",
+     "en": "Warhammer Fantasy Wiki (fandom), Sanatorium of Mercy page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Sanatorium of Mercy"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Sanatorium_of_Mercy"
+   }
+  ]
+ },
+ {
+  "id": "folie-de-hertwig",
+  "annee": 2485,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Bataille de la Route noire ou Folie de Hertwig",
+   "en": "Battle of Black Road, or Hertwig's Folly",
+   "de": "Schlacht an der Schwarzen Straße oder Hertwigs Torheit"
+  },
+  "resume": {
+   "fr": "À peine adolescent, le comte électeur d'Ostermark Wolfram Hertwig refuse de céder le commandement au grand maître Kessler des Chevaliers de la Lumière éternelle. Kessler repart avec ses templiers et l'armée, livrée seule aux Orques, est massacrée. Hertwig en réchappe de justesse.",
+   "en": "Barely in his teens, Elector Count Wolfram Hertwig of Ostermark refuses to yield command to Grand Master Kessler of the Knights of the Everlasting Light. Kessler rides away with his templars and the army, left alone against the Orcs, is slaughtered. Hertwig barely escapes.",
+   "de": "Der kaum jugendliche Kurfürst Wolfram Hertwig von Ostermark verweigert Großmeister Kessler von den Rittern des Ewigen Lichts den Oberbefehl. Kessler zieht mit seinen Templern ab, und das Heer wird allein gegen die Orks niedergemetzelt. Hertwig entkommt nur knapp."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "bechafen"
+  ],
+  "factions": [
+   "empire",
+   "peaux-vertes"
+  ],
+  "importance": 2,
+  "fiabilite": "etabli",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: The Empire, 7e édition",
+     "en": "Warhammer Armies: The Empire, 7th edition",
+     "de": "Warhammer Armies: The Empire, 7. Edition"
+    },
+    "detail": {
+     "fr": "p. 41",
+     "en": "p. 41",
+     "de": "S. 41"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Warhammer Armies: The Empire, 8e édition",
+     "en": "Warhammer Armies: The Empire, 8th edition",
+     "de": "Warhammer Armies: The Empire, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 43",
+     "en": "p. 43",
+     "de": "S. 43"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Wolfram Hertwig",
+     "en": "Warhammer Fantasy Wiki (fandom), Wolfram Hertwig page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Wolfram Hertwig"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Wolfram_Hertwig"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Knights of the Everlasting Light",
+     "en": "Warhammer Fantasy Wiki (fandom), Knights of the Everlasting Light page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Knights of the Everlasting Light"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Knights_of_the_Everlasting_Light"
+   }
+  ]
+ },
+ {
+  "id": "ruee-vers-l-or-des-montagnes-du-milieu",
+  "annee": 2497,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Ruée vers l'or dans les Montagnes du Milieu",
+   "en": "Gold rush in the Middle Mountains",
+   "de": "Goldrausch im Mittelgebirge"
+  },
+  "resume": {
+   "fr": "Une brève ruée vers l'or gagne ces montagnes réputées stériles, où même les Nains n'avaient rien trouvé en plus de mille ans de recherches.",
+   "en": "A brief gold rush reaches these reputedly barren mountains, where even the Dwarfs had found nothing in over a thousand years of searching.",
+   "de": "Ein kurzer Goldrausch erfasst dieses als unfruchtbar geltende Gebirge, in dem selbst die Zwerge in über tausend Jahren nichts gefunden hatten."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [],
+  "factions": [
+   "empire"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "The Horned Rat Companion, Warhammer Fantasy Roleplay 4e édition",
+     "en": "The Horned Rat Companion, Warhammer Fantasy Roleplay 4th edition",
+     "de": "The Horned Rat Companion, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 65",
+     "en": "p. 65",
+     "de": "S. 65"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Middle Mountains",
+     "en": "Warhammer Fantasy Wiki (fandom), Middle Mountains page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Middle Mountains"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Middle_Mountains"
+   }
+  ]
+ },
+ {
+  "id": "guerre-des-quais-d-altdorf",
+  "annee": 2500,
+  "fin": 2505,
+  "approx": false,
+  "titre": {
+   "fr": "La guerre des Quais d'Altdorf",
+   "en": "The Waterfront War of Altdorf",
+   "de": "Der Hafenkrieg von Altdorf"
+  },
+  "resume": {
+   "fr": "Les gangs des Crochets et des Poissons se livrent une guerre ouverte sur les docks d'Altdorf pendant cinq ans. Elle s'apaise lorsque le garde Harald Kleindeinst tue en secret les chefs des deux camps, mais la violence se poursuit à moindre échelle.",
+   "en": "The Hooks and the Fish wage open war on Altdorf's docks for five years. It dies down when the watchman Harald Kleindeinst quietly kills both sides' war chiefs, though violence continues on a smaller scale.",
+   "de": "Die Banden der Haken und der Fische führen fünf Jahre lang offenen Krieg in den Altdorfer Docks. Er ebbt ab, als der Wächter Harald Kleindeinst heimlich die Anführer beider Seiten tötet, doch die Gewalt dauert in kleinerem Maß an."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "altdorf"
+  ],
+  "factions": [
+   "empire"
+  ],
+  "importance": 1,
+  "fiabilite": "etabli",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Shades of Empire, Warhammer Fantasy Roleplay 2e édition",
+     "en": "Shades of Empire, Warhammer Fantasy Roleplay 2nd edition",
+     "de": "Shades of Empire, Warhammer Fantasy Roleplay 2. Edition"
+    },
+    "detail": {
+     "fr": "p. 6",
+     "en": "p. 6",
+     "de": "S. 6"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Altdorf: Crown of the Empire, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Altdorf: Crown of the Empire, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Altdorf: Crown of the Empire, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 9-13",
+     "en": "pp. 9-13",
+     "de": "S. 9-13"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Altdorf",
+     "en": "Warhammer Fantasy Wiki (fandom), Altdorf page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Altdorf"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Altdorf"
+   }
+  ]
+ },
+ {
+  "id": "emeutes-de-streissen",
+  "annee": 2502,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Les émeutes de Streissen",
+   "en": "The Streissen riots",
+   "de": "Die Unruhen von Streissen"
+  },
+  "resume": {
+   "fr": "Une maladie des récoltes provoque la disette à Streissen, ville d'Averland récemment dotée d'une charte. Sans véritable garde, les autorités sont impuissantes et des agitateurs proclament une commune. L'affaire ternit durablement la maison Alptraum.",
+   "en": "Crop disease brings food shortages to Streissen, an Averland town recently granted a charter. With hardly any watch the authorities are helpless, and agitators declare a commune. The affair lastingly tarnishes House Alptraum.",
+   "de": "Eine Pflanzenkrankheit bringt Hunger nach Streissen, einer jüngst privilegierten Stadt im Averland. Die Behörden sind mangels Stadtwache machtlos, und Aufwiegler rufen eine Kommune aus. Die Sache schadet dem Haus Alptraum nachhaltig."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [],
+  "factions": [
+   "empire"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2e édition",
+     "en": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2nd edition",
+     "de": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2. Edition"
+    },
+    "detail": {
+     "fr": "p. 47",
+     "en": "p. 47",
+     "de": "S. 47"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Streissen",
+     "en": "Warhammer Fantasy Wiki (fandom), Streissen page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Streissen"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Streissen"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Turmoil of 2512",
+     "en": "Warhammer Fantasy Wiki (fandom), Turmoil of 2512 page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Turmoil of 2512"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Turmoil_of_2512"
+   }
+  ]
+ },
+ {
+  "id": "affaire-konigswald",
+  "annee": 2505,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "L'affaire Königswald",
+   "en": "The Königswald Affair",
+   "de": "Die Königswald-Affäre"
+  },
+  "resume": {
+   "fr": "Oswald von Königswald invite Karl Franz et sa cour à Drachenfels pour une pièce sur sa victoire de 2480. Son dessein de ressusciter le Grand Enchanteur échoue grâce à Detlef Sierck, mais il tranche la gorge de l'empereur avant d'être tué. Karl Franz survit, et l'Ostland passe aux von Tasseninck.",
+   "en": "Oswald von Königswald invites Karl Franz and his court to Drachenfels for a play about his victory of 2480. His scheme to resurrect the Great Enchanter is foiled by Detlef Sierck, but he cuts the emperor's throat before being slain. Karl Franz survives, and Ostland passes to the von Tassenincks.",
+   "de": "Oswald von Königswald lädt Karl Franz und den Hof nach Drachenfels zu einem Stück über seinen Sieg von 2480. Sein Plan, den Großen Zauberer wiederzuerwecken, scheitert an Detlef Sierck, doch er schneidet dem Kaiser die Kehle durch, ehe er getötet wird. Karl Franz überlebt, und Ostland fällt an die von Tasseninck."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "montagnes",
+   "empire"
+  ],
+  "lieux": [
+   "chateau-drachenfels"
+  ],
+  "factions": [
+   "empire"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Drachenfels, roman de Jack Yeovil",
+     "en": "Drachenfels, novel by Jack Yeovil",
+     "de": "Drachenfels, Roman von Jack Yeovil"
+    },
+    "detail": {
+     "fr": "Acte 3, chap. 11",
+     "en": "Acte 3, chap. 11",
+     "de": "Acte 3, chap. 11"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Karl Franz",
+     "en": "Warhammer Fantasy Wiki (fandom), Karl Franz page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Karl Franz"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Karl_Franz"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Oswald von Königswald",
+     "en": "Warhammer Fantasy Wiki (fandom), Oswald von Königswald page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Oswald von Königswald"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Oswald_von_K%C3%B6nigswald"
+   }
+  ]
+ },
+ {
+  "id": "bataille-de-stuttburg",
+  "annee": 2505,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Bataille de Stuttburg",
+   "en": "Battle of Stuttburg",
+   "de": "Schlacht von Stuttburg"
+  },
+  "resume": {
+   "fr": "Quarante ans après sa défaite, Antoine von Carstein envahit l'Empire pour frapper Stuttburg, dont son vieux vainqueur Maximillian von Klaus est devenu bourgmestre. L'issue de la bataille reste inconnue.",
+   "en": "Forty years after his defeat, Antoine von Carstein invades the Empire to strike at Stuttburg, where his old conqueror Maximillian von Klaus has become mayor. The battle's outcome is unknown.",
+   "de": "Vierzig Jahre nach seiner Niederlage fällt Antoine von Carstein ins Imperium ein, um Stuttburg zu treffen, dessen Bürgermeister sein alter Bezwinger Maximillian von Klaus geworden ist. Der Ausgang der Schlacht ist unbekannt."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [],
+  "factions": [
+   "empire",
+   "vampires"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "White Dwarf 243 (US)",
+     "en": "White Dwarf 243 (US)",
+     "de": "White Dwarf 243 (US)"
+    },
+    "detail": {
+     "fr": "p. 31",
+     "en": "p. 31",
+     "de": "S. 31"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Stuttburg",
+     "en": "Warhammer Fantasy Wiki (fandom), Stuttburg page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Stuttburg"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Stuttburg"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Maximillian von Klaus",
+     "en": "Warhammer Fantasy Wiki (fandom), Maximillian von Klaus page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Maximillian von Klaus"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Maximillian_von_Klaus"
+   }
+  ]
+ },
+ {
+  "id": "taxe-du-pouce-et-emeutes-du-brouillard",
+  "annee": 2506,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "La taxe du Pouce et les grandes émeutes du Brouillard",
+   "en": "The Thumb Tax and the Great Fog Riots",
+   "de": "Die Daumensteuer und die Großen Nebelunruhen"
+  },
+  "resume": {
+   "fr": "Le chancelier Mornan Tybalt impose à tout citoyen valide une capitation de deux couronnes d'or. Jointe aux meurtres de la Bête, elle embrase Altdorf, et la foule coupe un pouce au chancelier. Les émeutes tournent court lorsque leur meneur Yevgeny Yefimovich se révèle un disciple de Tzeentch.",
+   "en": "Chancellor Mornan Tybalt imposes a poll tax of two gold crowns on every able-bodied citizen. Together with the Beast Murders it sets Altdorf ablaze, and the mob clips off one of the chancellor's thumbs. The riots end quickly when their leader Yevgeny Yefimovich proves to be a disciple of Tzeentch.",
+   "de": "Kanzler Mornan Tybalt erlegt jedem arbeitsfähigen Bürger eine Kopfsteuer von zwei Goldkronen auf. Zusammen mit den Bestienmorden entflammt sie Altdorf, und der Pöbel schneidet dem Kanzler einen Daumen ab. Die Unruhen enden rasch, als sich ihr Anführer Yevgeny Yefimovich als Jünger Tzeentchs entpuppt."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "altdorf"
+  ],
+  "factions": [
+   "empire",
+   "chaos"
+  ],
+  "importance": 2,
+  "fiabilite": "etabli",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Altdorf: Crown of the Empire, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Altdorf: Crown of the Empire, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Altdorf: Crown of the Empire, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 16",
+     "en": "p. 16",
+     "de": "S. 16"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Beasts in Velvet, roman de Jack Yeovil",
+     "en": "Beasts in Velvet, novel by Jack Yeovil",
+     "de": "Beasts in Velvet, Roman von Jack Yeovil"
+    },
+    "detail": {
+     "fr": "Partie 4, chap. 1",
+     "en": "Partie 4, chap. 1",
+     "de": "Partie 4, chap. 1"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Mornan Tybalt",
+     "en": "Warhammer Fantasy Wiki (fandom), Mornan Tybalt page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Mornan Tybalt"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Mornan_Tybalt"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Altdorf",
+     "en": "Warhammer Fantasy Wiki (fandom), Altdorf page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Altdorf"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Altdorf"
+   }
+  ]
+ },
+ {
+  "id": "griselda-von-velten",
+  "annee": 2515,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "La vision de sœur Griselda von Velten",
+   "en": "The vision of Sister Griselda von Velten",
+   "de": "Die Vision der Schwester Griselda von Velten"
+  },
+  "resume": {
+   "fr": "Pendant la parade de Sonnstill, une sœur de l'ordre de la Foi et de la Chasteté, visitée par Morr, annonce devant la foule que la fin approche, puis meurt. Après un an d'échanges houleux avec Volkmar, la matriarche renonce à l'isolement et prépare ses sœurs à la guerre.",
+   "en": "During the Sonnstill Parade a sister of the Order of Faith and Chastity, visited by Morr, tells the crowd that the end is coming, then dies. After a year of heated exchanges with Volkmar, the Matriarch gives up isolation and readies her sisters for war.",
+   "de": "Während der Sonnstillparade verkündet eine von Morr heimgesuchte Schwester des Ordens von Glaube und Keuschheit der Menge das nahe Ende und stirbt. Nach einem Jahr hitziger Briefwechsel mit Volkmar gibt die Matriarchin die Abgeschiedenheit auf und bereitet ihre Schwestern auf den Krieg vor."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [],
+  "factions": [
+   "empire"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Tome of Salvation, Warhammer Fantasy Roleplay 2e édition",
+     "en": "Tome of Salvation, Warhammer Fantasy Roleplay 2nd edition",
+     "de": "Tome of Salvation, Warhammer Fantasy Roleplay 2. Edition"
+    },
+    "detail": {
+     "fr": "p. 60",
+     "en": "p. 60",
+     "de": "S. 60"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Sisters of Faith and Chastity",
+     "en": "Warhammer Fantasy Wiki (fandom), Sisters of Faith and Chastity page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Sisters of Faith and Chastity"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Sisters_of_Faith_and_Chastity"
+   }
+  ]
+ },
+ {
+  "id": "presse-de-gunthur-johans",
+  "annee": 2517,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "La presse à imprimer de Gunthur Johans",
+   "en": "Gunthur Johans's printing press",
+   "de": "Die Druckerpresse des Gunthur Johans"
+  },
+  "resume": {
+   "fr": "À Middenheim, le sigmarite Gunthur Johans met au point une machine que beaucoup tiennent pour la première presse à imprimer. Ses variantes gagnent les grandes cités de l'Empire.",
+   "en": "In Middenheim the Sigmarite Gunthur Johans devises a machine that many regard as the first printing press. Variants of it spread to the Empire's major cities.",
+   "de": "In Middenheim entwickelt der Sigmarit Gunthur Johans eine Maschine, die viele für die erste Druckerpresse halten. Abwandlungen verbreiten sich in den großen Städten des Imperiums."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "middenheim"
+  ],
+  "factions": [
+   "empire"
+  ],
+  "importance": 1,
+  "fiabilite": "divergent",
+  "note": {
+   "fr": "Plusieurs romans et ouvrages mentionnent des presses et des éditeurs bien antérieurs à 2517.",
+   "en": "Several novels and books mention presses and publishers long before 2517.",
+   "de": "Mehrere Romane und Bücher nennen Pressen und Verlage lange vor 2517."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Old World Armoury, Warhammer Fantasy Roleplay 2e édition",
+     "en": "Old World Armoury, Warhammer Fantasy Roleplay 2nd edition",
+     "de": "Old World Armoury, Warhammer Fantasy Roleplay 2. Edition"
+    },
+    "detail": {
+     "fr": "p. 65",
+     "en": "p. 65",
+     "de": "S. 65"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Printing press",
+     "en": "Warhammer Fantasy Wiki (fandom), Printing press page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Printing press"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Printing_press"
+   }
+  ]
+ }
+]

@@ -1,6 +1,6 @@
 # Le Vieux Monde, une chronologie
 
-Chronologie sourcée de l'univers de Warhammer Fantasy et de The Old World, des Anciens à la Fin des Temps, avec une carte du monde zoomable. Près de 1000 événements, filtrables par faction, région, lieu, importance et fiabilité, en français, anglais et allemand. Site statique sans dépendance ni étape de build, publié sur `alexisjubin.com/vieux-monde/`.
+Chronologie sourcée de l'univers de Warhammer Fantasy et de The Old World, des Anciens à la Fin des Temps, avec une carte du monde zoomable. Plus de 1300 événements, filtrables par faction, région, lieu, importance et fiabilité, en français, anglais et allemand. Site statique sans dépendance ni étape de build, publié sur `alexisjubin.com/vieux-monde/`.
 
 ## Lancer en local
 

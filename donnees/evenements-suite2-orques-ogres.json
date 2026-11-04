@@ -1,0 +1,2510 @@
+[
+ {
+  "id": "red-face-contre-bloody-spearz-gunbad",
+  "annee": -1457,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Les Red Face disputent le Mont Gunbad aux Bloody Spearz",
+   "en": "The Red Face Goblins contest Mount Gunbad with the Bloody Spearz",
+   "de": "Die Red-Face-Goblins machen den Bloody Spearz den Mount Gunbad streitig"
+  },
+  "resume": {
+   "fr": "À peine les mines du Mont Gunbad prises par les Bloody Spearz, les gobelins Red Face des montagnes voisines, jaloux de ce butin, les attaquent par traîtrise. Les Bloody Spearz conservent la place.",
+   "en": "As soon as the Bloody Spearz take the mines of Mount Gunbad, the Red Face Goblins of the nearby mountains, envious of the prize, turn on them treacherously. The Bloody Spearz keep their hold on the site.",
+   "de": "Kaum haben die Bloody Spearz die Minen des Mount Gunbad erobert, fallen die neidischen Red-Face-Goblins aus den umliegenden Bergen heimtückisch über sie her. Die Bloody Spearz behaupten den Ort."
+  },
+  "ere": "age-des-tribus",
+  "regions": [
+   "montagnes"
+  ],
+  "lieux": [
+   "mont-gunbad"
+  ],
+  "factions": [
+   "peaux-vertes"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Bloody Spearz Tribe",
+     "en": "Warhammer Fantasy Wiki (fandom), Bloody Spearz Tribe page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Bloody Spearz Tribe"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Bloody_Spearz_Tribe"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Red Face Tribe",
+     "en": "Warhammer Fantasy Wiki (fandom), Red Face Tribe page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Red Face Tribe"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Red_Face_Tribe"
+   },
+   {
+    "titre": {
+     "fr": "La Bibliothèque Impériale, page Chronologie des Peaux-Vertes",
+     "en": "La Bibliothèque Impériale, Chronologie des Peaux-Vertes page",
+     "de": "La Bibliothèque Impériale, Seite Chronologie des Peaux-Vertes"
+    },
+    "detail": "",
+    "url": "https://www.bibliotheque-imperiale.com/index.php/Chronologie_des_Peaux-Vertes"
+   }
+  ]
+ },
+ {
+  "id": "gobelins-de-la-nuit-migration-1449",
+  "annee": -1449,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Une tribu gobeline s'enfonce sous terre et devient les Gobelins de la Nuit",
+   "en": "A Goblin tribe goes underground and becomes the Night Goblins",
+   "de": "Ein Goblinstamm zieht unter die Erde und wird zu den Nachtgoblins"
+  },
+  "resume": {
+   "fr": "Lors de la migration des peaux-vertes vers l'est, une tribu gobeline s'installe dans les galeries des Montagnes du Bord du Monde. Des générations passées dans le noir lui font perdre toute tolérance au soleil, et elle prend le nom de Gobelins de la Nuit.",
+   "en": "During the greenskin migration eastwards, a Goblin tribe settles in the tunnels of the Worlds Edge Mountains. Generations spent in darkness leave its people unable to bear the sun, and they take the name Night Goblins.",
+   "de": "Während der Wanderung der Grünhäute nach Osten lässt sich ein Goblinstamm in den Stollen des Weltrandgebirges nieder. Nach Generationen in der Finsternis erträgt er die Sonne nicht mehr und nennt sich fortan Nachtgoblins."
+  },
+  "ere": "age-des-tribus",
+  "regions": [
+   "montagnes"
+  ],
+  "lieux": [],
+  "factions": [
+   "peaux-vertes"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Orcs & Goblins, 8e édition",
+     "en": "Warhammer Armies: Orcs & Goblins, 8th edition",
+     "de": "Warhammer Armies: Orcs & Goblins, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 11",
+     "en": "p. 11",
+     "de": "S. 11"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Night Goblin",
+     "en": "Warhammer Fantasy Wiki (fandom), Night Goblin page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Night Goblin"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Night_Goblin"
+   }
+  ]
+ },
+ {
+  "id": "sac-de-boigenfastis",
+  "annee": -300,
+  "fin": null,
+  "approx": true,
+  "titre": {
+   "fr": "Sac de Boigenfastis",
+   "en": "Sack of Boigenfastis",
+   "de": "Plünderung von Boigenfastis"
+  },
+  "resume": {
+   "fr": "Des peaux-vertes mettent à sac Boigenfastis, la bourgade qui deviendra Bögenhafen.",
+   "en": "Greenskins sack Boigenfastis, the settlement that will later become Bögenhafen.",
+   "de": "Grünhäute plündern Boigenfastis, die Siedlung, aus der später Bögenhafen wird."
+  },
+  "ere": "age-des-tribus",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "bogenhafen"
+  ],
+  "factions": [
+   "peaux-vertes",
+   "humains-autres"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Enemy in Shadows, The Enemy Within Campaign Volume 1, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Enemy in Shadows, The Enemy Within Campaign Volume 1, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Enemy in Shadows, The Enemy Within Campaign Volume 1, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 116-117",
+     "en": "p. 116-117",
+     "de": "S. 116-117"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Bögenhafen",
+     "en": "Warhammer Fantasy Wiki (fandom), Bögenhafen page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Bögenhafen"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/B%C3%B6genhafen"
+   }
+  ]
+ },
+ {
+  "id": "neferata-lance-une-waaagh-sur-w-soran",
+  "annee": -285,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Neferata lance une Waaagh! contre le domaine de W'soran",
+   "en": "Neferata sets a Waaagh! upon W'soran's domain",
+   "de": "Neferata hetzt ein Waaagh! auf W'sorans Reich"
+  },
+  "resume": {
+   "fr": "À la bataille des Eaux Noires, le domaine de W'soran est anéanti par une Waaagh! peau-verte que Neferata a poussée à marcher contre lui. Le nécromancien abandonne son royaume à son sort.",
+   "en": "At the Battle of Black Water, W'soran's domain is wiped out by a greenskin Waaagh! that Neferata has goaded against him. The necromancer leaves his realm to its fate.",
+   "de": "In der Schlacht am Schwarzen Wasser wird W'sorans Reich von einem Waaagh! der Grünhäute vernichtet, das Neferata gegen ihn aufgestachelt hat. Der Nekromant überlässt sein Land dem Untergang."
+  },
+  "ere": "age-des-tribus",
+  "regions": [
+   "montagnes"
+  ],
+  "lieux": [
+   "lac-noir"
+  ],
+  "factions": [
+   "vampires",
+   "peaux-vertes"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Master of Death, Time of Legends, roman de Josh Reynolds",
+     "en": "Master of Death, Time of Legends, roman de Josh Reynolds",
+     "de": "Master of Death, Time of Legends, roman de Josh Reynolds"
+    },
+    "detail": {
+     "fr": "chap. 10",
+     "en": "ch. 10",
+     "de": "Kap. 10"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page W'soran",
+     "en": "Warhammer Fantasy Wiki (fandom), W'soran page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite W'soran"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/W%27soran"
+   }
+  ]
+ },
+ {
+  "id": "chute-de-karak-khazarak",
+  "annee": -200,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Chute de Karak Khazarak",
+   "en": "Fall of Karak Khazarak",
+   "de": "Fall von Karak Khazarak"
+  },
+  "resume": {
+   "fr": "Orques et gobelins franchissent les Montagnes Centrales et prennent Karak Khazarak, seule forteresse naine connue de la région. Les survivants se joignent aux Teutogens, participent à l'essor de Middenheim et laissent une malédiction sur la montagne.",
+   "en": "Orcs and Goblins sweep over the Middle Mountains and take Karak Khazarak, the only known Dwarf hold in the range. The survivors join the Teutogens, help raise Middenheim and leave a curse on the mountain.",
+   "de": "Orks und Goblins überrennen das Mittelgebirge und nehmen Karak Khazarak, die einzige bekannte Zwergenfeste der Gegend. Die Überlebenden schließen sich den Teutogen an, helfen beim Aufbau Middenheims und belegen den Berg mit einem Fluch."
+  },
+  "ere": "age-des-tribus",
+  "regions": [
+   "empire",
+   "montagnes"
+  ],
+  "lieux": [
+   "middenheim"
+  ],
+  "factions": [
+   "nains",
+   "peaux-vertes",
+   "humains-autres"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Middenheim: City of the White Wolf, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Middenheim: City of the White Wolf, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Middenheim: City of the White Wolf, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 12",
+     "en": "p. 12",
+     "de": "S. 12"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Karak Khazarak",
+     "en": "Warhammer Fantasy Wiki (fandom), Karak Khazarak page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Karak Khazarak"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Karak_Khazarak"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Middenheim",
+     "en": "Warhammer Fantasy Wiki (fandom), Middenheim page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Middenheim"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Middenheim"
+   }
+  ]
+ },
+ {
+  "id": "victoire-de-justintine",
+  "annee": 475,
+  "fin": 978,
+  "approx": true,
+  "titre": {
+   "fr": "La Victoire de Justintine et le coffre de Varenna",
+   "en": "The Victory of Justintine and the Paychest of Varenna",
+   "de": "Der Sieg des Justintine und die Soldtruhe von Varenna"
+  },
+  "resume": {
+   "fr": "Selon la légende tiléenne, le général mercenaire Justintine évacue Varenna avec son trésor, poursuivi par toutes les bandes orques ralliées au chef Ugwarg. Acculé à la mer, il promet le coffre à qui viendra se battre et écrase la horde. Les mercenaires tiendraient de là l'habitude d'emporter leur coffre de solde au combat.",
+   "en": "According to Tilean legend, the mercenary general Justintine evacuates Varenna with its treasure, pursued by every Orc band rallied under the warlord Ugwarg. Cornered against the sea, he promises the chest to all who will fight and crushes the horde. Mercenaries are said to owe their custom of taking a paychest into battle to this victory.",
+   "de": "Der tileanischen Legende nach räumt der Söldnergeneral Justintine Varenna samt Schatz, verfolgt von allen Orkbanden unter dem Kriegsherrn Ugwarg. Mit dem Rücken zum Meer verspricht er die Truhe jedem, der für ihn kämpft, und zerschlägt die Horde. Daher soll der Brauch der Söldner stammen, ihre Soldtruhe mit in die Schlacht zu nehmen."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "tilee-estalie"
+  ],
+  "lieux": [],
+  "factions": [
+   "humains-autres",
+   "peaux-vertes"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Date déduite d'un intervalle : le récit est placé dans l'âge sombre tiléen, la destruction de Varenna entre 475 et 978. Le lieu de la bataille reste inconnu.",
+   "en": "Date inferred from an interval: the tale is set in the Tilean Dark Age, with Varenna destroyed between 475 and 978. The site of the battle is unknown.",
+   "de": "Datum aus einem Zeitraum erschlossen: Die Erzählung spielt im tileanischen dunklen Zeitalter, Varenna fiel zwischen 475 und 978. Der Ort der Schlacht ist unbekannt."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Dogs of War, 5e édition",
+     "en": "Warhammer Armies: Dogs of War, 5th edition",
+     "de": "Warhammer Armies: Dogs of War, 5. Edition"
+    },
+    "detail": {
+     "fr": "p. 20",
+     "en": "p. 20",
+     "de": "S. 20"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Ugwarg",
+     "en": "Warhammer Fantasy Wiki (fandom), Ugwarg page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Ugwarg"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Ugwarg"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Varenna",
+     "en": "Warhammer Fantasy Wiki (fandom), Varenna page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Varenna"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Varenna"
+   }
+  ]
+ },
+ {
+  "id": "bataille-de-penzfeld",
+  "annee": 1700,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Bataille de Penzfeld",
+   "en": "Battle of Penzfeld",
+   "de": "Schlacht von Penzfeld"
+  },
+  "resume": {
+   "fr": "Rorek Orcsmasher, de Karak Norn, y assomme le chef orque Gnask des Red-fanged Orcs. L'exploit figure sur un bas-relief du Hall des Hauts Faits de la forteresse.",
+   "en": "Rorek Orcsmasher of Karak Norn bludgeons the Orc boss Gnask of the Red-fanged Orcs here. The deed is shown on a bas-relief in the hold's Hall of Deeds.",
+   "de": "Rorek Orcsmasher aus Karak Norn erschlägt hier den Orkboss Gnask von den Red-fanged Orcs. Die Tat ist auf einem Relief in der Halle der Taten der Feste dargestellt."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "montagnes"
+  ],
+  "lieux": [
+   "karak-norn"
+  ],
+  "factions": [
+   "nains",
+   "peaux-vertes"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Lords of Stone and Steel, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Lords of Stone and Steel, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Lords of Stone and Steel, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 44",
+     "en": "p. 44",
+     "de": "S. 44"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Karak Norn Deep of Renown",
+     "en": "Warhammer Fantasy Wiki (fandom), Karak Norn Deep of Renown page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Karak Norn Deep of Renown"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Karak_Norn_Deep_of_Renown"
+   }
+  ]
+ },
+ {
+  "id": "secours-de-meissen",
+  "annee": 1700,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Le secours de Meissen",
+   "en": "The Relief of Meissen",
+   "de": "Der Entsatz von Meissen"
+  },
+  "resume": {
+   "fr": "Lors de cette campagne, le nain Kazrik the Impaler embroche à la pique le chef de guerre Borbladd Ripsplitter. Karak Norn en conserve le souvenir dans ses bas-reliefs.",
+   "en": "During this campaign the Dwarf Kazrik the Impaler skewers the warboss Borbladd Ripsplitter on a pike. Karak Norn preserves the memory in its bas-reliefs.",
+   "de": "Bei diesem Feldzug spießt der Zwerg Kazrik the Impaler den Waaaghboss Borbladd Ripsplitter mit einer Pike auf. Karak Norn bewahrt die Erinnerung daran in seinen Reliefs."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "montagnes"
+  ],
+  "lieux": [
+   "karak-norn"
+  ],
+  "factions": [
+   "nains",
+   "peaux-vertes"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Lords of Stone and Steel, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Lords of Stone and Steel, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Lords of Stone and Steel, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 44",
+     "en": "p. 44",
+     "de": "S. 44"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Karak Norn Deep of Renown",
+     "en": "Warhammer Fantasy Wiki (fandom), Karak Norn Deep of Renown page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Karak Norn Deep of Renown"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Karak_Norn_Deep_of_Renown"
+   }
+  ]
+ },
+ {
+  "id": "karak-azgaraz-defend-ubersreik-1707",
+  "annee": 1707,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Karak Azgaraz échoue à sauver Ubersreik",
+   "en": "Karak Azgaraz fails to save Ubersreik",
+   "de": "Karak Azgaraz kann Ubersreik nicht retten"
+  },
+  "resume": {
+   "fr": "Les Nains de Karak Azgaraz viennent défendre Ubersreik contre la tribu Ironclaw. Trop peu nombreux, ils doivent se replier et les orques rasent la ville.",
+   "en": "The Dwarfs of Karak Azgaraz march to defend Ubersreik against the Ironclaw tribe. Heavily outnumbered, they are forced back and the Orcs raze the town.",
+   "de": "Die Zwerge von Karak Azgaraz eilen Ubersreik gegen den Ironclaw-Stamm zu Hilfe. Der Übermacht weichen sie, und die Orks machen die Stadt dem Erdboden gleich."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "empire",
+   "montagnes"
+  ],
+  "lieux": [
+   "ubersreik"
+  ],
+  "factions": [
+   "nains",
+   "peaux-vertes",
+   "empire"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Book of Grudges, Warhammer Fantasy Roleplay 3e édition",
+     "en": "Book of Grudges, Warhammer Fantasy Roleplay 3rd edition",
+     "de": "Book of Grudges, Warhammer Fantasy Roleplay 3. Edition"
+    },
+    "detail": {
+     "fr": "p. 17",
+     "en": "p. 17",
+     "de": "S. 17"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Karak Azgaraz",
+     "en": "Warhammer Fantasy Wiki (fandom), Karak Azgaraz page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Karak Azgaraz"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Karak_Azgaraz"
+   }
+  ]
+ },
+ {
+  "id": "orques-sauvages-idole-de-gork-2150",
+  "annee": 2150,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "L'idole verte de Gork scelle une faille dans les Terres du Sud",
+   "en": "A green idol of Gork seals a rift in the Southlands",
+   "de": "Ein grünes Götzenbild des Gork versiegelt einen Riss in den Südlanden"
+  },
+  "resume": {
+   "fr": "Dans des ruines de la jungle, des Orques sauvages ouvrent sans le vouloir une brèche vers le Royaume du Chaos. Démons et Hommes-lézards s'y affrontent, puis les orques massacrent les deux camps. Une immense idole de Gork, dressée sur le site avec ce qui leur tombe sous la main, referme la faille.",
+   "en": "In jungle ruins, Savage Orcs unwittingly open a breach into the Realm of Chaos. Daemons and Lizardmen clash there before the Orcs slaughter both sides. A vast idol of Gork, raised on the spot from whatever lies to hand, closes the rift.",
+   "de": "In Dschungelruinen öffnen Wildorks ungewollt ein Tor ins Reich des Chaos. Dämonen und Echsenmenschen prallen dort aufeinander, dann metzeln die Orks beide Seiten nieder. Ein riesiges Götzenbild des Gork, aus allem Greifbaren errichtet, schließt den Riss."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "sud"
+  ],
+  "lieux": [],
+  "factions": [
+   "peaux-vertes",
+   "chaos",
+   "hommes-lezards"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer: Storm of Magic, 8e édition",
+     "en": "Warhammer: Storm of Magic, 8e édition",
+     "de": "Warhammer: Storm of Magic, 8e édition"
+    },
+    "detail": {
+     "fr": "p. 21",
+     "en": "p. 21",
+     "de": "S. 21"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Times of Great Magic",
+     "en": "Warhammer Fantasy Wiki (fandom), Times of Great Magic page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Times of Great Magic"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Times_of_Great_Magic"
+   }
+  ]
+ },
+ {
+  "id": "kiknik-a-malko-2276",
+  "annee": 2276,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Kiknik Toofsnatcha dévaste Malko",
+   "en": "Kiknik Toofsnatcha ravages Malko",
+   "de": "Kiknik Toofsnatcha verwüstet Malko"
+  },
+  "resume": {
+   "fr": "La Waaagh! du gobelin Kiknik se ravitaille dans les riches campagnes de Malko, grenier des Royaumes frontaliers, et brûle les entrepôts l'un après l'autre. Le maire lance sa milice à sa poursuite, mais elle est encerclée dans la fumée et massacrée. Kiknik repart vers le nord-ouest quand des compagnies de mercenaires arrivent en renfort.",
+   "en": "The Waaagh! of the Goblin Kiknik resupplies in the rich farmland of Malko, the granary of the Border Princes, burning storehouse after storehouse. The mayor sends his militia after it, only to see them surrounded in the smoke and slaughtered. Kiknik rides off north-west when mercenary companies arrive.",
+   "de": "Das Waaagh! des Goblins Kiknik versorgt sich im reichen Umland von Malko, der Kornkammer der Grenzfürstentümer, und brennt einen Speicher nach dem anderen nieder. Der Bürgermeister schickt seine Miliz hinterher, doch sie wird im Rauch eingekreist und niedergemacht. Als Söldnerkompanien eintreffen, zieht Kiknik nach Nordwesten ab."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "royaumes-frontaliers"
+  ],
+  "lieux": [],
+  "factions": [
+   "peaux-vertes",
+   "humains-autres"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer: The Old World, Arcane Journal: Orc and Goblin Tribes",
+     "en": "Warhammer: The Old World, Arcane Journal: Orc and Goblin Tribes",
+     "de": "Warhammer: The Old World, Arcane Journal: Orc and Goblin Tribes"
+    },
+    "detail": {
+     "fr": "p. 12-15",
+     "en": "p. 12-15",
+     "de": "S. 12-15"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Malko",
+     "en": "Warhammer Fantasy Wiki (fandom), Malko page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Malko"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Malko"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Kiknik Toofsnatcha",
+     "en": "Warhammer Fantasy Wiki (fandom), Kiknik Toofsnatcha page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Kiknik Toofsnatcha"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Kiknik_Toofsnatcha"
+   },
+   {
+    "titre": {
+     "fr": "Warhammer: The Old World, Arcane Journal - Orc and Goblin Tribes",
+     "en": "Warhammer: The Old World, Arcane Journal - Orc and Goblin Tribes",
+     "de": "Warhammer: The Old World, Arcane Journal - Orc and Goblin Tribes"
+    },
+    "detail": {
+     "fr": "p. 12-15",
+     "en": "pp. 12-15",
+     "de": "S. 12-15"
+    },
+    "url": ""
+   }
+  ]
+ },
+ {
+  "id": "ogdruz-swampdigga-rejoint-spine-cracker",
+  "annee": 2276,
+  "fin": null,
+  "approx": true,
+  "titre": {
+   "fr": "Ogdruz Swampdigga et ses trolls rejoignent Spine-Cracker",
+   "en": "Ogdruz Swampdigga and his Trolls join Spine-Cracker",
+   "de": "Ogdruz Swampdigga und seine Trolle schließen sich Spine-Cracker an"
+  },
+  "resume": {
+   "fr": "Chassé par sa tribu, le chaman orque Ogdruz se déguise d'une peau de troll, se fait adopter par ces monstres et acquiert leur magie. Il rassemble une bande de trolls dans les Terres arides, ce qui attire l'attention du chef Spine-Cracker, alors en guerre contre la Bretonnie.",
+   "en": "Cast out by his tribe, the Orc shaman Ogdruz disguises himself in a Troll's hide, is adopted by the creatures and gains their magic. He gathers a host of Trolls across the Badlands, catching the eye of Warboss Spine-Cracker, then at war with Bretonnia.",
+   "de": "Von seinem Stamm verstoßen, verkleidet sich der Orkschamane Ogdruz mit einer Trollhaut, wird von den Ungeheuern aufgenommen und erlangt ihre Magie. Er sammelt in den Ödlanden eine Trollschar und fällt so dem Boss Spine-Cracker auf, der gerade gegen Bretonnia zieht."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "terres-arides"
+  ],
+  "lieux": [],
+  "factions": [
+   "peaux-vertes"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer: The Old World, Arcane Journal: Orc and Goblin Tribes",
+     "en": "Warhammer: The Old World, Arcane Journal: Orc and Goblin Tribes",
+     "de": "Warhammer: The Old World, Arcane Journal: Orc and Goblin Tribes"
+    },
+    "detail": {
+     "fr": "p. 36",
+     "en": "p. 36",
+     "de": "S. 36"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Ogdruz Swampdigga",
+     "en": "Warhammer Fantasy Wiki (fandom), Ogdruz Swampdigga page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Ogdruz Swampdigga"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Ogdruz_Swampdigga"
+   }
+  ]
+ },
+ {
+  "id": "waaagh-zzadrag-finsterbad",
+  "annee": 2303,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "La Waaagh! Zzadrag brisée à Finsterbad",
+   "en": "Waaagh! Zzadrag broken at Finsterbad",
+   "de": "Das Waaagh! Zzadrag scheitert bei Finsterbad"
+  },
+  "resume": {
+   "fr": "En pleine Grande Guerre contre le Chaos, une vaste invasion peau-verte, la Waaagh! Zzadrag, s'abat sur l'Empire. Contre toute attente, elle est vaincue à la bataille de Finsterbad.",
+   "en": "In the midst of the Great War Against Chaos, a vast greenskin invasion, Waaagh! Zzadrag, falls on the Empire. Against all expectation it is defeated at the Battle of Finsterbad.",
+   "de": "Mitten im Großen Krieg gegen das Chaos fällt eine gewaltige Invasion der Grünhäute, das Waaagh! Zzadrag, über das Imperium her. Wider Erwarten wird sie in der Schlacht von Finsterbad besiegt."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [],
+  "factions": [
+   "peaux-vertes",
+   "empire"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Enemy in Shadows, The Enemy Within Campaign Volume 1, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Enemy in Shadows, The Enemy Within Campaign Volume 1, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Enemy in Shadows, The Enemy Within Campaign Volume 1, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 116-117",
+     "en": "p. 116-117",
+     "de": "S. 116-117"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Bögenhafen",
+     "en": "Warhammer Fantasy Wiki (fandom), Bögenhafen page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Bögenhafen"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/B%C3%B6genhafen"
+   }
+  ]
+ },
+ {
+  "id": "croc-runique-du-solland-retrouve",
+  "annee": 2378,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Le Croc runique du Solland retrouvé",
+   "en": "The Runefang of Solland recovered",
+   "de": "Das Runenfang von Solland wird wiedergefunden"
+  },
+  "resume": {
+   "fr": "L'épée emportée par Gorbad Griffe-de-Fer avec la tête du comte électeur est retrouvée dans les Montagnes du Bord du Monde, puis rapportée à Altdorf.",
+   "en": "The sword carried off by Gorbad Ironclaw along with the Elector Count's head is found in the Worlds Edge Mountains and returned to Altdorf.",
+   "de": "Das Schwert, das Gorbad Eisenklaue samt dem Kopf des Kurfürsten geraubt hatte, wird im Weltrandgebirge gefunden und nach Altdorf zurückgebracht."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "montagnes",
+   "empire"
+  ],
+  "lieux": [
+   "altdorf"
+  ],
+  "factions": [
+   "empire",
+   "peaux-vertes"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "White Dwarf 289 (UK)",
+     "en": "White Dwarf 289 (UK)",
+     "de": "White Dwarf 289 (UK)"
+    },
+    "detail": {
+     "fr": "p. 11-13",
+     "en": "p. 11-13",
+     "de": "S. 11-13"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Runefang",
+     "en": "Warhammer Fantasy Wiki (fandom), Runefang page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Runefang"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Runefang"
+   }
+  ]
+ },
+ {
+  "id": "grom-et-la-bataille-de-la-panse",
+  "annee": 2400,
+  "fin": null,
+  "approx": true,
+  "titre": {
+   "fr": "Grom la Panse et la Bataille du Ventre",
+   "en": "Grom the Paunch and the Battle of the Belly",
+   "de": "Grom der Wanst und die Schlacht des Bauchs"
+  },
+  "resume": {
+   "fr": "Jeune chef de la tribu Broken Axe, le gobelin Grom avale de la viande de troll crue, qui repousse dans son estomac à mesure qu'il la digère. Il survit à des semaines de fièvre et en sort énorme, doté d'une part du pouvoir régénérant du monstre.",
+   "en": "As a young boss of the Broken Axe tribe, the Goblin Grom swallows raw Troll flesh that keeps growing back in his stomach as he digests it. He survives weeks of fever and emerges huge, with a share of the creature's power to regenerate.",
+   "de": "Als junger Boss des Broken-Axe-Stammes schlingt der Goblin Grom rohes Trollfleisch hinunter, das in seinem Magen nachwächst, während er es verdaut. Er übersteht wochenlanges Fieber und kommt riesig daraus hervor, mit einem Teil der Heilkraft des Ungeheuers."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "montagnes"
+  ],
+  "lieux": [],
+  "factions": [
+   "peaux-vertes"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Orcs & Goblins, 8e édition",
+     "en": "Warhammer Armies: Orcs & Goblins, 8th edition",
+     "de": "Warhammer Armies: Orcs & Goblins, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 67",
+     "en": "p. 67",
+     "de": "S. 67"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Grom the Paunch",
+     "en": "Warhammer Fantasy Wiki (fandom), Grom the Paunch page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Grom the Paunch"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Grom_the_Paunch"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Broken Axe Tribe",
+     "en": "Warhammer Fantasy Wiki (fandom), Broken Axe Tribe page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Broken Axe Tribe"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Broken_Axe_Tribe"
+   }
+  ]
+ },
+ {
+  "id": "destruction-de-la-waaagh-gutstompa",
+  "annee": 2401,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Destruction de la Waaagh! Gutstompa à Wurtbad",
+   "en": "Destruction of Waaagh! Gutstompa at Wurtbad",
+   "de": "Vernichtung des Waaagh! Gutstompa bei Wurtbad"
+  },
+  "resume": {
+   "fr": "La Waaagh! Gutstompa envahit le Stirland alors que l'empereur combat les Bretonniens à l'ouest. Dans les ruines de Wurtbad, son chaman Redfang manipule un grimoire calciné et ouvre une brèche vers le Chaos. La horde est taillée en pièces par l'armée démoniaque du prince Kz'ar'aka, qui tue Gutstompa.",
+   "en": "Waaagh! Gutstompa invades Stirland while the Emperor is fighting the Bretonnians in the west. In the ruins of Wurtbad, its shaman Redfang tampers with a charred tome and tears open a breach into Chaos. The horde is cut to pieces by the Daemon host of the prince Kz'ar'aka, who kills Gutstompa.",
+   "de": "Das Waaagh! Gutstompa fällt in Stirland ein, während der Kaiser im Westen gegen die Bretonen kämpft. In den Ruinen von Wurtbad hantiert sein Schamane Redfang an einem verkohlten Folianten und reißt ein Tor zum Chaos auf. Das Dämonenheer des Prinzen Kz'ar'aka zerschlägt die Horde und tötet Gutstompa."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "wurtbad"
+  ],
+  "factions": [
+   "peaux-vertes",
+   "chaos",
+   "empire"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Daemons of Chaos, 8e édition",
+     "en": "Warhammer Armies: Daemons of Chaos, 8th edition",
+     "de": "Warhammer Armies: Daemons of Chaos, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 22",
+     "en": "p. 22",
+     "de": "S. 22"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Destruction of Waaagh! Gutstompa",
+     "en": "Warhammer Fantasy Wiki (fandom), Destruction of Waaagh! Gutstompa page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Destruction of Waaagh! Gutstompa"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Destruction_of_Waaagh!_Gutstompa"
+   },
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Daemons of Chaos (8e édition)",
+     "en": "Warhammer Armies: Daemons of Chaos (8th edition)",
+     "de": "Warhammer Armies: Daemons of Chaos (8. Edition)"
+    },
+    "detail": {
+     "fr": "p. 22",
+     "en": "p. 22",
+     "de": "S. 22"
+    },
+    "url": ""
+   }
+  ]
+ },
+ {
+  "id": "grom-tue-zhok-gutstabba",
+  "annee": 2401,
+  "fin": null,
+  "approx": true,
+  "titre": {
+   "fr": "Grom tue Zhok Gutstabba",
+   "en": "Grom slays Zhok Gutstabba",
+   "de": "Grom tötet Zhok Gutstabba"
+  },
+  "resume": {
+   "fr": "Moins d'un an après avoir mangé du troll, Grom marche seul vers le camp de Zhok Gutstabba, le chef orque qui venait de soumettre les Gobelins de la Nuit du Mont Tonnerre. Ses plaies se referment sous les yeux de tous, il démembre Zhok, puis tue chaque grand boss de la tribu pour s'en assurer le contrôle.",
+   "en": "Less than a year after eating the Troll, Grom walks alone to the camp of Zhok Gutstabba, the Orc warboss who had just subdued the Night Goblins of Thunder Mountain. His wounds close before everyone's eyes, he dismembers Zhok, then kills every big boss of the tribe to secure his hold on it.",
+   "de": "Weniger als ein Jahr nach dem Trollmahl geht Grom allein in das Lager von Zhok Gutstabba, dem Orkboss, der eben die Nachtgoblins des Donnerbergs unterworfen hat. Vor aller Augen schließen sich seine Wunden, er zerstückelt Zhok und tötet dann jeden Großboss des Stammes, um die Herrschaft zu sichern."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "montagnes"
+  ],
+  "lieux": [],
+  "factions": [
+   "peaux-vertes"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Date déduite : moins d'un an après l'épisode du troll, placé vers 2400.",
+   "en": "Inferred date: under a year after the Troll episode, set around 2400.",
+   "de": "Erschlossenes Datum: weniger als ein Jahr nach der Trollepisode, die um 2400 angesetzt wird."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Orcs & Goblins, 8e édition",
+     "en": "Warhammer Armies: Orcs & Goblins, 8th edition",
+     "de": "Warhammer Armies: Orcs & Goblins, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 67",
+     "en": "p. 67",
+     "de": "S. 67"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Orcs & Goblins, 4e édition",
+     "en": "Warhammer Armies: Orcs & Goblins, 4th edition",
+     "de": "Warhammer Armies: Orcs & Goblins, 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 10-12",
+     "en": "pp. 10-12",
+     "de": "S. 10-12"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Grom the Paunch",
+     "en": "Warhammer Fantasy Wiki (fandom), Grom the Paunch page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Grom the Paunch"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Grom_the_Paunch"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Broken Axe Tribe",
+     "en": "Warhammer Fantasy Wiki (fandom), Broken Axe Tribe page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Broken Axe Tribe"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Broken_Axe_Tribe"
+   }
+  ]
+ },
+ {
+  "id": "grom-saccage-bogenhafen",
+  "annee": 2420,
+  "fin": 2422,
+  "approx": false,
+  "titre": {
+   "fr": "Grom saccage Bögenhafen et le Vorbergland",
+   "en": "Grom sacks Bögenhafen and the Vorbergland",
+   "de": "Grom plündert Bögenhafen und das Vorbergland"
+  },
+  "resume": {
+   "fr": "Les hordes de Grom mettent Bögenhafen à sac, puis pillent le Vorbergland pendant plusieurs années.",
+   "en": "Grom's hordes sack Bögenhafen and go on to plunder the Vorbergland for several years.",
+   "de": "Groms Horden plündern Bögenhafen und verwüsten danach jahrelang das Vorbergland."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "bogenhafen"
+  ],
+  "factions": [
+   "peaux-vertes",
+   "empire"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Enemy in Shadows, The Enemy Within Campaign Volume 1, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Enemy in Shadows, The Enemy Within Campaign Volume 1, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Enemy in Shadows, The Enemy Within Campaign Volume 1, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 116-117",
+     "en": "p. 116-117",
+     "de": "S. 116-117"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Bögenhafen",
+     "en": "Warhammer Fantasy Wiki (fandom), Bögenhafen page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Bögenhafen"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/B%C3%B6genhafen"
+   }
+  ]
+ },
+ {
+  "id": "defenseurs-de-grundel",
+  "annee": 2421,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Création des Défenseurs de Grundel",
+   "en": "Grundel's Defenders are raised",
+   "de": "Grundels Verteidiger werden aufgestellt"
+  },
+  "resume": {
+   "fr": "Après le désastre subi face à Grom la Panse et le sac de Nuln, l'Empire veut mieux coordonner artillerie et infanterie. De nouveaux bataillons s'entraînent ensemble, dont ce régiment de lanciers.",
+   "en": "After the disaster against Grom the Paunch and the sack of Nuln, the Empire seeks closer coordination between artillery and infantry. New battalions train together, among them this regiment of spearmen.",
+   "de": "Nach dem Desaster gegen Grom den Wanst und der Plünderung von Nuln will das Imperium Artillerie und Infanterie besser abstimmen. Neue Bataillone üben gemeinsam, darunter dieses Speerträgerregiment."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "nuln"
+  ],
+  "factions": [
+   "empire",
+   "peaux-vertes"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Uniforms & Heraldry of the Empire",
+     "en": "Uniforms & Heraldry of the Empire",
+     "de": "Uniforms & Heraldry of the Empire"
+    },
+    "detail": {
+     "fr": "p. 33",
+     "en": "p. 33",
+     "de": "S. 33"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Grundel's Defenders",
+     "en": "Warhammer Fantasy Wiki (fandom), Grundel's Defenders page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Grundel's Defenders"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Grundel%27s_Defenders"
+   }
+  ]
+ },
+ {
+  "id": "bataille-d-auerswald",
+  "annee": 2422,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Bataille d'Auerswald",
+   "en": "Battle of Auerswald",
+   "de": "Schlacht von Auerswald"
+  },
+  "resume": {
+   "fr": "Furieux que Grom ait mangé ses meilleurs captifs nains, le grand boss Garnag Stumbar quitte la Waaagh! et marche sur Auerswald, dans le Reikland. La baronne Marta von Wallenstein charge sa garde d'orques noirs et meurt avec les siens. Ce sacrifice laisse aux canons de Karak Azgaraz le temps d'anéantir l'état-major orque.",
+   "en": "Enraged that Grom has eaten his tastiest Dwarf captives, Big Boss Garnag Stumbar leaves the Waaagh! and marches on Auerswald in the Reikland. Baroness Marta von Wallenstein charges his Black Orc bodyguard and dies with her men. The sacrifice gives the cannons of Karak Azgaraz time to destroy the Orc command.",
+   "de": "Weil Grom seine schmackhaftesten Zwergengefangenen verspeist hat, verlässt Großboss Garnag Stumbar wütend das Waaagh! und zieht gegen Auerswald im Reikland. Baronin Marta von Wallenstein greift seine Schwarzork-Leibwache an und fällt mit ihren Leuten. Das Opfer verschafft den Kanonen von Karak Azgaraz die Zeit, die Orkführung auszulöschen."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [],
+  "factions": [
+   "empire",
+   "nains",
+   "peaux-vertes"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Monuments of the Reikland, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Monuments of the Reikland, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Monuments of the Reikland, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 5-7",
+     "en": "p. 5-7",
+     "de": "S. 5-7"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Memorial of the Battle of Auerswald",
+     "en": "Warhammer Fantasy Wiki (fandom), Memorial of the Battle of Auerswald page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Memorial of the Battle of Auerswald"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Memorial_of_the_Battle_of_Auerswald"
+   }
+  ]
+ },
+ {
+  "id": "grom-ravage-glimdwarrow",
+  "annee": 2423,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "La Waaagh! de Grom ravage Glimdwarrow",
+   "en": "Grom's Waaagh! ravages Glimdwarrow",
+   "de": "Groms Waaagh! verwüstet Glimdwarrow"
+  },
+  "resume": {
+   "fr": "Le raid peau-vert décime la principale communauté de gnomes de l'Empire, au sud du Middenland. Il ne reste que huit clans, qui s'en rejettent la faute.",
+   "en": "The greenskin raid decimates the largest Gnome community in the Empire, south of Middenland. Only eight clans remain, each blaming the others.",
+   "de": "Der Überfall der Grünhäute dezimiert die größte Gnomengemeinde des Imperiums südlich von Middenland. Nur acht Clans bleiben übrig, und jeder gibt den anderen die Schuld."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [],
+  "factions": [
+   "peaux-vertes",
+   "humains-autres"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Rough Nights and Hard Days, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Rough Nights and Hard Days, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Rough Nights and Hard Days, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": "",
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Middenheim: City of the White Wolf, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Middenheim: City of the White Wolf, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Middenheim: City of the White Wolf, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": "",
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Glimdwarrow",
+     "en": "Warhammer Fantasy Wiki (fandom), Glimdwarrow page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Glimdwarrow"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Glimdwarrow"
+   }
+  ]
+ },
+ {
+  "id": "grom-devant-marienburg-2424",
+  "annee": 2424,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Grom devant Marienburg",
+   "en": "Grom before Marienburg",
+   "de": "Grom vor Marienburg"
+  },
+  "resume": {
+   "fr": "Après Nuln et Middenheim, Grom conduit ses troupes dans les marais autour de Marienburg, qui se prépare à un siège. Mais les gobelins se contentent d'assembler une flottille de carcasses flottantes et prennent la mer vers l'ouest.",
+   "en": "After Nuln and Middenheim, Grom leads his forces into the fens around Marienburg, which braces for a siege. The Goblins, however, merely put together a flotilla of ramshackle hulks and sail west.",
+   "de": "Nach Nuln und Middenheim führt Grom seine Truppen in die Sümpfe um Marienburg, das sich auf eine Belagerung einstellt. Doch die Goblins bauen nur eine Flottille klappriger Hulks und segeln nach Westen."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "marienburg"
+  ],
+  "factions": [
+   "peaux-vertes",
+   "empire"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "La page The Wasteland, d'après Marienburg: Sold Down the River (1re édition), date de 2429 la perte de la moitié de la flotte de Marienburg face à l'armada de Grom. Cette date n'est pas retenue, Grom étant vaincu en Ulthuan dès 2424.",
+   "en": "The Wasteland page, after Marienburg: Sold Down the River (1st edition), dates the loss of half of Marienburg's fleet to Grom's armada to 2429. That date is not used here, since Grom is defeated in Ulthuan by 2424.",
+   "de": "Die Seite The Wasteland nennt nach Marienburg: Sold Down the River (1. Edition) 2429 für den Verlust der halben Flotte Marienburgs an Groms Armada. Dieses Datum wird nicht übernommen, da Grom bereits 2424 in Ulthuan besiegt wird."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Sea of Claws, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Sea of Claws, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Sea of Claws, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 6-7",
+     "en": "p. 6-7",
+     "de": "S. 6-7"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Sea of Claws",
+     "en": "Warhammer Fantasy Wiki (fandom), Sea of Claws page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Sea of Claws"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Sea_of_Claws"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Marienburg",
+     "en": "Warhammer Fantasy Wiki (fandom), Marienburg page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Marienburg"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Marienburg"
+   }
+  ]
+ },
+ {
+  "id": "bataille-de-high-mere",
+  "annee": 2452,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Bataille de High Mere",
+   "en": "Battle of High Mere",
+   "de": "Schlacht von High Mere"
+  },
+  "resume": {
+   "fr": "Le roi Zaladrin Strife-axe de Karak Azgaraz met en déroute les gobelins Bleeding Moon. Les tours de guet d'Arkund et de Karkagrung, très endommagées, ne sont jamais relevées.",
+   "en": "King Zaladrin Strife-axe of Karak Azgaraz routs the Bleeding Moon Goblins. The badly damaged watchtowers of Arkund and Karkagrung are never rebuilt.",
+   "de": "König Zaladrin Strife-axe von Karak Azgaraz schlägt die Bleeding-Moon-Goblins in die Flucht. Die schwer beschädigten Wachtürme von Arkund und Karkagrung werden nie wieder aufgebaut."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "montagnes"
+  ],
+  "lieux": [],
+  "factions": [
+   "nains",
+   "peaux-vertes"
+  ],
+  "importance": 1,
+  "fiabilite": "etabli",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Book of Grudges, Warhammer Fantasy Roleplay 3e édition",
+     "en": "Book of Grudges, Warhammer Fantasy Roleplay 3rd edition",
+     "de": "Book of Grudges, Warhammer Fantasy Roleplay 3. Edition"
+    },
+    "detail": {
+     "fr": "p. 17",
+     "en": "p. 17",
+     "de": "S. 17"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Archives of the Empire Vol. I, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Archives of the Empire Vol. I, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Archives of the Empire Vol. I, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 61, 69",
+     "en": "p. 61, 69",
+     "de": "S. 61, 69"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page High Mere",
+     "en": "Warhammer Fantasy Wiki (fandom), High Mere page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite High Mere"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/High_Mere"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Karak Azgaraz",
+     "en": "Warhammer Fantasy Wiki (fandom), Karak Azgaraz page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Karak Azgaraz"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Karak_Azgaraz"
+   }
+  ]
+ },
+ {
+  "id": "zaladrin-et-gunrig-assassines",
+  "annee": 2452,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Zaladrin et Gunrig assassinés par un gobelin",
+   "en": "Zaladrin and Gunrig murdered by a Goblin",
+   "de": "Zaladrin und Gunrig von einem Goblin ermordet"
+  },
+  "resume": {
+   "fr": "Peu après sa victoire, le roi de Karak Azgaraz et son héritier sont tués par un assassin gobelin. Thuringar Orc-hewer, prince cadet qui ne s'attendait pas à régner, monte sur le trône.",
+   "en": "Shortly after his victory, the king of Karak Azgaraz and his heir are killed by a Goblin assassin. Thuringar Orc-hewer, a younger prince who never expected to rule, takes the throne.",
+   "de": "Kurz nach seinem Sieg werden der König von Karak Azgaraz und sein Erbe von einem Goblin-Attentäter getötet. Thuringar Orc-hewer, ein jüngerer Prinz, der nie mit der Krone gerechnet hat, besteigt den Thron."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "montagnes"
+  ],
+  "lieux": [],
+  "factions": [
+   "nains",
+   "peaux-vertes"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Book of Grudges, Warhammer Fantasy Roleplay 3e édition",
+     "en": "Book of Grudges, Warhammer Fantasy Roleplay 3rd edition",
+     "de": "Book of Grudges, Warhammer Fantasy Roleplay 3. Edition"
+    },
+    "detail": {
+     "fr": "p. 16-17",
+     "en": "p. 16-17",
+     "de": "S. 16-17"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Thuringar Orc-hewer",
+     "en": "Warhammer Fantasy Wiki (fandom), Thuringar Orc-hewer page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Thuringar Orc-hewer"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Thuringar_Orc-hewer"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Karak Azgaraz",
+     "en": "Warhammer Fantasy Wiki (fandom), Karak Azgaraz page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Karak Azgaraz"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Karak_Azgaraz"
+   }
+  ]
+ },
+ {
+  "id": "badruk-eadsplitta-transporte",
+  "annee": 2456,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Badruk 'Eadsplitta projeté dans les Montagnes Grises",
+   "en": "Badruk 'Eadsplitta flung into the Grey Mountains",
+   "de": "Badruk 'Eadsplitta in die Grauen Berge geschleudert"
+  },
+  "resume": {
+   "fr": "Sur le point d'achever un vieil homme lors d'un massacre au pied des Montagnes du Bord du Monde, l'orque noir reçoit une poudre magique et se retrouve à des centaines de lieues. Il prend la tête d'une bande de peaux-vertes et devient le fléau des Nains de Karak Norn.",
+   "en": "About to finish off an old man during a massacre in the foothills of the Worlds Edge Mountains, the Black Orc is struck by a magic powder and finds himself hundreds of leagues away. He takes over a band of greenskins and becomes the scourge of the Dwarfs of Karak Norn.",
+   "de": "Als der Schwarzork bei einem Gemetzel am Fuß des Weltrandgebirges einen alten Mann erschlagen will, trifft ihn ein Zauberpulver, und er findet sich Hunderte Meilen entfernt wieder. Er übernimmt eine Bande Grünhäute und wird zur Geißel der Zwerge von Karak Norn."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "montagnes"
+  ],
+  "lieux": [
+   "karak-norn"
+  ],
+  "factions": [
+   "peaux-vertes",
+   "nains"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer: UK Games Day 2000, Badruk 'Eadsplitta",
+     "en": "Warhammer: UK Games Day 2000, Badruk 'Eadsplitta",
+     "de": "Warhammer: UK Games Day 2000, Badruk 'Eadsplitta"
+    },
+    "detail": "",
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Badruk 'Eadsplitta",
+     "en": "Warhammer Fantasy Wiki (fandom), Badruk 'Eadsplitta page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Badruk 'Eadsplitta"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Badruk_%27Eadsplitta"
+   }
+  ]
+ },
+ {
+  "id": "orques-prennent-chateau-kreiglitz",
+  "annee": 2470,
+  "fin": null,
+  "approx": true,
+  "titre": {
+   "fr": "Les orques prennent le château Kreiglitz",
+   "en": "Orcs take Castle Kreiglitz",
+   "de": "Orks nehmen Burg Kreiglitz ein"
+  },
+  "resume": {
+   "fr": "Une invasion orque emporte ce manoir fortifié de l'Averland, au pied des Montagnes Noires. La horde est arrêtée plus loin, mais le château n'est pas repris et devient un nid de peaux-vertes.",
+   "en": "An Orc invasion overruns this fortified manor in Averland, in the foothills of the Black Mountains. The horde is halted further on, but the castle is not recovered and becomes a greenskin nest.",
+   "de": "Eine Orkinvasion überrennt dieses befestigte Herrenhaus in Averland am Fuß der Schwarzen Berge. Die Horde wird aufgehalten, doch die Burg bleibt verloren und wird zum Nest der Grünhäute."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "empire",
+   "montagnes"
+  ],
+  "lieux": [],
+  "factions": [
+   "peaux-vertes",
+   "empire"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Date déduite : perte située cinquante ans avant la campagne de 2520.",
+   "en": "Inferred date: the loss is set fifty years before the 2520 campaign.",
+   "de": "Erschlossenes Datum: Der Verlust liegt fünfzig Jahre vor dem Feldzug von 2520."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Omens of War: Advanced Combat and Warriors",
+     "en": "Omens of War: Advanced Combat and Warriors",
+     "de": "Omens of War: Advanced Combat and Warriors"
+    },
+    "detail": {
+     "fr": "p. 17",
+     "en": "p. 17",
+     "de": "S. 17"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Castle Kreiglitz",
+     "en": "Warhammer Fantasy Wiki (fandom), Castle Kreiglitz page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Castle Kreiglitz"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Castle_Kreiglitz"
+   }
+  ]
+ },
+ {
+  "id": "bataille-de-la-gueule-de-feu",
+  "annee": 2487,
+  "fin": null,
+  "approx": true,
+  "titre": {
+   "fr": "Bataille de la Gueule de Feu",
+   "en": "Battle of the Fire Mouth",
+   "de": "Schlacht am Feuerschlund"
+  },
+  "resume": {
+   "fr": "Le chef orque noir Urk Ironskull lance une Waaagh! sur les Montagnes des Lamentations et occupe le volcan sacré des Ogres. Greasus Dent-d'Or, tout juste Surtyran, rassemble les tribus, enfonce la horde avec un coin de monstres et de cavaliers Mournfang, puis broie Urk à mains nues. Cette victoire affermit son titre, et le volcan se réveille.",
+   "en": "The Black Orc warlord Urk Ironskull leads a Waaagh! into the Mountains of Mourn and occupies the Ogres' sacred volcano. Greasus Goldtooth, newly Overtyrant, gathers the tribes, breaks the horde with a wedge of monsters and Mournfang Cavalry, and crushes Urk with his bare hands. The victory secures his title, and the volcano stirs back to life.",
+   "de": "Der Schwarzork-Kriegsherr Urk Ironskull führt ein Waaagh! in die Berge der Trauer und besetzt den heiligen Vulkan der Oger. Greasus Goldtooth, frisch Übertyrann, sammelt die Stämme, durchbricht die Horde mit einem Keil aus Ungeheuern und Mournfang-Reitern und zerquetscht Urk mit bloßen Händen. Der Sieg festigt seinen Titel, und der Vulkan erwacht wieder."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "orient"
+  ],
+  "lieux": [],
+  "factions": [
+   "ogres",
+   "peaux-vertes"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Date déduite : le récit place la bataille peu après la proclamation de Greasus comme Surtyran en 2487.",
+   "en": "Inferred date: the account sets the battle shortly after Greasus was proclaimed Overtyrant in 2487.",
+   "de": "Erschlossenes Datum: Der Bericht setzt die Schlacht kurz nach Greasus' Ausrufung zum Übertyrannen 2487 an."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Ogre Kingdoms, 8e édition",
+     "en": "Warhammer Armies: Ogre Kingdoms, 8th edition",
+     "de": "Warhammer Armies: Ogre Kingdoms, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 27-29",
+     "en": "p. 27-29",
+     "de": "S. 27-29"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Battle of the Fire Mouth",
+     "en": "Warhammer Fantasy Wiki (fandom), Battle of the Fire Mouth page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Battle of the Fire Mouth"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Battle_of_the_Fire_Mouth"
+   }
+  ]
+ },
+ {
+  "id": "bragg-forge-la-grande-etripeuse",
+  "annee": 2487,
+  "fin": null,
+  "approx": true,
+  "titre": {
+   "fr": "Bragg the Gutsman forge le Great Gutgouger",
+   "en": "Bragg the Gutsman forges the Great Gutgouger",
+   "de": "Bragg the Gutsman schmiedet den Great Gutgouger"
+  },
+  "resume": {
+   "fr": "Son cimeterre brisé à la Gueule de Feu, le boucher ogre se fabrique une arme d'hast avec les lames d'un chef orque noir, reforgées dans le magma du volcan. Cette arme lui vaut sa renommée.",
+   "en": "His scimitar broken at the Fire Mouth, the Ogre executioner makes a polearm from the blades of a slain Black Orc warboss, reforged in the volcano's magma. The weapon earns him his fame.",
+   "de": "Nachdem sein Krummsäbel am Feuerschlund zerbrochen ist, fertigt der Oger-Henker aus den Klingen eines erschlagenen Schwarzork-Bosses eine Stangenwaffe, geschmiedet im Magma des Vulkans. Sie begründet seinen Ruf."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "orient"
+  ],
+  "lieux": [],
+  "factions": [
+   "ogres"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Date déduite de celle de la bataille de la Gueule de Feu.",
+   "en": "Date inferred from that of the Battle of the Fire Mouth.",
+   "de": "Datum aus dem der Schlacht am Feuerschlund erschlossen."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Ogre Kingdoms, 8e édition",
+     "en": "Warhammer Armies: Ogre Kingdoms, 8th edition",
+     "de": "Warhammer Armies: Ogre Kingdoms, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 58",
+     "en": "p. 58",
+     "de": "S. 58"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Bragg the Gutsman",
+     "en": "Warhammer Fantasy Wiki (fandom), Bragg the Gutsman page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Bragg the Gutsman"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Bragg_the_Gutsman"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Battle of the Fire Mouth",
+     "en": "Warhammer Fantasy Wiki (fandom), Battle of the Fire Mouth page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Battle of the Fire Mouth"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Battle_of_the_Fire_Mouth"
+   }
+  ]
+ },
+ {
+  "id": "massacre-de-la-lande-gelee",
+  "annee": 2497,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Massacre de la Lande Gelée",
+   "en": "Slaughter at Frozen Heath",
+   "de": "Gemetzel auf der Gefrorenen Heide"
+  },
+  "resume": {
+   "fr": "Chargé d'arrêter la Waaagh! Grognok, le Grand Maître Ludo Brecht, de l'Ordre du Marteau, campe sur les rives gelées de la Sol. Gitilla et ses chevaucheurs de loups, enduits de graisse de troll, le provoquent puis repassent le gué. Lancées à leur suite dans l'eau glacée, ses troupes engourdies tombent sur une horde d'orques reposés.",
+   "en": "Tasked with halting Waaagh! Grognok, Grand Master Ludo Brecht of the Order of the Hammer camps on the frozen banks of the River Sol. Gitilla and his Wolf Riders, smeared in Troll fat, goad him and recross the ford. Sent after them through the icy water, his numbed troops run into a horde of rested Orcs.",
+   "de": "Mit dem Aufhalten des Waaagh! Grognok beauftragt, lagert Großmeister Ludo Brecht vom Orden des Hammers am gefrorenen Ufer des Sol. Gitilla und seine mit Trollfett beschmierten Wolfsreiter reizen ihn und kehren über die Furt zurück. Seine durchfrorenen Truppen folgen durch das eisige Wasser und stoßen auf eine Horde ausgeruhter Orks."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [],
+  "factions": [
+   "empire",
+   "peaux-vertes"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Orcs & Goblins, 8e édition",
+     "en": "Warhammer Armies: Orcs & Goblins, 8th edition",
+     "de": "Warhammer Armies: Orcs & Goblins, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 70",
+     "en": "p. 70",
+     "de": "S. 70"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Slaughter at Frozen Heath",
+     "en": "Warhammer Fantasy Wiki (fandom), Slaughter at Frozen Heath page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Slaughter at Frozen Heath"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Slaughter_at_Frozen_Heath"
+   }
+  ]
+ },
+ {
+  "id": "egrimm-cree-les-trolls-qui-vomissent-la-magie",
+  "annee": 2498,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "L'expérience d'Egrimm van Horstmann sur les Trolls",
+   "en": "Egrimm van Horstmann's experiment on Trolls",
+   "de": "Egrimm van Horstmanns Experiment mit Trollen"
+  },
+  "resume": {
+   "fr": "Egrimm tente d'unir les pouvoirs de sa cabale à la résistance des Trolls. Il obtient une nouvelle race qui vomit de la magie pure et dévore ses disciples, et il doit fuir sa Citadelle des Sorciers.",
+   "en": "Egrimm tries to fuse his cabal's powers with the resilience of Trolls. The result is a new breed that vomits pure magic and devours his followers, forcing him to flee his Citadel of Sorcerers.",
+   "de": "Egrimm versucht, die Kräfte seines Zirkels mit der Zähigkeit von Trollen zu verschmelzen. Heraus kommt eine neue Art, die reine Magie erbricht und seine Schüler frisst, sodass er aus seiner Zitadelle der Zauberer fliehen muss."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "desolations"
+  ],
+  "lieux": [],
+  "factions": [
+   "chaos"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Warriors of Chaos, 8e édition",
+     "en": "Warhammer Armies: Warriors of Chaos, 8th edition",
+     "de": "Warhammer Armies: Warriors of Chaos, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 15",
+     "en": "p. 15",
+     "de": "S. 15"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Egrimm van Horstmann",
+     "en": "Warhammer Fantasy Wiki (fandom), Egrimm van Horstmann page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Egrimm van Horstmann"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Egrimm_van_Horstmann"
+   }
+  ]
+ },
+ {
+  "id": "spiderclaw-dans-les-bois-bloodpine",
+  "annee": 2500,
+  "fin": 2517,
+  "approx": true,
+  "titre": {
+   "fr": "La tribu Spiderclaw tient les bois de Bloodpine",
+   "en": "The Spiderclaw tribe holds the Bloodpine Woods",
+   "de": "Der Spiderclaw-Stamm beherrscht die Bloodpine-Wälder"
+  },
+  "resume": {
+   "fr": "Au début du XXVIe siècle, les Gobelins des forêts de Raknik domptent des araignées géantes au sud d'Altdorf, et les bûcherons disparaissent. Le bois rouge si recherché devient rare et cher, si bien que des acheteurs paient des mercenaires pour déloger les gobelins.",
+   "en": "In the early 26th century, Raknik's Forest Goblins tame Giant Spiders south of Altdorf, and woodcutters begin to vanish. The prized red timber grows scarce and costly, and buyers end up paying mercenaries to clear the Goblins out.",
+   "de": "Zu Beginn des 26. Jahrhunderts zähmen Rakniks Waldgoblins südlich von Altdorf Riesenspinnen, und Holzfäller verschwinden. Das begehrte rote Holz wird knapp und teuer, sodass Käufer Söldner bezahlen, um die Goblins zu vertreiben."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "altdorf"
+  ],
+  "factions": [
+   "peaux-vertes",
+   "empire"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Date déduite de la mention « début du XXVIe siècle » et de la bataille de 2517.",
+   "en": "Date inferred from the mention of the early 26th century and from the battle of 2517.",
+   "de": "Datum aus der Angabe „frühes 26. Jahrhundert“ und der Schlacht von 2517 erschlossen."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Core Rulebook, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Core Rulebook, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Core Rulebook, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 269",
+     "en": "p. 269",
+     "de": "S. 269"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Bloodpine Woods",
+     "en": "Warhammer Fantasy Wiki (fandom), Bloodpine Woods page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Bloodpine Woods"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Bloodpine_Woods"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Raknik Spiderclaw",
+     "en": "Warhammer Fantasy Wiki (fandom), Raknik Spiderclaw page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Raknik Spiderclaw"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Raknik_Spiderclaw"
+   }
+  ]
+ },
+ {
+  "id": "bone-crusher-attaquent-louen-et-karl-franz",
+  "annee": 2502,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Les Bone Crusher attaquent Louen et Karl Franz",
+   "en": "The Bone Crushers attack Louen and Karl Franz",
+   "de": "Die Bone Crusher greifen Louen und Karl Franz an"
+  },
+  "resume": {
+   "fr": "Après le meurtre de gardes gobelins, cette tribu des Montagnes Grises accuse les Bretonniens campés près d'Helmgart et surprend la rencontre entre le roi Louen et Karl Franz, alors prince d'Altdorf. Chevaliers et arquebusiers impériaux repoussent l'assaut.",
+   "en": "After some Goblin guards are killed, this Grey Mountains tribe blames the Bretonnians camped near Helmgart and falls upon the meeting between King Louen and Karl Franz, then Prince of Altdorf. Knights and Imperial handgunners beat off the attack.",
+   "de": "Nachdem Goblinwachen getötet wurden, beschuldigt dieser Stamm aus den Grauen Bergen die bei Helmgart lagernden Bretonen und überfällt das Treffen zwischen König Louen und Karl Franz, damals Prinz von Altdorf. Ritter und imperiale Büchsenschützen schlagen den Angriff zurück."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "empire",
+   "montagnes"
+  ],
+  "lieux": [
+   "helmgart"
+  ],
+  "factions": [
+   "peaux-vertes",
+   "bretonnie",
+   "empire"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "The Prince of Altdorf, nouvelle d'Andy Hall",
+     "en": "The Prince of Altdorf, nouvelle d'Andy Hall",
+     "de": "The Prince of Altdorf, nouvelle d'Andy Hall"
+    },
+    "detail": "",
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Bone Crusher Tribe",
+     "en": "Warhammer Fantasy Wiki (fandom), Bone Crusher Tribe page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Bone Crusher Tribe"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Bone_Crusher_Tribe"
+   }
+  ]
+ },
+ {
+  "id": "campagne-contre-nhobgarg",
+  "annee": 2502,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "La campagne contre le chef gobelin Nhobgarg",
+   "en": "The campaign against the Goblin warlord Nhobgarg",
+   "de": "Der Feldzug gegen den Goblinkriegsherrn Nhobgarg"
+  },
+  "resume": {
+   "fr": "Au début de l'année, les électeurs du Stirland et de l'Averland s'engagent contre l'armée que Nhobgarg réunit dans les Montagnes du Bord du Monde. Pour unir leurs troupes, Marius Leitdorf demande aux Anciens halflings le droit de tracer des routes à travers le Moot.",
+   "en": "Early in the year, the Electors of Stirland and Averland commit themselves against the army Nhobgarg is gathering in the Worlds Edge Mountains. To join their forces, Marius Leitdorf asks the Halfling Elders for leave to build roads across the Moot.",
+   "de": "Zu Jahresbeginn verpflichten sich die Kurfürsten von Stirland und Averland zum Kampf gegen das Heer, das Nhobgarg im Weltrandgebirge sammelt. Um ihre Truppen zu vereinen, bittet Marius Leitdorf die Halblingsältesten, Straßen durch das Moot bauen zu dürfen."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "empire",
+   "montagnes"
+  ],
+  "lieux": [],
+  "factions": [
+   "empire",
+   "peaux-vertes"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "White Dwarf 314",
+     "en": "White Dwarf 314",
+     "de": "White Dwarf 314"
+    },
+    "detail": {
+     "fr": "p. 90-93",
+     "en": "p. 90-93",
+     "de": "S. 90-93"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Halfling Rebellion",
+     "en": "Warhammer Fantasy Wiki (fandom), Halfling Rebellion page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Halfling Rebellion"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Halfling_Rebellion"
+   }
+  ]
+ },
+ {
+  "id": "raknik-tend-une-embuscade-a-karl-franz",
+  "annee": 2502,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Raknik Spiderclaw tend une embuscade à Karl Franz",
+   "en": "Raknik Spiderclaw ambushes Karl Franz",
+   "de": "Raknik Spiderclaw überfällt Karl Franz"
+  },
+  "resume": {
+   "fr": "Payés par un serviteur de Tzeentch pour empêcher l'élection du prince d'Altdorf, les Gobelins des forêts l'attaquent lors d'une patrouille avec des Reiksguards. Ils se replient quand il abat un chaman et son Arachnarok, et Raknik jure de se venger.",
+   "en": "Paid by a servant of Tzeentch to stop the Prince of Altdorf's election, the Forest Goblins attack him on patrol with a group of Reiksguard. They fall back when he slays a shaman and his Arachnarok, and Raknik swears revenge.",
+   "de": "Von einem Diener Tzeentchs bezahlt, um die Wahl des Prinzen von Altdorf zu verhindern, greifen die Waldgoblins ihn auf einer Patrouille mit Reiksgardisten an. Als er einen Schamanen samt Arachnarok erschlägt, ziehen sie sich zurück, und Raknik schwört Rache."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "altdorf"
+  ],
+  "factions": [
+   "peaux-vertes",
+   "empire",
+   "chaos"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "The Prince of Altdorf, nouvelle d'Andy Hall",
+     "en": "The Prince of Altdorf, nouvelle d'Andy Hall",
+     "de": "The Prince of Altdorf, nouvelle d'Andy Hall"
+    },
+    "detail": "",
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Raknik Spiderclaw",
+     "en": "Warhammer Fantasy Wiki (fandom), Raknik Spiderclaw page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Raknik Spiderclaw"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Raknik_Spiderclaw"
+   }
+  ]
+ },
+ {
+  "id": "nettoyage-du-canyon-de-sorrol",
+  "annee": 2504,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Le nettoyage du canyon de Sorrol et l'Ordre du Lynx Noir",
+   "en": "The Cleansing of Sorrol's Canyon and the Order of the Black Lynx",
+   "de": "Die Säuberung der Sorrol-Schlucht und der Orden des Schwarzen Luchses"
+  },
+  "resume": {
+   "fr": "Sur quatre cents nobles chevaliers, neuf survivent à ce combat contre trois mille orques. Marius Leitdorf fonde pour eux un ordre et nomme Sir Otto Guntallan premier Grand Maître.",
+   "en": "Only nine of four hundred noble knights survive this fight against three thousand Orcs. Marius Leitdorf founds an order for them and names Sir Otto Guntallan its first Grand Master.",
+   "de": "Nur neun von vierhundert adligen Rittern überleben diesen Kampf gegen dreitausend Orks. Marius Leitdorf gründet für sie einen Orden und ernennt Sir Otto Guntallan zum ersten Großmeister."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [],
+  "factions": [
+   "empire",
+   "peaux-vertes"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Career Compendium, Warhammer Fantasy Roleplay 2e édition",
+     "en": "Career Compendium, Warhammer Fantasy Roleplay 2nd edition",
+     "de": "Career Compendium, Warhammer Fantasy Roleplay 2. Edition"
+    },
+    "detail": {
+     "fr": "p. 91",
+     "en": "p. 91",
+     "de": "S. 91"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Order of the Black Lynx",
+     "en": "Warhammer Fantasy Wiki (fandom), Order of the Black Lynx page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Order of the Black Lynx"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Order_of_the_Black_Lynx"
+   }
+  ]
+ },
+ {
+  "id": "helborg-contre-gutlord-breaskus",
+  "annee": 2505,
+  "fin": null,
+  "approx": true,
+  "titre": {
+   "fr": "Kurt Helborg contre les pillards de Gutlord Breaskus",
+   "en": "Kurt Helborg against the reavers of Gutlord Breaskus",
+   "de": "Kurt Helborg gegen die Plünderer von Gutlord Breaskus"
+  },
+  "resume": {
+   "fr": "À partir de 2505, Karl Franz envoie son Reiksmarshal contre de nombreux ennemis, dont les ogres de Gutlord Breaskus et les orques des Blighted Towers.",
+   "en": "From 2505 on, Karl Franz sends his Reiksmarshal against many foes, among them the Ogres of Gutlord Breaskus and the Orcs of the Blighted Towers.",
+   "de": "Ab 2505 schickt Karl Franz seinen Reiksmarschall gegen zahlreiche Feinde, darunter die Oger von Gutlord Breaskus und die Orks der Blighted Towers."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [],
+  "factions": [
+   "empire",
+   "ogres",
+   "peaux-vertes"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: The Empire, 8e édition",
+     "en": "Warhammer Armies: The Empire, 8th edition",
+     "de": "Warhammer Armies: The Empire, 8. Edition"
+    },
+    "detail": "",
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Kurt Helborg",
+     "en": "Warhammer Fantasy Wiki (fandom), Kurt Helborg page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Kurt Helborg"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Kurt_Helborg"
+   }
+  ]
+ },
+ {
+  "id": "tamurkhan-soumet-la-tribu-red-fist",
+  "annee": 2509,
+  "fin": null,
+  "approx": true,
+  "titre": {
+   "fr": "Tamurkhan soumet les ogres Red Fist",
+   "en": "Tamurkhan subjugates the Red Fist Ogres",
+   "de": "Tamurkhan unterwirft die Red-Fist-Oger"
+  },
+  "resume": {
+   "fr": "Vaincus par la horde du Seigneur Asticot en Extrême-Orient, de nombreux ogres de la tribu Red Fist passent à son service et deviennent les Ogres de la Peste, perdus corps et âme pour le Chaos.",
+   "en": "Defeated by the Maggot Lord's horde in the Far East, many Ogres of the Red Fist tribe enter his service and become Plague Ogres, lost body and soul to Chaos.",
+   "de": "Von der Horde des Madenfürsten im Fernen Osten besiegt, treten viele Oger des Red-Fist-Stammes in seine Dienste und werden zu Seuchenogern, dem Chaos mit Leib und Seele verfallen."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "orient"
+  ],
+  "lieux": [],
+  "factions": [
+   "ogres",
+   "chaos"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Date déduite : avant l'invasion de l'Empire, placée en 2510 sur la page lue.",
+   "en": "Inferred date: before the invasion of the Empire, set in 2510 on the page read.",
+   "de": "Erschlossenes Datum: vor dem Einfall ins Imperium, der auf der gelesenen Seite auf 2510 datiert ist."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Tamurkhan: Throne of Chaos",
+     "en": "Tamurkhan: Throne of Chaos",
+     "de": "Tamurkhan: Throne of Chaos"
+    },
+    "detail": {
+     "fr": "p. 74",
+     "en": "p. 74",
+     "de": "S. 74"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Plague Ogres",
+     "en": "Warhammer Fantasy Wiki (fandom), Plague Ogres page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Plague Ogres"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Plague_Ogres"
+   }
+  ]
+ },
+ {
+  "id": "bataille-des-bois-de-bloodpine",
+  "annee": 2517,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Bataille des bois de Bloodpine",
+   "en": "Battle of Bloodpine Woods",
+   "de": "Schlacht in den Bloodpine-Wäldern"
+  },
+  "resume": {
+   "fr": "Raknik Spiderclaw lance une horde et plusieurs Arachnaroks sur le Reikland. Sachant que ses rivaux jugeraient l'Empereur à la défense de sa propre province, Karl Franz frappe au cœur du territoire gobelin. Il manque d'y mourir, mais Raknik est tué et sa tribu anéantie.",
+   "en": "Raknik Spiderclaw looses a horde and several Arachnaroks on the Reikland. Aware that his rivals will judge him by the defence of his own province, Karl Franz strikes at the heart of Goblin territory. He almost dies there, but Raknik is killed and his tribe wiped out.",
+   "de": "Raknik Spiderclaw lässt eine Horde und mehrere Arachnaroks auf das Reikland los. Wohl wissend, dass seine Rivalen ihn an der Verteidigung seiner eigenen Provinz messen, schlägt Karl Franz im Herzen des Goblingebiets zu. Er entgeht dort knapp dem Tod, doch Raknik fällt und sein Stamm wird ausgelöscht."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "altdorf"
+  ],
+  "factions": [
+   "empire",
+   "peaux-vertes"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: The Empire, 8e édition",
+     "en": "Warhammer Armies: The Empire, 8th edition",
+     "de": "Warhammer Armies: The Empire, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 14-15",
+     "en": "p. 14-15",
+     "de": "S. 14-15"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Bloodpine Woods",
+     "en": "Warhammer Fantasy Wiki (fandom), Bloodpine Woods page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Bloodpine Woods"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Bloodpine_Woods"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Raknik Spiderclaw",
+     "en": "Warhammer Fantasy Wiki (fandom), Raknik Spiderclaw page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Raknik Spiderclaw"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Raknik_Spiderclaw"
+   }
+  ]
+ },
+ {
+  "id": "reconquete-du-chateau-kreiglitz",
+  "annee": 2520,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Le baron Otto Kreiglitz reprend son château",
+   "en": "Baron Otto Kreiglitz retakes his castle",
+   "de": "Baron Otto Kreiglitz erobert seine Burg zurück"
+  },
+  "resume": {
+   "fr": "Ruiné par le recrutement d'une armée de mercenaires, avec même quelques ogres, le baron bombarde sa demeure pour en chasser les orques. Ceux-ci chargent, et le manque de coordination rend le combat difficile. Le château est repris mais en ruine, et la nouvelle de la victoire reste sans suite.",
+   "en": "Having spent all he has on a mercenary army, ogres included, the baron shells his own home to drive out the Orcs. They charge instead, and poor coordination makes for a hard fight. The castle is regained in ruins, and no further word follows the news of victory.",
+   "de": "Nachdem er alles für ein Söldnerheer samt einiger Oger ausgegeben hat, beschießt der Baron sein eigenes Haus, um die Orks zu vertreiben. Sie greifen an, und mangelnde Abstimmung erschwert den Kampf. Die Burg wird als Ruine zurückerobert, und nach der Siegesnachricht bleibt jede weitere Kunde aus."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "empire",
+   "montagnes"
+  ],
+  "lieux": [],
+  "factions": [
+   "empire",
+   "peaux-vertes",
+   "ogres"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Omens of War: Advanced Combat and Warriors",
+     "en": "Omens of War: Advanced Combat and Warriors",
+     "de": "Omens of War: Advanced Combat and Warriors"
+    },
+    "detail": {
+     "fr": "p. 17",
+     "en": "p. 17",
+     "de": "S. 17"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Castle Kreiglitz",
+     "en": "Warhammer Fantasy Wiki (fandom), Castle Kreiglitz page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Castle Kreiglitz"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Castle_Kreiglitz"
+   }
+  ]
+ },
+ {
+  "id": "wurrzag-trouve-le-poing-de-gork",
+  "annee": 2523,
+  "fin": 2526,
+  "approx": true,
+  "titre": {
+   "fr": "Wurrzag reconnaît le Poing de Gork en Grimgor",
+   "en": "Wurrzag recognises Grimgor as the Fist of Gork",
+   "de": "Wurrzag erkennt in Grimgor die Faust des Gork"
+  },
+  "resume": {
+   "fr": "Au début de la Fin des Temps, le chaman cherche l'élu de Gork et Mork et comprend qu'ils en ont choisi deux, Grimgor et Skarsnik. Il rejoint Grimgor, qui songe d'abord à le fendre en deux, et ne le quitte plus.",
+   "en": "As the End Times begin, the shaman seeks the champion of Gork and Mork and comes to see that there are two, Grimgor and Skarsnik. He joins Grimgor, who at first thinks of splitting him in two, and stays at his side from then on.",
+   "de": "Zu Beginn der Endzeit sucht der Schamane den Erwählten von Gork und Mork und erkennt, dass es zwei sind, Grimgor und Skarsnik. Er schließt sich Grimgor an, der ihn zunächst spalten will, und weicht fortan nicht von seiner Seite."
+  },
+  "ere": "fin-des-temps",
+  "regions": [
+   "terres-arides"
+  ],
+  "lieux": [],
+  "factions": [
+   "peaux-vertes"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Intervalle déduit : entre le début de la Fin des Temps et l'invasion de l'empire des Nains du Chaos, à laquelle Wurrzag prend part.",
+   "en": "Inferred interval: between the start of the End Times and the invasion of the Chaos Dwarf empire, in which Wurrzag takes part.",
+   "de": "Erschlossener Zeitraum: zwischen dem Beginn der Endzeit und dem Einfall ins Reich der Chaoszwerge, an dem Wurrzag teilnimmt."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer: The End Times Collection",
+     "en": "Warhammer: The End Times Collection",
+     "de": "Warhammer: The End Times Collection"
+    },
+    "detail": {
+     "fr": "p. 2664",
+     "en": "p. 2664",
+     "de": "S. 2664"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "The End Times Vol. V: Archaon",
+     "en": "The End Times Vol. V: Archaon",
+     "de": "The End Times Vol. V: Archaon"
+    },
+    "detail": "",
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Wurrzag Ud Ura Zahubu",
+     "en": "Warhammer Fantasy Wiki (fandom), Wurrzag Ud Ura Zahubu page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Wurrzag Ud Ura Zahubu"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Wurrzag_Ud_Ura_Zahubu"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Grimgor Ironhide",
+     "en": "Warhammer Fantasy Wiki (fandom), Grimgor Ironhide page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Grimgor Ironhide"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Grimgor_Ironhide"
+   }
+  ]
+ },
+ {
+  "id": "throgg-prend-praag",
+  "annee": 2524,
+  "fin": null,
+  "approx": true,
+  "titre": {
+   "fr": "Throgg prend Praag",
+   "en": "Throgg takes Praag",
+   "de": "Throgg nimmt Praag ein"
+  },
+  "resume": {
+   "fr": "Le roi des Trolls enlève la ville à Aekold Helbrass et y résiste à dix armées d'Archaon. Il réunit ensuite des sorciers captifs, dont Maximilian Schreiber, pour créer un troll doué d'intelligence.",
+   "en": "The Troll King wrests the city from Aekold Helbrass and holds it against ten of Archaon's armies. He then gathers captive wizards, Maximilian Schreiber among them, to create an intelligent Troll.",
+   "de": "Der Trollkönig entreißt Aekold Helbrass die Stadt und hält sie gegen zehn Heere Archaons. Dann versammelt er gefangene Zauberer, darunter Maximilian Schreiber, um einen intelligenten Troll zu erschaffen."
+  },
+  "ere": "fin-des-temps",
+  "regions": [
+   "kislev"
+  ],
+  "lieux": [
+   "praag"
+  ],
+  "factions": [
+   "chaos",
+   "kislev"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Gotrek and Felix: Kinslayer, roman de David Guymer",
+     "en": "Gotrek and Felix: Kinslayer, roman de David Guymer",
+     "de": "Gotrek and Felix: Kinslayer, roman de David Guymer"
+    },
+    "detail": "",
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Throgg",
+     "en": "Warhammer Fantasy Wiki (fandom), Throgg page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Throgg"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Throgg"
+   }
+  ]
+ },
+ {
+  "id": "grimgor-tue-greasus",
+  "annee": 2526,
+  "fin": null,
+  "approx": true,
+  "titre": {
+   "fr": "Grimgor tue Greasus Dent-d'Or",
+   "en": "Grimgor kills Greasus Goldtooth",
+   "de": "Grimgor tötet Greasus Goldtooth"
+  },
+  "resume": {
+   "fr": "Grimgor brise le crâne du Surtyran avec son propre sceptre. Les Ogres voient alors en lui l'avatar de la Grande Gueule et le suivent en masse, ce qui lui ouvre les portes de l'Extrême-Orient.",
+   "en": "Grimgor smashes the Overtyrant's skull with his own sceptre. The Ogres then see him as the avatar of the Great Maw and follow him en masse, which opens the way to the Far East.",
+   "de": "Grimgor zertrümmert dem Übertyrannen mit dessen eigenem Zepter den Schädel. Die Oger sehen in ihm nun die Verkörperung des Großen Schlunds und folgen ihm in Massen, was ihm den Weg in den Fernen Osten öffnet."
+  },
+  "ere": "fin-des-temps",
+  "regions": [
+   "orient"
+  ],
+  "lieux": [],
+  "factions": [
+   "peaux-vertes",
+   "ogres"
+  ],
+  "importance": 2,
+  "fiabilite": "divergent",
+  "note": {
+   "fr": "Date déduite : la page Hobgobla-Khan place ce meurtre après la chute des tours de Zharr-Naggrund, datée ici de 2526, alors que la page Grimgor Ironhide le met avant la révolte des esclaves et après la conquête des Hobgobelins.",
+   "en": "Inferred date: the Hobgobla-Khan page sets this killing after the fall of the towers of Zharr-Naggrund, dated 2526 here, while the Grimgor Ironhide page puts it before the slave revolts and after the conquest of the Hobgoblins.",
+   "de": "Erschlossenes Datum: Die Seite Hobgobla-Khan setzt die Tötung nach dem Fall der Türme von Zharr-Naggrund an, hier auf 2526 datiert, die Seite Grimgor Ironhide dagegen vor die Sklavenaufstände und nach die Eroberung der Hobgoblins."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "The Lord of the End Times, roman de Josh Reynolds",
+     "en": "The Lord of the End Times, roman de Josh Reynolds",
+     "de": "The Lord of the End Times, roman de Josh Reynolds"
+    },
+    "detail": {
+     "fr": "chap. 15",
+     "en": "ch. 15",
+     "de": "Kap. 15"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Greasus Goldtooth",
+     "en": "Warhammer Fantasy Wiki (fandom), Greasus Goldtooth page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Greasus Goldtooth"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Greasus_Goldtooth"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Hobgobla-Khan",
+     "en": "Warhammer Fantasy Wiki (fandom), Hobgobla-Khan page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Hobgobla-Khan"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Hobgobla-Khan"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Grimgor Ironhide",
+     "en": "Warhammer Fantasy Wiki (fandom), Grimgor Ironhide page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Grimgor Ironhide"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Grimgor_Ironhide"
+   }
+  ]
+ },
+ {
+  "id": "archaon-decapite-grimgor",
+  "annee": 2528,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Archaon décapite Grimgor",
+   "en": "Archaon beheads Grimgor",
+   "de": "Archaon enthauptet Grimgor"
+  },
+  "resume": {
+   "fr": "Dans Middenheim, Grimgor désarçonne l'Élu et lui écrase d'un coup de tête l'Œil de Sheerian. Forcé de libérer la force du démon U'zuhl, Archaon brise le manche de Gitsnik au sixième échange, puis tranche la tête de l'orque. L'esprit de Ghur quitte le corps et rejoint l'artefact.",
+   "en": "In Middenheim, Grimgor unhorses the Everchosen and crushes the Eye of Sheerian with a headbutt. Forced to release the strength of the daemon U'zuhl, Archaon splits the haft of Gitsnik at the sixth exchange and strikes off the Orc's head. The spirit of Ghur leaves the body and is drawn into the artefact.",
+   "de": "In Middenheim wirft Grimgor den Auserkorenen aus dem Sattel und zerschmettert mit einem Kopfstoß das Auge von Sheerian. Gezwungen, die Kraft des Dämons U'zuhl freizusetzen, spaltet Archaon beim sechsten Schlagabtausch den Schaft von Gitsnik und schlägt dem Ork den Kopf ab. Der Geist von Ghur verlässt den Körper und wird in das Artefakt gezogen."
+  },
+  "ere": "fin-des-temps",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "middenheim"
+  ],
+  "factions": [
+   "peaux-vertes",
+   "chaos"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "The End Times Vol. V: Archaon",
+     "en": "The End Times Vol. V: Archaon",
+     "de": "The End Times Vol. V: Archaon"
+    },
+    "detail": {
+     "fr": "p. 237-238",
+     "en": "p. 237-238",
+     "de": "S. 237-238"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Grimgor Ironhide",
+     "en": "Warhammer Fantasy Wiki (fandom), Grimgor Ironhide page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Grimgor Ironhide"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Grimgor_Ironhide"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page The End Times",
+     "en": "Warhammer Fantasy Wiki (fandom), The End Times page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite The End Times"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/The_End_Times"
+   }
+  ]
+ }
+]

@@ -1,0 +1,2849 @@
+[
+ {
+  "id": "aenarion-delivre-morathi",
+  "annee": -4461,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Aenarion délivre Morathi",
+   "en": "Aenarion rescues Morathi",
+   "de": "Aenarion rettet Morathi"
+  },
+  "resume": {
+   "fr": "Le premier Roi Phénix arrache Morathi aux mains d'une horde de Slaanesh. De cette rencontre naîtra son second mariage, et certaines légendes font remonter à cette captivité la souillure de la future reine sorcière.",
+   "en": "The first Phoenix King saves Morathi from a Slaaneshi host. The meeting leads to his second marriage, and some legends date the first taint on the future witch queen to this captivity.",
+   "de": "Der erste Phönixkönig entreißt Morathi einer Horde des Slaanesh. Aus der Begegnung geht seine zweite Ehe hervor, und manche Legenden führen den ersten Makel der künftigen Hexenkönigin auf diese Gefangenschaft zurück."
+  },
+  "ere": "grande-catastrophe",
+  "regions": [
+   "ulthuan"
+  ],
+  "lieux": [],
+  "factions": [
+   "hauts-elfes",
+   "chaos"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Date elfique I, 39, convertie par le wiki.",
+   "en": "Elven date I, 39, converted by the wiki.",
+   "de": "Elfisches Datum I, 39, umgerechnet durch das Wiki."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Dark Elves, 8e édition",
+     "en": "Warhammer Armies: Dark Elves, 8th edition",
+     "de": "Warhammer Armies: Dark Elves, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 17-18",
+     "en": "pp. 17-18",
+     "de": "S. 17-18"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Dark Elves, 7e édition",
+     "en": "Warhammer Armies: Dark Elves, 7th edition",
+     "de": "Warhammer Armies: Dark Elves, 7. Edition"
+    },
+    "detail": {
+     "fr": "p. 13",
+     "en": "p. 13",
+     "de": "S. 13"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Dark Elves, 6e édition",
+     "en": "Warhammer Armies: Dark Elves, 6th edition",
+     "de": "Warhammer Armies: Dark Elves, 6. Edition"
+    },
+    "detail": {
+     "fr": "p. 52",
+     "en": "p. 52",
+     "de": "S. 52"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Morathi",
+     "en": "Warhammer Fantasy Wiki (fandom), Morathi page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Morathi"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Morathi"
+   }
+  ]
+ },
+ {
+  "id": "morathi-se-proclame-reine",
+  "annee": -3375,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Morathi se proclame reine",
+   "en": "Morathi claims the title of queen",
+   "de": "Morathi beansprucht den Königinnentitel"
+  },
+  "resume": {
+   "fr": "En l'absence de Malekith, Morathi prend le titre de reine en Nagarythe, face à Bel Shanaar. Ses agents répandent l'idée d'un complot des autres royaumes, et seule la maison Anar lui tient tête ouvertement.",
+   "en": "While Malekith is away, Morathi takes the title of queen in Nagarythe in defiance of Bel Shanaar. Her agents claim the other kingdoms are plotting against the realm, and only House Anar openly resists.",
+   "de": "Während Malekiths Abwesenheit nennt sich Morathi in Nagarythe Königin und stellt sich gegen Bel Shanaar. Ihre Agenten behaupten, die übrigen Reiche planten ein Komplott, und nur das Haus Anar leistet offen Widerstand."
+  },
+  "ere": "grande-catastrophe",
+  "regions": [
+   "ulthuan"
+  ],
+  "lieux": [],
+  "factions": [
+   "hauts-elfes",
+   "elfes-noirs"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Date elfique II, 1044, convertie par le wiki.",
+   "en": "Elven date II, 1044, converted by the wiki.",
+   "de": "Elfisches Datum II, 1044, umgerechnet durch das Wiki."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Time of Legends: Shadow King, Gav Thorpe",
+     "en": "Time of Legends: Shadow King, Gav Thorpe",
+     "de": "Time of Legends: Shadow King, Gav Thorpe"
+    },
+    "detail": {
+     "fr": "chapitre 2",
+     "en": "chapter 2",
+     "de": "Kapitel 2"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Morathi",
+     "en": "Warhammer Fantasy Wiki (fandom), Morathi page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Morathi"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Morathi"
+   }
+  ]
+ },
+ {
+  "id": "morathi-marche-sur-avelorn",
+  "annee": -2739,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Morathi marche sur Avelorn",
+   "en": "Morathi marches on Avelorn",
+   "de": "Morathi zieht gegen Avelorn"
+  },
+  "resume": {
+   "fr": "Plusieurs de ses capitaines ayant échoué à abattre la Reine éternelle Yvraine, Morathi conduit elle-même une armée en Avelorn. Elle veut aussi saisir l'Aein Yshain, arbre sacré offert par Isha, pour puiser dans la magie de toute l'île.",
+   "en": "After several of her commanders fail to kill the Everqueen Yvraine, Morathi leads an army into Avelorn herself. She also seeks the Aein Yshain, the sacred tree given by Isha, to draw on the magic of the whole island.",
+   "de": "Nachdem mehrere ihrer Heerführer an der Immerkönigin Yvraine gescheitert sind, führt Morathi selbst ein Heer nach Avelorn. Sie will außerdem den Aein Yshain an sich bringen, den heiligen Baum Ishas, um die Magie der ganzen Insel anzuzapfen."
+  },
+  "ere": "grande-catastrophe",
+  "regions": [
+   "ulthuan"
+  ],
+  "lieux": [
+   "avelorn"
+  ],
+  "factions": [
+   "hauts-elfes",
+   "elfes-noirs"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Date elfique II, 1680, convertie par le wiki.",
+   "en": "Elven date II, 1680, converted by the wiki.",
+   "de": "Elfisches Datum II, 1680, umgerechnet durch das Wiki."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Time of Legends: Caledor, Gav Thorpe",
+     "en": "Time of Legends: Caledor, Gav Thorpe",
+     "de": "Time of Legends: Caledor, Gav Thorpe"
+    },
+    "detail": {
+     "fr": "chapitre 13",
+     "en": "chapter 13",
+     "de": "Kapitel 13"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Morathi",
+     "en": "Warhammer Fantasy Wiki (fandom), Morathi page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Morathi"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Morathi"
+   }
+  ]
+ },
+ {
+  "id": "duel-de-maedrethnir-et-sulekh",
+  "annee": -2724,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Le duel des dragons à Maledor",
+   "en": "The clash of dragons at Maledor",
+   "de": "Das Drachenduell von Maledor"
+  },
+  "resume": {
+   "fr": "Lors de la bataille de Maledor, Caledor Ier monté sur Maedrethnir affronte Malekith et son dragon Sulekh. Blessé par Sulekh, Maedrethnir doit quitter le combat mais survit.",
+   "en": "At the battle of Maledor, Caledor I on Maedrethnir faces Malekith and his dragon Sulekh. Wounded by Sulekh, Maedrethnir is forced to flee but survives.",
+   "de": "In der Schlacht von Maledor tritt Caledor I. auf Maedrethnir gegen Malekith und seinen Drachen Sulekh an. Von Sulekh verwundet, muss Maedrethnir fliehen, überlebt aber."
+  },
+  "ere": "grande-catastrophe",
+  "regions": [
+   "ulthuan"
+  ],
+  "lieux": [],
+  "factions": [
+   "hauts-elfes",
+   "elfes-noirs"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: High Elves, 7e édition",
+     "en": "Warhammer Armies: High Elves, 7th edition",
+     "de": "Warhammer Armies: High Elves, 7. Edition"
+    },
+    "detail": {
+     "fr": "p. 38",
+     "en": "p. 38",
+     "de": "S. 38"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Time of Legends: Caledor, Gav Thorpe",
+     "en": "Time of Legends: Caledor, Gav Thorpe",
+     "de": "Time of Legends: Caledor, Gav Thorpe"
+    },
+    "detail": {
+     "fr": "chapitre 20",
+     "en": "chapter 20",
+     "de": "Kapitel 20"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Battle of Maledor",
+     "en": "Warhammer Fantasy Wiki (fandom), Battle of Maledor page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Battle of Maledor"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Battle_of_Maledor"
+   }
+  ]
+ },
+ {
+  "id": "raz-de-maree-sur-les-colonies",
+  "annee": -2723,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Les raz-de-marée ruinent les ports elfes",
+   "en": "Tsunamis ruin the Elven ports",
+   "de": "Flutwellen zerstören die elfischen Häfen"
+  },
+  "resume": {
+   "fr": "Les vagues géantes de la Déchirure frappent les côtes elfes du Vieux Monde et emportent Lothlakh et Ildenfane. Les réfugiés gagnent l'intérieur de la Laurelorn et s'installent à Tor Lithanel et Kor Immarmor.",
+   "en": "Giant waves from the Sundering strike the Elven shores of the Old World and destroy Lothlakh and Ildenfane. Refugees move into the Laurelorn and settle at Tor Lithanel and Kor Immarmor.",
+   "de": "Riesenwellen der Spaltung treffen die elfischen Küsten der Alten Welt und vernichten Lothlakh und Ildenfane. Flüchtlinge ziehen in den Laurelorn und siedeln in Tor Lithanel und Kor Immarmor."
+  },
+  "ere": "grande-catastrophe",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "foret-de-laurelorn"
+  ],
+  "factions": [
+   "hauts-elfes",
+   "elfes-sylvains"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Fantasy Roleplay 4th Edition: Archives of the Empire Vol I",
+     "en": "Warhammer Fantasy Roleplay 4th Edition: Archives of the Empire Vol I",
+     "de": "Warhammer Fantasy Roleplay 4th Edition: Archives of the Empire Vol I"
+    },
+    "detail": {
+     "fr": "p. 75",
+     "en": "p. 75",
+     "de": "S. 75"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Eonir",
+     "en": "Warhammer Fantasy Wiki (fandom), Eonir page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Eonir"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Eonir"
+   }
+  ]
+ },
+ {
+  "id": "generaux-en-fuite-fondent-une-cite",
+  "annee": -2201,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Des généraux en fuite fondent une cité",
+   "en": "Fugitive generals found a city",
+   "de": "Flüchtige Generäle gründen eine Stadt"
+  },
+  "resume": {
+   "fr": "Après l'échec de la seconde tentative sur Ulthuan, des généraux elfes noirs refusent de rentrer à Naggarond par peur du Roi-Sorcier et s'établissent à part. Morathi conseille à son fils de les laisser faire et de les dresser les uns contre les autres.",
+   "en": "After the second failed attempt on Ulthuan, Dark Elf generals refuse to return to Naggarond for fear of the Witch King and settle apart. Morathi advises her son to let them be and to set them against one another.",
+   "de": "Nach dem zweiten gescheiterten Angriff auf Ulthuan wagen sich dunkelelfische Generäle aus Furcht vor dem Hexenkönig nicht nach Naggarond zurück und siedeln für sich. Morathi rät ihrem Sohn, sie gewähren zu lassen und gegeneinander auszuspielen."
+  },
+  "ere": "age-d-or",
+  "regions": [
+   "naggaroth"
+  ],
+  "lieux": [
+   "hag-graef",
+   "har-ganeth"
+  ],
+  "factions": [
+   "elfes-noirs"
+  ],
+  "importance": 2,
+  "fiabilite": "divergent",
+  "note": {
+   "fr": "La page Morathi nomme Hag Graef (III, 524) et la page Har Ganeth nomme Har Ganeth (III, 522), toutes deux avec -2201. L'événement de -2343 évoque déjà des cavernes sous Hag Graef.",
+   "en": "The Morathi page names Hag Graef (III, 524) and the Har Ganeth page names Har Ganeth (III, 522), both giving -2201. The -2343 event already mentions caverns beneath Hag Graef.",
+   "de": "Die Seite Morathi nennt Hag Graef (III, 524), die Seite Har Ganeth nennt Har Ganeth (III, 522), beide mit -2201. Das Ereignis von -2343 erwähnt bereits Höhlen unter Hag Graef."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Dark Elves, 7e édition",
+     "en": "Warhammer Armies: Dark Elves, 7th edition",
+     "de": "Warhammer Armies: Dark Elves, 7. Edition"
+    },
+    "detail": {
+     "fr": "p. 28",
+     "en": "p. 28",
+     "de": "S. 28"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Morathi",
+     "en": "Warhammer Fantasy Wiki (fandom), Morathi page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Morathi"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Morathi"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Har Ganeth",
+     "en": "Warhammer Fantasy Wiki (fandom), Har Ganeth page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Har Ganeth"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Har_Ganeth"
+   }
+  ]
+ },
+ {
+  "id": "fin-du-regne-d-yvraine",
+  "annee": -2198,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Fin du règne d'Yvraine",
+   "en": "End of Yvraine's reign",
+   "de": "Ende der Herrschaft Yvraines"
+  },
+  "resume": {
+   "fr": "La liste des Reines éternelles arrête à cette date le règne d'Yvraine, fille d'Aenarion et d'Astarielle et deuxième souveraine connue de ce titre, contemporaine de Bel Shanaar et de Caledor Ier.",
+   "en": "The list of Everqueens ends the reign of Yvraine here. Daughter of Aenarion and Astarielle, she was the second known holder of the title and a contemporary of Bel Shanaar and Caledor I.",
+   "de": "Die Liste der Immerköniginnen beendet hier die Herrschaft Yvraines. Die Tochter Aenarions und Astarielles war die zweite bekannte Trägerin des Titels und Zeitgenossin Bel Shanaars und Caledors I."
+  },
+  "ere": "age-d-or",
+  "regions": [
+   "ulthuan"
+  ],
+  "lieux": [
+   "avelorn"
+  ],
+  "factions": [
+   "hauts-elfes"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Everqueen",
+     "en": "Warhammer Fantasy Wiki (fandom), Everqueen page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Everqueen"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Everqueen"
+   }
+  ]
+ },
+ {
+  "id": "contact-renoue-avec-les-colonies",
+  "annee": -2174,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Ulthuan renoue avec ses colonies",
+   "en": "Ulthuan restores contact with its colonies",
+   "de": "Ulthuan nimmt wieder Kontakt zu den Kolonien auf"
+  },
+  "resume": {
+   "fr": "Le contact reprend entre Ulthuan et les colonies du Vieux Monde. Des agents elfes noirs s'y glissent aussitôt pour répandre la propagande contre le Roi Phénix.",
+   "en": "Contact resumes between Ulthuan and the Old World colonies. Dark Elf agents promptly slip in to spread propaganda against the Phoenix King.",
+   "de": "Zwischen Ulthuan und den Kolonien der Alten Welt besteht wieder Verbindung. Dunkelelfische Agenten schleichen sich sogleich ein und verbreiten Hetze gegen den Phönixkönig."
+  },
+  "ere": "age-d-or",
+  "regions": [
+   "ulthuan",
+   "empire"
+  ],
+  "lieux": [
+   "foret-de-laurelorn"
+  ],
+  "factions": [
+   "hauts-elfes",
+   "elfes-noirs"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Fantasy Roleplay 4th Edition: Archives of the Empire Vol I",
+     "en": "Warhammer Fantasy Roleplay 4th Edition: Archives of the Empire Vol I",
+     "de": "Warhammer Fantasy Roleplay 4th Edition: Archives of the Empire Vol I"
+    },
+    "detail": {
+     "fr": "p. 75",
+     "en": "p. 75",
+     "de": "S. 75"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Eonir",
+     "en": "Warhammer Fantasy Wiki (fandom), Eonir page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Eonir"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Eonir"
+   }
+  ]
+ },
+ {
+  "id": "fondation-de-karond-kar",
+  "annee": -2106,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Fondation de Karond Kar",
+   "en": "Founding of Karond Kar",
+   "de": "Gründung von Karond Kar"
+  },
+  "resume": {
+   "fr": "La cité de Karond Kar est bâtie dans les étendues sauvages de l'est de Naggaroth.",
+   "en": "The city of Karond Kar is founded in the eastern wilderness of Naggaroth.",
+   "de": "In der östlichen Wildnis Naggaroths wird die Stadt Karond Kar gegründet."
+  },
+  "ere": "age-d-or",
+  "regions": [
+   "naggaroth"
+  ],
+  "lieux": [
+   "karond-kar"
+  ],
+  "factions": [
+   "elfes-noirs"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Dark Elves, 7e édition",
+     "en": "Warhammer Armies: Dark Elves, 7th edition",
+     "de": "Warhammer Armies: Dark Elves, 7. Edition"
+    },
+    "detail": "",
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Karond Kar",
+     "en": "Warhammer Fantasy Wiki (fandom), Karond Kar page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Karond Kar"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Karond_Kar"
+   }
+  ]
+ },
+ {
+  "id": "destruction-de-kor-vanaeth",
+  "annee": -1850,
+  "fin": null,
+  "approx": true,
+  "titre": {
+   "fr": "Destruction de Kor Vanaeth",
+   "en": "Destruction of Kor Vanaeth",
+   "de": "Zerstörung von Kor Vanaeth"
+  },
+  "resume": {
+   "fr": "Pendant la Guerre de la Barbe, une armée naine renverse les tours de cette colonie bâtie sur le site de la future Altdorf et y élève la forteresse de Migdhal Elgidok. Des réfugiés se cachent dans les bois voisins, d'où descendent les Elfes du Reikwald.",
+   "en": "During the War of the Beard, a Dwarf army topples the towers of this colony on the site of later Altdorf and raises the fortress of Migdhal Elgidok there. Refugees hide in the nearby woods and become the forebears of the Reikwald Elves.",
+   "de": "Im Krieg des Bartes stürzt ein Zwergenheer die Türme dieser Kolonie am Ort des späteren Altdorf und errichtet dort die Festung Migdhal Elgidok. Flüchtlinge verbergen sich in den nahen Wäldern und werden zu den Vorfahren der Reikwald-Elfen."
+  },
+  "ere": "age-d-or",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "altdorf"
+  ],
+  "factions": [
+   "nains",
+   "hauts-elfes",
+   "elfes-sylvains"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Fantasy Roleplay 4th Edition: Altdorf - Crown of the Empire",
+     "en": "Warhammer Fantasy Roleplay 4th Edition: Altdorf - Crown of the Empire",
+     "de": "Warhammer Fantasy Roleplay 4th Edition: Altdorf - Crown of the Empire"
+    },
+    "detail": {
+     "fr": "p. 9",
+     "en": "p. 9",
+     "de": "S. 9"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Kor Vanaeth",
+     "en": "Warhammer Fantasy Wiki (fandom), Kor Vanaeth page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Kor Vanaeth"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Kor_Vanaeth"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Reikwald Elves",
+     "en": "Warhammer Fantasy Wiki (fandom), Reikwald Elves page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Reikwald Elves"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Reikwald_Elves"
+   }
+  ]
+ },
+ {
+  "id": "avalanche-d-athel-toralien",
+  "annee": -1753,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Morgrim ensevelit Athel Toralien",
+   "en": "Morgrim buries Athel Toralien",
+   "de": "Morgrim begräbt Athel Toralien"
+  },
+  "resume": {
+   "fr": "Les Nains de Morgrim font s'effondrer les falaises proches de l'ancienne cité de Malekith et en écrasent une grande partie sous l'avalanche. Morgrim laisse les survivants gagner les forêts, clémence rare dans cette guerre, et les ruines finissent sous la mer.",
+   "en": "Morgrim's Dwarfs bring down the cliffs near Malekith's former city and bury much of it. Morgrim lets the survivors leave for the forests, a rare mercy in this war, and the ruins are left to the sea.",
+   "de": "Morgrims Zwerge bringen die Klippen bei Malekiths einstiger Stadt zum Einsturz und begraben große Teile unter Gestein. Morgrim lässt die Überlebenden in die Wälder ziehen, eine seltene Milde in diesem Krieg, und die Ruinen fallen dem Meer anheim."
+  },
+  "ere": "age-d-or",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [],
+  "factions": [
+   "nains",
+   "hauts-elfes"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Date elfique IV, 445, convertie par le wiki.",
+   "en": "Elven date IV, 445, converted by the wiki.",
+   "de": "Elfisches Datum IV, 445, umgerechnet durch das Wiki."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "The Curse of the Phoenix Crown, C. L. Werner",
+     "en": "The Curse of the Phoenix Crown, C. L. Werner",
+     "de": "The Curse of the Phoenix Crown, C. L. Werner"
+    },
+    "detail": {
+     "fr": "chapitre 11",
+     "en": "chapter 11",
+     "de": "Kapitel 11"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Athel Toralien",
+     "en": "Warhammer Fantasy Wiki (fandom), Athel Toralien page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Athel Toralien"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Athel_Toralien"
+   }
+  ]
+ },
+ {
+  "id": "assaut-contre-sith-rionnasc",
+  "annee": -1663,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Morgrim attaque Sith Rionnasc'namishathir",
+   "en": "Morgrim attacks Sith Rionnasc'namishathir",
+   "de": "Morgrim greift Sith Rionnasc'namishathir an"
+  },
+  "resume": {
+   "fr": "Pour venger un raid elfe sur Barak Varr, Morgrim assaille la forteresse elfe de l'embouchure du Reik, site de la future Marienburg.",
+   "en": "To avenge an Elven raid on Barak Varr, Morgrim assails the Elven fortress at the mouth of the Reik, the site of later Marienburg.",
+   "de": "Als Rache für einen elfischen Überfall auf Barak Varr greift Morgrim die Elfenfestung an der Reikmündung an, den Ort des späteren Marienburg."
+  },
+  "ere": "age-d-or",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "marienburg"
+  ],
+  "factions": [
+   "nains",
+   "hauts-elfes"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Fantasy Roleplay 4th Edition: Sea of Claws",
+     "en": "Warhammer Fantasy Roleplay 4th Edition: Sea of Claws",
+     "de": "Warhammer Fantasy Roleplay 4th Edition: Sea of Claws"
+    },
+    "detail": {
+     "fr": "pp. 6-7",
+     "en": "pp. 6-7",
+     "de": "S. 6-7"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Sith Rionnasc'namishathir",
+     "en": "Warhammer Fantasy Wiki (fandom), Sith Rionnasc'namishathir page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Sith Rionnasc'namishathir"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Sith_Rionnasc'namishathir"
+   }
+  ]
+ },
+ {
+  "id": "aevin-et-le-vin-de-narinocha",
+  "annee": -1582,
+  "fin": -832,
+  "approx": true,
+  "titre": {
+   "fr": "Aevin Thornchanter changé en narinocha",
+   "en": "Aevin Thornchanter turned into a narinocha",
+   "de": "Aevin Thornchanter wird zur Narinocha"
+  },
+  "resume": {
+   "fr": "Sous le règne de Caradryel, Aevin Thornchanter se métamorphose en plante de narinocha en voulant maîtriser le vent de Ghyran. Sept siècles et demi plus tard, Alaesir Greydawn rompt le sort, et tous deux tirent des gousses un vin apprécié des cours d'Ulthuan.",
+   "en": "During Caradryel's reign, Aevin Thornchanter turns into a narinocha plant while trying to harness the Wind of Ghyran. Seven and a half centuries later Alaesir Greydawn lifts the spell, and the pair make a wine from its pods that the courts of Ulthuan come to prize.",
+   "de": "Unter Caradryel verwandelt sich Aevin Thornchanter beim Versuch, den Wind Ghyran zu bändigen, in eine Narinocha-Pflanze. Siebeneinhalb Jahrhunderte später bricht Alaesir Greydawn den Zauber, und beide keltern aus den Schoten einen an den Höfen Ulthuans geschätzten Wein."
+  },
+  "ere": "age-d-or",
+  "regions": [
+   "ulthuan"
+  ],
+  "lieux": [],
+  "factions": [
+   "hauts-elfes"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "La fin (-832) est déduite des 750 ans indiqués par la source.",
+   "en": "The end date (-832) is deduced from the 750 years given by the source.",
+   "de": "Das Enddatum (-832) ergibt sich aus den in der Quelle genannten 750 Jahren."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Fantasy Roleplay 4th Edition: High Elf Players Guide",
+     "en": "Warhammer Fantasy Roleplay 4th Edition: High Elf Players Guide",
+     "de": "Warhammer Fantasy Roleplay 4th Edition: High Elf Players Guide"
+    },
+    "detail": {
+     "fr": "p. 36",
+     "en": "p. 36",
+     "de": "S. 36"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Narinocha Wine",
+     "en": "Warhammer Fantasy Wiki (fandom), Narinocha Wine page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Narinocha Wine"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Narinocha_Wine"
+   }
+  ]
+ },
+ {
+  "id": "chute-de-sith-rionnasc",
+  "annee": -1502,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Chute de Sith Rionnasc'namishathir",
+   "en": "Fall of Sith Rionnasc'namishathir",
+   "de": "Fall von Sith Rionnasc'namishathir"
+  },
+  "resume": {
+   "fr": "Après un long siège, la forteresse elfe de l'embouchure du Reik tombe aux mains des Nains et elle est rasée.",
+   "en": "After a long siege, the Elven fortress at the mouth of the Reik falls to the Dwarfs and is razed.",
+   "de": "Nach langer Belagerung fällt die Elfenfestung an der Reikmündung an die Zwerge und wird geschleift."
+  },
+  "ere": "age-d-or",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "marienburg"
+  ],
+  "factions": [
+   "nains",
+   "hauts-elfes"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Date propre à ce supplément de la 1re édition de WFRP, postérieure à la fin de la Guerre de la Barbe (-1600) retenue ailleurs.",
+   "en": "A date found only in this WFRP 1st edition supplement, later than the end of the War of the Beard (-1600) given elsewhere.",
+   "de": "Datum nur aus diesem Zusatzband der 1. Edition von WFRP, später als das anderswo genannte Ende des Kriegs des Bartes (-1600)."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Fantasy Roleplay 1st Edition: Marienburg - Sold Down the River",
+     "en": "Warhammer Fantasy Roleplay 1st Edition: Marienburg - Sold Down the River",
+     "de": "Warhammer Fantasy Roleplay 1st Edition: Marienburg - Sold Down the River"
+    },
+    "detail": {
+     "fr": "p. 21",
+     "en": "p. 21",
+     "de": "S. 21"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Sith Rionnasc'namishathir",
+     "en": "Warhammer Fantasy Wiki (fandom), Sith Rionnasc'namishathir page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Sith Rionnasc'namishathir"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Sith_Rionnasc'namishathir"
+   }
+  ]
+ },
+ {
+  "id": "megara-epargnee-par-neferata",
+  "annee": -1146,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Megara épargnée par Neferata",
+   "en": "Neferata spares Megara",
+   "de": "Neferata verschont Megara"
+  },
+  "resume": {
+   "fr": "Lors d'un raid elfe noir sur Sartosa, la pillarde Megara aborde par malheur le navire de Neferata. Ses compagnons sont dévorés par les goules, mais la vampire la laisse en vie et noue avec elle un accord de plusieurs siècles.",
+   "en": "During a Dark Elf raid on Sartosa, the raider Megara has the misfortune to attack Neferata's ship. Her companions are devoured by ghouls, but the vampire spares her and begins an arrangement that lasts for centuries.",
+   "de": "Bei einem dunkelelfischen Überfall auf Sartosa greift die Plünderin Megara unglücklicherweise Neferatas Schiff an. Ihre Gefährten werden von Ghulen gefressen, doch die Vampirin verschont sie und geht mit ihr ein jahrhundertelanges Abkommen ein."
+  },
+  "ere": "age-des-tribus",
+  "regions": [
+   "tilee-estalie"
+  ],
+  "lieux": [
+   "sartosa"
+  ],
+  "factions": [
+   "elfes-noirs",
+   "vampires"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Neferata, Josh Reynolds",
+     "en": "Neferata, Josh Reynolds",
+     "de": "Neferata, Josh Reynolds"
+    },
+    "detail": {
+     "fr": "chapitre 13",
+     "en": "chapter 13",
+     "de": "Kapitel 13"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Megara",
+     "en": "Warhammer Fantasy Wiki (fandom), Megara page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Megara"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Megara"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Sartosa",
+     "en": "Warhammer Fantasy Wiki (fandom), Sartosa page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Sartosa"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Sartosa"
+   }
+  ]
+ },
+ {
+  "id": "ariel-enquete-sur-le-mal",
+  "annee": -1054,
+  "fin": null,
+  "approx": true,
+  "titre": {
+   "fr": "Ariel enquête sur le mal d'Athel Loren",
+   "en": "Ariel investigates the blight on Athel Loren",
+   "de": "Ariel erforscht die Plage von Athel Loren"
+  },
+  "resume": {
+   "fr": "Une présence funeste s'éveille en Athel Loren sans que personne l'ait vue et vécu pour en parler. Ariel consulte les Anciens de la forêt et envoie ses meilleurs éclaireurs au loin pour apprendre la nature de ce qui se révélera être Morghur.",
+   "en": "A baleful presence awakens in Athel Loren, and no one who has seen it has lived to tell. Ariel consults the forest's Elders and sends her best scouts abroad to learn the nature of what will prove to be Morghur.",
+   "de": "In Athel Loren erwacht eine unheilvolle Macht, und niemand, der sie sah, überlebte. Ariel berät sich mit den Ältesten des Waldes und entsendet ihre besten Späher, um das Wesen dessen zu ergründen, was sich als Morghur erweisen wird."
+  },
+  "ere": "age-des-tribus",
+  "regions": [
+   "athel-loren"
+  ],
+  "lieux": [
+   "athel-loren"
+  ],
+  "factions": [
+   "elfes-sylvains",
+   "chaos"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Wood Elves, 8e édition",
+     "en": "Warhammer Armies: Wood Elves, 8th edition",
+     "de": "Warhammer Armies: Wood Elves, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 20",
+     "en": "p. 20",
+     "de": "S. 20"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Morghur",
+     "en": "Warhammer Fantasy Wiki (fandom), Morghur page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Morghur"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Morghur"
+   }
+  ]
+ },
+ {
+  "id": "megara-avertit-neferata",
+  "annee": -900,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Megara avertit Neferata",
+   "en": "Megara warns Neferata",
+   "de": "Megara warnt Neferata"
+  },
+  "resume": {
+   "fr": "Dans le Golfe Noir, Megara retrouve Neferata à bord de son Arche noire et l'avertit que les morts du Pays des Morts s'apprêtent à prendre la mer pour la chercher.",
+   "en": "In the Black Gulf, Megara meets Neferata aboard her Black Ark and warns her that the undead of the Land of the Dead are preparing to sail in search of her.",
+   "de": "Im Schwarzen Golf trifft Megara Neferata an Bord ihrer Schwarzen Arche und warnt sie, dass die Toten aus dem Land der Toten in See stechen wollen, um sie zu suchen."
+  },
+  "ere": "age-des-tribus",
+  "regions": [
+   "royaumes-frontaliers"
+  ],
+  "lieux": [],
+  "factions": [
+   "elfes-noirs",
+   "vampires",
+   "rois-des-tombes"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Neferata, Josh Reynolds",
+     "en": "Neferata, Josh Reynolds",
+     "de": "Neferata, Josh Reynolds"
+    },
+    "detail": {
+     "fr": "chapitre 16",
+     "en": "chapter 16",
+     "de": "Kapitel 16"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Megara",
+     "en": "Warhammer Fantasy Wiki (fandom), Megara page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Megara"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Megara"
+   }
+  ]
+ },
+ {
+  "id": "tour-blanche-a-mi-chantier",
+  "annee": -290,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "La Tour Blanche à mi-chantier",
+   "en": "The White Tower half built",
+   "de": "Der Weiße Turm halb vollendet"
+  },
+  "resume": {
+   "fr": "La Tour Blanche de Hoeth, commencée en -679, est à moitié achevée. Les Maîtres du Savoir ont formé une petite ville autour du chantier.",
+   "en": "The White Tower of Hoeth, begun in -679, is half finished. The Loremasters have formed a small town around the works.",
+   "de": "Der Weiße Turm von Hoeth, begonnen -679, ist zur Hälfte vollendet. Die Loremaster haben um die Baustelle eine kleine Stadt gebildet."
+  },
+  "ere": "age-des-tribus",
+  "regions": [
+   "ulthuan"
+  ],
+  "lieux": [
+   "tour-de-hoeth"
+  ],
+  "factions": [
+   "hauts-elfes"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "La chronologie du projet date la fondation de -691, cette source date le début des travaux de -679.",
+   "en": "The project's timeline dates the founding to -691, this source dates the start of work to -679.",
+   "de": "Die Chronologie des Projekts datiert die Gründung auf -691, diese Quelle den Baubeginn auf -679."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: High Elves, 7e édition",
+     "en": "Warhammer Armies: High Elves, 7th edition",
+     "de": "Warhammer Armies: High Elves, 7. Edition"
+    },
+    "detail": {
+     "fr": "p. 40",
+     "en": "p. 40",
+     "de": "S. 40"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Bel-Korhadris",
+     "en": "Warhammer Fantasy Wiki (fandom), Bel-Korhadris page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Bel-Korhadris"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Bel-Korhadris"
+   }
+  ]
+ },
+ {
+  "id": "ravager-of-souls-perdue",
+  "annee": -102,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "L'Arche noire Ravager of Souls perdue",
+   "en": "The Black Ark Ravager of Souls is lost",
+   "de": "Die Schwarze Arche Ravager of Souls geht verloren"
+  },
+  "resume": {
+   "fr": "L'Arche noire Ravager of Souls tombe aux mains de démons de Nurgle. Son sort ultérieur reste inconnu.",
+   "en": "The Black Ark Ravager of Souls falls into the hands of Daemons of Nurgle. Its later fate is unknown.",
+   "de": "Die Schwarze Arche Ravager of Souls fällt Dämonen des Nurgle in die Hände. Ihr weiteres Schicksal ist unbekannt."
+  },
+  "ere": "age-des-tribus",
+  "regions": [
+   "naggaroth"
+  ],
+  "lieux": [],
+  "factions": [
+   "elfes-noirs",
+   "chaos"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Le lieu n'est pas précisé. La région indique le pays d'origine de l'Arche.",
+   "en": "The location is not given. The region indicates the Ark's homeland.",
+   "de": "Der Ort wird nicht genannt. Die Region bezeichnet die Heimat der Arche."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Daemons of Chaos, 7e édition",
+     "en": "Warhammer Armies: Daemons of Chaos, 7th edition",
+     "de": "Warhammer Armies: Daemons of Chaos, 7. Edition"
+    },
+    "detail": {
+     "fr": "p. 27",
+     "en": "p. 27",
+     "de": "S. 27"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Black Ark",
+     "en": "Warhammer Fantasy Wiki (fandom), Black Ark page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Black Ark"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Black_Ark"
+   }
+  ]
+ },
+ {
+  "id": "achevement-tour-blanche-maitres-des-epees",
+  "annee": 497,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Tour Blanche achevée, ordre des Maîtres des Épées",
+   "en": "White Tower completed, Swordmasters founded",
+   "de": "Weißer Turm vollendet, Schwertmeister gegründet"
+  },
+  "resume": {
+   "fr": "Le chantier de la Tour Blanche de Hoeth s'achève et l'ordre des Maîtres des Épées de Hoeth est constitué à cette occasion. Bel-Korhadris meurt trois ans plus tard et il est enseveli dans les fondations.",
+   "en": "Work on the White Tower of Hoeth ends and the Order of the Swordmasters of Hoeth is formed on that occasion. Bel-Korhadris dies three years later and is buried among the foundations.",
+   "de": "Der Bau des Weißen Turms von Hoeth endet, und aus diesem Anlass entsteht der Orden der Schwertmeister von Hoeth. Bel-Korhadris stirbt drei Jahre später und wird in den Fundamenten beigesetzt."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "ulthuan"
+  ],
+  "lieux": [
+   "tour-de-hoeth"
+  ],
+  "factions": [
+   "hauts-elfes"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: High Elves, 7e édition",
+     "en": "Warhammer Armies: High Elves, 7th edition",
+     "de": "Warhammer Armies: High Elves, 7. Edition"
+    },
+    "detail": {
+     "fr": "p. 40",
+     "en": "p. 40",
+     "de": "S. 40"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Warhammer Armies: High Elves, 8e édition",
+     "en": "Warhammer Armies: High Elves, 8th edition",
+     "de": "Warhammer Armies: High Elves, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 23",
+     "en": "p. 23",
+     "de": "S. 23"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Bel-Korhadris",
+     "en": "Warhammer Fantasy Wiki (fandom), Bel-Korhadris page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Bel-Korhadris"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Bel-Korhadris"
+   }
+  ]
+ },
+ {
+  "id": "bataille-du-mont-fireheart",
+  "annee": 619,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Bataille du mont Fireheart",
+   "en": "Battle of Mount Fireheart",
+   "de": "Schlacht am Mount Fireheart"
+  },
+  "resume": {
+   "fr": "Le prince Elliriad affronte son demi-frère Vengril le Cruel sur les pentes volcaniques du mont Fireheart. Tiré de son sommeil par la sorcellerie de Vengril, Malificant l'Ancien surgit de son antre et rejette les Hauts Elfes à la mer.",
+   "en": "Prince Elliriad faces his half-brother Vengril the Cruel on the volcanic slopes of Mount Fireheart. Roused by Vengril's sorcery, Malificant the Ancient bursts from his lair and drives the High Elves into the sea.",
+   "de": "Prinz Elliriad stellt sich seinem Halbbruder Vengril dem Grausamen an den Vulkanhängen des Mount Fireheart. Von Vengrils Zauberei geweckt, bricht Malificant der Uralte aus seinem Hort hervor und treibt die Hochelfen ins Meer."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "ulthuan"
+  ],
+  "lieux": [],
+  "factions": [
+   "hauts-elfes",
+   "elfes-noirs"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Date elfique VII, 116, convertie par le wiki.",
+   "en": "Elven date VII, 116, converted by the wiki.",
+   "de": "Elfisches Datum VII, 116, umgerechnet durch das Wiki."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Fantasy Battle: Rulebook, 8e édition",
+     "en": "Warhammer Fantasy Battle: Rulebook, 8th edition",
+     "de": "Warhammer Fantasy Battle: Rulebook, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 176",
+     "en": "p. 176",
+     "de": "S. 176"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Battle of Mount Fireheart",
+     "en": "Warhammer Fantasy Wiki (fandom), Battle of Mount Fireheart page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Battle of Mount Fireheart"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Battle_of_Mount_Fireheart"
+   }
+  ]
+ },
+ {
+  "id": "eonir-allies-de-l-empire-1109",
+  "annee": 1109,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Les Eonir alliés de l'Empire",
+   "en": "The Eonir ally with the Empire",
+   "de": "Die Eonir verbünden sich mit dem Imperium"
+  },
+  "resume": {
+   "fr": "Quand la province voisine du Drakwald tombe aux Hommes-bêtes, les Elfes de la Laurelorn s'allient pour un temps à l'Empire et combattent à ses côtés.",
+   "en": "When the neighbouring province of Drakwald falls to Beastmen, the Elves of the Laurelorn briefly ally with the Empire and fight beside it.",
+   "de": "Als die benachbarte Provinz Drakwald an die Tiermenschen fällt, verbünden sich die Elfen des Laurelorn vorübergehend mit dem Imperium und kämpfen an seiner Seite."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "foret-de-laurelorn",
+   "foret-de-drakwald"
+  ],
+  "factions": [
+   "elfes-sylvains",
+   "empire",
+   "chaos"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Fantasy Roleplay 4th Edition: Archives of the Empire Vol. I",
+     "en": "Warhammer Fantasy Roleplay 4th Edition: Archives of the Empire Vol. I",
+     "de": "Warhammer Fantasy Roleplay 4th Edition: Archives of the Empire Vol. I"
+    },
+    "detail": {
+     "fr": "pp. 71-74",
+     "en": "pp. 71-74",
+     "de": "S. 71-74"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Laurelorn Forest",
+     "en": "Warhammer Fantasy Wiki (fandom), Laurelorn Forest page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Laurelorn Forest"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Laurelorn_Forest"
+   }
+  ]
+ },
+ {
+  "id": "mandred-traverse-la-laurelorn",
+  "annee": 1124,
+  "fin": null,
+  "approx": true,
+  "titre": {
+   "fr": "Mandred traverse la Laurelorn",
+   "en": "Mandred crosses the Laurelorn",
+   "de": "Mandred durchquert den Laurelorn"
+  },
+  "resume": {
+   "fr": "Les Eonir autorisent l'armée de Mandred le Tueur de rats à traverser leur forêt pour intercepter une invasion skaven.",
+   "en": "The Eonir allow the army of Mandred Skavenslayer to march through their forest to intercept a Skaven invasion.",
+   "de": "Die Eonir gestatten dem Heer Mandreds des Rattentöters den Marsch durch ihren Wald, um eine Invasion der Skaven abzufangen."
+  },
+  "ere": "empire-sigmarite",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "foret-de-laurelorn"
+  ],
+  "factions": [
+   "elfes-sylvains",
+   "empire",
+   "skavens"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Année déduite des quinze ans écoulés depuis 1109 selon la source.",
+   "en": "Year deduced from the fifteen years after 1109 given by the source.",
+   "de": "Jahr abgeleitet aus den laut Quelle fünfzehn Jahren nach 1109."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Fantasy Roleplay 4th Edition: Archives of the Empire Vol. I",
+     "en": "Warhammer Fantasy Roleplay 4th Edition: Archives of the Empire Vol. I",
+     "de": "Warhammer Fantasy Roleplay 4th Edition: Archives of the Empire Vol. I"
+    },
+    "detail": {
+     "fr": "pp. 71-74",
+     "en": "pp. 71-74",
+     "de": "S. 71-74"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Laurelorn Forest",
+     "en": "Warhammer Fantasy Wiki (fandom), Laurelorn Forest page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Laurelorn Forest"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Laurelorn_Forest"
+   }
+  ]
+ },
+ {
+  "id": "complot-de-sinestra",
+  "annee": 1681,
+  "fin": null,
+  "approx": true,
+  "titre": {
+   "fr": "Le complot de Sinestra",
+   "en": "Sinestra's plot",
+   "de": "Sinestras Verschwörung"
+  },
+  "resume": {
+   "fr": "L'archimage Sinestra, sœur de la reine Terrellia de la Laurelorn, s'entend avec le nécromancien Tormuk pour enlever la princesse Millandriell et prendre le pouvoir.",
+   "en": "The Archmage Sinestra, sister of Queen Terrellia of the Laurelorn, conspires with the necromancer Tormuk to abduct Princess Millandriell in a coup attempt.",
+   "de": "Die Erzmagierin Sinestra, Schwester von Königin Terrellia des Laurelorn, verschwört sich mit dem Nekromanten Tormuk, um Prinzessin Millandriell zu entführen und die Macht zu ergreifen."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "foret-de-laurelorn"
+  ],
+  "factions": [
+   "elfes-sylvains",
+   "vampires"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Fantasy Roleplay 4th Edition: Archives of the Empire Vol I",
+     "en": "Warhammer Fantasy Roleplay 4th Edition: Archives of the Empire Vol I",
+     "de": "Warhammer Fantasy Roleplay 4th Edition: Archives of the Empire Vol I"
+    },
+    "detail": {
+     "fr": "p. 75",
+     "en": "p. 75",
+     "de": "S. 75"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Eonir",
+     "en": "Warhammer Fantasy Wiki (fandom), Eonir page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Eonir"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Eonir"
+   }
+  ]
+ },
+ {
+  "id": "accords-forestiers-de-laurelorn",
+  "annee": 1700,
+  "fin": null,
+  "approx": true,
+  "titre": {
+   "fr": "Accords de coupe avec le Nordland",
+   "en": "Logging agreements with Nordland",
+   "de": "Holzabkommen mit dem Nordland"
+  },
+  "resume": {
+   "fr": "Les Eonir signent avec le comte électeur du Nordland leurs premiers accords forestiers. Des humains peuvent s'établir entre la Salz et la Demst, en nombre limité et avec l'aval des Elfes pour chaque nouvelle implantation.",
+   "en": "The Eonir sign their first logging agreements with the Elector Count of Nordland. Humans may settle between the Salz and the Demst, in limited numbers and with Elven approval for each new settlement.",
+   "de": "Die Eonir schließen mit dem Kurfürsten des Nordlands erste Holzabkommen. Menschen dürfen in begrenzter Zahl zwischen Salz und Demst siedeln, jede neue Siedlung bedarf der Zustimmung der Elfen."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "foret-de-laurelorn"
+  ],
+  "factions": [
+   "elfes-sylvains",
+   "empire"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Fantasy Roleplay 4th Edition: Archives of the Empire Vol I",
+     "en": "Warhammer Fantasy Roleplay 4th Edition: Archives of the Empire Vol I",
+     "de": "Warhammer Fantasy Roleplay 4th Edition: Archives of the Empire Vol I"
+    },
+    "detail": {
+     "fr": "p. 75",
+     "en": "p. 75",
+     "de": "S. 75"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Eonir",
+     "en": "Warhammer Fantasy Wiki (fandom), Eonir page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Eonir"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Eonir"
+   }
+  ]
+ },
+ {
+  "id": "laurelorn-reconnue-par-ulthuan",
+  "annee": 2001,
+  "fin": 2051,
+  "approx": true,
+  "titre": {
+   "fr": "Ulthuan reconnaît la Laurelorn",
+   "en": "Ulthuan recognises the Laurelorn",
+   "de": "Ulthuan erkennt den Laurelorn an"
+  },
+  "resume": {
+   "fr": "À la suite des voyages de Finubar, Ulthuan admet enfin l'indépendance de Tor Lithanel, des millénaires après sa sécession, et le dialogue reprend avec les Eonir.",
+   "en": "Following Finubar's voyages, Ulthuan at last accepts the independence of Tor Lithanel, millennia after its secession, and dialogue with the Eonir resumes.",
+   "de": "Nach Finubars Reisen erkennt Ulthuan endlich die Unabhängigkeit von Tor Lithanel an, Jahrtausende nach dessen Abspaltung, und der Austausch mit den Eonir beginnt wieder."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "empire",
+   "ulthuan"
+  ],
+  "lieux": [
+   "foret-de-laurelorn"
+  ],
+  "factions": [
+   "elfes-sylvains",
+   "hauts-elfes"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "La source donne seulement l'intervalle 2001 à 2051.",
+   "en": "The source gives only the range 2001 to 2051.",
+   "de": "Die Quelle nennt nur den Zeitraum 2001 bis 2051."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Fantasy Roleplay 4th Edition: Archives of the Empire Vol I",
+     "en": "Warhammer Fantasy Roleplay 4th Edition: Archives of the Empire Vol I",
+     "de": "Warhammer Fantasy Roleplay 4th Edition: Archives of the Empire Vol I"
+    },
+    "detail": {
+     "fr": "p. 75",
+     "en": "p. 75",
+     "de": "S. 75"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Eonir",
+     "en": "Warhammer Fantasy Wiki (fandom), Eonir page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Eonir"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Eonir"
+   }
+  ]
+ },
+ {
+  "id": "ambassade-sapherienne-d-altdorf",
+  "annee": 2150,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "L'ambassade saphérienne d'Altdorf",
+   "en": "The Sapherian Embassy in Altdorf",
+   "de": "Die saphyrische Gesandtschaft in Altdorf"
+  },
+  "resume": {
+   "fr": "Une ambassade de Saphery s'installe à Altdorf, bien avant les Collèges de magie. Faute de légation permanente de la cour de Lothern dans l'Empire, les diplomates du Roi Phénix y sont reçus.",
+   "en": "A Sapherian embassy is established in Altdorf, long before the Colleges of Magic. Since the court of Lothern has no permanent legation in the Empire, the Phoenix King's diplomats use it.",
+   "de": "In Altdorf entsteht eine Gesandtschaft Saphyrs, lange vor den Magierkollegien. Da der Hof von Lothern im Imperium keine ständige Vertretung hat, nutzen die Diplomaten des Phönixkönigs dieses Haus."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "altdorf"
+  ],
+  "factions": [
+   "hauts-elfes",
+   "empire"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Fantasy Roleplay 4th Edition: Altdorf - Crown of the Empire",
+     "en": "Warhammer Fantasy Roleplay 4th Edition: Altdorf - Crown of the Empire",
+     "de": "Warhammer Fantasy Roleplay 4th Edition: Altdorf - Crown of the Empire"
+    },
+    "detail": {
+     "fr": "p. 15",
+     "en": "p. 15",
+     "de": "S. 15"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Sapherian Embassy",
+     "en": "Warhammer Fantasy Wiki (fandom), Sapherian Embassy page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Sapherian Embassy"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Sapherian_Embassy"
+   }
+  ]
+ },
+ {
+  "id": "traite-d-amitie-et-de-commerce",
+  "annee": 2150,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Traité d'Amitié et de Commerce avec Marienburg",
+   "en": "Treaty of Amity and Commerce with Marienburg",
+   "de": "Vertrag über Freundschaft und Handel mit Marienburg"
+  },
+  "resume": {
+   "fr": "Le capitaine marchand Sullandiel Fartrader, qui proposait dès 2149 de choisir un partenaire humain plutôt que de rivaliser pour le commerce de Lustrie, obtient un traité avec Marienburg. La cité reçoit l'exclusivité du négoce avec Lothern et les Elfes occupent bientôt un quartier de la ville, Elftown.",
+   "en": "The wavemaster Sullandiel Fartrader, who proposed in 2149 to choose a human partner rather than compete for the Lustria trade, secures a treaty with Marienburg. The city gains exclusive trading rights with Lothern and Elves soon fill a quarter known as Elftown.",
+   "de": "Der Wellenmeister Sullandiel Fartrader, der 2149 vorschlug, einen menschlichen Partner zu wählen, statt um den Lustriahandel zu konkurrieren, erreicht einen Vertrag mit Marienburg. Die Stadt erhält das alleinige Handelsrecht mit Lothern, und Elfen beziehen bald ein Viertel namens Elftown."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "empire",
+   "ulthuan"
+  ],
+  "lieux": [
+   "marienburg",
+   "lothern"
+  ],
+  "factions": [
+   "hauts-elfes",
+   "empire"
+  ],
+  "importance": 2,
+  "fiabilite": "etabli",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Fantasy Roleplay 1st Edition: Marienburg: Sold Down the River",
+     "en": "Warhammer Fantasy Roleplay 1st Edition: Marienburg: Sold Down the River",
+     "de": "Warhammer Fantasy Roleplay 1st Edition: Marienburg: Sold Down the River"
+    },
+    "detail": {
+     "fr": "p. 19",
+     "en": "p. 19",
+     "de": "S. 19"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Warhammer Fantasy Roleplay 4th Edition: Sea of Claws",
+     "en": "Warhammer Fantasy Roleplay 4th Edition: Sea of Claws",
+     "de": "Warhammer Fantasy Roleplay 4th Edition: Sea of Claws"
+    },
+    "detail": {
+     "fr": "pp. 6-7",
+     "en": "pp. 6-7",
+     "de": "S. 6-7"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Sullandiel Fartrader",
+     "en": "Warhammer Fantasy Wiki (fandom), Sullandiel Fartrader page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Sullandiel Fartrader"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Sullandiel_Fartrader"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Sith Rionnasc'namishathir",
+     "en": "Warhammer Fantasy Wiki (fandom), Sith Rionnasc'namishathir page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Sith Rionnasc'namishathir"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Sith_Rionnasc'namishathir"
+   }
+  ]
+ },
+ {
+  "id": "perchoir-de-tor-koruali",
+  "annee": 2160,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Le perchoir de Tor Koruali",
+   "en": "The roost of Tor Koruali",
+   "de": "Der Horst von Tor Koruali"
+  },
+  "resume": {
+   "fr": "Un perchoir est bâti à Tor Koruali en Cothique et trois couples de rocs y sont amenés d'Eataine. La plupart des oiseaux s'y arrêtent à peine et regagnent leurs côtes natales.",
+   "en": "A roost is built at Tor Koruali in Cothique and three breeding pairs of rocs are brought from Eataine. Most of the birds barely pause there before returning to their native shores.",
+   "de": "In Tor Koruali in Cothique wird ein Horst errichtet und drei Zuchtpaare Rocks aus Eataine werden dorthin gebracht. Die meisten Vögel rasten nur kurz und kehren an ihre heimischen Küsten zurück."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "ulthuan"
+  ],
+  "lieux": [],
+  "factions": [
+   "hauts-elfes"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Fantasy Roleplay 4th Edition: Sea Wardens of Cothique",
+     "en": "Warhammer Fantasy Roleplay 4th Edition: Sea Wardens of Cothique",
+     "de": "Warhammer Fantasy Roleplay 4th Edition: Sea Wardens of Cothique"
+    },
+    "detail": {
+     "fr": "p. 47",
+     "en": "p. 47",
+     "de": "S. 47"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Tor Koruali",
+     "en": "Warhammer Fantasy Wiki (fandom), Tor Koruali page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Tor Koruali"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Tor_Koruali"
+   }
+  ]
+ },
+ {
+  "id": "tor-annan-brulee-par-n-kari",
+  "annee": 2173,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "N'Kari brûle Tor Annan",
+   "en": "N'Kari burns Tor Annan",
+   "de": "N'Kari brennt Tor Annan nieder"
+  },
+  "resume": {
+   "fr": "Délivré par la tempête qui abat une pierre levée déjà fissurée sur le mont Antorec, le Gardien des secrets N'Kari assiège et incendie Tor Annan, petite ville d'Yvresse tenue par le seigneur Eanith. Il poursuit ainsi sa vengeance contre le sang d'Aenarion.",
+   "en": "Freed by the storm that destroys a crumbling waystone on Mount Antorec, the Keeper of Secrets N'Kari besieges and burns Tor Annan, a small town of Yvresse held by Lord Eanith. He is pursuing his vengeance on the blood of Aenarion.",
+   "de": "Befreit durch den Sturm, der einen brüchigen Wegstein auf dem Berg Antorec zerstört, belagert der Hüter der Geheimnisse N'Kari die kleine Stadt Tor Annan in Yvresse unter Fürst Eanith und brennt sie nieder. So verfolgt er seine Rache am Blut Aenarions."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "ulthuan"
+  ],
+  "lieux": [],
+  "factions": [
+   "hauts-elfes",
+   "chaos"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Date elfique XI, 10, convertie par le wiki.",
+   "en": "Elven date XI, 10, converted by the wiki.",
+   "de": "Elfisches Datum XI, 10, umgerechnet durch das Wiki."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Tor Annan",
+     "en": "Warhammer Fantasy Wiki (fandom), Tor Annan page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Tor Annan"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Tor_Annan"
+   }
+  ]
+ },
+ {
+  "id": "bataille-du-marais-gemissant",
+  "annee": 2260,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Bataille de Wailing Fen",
+   "en": "Battle of Wailing Fen",
+   "de": "Schlacht am Wailing Fen"
+  },
+  "resume": {
+   "fr": "Des démons du Chaos prennent pied sur les rivages d'Yvresse. Le seigneur Moranion lève une armée et les écrase à Wailing Fen.",
+   "en": "Daemons of Chaos gain a foothold on the shores of Yvresse. Lord Moranion raises an army and defeats them at Wailing Fen.",
+   "de": "Dämonen des Chaos fassen an den Küsten von Yvresse Fuß. Fürst Moranion stellt ein Heer auf und besiegt sie am Wailing Fen."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "ulthuan"
+  ],
+  "lieux": [],
+  "factions": [
+   "hauts-elfes",
+   "chaos"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Date elfique XI, 97, convertie par le wiki.",
+   "en": "Elven date XI, 97, converted by the wiki.",
+   "de": "Elfisches Datum XI, 97, umgerechnet durch das Wiki."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: High Elves, 8e édition",
+     "en": "Warhammer Armies: High Elves, 8th edition",
+     "de": "Warhammer Armies: High Elves, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 28",
+     "en": "p. 28",
+     "de": "S. 28"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Moranion",
+     "en": "Warhammer Fantasy Wiki (fandom), Moranion page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Moranion"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Moranion"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Battle of Wailing Fen",
+     "en": "Warhammer Fantasy Wiki (fandom), Battle of Wailing Fen page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Battle of Wailing Fen"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Battle_of_Wailing_Fen"
+   }
+  ]
+ },
+ {
+  "id": "tor-anrok-enterree-vive",
+  "annee": 2276,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Le massacre de Tor Anrok",
+   "en": "The massacre of Tor Anrok",
+   "de": "Das Massaker von Tor Anrok"
+  },
+  "resume": {
+   "fr": "Cherchant le corps du roi Septhah, le prêtre liche Ashurtak somme la tour haute elfe de Tor Anrok, qui abrite des réfugiés humains. La commandante tombe sous la lame du prince Apophas et la garnison de la Garde maritime de Lothern est entraînée sous terre et ensevelie vivante. Le corps de Septhah n'y est pas.",
+   "en": "Searching for the body of King Septhah, the Liche Priest Ashurtak challenges the High Elf tower of Tor Anrok, which shelters human refugees. Its commander falls to Prince Apophas and the Lothern Sea Guard garrison is dragged underground and entombed alive. Septhah's body is not there.",
+   "de": "Auf der Suche nach dem Leichnam König Septhahs fordert der Lichepriester Ashurtak den hochelfischen Turm Tor Anrok heraus, der menschlichen Flüchtlingen Schutz bietet. Die Befehlshaberin fällt durch Prinz Apophas, die Besatzung der Seegarde von Lothern wird unter die Erde gezogen und lebendig begraben. Septhahs Leichnam ist nicht dort."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "terres-arides"
+  ],
+  "lieux": [],
+  "factions": [
+   "rois-des-tombes",
+   "hauts-elfes"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer The Old World: Arcane Journal - Tomb Kings of Khemri",
+     "en": "Warhammer The Old World: Arcane Journal - Tomb Kings of Khemri",
+     "de": "Warhammer The Old World: Arcane Journal - Tomb Kings of Khemri"
+    },
+    "detail": {
+     "fr": "pp. 15-16",
+     "en": "pp. 15-16",
+     "de": "S. 15-16"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Tor Anrok",
+     "en": "Warhammer Fantasy Wiki (fandom), Tor Anrok page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Tor Anrok"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Tor_Anrok"
+   }
+  ]
+ },
+ {
+  "id": "nuit-de-la-mort-maison-temendros",
+  "annee": 2290,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "La trahison de la maison Temendros",
+   "en": "The betrayal of House Temendros",
+   "de": "Der Verrat am Haus Temendros"
+  },
+  "resume": {
+   "fr": "Une Nuit de la Mort à Hag Graef, la maison vassale Morandor ouvre une porte de la tour des Temendros. Des Furies de Khaine y entrent et massacrent tous ses occupants.",
+   "en": "On Death Night in Hag Graef, the vassal House Morandor betrays House Temendros. Bands of Witch Elves enter its tower through an unsecured door and slaughter everyone inside.",
+   "de": "In einer Todesnacht in Hag Graef verrät das Vasallenhaus Morandor das Haus Temendros. Hexenelfen dringen durch eine ungesicherte Tür in dessen Turm ein und töten alle darin."
+  },
+  "ere": "trois-empereurs",
+  "regions": [
+   "naggaroth"
+  ],
+  "lieux": [
+   "hag-graef"
+  ],
+  "factions": [
+   "elfes-noirs"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Fantasy Roleplay 4th Edition: Temple of Spite",
+     "en": "Warhammer Fantasy Roleplay 4th Edition: Temple of Spite",
+     "de": "Warhammer Fantasy Roleplay 4th Edition: Temple of Spite"
+    },
+    "detail": {
+     "fr": "p. 69",
+     "en": "p. 69",
+     "de": "S. 69"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Valerion's Blackswords",
+     "en": "Warhammer Fantasy Wiki (fandom), Valerion's Blackswords page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Valerion's Blackswords"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Valerion's_Blackswords"
+   }
+  ]
+ },
+ {
+  "id": "marrisith-envoie-melinda-greyweave",
+  "annee": 2304,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Melinda Greyweave espionne les Collèges",
+   "en": "Melinda Greyweave spies on the Colleges",
+   "de": "Melinda Greyweave bespitzelt die Kollegien"
+  },
+  "resume": {
+   "fr": "Inquiète de voir Teclis fonder les Collèges de magie à Altdorf, sur un puissant nœud de magie, Marrisith, reine de la Laurelorn, y envoie Melinda Greyweave surveiller les progrès des magisters humains et de leurs maîtres elfes.",
+   "en": "Troubled that Teclis has founded the Colleges of Magic on a powerful Arcane Fulcrum at Altdorf, Marrisith, Queen of the Laurelorn, sends Melinda Greyweave to watch the progress of the human Magisters and their Elven tutors.",
+   "de": "Beunruhigt, dass Teclis die Magierkollegien in Altdorf auf einem mächtigen arkanen Knotenpunkt gegründet hat, schickt Marrisith, Königin des Laurelorn, Melinda Greyweave, um die Fortschritte der menschlichen Magister und ihrer elfischen Lehrer zu beobachten."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "altdorf",
+   "foret-de-laurelorn"
+  ],
+  "factions": [
+   "elfes-sylvains",
+   "hauts-elfes",
+   "empire"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Fantasy Roleplay 4th Edition: Altdorf - Crown of the Empire",
+     "en": "Warhammer Fantasy Roleplay 4th Edition: Altdorf - Crown of the Empire",
+     "de": "Warhammer Fantasy Roleplay 4th Edition: Altdorf - Crown of the Empire"
+    },
+    "detail": {
+     "fr": "p. 166",
+     "en": "p. 166",
+     "de": "S. 166"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Melinda Greyweave",
+     "en": "Warhammer Fantasy Wiki (fandom), Melinda Greyweave page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Melinda Greyweave"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Melinda_Greyweave"
+   }
+  ]
+ },
+ {
+  "id": "eldyra-rejetee-par-la-cour",
+  "annee": 2340,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Eldyra éconduite par la cour",
+   "en": "Eldyra spurned by the court",
+   "de": "Eldyra vom Hof verschmäht"
+  },
+  "resume": {
+   "fr": "La princesse Eldyra, benjamine du héros Eldyr, reprend l'épée de son père et se présente à la cour du Phénix. Finubar, absorbé par ses études, ne la reçoit pas, les courtisans se moquent d'elle et elle s'enfuit humiliée.",
+   "en": "Princess Eldyra, youngest daughter of the fallen hero Eldyr, takes up her father's sword and presents herself at the Phoenix Court. Finubar, deep in study, will not see her, the courtiers mock her and she flees in shame.",
+   "de": "Prinzessin Eldyra, die jüngste Tochter des gefallenen Helden Eldyr, ergreift das Schwert ihres Vaters und tritt vor den Phönixhof. Finubar, in Studien vertieft, empfängt sie nicht, die Höflinge verspotten sie, und sie flieht beschämt."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "ulthuan"
+  ],
+  "lieux": [
+   "lothern"
+  ],
+  "factions": [
+   "hauts-elfes"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Date elfique XI, 177. Conversion faite sur la base de XI, 176 = 2339 donnée par le wiki.",
+   "en": "Elven date XI, 177. Converted from XI, 176 = 2339 as given by the wiki.",
+   "de": "Elfisches Datum XI, 177. Umrechnung ausgehend von XI, 176 = 2339 laut Wiki."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: High Elves, 8e édition",
+     "en": "Warhammer Armies: High Elves, 8th edition",
+     "de": "Warhammer Armies: High Elves, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 30",
+     "en": "p. 30",
+     "de": "S. 30"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Eldyra",
+     "en": "Warhammer Fantasy Wiki (fandom), Eldyra page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Eldyra"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Eldyra"
+   }
+  ]
+ },
+ {
+  "id": "caradryan-capitaine-garde-phenix",
+  "annee": 2384,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Caradryan capitaine de la Garde Phénix",
+   "en": "Caradryan becomes Captain of the Phoenix Guard",
+   "de": "Caradryan wird Hauptmann der Phönixgarde"
+  },
+  "resume": {
+   "fr": "La main d'Asuryan marque Caradryan, qui reçoit le commandement de la Garde Phénix. Son prédécesseur Moraelir s'efface conformément à la volonté du dieu.",
+   "en": "The hand of Asuryan marks Caradryan as captain of the Phoenix Guard. His predecessor Moraelir steps aside in accordance with the god's will.",
+   "de": "Die Hand Asuryans zeichnet Caradryan als Hauptmann der Phönixgarde aus. Sein Vorgänger Moraelir tritt dem Willen des Gottes gemäß zurück."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "ulthuan"
+  ],
+  "lieux": [
+   "sanctuaire-d-asuryan"
+  ],
+  "factions": [
+   "hauts-elfes"
+  ],
+  "importance": 2,
+  "fiabilite": "etabli",
+  "note": {
+   "fr": "221e année de Finubar, convertie par le wiki.",
+   "en": "221st year of Finubar's reign, converted by the wiki.",
+   "de": "221. Regierungsjahr Finubars, umgerechnet durch das Wiki."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: High Elves, 8e édition",
+     "en": "Warhammer Armies: High Elves, 8th edition",
+     "de": "Warhammer Armies: High Elves, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 61",
+     "en": "p. 61",
+     "de": "S. 61"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Warhammer Armies: High Elves, 7e édition",
+     "en": "Warhammer Armies: High Elves, 7th edition",
+     "de": "Warhammer Armies: High Elves, 7. Edition"
+    },
+    "detail": {
+     "fr": "p. 41",
+     "en": "p. 41",
+     "de": "S. 41"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Caradryan",
+     "en": "Warhammer Fantasy Wiki (fandom), Caradryan page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Caradryan"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Caradryan"
+   }
+  ]
+ },
+ {
+  "id": "lokhir-rase-tor-canabrae",
+  "annee": 2387,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Lokhir Fellheart rase Tor Canabrae",
+   "en": "Lokhir Fellheart razes Tor Canabrae",
+   "de": "Lokhir Fellheart zerstört Tor Canabrae"
+  },
+  "resume": {
+   "fr": "Lokhir Fellheart s'abat sur le port de Tor Canabrae, en Eataine, et le détruit en une seule nuit.",
+   "en": "Lokhir Fellheart falls on the port of Tor Canabrae in Eataine and destroys it in a single night.",
+   "de": "Lokhir Fellheart überfällt den Hafen Tor Canabrae in Eataine und vernichtet ihn in einer einzigen Nacht."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "ulthuan"
+  ],
+  "lieux": [],
+  "factions": [
+   "elfes-noirs",
+   "hauts-elfes"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "White Dwarf 37",
+     "en": "White Dwarf 37",
+     "de": "White Dwarf 37"
+    },
+    "detail": {
+     "fr": "p. 80",
+     "en": "p. 80",
+     "de": "S. 80"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Lokhir Fellheart",
+     "en": "Warhammer Fantasy Wiki (fandom), Lokhir Fellheart page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Lokhir Fellheart"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Lokhir_Fellheart"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Eataine",
+     "en": "Warhammer Fantasy Wiki (fandom), Eataine page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Eataine"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Eataine"
+   }
+  ]
+ },
+ {
+  "id": "emeute-anti-elfes-de-marienburg",
+  "annee": 2391,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Émeute contre les Elfes à Marienburg",
+   "en": "Anti-Elf riot in Marienburg",
+   "de": "Aufruhr gegen die Elfen in Marienburg"
+  },
+  "resume": {
+   "fr": "Accusés d'avoir arrêté et emprisonné sommairement un habitant du Suiddock, les Elfes de Marienburg sont pris à partie par la foule et plusieurs sont tués avant le retour au calme.",
+   "en": "Accused of the summary arrest and imprisonment of a Suiddock resident, the Elves of Marienburg are set upon by the crowd and several are killed before order returns.",
+   "de": "Die Elfen von Marienburg werden beschuldigt, einen Bewohner des Suiddock kurzerhand verhaftet und eingesperrt zu haben. Die Menge fällt über sie her, und mehrere werden getötet, bevor wieder Ruhe einkehrt."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "empire"
+  ],
+  "lieux": [
+   "marienburg"
+  ],
+  "factions": [
+   "hauts-elfes",
+   "empire"
+  ],
+  "importance": 1,
+  "fiabilite": "divergent",
+  "note": {
+   "fr": "Une autre section de la page évoque l'exécution de deux hommes qui avaient tué un Elfe comme cause de l'émeute.",
+   "en": "Another section of the page gives the execution of two men who had killed an Elf as the cause of the riot.",
+   "de": "Ein anderer Abschnitt der Seite nennt die Hinrichtung zweier Männer, die einen Elfen getötet hatten, als Ursache des Aufruhrs."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Fantasy Roleplay 4th Edition: Sea of Claws",
+     "en": "Warhammer Fantasy Roleplay 4th Edition: Sea of Claws",
+     "de": "Warhammer Fantasy Roleplay 4th Edition: Sea of Claws"
+    },
+    "detail": {
+     "fr": "pp. 6-7",
+     "en": "pp. 6-7",
+     "de": "S. 6-7"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Warhammer Fantasy Roleplay 1st Edition: Marienburg - Sold Down the River",
+     "en": "Warhammer Fantasy Roleplay 1st Edition: Marienburg - Sold Down the River",
+     "de": "Warhammer Fantasy Roleplay 1st Edition: Marienburg - Sold Down the River"
+    },
+    "detail": {
+     "fr": "p. 21",
+     "en": "p. 21",
+     "de": "S. 21"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Sith Rionnasc'namishathir",
+     "en": "Warhammer Fantasy Wiki (fandom), Sith Rionnasc'namishathir page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Sith Rionnasc'namishathir"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Sith_Rionnasc'namishathir"
+   }
+  ]
+ },
+ {
+  "id": "offrandes-de-lustrie-a-morathi",
+  "annee": 2391,
+  "fin": 2401,
+  "approx": false,
+  "titre": {
+   "fr": "Les sacrifices de Lustrie et le Slann de Morathi",
+   "en": "The Lustrian sacrifices and Morathi's Slann",
+   "de": "Die lustrischen Opfer und Morathis Slann"
+  },
+  "resume": {
+   "fr": "Sans signe de Malekith depuis un siècle, Morathi promet une récompense à qui lui rapportera des proies exotiques de Lustrie. Des milliers d'Elfes noirs périssent à capturer Skinks, Coatls et Bastiladons, jusqu'au sacrifice à Ghrond d'un Slann enlevé à Tlanxla, qui lui donne enfin sa réponse.",
+   "en": "With no sign of Malekith for a century, Morathi offers a reward for exotic prey from Lustria. Thousands of Dark Elves die capturing Skinks, Coatls and Bastiladons, until a Slann seized at Tlanxla is sacrificed at Ghrond and gives her the answer she seeks.",
+   "de": "Da es seit einem Jahrhundert kein Zeichen von Malekith gibt, setzt Morathi Belohnungen für exotische Beute aus Lustria aus. Tausende Dunkelelfen sterben beim Fang von Skinks, Coatls und Bastiladons, bis ein in Tlanxla geraubter Slann in Ghrond geopfert wird und ihr die ersehnte Antwort bringt."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "naggaroth",
+   "lustrie"
+  ],
+  "lieux": [
+   "ghrond",
+   "tlanxla"
+  ],
+  "factions": [
+   "elfes-noirs",
+   "hommes-lezards"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Date elfique VII, 90, début donné par le wiki. La page Morathi date le sacrifice de VII, 102 (2401), alors que la page Plunder in the Jungle compte douze ans.",
+   "en": "Elven date VII, 90, start as given by the wiki. The Morathi page dates the sacrifice to VII, 102 (2401), while the Plunder in the Jungle page counts twelve years.",
+   "de": "Elfisches Datum VII, 90, Beginn laut Wiki. Die Seite Morathi datiert das Opfer auf VII, 102 (2401), die Seite Plunder in the Jungle zählt zwölf Jahre."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Dark Elves, 8e édition",
+     "en": "Warhammer Armies: Dark Elves, 8th edition",
+     "de": "Warhammer Armies: Dark Elves, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 28",
+     "en": "p. 28",
+     "de": "S. 28"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Plunder in the Jungle",
+     "en": "Warhammer Fantasy Wiki (fandom), Plunder in the Jungle page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Plunder in the Jungle"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Plunder_in_the_Jungle"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Morathi",
+     "en": "Warhammer Fantasy Wiki (fandom), Morathi page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Morathi"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Morathi"
+   }
+  ]
+ },
+ {
+  "id": "ombres-en-chrace-2402",
+  "annee": 2402,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Les Ombres en Chrace",
+   "en": "Shades in Chrace",
+   "de": "Schatten in Chrace"
+  },
+  "resume": {
+   "fr": "Des Ombres elfes noires harcèlent la Chrace pendant toute une année avant que les Lions Blancs n'en abattent la plupart.",
+   "en": "Dark Elf Shades torment Chrace for a full year before most of them are slain by the White Lions.",
+   "de": "Dunkelelfische Schatten plagen Chrace ein ganzes Jahr lang, bis die Weißen Löwen die meisten von ihnen töten."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "ulthuan"
+  ],
+  "lieux": [
+   "tor-achare"
+  ],
+  "factions": [
+   "hauts-elfes",
+   "elfes-noirs"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Dark Elves, 7e édition",
+     "en": "Warhammer Armies: Dark Elves, 7th edition",
+     "de": "Warhammer Armies: Dark Elves, 7. Edition"
+    },
+    "detail": {
+     "fr": "p. 33",
+     "en": "p. 33",
+     "de": "S. 33"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Chrace",
+     "en": "Warhammer Fantasy Wiki (fandom), Chrace page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Chrace"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Chrace"
+   }
+  ]
+ },
+ {
+  "id": "destruction-de-tor-elasor",
+  "annee": 2408,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Destruction de Tor Elasor",
+   "en": "Destruction of Tor Elasor",
+   "de": "Zerstörung von Tor Elasor"
+  },
+  "resume": {
+   "fr": "Sur ordre du Roi-Sorcier, Lokhir Fellheart attaque cette colonie haute elfe lointaine. La Tour de l'Effroi Béni et l'Immortelle Agonie ouvrent les murs à l'aube, la cité est en ruine au crépuscule, et le gouverneur Datherion est cloué vivant au sommet du donjon.",
+   "en": "On the Witch King's order, Lokhir Fellheart attacks this distant High Elf colony. The Black Arks Tower of Blessed Dread and Immortal Agony breach the walls at dawn, the city is a ruin by dusk, and its warden Prince Datherion is nailed alive to the top of the keep.",
+   "de": "Auf Befehl des Hexenkönigs greift Lokhir Fellheart diese ferne hochelfische Kolonie an. Die Schwarzen Archen Tower of Blessed Dread und Immortal Agony brechen im Morgengrauen die Mauern, in der Dämmerung liegt die Stadt in Trümmern, und ihr Wächter Prinz Datherion wird lebend an die Spitze des Bergfrieds genagelt."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "ulthuan"
+  ],
+  "lieux": [],
+  "factions": [
+   "elfes-noirs",
+   "hauts-elfes"
+  ],
+  "importance": 2,
+  "fiabilite": "etabli",
+  "note": {
+   "fr": "Date elfique VII, 108. La région indique l'appartenance de la colonie à Ulthuan, son site étant une île lointaine.",
+   "en": "Elven date VII, 108. The region reflects the colony's allegiance to Ulthuan, its site being a distant island.",
+   "de": "Elfisches Datum VII, 108. Die Region gibt die Zugehörigkeit der Kolonie zu Ulthuan an, ihr Ort ist eine ferne Insel."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Dark Elves, 8e édition",
+     "en": "Warhammer Armies: Dark Elves, 8th edition",
+     "de": "Warhammer Armies: Dark Elves, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 28",
+     "en": "p. 28",
+     "de": "S. 28"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Warhammer Fantasy Roleplay 4th Edition: High Elf Players Guide",
+     "en": "Warhammer Fantasy Roleplay 4th Edition: High Elf Players Guide",
+     "de": "Warhammer Fantasy Roleplay 4th Edition: High Elf Players Guide"
+    },
+    "detail": {
+     "fr": "p. 31",
+     "en": "p. 31",
+     "de": "S. 31"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Tor Elasor",
+     "en": "Warhammer Fantasy Wiki (fandom), Tor Elasor page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Tor Elasor"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Tor_Elasor"
+   }
+  ]
+ },
+ {
+  "id": "reconquete-des-terres-d-ombre-melenar",
+  "annee": 2413,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Melenar part reconquérir les Terres d'Ombre",
+   "en": "Melenar sets out to reconquer the Shadowlands",
+   "de": "Melenar zieht zur Rückeroberung der Schattenlande aus"
+  },
+  "resume": {
+   "fr": "Réunis à Lothern, les princes décident de reprendre Nagarythe et en chargent Melenar de la maison Coraith. Il y établit une place forte, gagne l'alliance des Guerriers des Ombres et repousse les Elfes noirs vers le nord au fil des années.",
+   "en": "Gathered at Lothern, the princes resolve to retake Nagarythe and entrust the task to Melenar of House Coraith. He builds a stronghold there, wins the alliance of the Shadow Warriors and drives the Dark Elves north over the years that follow.",
+   "de": "In Lothern beschließen die Fürsten, Nagarythe zurückzuerobern, und betrauen Melenar vom Haus Coraith damit. Er errichtet dort eine Feste, gewinnt die Schattenkrieger als Verbündete und drängt die Dunkelelfen in den folgenden Jahren nach Norden."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "ulthuan"
+  ],
+  "lieux": [
+   "lothern"
+  ],
+  "factions": [
+   "hauts-elfes",
+   "elfes-noirs"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Date elfique XI, 250, convertie par le wiki.",
+   "en": "Elven date XI, 250, converted by the wiki.",
+   "de": "Elfisches Datum XI, 250, umgerechnet durch das Wiki."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Fantasy Battles 5th Edition: Tears of Isha",
+     "en": "Warhammer Fantasy Battles 5th Edition: Tears of Isha",
+     "de": "Warhammer Fantasy Battles 5th Edition: Tears of Isha"
+    },
+    "detail": {
+     "fr": "p. 6",
+     "en": "p. 6",
+     "de": "S. 6"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Reconquest of the Shadowlands",
+     "en": "Warhammer Fantasy Wiki (fandom), Reconquest of the Shadowlands page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Reconquest of the Shadowlands"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Reconquest_of_the_Shadowlands"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Melenar",
+     "en": "Warhammer Fantasy Wiki (fandom), Melenar page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Melenar"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Melenar"
+   }
+  ]
+ },
+ {
+  "id": "defi-de-lokhir-et-dastan-coldeye",
+  "annee": 2483,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Le défi de Lokhir et Dastan Coldeye",
+   "en": "The wager of Lokhir and Dastan Coldeye",
+   "de": "Die Wette von Lokhir und Dastan Coldeye"
+  },
+  "resume": {
+   "fr": "Les capitaines corsaires se donnent un an pour piller, l'un l'Ostland, l'autre le Nordland. Distancé après la prise d'une flotte impériale à Debneitz, Lokhir dénonce son rival au roi Akkateph de Zandri, dont les dhows coulent l'Arche de Coldeye. Vaincu, celui-ci est sacrifié avec sa famille à Mathlann et Loec.",
+   "en": "The Corsair captains give themselves a year to plunder, one Ostland, the other Nordland. Falling behind after Coldeye takes an Empire fleet at Debneitz, Lokhir informs King Akkateph of Zandri, whose dhows sink Coldeye's Ark. Beaten, Coldeye and his family are sacrificed to Mathlann and Loec.",
+   "de": "Die Korsarenkapitäne geben sich ein Jahr zum Plündern, der eine in Ostland, der andere in Nordland. Als Coldeye bei Debneitz eine kaiserliche Flotte erbeutet und Lokhir zurückfällt, verrät dieser ihn an König Akkateph von Zandri, dessen Dhaus Coldeyes Arche versenken. Der Besiegte wird mit seiner Familie Mathlann und Loec geopfert."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "empire",
+   "sud"
+  ],
+  "lieux": [
+   "zandri"
+  ],
+  "factions": [
+   "elfes-noirs",
+   "empire",
+   "rois-des-tombes"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "Date elfique VII, 183, convertie par le wiki.",
+   "en": "Elven date VII, 183, converted by the wiki.",
+   "de": "Elfisches Datum VII, 183, umgerechnet durch das Wiki."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Dark Elves, 8e édition",
+     "en": "Warhammer Armies: Dark Elves, 8th edition",
+     "de": "Warhammer Armies: Dark Elves, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 31",
+     "en": "p. 31",
+     "de": "S. 31"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page A Game of Reavers",
+     "en": "Warhammer Fantasy Wiki (fandom), A Game of Reavers page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite A Game of Reavers"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/A_Game_of_Reavers"
+   }
+  ]
+ },
+ {
+  "id": "expedition-au-tombeau-d-anurell",
+  "annee": 2493,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "L'expédition au tombeau d'Anurell",
+   "en": "The expedition to Anurell's tomb",
+   "de": "Die Expedition zum Grab Anurells"
+  },
+  "resume": {
+   "fr": "Le seigneur Dramalliel conduit une troupe de la Forteresse de l'Aube vers un monolithe au sud de la Plaine des Os, à la recherche du corps de l'explorateur Anurell et de la Pierre de navigation. L'avant-garde d'Eldril, dont fait partie Imrallion, attaquée par des hobgobelins et une force de Nains du Chaos, n'est sauvée que par l'arrivée du gros de l'armée.",
+   "en": "Lord Dramalliel leads a force from the Fortress of Dawn to a monolith south of the Plain of Bones, seeking the body of the explorer Anurell and the Navigation Stone. The vanguard under Eldril, which includes Imrallion, attacked by hobgoblins and a Chaos Dwarf force, is saved only by the arrival of the main army.",
+   "de": "Fürst Dramalliel führt eine Truppe von der Festung der Morgenröte zu einem Monolithen südlich der Knochenebene, um den Leichnam des Entdeckers Anurell und den Navigationsstein zu bergen. Die Vorhut unter Eldril, zu der Imrallion gehört, von Hobgoblins und Chaoszwergen angegriffen, wird erst durch das Hauptheer gerettet."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "sud"
+  ],
+  "lieux": [
+   "forteresse-de-l-aube"
+  ],
+  "factions": [
+   "hauts-elfes",
+   "chaos"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "White Dwarf Presents: Warhammer Chaos Dwarfs",
+     "en": "White Dwarf Presents: Warhammer Chaos Dwarfs",
+     "de": "White Dwarf Presents: Warhammer Chaos Dwarfs"
+    },
+    "detail": {
+     "fr": "pp. 19-35",
+     "en": "pp. 19-35",
+     "de": "S. 19-35"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Dramalliel",
+     "en": "Warhammer Fantasy Wiki (fandom), Dramalliel page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Dramalliel"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Dramalliel"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Imrallion",
+     "en": "Warhammer Fantasy Wiki (fandom), Imrallion page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Imrallion"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Imrallion"
+   }
+  ]
+ },
+ {
+  "id": "bataille-de-la-riviere-du-crane",
+  "annee": 2497,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Bataille de la rivière du Crâne",
+   "en": "Battle of Skull River",
+   "de": "Schlacht am Schädelfluss"
+  },
+  "resume": {
+   "fr": "Comme chaque siècle depuis l'assassinat d'un sorcier-prophète, les Nains du Chaos marchent contre des Elfes sylvains. L'armée de Vraznak et Zochaz brûle leurs forêts et écrase l'ost de Beltharion, malgré deux Hommes-arbres, près des sources de la rivière du Crâne.",
+   "en": "As in every century since a sorcerer-prophet's assassination, the Chaos Dwarfs march against the Wood Elves. The army of Vraznak and Zochaz burns their forests and crushes Beltharion's host, two Treemen included, near the source of the Skull River.",
+   "de": "Wie in jedem Jahrhundert seit der Ermordung eines Zauberpropheten ziehen die Chaoszwerge gegen Waldelfen. Das Heer Vraznaks und Zochaz' brennt ihre Wälder nieder und zerschlägt Beltharions Streitmacht samt zweier Baummenschen nahe der Quelle des Schädelflusses."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "royaumes-frontaliers"
+  ],
+  "lieux": [],
+  "factions": [
+   "elfes-sylvains",
+   "chaos"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": {
+   "fr": "La source ne nomme pas la forêt. Le wiki pense à la forêt des Ténèbres, alors tenue par des Gobelins des forêts.",
+   "en": "The source does not name the forest. The wiki suggests the Forest of Gloom, by then held by Forest Goblins.",
+   "de": "Die Quelle nennt den Wald nicht. Das Wiki vermutet den Düsterwald, der damals Waldgoblins gehörte."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "White Dwarf 170",
+     "en": "White Dwarf 170",
+     "de": "White Dwarf 170"
+    },
+    "detail": {
+     "fr": "pp. 50-67",
+     "en": "pp. 50-67",
+     "de": "S. 50-67"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Battle of Skull River",
+     "en": "Warhammer Fantasy Wiki (fandom), Battle of Skull River page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Battle of Skull River"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Battle_of_Skull_River"
+   }
+  ]
+ },
+ {
+  "id": "mutinerie-du-temple-of-spite",
+  "annee": 2507,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Mutinerie sur le Temple of Spite",
+   "en": "Mutiny on the Temple of Spite",
+   "de": "Meuterei auf der Temple of Spite"
+  },
+  "resume": {
+   "fr": "Une faction puissante de l'Arche noire Temple of Spite, au service de Clar Karond, tente de renverser le maître de flotte Duriath Helbane. La corsaire Malida Redthorn trahit le complot et gagne ainsi sa faveur.",
+   "en": "A powerful faction aboard the Black Ark Temple of Spite, in the service of Clar Karond, tries to overthrow Fleetmaster Duriath Helbane. The corsair Malida Redthorn betrays the plot and wins his favour.",
+   "de": "Eine mächtige Gruppe auf der Schwarzen Arche Temple of Spite im Dienst von Clar Karond versucht, Flottenmeister Duriath Helbane zu stürzen. Die Korsarin Malida Redthorn verrät das Komplott und gewinnt so seine Gunst."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "naggaroth"
+  ],
+  "lieux": [
+   "clar-karond"
+  ],
+  "factions": [
+   "elfes-noirs"
+  ],
+  "importance": 1,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Fantasy Roleplay 4th Edition: Temple of Spite",
+     "en": "Warhammer Fantasy Roleplay 4th Edition: Temple of Spite",
+     "de": "Warhammer Fantasy Roleplay 4th Edition: Temple of Spite"
+    },
+    "detail": {
+     "fr": "p. 15",
+     "en": "p. 15",
+     "de": "S. 15"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Malida Redthorn",
+     "en": "Warhammer Fantasy Wiki (fandom), Malida Redthorn page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Malida Redthorn"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Malida_Redthorn"
+   }
+  ]
+ },
+ {
+  "id": "chute-d-elisia-et-tor-dynal",
+  "annee": 2522,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Chute d'Elisia et de Tor Dynal",
+   "en": "Fall of Elisia and Tor Dynal",
+   "de": "Fall von Elisia und Tor Dynal"
+  },
+  "resume": {
+   "fr": "À la fin de l'été, une incursion du Chaos submerge les cités hautes elfes d'Elisia et de Tor Dynal.",
+   "en": "In late summer, a Chaos incursion overruns the High Elf cities of Elisia and Tor Dynal.",
+   "de": "Im Spätsommer überrennt ein Chaoseinfall die hochelfischen Städte Elisia und Tor Dynal."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "ulthuan"
+  ],
+  "lieux": [],
+  "factions": [
+   "hauts-elfes",
+   "chaos"
+  ],
+  "importance": 2,
+  "fiabilite": "incertain",
+  "note": "",
+  "sources": [
+   {
+    "titre": {
+     "fr": "The Return of Nagash, Josh Reynolds",
+     "en": "The Return of Nagash, Josh Reynolds",
+     "de": "The Return of Nagash, Josh Reynolds"
+    },
+    "detail": {
+     "fr": "chapitre prologue",
+     "en": "chapter prologue",
+     "de": "Kapitel prologue"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Tor Dynal",
+     "en": "Warhammer Fantasy Wiki (fandom), Tor Dynal page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Tor Dynal"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Tor_Dynal"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Elisia (City)",
+     "en": "Warhammer Fantasy Wiki (fandom), Elisia (City) page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Elisia (City)"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Elisia_(City)"
+   }
+  ]
+ },
+ {
+  "id": "malekith-aneantit-arnheim",
+  "annee": 2522,
+  "fin": null,
+  "approx": false,
+  "titre": {
+   "fr": "Malekith anéantit Arnheim",
+   "en": "Malekith destroys Arnheim",
+   "de": "Malekith vernichtet Arnheim"
+  },
+  "resume": {
+   "fr": "Le Roi-Sorcier mène en personne l'assaut contre la colonie haute elfe d'Arnheim et efface cet affront à son royaume, plusieurs fois prise et perdue par les Elfes noirs au cours des siècles.",
+   "en": "The Witch King personally leads the assault on the High Elf colony of Arnheim and obliterates this insult to his realm, which Dark Elves had taken and lost several times over the centuries.",
+   "de": "Der Hexenkönig führt persönlich den Angriff auf die hochelfische Kolonie Arnheim und tilgt diese Beleidigung seines Reiches, die die Dunkelelfen über die Jahrhunderte mehrfach erobert und wieder verloren hatten."
+  },
+  "ere": "empire-reunifie",
+  "regions": [
+   "naggaroth"
+  ],
+  "lieux": [
+   "arnheim"
+  ],
+  "factions": [
+   "elfes-noirs",
+   "hauts-elfes"
+  ],
+  "importance": 2,
+  "fiabilite": "etabli",
+  "note": {
+   "fr": "Date elfique VII, 222 (XI, 359), convertie par le wiki.",
+   "en": "Elven date VII, 222 (XI, 359), converted by the wiki.",
+   "de": "Elfisches Datum VII, 222 (XI, 359), umgerechnet durch das Wiki."
+  },
+  "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Dark Elves, 8e édition",
+     "en": "Warhammer Armies: Dark Elves, 8th edition",
+     "de": "Warhammer Armies: Dark Elves, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 31",
+     "en": "p. 31",
+     "de": "S. 31"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Warhammer Fantasy Roleplay 4th Edition: Lustria",
+     "en": "Warhammer Fantasy Roleplay 4th Edition: Lustria",
+     "de": "Warhammer Fantasy Roleplay 4th Edition: Lustria"
+    },
+    "detail": {
+     "fr": "p. 22",
+     "en": "p. 22",
+     "de": "S. 22"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Warhammer Fantasy Roleplay 4th Edition: High Elf Players Guide",
+     "en": "Warhammer Fantasy Roleplay 4th Edition: High Elf Players Guide",
+     "de": "Warhammer Fantasy Roleplay 4th Edition: High Elf Players Guide"
+    },
+    "detail": {
+     "fr": "p. 31",
+     "en": "p. 31",
+     "de": "S. 31"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Arnheim",
+     "en": "Warhammer Fantasy Wiki (fandom), Arnheim page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Arnheim"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Arnheim"
+   }
+  ]
+ }
+]
