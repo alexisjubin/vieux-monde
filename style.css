@@ -63,15 +63,11 @@
 }
 
 :root {
-  --pierre: #e4e1d8;
-  --velin: #f0ede6;
-  --encre: #221f1b;
-  --gris: #534d44;
-  --filet: #c4bdaf;
-  --sang: #7a2320;
-  --hachure: rgba(122, 35, 32, 0.12);
-  /* Carte : palette d'une carte ancienne, d'après celle d'Immortal Empires.
-     Les fonds de mer et de terre sont peints par outils/carte/fond.py. */
+  /* Hauteur de la barre fixe, mesurée par app.js. */
+  --haut-nav: 5.5rem;
+
+  /* Sur la carte, tracés et textes foncés avec un liseré clair. Le fond est
+     fait d'images : --filtre-carte le recolore selon le thème. */
   --carte-mer: #6e5034;
   --carte-terre: #e2c99a;
   --carte-relief: #dfc493;
@@ -82,6 +78,8 @@
   --carte-foret: #b89a62;
   --carte-desert: #e9d3a4;
   --carte-eau: #6e5236;
+  --carte-texte-mer: #e2c99a;
+  --filtre-marque: none;
 
   --titre: "IM Fell English", Georgia, serif;
   --texte: "Alegreya", Georgia, serif;
@@ -89,6 +87,144 @@
 
   --mesure: 38rem;
 }
+
+:root[data-mode="clair"] {
+  color-scheme: light;
+}
+
+/* Mode sombre : la carte s'assombrit, ses textes passent en clair. */
+:root[data-mode="sombre"] {
+  color-scheme: dark;
+  --carte-mer: #14171a;
+  --carte-terre: #15181b;
+  --carte-encre: #f0ede4;
+  --carte-trait: #d4d0c4;
+  --carte-texte-mer: #b4bcc2;
+  --filtre-marque: brightness(1.6) saturate(0.85);
+}
+
+/* Teintes. --pierre : fond de page, --velin : surfaces, --encre : texte,
+   --gris : texte secondaire, --filet : traits fins, --sang : accent. */
+
+:root[data-teinte="ardoise"][data-mode="clair"] {
+  --pierre: #e2e5e7;
+  --velin: #f2f4f5;
+  --encre: #1b2127;
+  --gris: #47515b;
+  --filet: #b9c2c9;
+  --sang: #8a2330;
+  --hachure: rgba(138, 35, 48, 0.14);
+  --filtre-carte: hue-rotate(170deg) saturate(0.42) brightness(1.04);
+}
+
+:root[data-teinte="ardoise"][data-mode="sombre"] {
+  --pierre: #171b20;
+  --velin: #20262c;
+  --encre: #e5e8ea;
+  --gris: #a6b0ba;
+  --filet: #39434d;
+  --sang: #e79aa2;
+  --hachure: rgba(231, 154, 162, 0.16);
+  --filtre-carte: hue-rotate(170deg) saturate(0.42) brightness(0.42) contrast(1.15);
+}
+
+:root[data-teinte="foret"][data-mode="clair"] {
+  --pierre: #e2e7df;
+  --velin: #f2f5f0;
+  --encre: #1c241d;
+  --gris: #475449;
+  --filet: #b9c4b5;
+  --sang: #2c6545;
+  --hachure: rgba(44, 101, 69, 0.15);
+  --filtre-carte: hue-rotate(55deg) saturate(0.55) brightness(1.03);
+}
+
+:root[data-teinte="foret"][data-mode="sombre"] {
+  --pierre: #151b17;
+  --velin: #1e2720;
+  --encre: #e3e9e2;
+  --gris: #a5b3a6;
+  --filet: #36443a;
+  --sang: #8fcba5;
+  --hachure: rgba(143, 203, 165, 0.16);
+  --filtre-carte: hue-rotate(55deg) saturate(0.5) brightness(0.42) contrast(1.15);
+}
+
+:root[data-teinte="empire"][data-mode="clair"] {
+  --pierre: #e0e4ee;
+  --velin: #f1f3f9;
+  --encre: #171e2e;
+  --gris: #434e68;
+  --filet: #b6bfd2;
+  --sang: #2a4a8a;
+  --hachure: rgba(42, 74, 138, 0.14);
+  --filtre-carte: hue-rotate(190deg) saturate(0.6) brightness(1.03);
+}
+
+:root[data-teinte="empire"][data-mode="sombre"] {
+  --pierre: #131927;
+  --velin: #1b2335;
+  --encre: #e3e7f0;
+  --gris: #a1aec6;
+  --filet: #333f57;
+  --sang: #9db9ee;
+  --hachure: rgba(157, 185, 238, 0.16);
+  --filtre-carte: hue-rotate(190deg) saturate(0.6) brightness(0.42) contrast(1.15);
+}
+
+:root[data-teinte="sang"][data-mode="clair"] {
+  --pierre: #eae2e2;
+  --velin: #f7f2f2;
+  --encre: #241919;
+  --gris: #5b4a4a;
+  --filet: #cbbaba;
+  --sang: #8e1c24;
+  --hachure: rgba(142, 28, 36, 0.14);
+  --filtre-carte: hue-rotate(-40deg) saturate(0.55) brightness(1.02);
+}
+
+:root[data-teinte="sang"][data-mode="sombre"] {
+  --pierre: #1a1314;
+  --velin: #261b1c;
+  --encre: #eee4e3;
+  --gris: #b7a5a4;
+  --filet: #463434;
+  --sang: #ef9a92;
+  --hachure: rgba(239, 154, 146, 0.16);
+  --filtre-carte: hue-rotate(-40deg) saturate(0.55) brightness(0.42) contrast(1.15);
+}
+
+/* Les couleurs d'origine du site, pour qui les préfère. */
+:root[data-teinte="parchemin"][data-mode="clair"] {
+  --pierre: #e4e1d8;
+  --velin: #f0ede6;
+  --encre: #221f1b;
+  --gris: #534d44;
+  --filet: #c4bdaf;
+  --sang: #7a2320;
+  --hachure: rgba(122, 35, 32, 0.12);
+  --filtre-carte: none;
+}
+
+:root[data-teinte="parchemin"][data-mode="sombre"] {
+  --pierre: #1c1a16;
+  --velin: #27241f;
+  --encre: #ebe6db;
+  --gris: #b3ac9e;
+  --filet: #443f36;
+  --sang: #e5a48c;
+  --hachure: rgba(229, 164, 140, 0.16);
+  --filtre-carte: brightness(0.45) contrast(1.15);
+}
+
+html {
+  scroll-padding-top: calc(var(--haut-nav) + 0.75rem);
+}
+
+.carte .fond-tuiles {
+  filter: var(--filtre-carte);
+}
+
 
 *,
 *::before,
@@ -289,48 +425,308 @@ h1 {
   font-size: 1.15rem;
 }
 
+/* Barre fixe */
+
+.navigation {
+  position: sticky;
+  top: 0;
+  z-index: 30;
+  background: var(--velin);
+  border-bottom: 1px solid var(--filet);
+  font-family: var(--outil);
+}
+
+.nav-haut {
+  display: flex;
+  align-items: center;
+  gap: 1.25rem;
+  max-width: 76rem;
+  margin: 0 auto;
+  padding: 0.35rem 1rem;
+}
+
+.nav-titre {
+  font-family: var(--titre);
+  font-size: 1.25rem;
+  color: var(--encre);
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+.nav-position {
+  margin: 0;
+  flex: 1;
+  min-width: 0;
+  font-size: 0.95rem;
+  color: var(--gris);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.nav-actions {
+  display: flex;
+  align-items: center;
+  gap: 0.15rem;
+}
+
+.nav-actions button,
+.reglages summary {
+  font: inherit;
+  font-size: 0.95rem;
+  padding: 0.25rem 0.6rem;
+  background: none;
+  border: 0;
+  color: var(--encre);
+  cursor: pointer;
+  list-style: none;
+}
+
+.reglages summary::-webkit-details-marker {
+  display: none;
+}
+
+.nav-actions button:hover,
+.reglages summary:hover,
+.reglages[open] summary {
+  background: var(--pierre);
+}
+
+.nav-actions button[aria-expanded="true"] {
+  background: var(--encre);
+  color: var(--velin);
+}
+
+.reglages {
+  position: relative;
+}
+
+.panneau-reglages {
+  position: absolute;
+  top: calc(100% + 0.4rem);
+  right: 0;
+  width: 15rem;
+  padding: 0.8rem 1rem 1rem;
+  background: var(--velin);
+  border: 1px solid var(--encre);
+}
+
+.panneau-reglages fieldset {
+  margin: 0.9rem 0 0;
+}
+
+.panneau-reglages fieldset:first-child {
+  margin-top: 0;
+}
+
+.choix-mode {
+  display: flex;
+  gap: 0.9rem;
+}
+
+.choix-mode label,
+.choix-teinte label {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  cursor: pointer;
+}
+
+.choix-teinte label {
+  padding: 0.14rem 0;
+}
+
+.panneau-reglages input {
+  accent-color: var(--sang);
+  margin: 0;
+}
+
+.echantillon {
+  display: inline-block;
+  width: 1.9rem;
+  height: 0.85rem;
+  border: 1px solid var(--filet);
+}
+
+.echantillon[data-exemple="ardoise"] { background: linear-gradient(90deg, #e2e5e7 50%, #171b20 50%); }
+.echantillon[data-exemple="foret"] { background: linear-gradient(90deg, #dfe8da 50%, #2c6545 50%); }
+.echantillon[data-exemple="empire"] { background: linear-gradient(90deg, #dbe1ee 50%, #2a4a8a 50%); }
+.echantillon[data-exemple="sang"] { background: linear-gradient(90deg, #eae2e2 50%, #8e1c24 50%); }
+.echantillon[data-exemple="parchemin"] { background: linear-gradient(90deg, #e2c99a 50%, #6e5034 50%); }
+
+.nav-ages {
+  display: flex;
+  gap: 1px;
+  list-style: none;
+  max-width: 76rem;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+.nav-ages li {
+  min-width: 0;
+}
+
+.nav-age {
+  position: relative;
+  display: block;
+  width: 100%;
+  padding: 0.15rem 0.3rem 0.3rem;
+  font: inherit;
+  font-size: 0.8rem;
+  line-height: 1.2;
+  text-align: left;
+  color: var(--gris);
+  background: var(--pierre);
+  border: 0;
+  cursor: pointer;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.nav-age:hover {
+  color: var(--encre);
+}
+
+.nav-age[aria-current="true"] {
+  color: var(--encre);
+  font-weight: 700;
+}
+
+/* Avancée de la lecture dans l'âge en cours. */
+.nav-age::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  height: 3px;
+  width: 100%;
+  background: var(--sang);
+  transform: scaleX(var(--avancee, 0));
+  transform-origin: left;
+}
+
 /* Frise d'ensemble */
 
-.vue {
+.emplacement-frise {
   margin-bottom: 2.5rem;
+}
+
+.vue.flottante {
+  position: fixed;
+  top: var(--haut-nav);
+  left: 0;
+  right: 0;
+  z-index: 25;
+  max-height: calc(100vh - var(--haut-nav));
+  overflow-y: auto;
+  padding: 0 max(1rem, calc((100vw - 76rem) / 2 + 1rem)) 0.8rem;
+  background: var(--pierre);
+  border-bottom: 1px solid var(--encre);
+}
+
+.vue.flottante .frise {
+  margin-top: 1.4rem;
+}
+
+.vue.flottante .legende-frise {
+  display: none;
 }
 
 .frise {
   position: relative;
   display: flex;
-  height: 7.5rem;
+  height: 9.5rem;
   margin-top: 1.6rem;
+  background: var(--velin);
   border-top: 1px solid var(--encre);
   border-bottom: 1px solid var(--encre);
-  background: var(--velin);
+}
+
+.silhouette {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: calc(100% - 2.4rem);
+  pointer-events: none;
+}
+
+.silhouette .reference { fill: var(--filet); }
+.silhouette .retenue { fill: var(--sang); opacity: 0.78; }
+
+.epoque-tow {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  background: repeating-linear-gradient(135deg, var(--hachure) 0 4px, transparent 4px 9px);
+  border-left: 1px solid var(--sang);
+  border-right: 1px solid var(--sang);
+  pointer-events: none;
 }
 
 .age {
   position: relative;
-  border-left: 1px solid var(--filet);
   min-width: 0;
+  padding: 0;
+  font: inherit;
+  text-align: left;
+  color: var(--gris);
+  background: none;
+  border: 0;
+  border-left: 1px solid var(--filet);
+  cursor: pointer;
+  container-type: inline-size;
 }
 
 .age:first-child {
   border-left: 0;
 }
 
-.age-nom {
+.age:hover {
+  background: var(--hachure);
+}
+
+.age[aria-pressed="true"] {
+  color: var(--encre);
+  box-shadow: inset 0 -3px 0 var(--sang);
+}
+
+.age:focus-visible,
+.nav-age:focus-visible,
+.point:focus-visible {
+  outline: 2px solid var(--encre);
+  outline-offset: 1px;
+  z-index: 2;
+}
+
+.age-nom,
+.age-compte {
   position: absolute;
   left: 0.4rem;
-  bottom: 0.3rem;
-  right: 0.3rem;
+  right: 0.2rem;
   font-family: var(--outil);
-  font-size: 0.78rem;
   line-height: 1.15;
-  color: var(--gris);
+  white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
 }
 
+.age-nom {
+  bottom: 1.15rem;
+  font-size: 0.85rem;
+  font-weight: 700;
+}
+
+.age-compte {
+  bottom: 0.3rem;
+  font-size: 0.78rem;
+}
+
 .age-debut {
   position: absolute;
-  top: -1.35rem;
+  top: -1.3rem;
   left: 0;
   transform: translateX(-50%);
   font-family: var(--outil);
@@ -343,50 +739,189 @@ h1 {
   transform: none;
 }
 
-/* Sur un âge trop étroit, la date de début chevaucherait la suivante. */
-.age {
-  container-type: inline-size;
-}
-
 @container (max-width: 1.6rem) {
   .age-debut {
     display: none;
   }
 }
 
-.epoque-tow {
+/* Âge déplié : un point par événement, empilés sur l'axe du temps. */
+
+.detail-age {
+  padding: 0.8rem 1rem 0.5rem;
+  background: var(--velin);
+  border-bottom: 1px solid var(--encre);
+}
+
+.detail-entete {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.2rem 1rem;
+}
+
+.detail-entete h3 {
+  margin: 0;
+  font-family: var(--titre);
+  font-weight: 400;
+  font-size: 1.35rem;
+  line-height: 1.2;
+}
+
+.detail-entete p {
+  margin: 0;
+  flex: 1;
+  min-width: 10rem;
+  font-family: var(--outil);
+  font-size: 0.9rem;
+  color: var(--gris);
+}
+
+.detail-entete button {
+  font-family: var(--outil);
+  font-size: 0.9rem;
+  padding: 0.15rem 0.6rem;
+  color: var(--encre);
+  background: none;
+  border: 1px solid var(--filet);
+  cursor: pointer;
+}
+
+.detail-entete button:hover {
+  border-color: var(--encre);
+}
+
+.points {
+  position: relative;
+  height: 9rem;
+  margin-top: 0.6rem;
+  border-bottom: 1px solid var(--encre);
+}
+
+.point {
+  position: absolute;
+  padding: 0;
+  border: 0;
+  border-radius: 50%;
+  background: var(--couleur, var(--encre));
+  filter: var(--filtre-marque);
+  cursor: pointer;
+}
+
+.point[data-importance="3"] {
+  box-shadow: 0 0 0 1px var(--encre);
+}
+
+.point[data-importance="1"] {
+  opacity: 0.72;
+}
+
+.point.estompe {
+  opacity: 0.12;
+}
+
+.point:hover {
+  transform: scale(1.7);
+  z-index: 3;
+}
+
+.point.courant {
+  box-shadow: 0 0 0 2px var(--velin), 0 0 0 4px var(--sang);
+  z-index: 2;
+}
+
+.bande-tow {
   position: absolute;
   top: 0;
   bottom: 0;
   background: repeating-linear-gradient(135deg, var(--hachure) 0 4px, transparent 4px 9px);
-  border-left: 1px solid var(--sang);
-  border-right: 1px solid var(--sang);
   pointer-events: none;
 }
 
-.trait {
+.graduations {
+  position: relative;
+  height: 1.4rem;
+  font-family: var(--outil);
+  font-size: 0.78rem;
+  color: var(--gris);
+}
+
+.graduations span {
   position: absolute;
-  top: 0.6rem;
-  width: 3px;
-  margin-left: -1px;
-  border: 0;
-  padding: 0;
-  cursor: pointer;
-  background: var(--couleur, var(--encre));
+  top: 0.15rem;
+  transform: translateX(-50%);
+  white-space: nowrap;
 }
 
-.trait[data-importance="3"] { height: 4.4rem; }
-.trait[data-importance="2"] { height: 3.2rem; }
-.trait[data-importance="1"] { height: 2rem; }
-
-.trait.estompe {
-  opacity: 0.15;
+.infobulle {
+  position: absolute;
+  z-index: 4;
+  max-width: 19rem;
+  padding: 0.3rem 0.55rem;
+  font-family: var(--outil);
+  font-size: 0.88rem;
+  line-height: 1.25;
+  color: var(--velin);
+  background: var(--encre);
+  pointer-events: none;
 }
 
-.trait:hover,
-.trait:focus-visible {
-  outline: 2px solid var(--encre);
-  outline-offset: 1px;
+.infobulle small {
+  display: block;
+  font-size: 0.8rem;
+  opacity: 0.8;
+}
+
+@media (max-width: 52rem) {
+  .nav-titre {
+    display: none;
+  }
+
+  .nav-haut {
+    gap: 0.4rem;
+    padding: 0.25rem 0.6rem;
+  }
+
+  .nav-position {
+    font-size: 0.82rem;
+  }
+
+  .nav-actions button,
+  .reglages summary {
+    font-size: 0.88rem;
+    padding: 0.25rem 0.35rem;
+  }
+
+  .nav-ages {
+    padding: 0 0.6rem;
+  }
+
+  .nav-age {
+    height: 0.65rem;
+    padding: 0;
+    font-size: 0;
+  }
+
+  .age-nom {
+    display: none;
+  }
+
+  .age-compte {
+    left: 0.2rem;
+    font-size: 0.7rem;
+  }
+
+  .frise {
+    height: 6.5rem;
+  }
+
+  .silhouette {
+    height: calc(100% - 1.3rem);
+  }
+
+  .detail-age {
+    padding: 0.6rem 0.6rem 0.4rem;
+  }
 }
 
 .legende-frise {
@@ -491,14 +1026,14 @@ h1 {
   left: 0.6rem;
   font-family: var(--outil);
   font-size: 0.9rem;
-  color: var(--carte-encre);
+  color: var(--encre);
 }
 
 .calques summary {
   display: inline-block;
   padding: 0.3rem 0.7rem;
   background: var(--velin);
-  border: 1px solid var(--carte-encre);
+  border: 1px solid var(--encre);
   cursor: pointer;
   list-style: none;
 }
@@ -516,7 +1051,7 @@ h1 {
 }
 
 .calques summary:hover {
-  background: var(--carte-terre);
+  background: var(--pierre);
 }
 
 .calques summary:focus-visible {
@@ -529,7 +1064,7 @@ h1 {
   padding: 0.5rem 0.7rem;
   min-width: 0;
   background: var(--velin);
-  border: 1px solid var(--carte-encre);
+  border: 1px solid var(--encre);
 }
 
 .calques label {
@@ -560,18 +1095,18 @@ h1 {
 }
 
 .calques label svg .marque {
-  fill: var(--carte-encre);
+  fill: var(--encre);
 }
 
 .calques label svg.lieu-site .marque,
 .calques label svg .marque.trait {
   fill: none;
-  stroke: var(--carte-encre);
+  stroke: var(--encre);
   stroke-width: 1.6;
 }
 
 .calques input {
-  accent-color: var(--carte-encre);
+  accent-color: var(--encre);
   margin: 0;
 }
 
@@ -580,14 +1115,14 @@ h1 {
   min-width: 2.2rem;
   padding: 0.3rem 0.6rem;
   background: var(--velin);
-  border: 1px solid var(--carte-encre);
+  border: 1px solid var(--encre);
   margin-left: -1px;
-  color: var(--carte-encre);
+  color: var(--encre);
   cursor: pointer;
 }
 
 .commandes-carte button:hover {
-  background: var(--carte-terre);
+  background: var(--pierre);
 }
 
 .commandes-carte button:focus-visible {
@@ -661,7 +1196,7 @@ h1 {
   font-size: 46px;
   letter-spacing: 0.1em;
   text-anchor: middle;
-  fill: var(--carte-terre);
+  fill: var(--carte-texte-mer);
   stroke-width: 0;
   opacity: 0.75;
 }
@@ -922,10 +1457,10 @@ h1 {
 
 .filtres {
   position: sticky;
-  top: 1rem;
+  top: calc(var(--haut-nav) + 1rem);
   font-family: var(--outil);
   font-size: 0.95rem;
-  max-height: calc(100vh - 2rem);
+  max-height: calc(100vh - var(--haut-nav) - 2rem);
   overflow-y: auto;
 }
 
@@ -982,6 +1517,7 @@ legend {
 }
 
 .pastille {
+  filter: var(--filtre-marque);
   display: inline-block;
   width: 0.7rem;
   height: 0.7rem;
@@ -1030,7 +1566,6 @@ legend {
   gap: 1.25rem;
   padding: 1.1rem 0;
   border-top: 1px solid var(--filet);
-  scroll-margin-top: 1rem;
   /* Les événements hors de l'écran ne sont mis en page qu'à leur arrivée. */
   content-visibility: auto;
   contain-intrinsic-size: auto 11rem;
@@ -1157,17 +1692,6 @@ legend {
     gap: 1rem;
   }
 
-  .age-nom {
-    display: none;
-  }
-
-  .frise {
-    height: 5.5rem;
-  }
-
-  .trait[data-importance="3"] { height: 3.6rem; }
-  .trait[data-importance="2"] { height: 2.6rem; }
-  .trait[data-importance="1"] { height: 1.6rem; }
 }
 
 .types-lieux .marque.trait {

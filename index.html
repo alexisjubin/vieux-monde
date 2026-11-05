@@ -6,7 +6,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Le Vieux Monde, une chronologie</title>
   <meta name="description" content="Chronologie sourcée du Vieux Monde de Warhammer Fantasy et The Old World, avec carte, filtrable par région, lieu et faction. En français, anglais et allemand.">
-  <link rel="stylesheet" href="style.css?v=19">
+  <script src="theme.js?v=22"></script>
+  <link rel="stylesheet" href="style.css?v=22">
 </head>
 <body>
   <dialog id="accueil" class="accueil" aria-labelledby="titre-accueil">
@@ -14,22 +15,64 @@
     <div class="choix-langues"></div>
   </dialog>
 
+  <nav class="navigation" id="navigation" aria-labelledby="titre-navigation">
+    <div class="nav-haut">
+      <a class="nav-titre" id="titre-navigation" href="#" data-t="titre"></a>
+      <p class="nav-position" id="nav-position"></p>
+      <div class="nav-actions">
+        <button type="button" id="nav-frise" aria-expanded="false" aria-controls="vue-frise" data-t="navFrise"></button>
+        <button type="button" id="nav-carte" data-t="navCarte"></button>
+        <button type="button" id="nav-chercher" data-t="navChercher"></button>
+        <details class="reglages" id="reglages">
+          <summary data-t="reglages"></summary>
+          <div class="panneau-reglages">
+            <fieldset>
+              <legend data-t="langue"></legend>
+              <div class="langues" id="langues" role="group" aria-label="Langue / Language / Sprache"></div>
+            </fieldset>
+            <fieldset>
+              <legend data-t="mode"></legend>
+              <div class="choix-mode">
+                <label><input type="radio" name="mode" value="auto"> <span data-t="modeAuto"></span></label>
+                <label><input type="radio" name="mode" value="clair"> <span data-t="modeClair"></span></label>
+                <label><input type="radio" name="mode" value="sombre"> <span data-t="modeSombre"></span></label>
+              </div>
+            </fieldset>
+            <fieldset>
+              <legend data-t="teinte"></legend>
+              <div class="choix-teinte">
+                <label><input type="radio" name="teinte" value="ardoise"> <span class="echantillon" data-exemple="ardoise"></span> <span data-t="teinteArdoise"></span></label>
+                <label><input type="radio" name="teinte" value="foret"> <span class="echantillon" data-exemple="foret"></span> <span data-t="teinteForet"></span></label>
+                <label><input type="radio" name="teinte" value="empire"> <span class="echantillon" data-exemple="empire"></span> <span data-t="teinteEmpire"></span></label>
+                <label><input type="radio" name="teinte" value="sang"> <span class="echantillon" data-exemple="sang"></span> <span data-t="teinteSang"></span></label>
+                <label><input type="radio" name="teinte" value="parchemin"> <span class="echantillon" data-exemple="parchemin"></span> <span data-t="teinteParchemin"></span></label>
+              </div>
+            </fieldset>
+          </div>
+        </details>
+      </div>
+    </div>
+    <ol class="nav-ages" id="nav-ages"></ol>
+  </nav>
+
   <div class="page">
 
     <header class="entete">
       <div class="barre">
         <a class="retour" href="https://alexisjubin.com/#projets">Alexis Jubin</a>
-        <div class="langues" id="langues" role="group" aria-label="Langue / Language / Sprache"></div>
       </div>
       <h1 data-t="titre">Le Vieux Monde</h1>
       <p class="chapeau" data-t="chapeau"></p>
     </header>
 
-    <section class="vue" aria-labelledby="titre-vue">
-      <h2 id="titre-vue" class="cache" data-t="vue"></h2>
-      <div class="frise" id="frise" role="list"></div>
-      <p class="legende-frise" data-t="legendeFrise"></p>
-    </section>
+    <div class="emplacement-frise" id="emplacement-frise">
+      <section class="vue" id="vue-frise" aria-labelledby="titre-vue">
+        <h2 id="titre-vue" class="cache" data-t="vue"></h2>
+        <div class="frise" id="frise"></div>
+        <div class="detail-age" id="detail-age" hidden></div>
+        <p class="legende-frise" data-t="legendeFrise"></p>
+      </section>
+    </div>
 
     <section class="vue-carte" id="vue-carte" aria-labelledby="titre-carte">
       <h2 id="titre-carte" class="titre-section" data-t="carte"></h2>
@@ -107,6 +150,6 @@
     </footer>
 
   </div>
-  <script src="app.js?v=18" defer></script>
+  <script src="app.js?v=22" defer></script>
 </body>
 </html>

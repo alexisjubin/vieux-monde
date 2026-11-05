@@ -60,6 +60,10 @@ Champs d'un événement :
 
 Les résumés sont rédigés à la main, aucune phrase n'est copiée des sources.
 
+## Apparence et navigation
+
+La barre fixe (`#navigation`) donne les âges, la position de lecture et les réglages. La frise montre le relief des événements, un clic déplie un âge en un nuage de points. Les réglages proposent les modes clair et sombre et cinq teintes : chaque couple mode et teinte est un bloc de variables en tête de `style.css`, `--filtre-carte` recolore les tuiles de la carte. Le choix est gardé dans le navigateur.
+
 ## Filtres partageables
 
 Les filtres sont gardés dans l'adresse : `?faction=nains&region=montagnes&lieu=karaz-a-karak&importance=3` ou `#id-evenement` pour pointer un événement. `?lang=en` force une langue, sinon le site la demande à la première visite et la retient dans le navigateur. `?masquer=mers&masquer=regions` masque des calques de la carte (`lieux`, `regions`, `mers`, `frontieres`, `provinces`, `colonies`, ou un type de lieu comme `type-ruine`), choix aussi retenu dans le navigateur.

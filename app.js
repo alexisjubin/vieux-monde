@@ -34,7 +34,7 @@ const LANGUES = ["fr", "en", "de"];
 
 // À augmenter à chaque publication qui change les données ou la carte, pour
 // que les navigateurs ne gardent pas l'ancienne version en cache.
-const VERSION = 21;
+const VERSION = 22;
 
 const TEXTES = {
   fr: {
@@ -42,7 +42,7 @@ const TEXTES = {
     titre: "Le Vieux Monde",
     chapeau: "Une chronologie de l'univers de Warhammer Fantasy et de The Old World, des Anciens à la Fin des Temps. Chaque événement renvoie aux livres et aux pages qui en parlent, et signale quand les sources ne s'accordent pas.",
     vue: "Vue d'ensemble",
-    legendeFrise: "L'échelle n'est pas linéaire : chaque âge a sa propre largeur, pour que les huit mille ans restent lisibles. La bande hachurée marque l'époque où se déroule The Old World.",
+    legendeFrise: "Chaque âge a sa propre largeur, pour que les huit mille ans restent lisibles. Le relief montre le nombre d'événements, et la bande hachurée l'époque de The Old World. Cliquez sur un âge pour le déplier : chaque point est un événement.",
     epoqueTow: "Époque de The Old World",
     carte: "Carte du Vieux Monde",
     cadrageMonde: "Monde",
@@ -79,13 +79,30 @@ const TEXTES = {
     nombre: (a) => String(Math.abs(a)),
     jusqua: " - ",
     vers: (t) => `vers ${t}`,
+    reglages: "Réglages",
+    mode: "Mode",
+    modeAuto: "Auto",
+    modeClair: "Clair",
+    modeSombre: "Sombre",
+    teinte: "Couleurs",
+    teinteArdoise: "Ardoise",
+    teinteForet: "Forêt",
+    teinteEmpire: "Empire",
+    teinteSang: "Sang",
+    teinteParchemin: "Parchemin",
+    navFrise: "Frise",
+    navCarte: "Carte",
+    navChercher: "Chercher",
+    lireAge: "Lire cet âge",
+    fermer: "Fermer",
+    evenements: (n) => (n > 1 ? `${n} événements` : `${n} événement`),
   },
   en: {
     titreDocument: "The Old World, a chronology",
     titre: "The Old World",
     chapeau: "A chronology of the Warhammer Fantasy and The Old World setting, from the Old Ones to the End Times. Every event points to the books and pages that cover it, and flags where the sources disagree.",
     vue: "Overview",
-    legendeFrise: "The scale is not linear: each age has its own width, so that eight thousand years stay readable. The hatched band marks the period in which The Old World is set.",
+    legendeFrise: "Each age has its own width, so that eight thousand years stay readable. The relief shows the number of events, and the hatched band the period of The Old World. Click an age to unfold it: each dot is an event.",
     epoqueTow: "The Old World period",
     carte: "Map of the Old World",
     cadrageMonde: "World",
@@ -122,13 +139,30 @@ const TEXTES = {
     nombre: (a) => String(a),
     jusqua: " to ",
     vers: (t) => `c. ${t}`,
+    reglages: "Settings",
+    mode: "Mode",
+    modeAuto: "Auto",
+    modeClair: "Light",
+    modeSombre: "Dark",
+    teinte: "Colours",
+    teinteArdoise: "Slate",
+    teinteForet: "Forest",
+    teinteEmpire: "Empire",
+    teinteSang: "Blood",
+    teinteParchemin: "Parchment",
+    navFrise: "Timeline",
+    navCarte: "Map",
+    navChercher: "Search",
+    lireAge: "Read this age",
+    fermer: "Close",
+    evenements: (n) => (n > 1 ? `${n} events` : `${n} event`),
   },
   de: {
     titreDocument: "Die Alte Welt, eine Chronik",
     titre: "Die Alte Welt",
     chapeau: "Eine Chronik der Welt von Warhammer Fantasy und The Old World, von den Alten bis zur Endzeit. Jedes Ereignis verweist auf die Bücher und Seiten, die davon berichten, und zeigt an, wo sich die Quellen widersprechen.",
     vue: "Überblick",
-    legendeFrise: "Der Maßstab ist nicht linear: Jedes Zeitalter hat seine eigene Breite, damit achttausend Jahre lesbar bleiben. Das schraffierte Band markiert die Zeit, in der The Old World spielt.",
+    legendeFrise: "Jedes Zeitalter hat seine eigene Breite, damit achttausend Jahre lesbar bleiben. Das Relief zeigt die Zahl der Ereignisse, das schraffierte Band die Zeit von The Old World. Klicken Sie auf ein Zeitalter, um es aufzuklappen: Jeder Punkt ist ein Ereignis.",
     epoqueTow: "Zeit von The Old World",
     carte: "Karte der Alten Welt",
     cadrageMonde: "Welt",
@@ -165,6 +199,23 @@ const TEXTES = {
     nombre: (a) => String(a),
     jusqua: " bis ",
     vers: (t) => `um ${t}`,
+    reglages: "Einstellungen",
+    mode: "Modus",
+    modeAuto: "Auto",
+    modeClair: "Hell",
+    modeSombre: "Dunkel",
+    teinte: "Farben",
+    teinteArdoise: "Schiefer",
+    teinteForet: "Wald",
+    teinteEmpire: "Imperium",
+    teinteSang: "Blut",
+    teinteParchemin: "Pergament",
+    navFrise: "Zeitleiste",
+    navCarte: "Karte",
+    navChercher: "Suchen",
+    lireAge: "Dieses Zeitalter lesen",
+    fermer: "Schließen",
+    evenements: (n) => (n === 1 ? `${n} Ereignis` : `${n} Ereignisse`),
   },
 };
 
@@ -180,6 +231,10 @@ const etat = {
   lieux: new Set(),
   calquesMasques: new Set(),
   texte: "",
+  mode: "auto",
+  teinte: "ardoise",
+  ageFrise: "trois-empereurs",
+  courant: null,
 };
 
 const $ = (sel) => document.querySelector(sel);
@@ -348,18 +403,213 @@ function demanderLangue() {
 
 /* Frise d'ensemble */
 
+// Réglages : langue, mode clair ou sombre, couleurs. Le premier choix est posé
+// dans index.html, avant l'affichage.
+function lireReglage(cle, valeurs, defaut) {
+  try {
+    const gardee = localStorage.getItem(cle);
+    if (valeurs.includes(gardee)) return gardee;
+  } catch {
+    // Stockage indisponible : le choix vaut pour cette visite.
+  }
+  return defaut;
+}
+
+function appliquerApparence() {
+  const prefereSombre = matchMedia("(prefers-color-scheme: dark)").matches;
+  const sombre = etat.mode === "sombre" || (etat.mode === "auto" && prefereSombre);
+  document.documentElement.dataset.mode = sombre ? "sombre" : "clair";
+  document.documentElement.dataset.teinte = etat.teinte;
+  document.querySelectorAll('input[name="mode"]').forEach((c) => (c.checked = c.value === etat.mode));
+  document.querySelectorAll('input[name="teinte"]').forEach((c) => (c.checked = c.value === etat.teinte));
+}
+
+function brancherReglages() {
+  etat.mode = lireReglage("mode", ["auto", "clair", "sombre"], "auto");
+  etat.teinte = lireReglage("teinte", ["ardoise", "foret", "empire", "sang", "parchemin"], "ardoise");
+  appliquerApparence();
+  matchMedia("(prefers-color-scheme: dark)").addEventListener("change", appliquerApparence);
+
+  document.querySelectorAll('input[name="mode"], input[name="teinte"]').forEach((c) =>
+    c.addEventListener("change", () => {
+      etat[c.name] = c.value;
+      try {
+        localStorage.setItem(c.name, c.value);
+      } catch {
+        // Sans stockage, le choix vaut pour cette visite.
+      }
+      appliquerApparence();
+    }),
+  );
+
+  const reglages = $("#reglages");
+  document.addEventListener("click", (e) => {
+    if (reglages.open && !reglages.contains(e.target)) reglages.open = false;
+  });
+  reglages.addEventListener("keydown", (e) => {
+    if (e.key === "Escape") {
+      reglages.open = false;
+      reglages.querySelector("summary").focus();
+    }
+  });
+}
+
+/* Barre fixe */
+
+function brancherNavigation() {
+  const nav = $("#navigation");
+  new ResizeObserver(() =>
+    document.documentElement.style.setProperty("--haut-nav", `${nav.offsetHeight}px`),
+  ).observe(nav);
+
+  $("#titre-navigation").addEventListener("click", (e) => {
+    e.preventDefault();
+    window.scrollTo({ top: 0 });
+  });
+  $("#nav-frise").addEventListener("click", basculerFrise);
+  $("#nav-carte").addEventListener("click", () => {
+    fermerFrise();
+    $("#vue-carte").scrollIntoView({ block: "start" });
+  });
+  $("#nav-chercher").addEventListener("click", () => {
+    fermerFrise();
+    $("#panneau-filtres").open = true;
+    if ($(".corps").getBoundingClientRect().top > 0) $(".corps").scrollIntoView({ block: "start" });
+    $(".filtres").scrollTop = 0;
+    $("#recherche").focus({ preventScroll: true });
+  });
+  document.addEventListener("keydown", (e) => {
+    if (e.key === "Escape") fermerFrise();
+  });
+}
+
+function construireNavigation() {
+  const liste = $("#nav-ages");
+  liste.replaceChildren();
+  for (const ere of etat.ref.eres) {
+    const bouton = creer("button", { type: "button", className: "nav-age", textContent: t(ere.court), title: t(ere.nom), "data-ere": ere.id });
+    bouton.addEventListener("click", () => allerAge(ere.id));
+    liste.append(creer("li", { style: `flex: ${ere.poids} 1 0` }, bouton));
+  }
+}
+
+function allerAge(id) {
+  fermerFrise();
+  const titres = chroniqueConstruite.eres.get(id);
+  if (!titres) return;
+  if (titres[0].hidden) effacerFiltres();
+  choisirAge(id);
+  titres[0].scrollIntoView({ block: "start" });
+}
+
+// La frise se déroule sous la barre pendant la lecture. En haut de page, elle
+// est déjà visible : on y remonte simplement.
+function basculerFrise() {
+  const vueFrise = $("#vue-frise");
+  if (vueFrise.classList.contains("flottante")) {
+    fermerFrise();
+    return;
+  }
+  if ($(".corps").getBoundingClientRect().top > window.innerHeight / 2) {
+    $("#emplacement-frise").scrollIntoView({ block: "start" });
+    return;
+  }
+  const emplacement = $("#emplacement-frise");
+  emplacement.style.minHeight = `${emplacement.offsetHeight}px`;
+  vueFrise.classList.add("flottante");
+  $("#nav-frise").setAttribute("aria-expanded", "true");
+  const courant = etat.evenements.find((ev) => ev.id === etat.courant);
+  if (courant) choisirAge(courant.ere);
+  else if (etat.ageFrise) construireDetail();
+}
+
+function fermerFrise() {
+  const vueFrise = $("#vue-frise");
+  if (!vueFrise.classList.contains("flottante")) return;
+  vueFrise.classList.remove("flottante");
+  $("#emplacement-frise").style.minHeight = "";
+  $("#nav-frise").setAttribute("aria-expanded", "false");
+  if (etat.ageFrise) construireDetail();
+}
+
+// Suit l'événement en cours de lecture : une fine bande sous la barre fixe dit
+// quel article passe, sans calcul à chaque défilement.
+let suivi = null;
+function suivreLecture() {
+  suivi?.disconnect();
+  const haut = $("#navigation").offsetHeight + 8;
+  suivi = new IntersectionObserver((entrees) => {
+    for (const entree of entrees) {
+      if (entree.target.id === "chronique") {
+        if (!entree.isIntersecting) majLecture(null);
+      } else if (entree.isIntersecting) {
+        majLecture(entree.target.id);
+      }
+    }
+  }, { rootMargin: `-${haut}px 0px -75% 0px` });
+  suivi.observe($("#chronique"));
+  for (const article of chroniqueConstruite.evenements.values()) suivi.observe(article);
+}
+
+function majLecture(id) {
+  document.querySelector(".point.courant")?.classList.remove("courant");
+  etat.courant = id;
+  const ev = id && etat.evenements.find((e) => e.id === id);
+  $("#nav-position").textContent = ev ? `${formaterDate(ev)}, ${t(etat.ref.eres.find((e) => e.id === ev.ere).court)}` : "";
+  const dansAge = ev ? etat.evenements.filter((e) => e.ere === ev.ere) : [];
+  document.querySelectorAll(".nav-age").forEach((bouton) => {
+    const actif = ev && bouton.dataset.ere === ev.ere;
+    if (actif) bouton.setAttribute("aria-current", "true");
+    else bouton.removeAttribute("aria-current");
+    const avancee = actif ? (dansAge.indexOf(ev) + 1) / dansAge.length : 0;
+    bouton.style.setProperty("--avancee", String(avancee));
+  });
+  if (id) document.querySelector(`.point[data-id="${CSS.escape(id)}"]`)?.classList.add("courant");
+}
+
+/* Frise d'ensemble : le relief de toute l'histoire, puis l'âge déplié. */
+
+const NB_CASES = 200;
+
+function casesFrise(liste) {
+  let cases = new Array(NB_CASES).fill(0);
+  for (const ev of liste) cases[Math.min(NB_CASES - 1, Math.floor(position(ev.annee) * NB_CASES))] += 1;
+  cases = cases.map(Math.sqrt);
+  for (let passe = 0; passe < 2; passe++) {
+    cases = cases.map((_, i) =>
+      ((cases[i - 1] ?? 0) + 2 * cases[i] + (cases[i + 1] ?? 0)) / 4,
+    );
+  }
+  return cases;
+}
+
+function tracerRelief(cases, maximum) {
+  const points = cases.map((v, i) => `${i + 0.5} ${(100 - (96 * v) / maximum).toFixed(2)}`);
+  return `M0 100 L${points.join(" L")} L${NB_CASES} 100 Z`;
+}
+
 function construireFrise() {
   const frise = $("#frise");
   frise.replaceChildren();
-  const total = etat.ref.eres.reduce((s, e) => s + e.poids, 0);
 
+  const toutes = casesFrise(etat.evenements);
+  frises.maximum = Math.max(...toutes);
+  frises.retenue = creerSvg("path", { class: "retenue" });
+  const svg = creerSvg("svg", { class: "silhouette", viewBox: `0 0 ${NB_CASES} 100`, preserveAspectRatio: "none", "aria-hidden": "true" });
+  svg.append(creerSvg("path", { class: "reference", d: tracerRelief(toutes, frises.maximum) }), frises.retenue);
+  frise.append(svg);
+
+  frises.comptes.clear();
   for (const ere of etat.ref.eres) {
-    frise.append(
-      creer("div", { className: "age", style: `flex: ${ere.poids / total} 1 0` },
-        creer("span", { className: "age-debut", textContent: String(ere.debut) }),
-        creer("span", { className: "age-nom", textContent: t(ere.nom) }),
-      ),
+    const compte = creer("span", { className: "age-compte" });
+    frises.comptes.set(ere.id, compte);
+    const bouton = creer("button", { type: "button", className: "age", title: t(ere.nom), style: `flex: ${ere.poids} 1 0`, "data-ere": ere.id },
+      creer("span", { className: "age-debut", textContent: String(ere.debut) }),
+      creer("span", { className: "age-nom", textContent: t(ere.court) }),
+      compte,
     );
+    bouton.addEventListener("click", () => choisirAge(etat.ageFrise === ere.id ? null : ere.id));
+    frise.append(bouton);
   }
 
   const tow = etat.ref.epoque_tow;
@@ -372,25 +622,152 @@ function construireFrise() {
       style: `left: ${g}%; width: ${d - g}%`,
     }));
   }
-
-  const factions = index(etat.ref.factions);
-  for (const ev of etat.evenements) {
-    const couleur = factions[ev.factions[0]]?.couleur ?? "var(--encre)";
-    const libelle = `${formaterDate(ev)}, ${t(ev.titre)}`;
-    const trait = creer("button", {
-      type: "button",
-      className: "trait",
-      title: libelle,
-      "data-id": ev.id,
-      "data-importance": ev.importance,
-      style: `left: ${position(ev.annee) * 100}%; --couleur: ${couleur}`,
-    });
-    trait.setAttribute("role", "listitem");
-    trait.setAttribute("aria-label", libelle);
-    trait.addEventListener("click", () => montrer(ev.id));
-    frise.append(trait);
-  }
+  choisirAge(etat.ageFrise);
 }
+
+const frises = { maximum: 1, retenue: null, comptes: new Map(), ids: null, largeur: 0 };
+
+function majFrise(visibles, ids) {
+  frises.ids = ids;
+  frises.retenue?.setAttribute("d", tracerRelief(casesFrise(visibles), frises.maximum));
+  for (const [ere, compte] of frises.comptes) {
+    compte.textContent = String(visibles.filter((ev) => ev.ere === ere).length);
+  }
+  document.querySelectorAll(".point").forEach((p) => p.classList.toggle("estompe", !ids.has(p.dataset.id)));
+}
+
+function choisirAge(id) {
+  etat.ageFrise = id;
+  document.querySelectorAll(".age").forEach((a) => a.setAttribute("aria-pressed", String(a.dataset.ere === id)));
+  construireDetail();
+}
+
+function pasGraduation(duree) {
+  return [1, 2, 5, 10, 20, 25, 50, 100, 200, 250, 500, 1000].find((p) => duree / p <= 8) ?? 2000;
+}
+
+function construireDetail() {
+  const zone = $("#detail-age");
+  const ere = etat.ref.eres.find((e) => e.id === etat.ageFrise);
+  zone.hidden = !ere;
+  zone.replaceChildren();
+  if (!ere) return;
+
+  const dansAge = etat.evenements.filter((ev) => ev.ere === ere.id);
+  const lire = creer("button", { type: "button", textContent: T().lireAge });
+  lire.addEventListener("click", () => allerAge(ere.id));
+  const fermer = creer("button", { type: "button", textContent: T().fermer });
+  fermer.addEventListener("click", () => {
+    if ($("#vue-frise").classList.contains("flottante")) fermerFrise();
+    else choisirAge(null);
+  });
+  const nuage = creer("div", { className: "points" });
+  const graduations = creer("div", { className: "graduations", "aria-hidden": "true" });
+  const bulle = creer("div", { className: "infobulle", hidden: true });
+  zone.append(
+    creer("div", { className: "detail-entete" },
+      creer("h3", { textContent: t(ere.nom) }),
+      creer("p", { textContent: `${formaterAnnee(ere.debut)}${T().jusqua}${formaterAnnee(ere.fin)}, ${T().evenements(dansAge.length)}` }),
+      lire,
+      fermer,
+    ),
+    nuage,
+    graduations,
+    bulle,
+  );
+  zone.style.position = "relative";
+
+  const largeur = nuage.clientWidth;
+  frises.largeur = largeur;
+  if (!largeur) return;
+  const hauteur = nuage.clientHeight;
+  const duree = ere.fin - ere.debut;
+  const place = (annee) => Math.min(Math.max((annee - ere.debut) / duree, 0), 1);
+
+  const tow = etat.ref.epoque_tow;
+  if (tow && tow.debut < ere.fin && tow.fin > ere.debut) {
+    const g = place(tow.debut) * 100;
+    nuage.append(creer("div", { className: "bande-tow", style: `left: ${g}%; width: ${place(tow.fin) * 100 - g}%` }));
+  }
+
+  // Le plus grand point dont la pile la plus haute tient dans le cadre.
+  let colonnes = new Map();
+  let taille = 3;
+  for (const essai of [11, 10, 9, 8, 7, 6, 5, 4, 3]) {
+    colonnes = new Map();
+    for (const ev of dansAge) {
+      const c = Math.round((place(ev.annee) * (largeur - essai)) / essai);
+      if (!colonnes.has(c)) colonnes.set(c, []);
+      colonnes.get(c).push(ev);
+    }
+    taille = essai;
+    if (Math.max(...[...colonnes.values()].map((l) => l.length)) * essai <= hauteur) break;
+  }
+
+  const boutons = [];
+  for (const [c, liste] of colonnes) {
+    liste.sort((a, b) => b.importance - a.importance);
+    liste.forEach((ev, i) => {
+      const point = creer("button", {
+        type: "button",
+        className: "point",
+        tabIndex: -1,
+        "data-id": ev.id,
+        "data-importance": ev.importance,
+        style: `left: ${c * taille}px; bottom: ${i * taille + 1}px; width: ${taille - 1}px; height: ${taille - 1}px; --couleur: ${index(etat.ref.factions)[ev.factions[0]]?.couleur}`,
+      });
+      point.setAttribute("aria-label", `${formaterDate(ev)}, ${t(ev.titre)}`);
+      if (frises.ids && !frises.ids.has(ev.id)) point.classList.add("estompe");
+      if (ev.id === etat.courant) point.classList.add("courant");
+      boutons.push({ point, ev });
+    });
+  }
+  boutons.sort((a, b) => a.ev.annee - b.ev.annee || b.ev.importance - a.ev.importance);
+  boutons.forEach(({ point }) => nuage.append(point));
+  if (boutons[0]) boutons[0].point.tabIndex = 0;
+
+  const pas = pasGraduation(duree);
+  for (let a = Math.ceil(ere.debut / pas) * pas; a <= ere.fin; a += pas) {
+    graduations.append(creer("span", { textContent: String(a), style: `left: ${place(a) * 100}%` }));
+  }
+
+  const parPoint = new Map(boutons.map(({ point, ev }) => [point, ev]));
+  const montrerBulle = (point) => {
+    const ev = parPoint.get(point);
+    if (!ev) return;
+    bulle.replaceChildren(creer("small", { textContent: formaterDate(ev) }), t(ev.titre));
+    bulle.hidden = false;
+    const cadre = zone.getBoundingClientRect();
+    const p = point.getBoundingClientRect();
+    const l = bulle.offsetWidth;
+    bulle.style.left = `${Math.min(Math.max(p.left - cadre.left - l / 2, 0), cadre.width - l)}px`;
+    bulle.style.top = `${p.top - cadre.top - bulle.offsetHeight - 6}px`;
+  };
+  nuage.addEventListener("pointerover", (e) => montrerBulle(e.target));
+  nuage.addEventListener("pointerleave", () => (bulle.hidden = true));
+  nuage.addEventListener("focusin", (e) => montrerBulle(e.target));
+  nuage.addEventListener("focusout", () => (bulle.hidden = true));
+  nuage.addEventListener("click", (e) => {
+    const ev = parPoint.get(e.target);
+    if (ev) montrer(ev.id);
+  });
+  nuage.addEventListener("keydown", (e) => {
+    const sens = { ArrowRight: 1, ArrowLeft: -1 }[e.key];
+    if (!sens) return;
+    e.preventDefault();
+    const i = boutons.findIndex(({ point }) => point === document.activeElement);
+    const suivant = boutons[Math.min(Math.max(i + sens, 0), boutons.length - 1)]?.point;
+    if (!suivant) return;
+    boutons.forEach(({ point }) => (point.tabIndex = -1));
+    suivant.tabIndex = 0;
+    suivant.focus();
+  });
+}
+
+new ResizeObserver(() => {
+  const nuage = document.querySelector(".points");
+  if (etat.ref && nuage && nuage.clientWidth !== frises.largeur) construireDetail();
+}).observe(document.querySelector("#frise"));
 
 function montrer(id, fluide = true) {
   const cible = chroniqueConstruite.evenements.get(id);
@@ -400,7 +777,10 @@ function montrer(id, fluide = true) {
   document.querySelectorAll(".evenement.choisi").forEach((e) => e.classList.remove("choisi"));
   cible.classList.add("choisi");
   evoquerLieux(etat.evenements.find((ev) => ev.id === id)?.lieux ?? []);
-  cible.scrollIntoView({ behavior: fluide ? "smooth" : "auto", block: "start" });
+  // Sur une longue distance, le défilement fluide tomberait à côté : les
+  // événements hors de l'écran n'ont qu'une hauteur estimée.
+  const proche = Math.abs(cible.getBoundingClientRect().top) < 2500;
+  cible.scrollIntoView({ behavior: fluide && proche ? "smooth" : "auto", block: "start" });
   history.replaceState(null, "", `${location.search}#${id}`);
 }
 
@@ -424,7 +804,7 @@ async function chargerFondDeCarte() {
   if (!reponse.ok) throw new Error(`tuiles.json : ${reponse.status}`);
   const m = (tuiles.manifeste = await reponse.json());
   const svg = creerSvg("svg", { viewBox: `${m.x0 ?? 0} ${m.y0 ?? 0} ${m.largeur} ${m.hauteur}`, role: "group", preserveAspectRatio: "xMidYMid meet" });
-  const fond = creerSvg("g", { "aria-hidden": "true" });
+  const fond = creerSvg("g", { "aria-hidden": "true", class: "fond-tuiles" });
   fond.append(image("tuiles/fond.webp", m.x0 ?? 0, m.y0 ?? 0, m.largeur, m.hauteur));
   for (const niveau of m.niveaux) {
     const groupe = creerSvg("g");
@@ -1049,7 +1429,7 @@ function appliquer() {
   for (const [id, titres] of chroniqueConstruite.eres) titres.forEach((el) => (el.hidden = !eresVisibles.has(id)));
   chroniqueConstruite.vide.hidden = visibles.length > 0;
 
-  document.querySelectorAll(".trait").forEach((tr) => tr.classList.toggle("estompe", !ids.has(tr.dataset.id)));
+  majFrise(visibles, ids);
   document.querySelectorAll(".lieu[data-lieu]").forEach((g) => {
     const retenuLieu = etat.lieux.has(g.dataset.lieu);
     g.classList.toggle("retenu", retenuLieu);
@@ -1061,6 +1441,7 @@ function appliquer() {
 }
 
 function toutConstruire() {
+  construireNavigation();
   construireFrise();
   construireFiltres();
   if (etat.carte) {
@@ -1070,6 +1451,7 @@ function toutConstruire() {
   }
   construireChronique();
   appliquer();
+  suivreLecture();
 }
 
 async function charger() {
@@ -1079,6 +1461,8 @@ async function charger() {
   });
 
   construireSelecteurLangue();
+  brancherReglages();
+  brancherNavigation();
   etat.langue = langueInitiale() ?? (await demanderLangue());
   choisirLangue(etat.langue);
   brancherFiltres();

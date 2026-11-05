@@ -1,13 +1,13 @@
 {
   "eres": [
-    { "id": "anciens", "debut": -6000, "fin": -5600, "poids": 0.8, "nom": { "fr": "Le temps des Anciens", "en": "The time of the Old Ones", "de": "Die Zeit der Alten" } },
-    { "id": "grande-catastrophe", "debut": -5600, "fin": -2600, "poids": 1.5, "nom": { "fr": "La Grande Catastrophe et ses suites", "en": "The Great Catastrophe and its aftermath", "de": "Die Große Katastrophe und ihre Folgen" } },
-    { "id": "age-d-or", "debut": -2600, "fin": -1500, "poids": 1.3, "nom": { "fr": "L'âge d'or des Nains et des Elfes", "en": "The golden age of Dwarfs and Elves", "de": "Das goldene Zeitalter der Zwerge und Elfen" } },
-    { "id": "age-des-tribus", "debut": -1500, "fin": 1, "poids": 1.3, "nom": { "fr": "L'âge des tribus humaines", "en": "The age of the human tribes", "de": "Das Zeitalter der Menschenstämme" } },
-    { "id": "empire-sigmarite", "debut": 1, "fin": 1360, "poids": 1.8, "nom": { "fr": "L'Empire de Sigmar", "en": "Sigmar's Empire", "de": "Sigmars Imperium" } },
-    { "id": "trois-empereurs", "debut": 1360, "fin": 2304, "poids": 2.2, "nom": { "fr": "Le temps des Trois Empereurs", "en": "The time of the Three Emperors", "de": "Die Zeit der drei Kaiser" } },
-    { "id": "empire-reunifie", "debut": 2304, "fin": 2523, "poids": 1.8, "nom": { "fr": "L'Empire réunifié", "en": "The reunified Empire", "de": "Das wiedervereinte Imperium" } },
-    { "id": "fin-des-temps", "debut": 2523, "fin": 2528, "poids": 1.4, "nom": { "fr": "La Fin des Temps", "en": "The End Times", "de": "Die Endzeit" } }
+    { "id": "anciens", "debut": -6000, "fin": -5600, "poids": 0.8, "court": { "fr": "Anciens", "en": "Old Ones", "de": "Die Alten" }, "nom": { "fr": "Le temps des Anciens", "en": "The time of the Old Ones", "de": "Die Zeit der Alten" } },
+    { "id": "grande-catastrophe", "debut": -5600, "fin": -2600, "poids": 1.5, "court": { "fr": "Catastrophe", "en": "Catastrophe", "de": "Katastrophe" }, "nom": { "fr": "La Grande Catastrophe et ses suites", "en": "The Great Catastrophe and its aftermath", "de": "Die Große Katastrophe und ihre Folgen" } },
+    { "id": "age-d-or", "debut": -2600, "fin": -1500, "poids": 1.3, "court": { "fr": "Âge d'or", "en": "Golden age", "de": "Goldenes Zeitalter" }, "nom": { "fr": "L'âge d'or des Nains et des Elfes", "en": "The golden age of Dwarfs and Elves", "de": "Das goldene Zeitalter der Zwerge und Elfen" } },
+    { "id": "age-des-tribus", "debut": -1500, "fin": 1, "poids": 1.3, "court": { "fr": "Tribus", "en": "Tribes", "de": "St\u00e4mme" }, "nom": { "fr": "L'âge des tribus humaines", "en": "The age of the human tribes", "de": "Das Zeitalter der Menschenstämme" } },
+    { "id": "empire-sigmarite", "debut": 1, "fin": 1360, "poids": 1.8, "court": { "fr": "Sigmar", "en": "Sigmar", "de": "Sigmar" }, "nom": { "fr": "L'Empire de Sigmar", "en": "Sigmar's Empire", "de": "Sigmars Imperium" } },
+    { "id": "trois-empereurs", "debut": 1360, "fin": 2304, "poids": 2.2, "court": { "fr": "Trois Empereurs", "en": "Three Emperors", "de": "Drei Kaiser" }, "nom": { "fr": "Le temps des Trois Empereurs", "en": "The time of the Three Emperors", "de": "Die Zeit der drei Kaiser" } },
+    { "id": "empire-reunifie", "debut": 2304, "fin": 2523, "poids": 1.8, "court": { "fr": "Réunifié", "en": "Reunified", "de": "Wiedervereint" }, "nom": { "fr": "L'Empire réunifié", "en": "The reunified Empire", "de": "Das wiedervereinte Imperium" } },
+    { "id": "fin-des-temps", "debut": 2523, "fin": 2528, "poids": 1.4, "court": { "fr": "Fin des Temps", "en": "End Times", "de": "Endzeit" }, "nom": { "fr": "La Fin des Temps", "en": "The End Times", "de": "Die Endzeit" } }
   ],
   "epoque_tow": { "debut": 1979, "fin": 2302, "cadre": 2276 },
   "regions": [
