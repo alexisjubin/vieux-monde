@@ -5,12 +5,12 @@
   "fin": null,
   "approx": false,
   "titre": {
-   "fr": "La croisade de l'archilecteur Ulgrim au Fort de Bronze",
+   "fr": "La croisade de l'archilecteur Ulgrim au Donjon d'Airain",
    "en": "Arch Lector Ulgrim's crusade to the Brass Keep",
    "de": "Der Kreuzzug des Erzlektors Ulgrim zur Messingfeste"
   },
   "resume": {
-   "fr": "Le culte de Sigmar veut revendiquer tous les lieux où son dieu a combattu. L'archilecteur Ulgrim quitte Altdorf avec flagellants et guerriers saints, éprouve durement les villages du Middenland sur son passage, puis proclame terre sainte les ruines du Fort de Bronze, désertées par les Norses.",
+   "fr": "Le culte de Sigmar veut revendiquer tous les lieux où son dieu a combattu. L'archilecteur Ulgrim quitte Altdorf avec flagellants et guerriers saints, éprouve durement les villages du Middenland sur son passage, puis proclame terre sainte les ruines du Donjon d'Airain, désertées par les Norses.",
    "en": "The Cult of Sigmar sets out to claim every place where its god fought. Arch Lector Ulgrim leaves Altdorf with flagellants and holy warriors, does real harm to Middenland villages on the way, then declares the ruined Brass Keep, already abandoned by the Norscans, holy ground.",
    "de": "Der Sigmarkult will alle Orte beanspruchen, an denen sein Gott kämpfte. Erzlektor Ulgrim zieht mit Flagellanten und heiligen Kriegern aus Altdorf, schädigt unterwegs die Dörfer des Middenlands schwer und erklärt die von den Norsen verlassene Ruine der Messingfeste zu heiligem Boden."
   },
@@ -50,19 +50,6 @@
     },
     "detail": "",
     "url": "https://warhammerfantasy.fandom.com/wiki/Brass_Keep"
-   },
-   {
-    "titre": {
-     "fr": "The Horned Rat Companion, Warhammer Fantasy Roleplay (4e édition)",
-     "en": "The Horned Rat Companion, Warhammer Fantasy Roleplay (4th edition)",
-     "de": "The Horned Rat Companion, Warhammer Fantasy Roleplay (4. Edition)"
-    },
-    "detail": {
-     "fr": "p. 74",
-     "en": "p. 74",
-     "de": "S. 74"
-    },
-    "url": ""
    }
   ]
  },
@@ -270,7 +257,7 @@
    "empire"
   ],
   "importance": 1,
-  "fiabilite": "incertain",
+  "fiabilite": "etabli",
   "note": "",
   "sources": [
    {
@@ -283,6 +270,19 @@
      "fr": "p. 33",
      "en": "p. 33",
      "de": "S. 33"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2e édition",
+     "en": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2nd edition",
+     "de": "Sigmar's Heirs, Warhammer Fantasy Roleplay 2. Edition"
+    },
+    "detail": {
+     "fr": "p. 83",
+     "en": "p. 83",
+     "de": "S. 83"
     },
     "url": ""
    },
@@ -361,7 +361,7 @@
    "de": "Goldgathers Goldgrubbers"
   },
   "resume": {
-   "fr": "En pleine Peste noire, Boris Goldgather installe à Altdorf une guilde impériale d'excise chargée de maintenir les rentrées fiscales. Les habitants surnomment ces percepteurs les Goldgrubbers de Goldgather.",
+   "fr": "En pleine Peste noire, Boris Goldgather installe à Altdorf une guilde impériale d'accise chargée de maintenir les rentrées fiscales. Les habitants surnomment ces percepteurs les Goldgrubbers de Goldgather.",
    "en": "In the midst of the Black Death, Boris Goldgather installs an Imperial Guild of Excise in Altdorf to keep revenue flowing. The townsfolk call these collectors Goldgather's Goldgrubbers.",
    "de": "Mitten in der Pest setzt Boris Goldgather in Altdorf eine kaiserliche Akzisegilde ein, die die Einnahmen sichern soll. Die Einwohner nennen diese Steuereintreiber Goldgathers Goldgrubbers."
   },
@@ -1092,12 +1092,12 @@
   "fin": null,
   "approx": false,
   "titre": {
-   "fr": "Mordrek reprend le Fort de Bronze",
+   "fr": "Mordrek reprend le Donjon d'Airain",
    "en": "Mordrek retakes the Brass Keep",
    "de": "Mordrek erobert die Messingfeste zurück"
   },
   "resume": {
-   "fr": "Tombé d'Ostland aux mains d'une Waaagh!, le Fort de Bronze est repris par le comte Mordrek, fils de l'empereur du Reikland, à la tête de Middenlanders sigmarites. Son gouvernement tourne mal et il finit par embrasser les Puissances de la Ruine, sous le nom de Mordrek le Damné.",
+   "fr": "Tombé d'Ostland aux mains d'une Waaagh!, le Donjon d'Airain est repris par le comte Mordrek, fils de l'empereur du Reikland, à la tête de Middenlanders sigmarites. Son gouvernement tourne mal et il finit par embrasser les Puissances de la Ruine, sous le nom de Mordrek le Damné.",
    "en": "Lost by Ostland to a Waaagh!, the Brass Keep is retaken by Count Mordrek, son of the Reikland Emperor, leading Sigmarite Middenlanders. His rule goes badly and he ends by embracing the Ruinous Powers as Mordrek the Damned.",
    "de": "Die von Ostland an eine Waaagh! verlorene Messingfeste wird von Graf Mordrek, dem Sohn des Reikland-Kaisers, mit sigmaritischen Middenländern zurückerobert. Seine Herrschaft nimmt ein schlimmes Ende, und als Mordrek der Verdammte verschreibt er sich den Verderblichen Mächten."
   },
@@ -1141,19 +1141,6 @@
    },
    {
     "titre": {
-     "fr": "The Horned Rat Companion, Warhammer Fantasy Roleplay (4e édition)",
-     "en": "The Horned Rat Companion, Warhammer Fantasy Roleplay (4th edition)",
-     "de": "The Horned Rat Companion, Warhammer Fantasy Roleplay (4. Edition)"
-    },
-    "detail": {
-     "fr": "p. 75",
-     "en": "p. 75",
-     "de": "S. 75"
-    },
-    "url": ""
-   },
-   {
-    "titre": {
      "fr": "Wiki Warhammer Fantasy (fandom), page Brass Keep",
      "en": "Warhammer Fantasy Wiki (fandom), Brass Keep page",
      "de": "Warhammer Fantasy Wiki (fandom), Seite Brass Keep"
@@ -1182,9 +1169,7 @@
   "regions": [
    "empire"
   ],
-  "lieux": [
-   "middenheim"
-  ],
+  "lieux": [],
   "factions": [
    "empire"
   ],
@@ -1227,9 +1212,9 @@
    "de": "Marienburg schützt seine Zauberer"
   },
   "resume": {
-   "fr": "La guerre des Sorciers achevée en 1991 débouche sur une répression sanglante de la sorcellerie dans le Vieux Monde. À Marienburg, l'Ordre fraternel des bourgmestres, ancêtre de la Bourse d'import-export, prend les sorciers sous sa protection.",
-   "en": "The Wizards' War, ended in 1991, gives way to a bloody repression of sorcery across the Old World. In Marienburg the Fraternal Order of Burgomeisters, forerunner of the Wasteland Export-Import Exchange, takes the wizards under its protection.",
-   "de": "Auf den 1991 beendeten Zaubererkrieg folgt eine blutige Unterdrückung der Zauberei in der Alten Welt. In Marienburg nimmt der Brüderliche Orden der Bürgermeister, Vorläufer der Import-Export-Börse, die Zauberer in Schutz."
+   "fr": "Deux ans après la fin de la guerre des Sorciers, des pressions religieuses entraînent une répression sanglante de la sorcellerie dans le Vieux Monde. À Marienburg, l'Ordre fraternel des bourgmestres, ancêtre de la Bourse d'import-export, prend les sorciers sous sa protection.",
+   "en": "Two years after the end of the Wizards' War, religious pressure brings a bloody repression of sorcery across the Old World. In Marienburg the Fraternal Order of Burgomeisters, forerunner of the Wasteland Export-Import Exchange, takes the wizards under its protection.",
+   "de": "Zwei Jahre nach dem Ende des Zaubererkriegs führt religiöser Druck zu einer blutigen Unterdrückung der Zauberei in der Alten Welt. In Marienburg nimmt der Brüderliche Orden der Bürgermeister, Vorläufer der Import-Export-Börse, die Zauberer in Schutz."
   },
   "ere": "trois-empereurs",
   "regions": [
@@ -1370,8 +1355,12 @@
    "empire"
   ],
   "importance": 2,
-  "fiabilite": "incertain",
-  "note": "",
+  "fiabilite": "divergent",
+  "note": {
+   "fr": "Realms of Sorcery 2e édition nomme l'édit de 2004, alors que la 1re édition fait confirmer par Magnus une charte de 1913 au contenu voisin.",
+   "en": "Realms of Sorcery 2nd edition names the edict of 2004, whereas the 1st edition has Magnus confirm a charter of 1913 with similar content.",
+   "de": "Realms of Sorcery 2. Edition nennt das Edikt von 2004, die 1. Edition lässt Magnus dagegen eine inhaltlich ähnliche Charta von 1913 bestätigen."
+  },
   "sources": [
    {
     "titre": {
@@ -1388,12 +1377,34 @@
    },
    {
     "titre": {
+     "fr": "Realms of Sorcery, Warhammer Fantasy Roleplay 1e édition",
+     "en": "Realms of Sorcery, Warhammer Fantasy Roleplay 1st edition",
+     "de": "Realms of Sorcery, Warhammer Fantasy Roleplay 1. Edition"
+    },
+    "detail": {
+     "fr": "p. 22-24",
+     "en": "pp. 22-24",
+     "de": "S. 22-24"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
      "fr": "Wiki Warhammer Fantasy (fandom), page Articles of Imperial Magic",
      "en": "Warhammer Fantasy Wiki (fandom), Articles of Imperial Magic page",
      "de": "Warhammer Fantasy Wiki (fandom), Seite Articles of Imperial Magic"
     },
     "detail": "",
     "url": "https://warhammerfantasy.fandom.com/wiki/Articles_of_Imperial_Magic"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Magical License",
+     "en": "Warhammer Fantasy Wiki (fandom), Magical License page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Magical License"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Magical_License"
    }
   ]
  },
@@ -1787,6 +1798,19 @@
   "sources": [
    {
     "titre": {
+     "fr": "Altdorf: Crown of the Empire, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Altdorf: Crown of the Empire, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Altdorf: Crown of the Empire, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 11",
+     "en": "p. 11",
+     "de": "S. 11"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
      "fr": "WFRP: Folk and Folklore of the Reikland Part 7, Cubicle 7",
      "en": "WFRP: Folk and Folklore of the Reikland Part 7, Cubicle 7",
      "de": "WFRP: Folk and Folklore of the Reikland Part 7, Cubicle 7"
@@ -1940,9 +1964,9 @@
      "de": "Realms of Sorcery, Warhammer Fantasy Roleplay 2. Edition"
     },
     "detail": {
-     "fr": "p. 28",
-     "en": "p. 28",
-     "de": "S. 28"
+     "fr": "p. 28-29",
+     "en": "pp. 28-29",
+     "de": "S. 28-29"
     },
     "url": ""
    },
@@ -2086,9 +2110,9 @@
      "de": "Marienburg: Sold Down the River, Warhammer Fantasy Roleplay 1. Edition"
     },
     "detail": {
-     "fr": "p. 21",
-     "en": "p. 21",
-     "de": "S. 21"
+     "fr": "p. 17-21",
+     "en": "pp. 17-21",
+     "de": "S. 17-21"
     },
     "url": ""
    },
@@ -2156,6 +2180,19 @@
      "fr": "p. 29",
      "en": "p. 29",
      "de": "S. 29"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Warhammer Armies: The Empire, 7e édition",
+     "en": "Warhammer Armies: The Empire, 7th edition",
+     "de": "Warhammer Armies: The Empire, 7. Edition"
+    },
+    "detail": {
+     "fr": "p. 40",
+     "en": "p. 40",
+     "de": "S. 40"
     },
     "url": ""
    },
@@ -2400,9 +2437,9 @@
    "de": "Wilhelm Leibers Buch als Häresie verurteilt"
   },
   "resume": {
-   "fr": "L'Église d'Altdorf condamne The Loathsome Ratmen and All Their Vile Kin, paru vingt ans plus tôt, et l'ouvrage sur les Skavens est brûlé en public. Leiber sombre dans la folie, puis se suicide peu après son internement.",
-   "en": "The church of Altdorf condemns The Loathsome Ratmen and All Their Vile Kin, published twenty years earlier, and the work on the Skaven is publicly burned. Leiber goes mad and takes his own life soon after being confined.",
-   "de": "Die Kirche von Altdorf verurteilt das zwanzig Jahre zuvor erschienene Werk The Loathsome Ratmen and All Their Vile Kin über die Skaven, und es wird öffentlich verbrannt. Leiber verfällt dem Wahnsinn und nimmt sich bald nach seiner Einweisung das Leben."
+   "fr": "L'Église d'Altdorf condamne The Loathsome Ratmen and All Their Vile Kin, paru vingt ans plus tôt, et l'ouvrage sur les Skavens est brûlé en public. Leiber sombre dans la folie, et l'asile où il est interné annonce son suicide dans la semaine.",
+   "en": "The church of Altdorf condemns The Loathsome Ratmen and All Their Vile Kin, published twenty years earlier, and the work on the Skaven is publicly burned. Leiber goes mad, and the asylum that takes him in reports his suicide within the week.",
+   "de": "Die Kirche von Altdorf verurteilt das zwanzig Jahre zuvor erschienene Werk The Loathsome Ratmen and All Their Vile Kin über die Skaven, und es wird öffentlich verbrannt. Leiber verfällt dem Wahnsinn, und die Anstalt, in die er kommt, meldet binnen einer Woche seinen Selbstmord."
   },
   "ere": "empire-reunifie",
   "regions": [
@@ -2429,6 +2466,19 @@
      "fr": "p. 0-4",
      "en": "pp. 0-4",
      "de": "S. 0-4"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Children of the Horned Rat, Warhammer Fantasy Roleplay 2e édition",
+     "en": "Children of the Horned Rat, Warhammer Fantasy Roleplay 2nd edition",
+     "de": "Children of the Horned Rat, Warhammer Fantasy Roleplay 2. Edition"
+    },
+    "detail": {
+     "fr": "p. 18",
+     "en": "p. 18",
+     "de": "S. 18"
     },
     "url": ""
    },
@@ -2500,6 +2550,19 @@
    },
    {
     "titre": {
+     "fr": "Signs of Faith, Warhammer Fantasy Roleplay 3e édition",
+     "en": "Signs of Faith, Warhammer Fantasy Roleplay 3rd edition",
+     "de": "Signs of Faith, Warhammer Fantasy Roleplay 3. Edition"
+    },
+    "detail": {
+     "fr": "p. 13",
+     "en": "p. 13",
+     "de": "S. 13"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
      "fr": "Wiki Warhammer Fantasy (fandom), page Shroud of Magnus",
      "en": "Warhammer Fantasy Wiki (fandom), Shroud of Magnus page",
      "de": "Warhammer Fantasy Wiki (fandom), Seite Shroud of Magnus"
@@ -2545,9 +2608,9 @@
      "de": "Marienburg: Sold Down the River, Warhammer Fantasy Roleplay 1. Edition"
     },
     "detail": {
-     "fr": "p. 21",
-     "en": "p. 21",
-     "de": "S. 21"
+     "fr": "p. 17-21",
+     "en": "pp. 17-21",
+     "de": "S. 17-21"
     },
     "url": ""
    },
@@ -2558,9 +2621,9 @@
      "de": "Shades of Empire, Warhammer Fantasy Roleplay 2. Edition"
     },
     "detail": {
-     "fr": "p. 75",
-     "en": "p. 75",
-     "de": "S. 75"
+     "fr": "p. 76",
+     "en": "p. 76",
+     "de": "S. 76"
     },
     "url": ""
    },
@@ -2805,9 +2868,9 @@
    "de": "Zerstörung des Klosters Hammerfall"
   },
   "resume": {
-   "fr": "Les forces de la Ruine détruisent le monastère de Hammerfall. Des novices de la Croix impériale évacuent reliques et livres, dont le Livre célestin de divination, qui parviendra au templier Diederick Kastner et précipitera la chute des Templiers.",
-   "en": "The forces of Ruin destroy the monastery of Hammerfall. Novices of the Imperial Cross carry off relics and books, among them the Celestine Book of Divination, which will reach the Templar Diederick Kastner and bring about the Templars' fall.",
-   "de": "Die Mächte des Verderbens zerstören das Kloster Hammerfall. Novizen des Kaiserlichen Kreuzes retten Reliquien und Bücher, darunter das Zölestinische Buch der Weissagung, das zum Templer Diederick Kastner gelangt und den Fall der Templer herbeiführt."
+   "fr": "Les forces de la Ruine détruisent le monastère de Hammerfall. Des novices de la Croix impériale évacuent reliques et livres, dont le Livre célestin de divination, qui parviendra au templier Diederick Kastner et précipitera sa chute.",
+   "en": "The forces of Ruin destroy the monastery of Hammerfall. Novices of the Imperial Cross carry off relics and books, among them the Celestine Book of Divination, which will reach the Templar Diederick Kastner and bring about his fall.",
+   "de": "Die Mächte des Verderbens zerstören das Kloster Hammerfall. Novizen des Kaiserlichen Kreuzes retten Reliquien und Bücher, darunter das Zölestinische Buch der Weissagung, das zum Templer Diederick Kastner gelangt und dessen Fall herbeiführt."
   },
   "ere": "empire-reunifie",
   "regions": [
@@ -3012,9 +3075,9 @@
      "de": "Beasts in Velvet, Roman von Jack Yeovil"
     },
     "detail": {
-     "fr": "Partie 3, chap. 1",
-     "en": "Partie 3, chap. 1",
-     "de": "Partie 3, chap. 1"
+     "fr": "partie 3, chap. 1",
+     "en": "part 3, ch. 1",
+     "de": "Teil 3, Kap. 1"
     },
     "url": ""
    },
@@ -3228,9 +3291,9 @@
    "de": "Riemanns' Häfen gegen Marienburg"
   },
   "resume": {
-   "fr": "L'escroc Jens-Pieter Riemanns convainc électeurs et marchands de bâtir Salkalten et Neues Emskrank pour détourner le commerce de Marienburg. Incendies, accidents et crues frappent le chantier et, malgré l'ouverture en fanfare de 2462, le trafic promis ne vient jamais.",
-   "en": "The con-artist Jens-Pieter Riemanns persuades Electors and merchants to build up Salkalten and Neues Emskrank to draw trade from Marienburg. Fires, accidents and floods strike the works and, despite the fanfare of the 2462 opening, the promised traffic never comes.",
-   "de": "Der Betrüger Jens-Pieter Riemanns überredet Kurfürsten und Kaufleute, Salkalten und Neues Emskrank auszubauen, um Marienburg den Handel abzujagen. Brände, Unfälle und Fluten treffen die Bauarbeiten, und trotz der prunkvollen Eröffnung von 2462 bleibt der versprochene Verkehr aus."
+   "fr": "L'escroc Jens-Pieter Riemanns convainc électeurs et marchands de bâtir Salkalten et Neues Emskrank pour détourner le commerce de Marienburg. Incendies, accidents et une crue frappent le chantier et, malgré l'ouverture en fanfare de 2462, le trafic promis ne vient jamais.",
+   "en": "The con-artist Jens-Pieter Riemanns persuades Electors and merchants to build up Salkalten and Neues Emskrank to draw trade from Marienburg. Fires, accidents and a flood strike the works and, despite the fanfare of the 2462 opening, the promised traffic never comes.",
+   "de": "Der Betrüger Jens-Pieter Riemanns überredet Kurfürsten und Kaufleute, Salkalten und Neues Emskrank auszubauen, um Marienburg den Handel abzujagen. Brände, Unfälle und eine Flut treffen die Bauarbeiten, und trotz der prunkvollen Eröffnung von 2462 bleibt der versprochene Verkehr aus."
   },
   "ere": "empire-reunifie",
   "regions": [
@@ -3242,7 +3305,11 @@
   ],
   "importance": 1,
   "fiabilite": "etabli",
-  "note": "",
+  "note": {
+   "fr": "Sigmar's Heirs p. 66 fait ouvrir Neues Emskrank dès 2460, mais donne aussi l'ouverture des ports en 2462.",
+   "en": "Sigmar's Heirs p. 66 has Neues Emskrank open as early as 2460, but also gives 2462 for the opening of the ports.",
+   "de": "Sigmar's Heirs S. 66 lässt Neues Emskrank schon 2460 eröffnen, nennt aber auch 2462 für die Eröffnung der Häfen."
+  },
   "sources": [
    {
     "titre": {
@@ -3353,9 +3420,9 @@
    "de": "Schlacht auf der Ebene von Schrolnetz"
   },
   "resume": {
-   "fr": "Maximillian von Klaus, du Cercle intérieur des Chevaliers du Soleil flamboyant, mène une armée de l'Empire contre le vampire Antoine von Carstein et l'emporte. Antoine lui échappe et jure de se venger.",
-   "en": "Maximillian von Klaus, of the Inner Circle of the Knights of the Blazing Sun, leads an Imperial army against the vampire Antoine von Carstein and wins. Antoine escapes and swears revenge.",
-   "de": "Maximillian von Klaus aus dem Inneren Kreis der Ritter der Lodernden Sonne führt ein imperiales Heer gegen den Vampir Antoine von Carstein und siegt. Antoine entkommt und schwört Rache."
+   "fr": "Maximillian von Klaus, grand maître des Chevaliers du Soleil flamboyant, mène une armée de l'Empire contre le vampire Antoine von Carstein et l'emporte. Antoine lui échappe et jure de se venger.",
+   "en": "Maximillian von Klaus, Grand Master of the Knights of the Blazing Sun, leads an Imperial army against the vampire Antoine von Carstein and wins. Antoine escapes and swears revenge.",
+   "de": "Maximillian von Klaus, Großmeister der Ritter der Lodernden Sonne, führt ein imperiales Heer gegen den Vampir Antoine von Carstein und siegt. Antoine entkommt und schwört Rache."
   },
   "ere": "empire-reunifie",
   "regions": [
@@ -3429,7 +3496,7 @@
    "empire"
   ],
   "importance": 1,
-  "fiabilite": "incertain",
+  "fiabilite": "etabli",
   "note": "",
   "sources": [
    {
@@ -3439,9 +3506,22 @@
      "de": "Altdorf: Crown of the Empire, Warhammer Fantasy Roleplay 4. Edition"
     },
     "detail": {
-     "fr": "p. 151",
-     "en": "p. 151",
-     "de": "S. 151"
+     "fr": "p. 16 et 151",
+     "en": "pp. 16 and 151",
+     "de": "S. 16 und 151"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Signs of Faith, Warhammer Fantasy Roleplay 3e édition",
+     "en": "Signs of Faith, Warhammer Fantasy Roleplay 3rd edition",
+     "de": "Signs of Faith, Warhammer Fantasy Roleplay 3. Edition"
+    },
+    "detail": {
+     "fr": "p. 12",
+     "en": "p. 12",
+     "de": "S. 12"
     },
     "url": ""
    },
@@ -3467,17 +3547,15 @@
    "de": "Schlacht an der Schwarzen Straße oder Hertwigs Torheit"
   },
   "resume": {
-   "fr": "À peine adolescent, le comte électeur d'Ostermark Wolfram Hertwig refuse de céder le commandement au grand maître Kessler des Chevaliers de la Lumière éternelle. Kessler repart avec ses templiers et l'armée, livrée seule aux Orques, est massacrée. Hertwig en réchappe de justesse.",
-   "en": "Barely in his teens, Elector Count Wolfram Hertwig of Ostermark refuses to yield command to Grand Master Kessler of the Knights of the Everlasting Light. Kessler rides away with his templars and the army, left alone against the Orcs, is slaughtered. Hertwig barely escapes.",
-   "de": "Der kaum jugendliche Kurfürst Wolfram Hertwig von Ostermark verweigert Großmeister Kessler von den Rittern des Ewigen Lichts den Oberbefehl. Kessler zieht mit seinen Templern ab, und das Heer wird allein gegen die Orks niedergemetzelt. Hertwig entkommt nur knapp."
+   "fr": "À peine adolescent, le comte électeur d'Ostermark Wolfram Hertwig refuse de céder le commandement au grand maître Kessler des Chevaliers de la Lumière éternelle. Kessler repart avec ses templiers et l'armée affronte seule les Orques. Hertwig en réchappe de justesse et, si les Peaux-vertes sont finalement vaincus, les pertes laissent l'Ostermark longtemps dépendant de ses voisins.",
+   "en": "Barely in his teens, Elector Count Wolfram Hertwig of Ostermark refuses to yield command to Grand Master Kessler of the Knights of the Everlasting Light. Kessler rides away with his templars and the army faces the Orcs alone. Hertwig barely escapes and, though the Greenskins are finally beaten, the losses leave Ostermark long dependent on its neighbours.",
+   "de": "Der kaum jugendliche Kurfürst Wolfram Hertwig von Ostermark verweigert Großmeister Kessler von den Rittern des Ewigen Lichts den Oberbefehl. Kessler zieht mit seinen Templern ab, und das Heer steht den Orks allein gegenüber. Hertwig entkommt nur knapp, und obwohl die Grünhäute schließlich besiegt werden, bleibt Ostermark wegen der Verluste lange auf seine Nachbarn angewiesen."
   },
   "ere": "empire-reunifie",
   "regions": [
    "empire"
   ],
-  "lieux": [
-   "bechafen"
-  ],
+  "lieux": [],
   "factions": [
    "empire",
    "peaux-vertes"
@@ -3609,8 +3687,12 @@
    "empire"
   ],
   "importance": 1,
-  "fiabilite": "etabli",
-  "note": "",
+  "fiabilite": "divergent",
+  "note": {
+   "fr": "Shades of Empire et le chapitre historique d'Altdorf: Crown of the Empire donnent 2500 et cinq ans de guerre, mais la partie du même livre sur les gangs (p. 31-37) écrit 2498-2503.",
+   "en": "Shades of Empire and the history chapter of Altdorf: Crown of the Empire give 2500 and five years of war, but the section of that book on the gangs (pp. 31-37) says 2498-2503.",
+   "de": "Shades of Empire und das Geschichtskapitel von Altdorf: Crown of the Empire nennen 2500 und fünf Kriegsjahre, der Abschnitt desselben Buches über die Banden (S. 31-37) dagegen 2498-2503."
+  },
   "sources": [
    {
     "titre": {
@@ -3660,9 +3742,9 @@
    "de": "Die Unruhen von Streissen"
   },
   "resume": {
-   "fr": "Une maladie des récoltes provoque la disette à Streissen, ville d'Averland récemment dotée d'une charte. Sans véritable garde, les autorités sont impuissantes et des agitateurs proclament une commune. L'affaire ternit durablement la maison Alptraum.",
-   "en": "Crop disease brings food shortages to Streissen, an Averland town recently granted a charter. With hardly any watch the authorities are helpless, and agitators declare a commune. The affair lastingly tarnishes House Alptraum.",
-   "de": "Eine Pflanzenkrankheit bringt Hunger nach Streissen, einer jüngst privilegierten Stadt im Averland. Die Behörden sind mangels Stadtwache machtlos, und Aufwiegler rufen eine Kommune aus. Die Sache schadet dem Haus Alptraum nachhaltig."
+   "fr": "Une maladie des récoltes provoque la disette à Streissen, ville d'Averland dotée d'une charte depuis quelques décennies. Sans véritable garde, les autorités sont impuissantes et des agitateurs proclament une commune. L'affaire ternit durablement la maison Alptraum.",
+   "en": "Crop disease brings food shortages to Streissen, an Averland town that had held a charter for some decades. With hardly any watch the authorities are helpless, and agitators declare a commune. The affair lastingly tarnishes House Alptraum.",
+   "de": "Eine Pflanzenkrankheit bringt Hunger nach Streissen, einer Stadt im Averland, die seit einigen Jahrzehnten eine Charta besitzt. Die Behörden sind mangels Stadtwache machtlos, und Aufwiegler rufen eine Kommune aus. Die Sache schadet dem Haus Alptraum nachhaltig."
   },
   "ere": "empire-reunifie",
   "regions": [
@@ -3746,9 +3828,9 @@
      "de": "Drachenfels, Roman von Jack Yeovil"
     },
     "detail": {
-     "fr": "Acte 3, chap. 11",
-     "en": "Acte 3, chap. 11",
-     "de": "Acte 3, chap. 11"
+     "fr": "acte 3, chap. 11 et acte 5, chap. 15",
+     "en": "act 3, ch. 11 and act 5, ch. 15",
+     "de": "Akt 3, Kap. 11 und Akt 5, Kap. 15"
     },
     "url": ""
    },
@@ -3860,8 +3942,12 @@
    "chaos"
   ],
   "importance": 2,
-  "fiabilite": "etabli",
-  "note": "",
+  "fiabilite": "divergent",
+  "note": {
+   "fr": "Altdorf: Crown of the Empire et White Dwarf 140 donnent 2506, alors que Beasts in Velvet place les émeutes trois ans après Drachenfels, soit en 2508.",
+   "en": "Altdorf: Crown of the Empire and White Dwarf 140 give 2506, whereas Beasts in Velvet sets the riots three years after Drachenfels, that is in 2508.",
+   "de": "Altdorf: Crown of the Empire und White Dwarf 140 nennen 2506, Beasts in Velvet setzt die Unruhen dagegen drei Jahre nach Drachenfels an, also 2508."
+  },
   "sources": [
    {
     "titre": {
@@ -3870,9 +3956,9 @@
      "de": "Altdorf: Crown of the Empire, Warhammer Fantasy Roleplay 4. Edition"
     },
     "detail": {
-     "fr": "p. 16",
-     "en": "p. 16",
-     "de": "S. 16"
+     "fr": "p. 14-16 et 24",
+     "en": "pp. 14-16 and 24",
+     "de": "S. 14-16 und 24"
     },
     "url": ""
    },
@@ -3883,9 +3969,9 @@
      "de": "Beasts in Velvet, Roman von Jack Yeovil"
     },
     "detail": {
-     "fr": "Partie 4, chap. 1",
-     "en": "Partie 4, chap. 1",
-     "de": "Partie 4, chap. 1"
+     "fr": "partie 1, chap. 1 et partie 4, chap. 1",
+     "en": "part 1, ch. 1 and part 4, ch. 1",
+     "de": "Teil 1, Kap. 1 und Teil 4, Kap. 1"
     },
     "url": ""
    },
@@ -3920,15 +4006,17 @@
    "de": "Die Vision der Schwester Griselda von Velten"
   },
   "resume": {
-   "fr": "Pendant la parade de Sonnstill, une sœur de l'ordre de la Foi et de la Chasteté, visitée par Morr, annonce devant la foule que la fin approche, puis meurt. Après un an d'échanges houleux avec Volkmar, la matriarche renonce à l'isolement et prépare ses sœurs à la guerre.",
-   "en": "During the Sonnstill Parade a sister of the Order of Faith and Chastity, visited by Morr, tells the crowd that the end is coming, then dies. After a year of heated exchanges with Volkmar, the Matriarch gives up isolation and readies her sisters for war.",
-   "de": "Während der Sonnstillparade verkündet eine von Morr heimgesuchte Schwester des Ordens von Glaube und Keuschheit der Menge das nahe Ende und stirbt. Nach einem Jahr hitziger Briefwechsel mit Volkmar gibt die Matriarchin die Abgeschiedenheit auf und bereitet ihre Schwestern auf den Krieg vor."
+   "fr": "Pendant la parade de Sonnstill, une sœur de l'ordre de la Foi et de la Chasteté, visitée par Morr, annonce devant la foule que la fin approche, puis meurt. Un an plus tard, après des mois d'échanges houleux avec Volkmar, la matriarche renonce à l'isolement et prépare ses sœurs à la guerre.",
+   "en": "During the Sonnstill Parade a sister of the Order of Faith and Chastity, visited by Morr, tells the crowd that the end is coming, then dies. A year later, after months of heated exchanges with Volkmar, the Matriarch gives up isolation and readies her sisters for war.",
+   "de": "Während der Sonnstillparade verkündet eine von Morr heimgesuchte Schwester des Ordens von Glaube und Keuschheit der Menge das nahe Ende und stirbt. Ein Jahr später, nach Monaten hitziger Auseinandersetzungen mit Volkmar, gibt die Matriarchin die Abgeschiedenheit auf und bereitet ihre Schwestern auf den Krieg vor."
   },
   "ere": "empire-reunifie",
   "regions": [
    "empire"
   ],
-  "lieux": [],
+  "lieux": [
+   "altdorf"
+  ],
   "factions": [
    "empire"
   ],

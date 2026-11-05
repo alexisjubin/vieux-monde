@@ -30,6 +30,32 @@
   "sources": [
    {
     "titre": {
+     "fr": "Warhammer Armies: Orcs & Goblins, 7e édition",
+     "en": "Warhammer Armies: Orcs & Goblins, 7th edition",
+     "de": "Warhammer Armies: Orcs & Goblins, 7. Edition"
+    },
+    "detail": {
+     "fr": "p. 14",
+     "en": "p. 14",
+     "de": "S. 14"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Orcs & Goblins, 8e édition",
+     "en": "Warhammer Armies: Orcs & Goblins, 8th edition",
+     "de": "Warhammer Armies: Orcs & Goblins, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 28",
+     "en": "p. 28",
+     "de": "S. 28"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
      "fr": "Wiki Warhammer Fantasy (fandom), page Bloody Spearz Tribe",
      "en": "Warhammer Fantasy Wiki (fandom), Bloody Spearz Tribe page",
      "de": "Warhammer Fantasy Wiki (fandom), Seite Bloody Spearz Tribe"
@@ -119,9 +145,9 @@
    "de": "Plünderung von Boigenfastis"
   },
   "resume": {
-   "fr": "Des peaux-vertes mettent à sac Boigenfastis, la bourgade qui deviendra Bögenhafen.",
-   "en": "Greenskins sack Boigenfastis, the settlement that will later become Bögenhafen.",
-   "de": "Grünhäute plündern Boigenfastis, die Siedlung, aus der später Bögenhafen wird."
+   "fr": "Des peaux-vertes mettent à sac Boigenfastis, le fort unberogen près des ruines duquel naîtra plus tard Bögenhafen.",
+   "en": "Greenskins sack Boigenfastis, the Unberogen fort near whose ruins Bögenhafen will later arise.",
+   "de": "Grünhäute plündern Boigenfastis, die Festung der Unberogen, nahe deren Ruinen später Bögenhafen entsteht."
   },
   "ere": "age-des-tribus",
   "regions": [
@@ -159,60 +185,6 @@
     },
     "detail": "",
     "url": "https://warhammerfantasy.fandom.com/wiki/B%C3%B6genhafen"
-   }
-  ]
- },
- {
-  "id": "neferata-lance-une-waaagh-sur-w-soran",
-  "annee": -285,
-  "fin": null,
-  "approx": false,
-  "titre": {
-   "fr": "Neferata lance une Waaagh! contre le domaine de W'soran",
-   "en": "Neferata sets a Waaagh! upon W'soran's domain",
-   "de": "Neferata hetzt ein Waaagh! auf W'sorans Reich"
-  },
-  "resume": {
-   "fr": "À la bataille des Eaux Noires, le domaine de W'soran est anéanti par une Waaagh! peau-verte que Neferata a poussée à marcher contre lui. Le nécromancien abandonne son royaume à son sort.",
-   "en": "At the Battle of Black Water, W'soran's domain is wiped out by a greenskin Waaagh! that Neferata has goaded against him. The necromancer leaves his realm to its fate.",
-   "de": "In der Schlacht am Schwarzen Wasser wird W'sorans Reich von einem Waaagh! der Grünhäute vernichtet, das Neferata gegen ihn aufgestachelt hat. Der Nekromant überlässt sein Land dem Untergang."
-  },
-  "ere": "age-des-tribus",
-  "regions": [
-   "montagnes"
-  ],
-  "lieux": [
-   "lac-noir"
-  ],
-  "factions": [
-   "vampires",
-   "peaux-vertes"
-  ],
-  "importance": 1,
-  "fiabilite": "incertain",
-  "note": "",
-  "sources": [
-   {
-    "titre": {
-     "fr": "Master of Death, Time of Legends, roman de Josh Reynolds",
-     "en": "Master of Death, Time of Legends, roman de Josh Reynolds",
-     "de": "Master of Death, Time of Legends, roman de Josh Reynolds"
-    },
-    "detail": {
-     "fr": "chap. 10",
-     "en": "ch. 10",
-     "de": "Kap. 10"
-    },
-    "url": ""
-   },
-   {
-    "titre": {
-     "fr": "Wiki Warhammer Fantasy (fandom), page W'soran",
-     "en": "Warhammer Fantasy Wiki (fandom), W'soran page",
-     "de": "Warhammer Fantasy Wiki (fandom), Seite W'soran"
-    },
-    "detail": "",
-    "url": "https://warhammerfantasy.fandom.com/wiki/W%27soran"
    }
   ]
  },
@@ -292,9 +264,9 @@
    "de": "Der Sieg des Justintine und die Soldtruhe von Varenna"
   },
   "resume": {
-   "fr": "Selon la légende tiléenne, le général mercenaire Justintine évacue Varenna avec son trésor, poursuivi par toutes les bandes orques ralliées au chef Ugwarg. Acculé à la mer, il promet le coffre à qui viendra se battre et écrase la horde. Les mercenaires tiendraient de là l'habitude d'emporter leur coffre de solde au combat.",
-   "en": "According to Tilean legend, the mercenary general Justintine evacuates Varenna with its treasure, pursued by every Orc band rallied under the warlord Ugwarg. Cornered against the sea, he promises the chest to all who will fight and crushes the horde. Mercenaries are said to owe their custom of taking a paychest into battle to this victory.",
-   "de": "Der tileanischen Legende nach räumt der Söldnergeneral Justintine Varenna samt Schatz, verfolgt von allen Orkbanden unter dem Kriegsherrn Ugwarg. Mit dem Rücken zum Meer verspricht er die Truhe jedem, der für ihn kämpft, und zerschlägt die Horde. Daher soll der Brauch der Söldner stammen, ihre Soldtruhe mit in die Schlacht zu nehmen."
+   "fr": "Selon la légende tiléenne, le général mercenaire Justintine évacue Varenna avec son trésor, poursuivi par toutes les bandes orques ralliées au chef Ugwarg. Acculé à la mer, il promet de partager le trésor avec qui viendra l'aider et écrase la horde. Les mercenaires tiendraient de là l'habitude d'emporter leur coffre de solde au combat.",
+   "en": "According to Tilean legend, the mercenary general Justintine evacuates Varenna with its treasure, pursued by every Orc band rallied under the warlord Ugwarg. Cornered against the sea, he promises a share of the treasure to all who will come to his aid and crushes the horde. Mercenaries are said to owe their custom of taking a paychest into battle to this victory.",
+   "de": "Der tileanischen Legende nach räumt der Söldnergeneral Justintine Varenna samt Schatz, verfolgt von allen Orkbanden unter dem Kriegsherrn Ugwarg. Mit dem Rücken zum Meer verspricht er jedem, der ihm zu Hilfe kommt, einen Anteil am Schatz, und zerschlägt die Horde. Daher soll der Brauch der Söldner stammen, ihre Soldtruhe mit in die Schlacht zu nehmen."
   },
   "ere": "empire-sigmarite",
   "regions": [
@@ -359,7 +331,7 @@
   "resume": {
    "fr": "Rorek Orcsmasher, de Karak Norn, y assomme le chef orque Gnask des Red-fanged Orcs. L'exploit figure sur un bas-relief du Hall des Hauts Faits de la forteresse.",
    "en": "Rorek Orcsmasher of Karak Norn bludgeons the Orc boss Gnask of the Red-fanged Orcs here. The deed is shown on a bas-relief in the hold's Hall of Deeds.",
-   "de": "Rorek Orcsmasher aus Karak Norn erschlägt hier den Orkboss Gnask von den Red-fanged Orcs. Die Tat ist auf einem Relief in der Halle der Taten der Feste dargestellt."
+   "de": "Rorek Orcsmasher aus Karak Norn schlägt hier den Orkboss Gnask von den Red-fanged Orcs nieder. Die Tat ist auf einem Relief in der Halle der Taten der Feste dargestellt."
   },
   "ere": "trois-empereurs",
   "regions": [
@@ -521,9 +493,9 @@
    "de": "Ein grünes Götzenbild des Gork versiegelt einen Riss in den Südlanden"
   },
   "resume": {
-   "fr": "Dans des ruines de la jungle, des Orques sauvages ouvrent sans le vouloir une brèche vers le Royaume du Chaos. Démons et Hommes-lézards s'y affrontent, puis les orques massacrent les deux camps. Une immense idole de Gork, dressée sur le site avec ce qui leur tombe sous la main, referme la faille.",
-   "en": "In jungle ruins, Savage Orcs unwittingly open a breach into the Realm of Chaos. Daemons and Lizardmen clash there before the Orcs slaughter both sides. A vast idol of Gork, raised on the spot from whatever lies to hand, closes the rift.",
-   "de": "In Dschungelruinen öffnen Wildorks ungewollt ein Tor ins Reich des Chaos. Dämonen und Echsenmenschen prallen dort aufeinander, dann metzeln die Orks beide Seiten nieder. Ein riesiges Götzenbild des Gork, aus allem Greifbaren errichtet, schließt den Riss."
+   "fr": "Dans des ruines de la jungle, des Orques sauvages ouvrent sans le vouloir une brèche vers le Royaume du Chaos. Des démons en surgissent pour les combattre, puis une armée d'Hommes-lézards se jette dans la mêlée. Les orques massacrent tout le monde. Une immense idole de Gork, dressée sur le site avec ce qui leur tombe sous la main, referme la faille.",
+   "en": "In jungle ruins, Savage Orcs unwittingly open a breach into the Realm of Chaos. Daemons pour out to fight them, then a Lizardmen army joins the fray. The Orcs slaughter everyone. A vast idol of Gork, raised on the spot from whatever lies to hand, closes the rift.",
+   "de": "In Dschungelruinen öffnen Wildorks ungewollt ein Tor ins Reich des Chaos. Dämonen strömen heraus und greifen sie an, dann stößt ein Heer der Echsenmenschen hinzu. Die Orks metzeln alle nieder. Ein riesiges Götzenbild des Gork, aus allem Greifbaren errichtet, schließt den Riss."
   },
   "ere": "trois-empereurs",
   "regions": [
@@ -542,8 +514,8 @@
    {
     "titre": {
      "fr": "Warhammer: Storm of Magic, 8e édition",
-     "en": "Warhammer: Storm of Magic, 8e édition",
-     "de": "Warhammer: Storm of Magic, 8e édition"
+     "en": "Warhammer: Storm of Magic, 8th edition",
+     "de": "Warhammer: Storm of Magic, 8. Edition"
     },
     "detail": {
      "fr": "p. 21",
@@ -621,19 +593,6 @@
     },
     "detail": "",
     "url": "https://warhammerfantasy.fandom.com/wiki/Kiknik_Toofsnatcha"
-   },
-   {
-    "titre": {
-     "fr": "Warhammer: The Old World, Arcane Journal - Orc and Goblin Tribes",
-     "en": "Warhammer: The Old World, Arcane Journal - Orc and Goblin Tribes",
-     "de": "Warhammer: The Old World, Arcane Journal - Orc and Goblin Tribes"
-    },
-    "detail": {
-     "fr": "p. 12-15",
-     "en": "pp. 12-15",
-     "de": "S. 12-15"
-    },
-    "url": ""
    }
   ]
  },
@@ -643,9 +602,9 @@
   "fin": null,
   "approx": true,
   "titre": {
-   "fr": "Ogdruz Swampdigga et ses trolls rejoignent Spine-Cracker",
-   "en": "Ogdruz Swampdigga and his Trolls join Spine-Cracker",
-   "de": "Ogdruz Swampdigga und seine Trolle schließen sich Spine-Cracker an"
+   "fr": "Ogdruz Swampdigga et ses trolls attirent l'attention de Spine-Cracker",
+   "en": "Ogdruz Swampdigga and his Trolls catch Spine-Cracker's eye",
+   "de": "Ogdruz Swampdigga und seine Trolle fallen Spine-Cracker auf"
   },
   "resume": {
    "fr": "Chassé par sa tribu, le chaman orque Ogdruz se déguise d'une peau de troll, se fait adopter par ces monstres et acquiert leur magie. Il rassemble une bande de trolls dans les Terres arides, ce qui attire l'attention du chef Spine-Cracker, alors en guerre contre la Bretonnie.",
@@ -829,9 +788,22 @@
      "de": "Warhammer Armies: Orcs & Goblins, 8. Edition"
     },
     "detail": {
-     "fr": "p. 67",
-     "en": "p. 67",
-     "de": "S. 67"
+     "fr": "p. 21, 67",
+     "en": "p. 21, 67",
+     "de": "S. 21, 67"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Orcs & Goblins, 4e édition",
+     "en": "Warhammer Armies: Orcs & Goblins, 4th edition",
+     "de": "Warhammer Armies: Orcs & Goblins, 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 10-12",
+     "en": "p. 10-12",
+     "de": "S. 10-12"
     },
     "url": ""
    },
@@ -866,9 +838,9 @@
    "de": "Vernichtung des Waaagh! Gutstompa bei Wurtbad"
   },
   "resume": {
-   "fr": "La Waaagh! Gutstompa envahit le Stirland alors que l'empereur combat les Bretonniens à l'ouest. Dans les ruines de Wurtbad, son chaman Redfang manipule un grimoire calciné et ouvre une brèche vers le Chaos. La horde est taillée en pièces par l'armée démoniaque du prince Kz'ar'aka, qui tue Gutstompa.",
-   "en": "Waaagh! Gutstompa invades Stirland while the Emperor is fighting the Bretonnians in the west. In the ruins of Wurtbad, its shaman Redfang tampers with a charred tome and tears open a breach into Chaos. The horde is cut to pieces by the Daemon host of the prince Kz'ar'aka, who kills Gutstompa.",
-   "de": "Das Waaagh! Gutstompa fällt in Stirland ein, während der Kaiser im Westen gegen die Bretonen kämpft. In den Ruinen von Wurtbad hantiert sein Schamane Redfang an einem verkohlten Folianten und reißt ein Tor zum Chaos auf. Das Dämonenheer des Prinzen Kz'ar'aka zerschlägt die Horde und tötet Gutstompa."
+   "fr": "La Waaagh! Gutstompa envahit le Stirland alors que l'empereur combat les Bretonniens à l'ouest. Dans les ruines de Wurtbad, son chaman Redfang manipule un grimoire calciné et ouvre une brèche vers le Chaos. Une armée de démons surgit au cœur de la horde, qui tient bon jusqu'à ce que le prince démon Kz'ar'aka tue Gutstompa, puis se débande.",
+   "en": "Waaagh! Gutstompa invades Stirland while the Emperor is fighting the Bretonnians in the west. In the ruins of Wurtbad, its shaman Redfang tampers with a charred tome and tears open a breach into Chaos. A Daemon host bursts into the heart of the horde, which holds until the Daemon Prince Kz'ar'aka kills Gutstompa, then breaks and flees.",
+   "de": "Das Waaagh! Gutstompa fällt in Stirland ein, während der Kaiser im Westen gegen die Bretonen kämpft. In den Ruinen von Wurtbad hantiert sein Schamane Redfang an einem verkohlten Folianten und reißt ein Tor zum Chaos auf. Ein Dämonenheer bricht mitten in die Horde ein, die standhält, bis der Dämonenprinz Kz'ar'aka Gutstompa tötet, und dann flieht."
   },
   "ere": "empire-reunifie",
   "regions": [
@@ -907,19 +879,6 @@
     },
     "detail": "",
     "url": "https://warhammerfantasy.fandom.com/wiki/Destruction_of_Waaagh!_Gutstompa"
-   },
-   {
-    "titre": {
-     "fr": "Warhammer Armies: Daemons of Chaos (8e édition)",
-     "en": "Warhammer Armies: Daemons of Chaos (8th edition)",
-     "de": "Warhammer Armies: Daemons of Chaos (8. Edition)"
-    },
-    "detail": {
-     "fr": "p. 22",
-     "en": "p. 22",
-     "de": "S. 22"
-    },
-    "url": ""
    }
   ]
  },
@@ -949,9 +908,9 @@
   "importance": 1,
   "fiabilite": "incertain",
   "note": {
-   "fr": "Date déduite : moins d'un an après l'épisode du troll, placé vers 2400.",
-   "en": "Inferred date: under a year after the Troll episode, set around 2400.",
-   "de": "Erschlossenes Datum: weniger als ein Jahr nach der Trollepisode, die um 2400 angesetzt wird."
+   "fr": "Date déduite : moins d'un an après l'épisode du troll, placé vers 2400. La 4e édition dit seulement que Grom soumet les Gobelins de la Nuit du Mont Tonnerre dans les dix ans.",
+   "en": "Inferred date: under a year after the Troll episode, set around 2400. The 4th edition says only that Grom subjugates the Night Goblins of Thunder Mountain within ten years.",
+   "de": "Erschlossenes Datum: weniger als ein Jahr nach der Trollepisode, die um 2400 angesetzt wird. Die 4. Edition sagt nur, dass Grom die Nachtgoblins des Donnerbergs innerhalb von zehn Jahren unterwirft."
   },
   "sources": [
    {
@@ -1058,7 +1017,7 @@
   "id": "defenseurs-de-grundel",
   "annee": 2421,
   "fin": null,
-  "approx": false,
+  "approx": true,
   "titre": {
    "fr": "Création des Défenseurs de Grundel",
    "en": "Grundel's Defenders are raised",
@@ -1082,7 +1041,11 @@
   ],
   "importance": 1,
   "fiabilite": "incertain",
-  "note": "",
+  "note": {
+   "fr": "Date déduite : le régiment est levé après la bataille désastreuse de 2421, sans année précise.",
+   "en": "Inferred date: the regiment is raised after the disastrous battle of 2421, with no exact year given.",
+   "de": "Erschlossenes Datum: Das Regiment wird nach der verheerenden Schlacht von 2421 aufgestellt, ein genaues Jahr fehlt."
+  },
   "sources": [
    {
     "titre": {
@@ -1186,7 +1149,7 @@
    "humains-autres"
   ],
   "importance": 1,
-  "fiabilite": "incertain",
+  "fiabilite": "etabli",
   "note": "",
   "sources": [
    {
@@ -1195,7 +1158,11 @@
      "en": "Rough Nights and Hard Days, Warhammer Fantasy Roleplay 4th edition",
      "de": "Rough Nights and Hard Days, Warhammer Fantasy Roleplay 4. Edition"
     },
-    "detail": "",
+    "detail": {
+     "fr": "p. 86",
+     "en": "p. 86",
+     "de": "S. 86"
+    },
     "url": ""
    },
    {
@@ -1204,7 +1171,11 @@
      "en": "Middenheim: City of the White Wolf, Warhammer Fantasy Roleplay 4th edition",
      "de": "Middenheim: City of the White Wolf, Warhammer Fantasy Roleplay 4. Edition"
     },
-    "detail": "",
+    "detail": {
+     "fr": "p. 15",
+     "en": "p. 15",
+     "de": "S. 15"
+    },
     "url": ""
    },
    {
@@ -1245,11 +1216,11 @@
    "empire"
   ],
   "importance": 1,
-  "fiabilite": "incertain",
+  "fiabilite": "divergent",
   "note": {
-   "fr": "La page The Wasteland, d'après Marienburg: Sold Down the River (1re édition), date de 2429 la perte de la moitié de la flotte de Marienburg face à l'armada de Grom. Cette date n'est pas retenue, Grom étant vaincu en Ulthuan dès 2424.",
-   "en": "The Wasteland page, after Marienburg: Sold Down the River (1st edition), dates the loss of half of Marienburg's fleet to Grom's armada to 2429. That date is not used here, since Grom is defeated in Ulthuan by 2424.",
-   "de": "Die Seite The Wasteland nennt nach Marienburg: Sold Down the River (1. Edition) 2429 für den Verlust der halben Flotte Marienburgs an Groms Armada. Dieses Datum wird nicht übernommen, da Grom bereits 2424 in Ulthuan besiegt wird."
+   "fr": "La page The Wasteland, d'après Marienburg: Sold Down the River (1re édition), date de 2429 la perte de la moitié de la flotte de Marienburg face à l'armada de Grom. Cette date n'est pas retenue, Grom étant vaincu en Ulthuan dès 2424. Orcs & Goblins 8e édition raconte autrement : la flotte est bâtie sur la côte du Nordland, bat la marine impériale devant le delta du Reik, et seule une tempête épargne Marienburg.",
+   "en": "The Wasteland page, after Marienburg: Sold Down the River (1st edition), dates the loss of half of Marienburg's fleet to Grom's armada to 2429. That date is not used here, since Grom is defeated in Ulthuan by 2424. Orcs & Goblins 8th edition tells it differently: the fleet is built on the Nordland coast, defeats the Imperial navy off the Reik delta, and only a storm spares Marienburg.",
+   "de": "Die Seite The Wasteland nennt nach Marienburg: Sold Down the River (1. Edition) 2429 für den Verlust der halben Flotte Marienburgs an Groms Armada. Dieses Datum wird nicht übernommen, da Grom bereits 2424 in Ulthuan besiegt wird. Orcs & Goblins 8. Edition erzählt es anders: Die Flotte entsteht an der Küste Nordlands, schlägt die imperiale Marine vor dem Reikdelta, und nur ein Sturm verschont Marienburg."
   },
   "sources": [
    {
@@ -1262,6 +1233,19 @@
      "fr": "p. 6-7",
      "en": "p. 6-7",
      "de": "S. 6-7"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Orcs & Goblins, 8e édition",
+     "en": "Warhammer Armies: Orcs & Goblins, 8th edition",
+     "de": "Warhammer Armies: Orcs & Goblins, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 21-23",
+     "en": "p. 21-23",
+     "de": "S. 21-23"
     },
     "url": ""
    },
@@ -1282,6 +1266,24 @@
     },
     "detail": "",
     "url": "https://warhammerfantasy.fandom.com/wiki/Marienburg"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Grom the Paunch",
+     "en": "Warhammer Fantasy Wiki (fandom), Grom the Paunch page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Grom the Paunch"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Grom_the_Paunch"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page The Wasteland",
+     "en": "Warhammer Fantasy Wiki (fandom), The Wasteland page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite The Wasteland"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/The_Wasteland"
    }
   ]
  },
@@ -1370,9 +1372,9 @@
    "de": "Zaladrin und Gunrig von einem Goblin ermordet"
   },
   "resume": {
-   "fr": "Peu après sa victoire, le roi de Karak Azgaraz et son héritier sont tués par un assassin gobelin. Thuringar Orc-hewer, prince cadet qui ne s'attendait pas à régner, monte sur le trône.",
-   "en": "Shortly after his victory, the king of Karak Azgaraz and his heir are killed by a Goblin assassin. Thuringar Orc-hewer, a younger prince who never expected to rule, takes the throne.",
-   "de": "Kurz nach seinem Sieg werden der König von Karak Azgaraz und sein Erbe von einem Goblin-Attentäter getötet. Thuringar Orc-hewer, ein jüngerer Prinz, der nie mit der Krone gerechnet hat, besteigt den Thron."
+   "fr": "Après sa victoire, le roi de Karak Azgaraz et son héritier sont tués par un assassin gobelin. Thuringar Orc-hewer, prince cadet qui ne s'attendait pas à régner, monte sur le trône.",
+   "en": "After his victory, the king of Karak Azgaraz and his heir are killed by a Goblin assassin. Thuringar Orc-hewer, a younger prince who never expected to rule, takes the throne.",
+   "de": "Nach seinem Sieg werden der König von Karak Azgaraz und sein Erbe von einem Goblin-Attentäter getötet. Thuringar Orc-hewer, ein jüngerer Prinz, der nie mit der Krone gerechnet hat, besteigt den Thron."
   },
   "ere": "empire-reunifie",
   "regions": [
@@ -1384,7 +1386,7 @@
    "peaux-vertes"
   ],
   "importance": 1,
-  "fiabilite": "incertain",
+  "fiabilite": "etabli",
   "note": "",
   "sources": [
    {
@@ -1397,6 +1399,19 @@
      "fr": "p. 16-17",
      "en": "p. 16-17",
      "de": "S. 16-17"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Archives of the Empire Vol. I, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Archives of the Empire Vol. I, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Archives of the Empire Vol. I, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 62",
+     "en": "p. 62",
+     "de": "S. 62"
     },
     "url": ""
    },
@@ -1538,9 +1553,9 @@
    "de": "Schlacht am Feuerschlund"
   },
   "resume": {
-   "fr": "Le chef orque noir Urk Ironskull lance une Waaagh! sur les Montagnes des Lamentations et occupe le volcan sacré des Ogres. Greasus Dent-d'Or, tout juste Surtyran, rassemble les tribus, enfonce la horde avec un coin de monstres et de cavaliers Mournfang, puis broie Urk à mains nues. Cette victoire affermit son titre, et le volcan se réveille.",
-   "en": "The Black Orc warlord Urk Ironskull leads a Waaagh! into the Mountains of Mourn and occupies the Ogres' sacred volcano. Greasus Goldtooth, newly Overtyrant, gathers the tribes, breaks the horde with a wedge of monsters and Mournfang Cavalry, and crushes Urk with his bare hands. The victory secures his title, and the volcano stirs back to life.",
-   "de": "Der Schwarzork-Kriegsherr Urk Ironskull führt ein Waaagh! in die Berge der Trauer und besetzt den heiligen Vulkan der Oger. Greasus Goldtooth, frisch Übertyrann, sammelt die Stämme, durchbricht die Horde mit einem Keil aus Ungeheuern und Mournfang-Reitern und zerquetscht Urk mit bloßen Händen. Der Sieg festigt seinen Titel, und der Vulkan erwacht wieder."
+   "fr": "Le chef orque noir Urk Ironskull mène une Waaagh! à travers les Montagnes des Lamentations et occupe le volcan sacré des Ogres. Greasus Dent-d'Or, tout juste Surtyran, rassemble les tribus, enfonce la horde avec un coin de monstres et de cavaliers Mournfang, puis broie Urk à mains nues. Cette victoire affermit son titre, et le volcan se réveille.",
+   "en": "The Black Orc warlord Urk Ironskull leads a Waaagh! across the Mountains of Mourn and occupies the Ogres' sacred volcano. Greasus Goldtooth, newly Overtyrant, gathers the tribes, breaks the horde with a wedge of monsters and Mournfang Cavalry, and crushes Urk with his bare hands. The victory secures his title, and the volcano stirs back to life.",
+   "de": "Der Schwarzork-Kriegsherr Urk Ironskull führt ein Waaagh! durch die Berge der Trauer und besetzt den heiligen Vulkan der Oger. Greasus Goldtooth, frisch Übertyrann, sammelt die Stämme, durchbricht die Horde mit einem Keil aus Ungeheuern und Mournfang-Reitern und zerquetscht Urk mit bloßen Händen. Der Sieg festigt seinen Titel, und der Vulkan erwacht wieder."
   },
   "ere": "empire-reunifie",
   "regions": [
@@ -1580,6 +1595,15 @@
     },
     "detail": "",
     "url": "https://warhammerfantasy.fandom.com/wiki/Battle_of_the_Fire_Mouth"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Ogre Kingdoms Timeline",
+     "en": "Warhammer Fantasy Wiki (fandom), Ogre Kingdoms Timeline page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Ogre Kingdoms Timeline"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Ogre_Kingdoms_Timeline"
    }
   ]
  },
@@ -1594,7 +1618,7 @@
    "de": "Bragg the Gutsman schmiedet den Great Gutgouger"
   },
   "resume": {
-   "fr": "Son cimeterre brisé à la Gueule de Feu, le boucher ogre se fabrique une arme d'hast avec les lames d'un chef orque noir, reforgées dans le magma du volcan. Cette arme lui vaut sa renommée.",
+   "fr": "Son cimeterre brisé à la Gueule de Feu, le bourreau ogre se fabrique une arme d'hast avec les lames d'un chef orque noir, reforgées dans le magma du volcan. Cette arme lui vaut sa renommée.",
    "en": "His scimitar broken at the Fire Mouth, the Ogre executioner makes a polearm from the blades of a slain Black Orc warboss, reforged in the volcano's magma. The weapon earns him his fame.",
    "de": "Nachdem sein Krummsäbel am Feuerschlund zerbrochen ist, fertigt der Oger-Henker aus den Klingen eines erschlagenen Schwarzork-Bosses eine Stangenwaffe, geschmiedet im Magma des Vulkans. Sie begründet seinen Ruf."
   },
@@ -1852,8 +1876,8 @@
    {
     "titre": {
      "fr": "The Prince of Altdorf, nouvelle d'Andy Hall",
-     "en": "The Prince of Altdorf, nouvelle d'Andy Hall",
-     "de": "The Prince of Altdorf, nouvelle d'Andy Hall"
+     "en": "The Prince of Altdorf, short story by Andy Hall",
+     "de": "The Prince of Altdorf, Kurzgeschichte von Andy Hall"
     },
     "detail": "",
     "url": ""
@@ -1956,8 +1980,8 @@
    {
     "titre": {
      "fr": "The Prince of Altdorf, nouvelle d'Andy Hall",
-     "en": "The Prince of Altdorf, nouvelle d'Andy Hall",
-     "de": "The Prince of Altdorf, nouvelle d'Andy Hall"
+     "en": "The Prince of Altdorf, short story by Andy Hall",
+     "de": "The Prince of Altdorf, Kurzgeschichte von Andy Hall"
     },
     "detail": "",
     "url": ""
@@ -2302,6 +2326,19 @@
    },
    {
     "titre": {
+     "fr": "The End Times Vol. I: Nagash",
+     "en": "The End Times Vol. I: Nagash",
+     "de": "The End Times Vol. I: Nagash"
+    },
+    "detail": {
+     "fr": "p. 44",
+     "en": "p. 44",
+     "de": "S. 44"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
      "fr": "Wiki Warhammer Fantasy (fandom), page Wurrzag Ud Ura Zahubu",
      "en": "Warhammer Fantasy Wiki (fandom), Wurrzag Ud Ura Zahubu page",
      "de": "Warhammer Fantasy Wiki (fandom), Seite Wurrzag Ud Ura Zahubu"
@@ -2353,8 +2390,8 @@
    {
     "titre": {
      "fr": "Gotrek and Felix: Kinslayer, roman de David Guymer",
-     "en": "Gotrek and Felix: Kinslayer, roman de David Guymer",
-     "de": "Gotrek and Felix: Kinslayer, roman de David Guymer"
+     "en": "Gotrek and Felix: Kinslayer, novel by David Guymer",
+     "de": "Gotrek and Felix: Kinslayer, Roman von David Guymer"
     },
     "detail": "",
     "url": ""
@@ -2405,8 +2442,8 @@
    {
     "titre": {
      "fr": "The Lord of the End Times, roman de Josh Reynolds",
-     "en": "The Lord of the End Times, roman de Josh Reynolds",
-     "de": "The Lord of the End Times, roman de Josh Reynolds"
+     "en": "The Lord of the End Times, novel by Josh Reynolds",
+     "de": "The Lord of the End Times, Roman von Josh Reynolds"
     },
     "detail": {
      "fr": "chap. 15",

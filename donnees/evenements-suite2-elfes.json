@@ -271,9 +271,9 @@
    "de": "Flutwellen zerstören die elfischen Häfen"
   },
   "resume": {
-   "fr": "Les vagues géantes de la Déchirure frappent les côtes elfes du Vieux Monde et emportent Lothlakh et Ildenfane. Les réfugiés gagnent l'intérieur de la Laurelorn et s'installent à Tor Lithanel et Kor Immarmor.",
-   "en": "Giant waves from the Sundering strike the Elven shores of the Old World and destroy Lothlakh and Ildenfane. Refugees move into the Laurelorn and settle at Tor Lithanel and Kor Immarmor.",
-   "de": "Riesenwellen der Spaltung treffen die elfischen Küsten der Alten Welt und vernichten Lothlakh und Ildenfane. Flüchtlinge ziehen in den Laurelorn und siedeln in Tor Lithanel und Kor Immarmor."
+   "fr": "Des vagues géantes frappent les côtes elfes du Vieux Monde et emportent Lothlakh et Ildenfane. Les réfugiés gagnent l'intérieur de la Laurelorn et s'installent à Tor Lithanel et Kor Immarmor.",
+   "en": "Giant waves strike the Elven shores of the Old World and destroy Lothlakh and Ildenfane. Refugees move into the Laurelorn and settle at Tor Lithanel and Kor Immarmor.",
+   "de": "Riesenwellen treffen die elfischen Küsten der Alten Welt und vernichten Lothlakh und Ildenfane. Flüchtlinge ziehen in den Laurelorn und siedeln in Tor Lithanel und Kor Immarmor."
   },
   "ere": "grande-catastrophe",
   "regions": [
@@ -355,9 +355,9 @@
      "de": "Warhammer Armies: Dark Elves, 7. Edition"
     },
     "detail": {
-     "fr": "p. 28",
-     "en": "p. 28",
-     "de": "S. 28"
+     "fr": "p. 17, 28",
+     "en": "pp. 17, 28",
+     "de": "S. 17, 28"
     },
     "url": ""
    },
@@ -412,6 +412,42 @@
   "sources": [
    {
     "titre": {
+     "fr": "Warhammer Armies: High Elves, 4e édition",
+     "en": "Warhammer Armies: High Elves, 4th edition",
+     "de": "Warhammer Armies: High Elves, 4. Edition"
+    },
+    "detail": "",
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Warhammer Armies: High Elves, 5e édition",
+     "en": "Warhammer Armies: High Elves, 5th edition",
+     "de": "Warhammer Armies: High Elves, 5. Edition"
+    },
+    "detail": "",
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Warhammer Armies: High Elves, 7e édition",
+     "en": "Warhammer Armies: High Elves, 7th edition",
+     "de": "Warhammer Armies: High Elves, 7. Edition"
+    },
+    "detail": "",
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Warhammer Armies: High Elves, 8e édition",
+     "en": "Warhammer Armies: High Elves, 8th edition",
+     "de": "Warhammer Armies: High Elves, 8. Edition"
+    },
+    "detail": "",
+    "url": ""
+   },
+   {
+    "titre": {
      "fr": "Wiki Warhammer Fantasy (fandom), page Everqueen",
      "en": "Warhammer Fantasy Wiki (fandom), Everqueen page",
      "de": "Warhammer Fantasy Wiki (fandom), Seite Everqueen"
@@ -432,9 +468,9 @@
    "de": "Ulthuan nimmt wieder Kontakt zu den Kolonien auf"
   },
   "resume": {
-   "fr": "Le contact reprend entre Ulthuan et les colonies du Vieux Monde. Des agents elfes noirs s'y glissent aussitôt pour répandre la propagande contre le Roi Phénix.",
-   "en": "Contact resumes between Ulthuan and the Old World colonies. Dark Elf agents promptly slip in to spread propaganda against the Phoenix King.",
-   "de": "Zwischen Ulthuan und den Kolonien der Alten Welt besteht wieder Verbindung. Dunkelelfische Agenten schleichen sich sogleich ein und verbreiten Hetze gegen den Phönixkönig."
+   "fr": "Le contact reprend entre Ulthuan et les colonies du Vieux Monde. Des agents elfes noirs s'y glissent pour répandre la propagande contre le Roi Phénix.",
+   "en": "Contact resumes between Ulthuan and the Old World colonies. Dark Elf agents slip in to spread propaganda against the Phoenix King.",
+   "de": "Zwischen Ulthuan und den Kolonien der Alten Welt besteht wieder Verbindung. Dunkelelfische Agenten schleichen sich ein und verbreiten Hetze gegen den Phönixkönig."
   },
   "ere": "age-d-or",
   "regions": [
@@ -563,9 +599,9 @@
      "de": "Warhammer Fantasy Roleplay 4th Edition: Altdorf - Crown of the Empire"
     },
     "detail": {
-     "fr": "p. 9",
-     "en": "p. 9",
-     "de": "S. 9"
+     "fr": "p. 9, 148, 166",
+     "en": "pp. 9, 148, 166",
+     "de": "S. 9, 148, 166"
     },
     "url": ""
    },
@@ -690,12 +726,12 @@
    },
    {
     "titre": {
-     "fr": "Wiki Warhammer Fantasy (fandom), page Sith Rionnasc'namishathir",
-     "en": "Warhammer Fantasy Wiki (fandom), Sith Rionnasc'namishathir page",
-     "de": "Warhammer Fantasy Wiki (fandom), Seite Sith Rionnasc'namishathir"
+     "fr": "Wiki Warhammer Fantasy (fandom), page Marienburg",
+     "en": "Warhammer Fantasy Wiki (fandom), Marienburg page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Marienburg"
     },
     "detail": "",
-    "url": "https://warhammerfantasy.fandom.com/wiki/Sith_Rionnasc'namishathir"
+    "url": "https://warhammerfantasy.fandom.com/wiki/Marienburg"
    }
   ]
  },
@@ -803,12 +839,12 @@
    },
    {
     "titre": {
-     "fr": "Wiki Warhammer Fantasy (fandom), page Sith Rionnasc'namishathir",
-     "en": "Warhammer Fantasy Wiki (fandom), Sith Rionnasc'namishathir page",
-     "de": "Warhammer Fantasy Wiki (fandom), Seite Sith Rionnasc'namishathir"
+     "fr": "Wiki Warhammer Fantasy (fandom), page Marienburg",
+     "en": "Warhammer Fantasy Wiki (fandom), Marienburg page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Marienburg"
     },
     "detail": "",
-    "url": "https://warhammerfantasy.fandom.com/wiki/Sith_Rionnasc'namishathir"
+    "url": "https://warhammerfantasy.fandom.com/wiki/Marienburg"
    }
   ]
  },
@@ -849,9 +885,9 @@
      "de": "Neferata, Josh Reynolds"
     },
     "detail": {
-     "fr": "chapitre 13",
-     "en": "chapter 13",
-     "de": "Kapitel 13"
+     "fr": "chapitres 13 et 16",
+     "en": "chapters 13 and 16",
+     "de": "Kapitel 13 und 16"
     },
     "url": ""
    },
@@ -1030,6 +1066,19 @@
    },
    {
     "titre": {
+     "fr": "Warhammer Armies: High Elves, 8e édition",
+     "en": "Warhammer Armies: High Elves, 8th edition",
+     "de": "Warhammer Armies: High Elves, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 23",
+     "en": "p. 23",
+     "de": "S. 23"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
      "fr": "Wiki Warhammer Fantasy (fandom), page Bel-Korhadris",
      "en": "Warhammer Fantasy Wiki (fandom), Bel-Korhadris page",
      "de": "Warhammer Fantasy Wiki (fandom), Seite Bel-Korhadris"
@@ -1188,9 +1237,9 @@
   "importance": 2,
   "fiabilite": "incertain",
   "note": {
-   "fr": "Date elfique VII, 116, convertie par le wiki.",
-   "en": "Elven date VII, 116, converted by the wiki.",
-   "de": "Elfisches Datum VII, 116, umgerechnet durch das Wiki."
+   "fr": "Date elfique VII, 116, convertie par le wiki. Le lieu n'est pas précisé. La région indique l'origine du prince Elliriad.",
+   "en": "Elven date VII, 116, converted by the wiki. The location is not given. The region indicates Prince Elliriad's homeland.",
+   "de": "Elfisches Datum VII, 116, umgerechnet durch das Wiki. Der Ort wird nicht genannt. Die Region bezeichnet die Heimat von Prinz Elliriad."
   },
   "sources": [
    {
@@ -1256,9 +1305,9 @@
      "de": "Warhammer Fantasy Roleplay 4th Edition: Archives of the Empire Vol. I"
     },
     "detail": {
-     "fr": "pp. 71-74",
-     "en": "pp. 71-74",
-     "de": "S. 71-74"
+     "fr": "p. 71-76",
+     "en": "pp. 71-76",
+     "de": "S. 71-76"
     },
     "url": ""
    },
@@ -1277,7 +1326,7 @@
   "id": "mandred-traverse-la-laurelorn",
   "annee": 1124,
   "fin": null,
-  "approx": true,
+  "approx": false,
   "titre": {
    "fr": "Mandred traverse la Laurelorn",
    "en": "Mandred crosses the Laurelorn",
@@ -1301,12 +1350,8 @@
    "skavens"
   ],
   "importance": 1,
-  "fiabilite": "incertain",
-  "note": {
-   "fr": "Année déduite des quinze ans écoulés depuis 1109 selon la source.",
-   "en": "Year deduced from the fifteen years after 1109 given by the source.",
-   "de": "Jahr abgeleitet aus den laut Quelle fünfzehn Jahren nach 1109."
-  },
+  "fiabilite": "etabli",
+  "note": "",
   "sources": [
    {
     "titre": {
@@ -1315,9 +1360,35 @@
      "de": "Warhammer Fantasy Roleplay 4th Edition: Archives of the Empire Vol. I"
     },
     "detail": {
-     "fr": "pp. 71-74",
-     "en": "pp. 71-74",
-     "de": "S. 71-74"
+     "fr": "p. 71-76",
+     "en": "pp. 71-76",
+     "de": "S. 71-76"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Warhammer Fantasy Roleplay 4th Edition: Core Rulebook",
+     "en": "Warhammer Fantasy Roleplay 4th Edition: Core Rulebook",
+     "de": "Warhammer Fantasy Roleplay 4th Edition: Core Rulebook"
+    },
+    "detail": {
+     "fr": "p. 273",
+     "en": "p. 273",
+     "de": "S. 273"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wolf of Sigmar, C. L. Werner",
+     "en": "Wolf of Sigmar, C. L. Werner",
+     "de": "Wolf of Sigmar, C. L. Werner"
+    },
+    "detail": {
+     "fr": "chapitre VII",
+     "en": "chapter VII",
+     "de": "Kapitel VII"
     },
     "url": ""
    },
@@ -1413,8 +1484,12 @@
    "empire"
   ],
   "importance": 1,
-  "fiabilite": "incertain",
-  "note": "",
+  "fiabilite": "divergent",
+  "note": {
+   "fr": "Le récit de la page Eonir place cet accord vers 1700, mais sa liste d'événements date de 738 le traité de la Feuille, qui autorise déjà l'installation entre la Salz et la Demst, et ne retient pour 1700 que les premiers accords de coupe.",
+   "en": "The Eonir page's narrative places this agreement around 1700, but its list of events dates the Treaty of the Leaf, which already allows settlement between the Salz and the Demst, to 738 and keeps only the first logging agreements for 1700.",
+   "de": "Der Fließtext der Seite Eonir setzt dieses Abkommen um 1700 an, ihre Ereignisliste datiert jedoch den Blattvertrag, der die Besiedlung zwischen Salz und Demst bereits erlaubt, auf 738 und nennt für 1700 nur die ersten Holzabkommen."
+  },
   "sources": [
    {
     "titre": {
@@ -1426,6 +1501,19 @@
      "fr": "p. 75",
      "en": "p. 75",
      "de": "S. 75"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Warhammer Fantasy Roleplay 2nd Edition: Sigmar's Heirs",
+     "en": "Warhammer Fantasy Roleplay 2nd Edition: Sigmar's Heirs",
+     "de": "Warhammer Fantasy Roleplay 2nd Edition: Sigmar's Heirs"
+    },
+    "detail": {
+     "fr": "p. 66",
+     "en": "p. 66",
+     "de": "S. 66"
     },
     "url": ""
    },
@@ -1482,9 +1570,9 @@
      "de": "Warhammer Fantasy Roleplay 4th Edition: Archives of the Empire Vol I"
     },
     "detail": {
-     "fr": "p. 75",
-     "en": "p. 75",
-     "de": "S. 75"
+     "fr": "p. 74-75",
+     "en": "pp. 74-75",
+     "de": "S. 74-75"
     },
     "url": ""
    },
@@ -1536,9 +1624,9 @@
      "de": "Warhammer Fantasy Roleplay 4th Edition: Altdorf - Crown of the Empire"
     },
     "detail": {
-     "fr": "p. 15",
-     "en": "p. 15",
-     "de": "S. 15"
+     "fr": "p. 15, 164",
+     "en": "pp. 15, 164",
+     "de": "S. 15, 164"
     },
     "url": ""
    },
@@ -1592,9 +1680,9 @@
      "de": "Warhammer Fantasy Roleplay 1st Edition: Marienburg: Sold Down the River"
     },
     "detail": {
-     "fr": "p. 19",
-     "en": "p. 19",
-     "de": "S. 19"
+     "fr": "p. 19, 21",
+     "en": "pp. 19, 21",
+     "de": "S. 19, 21"
     },
     "url": ""
    },
@@ -1622,12 +1710,12 @@
    },
    {
     "titre": {
-     "fr": "Wiki Warhammer Fantasy (fandom), page Sith Rionnasc'namishathir",
-     "en": "Warhammer Fantasy Wiki (fandom), Sith Rionnasc'namishathir page",
-     "de": "Warhammer Fantasy Wiki (fandom), Seite Sith Rionnasc'namishathir"
+     "fr": "Wiki Warhammer Fantasy (fandom), page Marienburg",
+     "en": "Warhammer Fantasy Wiki (fandom), Marienburg page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Marienburg"
     },
     "detail": "",
-    "url": "https://warhammerfantasy.fandom.com/wiki/Sith_Rionnasc'namishathir"
+    "url": "https://warhammerfantasy.fandom.com/wiki/Marienburg"
    }
   ]
  },
@@ -1693,9 +1781,9 @@
    "de": "N'Kari brennt Tor Annan nieder"
   },
   "resume": {
-   "fr": "Délivré par la tempête qui abat une pierre levée déjà fissurée sur le mont Antorec, le Gardien des secrets N'Kari assiège et incendie Tor Annan, petite ville d'Yvresse tenue par le seigneur Eanith. Il poursuit ainsi sa vengeance contre le sang d'Aenarion.",
-   "en": "Freed by the storm that destroys a crumbling waystone on Mount Antorec, the Keeper of Secrets N'Kari besieges and burns Tor Annan, a small town of Yvresse held by Lord Eanith. He is pursuing his vengeance on the blood of Aenarion.",
-   "de": "Befreit durch den Sturm, der einen brüchigen Wegstein auf dem Berg Antorec zerstört, belagert der Hüter der Geheimnisse N'Kari die kleine Stadt Tor Annan in Yvresse unter Fürst Eanith und brennt sie nieder. So verfolgt er seine Rache am Blut Aenarions."
+   "fr": "Délivré par la tempête qu'il déchaîne sur une pierre levée déjà fissurée du mont Antorec, le Gardien des secrets N'Kari assiège et incendie Tor Annan, petite ville d'Yvresse tenue par le seigneur Eanith. Il poursuit ainsi sa vengeance contre le sang d'Aenarion.",
+   "en": "Freed by the storm he conjures against a crumbling waystone on Mount Antorec, the Keeper of Secrets N'Kari besieges and burns Tor Annan, a small town of Yvresse held by Lord Eanith. He is pursuing his vengeance on the blood of Aenarion.",
+   "de": "Befreit durch den Sturm, den er gegen einen brüchigen Wegstein auf dem Berg Antorec entfesselt, belagert der Hüter der Geheimnisse N'Kari die kleine Stadt Tor Annan in Yvresse unter Fürst Eanith und brennt sie nieder. So verfolgt er seine Rache am Blut Aenarions."
   },
   "ere": "trois-empereurs",
   "regions": [
@@ -1707,13 +1795,39 @@
    "chaos"
   ],
   "importance": 1,
-  "fiabilite": "incertain",
+  "fiabilite": "etabli",
   "note": {
    "fr": "Date elfique XI, 10, convertie par le wiki.",
    "en": "Elven date XI, 10, converted by the wiki.",
    "de": "Elfisches Datum XI, 10, umgerechnet durch das Wiki."
   },
   "sources": [
+   {
+    "titre": {
+     "fr": "Blood of Aenarion, William King",
+     "en": "Blood of Aenarion, William King",
+     "de": "Blood of Aenarion, William King"
+    },
+    "detail": {
+     "fr": "chapitre 14",
+     "en": "chapter 14",
+     "de": "Kapitel 14"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Daemons of Chaos, 8e édition",
+     "en": "Warhammer Armies: Daemons of Chaos, 8th edition",
+     "de": "Warhammer Armies: Daemons of Chaos, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 20",
+     "en": "p. 20",
+     "de": "S. 20"
+    },
+    "url": ""
+   },
    {
     "titre": {
      "fr": "Wiki Warhammer Fantasy (fandom), page Tor Annan",
@@ -1816,7 +1930,11 @@
   ],
   "importance": 2,
   "fiabilite": "incertain",
-  "note": "",
+  "note": {
+   "fr": "La carte de The Old World et ce livre placent la tour dans les Terres arides, sur le Golfe Noir. Des sources plus anciennes la situent dans les Royaumes frontaliers.",
+   "en": "The Old World map and this book place the tower in the Badlands, on the Black Gulf. Older sources locate it in the Border Princes.",
+   "de": "Die Karte von The Old World und dieses Buch verorten den Turm in den Ödlanden am Schwarzen Golf. Ältere Quellen setzen ihn in die Grenzgrafschaften."
+  },
   "sources": [
    {
     "titre": {
@@ -1853,7 +1971,7 @@
    "de": "Der Verrat am Haus Temendros"
   },
   "resume": {
-   "fr": "Une Nuit de la Mort à Hag Graef, la maison vassale Morandor ouvre une porte de la tour des Temendros. Des Furies de Khaine y entrent et massacrent tous ses occupants.",
+   "fr": "Une Nuit de la Mort à Hag Graef, la maison vassale Morandor trahit la maison Temendros. Des Furies de Khaine entrent dans sa tour par une porte non gardée et massacrent tous ses occupants.",
    "en": "On Death Night in Hag Graef, the vassal House Morandor betrays House Temendros. Bands of Witch Elves enter its tower through an unsecured door and slaughter everyone inside.",
    "de": "In einer Todesnacht in Hag Graef verrät das Vasallenhaus Morandor das Haus Temendros. Hexenelfen dringen durch eine ungesicherte Tür in dessen Turm ein und töten alle darin."
   },
@@ -2166,12 +2284,8 @@
    "empire"
   ],
   "importance": 1,
-  "fiabilite": "divergent",
-  "note": {
-   "fr": "Une autre section de la page évoque l'exécution de deux hommes qui avaient tué un Elfe comme cause de l'émeute.",
-   "en": "Another section of the page gives the execution of two men who had killed an Elf as the cause of the riot.",
-   "de": "Ein anderer Abschnitt der Seite nennt die Hinrichtung zweier Männer, die einen Elfen getötet hatten, als Ursache des Aufruhrs."
-  },
+  "fiabilite": "etabli",
+  "note": "",
   "sources": [
    {
     "titre": {
@@ -2201,12 +2315,12 @@
    },
    {
     "titre": {
-     "fr": "Wiki Warhammer Fantasy (fandom), page Sith Rionnasc'namishathir",
-     "en": "Warhammer Fantasy Wiki (fandom), Sith Rionnasc'namishathir page",
-     "de": "Warhammer Fantasy Wiki (fandom), Seite Sith Rionnasc'namishathir"
+     "fr": "Wiki Warhammer Fantasy (fandom), page Marienburg",
+     "en": "Warhammer Fantasy Wiki (fandom), Marienburg page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Marienburg"
     },
     "detail": "",
-    "url": "https://warhammerfantasy.fandom.com/wiki/Sith_Rionnasc'namishathir"
+    "url": "https://warhammerfantasy.fandom.com/wiki/Marienburg"
    }
   ]
  },
@@ -2241,9 +2355,9 @@
   "importance": 2,
   "fiabilite": "incertain",
   "note": {
-   "fr": "Date elfique VII, 90, début donné par le wiki. La page Morathi date le sacrifice de VII, 102 (2401), alors que la page Plunder in the Jungle compte douze ans.",
-   "en": "Elven date VII, 90, start as given by the wiki. The Morathi page dates the sacrifice to VII, 102 (2401), while the Plunder in the Jungle page counts twelve years.",
-   "de": "Elfisches Datum VII, 90, Beginn laut Wiki. Die Seite Morathi datiert das Opfer auf VII, 102 (2401), die Seite Plunder in the Jungle zählt zwölf Jahre."
+   "fr": "Dates elfiques VII, 90 et VII, 102, converties par la page Morathi en 2391 et 2401. La page Plunder in the Jungle compte douze ans, et l'équivalence VII, 108 = 2408 donnerait plutôt 2390 et 2402.",
+   "en": "Elven dates VII, 90 and VII, 102, converted by the Morathi page to 2391 and 2401. The Plunder in the Jungle page counts twelve years, and the equivalence VII, 108 = 2408 would rather give 2390 and 2402.",
+   "de": "Elfische Daten VII, 90 und VII, 102, von der Seite Morathi in 2391 und 2401 umgerechnet. Die Seite Plunder in the Jungle zählt zwölf Jahre, und die Entsprechung VII, 108 = 2408 ergäbe eher 2390 und 2402."
   },
   "sources": [
    {
@@ -2344,7 +2458,7 @@
    "de": "Zerstörung von Tor Elasor"
   },
   "resume": {
-   "fr": "Sur ordre du Roi-Sorcier, Lokhir Fellheart attaque cette colonie haute elfe lointaine. La Tour de l'Effroi Béni et l'Immortelle Agonie ouvrent les murs à l'aube, la cité est en ruine au crépuscule, et le gouverneur Datherion est cloué vivant au sommet du donjon.",
+   "fr": "Sur ordre du Roi-Sorcier, Lokhir Fellheart attaque cette colonie haute elfe lointaine. La Tour de l'Effroi Béni et l'Immortelle Agonie ouvrent les murs à l'aube, la cité est en ruine au crépuscule, et son gardien, le prince Datherion, est cloué vivant au sommet du donjon.",
    "en": "On the Witch King's order, Lokhir Fellheart attacks this distant High Elf colony. The Black Arks Tower of Blessed Dread and Immortal Agony breach the walls at dawn, the city is a ruin by dusk, and its warden Prince Datherion is nailed alive to the top of the keep.",
    "de": "Auf Befehl des Hexenkönigs greift Lokhir Fellheart diese ferne hochelfische Kolonie an. Die Schwarzen Archen Tower of Blessed Dread und Immortal Agony brechen im Morgengrauen die Mauern, in der Dämmerung liegt die Stadt in Trümmern, und ihr Wächter Prinz Datherion wird lebend an die Spitze des Bergfrieds genagelt."
   },
@@ -2540,9 +2654,9 @@
    "de": "Die Expedition zum Grab Anurells"
   },
   "resume": {
-   "fr": "Le seigneur Dramalliel conduit une troupe de la Forteresse de l'Aube vers un monolithe au sud de la Plaine des Os, à la recherche du corps de l'explorateur Anurell et de la Pierre de navigation. L'avant-garde d'Eldril, dont fait partie Imrallion, attaquée par des hobgobelins et une force de Nains du Chaos, n'est sauvée que par l'arrivée du gros de l'armée.",
-   "en": "Lord Dramalliel leads a force from the Fortress of Dawn to a monolith south of the Plain of Bones, seeking the body of the explorer Anurell and the Navigation Stone. The vanguard under Eldril, which includes Imrallion, attacked by hobgoblins and a Chaos Dwarf force, is saved only by the arrival of the main army.",
-   "de": "Fürst Dramalliel führt eine Truppe von der Festung der Morgenröte zu einem Monolithen südlich der Knochenebene, um den Leichnam des Entdeckers Anurell und den Navigationsstein zu bergen. Die Vorhut unter Eldril, zu der Imrallion gehört, von Hobgoblins und Chaoszwergen angegriffen, wird erst durch das Hauptheer gerettet."
+   "fr": "Le seigneur Dramalliel conduit une troupe de la Forteresse de l'Aube vers un monolithe au sud de la Plaine des Os, à la recherche du corps de l'explorateur Anurell et de la Pierre de navigation. L'avant-garde d'Eldril, dont fait partie Imrallion, attaquée par des hobgobelins et une force de Nains du Chaos, n'est sauvée que par l'arrivée du gros de l'armée. La bataille tourne à une victoire coûteuse des Nains du Chaos, qui gardent le monolithe et la Pierre de navigation, et les Elfes se retirent.",
+   "en": "Lord Dramalliel leads a force from the Fortress of Dawn to a monolith south of the Plain of Bones, seeking the body of the explorer Anurell and the Navigation Stone. The vanguard under Eldril, which includes Imrallion, attacked by hobgoblins and a Chaos Dwarf force, is saved only by the arrival of the main army. The battle ends in a costly Chaos Dwarf victory: they keep the monolith and the Navigation Stone, and the Elves withdraw.",
+   "de": "Fürst Dramalliel führt eine Truppe von der Festung der Morgenröte zu einem Monolithen südlich der Knochenebene, um den Leichnam des Entdeckers Anurell und den Navigationsstein zu bergen. Die Vorhut unter Eldril, zu der Imrallion gehört, von Hobgoblins und Chaoszwergen angegriffen, wird erst durch das Hauptheer gerettet. Die Schlacht endet mit einem teuer erkauften Sieg der Chaoszwerge, die den Monolithen und den Navigationsstein behalten, und die Elfen ziehen sich zurück."
   },
   "ere": "empire-reunifie",
   "regions": [
@@ -2566,9 +2680,9 @@
      "de": "White Dwarf Presents: Warhammer Chaos Dwarfs"
     },
     "detail": {
-     "fr": "pp. 19-35",
-     "en": "pp. 19-35",
-     "de": "S. 19-35"
+     "fr": "p. 8, 19-35",
+     "en": "pp. 8, 19-35",
+     "de": "S. 8, 19-35"
     },
     "url": ""
    },
@@ -2667,15 +2781,17 @@
   "regions": [
    "naggaroth"
   ],
-  "lieux": [
-   "clar-karond"
-  ],
+  "lieux": [],
   "factions": [
    "elfes-noirs"
   ],
   "importance": 1,
   "fiabilite": "incertain",
-  "note": "",
+  "note": {
+   "fr": "Arche mobile, lieu non précisé. La région indique la cité qu'elle sert.",
+   "en": "A mobile Ark, location not given. The region indicates the city it serves.",
+   "de": "Bewegliche Arche, Ort nicht genannt. Die Region bezeichnet die Stadt, der sie dient."
+  },
   "sources": [
    {
     "titre": {
@@ -2736,9 +2852,9 @@
      "de": "The Return of Nagash, Josh Reynolds"
     },
     "detail": {
-     "fr": "chapitre prologue",
-     "en": "chapter prologue",
-     "de": "Kapitel prologue"
+     "fr": "prologue",
+     "en": "prologue",
+     "de": "Prolog"
     },
     "url": ""
    },

@@ -10,9 +10,9 @@
    "de": "Morghur erwacht in Athel Loren"
   },
   "resume": {
-   "fr": "Une corruption s'éveille dans la forêt d'Athel Loren. Ariel consulte les Anciens et envoie ses éclaireurs au loin pour comprendre la nature d'un ennemi qu'aucun Elfe n'a encore vu et survécu pour le raconter.",
-   "en": "A corruption wakes within the forest of Athel Loren. Ariel consults the Elders and sends her scouts far afield to learn the nature of a foe no Elf has yet seen and lived to describe.",
-   "de": "Im Wald von Athel Loren erwacht eine Verderbnis. Ariel berät sich mit den Ältesten und schickt ihre Späher in die Ferne, um das Wesen eines Feindes zu ergründen, den noch kein Elf gesehen und überlebt hat."
+   "fr": "Une corruption s'éveille dans la forêt d'Athel Loren. Ariel consulte les Anciens et envoie ses éclaireurs au loin pour comprendre la nature d'un ennemi qu'aucun Elfe sylvain n'a encore vu et survécu pour le raconter.",
+   "en": "A corruption wakes within the forest of Athel Loren. Ariel consults the Elders and sends her scouts far afield to learn the nature of a foe no Wood Elf has yet seen and lived to describe.",
+   "de": "Im Wald von Athel Loren erwacht eine Verderbnis. Ariel berät sich mit den Ältesten und schickt ihre Späher in die Ferne, um das Wesen eines Feindes zu ergründen, den noch kein Waldelf gesehen und überlebt hat."
   },
   "ere": "age-des-tribus",
   "regions": [
@@ -369,9 +369,9 @@
    "de": "Der Hinterhalt des Klans Skrittlespike gegen Puskab Foulfur"
   },
   "resume": {
-   "fr": "Krricht Dwarf-slicer, seigneur de guerre du clan Mors, charge des guerriers du clan Skrittlespike de tendre un piège au prêtre de la peste Puskab Foulfur sur le chemin de Skavenblight. Les moines de la peste de son escorte et la magie de Puskab balaient ces combattants mal armés.",
-   "en": "Krricht Dwarf-slicer, warlord of Clan Mors, hires warriors of Clan Skrittlespike to ambush the Plague Priest Puskab Foulfur on the road back to Skavenblight. The Plague Monks of his escort and Puskab's magic sweep aside these poorly armed fighters.",
-   "de": "Krricht Dwarf-slicer, Kriegsherr des Klans Mors, lässt Krieger des Klans Skrittlespike dem Seuchenpriester Puskab Foulfur auf dem Weg nach Skavenblight auflauern. Die Seuchenmönche seines Gefolges und Puskabs Magie fegen die schlecht bewaffneten Kämpfer hinweg."
+   "fr": "Krricht Dwarf-slicer, seigneur de guerre du clan Mors, charge des guerriers du clan Skrittlespike de tendre un piège au prêtre de la peste Puskab Foulfur sur le chemin du retour vers le monastère pestilentiel de Skavenblight. Les moines de la peste de son escorte et la magie de Puskab balaient ces combattants mal armés.",
+   "en": "Krricht Dwarf-slicer, warlord of Clan Mors, hires warriors of Clan Skrittlespike to ambush the Plague Priest Puskab Foulfur on the road back to the Pestilent Monastery in Skavenblight. The Plague Monks of his escort and Puskab's magic sweep aside these poorly armed fighters.",
+   "de": "Krricht Dwarf-slicer, Kriegsherr des Klans Mors, lässt Krieger des Klans Skrittlespike dem Seuchenpriester Puskab Foulfur auf dem Rückweg zum Pestilenzkloster in Skavenblight auflauern. Die Seuchenmönche seines Gefolges und Puskabs Magie fegen die schlecht bewaffneten Kämpfer hinweg."
   },
   "ere": "empire-sigmarite",
   "regions": [
@@ -513,9 +513,9 @@
      "de": "Blighted Empire, Roman von C. L. Werner"
     },
     "detail": {
-     "fr": "chap. 16",
-     "en": "ch. 16",
-     "de": "Kap. 16"
+     "fr": "chap. 16, 19 et 21",
+     "en": "ch. 16, 19 and 21",
+     "de": "Kap. 16, 19 und 21"
     },
     "url": ""
    },
@@ -773,9 +773,9 @@
    "de": "Schlacht im Fellwald"
   },
   "resume": {
-   "fr": "Manipulés par Lothar von Diehl et le voïvode von Drak, Stirland et Frederick van Hal s'affrontent près de Silberwald, et Mandred se joint aux Stirlandais. Le combat tourne à la mêlée à quatre camps quand les Sylvaniens trahissent et que le clan Mordkin surgit sur le flanc. Les arquebuses des Nains abattent les derniers dragons zombies de van Hal. Morts et Skavens s'entre-détruisent, et l'armée impériale, seule encore debout, remporte une victoire à la Pyrrhus.",
-   "en": "Manipulated by Lothar von Diehl and Voivode von Drak, Stirland and Frederick van Hal clash near Silberwald, and Mandred joins the Stirlanders. The fight becomes a four-sided melee when the Sylvanians turn traitor and Clan Mordkin bursts onto the flank. Dwarf firearms bring down van Hal's last Zombie Dragons. Undead and Skaven annihilate each other, and the Imperial army, the only force left standing, wins a pyrrhic victory.",
-   "de": "Von Lothar von Diehl und dem Woiwoden von Drak getäuscht, stoßen Stirland und Frederick van Hal bei Silberwald aufeinander, und Mandred schließt sich den Stirländern an. Der Kampf wird zum Handgemenge von vier Parteien, als die Sylvanier Verrat üben und der Klan Mordkin in der Flanke auftaucht. Die Feuerwaffen der Zwerge bringen van Hals letzte Zombiedrachen zu Fall. Untote und Skaven reiben sich gegenseitig auf, und das kaiserliche Heer, als einziges noch auf den Beinen, erringt einen Pyrrhussieg."
+   "fr": "Manipulés par Lothar von Diehl et le voïvode von Drak, Stirland et Frederick van Hal s'affrontent près de Silberwald, et Mandred se joint aux Stirlandais. Les armes à feu des Nains abattent les derniers dragons zombies de van Hal. Le combat tourne à la mêlée à quatre camps quand les Sylvaniens trahissent et que le clan Mordkin surgit sur le flanc. Morts et Skavens s'entre-détruisent, et l'armée impériale, seule encore debout, remporte une victoire à la Pyrrhus.",
+   "en": "Manipulated by Lothar von Diehl and Voivode von Drak, Stirland and Frederick van Hal clash near Silberwald, and Mandred joins the Stirlanders. Dwarf firearms bring down van Hal's last Zombie Dragons. The fight becomes a four-sided melee when the Sylvanians turn traitor and Clan Mordkin bursts onto the flank. Undead and Skaven annihilate each other, and the Imperial army, the only force left standing, wins a pyrrhic victory.",
+   "de": "Von Lothar von Diehl und dem Woiwoden von Drak getäuscht, stoßen Stirland und Frederick van Hal bei Silberwald aufeinander, und Mandred schließt sich den Stirländern an. Die Feuerwaffen der Zwerge bringen van Hals letzte Zombiedrachen zu Fall. Der Kampf wird zum Handgemenge von vier Parteien, als die Sylvanier Verrat üben und der Klan Mordkin in der Flanke auftaucht. Untote und Skaven reiben sich gegenseitig auf, und das kaiserliche Heer, als einziges noch auf den Beinen, erringt einen Pyrrhussieg."
   },
   "ere": "empire-sigmarite",
   "regions": [
@@ -799,9 +799,9 @@
      "de": "Wolf of Sigmar, Roman von C. L. Werner"
     },
     "detail": {
-     "fr": "chap. 12",
-     "en": "ch. 12",
-     "de": "Kap. 12"
+     "fr": "chap. 10 et 12",
+     "en": "ch. 10 and 12",
+     "de": "Kap. 10 und 12"
     },
     "url": ""
    },
@@ -914,7 +914,11 @@
      "en": "Wolf of Sigmar, novel by C. L. Werner",
      "de": "Wolf of Sigmar, Roman von C. L. Werner"
     },
-    "detail": "",
+    "detail": {
+     "fr": "chap. 21",
+     "en": "ch. 21",
+     "de": "Kap. 21"
+    },
     "url": ""
    },
    {
@@ -1024,7 +1028,7 @@
    "chaos"
   ],
   "importance": 2,
-  "fiabilite": "incertain",
+  "fiabilite": "divergent",
   "note": {
    "fr": "Warriors of Chaos (7e édition, p. 40) attribuait ce glacier à Teclis, ce que sa naissance en 2157 CI rend impossible selon le wiki.",
    "en": "Warriors of Chaos (7th edition, p. 40) credited the glacier to Teclis, which his birth in 2157 IC makes impossible according to the wiki.",
@@ -1223,9 +1227,9 @@
    "de": "Schlacht der Klagen"
   },
   "resume": {
-   "fr": "Une flotte de la peste de Nurgle menée par Kharan le Flétri jette l'ancre devant la Bretonnie, accompagnée de bandes de Khorne dont les Skulltakers. Les légions écrasent les chevaliers de Couronne et assiègent la ville. Le roi Louis le Brave est tué en duel par leur chef Akrim, et près de la moitié des chevaliers bretonniens périssent.",
-   "en": "A Nurglite plague fleet led by Kharan the Blighted drops anchor off Bretonnia, joined by Khornate warbands including the Skulltakers. The legions crush the knights of Couronne and besiege the city. King Louis the Brave is slain in single combat by their leader Akrim, and about half of Bretonnia's knights perish.",
-   "de": "Eine Seuchenflotte Nurgles unter Kharan dem Verseuchten ankert vor Bretonia, begleitet von Khorne-Kriegerscharen, darunter die Skulltakers. Die Legionen zerschlagen die Ritter von Couronne und belagern die Stadt. König Louis der Tapfere fällt im Zweikampf gegen ihren Anführer Akrim, und etwa die Hälfte der bretonischen Ritter kommt um."
+   "fr": "Une flotte de la peste de Nurgle menée par Kharan le Flétri jette l'ancre devant la Bretonnie, accompagnée de bandes de Khorne dont les Skulltakers. Les légions écrasent les chevaliers de Couronne et assiègent la ville. Le roi Louis le Brave est tué en duel par Akrim, chef des Skulltakers, et près de la moitié des chevaliers bretonniens périssent. Alors que les portes vont céder, Repanse de Lyonesse et son armée brisent les rangs du Chaos. Elle décapite Kharan et sauve Couronne.",
+   "en": "A Nurglite plague fleet led by Kharan the Blighted drops anchor off Bretonnia, joined by Khornate warbands including the Skulltakers. The legions crush the knights of Couronne and besiege the city. King Louis the Brave is slain in single combat by Akrim, leader of the Skulltakers, and about half of Bretonnia's knights perish. As the gates are about to give way, Repanse de Lyonesse and her army shatter the Chaos ranks. She beheads Kharan and saves Couronne.",
+   "de": "Eine Seuchenflotte Nurgles unter Kharan dem Verseuchten ankert vor Bretonia, begleitet von Khorne-Kriegerscharen, darunter die Skulltakers. Die Legionen zerschlagen die Ritter von Couronne und belagern die Stadt. König Louis der Tapfere fällt im Zweikampf gegen Akrim, den Anführer der Skulltakers, und etwa die Hälfte der bretonischen Ritter kommt um. Als die Tore nachzugeben drohen, zerschlagen Repanse de Lyonesse und ihr Heer die Reihen des Chaos. Sie enthauptet Kharan und rettet Couronne."
   },
   "ere": "trois-empereurs",
   "regions": [
@@ -1424,9 +1428,9 @@
      "de": "Citadel Journal 15"
     },
     "detail": {
-     "fr": "p. 24",
-     "en": "p. 24",
-     "de": "S. 24"
+     "fr": "pp. 24 et 29",
+     "en": "pp. 24 and 29",
+     "de": "S. 24 und 29"
     },
     "url": ""
    },
@@ -1847,9 +1851,9 @@
      "de": "Brunner the Bounty Hunter, Roman von C. L. Werner"
     },
     "detail": {
-     "fr": "chap. 4",
-     "en": "ch. 4",
-     "de": "Kap. 4"
+     "fr": "Where Walks the Mardagg, chap. 4",
+     "en": "Where Walks the Mardagg, ch. 4",
+     "de": "Where Walks the Mardagg, Kap. 4"
     },
     "url": ""
    },
@@ -2119,11 +2123,11 @@
    "chaos"
   ],
   "importance": 2,
-  "fiabilite": "incertain",
+  "fiabilite": "divergent",
   "note": {
-   "fr": "Les pages du wiki attribuent ces raids à Valmir von Raukov (Mortkin) ou à Oleg von Raukov (Ulfennik), à partir du même livre. La page Slaughter at Volganof évoque aussi une attaque en 2514 CI.",
-   "en": "The wiki pages credit these raids to Valmir von Raukov (Mortkin) or to Oleg von Raukov (Ulfennik), citing the same book. The Slaughter at Volganof page also mentions an attack in 2514 IC.",
-   "de": "Die Wiki-Seiten schreiben diese Raubzüge Valmir von Raukov (Mortkin) oder Oleg von Raukov (Ulfennik) zu und berufen sich auf dasselbe Buch. Die Seite Slaughter at Volganof erwähnt zudem einen Angriff 2514 IC."
+   "fr": "Selon la page Mortkin, Valmir von Raukov mène les raids de 2513 CI et son fils Oleg détruit Aarvik et Ulfennik. La page Slaughter at Volganof, à partir du même livre, dit ailleurs qu'Oleg conduit les raids et place l'attaque contre ces deux villes en 2514 CI.",
+   "en": "According to the Mortkin page, Valmir von Raukov leads the raids of 2513 IC and his son Oleg destroys Aarvik and Ulfennik. The Slaughter at Volganof page, citing the same book, says elsewhere that Oleg leads the raids and places the attack on these two towns in 2514 IC.",
+   "de": "Laut der Seite Mortkin führt Valmir von Raukov die Raubzüge von 2513 IC, und sein Sohn Oleg zerstört Aarvik und Ulfennik. Die Seite Slaughter at Volganof sagt an anderer Stelle unter Berufung auf dasselbe Buch, dass Oleg die Raubzüge anführt, und setzt den Angriff auf diese beiden Städte auf 2514 IC."
   },
   "sources": [
    {
@@ -2403,7 +2407,7 @@
    "nains"
   ],
   "importance": 1,
-  "fiabilite": "incertain",
+  "fiabilite": "etabli",
   "note": "",
   "sources": [
    {
@@ -2416,6 +2420,19 @@
      "fr": "p. 60",
      "en": "p. 60",
      "de": "S. 60"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "The Rise of the Horned Rat, roman de Guy Haley",
+     "en": "The Rise of the Horned Rat, novel by Guy Haley",
+     "de": "The Rise of the Horned Rat, Roman von Guy Haley"
+    },
+    "detail": {
+     "fr": "chap. 2",
+     "en": "ch. 2",
+     "de": "Kap. 2"
     },
     "url": ""
    },

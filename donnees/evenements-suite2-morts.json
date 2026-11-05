@@ -27,9 +27,9 @@
   "importance": 2,
   "fiabilite": "divergent",
   "note": {
-   "fr": "La page Khemri donne -2350 d'après Tomb Kings 8e édition, alors que la page Settra borne sa vie mortelle à -2500 et -2460. La date retenue s'accorde avec les 150 ans de règne que lui prête le wiki.",
-   "en": "The Khemri page gives -2350 from Tomb Kings 8th edition, whereas the Settra page ends his mortal life in -2460. The date kept fits the 150-year reign the wiki gives him.",
-   "de": "Die Seite Khemri nennt -2350 nach Tomb Kings 8. Edition, die Seite Settra begrenzt sein sterbliches Leben dagegen auf -2500 bis -2460. Das gewählte Datum passt zu den 150 Regierungsjahren, die das Wiki ihm zuschreibt."
+   "fr": "La page Khemri donne -2350 d'après Tomb Kings 8e édition, alors que la page Settra borne sa vie mortelle à -2500 et -2460.",
+   "en": "The Khemri page gives -2350 from Tomb Kings 8th edition, whereas the Settra page bounds his mortal life at -2500 and -2460.",
+   "de": "Die Seite Khemri nennt -2350 nach Tomb Kings 8. Edition, die Seite Settra begrenzt sein sterbliches Leben dagegen auf -2500 bis -2460."
   },
   "sources": [
    {
@@ -139,9 +139,9 @@
    "de": "Arkhan bestraft Bhagar"
   },
   "resume": {
-   "fr": "Bhagar envoie ses archers à cheval au secours de Ka-Sabar, puis harcèle l'armée de Khemri dans sa retraite et brûle ses morts-vivants. Arkhan le Noir marche sur la cité et bat ses cavaliers, tandis que le hiérophante Ahmet ben Izzedein tombe au combat. Le prince Shahid ben Alcazzar se rend pour sauver son peuple, mais Arkhan le sacrifie avec les chefs de la cité et leurs familles.",
-   "en": "Bhagar sends its horse archers to aid Ka-Sabar, then harries Khemri's army and burns its undead. Arkhan the Black marches on the city and beats its cavalry, while the hierophant Ahmet ben Izzedein falls in battle. Prince Shahid ben Alcazzar surrenders to save his people, but Arkhan sacrifices him along with the city's chieftains and their families.",
-   "de": "Bhagar schickt seine berittenen Bogenschützen Ka-Sabar zu Hilfe und bedrängt dann Khemris Heer, dessen Untote es verbrennt. Arkhan der Schwarze zieht gegen die Stadt und schlägt ihre Reiter, während der Hierophant Ahmet ben Izzedein im Kampf fällt. Prinz Shahid ben Alcazzar ergibt sich, um sein Volk zu retten, doch Arkhan opfert ihn samt den Stammesführern und ihren Familien."
+   "fr": "Bhagar envoie ses archers à cheval au secours de Ka-Sabar. Pendant le repli des rebelles, ses cavaliers harcèlent l'armée de Khemri et brûlent ses morts-vivants. Arkhan le Noir marche sur la cité et bat ses cavaliers, tandis que le hiérophante Ahmet ben Izzedein tombe au combat. Le prince Shahid ben Alcazzar se rend pour sauver son peuple, mais Arkhan le sacrifie avec les chefs de la cité et leurs familles.",
+   "en": "Bhagar sends its horse archers to aid Ka-Sabar. As the rebels fall back, its riders harry Khemri's army and burn its undead. Arkhan the Black marches on the city and beats its cavalry, while the hierophant Ahmet ben Izzedein falls in battle. Prince Shahid ben Alcazzar surrenders to save his people, but Arkhan sacrifices him along with the city's chieftains and their families.",
+   "de": "Bhagar schickt seine berittenen Bogenschützen Ka-Sabar zu Hilfe. Beim Rückzug der Aufständischen bedrängen seine Reiter Khemris Heer und verbrennen dessen Untote. Arkhan der Schwarze zieht gegen die Stadt und schlägt ihre Reiter, während der Hierophant Ahmet ben Izzedein im Kampf fällt. Prinz Shahid ben Alcazzar ergibt sich, um sein Volk zu retten, doch Arkhan opfert ihn samt den Stammesführern und ihren Familien."
   },
   "ere": "age-d-or",
   "regions": [
@@ -450,6 +450,19 @@
    },
    {
     "titre": {
+     "fr": "Warhammer Armies: Tomb Kings, 8e édition",
+     "en": "Warhammer Armies: Tomb Kings, 8th edition",
+     "de": "Warhammer Armies: Tomb Kings, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 20",
+     "en": "p. 20",
+     "de": "S. 20"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
      "fr": "Wiki Warhammer Fantasy (fandom), page Neferata",
      "en": "Warhammer Fantasy Wiki (fandom), Neferata page",
      "de": "Warhammer Fantasy Wiki (fandom), Seite Neferata"
@@ -465,6 +478,15 @@
     },
     "detail": "",
     "url": "https://warhammerfantasy.fandom.com/wiki/W'soran"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Lahmia",
+     "en": "Warhammer Fantasy Wiki (fandom), Lahmia page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Lahmia"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Lahmia"
    }
   ]
  },
@@ -508,7 +530,11 @@
      "en": "Nagash the Unbroken, novel by Mike Lee",
      "de": "Nagash the Unbroken, Roman von Mike Lee"
     },
-    "detail": "",
+    "detail": {
+     "fr": "chap. 11 et 13",
+     "en": "ch. 11 and 13",
+     "de": "Kap. 11 und 13"
+    },
     "url": ""
    },
    {
@@ -637,6 +663,19 @@
    },
    {
     "titre": {
+     "fr": "Nagash the Unbroken, roman de Mike Lee",
+     "en": "Nagash the Unbroken, novel by Mike Lee",
+     "de": "Nagash the Unbroken, Roman von Mike Lee"
+    },
+    "detail": {
+     "fr": "chap. 15",
+     "en": "ch. 15",
+     "de": "Kap. 15"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
      "fr": "Wiki Warhammer Fantasy (fandom), page Khalida Neferher",
      "en": "Warhammer Fantasy Wiki (fandom), Khalida Neferher page",
      "de": "Warhammer Fantasy Wiki (fandom), Seite Khalida Neferher"
@@ -683,8 +722,8 @@
     },
     "detail": {
      "fr": "chap. 5",
-     "en": "chapp. 5",
-     "de": "chaS. 5"
+     "en": "ch. 5",
+     "de": "Kap. 5"
     },
     "url": ""
    },
@@ -710,9 +749,9 @@
    "de": "Der Zwillingsschweifkomet und die Gefangennahme Zurhas'"
   },
   "resume": {
-   "fr": "La comète à deux queues paraît au-dessus de Lahmia. Las de l'obsession de Neferata pour le prince Alcadizaar, ses complices dépêchent Zurhas auprès de Nagash, mais Alcadizaar le capture et tient ainsi la preuve de leur trahison. Tandis que les cités de Nehekhara s'unissent, Neferata doit libérer W'soran et recourir à la nécromancie.",
-   "en": "The Twin-Tailed Comet appears over Lahmia. Tired of Neferata's obsession with Prince Alcadizaar, her co-conspirators send Zurhas to Nagash, but Alcadizaar captures him and so gains proof of their treason. As the cities of Nehekhara unite, Neferata must free W'soran and turn to necromancy.",
-   "de": "Der Zwillingsschweifkomet erscheint über Lahmia. Neferatas Mitverschworene, ihrer Besessenheit von Prinz Alcadizaar überdrüssig, schicken Zurhas zu Nagash, doch Alcadizaar nimmt ihn gefangen und hält damit den Beweis ihres Verrats in Händen. Während sich die Städte Nehekharas verbünden, muss Neferata W'soran freilassen und zur Nekromantie greifen."
+   "fr": "La comète à deux queues paraît au-dessus de Lahmia. Ses complices sont las de l'obsession de Neferata pour le prince Alcadizaar, et Ushoran dépêche Zurhas auprès de Nagash, mais Alcadizaar le capture et tient ainsi la preuve de leur trahison. Tandis que les cités de Nehekhara s'unissent, Neferata doit libérer W'soran et recourir à la nécromancie.",
+   "en": "The Twin-Tailed Comet appears over Lahmia. Her co-conspirators have tired of Neferata's obsession with Prince Alcadizaar, and Ushoran sends Zurhas to Nagash, but Alcadizaar captures him and so gains proof of their treason. As the cities of Nehekhara unite, Neferata must free W'soran and turn to necromancy.",
+   "de": "Der Zwillingsschweifkomet erscheint über Lahmia. Neferatas Mitverschworene sind ihrer Besessenheit von Prinz Alcadizaar überdrüssig, und Ushoran schickt Zurhas zu Nagash, doch Alcadizaar nimmt ihn gefangen und hält damit den Beweis ihres Verrats in Händen. Während sich die Städte Nehekharas verbünden, muss Neferata W'soran freilassen und zur Nekromantie greifen."
   },
   "ere": "age-des-tribus",
   "regions": [
@@ -844,7 +883,11 @@
      "en": "Master of Death, novel by Josh Reynolds",
      "de": "Master of Death, Roman von Josh Reynolds"
     },
-    "detail": "",
+    "detail": {
+     "fr": "chap. 4",
+     "en": "ch. 4",
+     "de": "Kap. 4"
+    },
     "url": ""
    },
    {
@@ -891,7 +934,11 @@
      "en": "Master of Death, novel by Josh Reynolds",
      "de": "Master of Death, Roman von Josh Reynolds"
     },
-    "detail": "",
+    "detail": {
+     "fr": "chap. 5",
+     "en": "ch. 5",
+     "de": "Kap. 5"
+    },
     "url": ""
    },
    {
@@ -997,7 +1044,11 @@
      "en": "Nagash Immortal, novel by Mike Lee",
      "de": "Nagash Immortal, Roman von Mike Lee"
     },
-    "detail": "",
+    "detail": {
+     "fr": "chap. 26 et 28",
+     "en": "ch. 26 and 28",
+     "de": "Kap. 26 und 28"
+    },
     "url": ""
    },
    {
@@ -1252,9 +1303,9 @@
    "de": "W'soran erschafft die ersten Nekrarchen"
   },
   "resume": {
-   "fr": "W'soran commence à transmettre le Baiser de sang et ses découvertes à des apprentis, à commencer par Melkhior, puis Nourgul. Il s'installe avec eux dans les ruines de Lahmia, que ni les Rois des tombes ni les autres vampires ne veulent approcher. Ainsi naît la lignée des Nécrarques.",
-   "en": "W'soran begins passing the Blood Kiss and his discoveries on to apprentices, starting with Melkhior and then Nourgul. He settles in the ruins of Lahmia, which neither the Tomb Kings nor the other vampires will approach. So begins the Necrarch bloodline.",
-   "de": "W'soran beginnt, den Blutkuss und seine Entdeckungen an Lehrlinge weiterzugeben, zuerst an Melkhior, dann an Nourgul. Er lässt sich in den Ruinen von Lahmia nieder, denen weder die Gruftkönige noch die übrigen Vampire nahekommen wollen. So entsteht die Blutlinie der Nekrarchen."
+   "fr": "W'soran commence à transmettre le Baiser de sang et ses découvertes à des apprentis, à commencer par Melkhior, et parmi eux Nourgul. Il s'installe avec eux dans les ruines de Lahmia, que ni les Rois des tombes ni les autres vampires ne veulent approcher. Ainsi naît la lignée des Nécrarques.",
+   "en": "W'soran begins passing the Blood Kiss and his discoveries on to apprentices, starting with Melkhior and including Nourgul. He settles in the ruins of Lahmia, which neither the Tomb Kings nor the other vampires will approach. So begins the Necrarch bloodline.",
+   "de": "W'soran beginnt, den Blutkuss und seine Entdeckungen an Lehrlinge weiterzugeben, zuerst an Melkhior, zu ihnen zählt auch Nourgul. Er lässt sich in den Ruinen von Lahmia nieder, denen weder die Gruftkönige noch die übrigen Vampire nahekommen wollen. So entsteht die Blutlinie der Nekrarchen."
   },
   "ere": "age-des-tribus",
   "regions": [
@@ -1267,8 +1318,12 @@
    "vampires"
   ],
   "importance": 2,
-  "fiabilite": "etabli",
-  "note": "",
+  "fiabilite": "divergent",
+  "note": {
+   "fr": "Les romans Time of Legends contredisent ce récit : Melkhior y est un homme de Strygos, qui reçoit le Baiser de sang sur ordre d'Ushoran, maître de Mourkain, donc bien après -1122.",
+   "en": "The Time of Legends novels contradict this account: there Melkhior is a man of Strygos who receives the Blood Kiss on the orders of Ushoran, ruler of Mourkain, so long after -1122.",
+   "de": "Die Romane der Time of Legends widersprechen dieser Darstellung: Dort ist Melkhior ein Mann aus Strygos, der den Blutkuss auf Befehl Ushorans, des Herrschers von Mourkain, erhält, also lange nach -1122."
+  },
   "sources": [
    {
     "titre": {
@@ -1277,9 +1332,9 @@
      "de": "Warhammer Armies: Vampire Counts, 7. Edition"
     },
     "detail": {
-     "fr": "p. 29",
-     "en": "p. 29",
-     "de": "S. 29"
+     "fr": "p. 25, 29",
+     "en": "p. 25, 29",
+     "de": "S. 25, 29"
     },
     "url": ""
    },
@@ -1298,12 +1353,60 @@
    },
    {
     "titre": {
+     "fr": "Liber Necris",
+     "en": "Liber Necris",
+     "de": "Liber Necris"
+    },
+    "detail": {
+     "fr": "p. 81",
+     "en": "p. 81",
+     "de": "S. 81"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Warhammer Fantasy Roleplay: Night's Dark Masters, 2e édition",
+     "en": "Warhammer Fantasy Roleplay: Night's Dark Masters, 2nd edition",
+     "de": "Warhammer Fantasy Roleplay: Night's Dark Masters, 2. Edition"
+    },
+    "detail": {
+     "fr": "p. 59",
+     "en": "p. 59",
+     "de": "S. 59"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Master of Death, roman de Josh Reynolds",
+     "en": "Master of Death, novel by Josh Reynolds",
+     "de": "Master of Death, Roman von Josh Reynolds"
+    },
+    "detail": {
+     "fr": "chap. 4",
+     "en": "ch. 4",
+     "de": "Kap. 4"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
      "fr": "Wiki Warhammer Fantasy (fandom), page W'soran",
      "en": "Warhammer Fantasy Wiki (fandom), W'soran page",
      "de": "Warhammer Fantasy Wiki (fandom), Seite W'soran"
     },
     "detail": "",
     "url": "https://warhammerfantasy.fandom.com/wiki/W'soran"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Melkhior",
+     "en": "Warhammer Fantasy Wiki (fandom), Melkhior page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Melkhior"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Melkhior"
    }
   ]
  },
@@ -1397,7 +1500,11 @@
      "en": "Master of Death, novel by Josh Reynolds",
      "de": "Master of Death, Roman von Josh Reynolds"
     },
-    "detail": "",
+    "detail": {
+     "fr": "chap. 8 et 14",
+     "en": "ch. 8 and 14",
+     "de": "Kap. 8 und 14"
+    },
     "url": ""
    },
    {
@@ -1450,7 +1557,11 @@
      "en": "Neferata, novel by Josh Reynolds",
      "de": "Neferata, Roman von Josh Reynolds"
     },
-    "detail": "",
+    "detail": {
+     "fr": "chap. 7, 8 et 10",
+     "en": "ch. 7, 8 and 10",
+     "de": "Kap. 7, 8 und 10"
+    },
     "url": ""
    },
    {
@@ -1493,9 +1604,9 @@
   "importance": 1,
   "fiabilite": "divergent",
   "note": {
-   "fr": "Le roman montre Vorag actif en -327, alors que Vampire Counts 6e édition et Night's Dark Masters le font mourir vers -600.",
-   "en": "The novel has Vorag active in -327, whereas Vampire Counts 6th edition and Night's Dark Masters have him die around -600.",
-   "de": "Der Roman zeigt Vorag im Jahr -327 aktiv, während Vampire Counts 6. Edition und Night's Dark Masters ihn um -600 sterben lassen."
+   "fr": "Le roman montre Vorag actif en -327, alors que Vampire Counts 6e édition et Night's Dark Masters le laissent pour mort vers -600.",
+   "en": "The novel has Vorag active in -327, whereas Vampire Counts 6th edition and Night's Dark Masters leave him for dead around -600.",
+   "de": "Der Roman zeigt Vorag im Jahr -327 aktiv, während Vampire Counts 6. Edition und Night's Dark Masters ihn um -600 für tot zurücklassen."
   },
   "sources": [
    {
@@ -1506,8 +1617,8 @@
     },
     "detail": {
      "fr": "chap. 13",
-     "en": "chapp. 13",
-     "de": "chaS. 13"
+     "en": "ch. 13",
+     "de": "Kap. 13"
     },
     "url": ""
    },
@@ -1519,8 +1630,8 @@
     },
     "detail": {
      "fr": "chap. 4",
-     "en": "chapp. 4",
-     "de": "chaS. 4"
+     "en": "ch. 4",
+     "de": "Kap. 4"
     },
     "url": ""
    },
@@ -1579,7 +1690,11 @@
      "en": "Master of Death, novel by Josh Reynolds",
      "de": "Master of Death, Roman von Josh Reynolds"
     },
-    "detail": "",
+    "detail": {
+     "fr": "chap. 5",
+     "en": "ch. 5",
+     "de": "Kap. 5"
+    },
     "url": ""
    },
    {
@@ -1588,7 +1703,11 @@
      "en": "Neferata, novel by Josh Reynolds",
      "de": "Neferata, Roman von Josh Reynolds"
     },
-    "detail": "",
+    "detail": {
+     "fr": "chap. 13",
+     "en": "ch. 13",
+     "de": "Kap. 13"
+    },
     "url": ""
    },
    {
@@ -1629,9 +1748,9 @@
   "importance": 2,
   "fiabilite": "divergent",
   "note": {
-   "fr": "Le roman montre Vorag actif en -327, alors que Vampire Counts 6e édition et Night's Dark Masters le font mourir vers -600.",
-   "en": "The novel has Vorag active in -327, whereas Vampire Counts 6th edition and Night's Dark Masters have him die around -600.",
-   "de": "Der Roman zeigt Vorag im Jahr -327 aktiv, während Vampire Counts 6. Edition und Night's Dark Masters ihn um -600 sterben lassen."
+   "fr": "Le roman montre Vorag actif en -327, alors que Vampire Counts 6e édition et Night's Dark Masters le laissent pour mort vers -600.",
+   "en": "The novel has Vorag active in -327, whereas Vampire Counts 6th edition and Night's Dark Masters leave him for dead around -600.",
+   "de": "Der Roman zeigt Vorag im Jahr -327 aktiv, während Vampire Counts 6. Edition und Night's Dark Masters ihn um -600 für tot zurücklassen."
   },
   "sources": [
    {
@@ -1641,9 +1760,9 @@
      "de": "Master of Death, Roman von Josh Reynolds"
     },
     "detail": {
-     "fr": "chap. 1 et 7",
-     "en": "ch. 1 and 7",
-     "de": "Kap. 1 und 7"
+     "fr": "chap. 1, 7 et 8",
+     "en": "ch. 1, 7 and 8",
+     "de": "Kap. 1, 7 und 8"
     },
     "url": ""
    },
@@ -1702,7 +1821,11 @@
      "en": "Master of Death, novel by Josh Reynolds",
      "de": "Master of Death, Roman von Josh Reynolds"
     },
-    "detail": "",
+    "detail": {
+     "fr": "chap. 8",
+     "en": "ch. 8",
+     "de": "Kap. 8"
+    },
     "url": ""
    },
    {
@@ -1733,7 +1856,7 @@
   },
   "ere": "age-des-tribus",
   "regions": [
-   "terres-arides"
+   "montagnes"
   ],
   "lieux": [
    "lac-noir"
@@ -1743,8 +1866,12 @@
    "peaux-vertes"
   ],
   "importance": 1,
-  "fiabilite": "incertain",
-  "note": "",
+  "fiabilite": "divergent",
+  "note": {
+   "fr": "Épisode propre aux romans Time of Legends. La version commune des autres sources officielles garde W'soran dans les ruines de Lahmia jusqu'à ce que Melkhior le tue vers -223, sans domaine dans les Montagnes du Bord du Monde.",
+   "en": "This episode belongs to the Time of Legends novels. The common version in other official sources keeps W'soran in the ruins of Lahmia until Melkhior kills him by -223, with no domain in the Worlds Edge Mountains.",
+   "de": "Diese Episode gehört zu den Time-of-Legends-Romanen. Die gängige Fassung anderer offizieller Quellen lässt W'soran in den Ruinen von Lahmia, bis Melkhior ihn um -223 tötet, ohne ein Reich im Weltrandgebirge."
+  },
   "sources": [
    {
     "titre": {
@@ -1754,8 +1881,8 @@
     },
     "detail": {
      "fr": "chap. 10",
-     "en": "chapp. 10",
-     "de": "chaS. 10"
+     "en": "ch. 10",
+     "de": "Kap. 10"
     },
     "url": ""
    },
@@ -1767,6 +1894,19 @@
     },
     "detail": "",
     "url": "https://warhammerfantasy.fandom.com/wiki/W'soran"
+   },
+   {
+    "titre": {
+     "fr": "Master of Death, Time of Legends, roman de Josh Reynolds",
+     "en": "Master of Death, Time of Legends, novel by Josh Reynolds",
+     "de": "Master of Death, Time of Legends, Roman von Josh Reynolds"
+    },
+    "detail": {
+     "fr": "chap. 10",
+     "en": "ch. 10",
+     "de": "Kap. 10"
+    },
+    "url": ""
    }
   ]
  },
@@ -1803,7 +1943,11 @@
      "en": "Master of Death, novel by Josh Reynolds",
      "de": "Master of Death, Roman von Josh Reynolds"
     },
-    "detail": "",
+    "detail": {
+     "fr": "chap. 11",
+     "en": "ch. 11",
+     "de": "Kap. 11"
+    },
     "url": ""
    },
    {
@@ -1858,7 +2002,11 @@
      "en": "Master of Death, novel by Josh Reynolds",
      "de": "Master of Death, Roman von Josh Reynolds"
     },
-    "detail": "",
+    "detail": {
+     "fr": "chap. 16",
+     "en": "ch. 16",
+     "de": "Kap. 16"
+    },
     "url": ""
    },
    {
@@ -1920,7 +2068,11 @@
      "en": "Master of Death, novel by Josh Reynolds",
      "de": "Master of Death, Roman von Josh Reynolds"
     },
-    "detail": "",
+    "detail": {
+     "fr": "chap. 15 et 16",
+     "en": "ch. 15 and 16",
+     "de": "Kap. 15 und 16"
+    },
     "url": ""
    },
    {
@@ -1940,59 +2092,6 @@
     },
     "detail": "",
     "url": "https://warhammerfantasy.fandom.com/wiki/Abhorash"
-   }
-  ]
- },
- {
-  "id": "settra-se-retourne-contre-ses-allies",
-  "annee": -39,
-  "fin": null,
-  "approx": false,
-  "titre": {
-   "fr": "Settra se retourne contre ses alliés",
-   "en": "Settra turns on his allies",
-   "de": "Settra wendet sich gegen seine Verbündeten"
-  },
-  "resume": {
-   "fr": "Résolu à imposer sa loi, Settra retourne son armée contre les autres Rois des tombes. La bataille dure sept jours et sept nuits, les morts tombés se relevant de part et d'autre. Écrasé par le nombre, il regagne Khemri en jurant de se venger.",
-   "en": "Determined to impose his will, Settra turns his army on the other Tomb Kings. The battle rages for seven days and nights, the fallen rising again on both sides. Outnumbered, he withdraws to Khemri, vowing revenge.",
-   "de": "Entschlossen, seinen Willen durchzusetzen, wendet Settra sein Heer gegen die anderen Gruftkönige. Die Schlacht tobt sieben Tage und Nächte, und auf beiden Seiten erheben sich die Gefallenen von Neuem. In der Unterzahl zieht er sich nach Khemri zurück und schwört Rache."
-  },
-  "ere": "age-des-tribus",
-  "regions": [
-   "sud"
-  ],
-  "lieux": [
-   "khemri"
-  ],
-  "factions": [
-   "rois-des-tombes"
-  ],
-  "importance": 2,
-  "fiabilite": "incertain",
-  "note": "",
-  "sources": [
-   {
-    "titre": {
-     "fr": "Warhammer Armies: Undead, 4e édition",
-     "en": "Warhammer Armies: Undead, 4th edition",
-     "de": "Warhammer Armies: Undead, 4. Edition"
-    },
-    "detail": {
-     "fr": "p. 31, 96",
-     "en": "p. 31, 96",
-     "de": "S. 31, 96"
-    },
-    "url": ""
-   },
-   {
-    "titre": {
-     "fr": "Wiki Warhammer Fantasy (fandom), page Settra",
-     "en": "Warhammer Fantasy Wiki (fandom), Settra page",
-     "de": "Warhammer Fantasy Wiki (fandom), Seite Settra"
-    },
-    "detail": "",
-    "url": "https://warhammerfantasy.fandom.com/wiki/Settra"
    }
   ]
  },
@@ -2246,6 +2345,19 @@
   "sources": [
    {
     "titre": {
+     "fr": "The Red Duke, roman de C. L. Werner",
+     "en": "The Red Duke, novel by C. L. Werner",
+     "de": "The Red Duke, Roman von C. L. Werner"
+    },
+    "detail": {
+     "fr": "chap. 2",
+     "en": "ch. 2",
+     "de": "Kap. 2"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
      "fr": "Wiki Warhammer Fantasy (fandom), page The Red Duke",
      "en": "Warhammer Fantasy Wiki (fandom), The Red Duke page",
      "de": "Warhammer Fantasy Wiki (fandom), Seite The Red Duke"
@@ -2295,7 +2407,24 @@
      "en": "The Red Duke, novel by C. L. Werner",
      "de": "The Red Duke, Roman von C. L. Werner"
     },
-    "detail": "",
+    "detail": {
+     "fr": "chap. 6",
+     "en": "ch. 6",
+     "de": "Kap. 6"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Warhammer Fantasy Roleplay: Night's Dark Masters, 2e édition",
+     "en": "Warhammer Fantasy Roleplay: Night's Dark Masters, 2nd edition",
+     "de": "Warhammer Fantasy Roleplay: Night's Dark Masters, 2. Edition"
+    },
+    "detail": {
+     "fr": "p. 33",
+     "en": "p. 33",
+     "de": "S. 33"
+    },
     "url": ""
    },
    {
@@ -2428,28 +2557,6 @@
     },
     "detail": "",
     "url": "https://warhammerfantasy.fandom.com/wiki/Genevieve_Dieudonne"
-   },
-   {
-    "titre": {
-     "fr": "Drachenfels (roman de Jack Yeovil)",
-     "en": "Drachenfels (roman de Jack Yeovil)",
-     "de": "Drachenfels (roman de Jack Yeovil)"
-    },
-    "detail": {
-     "fr": "prologue, chap. 1",
-     "en": "prologue, ch. 1",
-     "de": "Prolog, Kap. 1"
-    },
-    "url": ""
-   },
-   {
-    "titre": {
-     "fr": "Wiki Warhammer Fantasy (fandom), page Genevieve Dieudonné",
-     "en": "Warhammer Fantasy Wiki (fandom), Genevieve Dieudonné page",
-     "de": "Warhammer Fantasy Wiki (fandom), Seite Genevieve Dieudonné"
-    },
-    "detail": "",
-    "url": "https://warhammerfantasy.fandom.com/wiki/Genevieve_Dieudonné"
    }
   ]
  },
@@ -2916,7 +3023,11 @@
   ],
   "importance": 1,
   "fiabilite": "incertain",
-  "note": "",
+  "note": {
+   "fr": "Date déduite : la page place l'affaire après l'achèvement de Krinal, en 2460.",
+   "en": "Inferred date: the page sets this after the completion of Krinal in 2460.",
+   "de": "Abgeleitetes Datum: Die Seite setzt dies nach der Fertigstellung von Krinal im Jahr 2460 an."
+  },
   "sources": [
    {
     "titre": {
@@ -2928,6 +3039,19 @@
      "fr": "p. 61",
      "en": "p. 61",
      "de": "S. 61"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "The Return of Nagash, roman de Josh Reynolds",
+     "en": "The Return of Nagash, novel by Josh Reynolds",
+     "de": "The Return of Nagash, Roman von Josh Reynolds"
+    },
+    "detail": {
+     "fr": "chap. 10",
+     "en": "ch. 10",
+     "de": "Kap. 10"
     },
     "url": ""
    },
@@ -2991,19 +3115,6 @@
     },
     "detail": "",
     "url": "https://warhammerfantasy.fandom.com/wiki/Heinrich_Kemmler"
-   },
-   {
-    "titre": {
-     "fr": "White Dwarf 309 (UK), Return of the Lichemaster",
-     "en": "White Dwarf 309 (UK), Return of the Lichemaster",
-     "de": "White Dwarf 309 (UK), Return of the Lichemaster"
-    },
-    "detail": {
-     "fr": "p. 61",
-     "en": "p. 61",
-     "de": "S. 61"
-    },
-    "url": ""
    }
   ]
  },
@@ -3025,7 +3136,9 @@
   "ere": "empire-reunifie",
   "regions": [
    "bretonnie",
-   "tilee-estalie"
+   "tilee-estalie",
+   "montagnes",
+   "royaumes-frontaliers"
   ],
   "lieux": [
    "krinal"
@@ -3071,6 +3184,50 @@
     },
     "detail": "",
     "url": "https://warhammerfantasy.fandom.com/wiki/Heinrich_Kemmler"
+   },
+   {
+    "titre": {
+     "fr": "White Dwarf 309 (UK), Return of the Lichemaster",
+     "en": "White Dwarf 309 (UK), Return of the Lichemaster",
+     "de": "White Dwarf 309 (UK), Return of the Lichemaster"
+    },
+    "detail": {
+     "fr": "p. 11, 61",
+     "en": "pp. 11, 61",
+     "de": "S. 11, 61"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Empire in Ruins Companion, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Empire in Ruins Companion, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Empire in Ruins Companion, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 108",
+     "en": "p. 108",
+     "de": "S. 108"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page Brachnar the Damned",
+     "en": "Warhammer Fantasy Wiki (fandom), Brachnar the Damned page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite Brachnar the Damned"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/Brachnar_the_Damned"
+   },
+   {
+    "titre": {
+     "fr": "Wiki Warhammer Fantasy (fandom), page The Vaults",
+     "en": "Warhammer Fantasy Wiki (fandom), The Vaults page",
+     "de": "Warhammer Fantasy Wiki (fandom), Seite The Vaults"
+    },
+    "detail": "",
+    "url": "https://warhammerfantasy.fandom.com/wiki/The_Vaults"
    }
   ]
  },
@@ -3100,9 +3257,52 @@
    "rois-des-tombes"
   ],
   "importance": 2,
-  "fiabilite": "incertain",
-  "note": "",
+  "fiabilite": "divergent",
+  "note": {
+   "fr": "The Empire 8e édition date cette attaque de 2517, alors que Vampire Counts 6e et 7e édition font dormir Zacharias plus de dix ans dans sa caverne, jusqu'à son réveil en 2518.",
+   "en": "The Empire 8th edition dates this attack to 2517, whereas Vampire Counts 6th and 7th editions have Zacharias asleep in his cave for over a decade, until he wakes in 2518.",
+   "de": "The Empire 8. Edition datiert diesen Angriff auf 2517, während Vampire Counts 6. und 7. Edition Zacharias über ein Jahrzehnt in seiner Höhle schlafen lassen, bis er 2518 erwacht."
+  },
   "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: The Empire, 8e édition",
+     "en": "Warhammer Armies: The Empire, 8th edition",
+     "de": "Warhammer Armies: The Empire, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 17",
+     "en": "p. 17",
+     "de": "S. 17"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Vampire Counts, 6e édition",
+     "en": "Warhammer Armies: Vampire Counts, 6th edition",
+     "de": "Warhammer Armies: Vampire Counts, 6. Edition"
+    },
+    "detail": {
+     "fr": "p. 72",
+     "en": "p. 72",
+     "de": "S. 72"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Vampire Counts, 7e édition",
+     "en": "Warhammer Armies: Vampire Counts, 7th edition",
+     "de": "Warhammer Armies: Vampire Counts, 7. Edition"
+    },
+    "detail": {
+     "fr": "p. 31",
+     "en": "p. 31",
+     "de": "S. 31"
+    },
+    "url": ""
+   },
    {
     "titre": {
      "fr": "Wiki Warhammer Fantasy (fandom), page Zacharias the Everliving",
@@ -3139,12 +3339,34 @@
   ],
   "importance": 1,
   "fiabilite": "incertain",
-  "note": {
-   "fr": "La page ne précise pas où se trouve la caverne : la région indiquée est provisoire.",
-   "en": "The page does not say where the cave is, so the region given is provisional.",
-   "de": "Die Seite gibt nicht an, wo die Höhle liegt, die angegebene Region ist daher vorläufig."
-  },
+  "note": "",
   "sources": [
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Vampire Counts, 7e édition",
+     "en": "Warhammer Armies: Vampire Counts, 7th edition",
+     "de": "Warhammer Armies: Vampire Counts, 7. Edition"
+    },
+    "detail": {
+     "fr": "p. 31",
+     "en": "p. 31",
+     "de": "S. 31"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Vampire Counts, 6e édition",
+     "en": "Warhammer Armies: Vampire Counts, 6th edition",
+     "de": "Warhammer Armies: Vampire Counts, 6. Edition"
+    },
+    "detail": {
+     "fr": "p. 73",
+     "en": "p. 73",
+     "de": "S. 73"
+    },
+    "url": ""
+   },
    {
     "titre": {
      "fr": "Wiki Warhammer Fantasy (fandom), page Zacharias the Everliving",

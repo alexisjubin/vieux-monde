@@ -27,7 +27,11 @@
   ],
   "importance": 2,
   "fiabilite": "incertain",
-  "note": "",
+  "note": {
+   "fr": "La page Southlands attribue aussi la rupture des communications à la chute de Chupayotl, en -3499 CI. La page Lizardmen Timeline date cette chute de -3894 CI.",
+   "en": "The Southlands page also blames the loss of communications on the fall of Chupayotl in -3499 IC. The Lizardmen Timeline page dates that fall to -3894 IC.",
+   "de": "Die Seite Southlands führt den Abbruch der Verbindung auch auf den Fall von Chupayotl -3499 IK zurück. Die Seite Lizardmen Timeline datiert diesen Fall auf -3894 IK."
+  },
   "sources": [
    {
     "titre": {
@@ -392,15 +396,15 @@
   "fiabilite": "incertain",
   "note": {
    "fr": "La source dit seulement que ces armes existaient en Orient avant -1750 CI. Le terme français est traduit de « dragon-staves ».",
-   "en": "The source only says these weapons existed in the Far East before -1750 IC.",
-   "de": "Die Quelle sagt nur, dass es diese Waffen vor -1750 IK im Fernen Osten gab."
+   "en": "The source only says these weapons existed in the Far East before -1750 IC. The English term is the source's own.",
+   "de": "Die Quelle sagt nur, dass es diese Waffen vor -1750 IK im Fernen Osten gab. Der deutsche Begriff ist aus „dragon-staves“ übersetzt."
   },
   "sources": [
    {
     "titre": {
      "fr": "Nagash the Unbroken, roman de Mike Lee",
-     "en": "Nagash the Unbroken, roman de Mike Lee",
-     "de": "Nagash the Unbroken, roman de Mike Lee"
+     "en": "Nagash the Unbroken, novel by Mike Lee",
+     "de": "Nagash the Unbroken, Roman von Mike Lee"
     },
     "detail": {
      "fr": "Prologue",
@@ -665,9 +669,9 @@
   "importance": 1,
   "fiabilite": "incertain",
   "note": {
-   "fr": "Intervalle déduit : expédition de 1690 CI plus les cent ans indiqués par la source.",
-   "en": "Interval deduced: the 1690 IC expedition plus the hundred years given by the source.",
-   "de": "Zeitraum erschlossen: die Expedition von 1690 IK plus die von der Quelle genannten hundert Jahre."
+   "fr": "Intervalle déduit : expédition de 1690 CI plus les cent ans indiqués par la source. Le rôle de Yin-Yin vient de l'entretien d'Andy Hall. Le livre de 5e édition parle de l'empereur Wu.",
+   "en": "Interval deduced: the 1690 IC expedition plus the hundred years given by the source. Yin-Yin's role comes from the Andy Hall interview. The 5th edition book speaks of Emperor Wu.",
+   "de": "Zeitraum erschlossen: die Expedition von 1690 IK plus die von der Quelle genannten hundert Jahre. Yin-Yins Rolle stammt aus dem Interview mit Andy Hall. Das Buch der 5. Edition nennt Kaiser Wu."
   },
   "sources": [
    {
@@ -681,6 +685,15 @@
      "en": "pp. 14-17",
      "de": "S. 14-17"
     },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Entretien avec Andy Hall, scénariste de Total War: Warhammer III, podcast Lorebeards, 12 octobre 2021",
+     "en": "Interview with Andy Hall, lead writer of Total War: Warhammer III, Lorebeards podcast, October 12, 2021",
+     "de": "Interview mit Andy Hall, Autor von Total War: Warhammer III, Lorebeards-Podcast, 12. Oktober 2021"
+    },
+    "detail": "",
     "url": ""
    },
    {
@@ -705,9 +718,9 @@
    "de": "Dariens Torheit"
   },
   "resume": {
-   "fr": "Le Westerlander Eicher Darien fonde Nouveau-Marienburg sur l'isthme de Lustrie, à quatre-vingts milles au nord de Skeggi. Craignant l'indépendance de la colonie, l'Empire coule les navires qui la ravitaillent. Deux mille colons meurent de faim, et les derniers, devenus cannibales, tournent en goules.",
-   "en": "The Westerlander Eicher Darien founds New Marienburg on the isthmus of Lustria, eighty miles north of Skeggi. Fearing the colony's independence, the Empire sinks the ships that supply it. Two thousand settlers starve, and the last of them turn to cannibalism and become ghouls.",
-   "de": "Der Westerländer Eicher Darien gründet auf der Landenge von Lustria, achtzig Meilen nördlich von Skeggi, Neu-Marienburg. Aus Furcht vor der Unabhängigkeit der Kolonie versenkt das Imperium die Versorgungsschiffe. Zweitausend Siedler verhungern, die letzten verfallen dem Kannibalismus und werden zu Ghulen."
+   "fr": "Le Westerlander Eicher Darien fonde Nouveau-Marienburg sur l'isthme de Lustrie, à quatre-vingts milles au nord de Skeggi. Craignant l'indépendance du Westerland et de Marienburg si la colonie prospère, l'Empire coule les navires qui la ravitaillent. Deux mille colons meurent de faim, et les derniers, devenus cannibales, tournent en goules.",
+   "en": "The Westerlander Eicher Darien founds New Marienburg on the isthmus of Lustria, eighty miles north of Skeggi. Fearing the independence of the Westerland and Marienburg if the colony prospers, the Empire sinks the ships that supply it. Two thousand settlers starve, and the last of them turn to cannibalism and become ghouls.",
+   "de": "Der Westerländer Eicher Darien gründet auf der Landenge von Lustria, achtzig Meilen nördlich von Skeggi, Neu-Marienburg. Aus Furcht vor der Unabhängigkeit des Westerlands und Marienburgs, sollte die Kolonie gedeihen, versenkt das Imperium die Versorgungsschiffe. Zweitausend Siedler verhungern, die letzten verfallen dem Kannibalismus und werden zu Ghulen."
   },
   "ere": "trois-empereurs",
   "regions": [
@@ -759,9 +772,9 @@
    "de": "Prinz Rodrik von L'Anguille in Lustria"
   },
   "resume": {
-   "fr": "Le duc Tudual de L'Anguille expédie en Lustrie son bâtard Rodrik, qu'il espère ne pas revoir. Après avoir pillé des ruines et tenté un assaut sur l'Île des Amazones, le prince prend Xlanhuapec pour une ruine mal gardée. Son armée tombe dans une embuscade et lui seul s'échappe dans la jungle.",
-   "en": "Duke Tudual of L'Anguille sends his bastard Rodrik to Lustria, hoping never to see him again. After plundering ruins and trying to storm Amazon Island, the prince mistakes Xlanhuapec for a poorly guarded ruin. His army walks into an ambush and he alone escapes into the jungle.",
-   "de": "Herzog Tudual von L'Anguille schickt seinen Bastard Rodrik nach Lustria, in der Hoffnung, ihn nie wiederzusehen. Nach Plünderungen in den Ruinen und einem Angriff auf die Amazoneninsel hält der Prinz Xlanhuapec für eine schlecht bewachte Ruine. Sein Heer gerät in einen Hinterhalt, nur er entkommt in den Dschungel."
+   "fr": "Le duc Tudual de L'Anguille expédie en Lustrie son bâtard Rodrik, qu'il espère ne pas revoir. Après avoir pillé des ruines et tenté un assaut sur l'Île des Amazones, le prince prend Xlanhuapec pour une ruine mal gardée. Son armée tombe dans une embuscade et ses chevaliers périssent en tentant de s'en sortir.",
+   "en": "Duke Tudual of L'Anguille sends his bastard Rodrik to Lustria, hoping never to see him again. After plundering ruins and trying to storm Amazon Island, the prince mistakes Xlanhuapec for a poorly guarded ruin. His army walks into an ambush and his knights die trying to fight their way out.",
+   "de": "Herzog Tudual von L'Anguille schickt seinen Bastard Rodrik nach Lustria, in der Hoffnung, ihn nie wiederzusehen. Nach Plünderungen in den Ruinen und einem Angriff auf die Amazoneninsel hält der Prinz Xlanhuapec für eine schlecht bewachte Ruine. Sein Heer gerät in einen Hinterhalt, und seine Ritter fallen beim Versuch, sich freizukämpfen."
   },
   "ere": "trois-empereurs",
   "regions": [
@@ -777,9 +790,9 @@
   "importance": 2,
   "fiabilite": "divergent",
   "note": {
-   "fr": "White Dwarf 305 mène Rodrik à Xlanhuapec. Le livre des Hommes-lézards (6e édition) dit que l'expédition part de Port des Pillards, que Huatl est pillée et que nul ne la revoit. White Dwarf 205 attribue ce pillage au duc d'Lorrain, version distincte déjà présente à la même date.",
-   "en": "White Dwarf 305 takes Rodrik to Xlanhuapec. The Lizardmen book (6th edition) says the expedition left Port Reaver, Huatl was robbed and no one saw it again. White Dwarf 205 credits that raid to the Duc d'Lorrain, a separate version already listed for the same year.",
-   "de": "White Dwarf 305 führt Rodrik nach Xlanhuapec. Das Echsenmenschen-Buch (6. Edition) sagt, die Expedition sei von Port Reaver aufgebrochen, Huatl sei geplündert worden und niemand habe sie wiedergesehen. White Dwarf 205 schreibt diese Plünderung dem Duc d'Lorrain zu, eine eigene, für dasselbe Jahr schon verzeichnete Fassung."
+   "fr": "White Dwarf 305 mène Rodrik à Xlanhuapec. Le livre des Hommes-lézards (6e édition) dit que l'expédition part de Port des Pillards, que Huatl est pillée et que nul ne la revoit. White Dwarf 205 attribue ce pillage au duc d'Lorrain, version distincte déjà présente à la même date. Seul le jeu Total War: Warhammer II le fait s'échapper dans la jungle, détail écarté.",
+   "en": "White Dwarf 305 takes Rodrik to Xlanhuapec. The Lizardmen book (6th edition) says the expedition left Port Reaver, Huatl was robbed and no one saw it again. White Dwarf 205 credits that raid to the Duc d'Lorrain, a separate version already listed for the same year. Only the game Total War: Warhammer II has him escape into the jungle, so that detail is left out.",
+   "de": "White Dwarf 305 führt Rodrik nach Xlanhuapec. Das Echsenmenschen-Buch (6. Edition) sagt, die Expedition sei von Port Reaver aufgebrochen, Huatl sei geplündert worden und niemand habe sie wiedergesehen. White Dwarf 205 schreibt diese Plünderung dem Duc d'Lorrain zu, eine eigene, für dasselbe Jahr schon verzeichnete Fassung. Nur das Spiel Total War: Warhammer II lässt ihn in den Dschungel entkommen, dieses Detail entfällt daher."
   },
   "sources": [
    {
@@ -860,8 +873,8 @@
    {
     "titre": {
      "fr": "Inheritance, roman de Steven Savile",
-     "en": "Inheritance, roman de Steven Savile",
-     "de": "Inheritance, roman de Steven Savile"
+     "en": "Inheritance, novel by Steven Savile",
+     "de": "Inheritance, Roman von Steven Savile"
     },
     "detail": {
      "fr": "chap. 14",
@@ -918,8 +931,8 @@
    {
     "titre": {
      "fr": "Sword of Caledor, roman de William King",
-     "en": "Sword of Caledor, roman de William King",
-     "de": "Sword of Caledor, roman de William King"
+     "en": "Sword of Caledor, novel by William King",
+     "de": "Sword of Caledor, Roman von William King"
     },
     "detail": {
      "fr": "chap. 1",
@@ -1111,21 +1124,34 @@
   "importance": 2,
   "fiabilite": "divergent",
   "note": {
-   "fr": "2380 CI selon Children of the Horned Rat, 2387 CI dans l'entretien d'Andy Hall cité par le wiki.",
-   "en": "2380 IC according to Children of the Horned Rat, 2387 IC in the Andy Hall interview cited by the wiki.",
-   "de": "2380 IK laut Children of the Horned Rat, 2387 IK im vom Wiki zitierten Interview mit Andy Hall."
+   "fr": "2380 CI selon Children of the Horned Rat et le livre de règles de The Old World, 2387 CI dans l'entretien d'Andy Hall cité par le wiki.",
+   "en": "2380 IC according to Children of the Horned Rat and The Old World rulebook, 2387 IC in the Andy Hall interview cited by the wiki.",
+   "de": "2380 IK laut Children of the Horned Rat und dem Regelbuch von The Old World, 2387 IK im vom Wiki zitierten Interview mit Andy Hall."
   },
   "sources": [
    {
     "titre": {
      "fr": "Children of the Horned Rat, Warhammer Fantasy Roleplay 2e édition",
-     "en": "Children of the Horned Rat, Warhammer Fantasy Roleplay 2e édition",
-     "de": "Children of the Horned Rat, Warhammer Fantasy Roleplay 2e édition"
+     "en": "Children of the Horned Rat, Warhammer Fantasy Roleplay 2nd edition",
+     "de": "Children of the Horned Rat, Warhammer Fantasy Roleplay 2. Edition"
     },
     "detail": {
      "fr": "p. 36",
      "en": "p. 36",
      "de": "S. 36"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Warhammer: The Old World, livre de règles",
+     "en": "Warhammer: The Old World, Rulebook",
+     "de": "Warhammer: The Old World, Regelbuch"
+    },
+    "detail": {
+     "fr": "p. 87",
+     "en": "p. 87",
+     "de": "S. 87"
     },
     "url": ""
    },
@@ -1181,8 +1207,8 @@
    {
     "titre": {
      "fr": "Apocrypha 2: Chart of Darkness, Warhammer Fantasy Roleplay 1re édition",
-     "en": "Apocrypha 2: Chart of Darkness, Warhammer Fantasy Roleplay 1re édition",
-     "de": "Apocrypha 2: Chart of Darkness, Warhammer Fantasy Roleplay 1re édition"
+     "en": "Apocrypha 2: Chart of Darkness, Warhammer Fantasy Roleplay 1st edition",
+     "de": "Apocrypha 2: Chart of Darkness, Warhammer Fantasy Roleplay 1. Edition"
     },
     "detail": {
      "fr": "pp. 18-20",
@@ -1222,9 +1248,9 @@
    "de": "Leopoldheim wird zur Strafkolonie"
   },
   "resume": {
-   "fr": "Dès la deuxième année, maladies, mauvaises récoltes et attaques des Hommes-lézards ruinent la colonie. Pressé par ses créanciers, Leopold commue les peines de mort d'Altdorf et du Reikland en exil vers la Nouvelle Côte, et les bannis affluent en moins d'un an.",
-   "en": "By its second year, disease, failed crops and Lizardmen attacks have ruined the colony. Pressed by his creditors, Leopold commutes the death sentences of Altdorf and the Reikland to exile on the New Coast, and within a year the banished flood in.",
-   "de": "Schon im zweiten Jahr haben Krankheiten, Missernten und Angriffe der Echsenmenschen die Kolonie ruiniert. Von seinen Gläubigern bedrängt, wandelt Leopold die Todesurteile von Altdorf und dem Reikland in Verbannung an die Neue Küste um, und binnen eines Jahres strömen die Verbannten herbei."
+   "fr": "Dès la deuxième année, maladies, mauvaises récoltes et attaques des Hommes-lézards ruinent la colonie. Pressé par ses créanciers, Leopold commue presque toutes les peines de mort d'Altdorf et du Reikland en exil vers la Nouvelle Côte, et les bannis affluent en moins d'un an.",
+   "en": "By its second year, disease, failed crops and Lizardmen attacks have ruined the colony. Pressed by his creditors, Leopold commutes almost all the death sentences of Altdorf and the Reikland to exile on the New Coast, and within a year the banished flood in.",
+   "de": "Schon im zweiten Jahr haben Krankheiten, Missernten und Angriffe der Echsenmenschen die Kolonie ruiniert. Von seinen Gläubigern bedrängt, wandelt Leopold fast alle Todesurteile von Altdorf und dem Reikland in Verbannung an die Neue Küste um, und binnen eines Jahres strömen die Verbannten herbei."
   },
   "ere": "empire-reunifie",
   "regions": [
@@ -1249,8 +1275,8 @@
    {
     "titre": {
      "fr": "Apocrypha 2: Chart of Darkness, Warhammer Fantasy Roleplay 1re édition",
-     "en": "Apocrypha 2: Chart of Darkness, Warhammer Fantasy Roleplay 1re édition",
-     "de": "Apocrypha 2: Chart of Darkness, Warhammer Fantasy Roleplay 1re édition"
+     "en": "Apocrypha 2: Chart of Darkness, Warhammer Fantasy Roleplay 1st edition",
+     "de": "Apocrypha 2: Chart of Darkness, Warhammer Fantasy Roleplay 1. Edition"
     },
     "detail": {
      "fr": "pp. 18-20",
@@ -1305,21 +1331,34 @@
   "importance": 1,
   "fiabilite": "divergent",
   "note": {
-   "fr": "Marienburg: Sold Down the River attribue la découverte aux gens de Marienburg. Le livre de règles de la 3e édition la prête à Losteriksson, à la même date, ce que contredit la fondation de Skeggi en 888 CI.",
-   "en": "Marienburg: Sold Down the River credits the people of Marienburg. The 3rd edition rulebook names Losteriksson for the same date, which clashes with his founding of Skeggi in 888 IC.",
-   "de": "Marienburg: Sold Down the River schreibt die Entdeckung den Marienburgern zu. Das Regelbuch der 3. Edition nennt für dasselbe Datum Losteriksson, was seiner Gründung von Skeggi 888 IK widerspricht."
+   "fr": "Marienburg: Sold Down the River attribue la découverte aux gens de Marienburg. Le livre de règles de la 3e édition la prête à Losteriksson, à la même date, ce que contredit la fondation de Skeggi en 888 CI. Apocrypha 2: Chart of Darkness fait par ailleurs fonder Leopoldheim sur cette côte dès 2395 CI.",
+   "en": "Marienburg: Sold Down the River credits the people of Marienburg. The 3rd edition rulebook names Losteriksson for the same date, which clashes with his founding of Skeggi in 888 IC. Apocrypha 2: Chart of Darkness also has Leopoldheim founded on this coast as early as 2395 IC.",
+   "de": "Marienburg: Sold Down the River schreibt die Entdeckung den Marienburgern zu. Das Regelbuch der 3. Edition nennt für dasselbe Datum Losteriksson, was seiner Gründung von Skeggi 888 IK widerspricht. Apocrypha 2: Chart of Darkness lässt Leopoldheim zudem schon 2395 IK an dieser Küste gründen."
   },
   "sources": [
    {
     "titre": {
      "fr": "Marienburg: Sold Down the River, Warhammer Fantasy Roleplay 1re édition",
-     "en": "Marienburg: Sold Down the River, Warhammer Fantasy Roleplay 1re édition",
-     "de": "Marienburg: Sold Down the River, Warhammer Fantasy Roleplay 1re édition"
+     "en": "Marienburg: Sold Down the River, Warhammer Fantasy Roleplay 1st edition",
+     "de": "Marienburg: Sold Down the River, Warhammer Fantasy Roleplay 1. Edition"
     },
     "detail": {
      "fr": "p. 21",
      "en": "p. 21",
      "de": "S. 21"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Warhammer Fantasy Battle: livre de règles, 3e édition",
+     "en": "Warhammer Fantasy Battle: Rulebook, 3rd edition",
+     "de": "Warhammer Fantasy Battle: Regelbuch, 3. Edition"
+    },
+    "detail": {
+     "fr": "p. 194",
+     "en": "p. 194",
+     "de": "S. 194"
     },
     "url": ""
    },
@@ -1397,6 +1436,19 @@
    },
    {
     "titre": {
+     "fr": "Warhammer Armies: Dark Elves, 8e édition",
+     "en": "Warhammer Armies: Dark Elves, 8th edition",
+     "de": "Warhammer Armies: Dark Elves, 8. Edition"
+    },
+    "detail": {
+     "fr": "p. 58",
+     "en": "p. 58",
+     "de": "S. 58"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
      "fr": "Wiki Warhammer Fantasy (fandom), page Dark Convent",
      "en": "Warhammer Fantasy Wiki (fandom), Dark Convent page",
      "de": "Warhammer Fantasy Wiki (fandom), Seite Dark Convent"
@@ -1439,8 +1491,8 @@
    {
     "titre": {
      "fr": "Marienburg: Sold Down the River, Warhammer Fantasy Roleplay 1re édition",
-     "en": "Marienburg: Sold Down the River, Warhammer Fantasy Roleplay 1re édition",
-     "de": "Marienburg: Sold Down the River, Warhammer Fantasy Roleplay 1re édition"
+     "en": "Marienburg: Sold Down the River, Warhammer Fantasy Roleplay 1st edition",
+     "de": "Marienburg: Sold Down the River, Warhammer Fantasy Roleplay 1. Edition"
     },
     "detail": {
      "fr": "p. 21",
@@ -1490,8 +1542,8 @@
    {
     "titre": {
      "fr": "Marienburg: Sold Down the River, Warhammer Fantasy Roleplay 1re édition",
-     "en": "Marienburg: Sold Down the River, Warhammer Fantasy Roleplay 1re édition",
-     "de": "Marienburg: Sold Down the River, Warhammer Fantasy Roleplay 1re édition"
+     "en": "Marienburg: Sold Down the River, Warhammer Fantasy Roleplay 1st edition",
+     "de": "Marienburg: Sold Down the River, Warhammer Fantasy Roleplay 1. Edition"
     },
     "detail": {
      "fr": "p. 21",
@@ -1517,60 +1569,6 @@
     },
     "detail": "",
     "url": "https://warhammerfantasy.fandom.com/wiki/Southlands"
-   }
-  ]
- },
- {
-  "id": "zhao-ming-et-greasus-a-ashshair",
-  "annee": 2480,
-  "fin": 2489,
-  "approx": true,
-  "titre": {
-   "fr": "L'accord d'Ashshair",
-   "en": "The Ashshair agreement",
-   "de": "Die Vereinbarung von Ashshair"
-  },
-  "resume": {
-   "fr": "À la tour d'Ashshair, le Dragon de Fer Zhao Ming reçoit Greasus Dent-d'Or au nom de l'Empereur Dragon. Une plaisanterie de l'Ogre sur leurs pères respectifs noue le dialogue. Les caravanes cathayanes obtiennent le libre passage sur la route de l'Ivoire contre un tribut.",
-   "en": "At the Tower of Ashshair the Iron Dragon Zhao Ming meets Greasus Goldtooth on the Dragon Emperor's behalf. The Ogre's joke about their fathers breaks the ice. Cathayan caravans gain safe passage on the Ivory Road in return for tribute.",
-   "de": "Im Turm von Ashshair empfängt der Eisendrache Zhao Ming im Namen des Drachenkaisers Greasus Goldzahn. Ein Scherz des Ogers über ihre Väter bricht das Eis. Cathayanische Karawanen erhalten gegen Tribut freies Geleit auf der Elfenbeinstraße."
-  },
-  "ere": "empire-reunifie",
-  "regions": [
-   "orient"
-  ],
-  "lieux": [
-   "cathay"
-  ],
-  "factions": [
-   "humains-autres",
-   "ogres"
-  ],
-  "importance": 2,
-  "fiabilite": "incertain",
-  "note": {
-   "fr": "La source dit seulement « dans les années 2480 ».",
-   "en": "The source only says \"in the 2480s\".",
-   "de": "Die Quelle sagt nur „in den 2480er Jahren“."
-  },
-  "sources": [
-   {
-    "titre": {
-     "fr": "Wiki Warhammer Fantasy (fandom), page Tower of Ashshair",
-     "en": "Warhammer Fantasy Wiki (fandom), Tower of Ashshair page",
-     "de": "Warhammer Fantasy Wiki (fandom), Seite Tower of Ashshair"
-    },
-    "detail": "",
-    "url": "https://warhammerfantasy.fandom.com/wiki/Tower_of_Ashshair"
-   },
-   {
-    "titre": {
-     "fr": "Wiki Warhammer Fantasy (fandom), page Zhao Ming",
-     "en": "Warhammer Fantasy Wiki (fandom), Zhao Ming page",
-     "de": "Warhammer Fantasy Wiki (fandom), Seite Zhao Ming"
-    },
-    "detail": "",
-    "url": "https://warhammerfantasy.fandom.com/wiki/Zhao_Ming"
    }
   ]
  },
@@ -1605,8 +1603,8 @@
    {
     "titre": {
      "fr": "Warhammer Fantasy Roleplay 4e édition, Starter Set: Adventure Book",
-     "en": "Warhammer Fantasy Roleplay 4e édition, Starter Set: Adventure Book",
-     "de": "Warhammer Fantasy Roleplay 4e édition, Starter Set: Adventure Book"
+     "en": "Warhammer Fantasy Roleplay 4th edition, Starter Set: Adventure Book",
+     "de": "Warhammer Fantasy Roleplay 4. Edition, Starter Set: Adventure Book"
     },
     "detail": {
      "fr": "p. 35",
@@ -1851,7 +1849,7 @@
   },
   "ere": "empire-reunifie",
   "regions": [
-   "lustrie"
+   "bretonnie"
   ],
   "lieux": [
    "albion",

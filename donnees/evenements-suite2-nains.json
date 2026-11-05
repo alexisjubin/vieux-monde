@@ -75,7 +75,11 @@
   ],
   "importance": 1,
   "fiabilite": "incertain",
-  "note": "",
+  "note": {
+   "fr": "L'intervalle est celui de la guerre contre les Elfes, la source ne date pas la rupture plus précisément.",
+   "en": "The range is that of the war against the Elves, the source gives no closer date for the break.",
+   "de": "Die Spanne entspricht dem Krieg gegen die Elfen, die Quelle datiert den Bruch nicht genauer."
+  },
   "sources": [
    {
     "titre": {
@@ -152,6 +156,19 @@
      "fr": "p. 17",
      "en": "p. 17",
      "de": "S. 17"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Archives of the Empire Vol. 1, Warhammer Fantasy Roleplay 4e édition",
+     "en": "Archives of the Empire Vol. 1, Warhammer Fantasy Roleplay 4th edition",
+     "de": "Archives of the Empire Vol. 1, Warhammer Fantasy Roleplay 4. Edition"
+    },
+    "detail": {
+     "fr": "p. 58-61",
+     "en": "pp. 58-61",
+     "de": "S. 58-61"
     },
     "url": ""
    },
@@ -298,7 +315,9 @@
   "regions": [
    "bretonnie"
   ],
-  "lieux": [],
+  "lieux": [
+   "anguille"
+  ],
   "factions": [
    "nains",
    "hauts-elfes"
@@ -306,9 +325,9 @@
   "importance": 2,
   "fiabilite": "divergent",
   "note": {
-   "fr": "Les livres d'armée donnent -1560 CI. La trilogie The War of Vengeance, citée à la page Morgrim Ironbeard, place ce siège en 3003 KA, soit -1600 CI.",
-   "en": "The army books give -1560 IC. The War of Vengeance trilogy, cited on the Morgrim Ironbeard page, sets this siege in 3003 KA, or -1600 IC.",
-   "de": "Die Armeebücher nennen -1560 IC. Die Trilogie The War of Vengeance, zitiert auf der Seite Morgrim Ironbeard, setzt die Belagerung auf 3003 KA, also -1600 IC."
+   "fr": "Les livres d'armée donnent -1560 CI. La page Morgrim Ironbeard, d'après la trilogie The War of Vengeance, place ce siège en 3003 KA et écrit -1600 CI, alors que son propre décalage (2526 KA pour -1997 CI) donne -1520 CI.",
+   "en": "The army books give -1560 IC. The Morgrim Ironbeard page, following The War of Vengeance trilogy, sets this siege in 3003 KA and writes -1600 IC, while its own offset (2526 KA for -1997 IC) gives -1520 IC.",
+   "de": "Die Armeebücher nennen -1560 IC. Die Seite Morgrim Ironbeard setzt die Belagerung nach der Trilogie The War of Vengeance auf 3003 KA und schreibt -1600 IC, ihr eigener Versatz (2526 KA für -1997 IC) ergibt jedoch -1520 IC."
   },
   "sources": [
    {
@@ -331,9 +350,9 @@
      "de": "Warhammer Armies: Dwarfs, 6. Edition"
     },
     "detail": {
-     "fr": "p. 58",
-     "en": "p. 58",
-     "de": "S. 58"
+     "fr": "p. 58, 70-71",
+     "en": "pp. 58, 70-71",
+     "de": "S. 58, 70-71"
     },
     "url": ""
    },
@@ -344,9 +363,9 @@
      "de": "Warhammer Armies: Dwarfs, 7. Edition"
     },
     "detail": {
-     "fr": "p. 16",
-     "en": "p. 16",
-     "de": "S. 16"
+     "fr": "p. 10, 16",
+     "en": "pp. 10, 16",
+     "de": "S. 10, 16"
     },
     "url": ""
    },
@@ -357,9 +376,9 @@
      "de": "Warhammer Armies: Dwarfs, 8. Edition"
     },
     "detail": {
-     "fr": "p. 20",
-     "en": "p. 20",
-     "de": "S. 20"
+     "fr": "p. 10, 20",
+     "en": "pp. 10, 20",
+     "de": "S. 10, 20"
     },
     "url": ""
    },
@@ -373,6 +392,19 @@
      "fr": "p. 106",
      "en": "p. 106",
      "de": "S. 106"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "The War of Vengeance: The Curse of the Phoenix Crown (C. L. Werner)",
+     "en": "The War of Vengeance: The Curse of the Phoenix Crown (C. L. Werner)",
+     "de": "The War of Vengeance: The Curse of the Phoenix Crown (C. L. Werner)"
+    },
+    "detail": {
+     "fr": "chap. 13",
+     "en": "ch. 13",
+     "de": "Kap. 13"
     },
     "url": ""
    },
@@ -551,9 +583,9 @@
   "fin": null,
   "approx": true,
   "titre": {
-   "fr": "Nurn Brise-Bouclier croise les premiers Umgi",
-   "en": "Nurn Shieldbreaker meets the first Umgi",
-   "de": "Nurn Schildbrecher trifft die ersten Umgi"
+   "fr": "Nurn Brise-Bouclier donne leur nom aux Umgi",
+   "en": "Nurn Shieldbreaker gives the Umgi their name",
+   "de": "Nurn Schildbrecher gibt den Umgi ihren Namen"
   },
   "resume": {
    "fr": "En chassant les peaux-vertes sur les piémonts, le Haut Roi Nurn surprend une tribu humaine qui s'enfuit à son approche, ce qu'il prend pour une offense. Il note dans son livre des rancunes le mot Umgal, gens aux ouvrages médiocres, d'où vient le nom nain des Hommes.",
@@ -601,7 +633,7 @@
   "id": "kadrin-sauve-le-haut-roi-a-gunbad",
   "annee": -1245,
   "fin": null,
-  "approx": true,
+  "approx": false,
   "titre": {
    "fr": "Kadrin Crinière Rouge sauve le Haut Roi à Gunbad",
    "en": "Kadrin Redmane saves the High King at Gunbad",
@@ -641,6 +673,19 @@
      "fr": "p. 19",
      "en": "p. 19",
      "de": "S. 19"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
+     "fr": "Warhammer Armies: Dwarfs, 6e édition",
+     "en": "Warhammer Armies: Dwarfs, 6th edition",
+     "de": "Warhammer Armies: Dwarfs, 6. Edition"
+    },
+    "detail": {
+     "fr": "p. 12",
+     "en": "p. 12",
+     "de": "S. 12"
     },
     "url": ""
    },
@@ -788,9 +833,9 @@
    "de": "Die Zwerge brechen mit Mourkain"
   },
   "resume": {
-   "fr": "Sous le règne de Kadon, influencé par la Couronne de Sorcellerie, les Nains de Karaz Bryn, le futur Pic d'argent, cessent de commercer avec Mourkain et lui déclarent la guerre.",
-   "en": "During the reign of Kadon, swayed by the Crown of Sorcery, the Dwarfs of Karaz Bryn, later the Silver Pinnacle, end their trade with Mourkain and declare war on it.",
-   "de": "Unter der Herrschaft Kadons, der im Bann der Krone der Zauberei steht, beenden die Zwerge von Karaz Bryn, dem späteren Silbernen Gipfel, den Handel mit Mourkain und erklären ihm den Krieg."
+   "fr": "Sous le règne de Kadon, influencé par la Couronne de Sorcellerie, les Nains de Karaz Bryn, le Pic d'argent des humains, cessent de commercer avec Mourkain et lui déclarent la guerre.",
+   "en": "During the reign of Kadon, swayed by the Crown of Sorcery, the Dwarfs of Karaz Bryn, the Silver Pinnacle of Men, end their trade with Mourkain and declare war on it.",
+   "de": "Unter der Herrschaft Kadons, der im Bann der Krone der Zauberei steht, beenden die Zwerge von Karaz Bryn, dem Silbernen Gipfel der Menschen, den Handel mit Mourkain und erklären ihm den Krieg."
   },
   "ere": "age-des-tribus",
   "regions": [
@@ -898,9 +943,9 @@
    "de": "Wazzakaz belagert den Silbernen Gipfel"
   },
   "resume": {
-   "fr": "Le chaman orque Wazzakaz met le siège devant le Pic d'argent pour plus de trente ans. Vers -550 CI, Razek et Neferata conviennent en secret de joindre leurs forces contre sa Waaagh!.",
-   "en": "The Orc shaman Wazzakaz lays siege to the Silver Pinnacle for over thirty years. Around -550 IC, Razek and Neferata secretly agree to join forces against his Waaagh!.",
-   "de": "Der Orkschamane Wazzakaz belagert den Silbernen Gipfel über dreißig Jahre lang. Um -550 IC vereinbaren Razek und Neferata heimlich ein Bündnis gegen seine Waaagh!."
+   "fr": "Le chaman orque Wazzakaz met le siège devant le Pic d'argent pour plus de trente ans. Vers -550 CI, Razek et Neferata se retrouvent dans un poste de guet caché et conviennent de joindre leurs forces contre sa Waaagh!.",
+   "en": "The Orc shaman Wazzakaz lays siege to the Silver Pinnacle for over thirty years. Around -550 IC, Razek and Neferata meet at a hidden watch-post and agree to join forces against his Waaagh!.",
+   "de": "Der Orkschamane Wazzakaz belagert den Silbernen Gipfel über dreißig Jahre lang. Um -550 IC treffen sich Razek und Neferata in einem versteckten Wachposten und vereinbaren ein Bündnis gegen seine Waaagh!."
   },
   "ere": "age-des-tribus",
   "regions": [
@@ -1030,7 +1075,7 @@
    "de": "Zwerge siedeln sich in Marienburg an"
   },
   "resume": {
-   "fr": "La plupart des ancêtres des Nains de Marienburg arrivent peu après l'annexion de la ville par l'empereur Sigismund II.",
+   "fr": "La plupart des ancêtres des Nains de Marienburg arrivent peu après l'annexion du Westerland par l'empereur Sigismund II.",
    "en": "Most ancestors of Marienburg's Dwarfs arrive soon after Emperor Sigismund II annexes the Wasteland.",
    "de": "Die meisten Vorfahren der Zwerge von Marienburg kommen kurz nach der Annexion des Westerlands durch Kaiser Sigismund II."
   },
@@ -1047,7 +1092,11 @@
   ],
   "importance": 1,
   "fiabilite": "incertain",
-  "note": "",
+  "note": {
+   "fr": "L'année est celle de l'annexion, la source dit seulement que l'installation suit peu après.",
+   "en": "The year is that of the annexation, the source only says the settlement followed soon after.",
+   "de": "Das Jahr ist das der Annexion, die Quelle sagt nur, dass die Ansiedlung bald danach folgte."
+  },
   "sources": [
    {
     "titre": {
@@ -1297,9 +1346,9 @@
    "de": "Der König von Karak Sadra fällt bei Grunberg"
   },
   "resume": {
-   "fr": "Le throng de Karak Sadra défend la ville impériale de Grunberg contre les morts-vivants d'un acolyte de Vlad von Carstein. Le vieux roi Kellus y meurt et son fils Kallad ramène les rescapés. En 2055 CI, Kallad refuse la couronne et part traquer les von Carstein pendant un siècle.",
-   "en": "The throng of Karak Sadra defends the Imperial town of Grunberg against the undead of an acolyte of Vlad von Carstein. Old King Kellus dies there and his son Kallad brings the survivors home. In 2055 IC Kallad refuses the crown and spends a century hunting the von Carsteins.",
-   "de": "Das Heer von Karak Sadra verteidigt die kaiserliche Stadt Grunberg gegen die Untoten eines Gefolgsmanns von Vlad von Carstein. Der alte König Kellus fällt, sein Sohn Kallad führt die Überlebenden heim. 2055 IC lehnt Kallad die Krone ab und jagt ein Jahrhundert lang die von Carsteins."
+   "fr": "Le throng de Karak Sadra défend la ville impériale de Grunberg contre les morts-vivants d'un acolyte de Vlad von Carstein. Le vieux roi Kellus y meurt et son fils Kallad mène les survivants, uniquement des femmes et des enfants humains, à Karak Sadra. Un vampire semble les avoir poursuivis et avoir détruit la forteresse. En 2055 CI, se croyant le dernier de son foyer, Kallad refuse la couronne et combat Konrad et Mannfred von Carstein pendant un siècle.",
+   "en": "The throng of Karak Sadra defends the Imperial town of Grunberg against the undead of an acolyte of Vlad von Carstein. Old King Kellus dies there and his son Kallad leads the survivors, only human women and children, to Karak Sadra. A vampire seems to have pursued them and destroyed the hold. In 2055 IC, believing himself the last of his home, Kallad refuses the crown and spends a century fighting Konrad and Mannfred von Carstein.",
+   "de": "Das Heer von Karak Sadra verteidigt die kaiserliche Stadt Grunberg gegen die Untoten eines Gefolgsmanns von Vlad von Carstein. Der alte König Kellus fällt, sein Sohn Kallad führt die Überlebenden, nur menschliche Frauen und Kinder, nach Karak Sadra. Ein Vampir scheint sie verfolgt und die Festung zerstört zu haben. 2055 IC glaubt sich Kallad der Letzte seiner Heimat, lehnt die Krone ab und bekämpft ein Jahrhundert lang Konrad und Mannfred von Carstein."
   },
   "ere": "trois-empereurs",
   "regions": [
@@ -1383,9 +1432,9 @@
   "fin": null,
   "approx": false,
   "titre": {
-   "fr": "Burlok Damminsson reprend Khazid Vosk",
-   "en": "Burlok Damminsson retakes Khazid Vosk",
-   "de": "Burlok Damminsson erobert Khazid Vosk zurück"
+   "fr": "Burlok Damminson reprend Khazid Vosk",
+   "en": "Burlok Damminson retakes Khazid Vosk",
+   "de": "Burlok Damminson erobert Khazid Vosk zurück"
   },
   "resume": {
    "fr": "L'ingénieur de Zhufbar chasse les Orques des niveaux supérieurs de cette ancienne forteresse de la Guilde des Ingénieurs, perdue au Temps du Malheur. Elle abriterait encore des plans de machines oubliés.",
@@ -1407,9 +1456,9 @@
   "sources": [
    {
     "titre": {
-     "fr": "Warhammer: The Old World, Arcane Journal: Dwarfen Mountains",
-     "en": "Warhammer: The Old World, Arcane Journal: Dwarfen Mountains",
-     "de": "Warhammer: The Old World, Arcane Journal: Dwarfen Mountains"
+     "fr": "Warhammer: The Old World, Arcane Journal: Dwarfen Mountain Holds",
+     "en": "Warhammer: The Old World, Arcane Journal: Dwarfen Mountain Holds",
+     "de": "Warhammer: The Old World, Arcane Journal: Dwarfen Mountain Holds"
     },
     "detail": "",
     "url": ""
@@ -1586,7 +1635,7 @@
   "id": "zaladrin-rebatit-ubersreik",
   "annee": 2302,
   "fin": 2304,
-  "approx": true,
+  "approx": false,
   "titre": {
    "fr": "Zaladrin envoie ses artisans à Ubersreik",
    "en": "Zaladrin sends his craftsmen to Ubersreik",
@@ -1776,6 +1825,19 @@
   "sources": [
    {
     "titre": {
+     "fr": "Marienburg: Sold Down the River, Warhammer Fantasy Roleplay, 1e édition",
+     "en": "Marienburg: Sold Down the River, Warhammer Fantasy Roleplay, 1st edition",
+     "de": "Marienburg: Sold Down the River, Warhammer Fantasy Roleplay, 1. Edition"
+    },
+    "detail": {
+     "fr": "p. 32",
+     "en": "p. 32",
+     "de": "S. 32"
+    },
+    "url": ""
+   },
+   {
+    "titre": {
      "fr": "Wiki Warhammer Fantasy (fandom), page Arkat Fooger",
      "en": "Warhammer Fantasy Wiki (fandom), Arkat Fooger page",
      "de": "Warhammer Fantasy Wiki (fandom), Seite Arkat Fooger"
@@ -1796,7 +1858,7 @@
    "de": "Brokk Eisenpickel heiratet Thurma"
   },
   "resume": {
-   "fr": "Le roi de Karak Norn épouse Thurma, du clan Grintzagaz, lointaine parente d'Ullek Barbe-Rouge. Il tient depuis ses avis en haute estime.",
+   "fr": "Le roi de Karak Norn épouse Thurma, du clan Grintzagaz, lointaine parente d'Ullek Barbe-Rouge. Il accorde depuis de plus en plus de valeur à ses avis.",
    "en": "The king of Karak Norn marries Thurma of the Grintzagaz clan, distantly related to Ullek Redbeard. He comes to value her counsel ever more.",
    "de": "Der König von Karak Norn heiratet Thurma vom Clan Grintzagaz, entfernt verwandt mit Ullek Rotbart. Ihr Rat wird ihm immer wertvoller."
   },
@@ -1900,7 +1962,7 @@
    "de": "Die Tournee des Bergmannschors von Zhufbar"
   },
   "resume": {
-   "fr": "Pour marquer 2500 ans de coopération entre Hommes et Nains, le célèbre chœur des mineurs de Zhufbar entame une tournée en Reikland, restée tristement fameuse et bien vite oubliée.",
+   "fr": "Pour marquer 2500 ans de coopération entre Hommes et Nains, le célèbre chœur des mineurs de Zhufbar entame une tournée en Reikland, restée tristement fameuse et sagement oubliée.",
    "en": "To mark 2,500 years of cooperation between Men and Dwarfs, the renowned Zhufbar Miners' Close Harmony Choir begins an infamous and wisely forgotten tour of the Reikland.",
    "de": "Zum Gedenken an 2500 Jahre Zusammenarbeit von Menschen und Zwergen beginnt der berühmte Bergmannschor von Zhufbar eine berüchtigte, klugerweise vergessene Tournee durch das Reikland."
   },
